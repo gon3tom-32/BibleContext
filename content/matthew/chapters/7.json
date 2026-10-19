@@ -1,0 +1,62 @@
+{
+  "number": 7,
+  "sceneHappening": "The sermon ends: two roads and two houses",
+  "summary": "Jesus warns against judging others: take the log out of your own eye before removing the speck from someone else's. Don't throw what is holy to dogs or pearls to pigs. Ask, seek, and knock, because a Father who gives good gifts will answer, and treat others as you want to be treated, for this sums up the law and the prophets. The gate to life is narrow and few find it. False prophets will be known by their fruit. Not everyone who says \"Lord, Lord\" will enter the kingdom, but those who do the Father's will. The sermon ends with two builders: one built on rock, one on sand, and when the storm came only one house stood. The crowds are amazed, because he taught as one with authority, not like their scribes.",
+  "whySettingMatters": "Scribes usually taught by quoting earlier teachers; Jesus speaks in his own name, which is why the crowds notice his authority. In Galilee, dry stream beds could flood suddenly in the winter rains, so building on sand by a wadi was a real danger. Dogs and pigs were unclean scavengers in Jewish thought. Bread and fish were everyday food around the lake, which makes the stone and snake in 7:9-10 a vivid picture of a cruel trick.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Ends with a call to act, and speaks with an authority that surprises the crowds."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Amazed at his teaching (7:28-29)."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "The scribes are the contrast: they teach by quoting others."
+    }
+  ],
+  "questions": [
+    "Jesus warns against judging but also says to watch for false prophets by their fruit. How do those fit together?",
+    "Why might Jesus picture God as a father giving good gifts right before the Golden Rule?",
+    "Both builders heard the same words. What made the difference?",
+    "The crowds noticed that Jesus taught \"with authority.\" What do you think they heard that was different?"
+  ],
+  "words": [
+    {
+      "id": "hypokrites",
+      "note": "\"You hypocrite, first take the log out of your own eye\" (7:5)."
+    },
+    {
+      "id": "exousia",
+      "note": "He taught \"as one who had authority\" (7:29)."
+    },
+    {
+      "id": "basileia",
+      "note": "Not everyone who says \"Lord, Lord\" will enter the kingdom (7:21)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor as yourself, behind the Golden Rule"
+    },
+    {
+      "ref": "Jeremiah 29:12-13",
+      "note": "seek me with all your heart and you will find me"
+    },
+    {
+      "ref": "Proverbs 16:25",
+      "note": "a way that seems right but ends in death"
+    },
+    {
+      "ref": "Proverbs 10:8",
+      "note": "the wise accept instruction; the fool comes to ruin"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

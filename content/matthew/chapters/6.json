@@ -1,0 +1,66 @@
+{
+  "number": 6,
+  "sceneHappening": "The sermon continues: prayer, money, and worry",
+  "summary": "Jesus warns against practicing righteousness to be seen by others. Giving, prayer, and fasting should be done in secret, not like the hypocrites who want an audience, because \"your Father who sees in secret will reward you.\" He teaches a short prayer: hallowed be your name, your kingdom come, give us today our daily bread, forgive us as we forgive, lead us not into temptation. Don't store up treasure on earth, where moths and rust destroy and thieves break in, but in heaven, \"for where your treasure is, there your heart will be also.\" No one can serve both God and money. So don't worry about food or clothes: look at the birds and the wildflowers, more splendid than Solomon. Seek first God's kingdom and righteousness, and leave tomorrow's worries for tomorrow.",
+  "whySettingMatters": "Giving to the poor, prayer, and fasting were the three main practices of Jewish devotion. \"Hypocrite\" was the Greek word for a stage actor wearing a mask. Wealth was often kept as cloth, grain, or coins, which moths, pests, and thieves could reach; thieves could literally dig through a mud-brick wall. Many listeners were farmers and day laborers paid by the day, so \"daily bread\" was a real request.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches his followers to pray to God as Father."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Taught a prayer, and told not to worry."
+    },
+    {
+      "id": "solomon",
+      "note": "Israel's richest king, outdone by the wildflowers (6:29)."
+    }
+  ],
+  "questions": [
+    "Why might doing good things in secret matter so much to Jesus?",
+    "Look at the order of the prayer: God's name, kingdom, and will come before our needs. What does that teach?",
+    "\"Where your treasure is, there your heart will be also.\" Does the heart follow the treasure, or the other way around?",
+    "For someone paid by the day, what would \"don't worry about tomorrow\" have meant? What would it look like for us?"
+  ],
+  "words": [
+    {
+      "id": "hypokrites",
+      "note": "The \"actors\" who give, pray, and fast for an audience (6:2, 6:5, 6:16)."
+    },
+    {
+      "id": "mamonas",
+      "note": "\"You cannot serve God and money\" (6:24)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"Your kingdom come\" and \"seek first his kingdom\" (6:10, 6:33)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "Practicing righteousness to be seen, and seeking God's righteousness (6:1, 6:33)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 58:5-7",
+      "note": "the kind of fasting God wants"
+    },
+    {
+      "ref": "1 Kings 10:4-7",
+      "note": "Solomon's splendor"
+    },
+    {
+      "ref": "Psalm 147:9",
+      "note": "God feeds the young ravens"
+    },
+    {
+      "ref": "Proverbs 23:4-5",
+      "note": "riches fly away like an eagle"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

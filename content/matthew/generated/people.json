@@ -836,6 +836,99 @@
         "item": "mary_1943",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "solomon",
+      "name": "Solomon",
+      "alsoCalled": "Jedidiah",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "David"
+        },
+        "mother": {
+          "name": "Bathsheba"
+        },
+        "spouses": [
+          {
+            "name": "Naamah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Basmath"
+          },
+          {
+            "name": "Rehoboam"
+          },
+          {
+            "name": "Taphath"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Japhia"
+          },
+          {
+            "name": "Jerimoth"
+          },
+          {
+            "name": "Eliada"
+          },
+          {
+            "name": "Eliphalet"
+          },
+          {
+            "name": "Elpalet"
+          },
+          {
+            "name": "Elishama"
+          },
+          {
+            "name": "Elishua"
+          },
+          {
+            "name": "Ibhar"
+          },
+          {
+            "name": "Nathan"
+          },
+          {
+            "name": "Nepheg"
+          },
+          {
+            "name": "Nogah"
+          },
+          {
+            "name": "Shammua"
+          },
+          {
+            "name": "Shobab"
+          },
+          {
+            "name": "Tamar"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        6,
+        12
+      ],
+      "verses": [
+        "Matthew 1:6",
+        "Matthew 1:7",
+        "Matthew 6:29",
+        "Matthew 12:42"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "solomon_2762",
+        "recordStatus": "publish"
+      }
     }
   ]
 }
