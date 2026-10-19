@@ -33,6 +33,10 @@ Everything else in `content/ruth/` is hand-written and carries `"review": { "sta
 
 They were read from STEPBible's tagged Hebrew text at a verse where each word appears, not from memory (the verse is in `foundAt` in the config). Note that STEPBible files *go'el* under the verb *ga'al* (H1350A), since *go'el* is its participle, and splits *chayil* into senses H2428G/H/I.
 
+## The map
+
+The journey map is projected from `generated/places.json` (Dead Sea outline, Jordan course, Moab's confidence bands, town points). The route and stop 3's position are hand-picked in `map.json` (`real.route`, `real.stops`) because Ruth doesn't say which road was taken; the page says so.
+
 ## Things to know
 
 - **Blocked sources:** the HelloAO Free Use Bible API and openbible.info weren't reachable from the build environment, so the WEB text comes from github.com/TehShrike/world-english-bible and the cross-reference file from github.com/scrollmapper/bible_databases (a copy of OpenBible's file dated 2024-11-04).

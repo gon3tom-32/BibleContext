@@ -24,6 +24,16 @@
       "id": "jordan",
       "ancientId": "ae686c9",
       "mapOnly": true
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a",
+      "mapOnly": true
+    },
+    {
+      "id": "jericho",
+      "ancientId": "a231f80",
+      "mapOnly": true
     }
   ],
   "people": [

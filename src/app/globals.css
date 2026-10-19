@@ -387,3 +387,15 @@ textarea { resize: vertical; }
   display: flex; flex-direction: column; gap: 6px; font-size: 13px; color: var(--muted);
 }
 .card-head a.source-name { font-size: inherit; color: var(--ink); text-decoration-color: var(--gold-ring); }
+
+.legend-swatch { display: inline-block; width: 28px; height: 14px; border-radius: 3px; background: color-mix(in srgb, var(--green) 16%, var(--map-land)); }
+.stop-detail p.stop-note { font-size: 13px; color: var(--on-dark-muted); font-style: italic; }
+
+/* The map scales down on phones; keep its labels readable. */
+@media (max-width: 640px) {
+  .map-svg .lbl-stop { font-size: 24px; }
+  .map-svg .lbl-minor { font-size: 21px; }
+  .map-svg .stop-dot { r: 22px; }
+  .map-svg .stop-ring { r: 28px; }
+  .map-svg .stop-num-text { font-size: 22px; transform: translateY(2px); transform-box: fill-box; }
+}

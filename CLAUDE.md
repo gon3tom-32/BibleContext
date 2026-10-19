@@ -5,7 +5,7 @@
 - **Stack:** Next.js 16 (App Router) + TypeScript, built as a fully static site (`output: "export"`). Plain CSS with design tokens in `src/app/globals.css`. Fonts via `next/font` (Fraunces, Inter).
 - **Content:** JSON in `content/<slug>/` — `book.json`, `people.json`, `places.json`, `words.json`, `map.json`, `timeline.json`, `chapters/<n>.json`. Pages are generated for every book folder and every chapter up to `chapterCount`; a missing chapter file shows a "not written yet" page.
 - **Scripture text:** not bundled. References link out to the World English Bible (public domain) on BibleGateway via `scriptureUrl()`.
-- **Maps:** schematic SVG per book, drawn from `map.json` (water, rivers, routes, stops with coordinates).
+- **Maps:** drawn from real coordinates at build time (`buildRealMap` in `src/lib/content.ts`): outlines and points from `generated/places.json`, projected into an SVG. `map.json`'s `real` section sets the map bounds, the route (hand-picked, marked needs-review because the text doesn't name it), stop positions, and label tweaks. Without a `real` section, the hand-drawn schematic in `map.json` is used.
 - **Notes:** `src/lib/notes.ts` uses localStorage. Phase 2 replaces its internals with Supabase (`supabase/migrations/`), keeping the same functions.
 - **Not a test:** the design's "Start the context check" button became "See the map and timeline".
 - **Word studies:** `/ruth/words` lists every word; `/ruth/words/<id>` shows the Hebrew, pronunciation, meaning, range of meaning, uses chapter by chapter (pulled from each chapter's `words` notes), every verse in the book, other places it's used, and common English renderings. `uncertain` adds a "Debated" note.

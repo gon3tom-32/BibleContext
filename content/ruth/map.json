@@ -92,5 +92,101 @@
   "review": {
     "status": "needs-review",
     "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  },
+  "real": {
+    "bounds": {
+      "west": 34.86,
+      "east": 36.02,
+      "south": 31.05,
+      "north": 31.97
+    },
+    "label": "Map of the region around the Dead Sea, drawn from real coordinates. Bethlehem lies west of the Dead Sea and Moab east of it. A dashed line shows one likely route between them, crossing the Jordan near Jericho.",
+    "route": {
+      "label": "One likely route (the text doesn't say)",
+      "note": "Ruth never names the road. This follows a commonly suggested route: down to the Jordan fords near Jericho, then along the Moabite plateau.",
+      "points": [
+        [
+          35.2076,
+          31.7043
+        ],
+        [
+          35.3,
+          31.79
+        ],
+        [
+          35.4446,
+          31.8717
+        ],
+        [
+          35.55,
+          31.84
+        ],
+        [
+          35.68,
+          31.8
+        ],
+        [
+          35.79,
+          31.7
+        ],
+        [
+          35.78,
+          31.5
+        ],
+        [
+          35.74,
+          31.33
+        ],
+        [
+          35.7014,
+          31.1806
+        ]
+      ]
+    },
+    "stops": [
+      {
+        "order": 1,
+        "at": "bethlehem",
+        "label": "Bethlehem",
+        "labelSide": "left"
+      },
+      {
+        "order": 2,
+        "at": "moab",
+        "label": "Moab",
+        "labelSide": "right"
+      },
+      {
+        "order": 3,
+        "at": [
+          35.78,
+          31.5
+        ],
+        "label": "The road back",
+        "labelSide": "left",
+        "locationNote": "Where on the road this happened isn't known; the marker is placed for illustration."
+      },
+      {
+        "order": 4,
+        "at": "bethlehem",
+        "offset": [
+          -6,
+          34
+        ],
+        "label": "Home again",
+        "labelSide": "left"
+      }
+    ],
+    "regionLegend": "Moab: darker shading where more sources agree on its extent",
+    "review": {
+      "status": "needs-review",
+      "note": "Route and stop 3 placement are illustrative choices, not data."
+    },
+    "labelAt": {
+      "dead-sea": [
+        35.47,
+        31.33
+      ]
+    }
   }
 }
