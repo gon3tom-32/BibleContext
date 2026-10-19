@@ -1,0 +1,29 @@
+{
+  "slug": "matthew",
+  "title": "Matthew",
+  "order": 40,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 28,
+  "tagline": "Jesus as the king Israel was waiting for, told for readers who knew Israel's Scriptures well.",
+  "author": "Traditionally Matthew",
+  "authorNote": "The book doesn't name its author. Church tradition from the second century credits Matthew, the tax collector who became one of the twelve. Many scholars question this.",
+  "authorDebated": true,
+  "audience": "Jewish followers of Jesus",
+  "audienceNote": "Most likely a community of Jewish believers, perhaps in Syria (Antioch is often suggested), working out where they stood with the synagogue.",
+  "setting": "Under Roman rule",
+  "settingNote": "Herod the Great, then his sons, ruled for Rome. Judea later came under a Roman governor. Hopes for a coming king ran high.",
+  "genre": "Gospel",
+  "genreNote": "An ancient biography with a purpose. Watch the five long teaching sections and the many \"this was to fulfill\" quotations.",
+  "bigIdea": "Jesus is the king Israel was waiting for, and his kingdom (*basileia*) is arriving in ways no one expected.",
+  "themes": ["Kingdom of heaven", "Fulfillment", "Righteousness", "Discipleship", "God with us"],
+  "mapTitle": "Map: Bethlehem to Galilee",
+  "mapSummary": "The story starts in Bethlehem, detours to Egypt, settles in Galilee around the lake, then turns south to Jerusalem.",
+  "scene": {
+    "author": "Traditionally Matthew",
+    "audience": "Jewish followers of Jesus",
+    "happening": "Roman rule in Judea and Galilee"
+  },
+  "overviewPeople": ["jesus", "mary", "joseph", "herod", "john-baptist", "peter"],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

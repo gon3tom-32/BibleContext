@@ -10,6 +10,7 @@
       "id": "bethlehem",
       "name": "Bethlehem",
       "type": "settlement",
+      "mapRole": "none",
       "mentionedIn": [
         "Ruth 1:1",
         "Ruth 1:2",
@@ -20,6 +21,11 @@
         "Ruth 4:11"
       ],
       "mapOnly": false,
+      "chapters": [
+        1,
+        2,
+        4
+      ],
       "identification": "Bethlehem",
       "modernLocation": "Bethlehem",
       "lonlat": [
@@ -31,23 +37,229 @@
         "outOf": 1000,
         "label": "High"
       },
-      "outline": null,
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.207,
+              31.7043
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7043
+            ],
+            [
+              35.2071,
+              31.7043
+            ],
+            [
+              35.2071,
+              31.7042
+            ],
+            [
+              35.2071,
+              31.7042
+            ],
+            [
+              35.2072,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2077,
+              31.7042
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7044
+            ],
+            [
+              35.2074,
+              31.7044
+            ],
+            [
+              35.2072,
+              31.7045
+            ],
+            [
+              35.2072,
+              31.7045
+            ],
+            [
+              35.2071,
+              31.7045
+            ],
+            [
+              35.2071,
+              31.7044
+            ],
+            [
+              35.2071,
+              31.7043
+            ],
+            [
+              35.207,
+              31.7043
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/way/550081368"
+      },
       "source": {
         "name": "OpenBible.info Bible Geocoding Data",
         "url": "https://www.openbible.info/geo/",
         "license": "CC BY 4.0",
         "fetched": "2026-10-19",
-        "item": "https://www.openbible.info/geo/ancient/a112427/bethlehem-1"
+        "item": "https://www.openbible.info/geo/ancient/a112427/bethlehem-1",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
       }
     },
     {
       "id": "ephrathah",
       "name": "Ephrathah",
       "type": "settlement",
+      "mapRole": "none",
       "mentionedIn": [
         "Ruth 4:11"
       ],
       "mapOnly": false,
+      "chapters": [
+        4
+      ],
       "identification": "another name for Bethlehem 1",
       "modernLocation": "Bethlehem",
       "lonlat": [
@@ -59,19 +271,222 @@
         "outOf": 1000,
         "label": "High"
       },
-      "outline": null,
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.207,
+              31.7043
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7042
+            ],
+            [
+              35.207,
+              31.7043
+            ],
+            [
+              35.2071,
+              31.7043
+            ],
+            [
+              35.2071,
+              31.7042
+            ],
+            [
+              35.2071,
+              31.7042
+            ],
+            [
+              35.2072,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2075,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2076,
+              31.7042
+            ],
+            [
+              35.2077,
+              31.7042
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7043
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2077,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7044
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2076,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7045
+            ],
+            [
+              35.2075,
+              31.7044
+            ],
+            [
+              35.2074,
+              31.7044
+            ],
+            [
+              35.2072,
+              31.7045
+            ],
+            [
+              35.2072,
+              31.7045
+            ],
+            [
+              35.2071,
+              31.7045
+            ],
+            [
+              35.2071,
+              31.7044
+            ],
+            [
+              35.2071,
+              31.7043
+            ],
+            [
+              35.207,
+              31.7043
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/way/550081368"
+      },
       "source": {
         "name": "OpenBible.info Bible Geocoding Data",
         "url": "https://www.openbible.info/geo/",
         "license": "CC BY 4.0",
         "fetched": "2026-10-19",
-        "item": "https://www.openbible.info/geo/ancient/af6c09e/ephrathah"
+        "item": "https://www.openbible.info/geo/ancient/af6c09e/ephrathah",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
       }
     },
     {
       "id": "moab",
       "name": "Moab",
       "type": "region",
+      "mapRole": "shape",
       "mentionedIn": [
         "Ruth 1:1",
         "Ruth 1:2",
@@ -82,6 +497,11 @@
         "Ruth 4:3"
       ],
       "mapOnly": false,
+      "chapters": [
+        1,
+        2,
+        4
+      ],
       "identification": "Moab 1",
       "lonlat": [
         35.701389,
@@ -890,8 +1310,10 @@
       "id": "dead-sea",
       "name": "Salt Sea",
       "type": "body of water",
+      "mapRole": "shape",
       "mentionedIn": [],
       "mapOnly": true,
+      "chapters": [],
       "identification": "Dead Sea",
       "modernLocation": "Dead Sea",
       "lonlat": [
@@ -1343,8 +1765,10 @@
       "id": "jordan",
       "name": "Jordan",
       "type": "river",
+      "mapRole": "shape",
       "mentionedIn": [],
       "mapOnly": true,
+      "chapters": [],
       "identification": "Jordan River",
       "modernLocation": "Jordan River",
       "lonlat": [
@@ -1793,8 +2217,10 @@
       "id": "jerusalem",
       "name": "Jerusalem",
       "type": "settlement",
+      "mapRole": "town",
       "mentionedIn": [],
       "mapOnly": true,
+      "chapters": [],
       "identification": "Jerusalem",
       "modernLocation": "Jerusalem",
       "lonlat": [
@@ -2209,8 +2635,10 @@
       "id": "jericho",
       "name": "Jericho",
       "type": "settlement",
+      "mapRole": "town",
       "mentionedIn": [],
       "mapOnly": true,
+      "chapters": [],
       "identification": "Tell es Sultan",
       "modernLocation": "Tell es Sultan",
       "lonlat": [
@@ -2222,13 +2650,143 @@
         "outOf": 1000,
         "label": "High"
       },
-      "outline": null,
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.4439,
+              31.8723
+            ],
+            [
+              35.4435,
+              31.8716
+            ],
+            [
+              35.4433,
+              31.8712
+            ],
+            [
+              35.4433,
+              31.871
+            ],
+            [
+              35.4432,
+              31.8703
+            ],
+            [
+              35.4432,
+              31.8698
+            ],
+            [
+              35.4433,
+              31.8698
+            ],
+            [
+              35.4434,
+              31.8696
+            ],
+            [
+              35.4434,
+              31.8695
+            ],
+            [
+              35.4435,
+              31.8694
+            ],
+            [
+              35.4438,
+              31.8694
+            ],
+            [
+              35.4439,
+              31.8694
+            ],
+            [
+              35.4442,
+              31.8694
+            ],
+            [
+              35.4443,
+              31.8694
+            ],
+            [
+              35.4443,
+              31.8695
+            ],
+            [
+              35.4443,
+              31.8696
+            ],
+            [
+              35.4443,
+              31.8697
+            ],
+            [
+              35.4443,
+              31.8697
+            ],
+            [
+              35.4443,
+              31.8699
+            ],
+            [
+              35.4444,
+              31.87
+            ],
+            [
+              35.4444,
+              31.8701
+            ],
+            [
+              35.4445,
+              31.8703
+            ],
+            [
+              35.4446,
+              31.8704
+            ],
+            [
+              35.4448,
+              31.8711
+            ],
+            [
+              35.4453,
+              31.8716
+            ],
+            [
+              35.4453,
+              31.8717
+            ],
+            [
+              35.4454,
+              31.8721
+            ],
+            [
+              35.4453,
+              31.8723
+            ],
+            [
+              35.4441,
+              31.8725
+            ],
+            [
+              35.4439,
+              31.8723
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/way/458057319"
+      },
       "source": {
         "name": "OpenBible.info Bible Geocoding Data",
         "url": "https://www.openbible.info/geo/",
         "license": "CC BY 4.0",
         "fetched": "2026-10-19",
-        "item": "https://www.openbible.info/geo/ancient/a231f80/jericho-1"
+        "item": "https://www.openbible.info/geo/ancient/a231f80/jericho-1",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
       }
     }
   ]

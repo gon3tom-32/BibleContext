@@ -1,0 +1,6 @@
+[
+  { "id": "bethlehem", "name": "Bethlehem", "note": "David's hometown, a few miles south of Jerusalem." },
+  { "id": "nazareth", "name": "Nazareth", "note": "A small village in the hills of lower Galilee." },
+  { "id": "capernaum", "name": "Capernaum", "note": "A fishing town on the north shore of the Sea of Galilee, Jesus' base in Galilee." },
+  { "id": "jerusalem", "name": "Jerusalem", "note": "The capital, home of the temple." }
+]

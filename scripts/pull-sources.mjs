@@ -49,7 +49,16 @@ const STEP = {
   Jon: "Jonah", Mic: "Micah", Nam: "Nahum", Hab: "Habakkuk", Zep: "Zephaniah", Hag: "Haggai", Zec: "Zechariah",
   Mal: "Malachi",
 };
+// STEPBible book code -> English name (New Testament)
+Object.assign(STEP, {
+  Mat: "Matthew", Mrk: "Mark", Luk: "Luke", Jhn: "John", Act: "Acts", Rom: "Romans", "1Co": "1 Corinthians",
+  "2Co": "2 Corinthians", Gal: "Galatians", Eph: "Ephesians", Php: "Philippians", Col: "Colossians",
+  "1Th": "1 Thessalonians", "2Th": "2 Thessalonians", "1Ti": "1 Timothy", "2Ti": "2 Timothy", Tit: "Titus",
+  Phm: "Philemon", Heb: "Hebrews", Jas: "James", "1Pe": "1 Peter", "2Pe": "2 Peter", "1Jn": "1 John",
+  "2Jn": "2 John", "3Jn": "3 John", Jud: "Jude", Rev: "Revelation",
+});
 const NAME_TO_STEP = Object.fromEntries(Object.entries(STEP).map(([k, v]) => [v, k]));
+const GREEK = cfg.language === "Greek";
 const bookName = OSIS[cfg.osis];
 
 /** "Ruth.1.8" -> "Ruth 1:8"; "Prov.8.22-Prov.8.30" -> "Proverbs 8:22-30" */
@@ -77,35 +86,43 @@ function parseReadable(ref) {
 // ---------- 1. Text: World English Bible ----------
 function pullText() {
   const raw = JSON.parse(fs.readFileSync(path.join(CACHE, "web/json", cfg.webFile), "utf8"));
-  const chapters = new Map();
-  let para = null;
+  const chapters = new Map(); // chapter -> blocks [{ poetry?, verses: [{verse, text, continued?}] }]
+  let block = null;
+  let poetry = false;
   for (const item of raw) {
-    if (item.type === "paragraph start") para = [];
-    else if (item.type === "paragraph end") para = null;
-    else if (item.type === "paragraph text") {
+    const t = item.type;
+    if (t === "paragraph start" || t === "stanza start") { block = null; poetry = t === "stanza start"; }
+    else if (t === "paragraph end" || t === "stanza end") { block = null; poetry = false; }
+    else if (t === "line break") { /* lines are already separate items */ }
+    else if (t === "paragraph text" || t === "line text") {
       const ch = item.chapterNumber;
       if (!chapters.has(ch)) chapters.set(ch, []);
-      const paras = chapters.get(ch);
-      if (para === null || !paras.includes(para)) {
-        if (para === null) para = [];
-        paras.push(para);
+      const blocks = chapters.get(ch);
+      if (!block || !blocks.includes(block)) {
+        block = { ...(poetry ? { poetry: true } : {}), verses: [] };
+        blocks.push(block);
       }
       const text = item.value.replace(/\s+/g, " ").trim();
-      const last = para[para.length - 1];
-      if (last && last.verse === item.verseNumber) last.text += " " + text;
+      if (!text) continue;
+      const sep = t === "line text" ? "\n" : " ";
+      const last = block.verses[block.verses.length - 1];
+      if (last && last.verse === item.verseNumber) last.text += sep + text;
       else {
         // A verse that carries on into a new paragraph is marked so its number isn't shown twice.
-        const seen = paras.some((pp) => pp !== para && pp.some((x) => x.verse === item.verseNumber));
-        para.push({ verse: item.verseNumber, text, ...(seen ? { continued: true } : {}) });
+        const seen = blocks.some((b) => b !== block && b.verses.some((x) => x.verse === item.verseNumber));
+        block.verses.push({ verse: item.verseNumber, text, ...(seen ? { continued: true } : {}) });
       }
     } else {
-      gap("text", `Unrecognized item type "${item.type}" in the WEB file was skipped.`);
+      gap("text", `Unrecognized item type "${t}" in the WEB file was skipped.`);
     }
   }
-  const out = [...chapters.entries()].map(([number, paragraphs]) => ({
+  for (const blocks of chapters.values()) {
+    for (let k = blocks.length - 1; k >= 0; k--) if (!blocks[k].verses.length) blocks.splice(k, 1);
+  }
+  const out = [...chapters.keys()].map((number) => ({
     number,
     translation: "WEB",
-    paragraphs,
+    paragraphs: chapters.get(number),
     source: source("web", { item: `${bookName} ${number}` }),
   }));
   return { translation: { id: "WEB", name: "World English Bible", license: "Public domain" }, chapters: out };
@@ -143,6 +160,9 @@ function pullPlaces() {
     const a = ancient.get(p.ancientId);
     if (!a) { gap("places", `OpenBible has no record ${p.ancientId} for "${p.id}".`); continue; }
     const verses = a.verses.map((v) => v.osis).filter((v) => v.startsWith(cfg.osis + "."));
+    const type = a.types?.[0];
+    // How the map draws this place: as a shape (water, river, region), a labeled town dot, or not at all.
+    const mapRole = p.map ?? (["body of water", "river", "region"].includes(type) ? "shape" : p.mapOnly ? "town" : "none");
     if (!verses.length && !p.mapOnly) gap("places", `${a.friendly_id} has no ${bookName} verses in OpenBible.`);
     const best = Object.values(a.modern_associations).sort((x, y) => y.score - x.score)[0];
     const ident = a.identifications[0];
@@ -160,7 +180,8 @@ function pullPlaces() {
       const gj = JSON.parse(fs.readFileSync(gjPath, "utf8"));
       const feats = gj.features ?? [gj];
       const f = feats.find((x) => /\.simplified$/.test(x.properties?.id ?? "")) ??
-        feats.find((x) => x.properties?.role === "isobands");
+        feats.find((x) => x.properties?.role === "isobands") ??
+        feats.find((x) => x.geometry && x.geometry.type !== "Point");
       if (f) {
         const gid = f.properties.id.split(".")[0];
         const meta = geometryMeta.get(gid);
@@ -176,9 +197,11 @@ function pullPlaces() {
     places.push({
       id: p.id,
       name: a.friendly_id.replace(/ \d+$/, ""),
-      type: a.types?.[0],
+      type,
+      mapRole,
       mentionedIn: verses.map(osisToReadable),
       mapOnly: Boolean(p.mapOnly),
+      chapters: [...new Set(verses.map((v) => +v.split(".")[1]))].sort((x, y) => x - y),
       identification: stripTags(ident?.description),
       modernLocation: isRegion ? undefined : best?.name,
       lonlat: Number.isFinite(lon) ? [lon, lat] : null,
@@ -230,6 +253,7 @@ function pullPeople() {
     people.push({
       id: p.id,
       name: r.name,
+      displayTitle: r.displayTitle && r.displayTitle !== r.name ? r.displayTitle : undefined,
       alsoCalled: r.alsoCalled || undefined,
       gender: r.gender || undefined,
       family: {
@@ -248,36 +272,58 @@ function pullPeople() {
 }
 
 // ---------- 4. Words: STEPBible ----------
-function readTahot() {
+/** Every tagged word in the Hebrew OT (TAHOT) or the Greek NT (TAGNT). */
+function readTagged() {
   const dir = path.join(CACHE, "stepbible/Translators Amalgamated OT+NT");
-  const words = []; // { ref: {book, chapter, verse}, strongs: [...], hebrew, translit, gloss }
-  for (const f of fs.readdirSync(dir).filter((f) => f.startsWith("TAHOT"))) {
+  const words = []; // { book, chapter, verse, strongs: [...], original, translit, gloss }
+  for (const f of fs.readdirSync(dir).filter((f) => f.startsWith(GREEK ? "TAGNT" : "TAHOT"))) {
     for (const line of fs.readFileSync(path.join(dir, f), "utf8").split("\n")) {
       const m = line.match(/^([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)(?:\([^)]*\))?#\d+=/);
       if (!m) continue;
       const cols = line.split("\t");
-      const strongs = [...(cols[4] ?? "").matchAll(/\{(H\d+[A-Za-z]?)\}/g)].map((x) => x[1]);
-      words.push({ book: m[1], chapter: +m[2], verse: +m[3], strongs, hebrew: cols[1], translit: cols[2], gloss: cols[3] });
+      if (GREEK) {
+        // cols: ref, "Βίβλος (Biblos)", English, "G0976=N-NSF", "βίβλος=book", ...
+        const strongs = [...(cols[3] ?? "").matchAll(/(G\d+[A-Za-z]?)=/g)].map((x) => x[1]);
+        const [, original = cols[1], translit = ""] = (cols[1] ?? "").match(/^(.*?) \((.*)\)$/) ?? [];
+        // TAGNT keeps punctuation and paragraph marks on the word; strip them.
+        const clean = (x) => x.replace(/[.,;:·\u0387¶!?"“”‘’()\[\]]/g, "").trim();
+        words.push({ book: m[1], chapter: +m[2], verse: +m[3], strongs, original: clean(original), translit: clean(translit), gloss: (cols[4] ?? "").split("=")[1] ?? "" });
+      } else {
+        const strongs = [...(cols[4] ?? "").matchAll(/\{(H\d+[A-Za-z]?)\}/g)].map((x) => x[1]);
+        words.push({ book: m[1], chapter: +m[2], verse: +m[3], strongs, original: cols[1], translit: cols[2], gloss: cols[3] });
+      }
     }
   }
   return words;
 }
+/** Plain text from a lexicon entry; long Greek entries are cut to their opening. */
+function cleanMeaning(html) {
+  let t = (html ?? "")
+    .replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, "").replace(/__/g, "")
+    .replace(/[ \t]+/g, " ").replace(/ *\n */g, "\n").replace(/\n{2,}/g, "\n").trim();
+  if (t.length > 600) {
+    const cut = t.lastIndexOf("\n", 600);
+    t = t.slice(0, cut > 200 ? cut : 600).trim() + " …";
+  }
+  return t;
+}
 function readLexicon() {
-  const file = fs.readdirSync(path.join(CACHE, "stepbible/Lexicons")).find((f) => f.startsWith("TBESH"));
+  const prefix = GREEK ? "TBESG" : "TBESH";
+  const file = fs.readdirSync(path.join(CACHE, "stepbible/Lexicons")).find((f) => f.startsWith(prefix));
   const lex = new Map();
   for (const line of fs.readFileSync(path.join(CACHE, "stepbible/Lexicons", file), "utf8").split("\n")) {
     const c = line.split("\t");
-    if (!/^H\d/.test(c[0] ?? "") || !c[1]) continue;
+    if (!/^[HG]\d/.test(c[0] ?? "") || !c[1]) continue;
     const key = c[1].split(" ")[0];
     lex.set(key, {
-      strongs: key, hebrew: c[3], transliteration: c[4], partOfSpeech: c[5], gloss: c[6],
-      meaning: (c[7] ?? "").replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, "").replace(/\n{2,}/g, "\n").trim(),
+      strongs: key, original: c[3], transliteration: c[4], partOfSpeech: c[5], gloss: c[6],
+      meaning: cleanMeaning(c[7]),
     });
   }
   return lex;
 }
 function pullWords() {
-  const tahot = readTahot();
+  const tahot = readTagged();
   const lex = readLexicon();
   const handWritten = JSON.parse(fs.readFileSync(path.join(BOOK_DIR, "words.json"), "utf8"));
   const out = [];
@@ -292,9 +338,9 @@ function pullWords() {
       return `${bookName} ${c}:${v}`;
     });
     const allVerses = new Set(hits.map(verseKey));
-    const forms = [...new Set(inBook.map((t) => `${t.hebrew.replace(/[\\/]/g, "")}|${t.translit}|${t.gloss}`))]
+    const forms = [...new Set(inBook.map((t) => `${t.original.replace(/[\\/]/g, "")}|${t.translit}|${t.gloss}`))]
       .slice(0, 6)
-      .map((s) => { const [hebrew, translit, gloss] = s.split("|"); return { hebrew, translit, gloss }; });
+      .map((s) => { const [original, translit, gloss] = s.split("|"); return { original, translit, gloss }; });
     const entries = [...new Set(w.strongs.map((s) => s))].map((s) => lex.get(s)).filter(Boolean);
     if (entries.length < w.strongs.length) gap("words", `Lexicon entry missing for some of ${w.strongs.join(", ")} ("${w.id}").`);
 
@@ -303,7 +349,9 @@ function pullWords() {
     const elsewhereCheck = (hw?.elsewhere ?? []).map((e) => {
       const p = parseReadable(e.ref);
       const code = p && NAME_TO_STEP[p.book];
-      if (!code) return { ref: e.ref, found: null };
+      // Only check references in the testament we have tagging for.
+      const isNT = Object.keys(STEP).indexOf(code) >= Object.keys(STEP).indexOf("Mat");
+      if (!code || isNT !== GREEK) return { ref: e.ref, found: null };
       const at = (t) => t.book === code && t.chapter === p.chapter && (!p.verses || p.verses.includes(t.verse));
       const found = hits.some(at);
       if (!found) {
@@ -322,7 +370,9 @@ function pullWords() {
       lexicon: entries,
       formsInBook: forms,
       occurrencesInBook: bookVerses,
-      hebrewBibleCount: allVerses.size,
+      language: GREEK ? "Greek" : "Hebrew",
+      corpus: GREEK ? "New Testament" : "Hebrew Bible",
+      corpusCount: allVerses.size,
       elsewhereCheck,
       source: source("stepbible", { item: w.strongs.join(", ") }),
     });
@@ -403,14 +453,12 @@ write("people.json", pullPeople(), ["theographic"], "CC BY-SA 4.0. Derived from 
 write("words.json", pullWords(), ["stepbible"], "CC BY 4.0 (STEPBible.org, Tyndale House Cambridge)");
 write("crossrefs.json", pullCrossRefs(), ["openbible-xref"], "CC BY (OpenBible.info)");
 
-// Known gaps that aren't detected automatically
-gap("places", "The Dead Sea and the Jordan River aren't mentioned in Ruth; they're pulled only to draw the map.");
-gap("people", "Theographic has no records for unnamed people in Ruth (the closer relative, Boaz's foreman, the women of Bethlehem). Those stay hand-written.");
-gap("people", "Theographic's descriptions are Easton's Bible Dictionary (1897) and include errors (Chilion's entry calls Orpah \"Ruth's sister\"). We don't display them.");
-gap("people", "Theographic's birth and death years aren't used. Dates for this period are debated.");
-gap("words", "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them.");
+// Gaps that apply to every book, plus any the book's config lists
 gap("interpretation", "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review.");
+gap("words", "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them.");
+gap("people", "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed.");
 gap("text", "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page).");
+for (const g of cfg.knownGaps ?? []) gap(g.area, g.text);
 
 fs.writeFileSync(path.join(OUT_DIR, "gaps.json"), JSON.stringify({ _about: "Gaps and problems found while pulling data.", gaps }, null, 2) + "\n");
 console.log(`\n${gaps.length} gaps written to ${path.relative(ROOT, path.join(OUT_DIR, "gaps.json"))}:`);

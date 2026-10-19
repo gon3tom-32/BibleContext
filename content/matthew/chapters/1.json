@@ -1,0 +1,30 @@
+{
+  "number": 1,
+  "sceneHappening": "A family line from Abraham to Jesus",
+  "summary": "Matthew opens with a family tree: from Abraham, through King David, through the exile to Babylon, to Jesus, arranged in three sets of fourteen generations. Four women are named along the way: Tamar, Rahab, Ruth, and \"the wife of Uriah.\" Then the birth: Mary, engaged to Joseph, is found to be pregnant. Joseph, a righteous man, plans to end the engagement quietly. In a dream an angel tells him the child is from the Holy Spirit and that he should name him Jesus, \"for he will save his people from their sins.\" Matthew links this to Isaiah's promise of a child called Immanuel, \"God with us.\" Joseph wakes, takes Mary as his wife, and names the boy Jesus.",
+  "whySettingMatters": "Family lines decided who you were, what you could inherit, and what claims you could make. A king from David's line needed a genealogy to match. Engagement was legally binding, so ending one meant a formal divorce, and a pregnancy before marriage could bring public shame or worse for Mary.",
+  "people": [
+    { "id": "jesus", "note": "Named by Joseph, as the angel said. His name means \"the Lord saves.\"" },
+    { "id": "joseph", "note": "Chooses mercy before the dream, then obedience after it." },
+    { "id": "mary", "note": "Pregnant before the wedding. Matthew tells the story through Joseph's eyes." },
+    { "id": "genealogy-women", "note": "Outsiders and unexpected stories inside the royal line. Ruth appears in 1:5." }
+  ],
+  "questions": [
+    "Why might Matthew start his book with a family tree rather than a story?",
+    "Tamar, Rahab, Ruth, and Bathsheba each have an unusual story. Why might Matthew name them?",
+    "Joseph is called righteous (1:19) and then plans to act quietly. What does righteousness look like in his choice?",
+    "What would the name \"God with us\" have meant to people living under Roman rule?"
+  ],
+  "words": [
+    { "id": "christos", "note": "Jesus is called the Christ, the anointed king, from the first verse (1:1, 1:16-18)." },
+    { "id": "pleroo", "note": "The first of Matthew's \"this was to fulfill\" sayings (1:22)." },
+    { "id": "emmanouel", "note": "Matthew translates the name for his readers: \"God with us\" (1:23)." }
+  ],
+  "crossRefs": [
+    { "ref": "Genesis 38", "note": "Tamar and Judah" },
+    { "ref": "Ruth 4:18-22", "note": "the line from Perez to David" },
+    { "ref": "2 Samuel 7:12-16", "note": "God's promise of a lasting throne for David's line" },
+    { "ref": "Isaiah 7:14", "note": "the sign of a child called Immanuel" }
+  ],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

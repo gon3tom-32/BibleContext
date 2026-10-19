@@ -3,7 +3,7 @@ import Link from "next/link";
 import Notes from "@/components/Notes";
 import SourceNote from "@/components/SourceNote";
 import {
-  type ChapterText, getBook, getBookSlugs, getChapter, getChapterText, getCrossRefData, getPeople, getWords, scriptureUrl,
+  type ChapterText, getBook, getBookSlugs, getChapter, getPeopleData, getPlaceData, getChapterText, getCrossRefData, getPeople, getWords, scriptureUrl,
 } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string; chapter: string }> };
@@ -32,6 +32,11 @@ export default async function ChapterPage({ params }: Params) {
   const xref = getCrossRefData(slug, n);
   const chosen = new Set((chapter?.crossRefs ?? []).map((r) => r.ref));
   const extraRefs = (xref?.suggested ?? []).filter((s) => !chosen.has(s.ref)).slice(0, 3);
+  // For chapters without hand-written notes, show what the datasets know about them.
+  const dataPeople = getPeopleData(slug)
+    .filter((p) => p.chapters.includes(n))
+    .map((p) => people.find((x) => x.id === p.id)?.name ?? p.displayTitle ?? p.name);
+  const dataPlaces = getPlaceData(slug).filter((p) => p.chapters.includes(n));
   const title = `${book.title} ${n}`;
 
   return (
@@ -68,12 +73,52 @@ export default async function ChapterPage({ params }: Params) {
 
       {!chapter ? (
         <section className="card unwritten">
-          <h2>This chapter hasn&rsquo;t been written up yet</h2>
+          <h2>Context notes coming soon</h2>
           <p className="muted">
-            The context notes for {title} are still to come. You can{" "}
-            <a href={scriptureUrl(title)} target="_blank" rel="noopener">read {title} in the World English Bible</a>{" "}
-            in the meantime.
+            The summary, setting, and questions for {title} haven&rsquo;t been written yet. Here&rsquo;s what the
+            open datasets say about it, and the text itself.
           </p>
+          {(dataPeople.length > 0 || dataPlaces.length > 0 || (xref?.suggested.length ?? 0) > 0) && (
+            <div className="data-facts">
+              {dataPeople.length > 0 && (
+                <div>
+                  <h3 className="label" style={{ fontFamily: "var(--sans)" }}>People named</h3>
+                  <p>{dataPeople.join(", ")}</p>
+                </div>
+              )}
+              {dataPlaces.length > 0 && (
+                <div>
+                  <h3 className="label" style={{ fontFamily: "var(--sans)" }}>Places named</h3>
+                  <p>
+                    {dataPlaces.map((p, i) => (
+                      <span key={p.id}>
+                        {i > 0 && ", "}
+                        {p.name}
+                        {p.confidence.label !== "High" && <span className="muted"> ({p.confidence.label.toLowerCase()} location)</span>}
+                      </span>
+                    ))}
+                  </p>
+                </div>
+              )}
+              {xref && xref.suggested.length > 0 && (
+                <div>
+                  <h3 className="label" style={{ fontFamily: "var(--sans)" }}>Often read alongside</h3>
+                  <ul className="refs">
+                    {xref.suggested.map((r) => (
+                      <li key={r.ref}>
+                        <a href={scriptureUrl(r.ref)} target="_blank" rel="noopener">{r.ref}</a>
+                        <span className="smaller muted">, from {r.from.slice(0, 2).join(", ")}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              <p className="source-note">
+                From open datasets (people: Theographic; places: OpenBible.info; cross-references: OpenBible.info).{" "}
+                <Link href="/sources/">About our sources</Link>
+              </p>
+            </div>
+          )}
           {text && <ChapterTextCard title={title} text={text} />}
           <div className="stack gap-12" style={{ maxWidth: 560 }}>
             <h3 style={{ fontSize: 22 }}>Our notes</h3>
@@ -188,8 +233,8 @@ function ChapterTextCard({ title, text }: { title: string; text: ChapterText }) 
       </summary>
       <div className="scripture">
         {text.paragraphs.map((p, i) => (
-          <p key={i}>
-            {p.map((v) => (
+          <p key={i} className={p.poetry ? "poetry" : undefined}>
+            {p.verses.map((v) => (
               <span key={`${v.verse}-${v.continued ? "c" : ""}`}>
                 {!v.continued && <sup className="vnum">{v.verse}</sup>}
                 {v.text}{" "}

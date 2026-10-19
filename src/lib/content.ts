@@ -11,6 +11,11 @@ export type Review = { status: "needs-review" | "reviewed"; note?: string };
 export type Book = {
   review?: Review;
   slug: string;
+  /** Position in the Protestant canon (Genesis = 1), used to order books. */
+  order?: number;
+  testament?: "OT" | "NT";
+  /** Original language, for word studies. */
+  language?: "Hebrew" | "Greek";
   title: string;
   chapterCount: number;
   tagline: string;
@@ -72,6 +77,8 @@ export type Stop = {
   refs: string;
   text: string;
   direction: "out" | "back";
+  /** Chapter the stop's "Read" link goes to; defaults to the map's chapter. */
+  chapter?: number;
   x: number;
   y: number;
   labelX: number;
@@ -92,7 +99,7 @@ export type MapData = {
   chapter: number;
   /** Set when the map is drawn from real coordinates. */
   real?: {
-    regions: { d: string[]; label: string; labelX: number; labelY: number }[];
+    regions: { d: string[]; label: string; labelX: number; labelY: number; showLabel: boolean; opacity: number }[];
     towns: { name: string; x: number; y: number; anchor: "start" | "end" }[];
     scale: { x: number; y: number; px: number; km: number };
     regionLegend?: string;
@@ -130,7 +137,8 @@ export function getBookSlugs(): string[] {
   return fs
     .readdirSync(CONTENT_DIR, { withFileTypes: true })
     .filter((d) => d.isDirectory() && exists(d.name, "book.json"))
-    .map((d) => d.name);
+    .map((d) => d.name)
+    .sort((a, b) => (getBook(a).order ?? 999) - (getBook(b).order ?? 999));
 }
 
 export function getBook(slug: string): Book {
@@ -152,11 +160,14 @@ export function getWords(slug: string): Word[] {
 type RealMapConfig = {
   bounds: { west: number; east: number; south: number; north: number };
   label: string;
-  route: { label: string; note: string; points: [number, number][] };
+  /** Optional: a likely route. Leave out when the book doesn't follow one road. */
+  route?: { label: string; note: string; points: [number, number][] };
   stops: { order: number; at: string | [number, number]; offset?: [number, number]; label: string; labelSide: "left" | "right"; locationNote?: string }[];
   regionLegend?: string;
+  /** Corner for the scale bar, when the default (bottom left) is crowded. */
+  scaleCorner?: "bottom-left" | "top-left";
   /** Where to put a place's label, when its own point would crowd other labels. */
-  labelAt?: Record<string, [number, number]>;
+  labelAt?: Record<string, [number, number] | null>;
 };
 
 /**
@@ -192,25 +203,36 @@ function buildRealMap(base: MapData, cfg: RealMapConfig, places: PlaceData[]): M
   const water: MapData["water"] = [];
   const rivers: MapData["rivers"] = [];
   const regions: NonNullable<MapData["real"]>["regions"] = [];
+  const stopPlaces = new Set(cfg.stops.map((c) => c.at).filter((a): a is string => typeof a === "string"));
   for (const p of places) {
     const o = p.outline;
-    if (!o) continue;
+    if (!o || p.mapRole !== "shape") continue;
     const label = p.mapOnly && p.modernLocation ? p.modernLocation : p.name;
+    // labelAt can move a label, or hide it with null (e.g. when a stop already names the place).
+    const hideLabel = cfg.labelAt?.[p.id] === null;
     const at = cfg.labelAt?.[p.id] ?? p.lonlat;
     const [lx, ly] = at ? xy(at) : [0, 0];
     // Only draw outlines for water, rivers, and regions; towns are drawn as dots.
     const kind = p.type ?? "";
     if (o.type === "Polygon" && kind === "body of water") {
-      water.push({ d: (o.coordinates as number[][][]).map((r) => line(r, true)).join(""), label, labelX: lx, labelY: ly });
+      water.push({ d: (o.coordinates as number[][][]).map((r) => line(r, true)).join(""), label: hideLabel ? "" : label, labelX: lx, labelY: ly });
     } else if (o.type === "LineString" && kind === "river") {
       const pts = o.coordinates as number[][];
       // Put the label where the line enters the map from the north.
       const inside = pts.filter(([, lat]) => lat < north - 0.03);
       const [rx, ry] = xy(inside[0] ?? pts[0]);
-      rivers.push({ d: line(pts), label, labelX: rx + 8, labelY: ry + 14 });
-    } else if (o.type === "MultiPolygon" && kind === "region") {
-      const polys = o.coordinates as number[][][][];
-      regions.push({ d: polys.map((poly) => poly.map((r) => line(r, true)).join("")), label, labelX: lx, labelY: ly });
+      rivers.push({ d: line(pts), label: hideLabel ? "" : label, labelX: rx + 8, labelY: ry + 14 });
+    } else if (kind === "region" && (o.type === "MultiPolygon" || o.type === "Polygon")) {
+      const polys = (o.type === "Polygon" ? [o.coordinates] : o.coordinates) as number[][][][];
+      regions.push({
+        d: polys.map((poly) => poly.map((r) => line(r, true)).join("")),
+        label, labelX: lx, labelY: ly,
+        // A region that's also a stop is already labeled by the stop.
+        showLabel: !stopPlaces.has(p.id) && !hideLabel,
+        // Confidence bands stack, so each band is faint (the center reaches about 40%);
+        // a single outline is drawn as one light wash.
+        opacity: o.type === "MultiPolygon" ? Math.min(0.06, 0.4 / polys.length) : 0.07,
+      });
     }
   }
 
@@ -227,9 +249,8 @@ function buildRealMap(base: MapData, cfg: RealMapConfig, places: PlaceData[]): M
       locationNote: c.locationNote,
     };
   });
-  const stopPlaces = new Set(cfg.stops.map((c) => c.at).filter((a): a is string => typeof a === "string"));
   const towns = places
-    .filter((p) => p.mapOnly && p.lonlat && !["body of water", "river", "region"].includes(p.type ?? "") && !stopPlaces.has(p.id))
+    .filter((p) => p.mapRole === "town" && p.lonlat && !stopPlaces.has(p.id))
     .map((p) => {
       const [x, y] = xy(p.lonlat!);
       return { name: p.name, x, y, anchor: "end" as const };
@@ -245,12 +266,12 @@ function buildRealMap(base: MapData, cfg: RealMapConfig, places: PlaceData[]): M
     label: cfg.label,
     water,
     rivers,
-    routes: [{ direction: "both", d: line(cfg.route.points), label: cfg.route.label }],
+    routes: cfg.route ? [{ direction: "both", d: line(cfg.route.points), label: cfg.route.label }] : [],
     stops,
     caption: "Drawn from real coordinates",
     real: {
-      regions, towns, scale: { x: 24, y: H - 28, px, km },
-      regionLegend: cfg.regionLegend, routeNote: cfg.route.note,
+      regions, towns, scale: { x: 24, y: cfg.scaleCorner === "top-left" ? 40 : H - 28, px, km },
+      regionLegend: cfg.regionLegend, routeNote: cfg.route?.note,
       osm: places.some((p) => p.outline?.osm),
     },
   };
@@ -293,7 +314,8 @@ export type Source = { name: string; url: string; license: string; fetched: stri
 export type ChapterText = {
   number: number;
   translation: string;
-  paragraphs: { verse: number; text: string; continued?: boolean }[][];
+  /** Paragraphs, or stanzas of poetry (lines separated by newlines). */
+  paragraphs: { poetry?: boolean; verses: { verse: number; text: string; continued?: boolean }[] }[];
   source: Source;
 };
 
@@ -301,7 +323,10 @@ export type PlaceData = {
   id: string;
   name: string;
   type?: string;
+  /** How the map draws it: a shape, a labeled town dot, or nothing (unless it's a stop). */
+  mapRole: "shape" | "town" | "none";
   mentionedIn: string[];
+  chapters: number[];
   mapOnly: boolean;
   identification: string;
   modernLocation?: string;
@@ -315,6 +340,7 @@ type PersonRef = { name: string; id?: string };
 export type PersonData = {
   id: string;
   name: string;
+  displayTitle?: string;
   alsoCalled?: string;
   gender?: string;
   family: { father?: PersonRef; mother?: PersonRef; spouses: PersonRef[]; children: PersonRef[]; siblings: PersonRef[] };
@@ -326,10 +352,12 @@ export type PersonData = {
 export type WordData = {
   id: string;
   strongs: string[];
-  lexicon: { strongs: string; hebrew: string; transliteration: string; partOfSpeech: string; gloss: string; meaning: string }[];
-  formsInBook: { hebrew: string; translit: string; gloss: string }[];
+  lexicon: { strongs: string; original: string; transliteration: string; partOfSpeech: string; gloss: string; meaning: string }[];
+  formsInBook: { original: string; translit: string; gloss: string }[];
   occurrencesInBook: string[];
-  hebrewBibleCount: number;
+  language: "Hebrew" | "Greek";
+  corpus: string;
+  corpusCount: number;
   source: Source;
 };
 
@@ -391,4 +419,11 @@ export function familyLine(p: PersonData): string[] {
     p.family.children.length ? `Children: ${names(p.family.children)}` : "",
     p.family.siblings.length ? `Siblings: ${names(p.family.siblings)}` : "",
   ].filter(Boolean);
+}
+
+/** Display settings for a book's original language. */
+export function languageOf(language?: string) {
+  return language === "Greek"
+    ? { name: "Greek", code: "grc", dir: "ltr" as const, className: "greek" }
+    : { name: "Hebrew", code: "he", dir: "rtl" as const, className: "hebrew" };
 }

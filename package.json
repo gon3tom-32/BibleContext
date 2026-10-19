@@ -8,7 +8,7 @@
     "start": "npx serve out",
     "lint": "tsc --noEmit",
     "data:fetch": "bash scripts/fetch-sources.sh",
-    "data:pull": "node scripts/pull-sources.mjs ruth",
+    "data:pull": "for b in content/*/sources.config.json; do node scripts/pull-sources.mjs $(basename $(dirname $b)); done",
     "data": "npm run data:fetch && npm run data:pull"
   },
   "dependencies": {

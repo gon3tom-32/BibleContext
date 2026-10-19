@@ -26,8 +26,24 @@
       "text": "Ruth 3: our \"Leviticus 25:25\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
     },
     {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
       "area": "places",
-      "text": "The Dead Sea and the Jordan River aren't mentioned in Ruth; they're pulled only to draw the map."
+      "text": "The Dead Sea, the Jordan River, Jerusalem, and Jericho aren't mentioned in Ruth; they're pulled only to draw the map."
     },
     {
       "area": "people",
@@ -35,23 +51,7 @@
     },
     {
       "area": "people",
-      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and include errors (Chilion's entry calls Orpah \"Ruth's sister\"). We don't display them."
-    },
-    {
-      "area": "people",
-      "text": "Theographic's birth and death years aren't used. Dates for this period are debated."
-    },
-    {
-      "area": "words",
-      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
-    },
-    {
-      "area": "interpretation",
-      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
-    },
-    {
-      "area": "text",
-      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+      "text": "Theographic's Easton's text for Chilion calls Orpah \"Ruth's sister\", which the text doesn't say."
     }
   ]
 }

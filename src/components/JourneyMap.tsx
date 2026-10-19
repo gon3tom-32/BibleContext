@@ -25,27 +25,27 @@ export default function JourneyMap({ map, selected, onSelect, compact }: Props) 
         {real?.regions.map((r) => (
           <g key={r.label}>
             {r.d.map((d, i) => (
-              <path key={i} d={d} fill="var(--green)" fillOpacity={0.045} stroke="none" />
+              <path key={i} d={d} fill="var(--green)" fillOpacity={r.opacity} stroke="none" />
             ))}
           </g>
         ))}
         {map.water.map((wtr) => (
-          <path key={wtr.label} d={wtr.d} fill="var(--map-water)" stroke="var(--map-water-edge)" strokeWidth={1.5} />
+          <path key={wtr.d.slice(0, 24)} d={wtr.d} fill="var(--map-water)" stroke="var(--map-water-edge)" strokeWidth={1.5} />
         ))}
         {map.rivers.map((r) => (
-          <path key={r.label} d={r.d} stroke="var(--map-water-edge)" strokeWidth={2.5} fill="none" strokeLinejoin="round" />
+          <path key={r.d.slice(0, 24)} d={r.d} stroke="var(--map-water-edge)" strokeWidth={2.5} fill="none" strokeLinejoin="round" />
         ))}
       </g>
 
       {/* Labels for water and regions */}
-      {map.water.map((wtr) => (
+      {map.water.filter((wtr) => wtr.label).map((wtr) => (
         <text key={wtr.label} className="lbl-minor" x={wtr.labelX} y={wtr.labelY} fontSize={13} fill="var(--map-water-text)" textAnchor="middle">{wtr.label}</text>
       ))}
-      {!compact && map.rivers.map((r) => (
+      {!compact && map.rivers.filter((r) => r.label).map((r) => (
         <text key={r.label} className="lbl-minor" x={r.labelX} y={r.labelY} fontSize={12} fill="var(--map-water-text)">{r.label}</text>
       ))}
-      {compact && real?.regions.map((r) => (
-        <text key={r.label} x={r.labelX + 40} y={r.labelY + 50} fontSize={compact ? 14 : 15} fontWeight={600} fill="var(--green)" letterSpacing="0.2em">
+      {real?.regions.filter((r) => compact || r.showLabel).map((r) => (
+        <text key={r.label} className="lbl-region" x={r.labelX} y={r.labelY} textAnchor="middle" fontSize={compact ? 14 : 13} fontWeight={600} fill="var(--green)" letterSpacing="0.2em">
           {r.label.toUpperCase()}
         </text>
       ))}

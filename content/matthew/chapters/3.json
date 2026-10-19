@@ -1,0 +1,29 @@
+{
+  "number": 3,
+  "sceneHappening": "John baptizing in the Judean wilderness",
+  "summary": "John the Baptist appears in the wilderness of Judea preaching, \"Repent, for the kingdom of heaven is near.\" Dressed in camel's hair with a leather belt, like the prophet Elijah, he baptizes crowds from Jerusalem, Judea, and the Jordan valley as they confess their sins. He warns the Pharisees and Sadducees not to count on being Abraham's descendants, and announces someone stronger coming after him who will baptize with the Holy Spirit and fire. Jesus comes from Galilee to be baptized. John objects, but Jesus says it is right \"to fulfill all righteousness.\" As Jesus comes up from the water, the Spirit descends like a dove and a voice says, \"This is my beloved Son, with whom I am well pleased.\"",
+  "whySettingMatters": "The wilderness and the Jordan recalled Israel's beginnings: the exodus, the wandering, and the crossing into the land. Isaiah had promised a voice preparing God's way in the desert. Ritual washing was common, but John's one-time baptism of repentance asked even Abraham's descendants to start again.",
+  "people": [
+    { "id": "john-baptist", "note": "A prophet in Elijah's mold, preparing the way." },
+    { "id": "religious-leaders", "note": "Come to the river and get one of John's sharpest warnings." },
+    { "id": "jesus", "note": "Steps into the line with everyone else to be baptized." }
+  ],
+  "questions": [
+    "John tells people not to rely on being Abraham's descendants. What might we be tempted to rely on instead?",
+    "Why would Jesus, who had no sins to confess, ask to be baptized?",
+    "The voice from heaven speaks before Jesus has taught or healed anyone. What does that say about where his identity comes from?",
+    "What would \"repent\" have sounded like to someone living in Judea under Rome?"
+  ],
+  "words": [
+    { "id": "metanoeo", "note": "John's first word: \"Repent\" (3:2), and fruit \"worthy of repentance\" (3:8, the related noun)." },
+    { "id": "basileia", "note": "\"The kingdom of heaven is near\" (3:2)." },
+    { "id": "dikaiosyne", "note": "Jesus is baptized \"to fulfill all righteousness\" (3:15)." }
+  ],
+  "crossRefs": [
+    { "ref": "Isaiah 40:3", "note": "a voice in the wilderness" },
+    { "ref": "2 Kings 1:8", "note": "Elijah's hair garment and leather belt" },
+    { "ref": "Malachi 4:5", "note": "Elijah sent before the day of the Lord" },
+    { "ref": "Psalm 2:7", "note": "\"You are my son\"" }
+  ],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

@@ -19,6 +19,9 @@ export default function Home() {
         <section className="grid grid-240" aria-label="Books">
           {books.map((b) => (
             <Link key={b.slug} href={`/${b.slug}/`} className="card card--tight" style={{ color: "inherit", fontWeight: 400, textDecoration: "none" }}>
+              <div className="label">
+                {b.testament === "NT" ? "New Testament" : "Old Testament"} · {b.chapterCount} chapters
+              </div>
               <h2 style={{ fontSize: 28 }}>{b.title}</h2>
               <p className="small muted">{b.tagline}</p>
             </Link>

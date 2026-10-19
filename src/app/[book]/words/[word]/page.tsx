@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import SourceNote from "@/components/SourceNote";
-import { getBook, getBookSlugs, getChapters, getWord, getWordData, getWords, scriptureUrl } from "@/lib/content";
+import { getBook, getBookSlugs, getChapters, getWord, getWordData, getWords, languageOf, scriptureUrl } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string; word: string }> };
 
@@ -24,6 +24,7 @@ export default async function WordStudyPage({ params }: Params) {
   if (!word) notFound();
   const words = getWords(slug);
   const data = getWordData(slug, id);
+  const lang = languageOf(data?.language ?? book.language);
   const uses = getChapters(slug).flatMap((c) =>
     c.words.filter((w) => w.id === id).map((w) => ({ chapter: c.number, note: w.note })),
   );
@@ -40,13 +41,13 @@ export default async function WordStudyPage({ params }: Params) {
 
       <section className="band word-hero" aria-labelledby="word-title">
         <div className="word-hero-text">
-          <div className="eyebrow">Word study · Hebrew</div>
+          <div className="eyebrow">Word study · {lang.name}</div>
           <h1 id="word-title" className="word-title"><i>{word.transliteration}</i></h1>
           <p className="word-gloss">{word.gloss}</p>
           <p className="word-say">Say it: <span>{word.pronunciation}</span> <span className="word-say-note">(approximate)</span></p>
         </div>
         <div className="word-hero-heb">
-          <span className="hebrew" lang="he" dir="rtl">{word.original}</span>
+          <span className={lang.className} lang={lang.code} dir={lang.dir}>{word.original}</span>
         </div>
       </section>
 
@@ -112,14 +113,14 @@ export default async function WordStudyPage({ params }: Params) {
               {data.lexicon.map((e) => (
                 <div key={e.strongs} className="lex-entry">
                   <div className="lex-head">
-                    <span className="hebrew lex-heb" lang="he" dir="rtl">{e.hebrew}</span>
+                    <span className={`${lang.className} lex-heb`} lang={lang.code} dir={lang.dir}>{e.original}</span>
                     <span className="lex-meta">{e.transliteration} · {e.strongs}</span>
                   </div>
                   <p className="lex-meaning">{e.meaning}</p>
                 </div>
               ))}
               <p className="smaller muted">
-                Used in {data.hebrewBibleCount} verse{data.hebrewBibleCount === 1 ? "" : "s"} of the Hebrew Bible.
+                Used in {data.corpusCount} verse{data.corpusCount === 1 ? "" : "s"} of the {data.corpus}.
               </p>
               <SourceNote source={data.source} what="Brief lexicon entry and counts" />
             </div>

@@ -1,0 +1,16 @@
+[
+  { "id": "jesus", "name": "Jesus", "note": "From Nazareth in Galilee. Matthew presents him as the Messiah from David's line, and as \"God with us.\"" },
+  { "id": "mary", "name": "Mary", "note": "Engaged to Joseph when she is found to be pregnant. Matthew tells the birth story from Joseph's side." },
+  { "id": "joseph", "name": "Joseph", "note": "Mary's husband, from David's line. Guided by dreams, he protects the child and his mother." },
+  { "id": "herod", "name": "Herod the Great", "note": "Rome's client king over Judea. A great builder, and ruthless toward anyone who threatened his throne." },
+  { "id": "magi", "name": "The magi", "note": "Visitors from the east who read the stars and come to honor a newborn king. Matthew doesn't say how many there were." },
+  { "id": "archelaus", "name": "Archelaus", "note": "Herod's son who ruled Judea after him, harshly enough that Rome later removed him." },
+  { "id": "john-baptist", "name": "John the Baptist", "note": "A prophet in the wilderness who calls people to repent and baptizes them in the Jordan." },
+  { "id": "religious-leaders", "name": "Pharisees and Sadducees", "note": "Leading groups in Judaism. Pharisees taught careful keeping of the law; Sadducees were tied to the priests and the temple." },
+  { "id": "the-devil", "name": "The devil", "note": "The tempter, who tests Jesus in the wilderness." },
+  { "id": "peter", "name": "Simon Peter", "note": "A fisherman from Galilee, the first disciple called and the most prominent of the twelve." },
+  { "id": "andrew", "name": "Andrew", "note": "Peter's brother, also a fisherman." },
+  { "id": "james-zebedee", "name": "James", "note": "Son of Zebedee, called with his brother John from their father's boat." },
+  { "id": "john-apostle", "name": "John", "note": "Son of Zebedee and brother of James." },
+  { "id": "genealogy-women", "name": "Tamar, Rahab, Ruth, and \"Uriah's wife\"", "note": "Four women named in Jesus' family line, each with an unusual story. Ruth is the Ruth whose book we studied." }
+]

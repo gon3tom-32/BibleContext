@@ -1,0 +1,29 @@
+{
+  "number": 2,
+  "sceneHappening": "The last years of Herod the Great",
+  "summary": "Magi from the east arrive in Jerusalem asking where the newborn king of the Jews is; they have seen his star. King Herod is disturbed, and all Jerusalem with him. The chief priests and scribes point to Bethlehem, from the prophet Micah. Herod quietly asks the magi to report back. The star leads them to the child; they worship him and give gold, frankincense, and myrrh, then, warned in a dream, go home another way. Warned in a dream too, Joseph takes Mary and the child to Egypt. Herod has the boys in and around Bethlehem two years old and under killed. After Herod dies, the family returns, but Herod's son Archelaus rules Judea, so they settle in Nazareth in Galilee.",
+  "whySettingMatters": "\"King of the Jews\" was Herod's own title, given by Rome, so the magi's question was a threat. Herod was known for killing rivals, including members of his own family. Egypt had large Jewish communities and lay outside his reach. Herod died around 4 BC, which is why Jesus' birth is usually placed a few years \"before Christ\"; the exact year is debated.",
+  "people": [
+    { "id": "magi", "note": "Foreigners who come to worship, while Jerusalem's leaders stay put." },
+    { "id": "herod", "note": "Feels threatened by a baby and answers with violence." },
+    { "id": "joseph", "note": "Acts on two more dreams to keep the child safe." },
+    { "id": "archelaus", "note": "His rule in Judea is why the family settles in Galilee instead." }
+  ],
+  "questions": [
+    "The magi travel far to honor the king; the scribes know where he'll be born but don't go. What do you make of that contrast?",
+    "Herod and the magi both ask about the same child. How does each respond?",
+    "Matthew links Egypt and Hosea's \"Out of Egypt I called my son\" (2:15). What story from Israel's past does that bring to mind?",
+    "This chapter includes real grief (2:18). How do you hold that alongside the joy of the magi?"
+  ],
+  "words": [
+    { "id": "magos", "note": "The visitors from the east (2:1, 2:7, 2:16)." },
+    { "id": "pleroo", "note": "Three more fulfillment sayings: Egypt, Ramah, and Nazareth (2:15, 2:17, 2:23)." }
+  ],
+  "crossRefs": [
+    { "ref": "Micah 5:2", "note": "a ruler from Bethlehem" },
+    { "ref": "Numbers 24:17", "note": "a star coming out of Jacob" },
+    { "ref": "Hosea 11:1", "note": "\"Out of Egypt I called my son\"" },
+    { "ref": "Jeremiah 31:15", "note": "Rachel weeping for her children" }
+  ],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

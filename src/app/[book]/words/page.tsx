@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getBook, getChapters, getWords } from "@/lib/content";
+import { getBook, getChapters, getWords, languageOf } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string }> };
 
@@ -14,6 +14,7 @@ export default async function WordsPage({ params }: Params) {
   const book = getBook(slug);
   const words = getWords(slug);
   const chapters = getChapters(slug);
+  const lang = languageOf(book.language);
   const chaptersFor = (id: string) => chapters.filter((c) => c.words.some((w) => w.id === id)).map((c) => c.number);
 
   return (
@@ -35,7 +36,7 @@ export default async function WordsPage({ params }: Params) {
               <Link className="word-tile" href={`/${slug}/words/${w.id}/`}>
                 <span className="word-tile-top">
                   <span className="word-tile-name"><i>{w.transliteration}</i></span>
-                  <span className="hebrew word-tile-heb" lang="he" dir="rtl">{w.original}</span>
+                  <span className={`${lang.className} word-tile-heb`} lang={lang.code} dir={lang.dir}>{w.original}</span>
                 </span>
                 <span className="word-tile-gloss">{w.gloss}</span>
                 {chs.length > 0 && (
