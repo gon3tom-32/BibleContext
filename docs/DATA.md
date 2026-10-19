@@ -40,6 +40,6 @@ The journey map is projected from `generated/places.json` (Dead Sea outline, Jor
 ## Things to know
 
 - **Blocked sources:** the HelloAO Free Use Bible API and openbible.info weren't reachable from the build environment, so the WEB text comes from github.com/TehShrike/world-english-bible and the cross-reference file from github.com/scrollmapper/bible_databases (a copy of OpenBible's file dated 2024-11-04).
-- **Share-alike:** `generated/people.json` is derived from a CC BY-SA dataset, so if this repo or that file is published, it must stay under CC BY-SA 4.0 with credit. The rest of the site isn't affected by that, as long as we keep the derived data in its own file.
+- **Share-alike (decided: repo stays public):** `generated/people.json` is derived from a CC BY-SA dataset, so it's published under CC BY-SA 4.0 with credit (see `generated/LICENSES.md`). The rest of the site isn't affected, as long as share-alike data stays in its own file.
 - **Not used:** Theographic's dates and its Easton's Bible Dictionary text (1897, with known errors).
 - **Before going public** (sharing beyond the two of us, ads, or paid access): re-check every license and any API terms. See `docs/passage-explorer-data-sources.md`.

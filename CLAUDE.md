@@ -10,6 +10,7 @@
 - **Not a test:** the design's "Start the context check" button became "See the map and timeline".
 - **Word studies:** `/ruth/words` lists every word; `/ruth/words/<id>` shows the Hebrew, pronunciation, meaning, range of meaning, uses chapter by chapter (pulled from each chapter's `words` notes), every verse in the book, other places it's used, and common English renderings. `uncertain` adds a "Debated" note.
 - **Data sources:** open datasets are pulled at build time by `npm run data` into `content/<book>/generated/` with a `source` on every item; hand-written content is marked `needs-review`. Credits are on `/sources`. Details and gaps: `docs/DATA.md`.
+- **Public repo and share-alike (decided):** the repo stays public. `generated/people.json` is published under CC BY-SA 4.0 with credit; keep share-alike data in its own files so it doesn't spread to the rest of the content. See `content/ruth/generated/LICENSES.md`.
 - **Isolation:** own GitHub repo and own Supabase project. See `docs/SETUP.md`.
 
 ## What this is
