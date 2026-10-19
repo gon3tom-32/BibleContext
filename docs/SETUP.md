@@ -27,6 +27,12 @@ npm run dev        # http://localhost:3000
 npm run build      # static site in out/
 ```
 
-## Hosting
+## Hosting (GitHub Pages)
 
-`npm run build` produces a plain static site in `out/`. Vercel, Netlify, or Cloudflare Pages all work: import this repo as a new project there. Add the two Supabase env vars in that host's settings when Phase 2 lands.
+The site is published at **https://gon3tom-32.github.io/BibleContext/** by `.github/workflows/deploy-pages.yml`, which rebuilds and publishes it every time `main` changes.
+
+One-time setup: on GitHub, open the repo's **Settings > Pages** and set **Source** to **GitHub Actions**. After that, any push to `main` updates the site within a couple of minutes. You can also re-run it by hand from the **Actions** tab ("Deploy to GitHub Pages" > "Run workflow").
+
+The build sets `BASE_PATH=/BibleContext` because GitHub Pages serves the site from that subfolder. Locally, leave it unset.
+
+Other static hosts (Vercel, Netlify, Cloudflare Pages) also work: build with `npm run build` and publish `out/`. Add the Supabase env vars in the host's settings when Phase 2 lands.
