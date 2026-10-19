@@ -35,8 +35,11 @@ export type Chapter = {
   summary: string;
   whySettingMatters: string;
   people: { id: string; note: string }[];
+  /** Overrides the book's "What was happening" fact in the Setting the scene strip. */
+  sceneHappening?: string;
   questions: string[];
-  wordIds: string[];
+  /** Key words for this chapter, with what the word is doing here. */
+  words: { id: string; note: string }[];
   crossRefs: { ref: string; note: string }[];
 };
 
@@ -45,7 +48,6 @@ export type Word = {
   transliteration: string;
   original: string;
   gloss: string;
-  summary: string;
   notes: string;
   occurrences: string[];
 };

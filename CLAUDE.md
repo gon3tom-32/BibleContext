@@ -53,7 +53,9 @@ Navigation: Overview, Context, Chapters, Word studies, Our notes ("Words" on pho
 
 **Phase 1 (done): read-only prototype** — static pages driven by data files, notes in local storage, responsive.
 
-**Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with", chapters 2 to 4 content, the full word study screen. Later words to add: *go'el* (redeemer), *chayil* ("worthy"/"noble").
+**Chapters 2–4 (done, first draft)** — each chapter can set `sceneHappening` for its own "Setting the scene" fact, and lists key words as `{ id, note }` so the note says what the word is doing in that chapter.
+
+**Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with", the full word study screen.
 
 **Later** — relationship web for people, more books, search across notes.
 

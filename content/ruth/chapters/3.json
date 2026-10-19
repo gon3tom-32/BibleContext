@@ -1,0 +1,30 @@
+{
+  "number": 3,
+  "sceneHappening": "A night on the threshing floor at the end of harvest",
+  "summary": "Naomi decides to seek a secure home for Ruth. She tells her to wash, dress, and go down to the threshing floor where Boaz is winnowing barley, wait until he is asleep, then uncover his feet and lie down. At midnight Boaz wakes, startled. Ruth names herself and asks him to spread the corner of his garment over her, because he is a redeemer. Boaz praises her loyal love, calls her a woman of worth, and promises to act. There is one complication: another relative is a closer redeemer. Boaz says that if that man won't redeem her, he will. Ruth leaves before dawn with six measures of barley, and Naomi says Boaz won't rest until the matter is settled.",
+  "whySettingMatters": "At harvest's end, men often slept at the threshing floor to guard the grain. A woman coming there alone at night was risky and open to misreading, so the scene is charged and the writer tells it with restraint. Asking a man to spread his garment over you was a way of asking for marriage and protection. Ruth makes a bold proposal, and she frames it in terms of family duty: Boaz is a redeemer.",
+  "people": [
+    { "id": "naomi", "note": "Moves from grief to planning. She wants rest and security for Ruth." },
+    { "id": "ruth", "note": "Follows Naomi's plan, then goes further and asks Boaz to act as redeemer." },
+    { "id": "boaz", "note": "Responds with blessing, honesty about the closer relative, and care for Ruth's reputation." },
+    { "id": "nearer-redeemer", "note": "Mentioned but not yet seen. A closer relative who has first right to redeem." }
+  ],
+  "questions": [
+    "Naomi's plan carries real risk for Ruth. Why might she take that risk now?",
+    "Ruth asks Boaz to spread his \"wing\" over her (3:9), the same word he used about God's wings in 2:12. What is she asking him to do?",
+    "Boaz says this kindness is greater than the first (3:10). What was the first, and why might this one be greater?",
+    "Boaz could have ignored the closer relative. What does it say about him that he doesn't?"
+  ],
+  "words": [
+    { "id": "kanaph", "note": "Ruth asks Boaz to spread his \"wing\" (the corner of his garment) over her (3:9), echoing 2:12." },
+    { "id": "goel", "note": "Ruth calls Boaz a redeemer (3:9), and he reveals a closer one (3:12)." },
+    { "id": "hesed", "note": "Boaz says Ruth's latest act of loyal love is greater than her first (3:10)." },
+    { "id": "chayil", "note": "Boaz calls Ruth \"a worthy woman\" (3:11), the same word used of him in 2:1." }
+  ],
+  "crossRefs": [
+    { "ref": "Ezekiel 16:8", "note": "spreading a garment over someone as a sign of marriage" },
+    { "ref": "Deuteronomy 25:5-10", "note": "a brother's duty to carry on a dead man's name" },
+    { "ref": "Leviticus 25:25", "note": "a redeemer's duty to the family" },
+    { "ref": "Proverbs 31:10", "note": "\"a worthy woman,\" the same phrase used of Ruth" }
+  ]
+}

@@ -54,7 +54,7 @@ export default async function ChapterPage({ params }: Params) {
         <dl className="scene-grid">
           <div><dt>Who wrote it</dt><dd>{book.scene.author}</dd></div>
           <div><dt>Who it was for</dt><dd>{book.scene.audience}</dd></div>
-          <div><dt>What was happening</dt><dd>{book.scene.happening}</dd></div>
+          <div><dt>What was happening</dt><dd>{chapter?.sceneHappening ?? book.scene.happening}</dd></div>
         </dl>
         <Link href={`/${slug}/`} className="smaller">Read the full background in the book overview</Link>
       </section>
@@ -114,7 +114,7 @@ export default async function ChapterPage({ params }: Params) {
             <div className="card card--tight card--side" style={{ gap: 14 }}>
               <h2>Key words</h2>
               <ul className="word-list">
-                {chapter.wordIds.map((id) => {
+                {chapter.words.map(({ id, note }) => {
                   const w = words.find((x) => x.id === id);
                   if (!w) return null;
                   return (
@@ -123,7 +123,7 @@ export default async function ChapterPage({ params }: Params) {
                         <i>{w.transliteration}</i>
                       </Link>{" "}
                       <span className="gloss">· {w.gloss}</span>
-                      <p>{w.summary}</p>
+                      <p>{note}</p>
                     </li>
                   );
                 })}
