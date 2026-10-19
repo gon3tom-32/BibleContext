@@ -127,5 +127,20 @@
   "crossRefs": {
     "perChapter": 4,
     "minVotes": 5
-  }
+  },
+  "language": "Hebrew",
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Dead Sea, the Jordan River, Jerusalem, and Jericho aren't mentioned in Ruth; they're pulled only to draw the map."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for unnamed people in Ruth (the closer relative, Boaz's foreman, the women of Bethlehem). Those stay hand-written."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's Easton's text for Chilion calls Orpah \"Ruth's sister\", which the text doesn't say."
+    }
+  ]
 }

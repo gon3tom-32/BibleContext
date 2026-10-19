@@ -11,13 +11,15 @@ for (const x of s) console.log([x.id, x.repo, x.commit, ...x.paths].join("\u001f
 ' | while IFS=$'\x1f' read -r -a parts; do
   id="${parts[0]}"; repo="${parts[1]}"; commit="${parts[2]}"; paths=("${parts[@]:3}")
   dir="$CACHE/$id"
-  if [ -f "$dir/.fetched-$commit" ]; then echo "✓ $id (cached)"; continue; fi
+  # Cache key covers the commit and the file list, so adding a path refetches.
+  key=$(printf '%s\n' "$commit" "${paths[@]}" | sha1sum | cut -c1-12)
+  if [ -f "$dir/.fetched-$key" ]; then echo "✓ $id (cached)"; continue; fi
   rm -rf "$dir"; mkdir -p "$dir"
   git -C "$dir" init -q
   git -C "$dir" remote add origin "$repo"
   git -C "$dir" sparse-checkout set --no-cone "${paths[@]}"
   git -C "$dir" fetch -q --depth 1 --filter=blob:none origin "$commit"
   git -C "$dir" checkout -q FETCH_HEAD
-  touch "$dir/.fetched-$commit"
+  touch "$dir/.fetched-$key"
   echo "✓ $id @ ${commit:0:7}"
 done

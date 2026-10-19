@@ -1,0 +1,223 @@
+{
+  "osis": "Matt",
+  "stepBook": "Mat",
+  "webFile": "matthew.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "bethlehem",
+      "ancientId": "a112427"
+    },
+    {
+      "id": "egypt",
+      "ancientId": "af301ca",
+      "map": "none"
+    },
+    {
+      "id": "nazareth",
+      "ancientId": "af5884f"
+    },
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9"
+    },
+    {
+      "id": "galilee",
+      "ancientId": "a9cf1e8"
+    },
+    {
+      "id": "capernaum",
+      "ancientId": "af2161c"
+    },
+    {
+      "id": "sea-of-galilee",
+      "ancientId": "a562fcc"
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "decapolis",
+      "ancientId": "ae733a2"
+    },
+    {
+      "id": "jericho",
+      "ancientId": "aaf03fa"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "bethany",
+      "ancientId": "a4f35bc"
+    },
+    {
+      "id": "mount-of-olives",
+      "ancientId": "ac2c4c5"
+    },
+    {
+      "id": "gethsemane",
+      "ancientId": "a42418f"
+    },
+    {
+      "id": "golgotha",
+      "ancientId": "a631d35"
+    },
+    {
+      "id": "chorazin",
+      "ancientId": "a593a48"
+    },
+    {
+      "id": "bethsaida",
+      "ancientId": "a91b732"
+    },
+    {
+      "id": "caesarea-philippi",
+      "ancientId": "ab7bf48"
+    },
+    {
+      "id": "arimathea",
+      "ancientId": "af3d9fc"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "mary",
+      "theographic": "mary_1938"
+    },
+    {
+      "id": "joseph",
+      "theographic": "joseph_1715"
+    },
+    {
+      "id": "herod",
+      "theographic": "herod_1504"
+    },
+    {
+      "id": "archelaus",
+      "theographic": "archelaus_291"
+    },
+    {
+      "id": "john-baptist",
+      "theographic": "john_1676"
+    },
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "andrew",
+      "theographic": "andrew_264"
+    },
+    {
+      "id": "james-zebedee",
+      "theographic": "james_717"
+    },
+    {
+      "id": "john-apostle",
+      "theographic": "john_1677"
+    },
+    {
+      "id": "matthew",
+      "theographic": "matthew_1971"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    }
+  ],
+  "words": [
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Matthew 3:2"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Matthew 3:15"
+    },
+    {
+      "id": "pleroo",
+      "strongs": [
+        "G4137"
+      ],
+      "foundAt": "Matthew 1:22"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Matthew 3:2"
+    },
+    {
+      "id": "magos",
+      "strongs": [
+        "G3097"
+      ],
+      "foundAt": "Matthew 2:1"
+    },
+    {
+      "id": "emmanouel",
+      "strongs": [
+        "G1694"
+      ],
+      "foundAt": "Matthew 1:23"
+    },
+    {
+      "id": "christos",
+      "strongs": [
+        "G5547"
+      ],
+      "foundAt": "Matthew 1:1"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean, the Dead Sea, and Samaria aren't central to Matthew's story; they're pulled to draw the map. Egypt is off the map."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for the magi, the devil, or groups like the Pharisees and Sadducees. Those stay hand-written."
+    },
+    {
+      "area": "chapters",
+      "text": "Chapters 5 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+    },
+    {
+      "area": "words",
+      "text": "Emmanouel appears only once in the New Testament; its other uses (Isaiah 7:14, 8:8) are in the Hebrew Bible, which the Greek tagging doesn't cover."
+    }
+  ]
+}

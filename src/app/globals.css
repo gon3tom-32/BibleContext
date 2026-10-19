@@ -399,3 +399,11 @@ textarea { resize: vertical; }
   .map-svg .stop-ring { r: 28px; }
   .map-svg .stop-num-text { font-size: 22px; transform: translateY(2px); transform-box: fill-box; }
 }
+
+.greek { font-family: var(--font-greek), "Times New Roman", serif; font-weight: 400; }
+.scripture p.poetry { white-space: pre-line; padding-left: 1.25em; }
+.map-svg .lbl-region { letter-spacing: 0.2em; text-transform: uppercase; font-weight: 600; fill: var(--green); }
+@media (max-width: 640px) { .map-svg .lbl-region { font-size: 20px; } }
+
+.data-facts { display: flex; flex-direction: column; gap: 14px; background: var(--bg); border-radius: 8px; padding: 18px 20px; }
+.data-facts p { font-size: 15px; color: var(--body); }

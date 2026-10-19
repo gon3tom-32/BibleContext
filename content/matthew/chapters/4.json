@@ -1,0 +1,32 @@
+{
+  "number": 4,
+  "sceneHappening": "Testing in the wilderness, then a new home in Galilee",
+  "summary": "The Spirit leads Jesus into the wilderness. After fasting forty days, he is tempted by the devil three times: to turn stones into bread, to throw himself down from the temple, and to take all the kingdoms of the world in exchange for worship. He answers each time with words from Deuteronomy. When John is arrested, Jesus leaves Nazareth for Capernaum by the Sea of Galilee, which Matthew links to Isaiah's \"Galilee of the nations.\" He begins preaching, \"Repent, for the kingdom of heaven is near,\" and calls four fishermen: Peter and Andrew, then James and John, who leave their nets and their father. He teaches in synagogues and heals, and crowds follow from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.",
+  "whySettingMatters": "Forty days in the wilderness echo Israel's forty years there, and every answer Jesus gives comes from Moses' words about those years. Galilee was farther from Jerusalem and close to Gentile towns, and Capernaum sat on a trade route by the lake. Fishing was a family business, so leaving the boat meant leaving income and family duty.",
+  "people": [
+    { "id": "jesus", "note": "Tested where Israel was tested, then starts his work in Galilee." },
+    { "id": "the-devil", "note": "Offers shortcuts: bread, a spectacle, and power without the cross." },
+    { "id": "peter", "note": "Called with his brother from their nets." },
+    { "id": "andrew", "note": "Leaves his nets with Peter." },
+    { "id": "james-zebedee", "note": "Leaves the boat and his father with his brother John." },
+    { "id": "john-apostle", "note": "Called with James from their father's boat." }
+  ],
+  "questions": [
+    "Each temptation offers something that isn't wrong in itself. What makes it a temptation?",
+    "Jesus answers with Scripture about Israel's wilderness years. Why might those passages fit his moment?",
+    "Why might Jesus start in Galilee rather than in Jerusalem?",
+    "What did the fishermen leave behind, and what were they stepping into?"
+  ],
+  "words": [
+    { "id": "metanoeo", "note": "Jesus begins with the same call as John: \"Repent\" (4:17)." },
+    { "id": "basileia", "note": "\"The kingdom of heaven is near\" (4:17), and all the kingdoms of the world on offer (4:8)." },
+    { "id": "pleroo", "note": "The move to Capernaum fulfills Isaiah (4:14)." }
+  ],
+  "crossRefs": [
+    { "ref": "Deuteronomy 8:3", "note": "people don't live by bread alone" },
+    { "ref": "Deuteronomy 6:16", "note": "don't put the Lord to the test" },
+    { "ref": "Deuteronomy 6:13", "note": "worship the Lord your God" },
+    { "ref": "Isaiah 9:1-2", "note": "light for Galilee of the nations" }
+  ],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

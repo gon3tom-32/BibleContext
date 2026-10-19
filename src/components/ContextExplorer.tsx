@@ -56,7 +56,7 @@ export default function ContextExplorer({ map, slug }: { map: MapData; slug: str
             <h3>{stop.title}</h3>
             <p>{stop.text}</p>
             {stop.locationNote && <p className="stop-note">{stop.locationNote}</p>}
-            <Link href={`/${slug}/${map.chapter}/`}>Read Chapter {map.chapter}</Link>
+            <Link href={`/${slug}/${stop.chapter ?? map.chapter}/`}>Read Chapter {stop.chapter ?? map.chapter}</Link>
           </div>
         )}
       </div>

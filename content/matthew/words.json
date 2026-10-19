@@ -1,0 +1,323 @@
+[
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "Kingship or reign: God's rule, not mainly a territory. Matthew usually says \"kingdom of heaven\" where Mark and Luke say \"kingdom of God,\" likely a reverent Jewish way of referring to God without naming him. It's the theme of Jesus' preaching from his first words (4:17).",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 1:15",
+        "note": "\"The kingdom of God has come near.\""
+      },
+      {
+        "ref": "Luke 17:21",
+        "note": "\"The kingdom of God is among you.\""
+      },
+      {
+        "ref": "Romans 14:17",
+        "note": "Righteousness, peace, and joy."
+      },
+      {
+        "ref": "Revelation 11:15",
+        "note": "\"The kingdom of the world has become the kingdom of our Lord.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaiosyne",
+    "transliteration": "dikaiosynē",
+    "original": "δικαιοσύνη",
+    "pronunciation": "dee-kai-oh-SOO-nay",
+    "gloss": "righteousness",
+    "notes": "Doing what is right before God and toward others. In Matthew it's mostly about how people actually live (5:20, 6:1), with a sense of being in the right with God. Paul later uses the same word for the right standing God gives.",
+    "range": [
+      {
+        "sense": "Right conduct",
+        "note": "Living in line with God's will."
+      },
+      {
+        "sense": "Justice",
+        "note": "Fairness and rightness in dealings with others."
+      },
+      {
+        "sense": "Right standing",
+        "note": "Being declared in the right before God (especially in Paul)."
+      }
+    ],
+    "translations": [
+      "righteousness",
+      "justice",
+      "what is right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:17",
+        "note": "God's righteousness revealed in the gospel."
+      },
+      {
+        "ref": "Romans 3:22",
+        "note": "Righteousness through faith."
+      },
+      {
+        "ref": "2 Corinthians 5:21",
+        "note": "\"That we might become the righteousness of God.\""
+      },
+      {
+        "ref": "James 2:23",
+        "note": "Abraham counted righteous."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pleroo",
+    "transliteration": "plēroō",
+    "original": "πληρόω",
+    "pronunciation": "play-ROH-oh",
+    "gloss": "to fulfill, fill",
+    "notes": "To fill up or complete. Matthew uses it again and again for Scripture reaching its full meaning in Jesus (\"this was to fulfill\"). Sometimes that's a prediction coming true; sometimes it's a pattern in Israel's story repeated in his, as with \"Out of Egypt I called my son\" (2:15).",
+    "range": [
+      {
+        "sense": "Fill",
+        "note": "Make something full, like a net (13:48)."
+      },
+      {
+        "sense": "Complete",
+        "note": "Finish or bring to an end."
+      },
+      {
+        "sense": "Bring to full meaning",
+        "note": "Show what a Scripture was pointing toward."
+      }
+    ],
+    "translations": [
+      "fulfill",
+      "fill",
+      "complete",
+      "accomplish"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 4:21",
+        "note": "\"Today this Scripture has been fulfilled.\""
+      },
+      {
+        "ref": "John 15:25",
+        "note": "Fulfilling what is written in the law."
+      },
+      {
+        "ref": "Romans 13:8",
+        "note": "Love fulfills the law."
+      },
+      {
+        "ref": "Galatians 5:14",
+        "note": "The whole law fulfilled in one command."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoeo",
+    "transliteration": "metanoeō",
+    "original": "μετανοέω",
+    "pronunciation": "meh-tah-no-EH-oh",
+    "gloss": "to repent",
+    "notes": "Literally \"to change one's mind,\" but in the Bible it means turning around: a change of heart and direction toward God. Behind it stands the Hebrew prophets' call to \"turn\" (shuv). It's the first word of both John's and Jesus' preaching in Matthew.",
+    "range": [
+      {
+        "sense": "Change one's mind",
+        "note": "Think again about something."
+      },
+      {
+        "sense": "Turn from wrongdoing",
+        "note": "Regret and leave behind what was wrong."
+      },
+      {
+        "sense": "Turn toward God",
+        "note": "A new direction for the whole life."
+      }
+    ],
+    "translations": [
+      "repent",
+      "turn back",
+      "change your hearts and lives"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 1:15",
+        "note": "\"Repent and believe the good news.\""
+      },
+      {
+        "ref": "Luke 15:7",
+        "note": "Joy in heaven over one who repents."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Peter's call at Pentecost."
+      },
+      {
+        "ref": "Revelation 2:5",
+        "note": "A call to a church to return."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "magos",
+    "transliteration": "magos",
+    "original": "μάγος",
+    "pronunciation": "MAH-goss",
+    "gloss": "magus, wise man",
+    "notes": "Originally a priestly class among the Medes and Persians. By the first century the word covered experts in stars, dreams, and hidden knowledge, and could also mean a sorcerer. Matthew doesn't say how many came or that they were kings; those ideas came later.",
+    "uncertain": "Who exactly the visitors were, and whether they came from Persia, Babylon, or Arabia, is debated.",
+    "range": [
+      {
+        "sense": "Persian priest-scholar",
+        "note": "A member of the Magian class."
+      },
+      {
+        "sense": "Astrologer or dream-reader",
+        "note": "Someone who interprets signs in the sky."
+      },
+      {
+        "sense": "Magician",
+        "note": "A negative sense, as in Acts 13."
+      }
+    ],
+    "translations": [
+      "wise men",
+      "magi",
+      "astrologers"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 13:6",
+        "note": "Bar-Jesus, a magician on Cyprus."
+      },
+      {
+        "ref": "Acts 13:8",
+        "note": "Elymas \"the magician.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "emmanouel",
+    "transliteration": "Emmanouēl",
+    "original": "Ἐμμανουήλ",
+    "pronunciation": "em-mah-noo-AIL",
+    "gloss": "God with us",
+    "notes": "The Greek spelling of the Hebrew name Immanu-el. Matthew translates it for his readers, and the book ends on the same note: \"I am with you always\" (28:20).",
+    "range": [
+      {
+        "sense": "A name",
+        "note": "Given in Isaiah's sign to King Ahaz."
+      }
+    ],
+    "translations": [
+      "Immanuel",
+      "Emmanuel"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Isaiah 7:14",
+        "note": "The sign of the child (in Hebrew)."
+      },
+      {
+        "ref": "Isaiah 8:8",
+        "note": "\"Your land, O Immanuel\" (in Hebrew)."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "christos",
+    "transliteration": "Christos",
+    "original": "Χριστός",
+    "pronunciation": "khris-TOSS",
+    "gloss": "Christ, anointed one",
+    "notes": "Greek for the Hebrew mashiach, \"anointed one\" (Messiah). Kings and priests were anointed with oil; by Jesus' time many hoped for an anointed king from David's line who would set Israel free. In Matthew it's still a title, not yet a surname.",
+    "range": [
+      {
+        "sense": "Anointed",
+        "note": "Marked out with oil for a role."
+      },
+      {
+        "sense": "The Messiah",
+        "note": "The promised king from David's line."
+      },
+      {
+        "sense": "A name for Jesus",
+        "note": "Later, almost a second name (\"Jesus Christ\")."
+      }
+    ],
+    "translations": [
+      "Christ",
+      "Messiah",
+      "Anointed One"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 8:29",
+        "note": "Peter: \"You are the Christ.\""
+      },
+      {
+        "ref": "John 1:41",
+        "note": "\"We have found the Messiah.\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "\"Both Lord and Christ.\""
+      },
+      {
+        "ref": "Romans 1:4",
+        "note": "Declared Son of God in power."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]

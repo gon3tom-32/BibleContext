@@ -37,6 +37,13 @@ They were read from STEPBible's tagged Hebrew text at a verse where each word ap
 
 The journey map is projected from `generated/places.json` (Dead Sea outline, Jordan course, Moab's confidence bands, town points). The route and stop 3's position are hand-picked in `map.json` (`real.route`, `real.stops`) because Ruth doesn't say which road was taken; the page says so.
 
+## Adding a book
+
+1. Create `content/<slug>/` with `book.json` (set `order`, `testament`, `language`), `people.json`, `places.json`, `words.json`, `map.json`, `timeline.json`, and `chapters/<n>.json` for each chapter you've written up. Chapters without a file still get a page with the text and what the datasets know.
+2. Add `content/<slug>/sources.config.json`: the OSIS and STEPBible book codes, the WEB file name, `language` ("Hebrew" or "Greek"), and the place, person, and word IDs to pull. Find Strong's numbers by reading STEPBible's tagged text at a verse where the word appears (record it in `foundAt`).
+3. Run `npm run data:fetch` and `node scripts/pull-sources.mjs <slug>`, then read `generated/gaps.json`.
+4. In `map.json`'s `real` section, set the bounds and stops. Use `labelAt` to move or hide (`null`) crowded labels, `scaleCorner` to move the scale bar, and leave out `route` when the book doesn't follow one road.
+
 ## Things to know
 
 - **Blocked sources:** the HelloAO Free Use Bible API and openbible.info weren't reachable from the build environment, so the WEB text comes from github.com/TehShrike/world-english-bible and the cross-reference file from github.com/scrollmapper/bible_databases (a copy of OpenBible's file dated 2024-11-04).

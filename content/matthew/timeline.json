@@ -1,0 +1,37 @@
+{
+  "title": "Where Matthew fits",
+  "eras": [
+    { "id": "exile", "label": "Exile and return", "order": 1 },
+    { "id": "greek", "label": "Greek rule", "order": 2 },
+    { "id": "herod", "label": "Rome and Herod", "order": 3 },
+    { "id": "ministry", "label": "Jesus' ministry", "order": 4 },
+    { "id": "after", "label": "After the temple falls", "order": 5 }
+  ],
+  "focusEraId": "ministry",
+  "lanes": [
+    { "id": "israel", "label": "Judea and Galilee" },
+    { "id": "neighbors", "label": "Empires" },
+    { "id": "book", "label": "This book" }
+  ],
+  "events": [
+    { "lane": "israel", "eraId": "exile", "text": "Judah taken to Babylon; some return and rebuild the temple." },
+    { "lane": "israel", "eraId": "greek", "text": "The Maccabean revolt; a brief Jewish kingdom." },
+    { "lane": "israel", "eraId": "herod", "text": "Herod the Great rules for Rome and rebuilds the temple." },
+    { "lane": "israel", "eraId": "ministry", "text": "Herod's sons rule Galilee; a Roman governor rules Judea." },
+    { "lane": "israel", "eraId": "after", "text": "Jerusalem and the temple destroyed in AD 70." },
+    { "lane": "neighbors", "eraId": "exile", "text": "Babylon, then Persia." },
+    { "lane": "neighbors", "eraId": "greek", "text": "Alexander the Great and the kingdoms that follow him." },
+    { "lane": "neighbors", "eraId": "herod", "text": "Rome takes control (63 BC); Augustus becomes emperor." },
+    { "lane": "neighbors", "eraId": "ministry", "text": "Tiberius is emperor; Pilate governs Judea." },
+    { "lane": "neighbors", "eraId": "after", "text": "Rome rebuilds its grip after the Jewish war." },
+    { "lane": "book", "eraId": "herod", "text": "Jesus is born near the end of Herod's reign", "highlight": true },
+    { "lane": "book", "eraId": "ministry", "text": "Most of the story takes place", "highlight": true },
+    { "lane": "book", "eraId": "after", "text": "Probably written (date debated)", "highlight": true }
+  ],
+  "teaser": [
+    { "title": "Herod the Great rules for Rome", "text": "Jesus is born near the end of Herod's reign, which ended around 4 BC. The exact year is debated.", "tone": "green" },
+    { "title": "Jesus' ministry", "text": "Usually placed around AD 28–33, in Galilee and then Jerusalem.", "tone": "gold" },
+    { "title": "Matthew is written", "text": "Many scholars say AD 70–90; some argue for before 70. Debated.", "tone": "ink" }
+  ],
+  "review": { "status": "needs-review", "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon." }
+}

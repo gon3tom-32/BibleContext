@@ -35,5 +35,8 @@
   "review": {
     "status": "needs-review",
     "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
-  }
+  },
+  "order": 8,
+  "testament": "OT",
+  "language": "Hebrew"
 }

@@ -13,7 +13,7 @@
       "lexicon": [
         {
           "strongs": "H2617A",
-          "hebrew": "חֶ֫סֶד",
+          "original": "חֶ֫סֶד",
           "transliteration": "che.sed",
           "partOfSpeech": "H:N-M",
           "gloss": "kindness",
@@ -22,17 +22,17 @@
       ],
       "formsInBook": [
         {
-          "hebrew": "חֶ֔סֶד",
+          "original": "חֶ֔סֶד",
           "translit": "Che.sed",
           "gloss": "covenant loyalty"
         },
         {
-          "hebrew": "חַסְדּ֔וֹ",
+          "original": "חַסְדּ֔וֹ",
           "translit": "chas.D/o",
           "gloss": "covenant loyalty/ his"
         },
         {
-          "hebrew": "חַסְדֵּ֥ךְ",
+          "original": "חַסְדֵּ֥ךְ",
           "translit": "chas.De/kh",
           "gloss": "loyalty/ your"
         }
@@ -42,7 +42,9 @@
         "Ruth 2:20",
         "Ruth 3:10"
       ],
-      "hebrewBibleCount": 239,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 239,
       "elsewhereCheck": [
         {
           "ref": "Exodus 34:6",
@@ -77,21 +79,21 @@
       "lexicon": [
         {
           "strongs": "H7706",
-          "hebrew": "שַׁדַּי",
+          "original": "שַׁדַּי",
           "transliteration": "shad.day",
           "partOfSpeech": "H:N-M",
           "gloss": "Almighty",
-          "meaning": "Shaddai, the Almighty (God)\nAnother name of ye.ho.vah (יהוה \"LORD\" H3068G) \n This name means  almighty, most powerful"
+          "meaning": "Shaddai, the Almighty (God)\nAnother name of ye.ho.vah (יהוה \"LORD\" H3068G)\nThis name means almighty, most powerful"
         }
       ],
       "formsInBook": [
         {
-          "hebrew": "שַׁדַּ֛י",
+          "original": "שַׁדַּ֛י",
           "translit": "sha.Dai",
           "gloss": "[the] Almighty"
         },
         {
-          "hebrew": "וְשַׁדַּ֖י",
+          "original": "וְשַׁדַּ֖י",
           "translit": "ve./sha.Dai",
           "gloss": "and/ [the] Almighty"
         }
@@ -100,7 +102,9 @@
         "Ruth 1:20",
         "Ruth 1:21"
       ],
-      "hebrewBibleCount": 48,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 48,
       "elsewhereCheck": [
         {
           "ref": "Genesis 17:1",
@@ -131,16 +135,16 @@
       "lexicon": [
         {
           "strongs": "H4755",
-          "hebrew": "מָרָא",
+          "original": "מָרָא",
           "transliteration": "ma.ra",
           "partOfSpeech": "N:N-F-P",
           "gloss": "Mara",
-          "meaning": "A woman living before Israel's Monarchy, first mentioned at Rut.1.2; married to Elimelech (H0458); \n mother of: Mahlon (H4248) and Chilion (H3630); also called Mara at Rut.1.20; \nAnother name of no.o.mi (נׇעֳמִי \"Naomi\" H5281) \n § Mara = \"bitterness\"\n a name that Naomi called herself due to her calamities"
+          "meaning": "A woman living before Israel's Monarchy, first mentioned at Rut.1.2; married to Elimelech (H0458);\nmother of: Mahlon (H4248) and Chilion (H3630); also called Mara at Rut.1.20;\nAnother name of no.o.mi (נׇעֳמִי \"Naomi\" H5281)\n§ Mara = \"bitterness\"\na name that Naomi called herself due to her calamities"
         }
       ],
       "formsInBook": [
         {
-          "hebrew": "מָרָ֔א",
+          "original": "מָרָ֔א",
           "translit": "ma.Ra'",
           "gloss": "Mara"
         }
@@ -148,7 +152,9 @@
       "occurrencesInBook": [
         "Ruth 1:20"
       ],
-      "hebrewBibleCount": 1,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 1,
       "elsewhereCheck": [
         {
           "ref": "Exodus 15:23",
@@ -175,7 +181,7 @@
       "lexicon": [
         {
           "strongs": "H1350A",
-          "hebrew": "גָּאַל",
+          "original": "גָּאַל",
           "transliteration": "ga.al",
           "partOfSpeech": "H:V",
           "gloss": "to redeem: redeem",
@@ -184,32 +190,32 @@
       ],
       "formsInBook": [
         {
-          "hebrew": "מִֽגֹּאֲלֵ֖נוּ",
+          "original": "מִֽגֹּאֲלֵ֖נוּ",
           "translit": "mi./go.'a.Le./nu",
           "gloss": "[is] one of/ kinsman-redeemer[s]/ our"
         },
         {
-          "hebrew": "גֹאֵ֖ל",
+          "original": "גֹאֵ֖ל",
           "translit": "go.'El",
           "gloss": "[are] a kinsman-redeemer"
         },
         {
-          "hebrew": "גֹאֵ֖ל",
+          "original": "גֹאֵ֖ל",
           "translit": "go.'El",
           "gloss": "[am] a kinsman-redeemer"
         },
         {
-          "hebrew": "גֹּאֵ֖ל",
+          "original": "גֹּאֵ֖ל",
           "translit": "go.'El",
           "gloss": "[is] a kinsman-redeemer"
         },
         {
-          "hebrew": "יִגְאָלֵ֥ךְ",
+          "original": "יִגְאָלֵ֥ךְ",
           "translit": "yig.'a.Le/kh",
           "gloss": "he will redeem/ you"
         },
         {
-          "hebrew": "יִגְאָ֔ל",
+          "original": "יִגְאָ֔ל",
           "translit": "yig.'Al",
           "gloss": "let him redeem"
         }
@@ -226,7 +232,9 @@
         "Ruth 4:8",
         "Ruth 4:14"
       ],
-      "hebrewBibleCount": 69,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 69,
       "elsewhereCheck": [
         {
           "ref": "Leviticus 25:25",
@@ -267,7 +275,7 @@
       "lexicon": [
         {
           "strongs": "H2428G",
-          "hebrew": "חַ֫יִל",
+          "original": "חַ֫יִל",
           "transliteration": "cha.yil",
           "partOfSpeech": "H:N-M",
           "gloss": "strength",
@@ -275,7 +283,7 @@
         },
         {
           "strongs": "H2428H",
-          "hebrew": "חַ֫יִל",
+          "original": "חַ֫יִל",
           "transliteration": "cha.yil",
           "partOfSpeech": "H:N-M",
           "gloss": "strength: rich",
@@ -283,7 +291,7 @@
         },
         {
           "strongs": "H2428I",
-          "hebrew": "חַ֫יִל",
+          "original": "חַ֫יִל",
           "transliteration": "cha.yil",
           "partOfSpeech": "H:N-M",
           "gloss": "strength: worthy",
@@ -292,17 +300,17 @@
       ],
       "formsInBook": [
         {
-          "hebrew": "חַ֔יִל",
+          "original": "חַ֔יִל",
           "translit": "Cha.yil",
           "gloss": "wealth"
         },
         {
-          "hebrew": "חַ֖יִל",
+          "original": "חַ֖יִל",
           "translit": "Cha.yil",
           "gloss": "ability"
         },
         {
-          "hebrew": "חַ֣יִל",
+          "original": "חַ֣יִל",
           "translit": "Cha.yil",
           "gloss": "wealth"
         }
@@ -312,7 +320,9 @@
         "Ruth 3:11",
         "Ruth 4:11"
       ],
-      "hebrewBibleCount": 132,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 132,
       "elsewhereCheck": [
         {
           "ref": "Proverbs 31:10",
@@ -343,7 +353,7 @@
       "lexicon": [
         {
           "strongs": "H3671",
-          "hebrew": "כָּנָף",
+          "original": "כָּנָף",
           "transliteration": "ka.naph",
           "partOfSpeech": "H:N-F",
           "gloss": "wing",
@@ -352,12 +362,12 @@
       ],
       "formsInBook": [
         {
-          "hebrew": "כְּנָפָֽיו׃",
+          "original": "כְּנָפָֽיו׃",
           "translit": "ke.na.Fa/v",
           "gloss": "wings/ his"
         },
         {
-          "hebrew": "כְנָפֶ֙ךָ֙",
+          "original": "כְנָפֶ֙ךָ֙",
           "translit": "khe.na.Fe./kha",
           "gloss": "skirt/ your"
         }
@@ -366,7 +376,9 @@
         "Ruth 2:12",
         "Ruth 3:9"
       ],
-      "hebrewBibleCount": 85,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 85,
       "elsewhereCheck": [
         {
           "ref": "Psalm 91:4",
@@ -398,7 +410,7 @@
       "lexicon": [
         {
           "strongs": "H6423",
-          "hebrew": "פְּלֹנִי",
+          "original": "פְּלֹנִי",
           "transliteration": "pe.lo.ni",
           "partOfSpeech": "H:N",
           "gloss": "someone",
@@ -406,7 +418,7 @@
         },
         {
           "strongs": "H0492",
-          "hebrew": "אַלְמֹנִי",
+          "original": "אַלְמֹנִי",
           "transliteration": "al.mo.ni",
           "partOfSpeech": "H:A",
           "gloss": "someone",
@@ -415,12 +427,12 @@
       ],
       "formsInBook": [
         {
-          "hebrew": "פְּלֹנִ֣י",
+          "original": "פְּלֹנִ֣י",
           "translit": "pe.lo.Ni",
           "gloss": "a certain one"
         },
         {
-          "hebrew": "אַלְמֹנִ֑י",
+          "original": "אַלְמֹנִ֑י",
           "translit": "'al.mo.Ni",
           "gloss": "a certain one"
         }
@@ -428,7 +440,9 @@
       "occurrencesInBook": [
         "Ruth 4:1"
       ],
-      "hebrewBibleCount": 3,
+      "language": "Hebrew",
+      "corpus": "Hebrew Bible",
+      "corpusCount": 3,
       "elsewhereCheck": [
         {
           "ref": "1 Samuel 21:2",
