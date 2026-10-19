@@ -1,0 +1,25 @@
+{
+  "slug": "ruth",
+  "title": "Ruth",
+  "chapterCount": 4,
+  "tagline": "God's quiet faithfulness, working through ordinary people in a chaotic age, including a foreigner who became part of the story.",
+  "author": "Anonymous",
+  "authorNote": "Jewish tradition points to Samuel; scholars debate it. Most place the writing in the monarchy period, looking back.",
+  "authorDebated": true,
+  "audience": "Israel under the kings",
+  "audienceNote": "Likely an audience that knew David's name and wanted to know where his family came from.",
+  "setting": "\"When the judges ruled\"",
+  "settingNote": "A morally messy era, with famine, migration, and little central authority.",
+  "genre": "Narrative",
+  "genreNote": "A short story told with care. Watch the dialogue, the loyal love, and what goes unsaid.",
+  "bigIdea": "Loyal love (*hesed*) shows up in small, costly choices, and God is at work in them.",
+  "themes": ["Loyal love", "Redemption", "Outsiders welcomed", "Providence"],
+  "mapTitle": "Map: Moab to Bethlehem",
+  "mapSummary": "A famine pushes a family east into Moab, a neighboring rival. A widow returns west with a Moabite daughter-in-law at her side.",
+  "scene": {
+    "author": "An unnamed author",
+    "audience": "Israel in the days of the kings",
+    "happening": "A famine in the days of the judges"
+  },
+  "overviewPeople": ["naomi", "ruth", "boaz", "orpah"]
+}

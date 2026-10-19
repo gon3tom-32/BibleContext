@@ -1,0 +1,11 @@
+[
+  { "id": "naomi", "name": "Naomi", "note": "An Israelite widow from Bethlehem who loses her husband and both sons in Moab.", "chapters": [1, 2, 3, 4] },
+  { "id": "ruth", "name": "Ruth", "note": "A Moabite widow who chooses to stay with Naomi and her God.", "chapters": [1, 2, 3, 4] },
+  { "id": "boaz", "name": "Boaz", "note": "A landowner of Bethlehem and a relative of Naomi's late husband.", "chapters": [2, 3, 4] },
+  { "id": "orpah", "name": "Orpah", "note": "Naomi's other daughter-in-law, who returns to her people in Moab.", "chapters": [1] },
+  { "id": "elimelech-sons", "name": "Elimelech, Mahlon, Chilion", "note": "Naomi's husband and sons. They die in Moab, which sets the story in motion.", "chapters": [1] },
+  { "id": "foreman", "name": "Boaz's foreman", "note": "The servant in charge of the harvesters.", "chapters": [2] },
+  { "id": "nearer-redeemer", "name": "The closer relative", "note": "A nearer redeemer than Boaz, who turns down the duty. Never named.", "chapters": [3, 4] },
+  { "id": "women-of-bethlehem", "name": "The women of Bethlehem", "note": "Greet Naomi's return in grief and celebrate Obed's birth.", "chapters": [1, 4] },
+  { "id": "obed", "name": "Obed", "note": "Son of Ruth and Boaz, father of Jesse, grandfather of David.", "chapters": [4] }
+]

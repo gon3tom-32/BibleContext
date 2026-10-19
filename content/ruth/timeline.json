@@ -1,0 +1,32 @@
+{
+  "title": "Where Ruth fits",
+  "eras": [
+    { "id": "exodus", "label": "Exodus and conquest", "order": 1 },
+    { "id": "judges", "label": "The judges", "order": 2 },
+    { "id": "early-kings", "label": "Early kings", "order": 3 },
+    { "id": "later-kings", "label": "Later kings", "order": 4 }
+  ],
+  "focusEraId": "judges",
+  "lanes": [
+    { "id": "israel", "label": "Israel" },
+    { "id": "neighbors", "label": "Neighbors" },
+    { "id": "book", "label": "This book" }
+  ],
+  "events": [
+    { "lane": "israel", "eraId": "exodus", "text": "Israel settles the land." },
+    { "lane": "israel", "eraId": "judges", "text": "No king. Cycles of unfaithfulness and rescue." },
+    { "lane": "israel", "eraId": "early-kings", "text": "Saul, then David." },
+    { "lane": "israel", "eraId": "later-kings", "text": "Kingdoms divide and decline." },
+    { "lane": "neighbors", "eraId": "exodus", "text": "Egypt, the land they left." },
+    { "lane": "neighbors", "eraId": "judges", "text": "Moab to the east. Philistines on the coast." },
+    { "lane": "neighbors", "eraId": "early-kings", "text": "Philistines remain a threat." },
+    { "lane": "neighbors", "eraId": "later-kings", "text": "Assyria, then Babylon, rise." },
+    { "lane": "book", "eraId": "judges", "text": "The story takes place", "highlight": true },
+    { "lane": "book", "eraId": "early-kings", "text": "Probably written, looking back", "highlight": true }
+  ],
+  "teaser": [
+    { "title": "Period of the judges", "text": "The setting of the story. Cycles of unfaithfulness and rescue in Israel.", "tone": "green" },
+    { "title": "Book of Ruth is written", "text": "Probably in the monarchy period. Date debated.", "tone": "gold" },
+    { "title": "David becomes king", "text": "The genealogy at the end of Ruth leads straight to him.", "tone": "ink" }
+  ]
+}

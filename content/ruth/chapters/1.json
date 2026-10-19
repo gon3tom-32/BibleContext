@@ -1,0 +1,57 @@
+{
+  "number": 1,
+  "summary": "A famine strikes Bethlehem, and Elimelech takes Naomi and their two sons east to Moab. Over about ten years, the sons marry Moabite women, and then all three men die. Naomi hears that the Lord has provided food at home and sets out for Bethlehem. Orpah turns back, but Ruth refuses to leave. They arrive as the barley harvest begins.",
+  "whySettingMatters": "With no husband or son, a widow had almost no legal or economic protection. Moab was a rival neighbor, so Ruth's choice to stay is a risk with real social cost.",
+  "people": [
+    {
+      "id": "naomi",
+      "note": "Returns from Moab grieving. Asks to be called Mara, meaning \"bitter.\""
+    },
+    {
+      "id": "ruth",
+      "note": "A Moabite widow who commits to Naomi, her people, and her God."
+    },
+    {
+      "id": "orpah",
+      "note": "Weeps, then returns to her family in Moab at Naomi's urging."
+    },
+    {
+      "id": "elimelech-sons",
+      "note": "Naomi's husband and sons. They die in Moab, which sets the story in motion."
+    }
+  ],
+  "questions": [
+    "What did leaving Bethlehem look like as a decision, and what did it cost the family?",
+    "Why might Naomi urge both women to go home? What does she assume about their future?",
+    "What is Ruth risking by staying, and what is she gaining?",
+    "Naomi says she came back \"empty.\" What does the reader already see that she doesn't?"
+  ],
+  "crossRefs": [
+    {
+      "ref": "Judges 21:25",
+      "note": "the era's moral backdrop"
+    },
+    {
+      "ref": "Deuteronomy 23:3",
+      "note": "Moabites and Israel's assembly"
+    },
+    {
+      "ref": "Leviticus 19:9-10",
+      "note": "gleaning, which Chapter 2 depends on"
+    }
+  ],
+  "words": [
+    {
+      "id": "hesed",
+      "note": "Naomi prays that the Lord show it to her daughters-in-law (1:8). It's the book's central word."
+    },
+    {
+      "id": "shaddai",
+      "note": "The name Naomi uses as she says God dealt bitterly with her (1:20-21)."
+    },
+    {
+      "id": "mara",
+      "note": "The name Naomi asks for, in place of \"pleasant.\""
+    }
+  ]
+}
