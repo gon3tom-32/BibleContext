@@ -1046,6 +1046,123 @@
         "fetched": "2026-10-19",
         "item": "G4697"
       }
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0652",
+          "original": "ἀπόστολος",
+          "transliteration": "apostolos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "apostle",
+          "meaning": "ἀπόστολος, -ου, ὁ\n(ἀοστέλλω), [in LXX; 3Ki.14:6 A (שָׁלַח) * ;]\n1. a fleet, an expedition (Dem.).\n2. a messenger, one sent on a mission (Hdt., LXX, l.with, and π.; see M, Pr., 37 f.; MM, see word; M, Th., i, 2:7 and reff.): Jhn.13:16, 2Co.8:23 Php.2:25.\n3. In NT, an Apostle of Christ\n(a) with special ref. to the Twelve: Mat.10:2, Mrk.3:14, Luk.11:49, Eph.3:5, Rev.18:20, al., equality with whom is claimed by St. Paul, Gal.1:1, 11 ff, 1Ti.2:7, a1.; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀποστόλων",
+          "translit": "apostolōn",
+          "gloss": "apostle"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 10:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 78,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 6:30",
+          "found": true
+        },
+        {
+          "ref": "Luke 6:13",
+          "found": true
+        },
+        {
+          "ref": "Acts 1:26",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0652"
+      }
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4716",
+          "original": "σταυρός",
+          "transliteration": "stauros",
+          "partOfSpeech": "G:N-M",
+          "gloss": "cross",
+          "meaning": "σταυρός, -oῦ, ὁ\n1. an upright pale or stake (Hom., Hdt., Thuc., al.)\n2. In late writers (Diod., Plut., al.) of the Roman instrument of crucifixion, the Cross: of the Cross on which Christ suffered, Mat.27:32, 40 27:42, Mrk.15:21, 30 15:32, Luk.23:26, Jhn.19:17, 19 19:25, 31, Col.2:14, Heb.12:2; θάνατος σταυροῦ, Php.2:8; τ. αἷμα τοῦ σ., Col.1:20. Metaphorical, in proverbial sayings: αἴρειν (λαμβάνειν, βαστάζειν) τὸν σ., Mat.10:38 16:24, Mrk.8:34 10:21, 15:21, Luk.9:23 14:27 (for an interesting ex. of metaphorically use in π., see MM, xxiii) By meton., for Christ's death on the Cross: 1Co.1:17, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σταυρὸν",
+          "translit": "stauron",
+          "gloss": "cross"
+        },
+        {
+          "original": "σταυροῦ",
+          "translit": "staurou",
+          "gloss": "cross"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 10:38",
+        "Matthew 16:24",
+        "Matthew 27:32",
+        "Matthew 27:40",
+        "Matthew 27:42"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 28,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:24",
+          "found": true
+        },
+        {
+          "ref": "Matthew 27:32",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:18",
+          "found": true
+        },
+        {
+          "ref": "Philippians 2:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4716"
+      }
     }
   ]
 }

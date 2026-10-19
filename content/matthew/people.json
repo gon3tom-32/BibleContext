@@ -123,5 +123,45 @@
     "id": "matthew",
     "name": "Matthew",
     "note": "A tax collector in Capernaum who becomes one of the twelve."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve apostles",
+    "note": "Peter, Andrew, James, John, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot."
+  },
+  {
+    "id": "simon-zealot",
+    "name": "Simon the Zealot",
+    "note": "One of the twelve. His name may point to zeal for the law or resistance to Rome."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "One of the twelve, who later betrays Jesus."
+  },
+  {
+    "id": "thomas",
+    "name": "Thomas",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "philip",
+    "name": "Philip",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "bartholomew",
+    "name": "Bartholomew",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "james-alphaeus",
+    "name": "James son of Alphaeus",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "thaddaeus",
+    "name": "Thaddaeus",
+    "note": "One of the twelve."
   }
 ]

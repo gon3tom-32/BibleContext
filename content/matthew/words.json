@@ -648,5 +648,101 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "apostolos",
+    "transliteration": "apostolos",
+    "original": "ἀπόστολος",
+    "pronunciation": "ah-POSS-toh-loss",
+    "gloss": "apostle, one sent",
+    "notes": "From the verb \"to send.\" An apostolos is a messenger sent with someone's authority to act on their behalf. Matthew uses the word only once, for the twelve as Jesus sends them out (10:2); elsewhere he calls them disciples.",
+    "range": [
+      {
+        "sense": "Messenger",
+        "note": "Someone sent with a message."
+      },
+      {
+        "sense": "Envoy",
+        "note": "Someone sent to act with the sender's authority."
+      },
+      {
+        "sense": "The apostles",
+        "note": "The twelve, and later others such as Paul."
+      }
+    ],
+    "translations": [
+      "apostle",
+      "messenger",
+      "one who is sent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 6:30",
+        "note": "The apostles report back to Jesus."
+      },
+      {
+        "ref": "Luke 6:13",
+        "note": "He chose twelve and named them apostles."
+      },
+      {
+        "ref": "Acts 1:26",
+        "note": "Matthias added to the eleven."
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, called to be an apostle."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauros",
+    "transliteration": "stauros",
+    "original": "σταυρός",
+    "pronunciation": "stow-ROSS",
+    "gloss": "cross",
+    "notes": "An upright stake, and the cross used for crucifixion. Rome reserved this execution for slaves, rebels, and the lowest criminals, and the condemned carried the crossbeam to the place of death. Jesus uses the image for following him (10:38) before he goes to the cross himself (27:32).",
+    "range": [
+      {
+        "sense": "Stake or cross",
+        "note": "The wooden frame used for crucifixion."
+      },
+      {
+        "sense": "Crucifixion",
+        "note": "The execution itself."
+      },
+      {
+        "sense": "The cost of following",
+        "note": "A picture of giving up one's life."
+      }
+    ],
+    "translations": [
+      "cross"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:24",
+        "note": "\"Take up their cross and follow me.\""
+      },
+      {
+        "ref": "Matthew 27:32",
+        "note": "Simon of Cyrene carries the cross."
+      },
+      {
+        "ref": "1 Corinthians 1:18",
+        "note": "The message of the cross."
+      },
+      {
+        "ref": "Philippians 2:8",
+        "note": "Obedient to death on a cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

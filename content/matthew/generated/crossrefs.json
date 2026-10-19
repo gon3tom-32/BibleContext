@@ -826,7 +826,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Jeremiah 50:6",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Psalm 104:27-30",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Micah 7:6",
+          "inDataset": true,
+          "votes": 53
+        },
+        {
+          "ref": "1 Samuel 14:45",
+          "inDataset": true,
+          "votes": 11
+        }
+      ]
     },
     {
       "number": 11,

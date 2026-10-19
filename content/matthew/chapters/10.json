@@ -1,0 +1,74 @@
+{
+  "number": 10,
+  "sceneHappening": "The twelve sent out to the towns of Israel",
+  "summary": "Jesus calls twelve disciples and gives them authority to drive out unclean spirits and heal every disease. Matthew lists them as apostles: Simon Peter and his brother Andrew, James and John the sons of Zebedee, Philip, Bartholomew, Thomas, Matthew the tax collector, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, who betrayed him. He sends them only to \"the lost sheep of Israel,\" not to Gentiles or Samaritans, to announce that the kingdom of heaven is near and to heal. They're to take no money, bag, or spare clothes, stay with whoever welcomes them, and shake the dust off their feet where they're rejected. He warns that they go like sheep among wolves: they'll be handed over to councils, flogged in synagogues, and brought before governors and kings, and families will turn against each other. But they need not be afraid. Not even a sparrow falls without the Father, and the hairs on their heads are numbered. He has come to bring a sword, not peace, in families; whoever doesn't take up their cross isn't worthy of him; and whoever loses their life for his sake will find it. Even a cup of cold water given to one of his followers won't go unrewarded.",
+  "whySettingMatters": "Twelve apostles echo the twelve tribes of Israel, a sign that Jesus is gathering God's people. The list puts Matthew, who had worked for the rulers Rome backed, next to Simon \"the Zealot,\" a name that may mean he was zealous for the law or opposed Roman rule (what it meant then is debated). Samaritans were rivals with their own temple, and Jews returning from Gentile land sometimes shook off its dust. Travelers depended on hospitality. Crucifixion was Rome's punishment for rebels and slaves, who carried the crossbeam themselves, so \"take up your cross\" was a shocking image. Sparrows were the cheapest meat in the market: two for a small copper coin, a sixteenth of a day's wage.",
+  "people": [
+    {
+      "id": "the-twelve",
+      "note": "Given authority and sent out to the towns of Israel."
+    },
+    {
+      "id": "peter",
+      "note": "Named first in the list."
+    },
+    {
+      "id": "matthew",
+      "note": "Listed as \"the tax collector,\" the one who worked for the Rome-backed rulers."
+    },
+    {
+      "id": "simon-zealot",
+      "note": "Named next to a former tax collector, an unlikely pairing."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Named last, already marked as the one who betrayed Jesus."
+    }
+  ],
+  "questions": [
+    "Why might Jesus put a tax collector and a zealot in the same small group?",
+    "He sends them out with almost nothing. What would that teach them, and what would it ask of the towns they visited?",
+    "Jesus says \"don't be afraid\" three times (10:26, 28, 31). What reasons does he give?",
+    "\"Take up your cross\" was said before Jesus' own crucifixion. What would the twelve have pictured?"
+  ],
+  "words": [
+    {
+      "id": "apostolos",
+      "note": "The only time Matthew calls them \"apostles\": the ones sent out (10:2)."
+    },
+    {
+      "id": "exousia",
+      "note": "Jesus gives them authority over unclean spirits and disease (10:1)."
+    },
+    {
+      "id": "basileia",
+      "note": "Their message: \"The kingdom of heaven is near\" (10:7)."
+    },
+    {
+      "id": "stauros",
+      "note": "\"Whoever doesn't take up their cross\" (10:38), the first mention of the cross in Matthew."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 50:6",
+      "note": "\"My people have been lost sheep\""
+    },
+    {
+      "ref": "Psalm 104:27-30",
+      "note": "every creature depends on God for its food and its life"
+    },
+    {
+      "ref": "Micah 7:6",
+      "note": "a person's enemies within their own household"
+    },
+    {
+      "ref": "1 Samuel 14:45",
+      "note": "\"not one hair of his head will fall\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
