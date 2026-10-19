@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "npx serve out",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "data:fetch": "bash scripts/fetch-sources.sh",
+    "data:pull": "node scripts/pull-sources.mjs ruth",
+    "data": "npm run data:fetch && npm run data:pull"
   },
   "dependencies": {
     "next": "^16.4.2",

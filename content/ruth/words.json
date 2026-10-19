@@ -7,18 +7,49 @@
     "gloss": "loyal love",
     "notes": "Covenant faithfulness that goes beyond what is owed: kindness, loyalty, and mercy bound together. It's what people in a committed relationship do for each other, especially when one can't repay. English has no single word for it, which is why translations vary so much. It's the central word of Ruth.",
     "range": [
-      { "sense": "Loyalty within a relationship", "note": "Keeping faith with family, friends, or covenant partners." },
-      { "sense": "Kindness beyond duty", "note": "Doing more than the relationship strictly requires." },
-      { "sense": "Mercy", "note": "Kindness shown to someone in need who has no claim to it." }
+      {
+        "sense": "Loyalty within a relationship",
+        "note": "Keeping faith with family, friends, or covenant partners."
+      },
+      {
+        "sense": "Kindness beyond duty",
+        "note": "Doing more than the relationship strictly requires."
+      },
+      {
+        "sense": "Mercy",
+        "note": "Kindness shown to someone in need who has no claim to it."
+      }
     ],
-    "translations": ["kindness", "loving-kindness", "steadfast love", "faithful love", "loyalty", "mercy"],
-    "ruthRefs": ["Ruth 1:8", "Ruth 2:20", "Ruth 3:10"],
+    "translations": [
+      "kindness",
+      "loving-kindness",
+      "steadfast love",
+      "faithful love",
+      "loyalty",
+      "mercy"
+    ],
     "elsewhere": [
-      { "ref": "Exodus 34:6", "note": "God describes himself as \"abounding in loyal love.\"" },
-      { "ref": "Psalm 136:1", "note": "The refrain \"his loyal love endures forever.\"" },
-      { "ref": "Hosea 6:6", "note": "God desires loyal love, not sacrifice." },
-      { "ref": "Micah 6:8", "note": "\"To love hesed,\" part of what God requires." }
-    ]
+      {
+        "ref": "Exodus 34:6",
+        "note": "God describes himself as \"abounding in loyal love.\""
+      },
+      {
+        "ref": "Psalm 136:1",
+        "note": "The refrain \"his loyal love endures forever.\""
+      },
+      {
+        "ref": "Hosea 6:6",
+        "note": "God desires loyal love, not sacrifice."
+      },
+      {
+        "ref": "Micah 6:8",
+        "note": "\"To love hesed,\" part of what God requires."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "shaddai",
@@ -29,16 +60,38 @@
     "notes": "An old name for God, often in the form El Shaddai, \"God Almighty.\" It's especially common in the stories of Israel's ancestors and in Job. Naomi uses it as she says God has dealt bitterly with her.",
     "uncertain": "Where the name comes from is debated. Suggestions include a word for \"mountain,\" a word for \"breast\" (God as provider), and a verb meaning \"to overpower.\"",
     "range": [
-      { "sense": "A divine name", "note": "Used as a name or title for God, not a common noun." },
-      { "sense": "God's power", "note": "Traditionally understood as stressing that God is mighty." }
+      {
+        "sense": "A divine name",
+        "note": "Used as a name or title for God, not a common noun."
+      },
+      {
+        "sense": "God's power",
+        "note": "Traditionally understood as stressing that God is mighty."
+      }
     ],
-    "translations": ["Almighty", "the Almighty", "Shaddai"],
-    "ruthRefs": ["Ruth 1:20", "Ruth 1:21"],
+    "translations": [
+      "Almighty",
+      "the Almighty",
+      "Shaddai"
+    ],
     "elsewhere": [
-      { "ref": "Genesis 17:1", "note": "God appears to Abram as El Shaddai." },
-      { "ref": "Exodus 6:3", "note": "God says he was known to the ancestors as El Shaddai." },
-      { "ref": "Job 5:17", "note": "One of many uses in Job." }
-    ]
+      {
+        "ref": "Genesis 17:1",
+        "note": "God appears to Abram as El Shaddai."
+      },
+      {
+        "ref": "Exodus 6:3",
+        "note": "God says he was known to the ancestors as El Shaddai."
+      },
+      {
+        "ref": "Job 5:17",
+        "note": "One of many uses in Job."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "mara",
@@ -48,15 +101,33 @@
     "gloss": "bitter",
     "notes": "\"Naomi\" sounds like the word for \"pleasant.\" Back in Bethlehem she asks to be called Mara, \"bitter,\" to match her grief. The idea of bitterness runs through her words in Chapter 1.",
     "range": [
-      { "sense": "Bitter to the taste", "note": "As in bitter water or bitter herbs." },
-      { "sense": "Bitter grief", "note": "Deep sorrow or a hard lot in life." }
+      {
+        "sense": "Bitter to the taste",
+        "note": "As in bitter water or bitter herbs."
+      },
+      {
+        "sense": "Bitter grief",
+        "note": "Deep sorrow or a hard lot in life."
+      }
     ],
-    "translations": ["Mara", "Bitter"],
-    "ruthRefs": ["Ruth 1:13", "Ruth 1:20"],
+    "translations": [
+      "Mara",
+      "Bitter"
+    ],
     "elsewhere": [
-      { "ref": "Exodus 15:23", "note": "Marah, the place of bitter water, from the same root." },
-      { "ref": "1 Samuel 1:10", "note": "Hannah prays \"in bitterness of soul,\" the same root." }
-    ]
+      {
+        "ref": "Exodus 15:23",
+        "note": "Marah, the place of bitter water, from the same root."
+      },
+      {
+        "ref": "1 Samuel 1:10",
+        "note": "Hannah prays \"in bitterness of soul,\" the same root."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "goel",
@@ -66,20 +137,56 @@
     "gloss": "redeemer",
     "notes": "A close relative with the right and duty to step in for family in trouble: buying back land that had been sold, freeing a relative sold into debt, or keeping a family line alive. In Ruth it starts as a family duty and becomes the shape of the whole story. Elsewhere in the Bible, God is called Israel's redeemer.",
     "range": [
-      { "sense": "Redeemer of land", "note": "Buying back family land so it stays in the family." },
-      { "sense": "Redeemer of a person", "note": "Buying back a relative who sold himself to pay debts." },
-      { "sense": "Avenger of blood", "note": "The relative responsible for justice when a family member was killed." },
-      { "sense": "God as redeemer", "note": "God acting as Israel's next of kin, rescuing his people." }
+      {
+        "sense": "Redeemer of land",
+        "note": "Buying back family land so it stays in the family."
+      },
+      {
+        "sense": "Redeemer of a person",
+        "note": "Buying back a relative who sold himself to pay debts."
+      },
+      {
+        "sense": "Avenger of blood",
+        "note": "The relative responsible for justice when a family member was killed."
+      },
+      {
+        "sense": "God as redeemer",
+        "note": "God acting as Israel's next of kin, rescuing his people."
+      }
     ],
-    "translations": ["redeemer", "kinsman-redeemer", "guardian-redeemer", "next of kin", "close relative"],
-    "ruthRefs": ["Ruth 2:20", "Ruth 3:9", "Ruth 3:12", "Ruth 4:1", "Ruth 4:6", "Ruth 4:14"],
+    "translations": [
+      "redeemer",
+      "kinsman-redeemer",
+      "guardian-redeemer",
+      "next of kin",
+      "close relative"
+    ],
     "elsewhere": [
-      { "ref": "Leviticus 25:25", "note": "Redeeming land a poor relative has sold." },
-      { "ref": "Leviticus 25:47-49", "note": "Redeeming a relative sold into service." },
-      { "ref": "Numbers 35:19", "note": "The avenger of blood." },
-      { "ref": "Isaiah 41:14", "note": "\"Your Redeemer is the Holy One of Israel.\"" },
-      { "ref": "Job 19:25", "note": "\"I know that my redeemer lives.\"" }
-    ]
+      {
+        "ref": "Leviticus 25:25",
+        "note": "Redeeming land a poor relative has sold."
+      },
+      {
+        "ref": "Leviticus 25:47-49",
+        "note": "Redeeming a relative sold into service."
+      },
+      {
+        "ref": "Numbers 35:19",
+        "note": "The avenger of blood."
+      },
+      {
+        "ref": "Isaiah 41:14",
+        "note": "\"Your Redeemer is the Holy One of Israel.\""
+      },
+      {
+        "ref": "Job 19:25",
+        "note": "\"I know that my redeemer lives.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "chayil",
@@ -89,18 +196,48 @@
     "gloss": "worth, strength",
     "notes": "A broad word covering strength, ability, wealth, and character. It's used of Boaz (\"a worthy man,\" 2:1) and of Ruth (\"a worthy woman,\" 3:11), so the wealthy Israelite landowner and the poor Moabite widow are described with the same word.",
     "range": [
-      { "sense": "Strength or valor", "note": "Physical might, often of warriors." },
-      { "sense": "Wealth", "note": "Resources and standing in the community." },
-      { "sense": "An army", "note": "A force of fighting men." },
-      { "sense": "Worth or excellence", "note": "Noble, capable character." }
+      {
+        "sense": "Strength or valor",
+        "note": "Physical might, often of warriors."
+      },
+      {
+        "sense": "Wealth",
+        "note": "Resources and standing in the community."
+      },
+      {
+        "sense": "An army",
+        "note": "A force of fighting men."
+      },
+      {
+        "sense": "Worth or excellence",
+        "note": "Noble, capable character."
+      }
     ],
-    "translations": ["worthy", "of noble character", "virtuous", "man of standing", "mighty man of wealth"],
-    "ruthRefs": ["Ruth 2:1", "Ruth 3:11", "Ruth 4:11"],
+    "translations": [
+      "worthy",
+      "of noble character",
+      "virtuous",
+      "man of standing",
+      "mighty man of wealth"
+    ],
     "elsewhere": [
-      { "ref": "Proverbs 31:10", "note": "\"A worthy woman, who can find?\"" },
-      { "ref": "Judges 6:12", "note": "Gideon is greeted as a \"mighty man of valor.\"" },
-      { "ref": "1 Samuel 16:18", "note": "David is described as a \"man of valor.\"" }
-    ]
+      {
+        "ref": "Proverbs 31:10",
+        "note": "\"A worthy woman, who can find?\""
+      },
+      {
+        "ref": "Judges 6:12",
+        "note": "Gideon is greeted as a \"mighty man of valor.\""
+      },
+      {
+        "ref": "1 Samuel 16:18",
+        "note": "David is described as a \"man of valor.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "kanaph",
@@ -110,17 +247,43 @@
     "gloss": "wing, corner of a garment",
     "notes": "Means a bird's wing, and also the edge or corner of a garment. Boaz blesses Ruth for taking refuge under God's wings (2:12); later Ruth asks Boaz to spread his wing over her (3:9). The repeated word suggests Boaz becomes part of God's answer.",
     "range": [
-      { "sense": "A wing", "note": "A bird's wing, and so a picture of shelter." },
-      { "sense": "Corner or edge of a garment", "note": "The hem or flap of a cloak." },
-      { "sense": "The far edge of something", "note": "As in \"the ends of the earth.\"" }
+      {
+        "sense": "A wing",
+        "note": "A bird's wing, and so a picture of shelter."
+      },
+      {
+        "sense": "Corner or edge of a garment",
+        "note": "The hem or flap of a cloak."
+      },
+      {
+        "sense": "The far edge of something",
+        "note": "As in \"the ends of the earth.\""
+      }
     ],
-    "translations": ["wings", "corner of your garment", "skirt", "covering"],
-    "ruthRefs": ["Ruth 2:12", "Ruth 3:9"],
+    "translations": [
+      "wings",
+      "corner of your garment",
+      "skirt",
+      "covering"
+    ],
     "elsewhere": [
-      { "ref": "Psalm 91:4", "note": "\"Under his wings you will find refuge.\"" },
-      { "ref": "Ezekiel 16:8", "note": "God spreads his garment over Jerusalem, a picture of marriage." },
-      { "ref": "Numbers 15:38", "note": "Tassels on the corners of garments." }
-    ]
+      {
+        "ref": "Psalm 91:4",
+        "note": "\"Under his wings you will find refuge.\""
+      },
+      {
+        "ref": "Ezekiel 16:8",
+        "note": "God spreads his garment over Jerusalem, a picture of marriage."
+      },
+      {
+        "ref": "Numbers 15:38",
+        "note": "Tassels on the corners of garments."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   },
   {
     "id": "peloni-almoni",
@@ -131,14 +294,34 @@
     "notes": "A rhyming expression for someone or somewhere left unnamed, like \"so-and-so\" or \"such and such.\" Boaz surely knew the man's name, but the writer chooses not to give it.",
     "uncertain": "Why the writer leaves him unnamed is a matter of interpretation. One common reading: he refused to keep a dead man's name alive, so his own name is left out.",
     "range": [
-      { "sense": "An unnamed person", "note": "\"So-and-so,\" \"a certain one.\"" },
-      { "sense": "An unnamed place", "note": "\"Such and such a place.\"" }
+      {
+        "sense": "An unnamed person",
+        "note": "\"So-and-so,\" \"a certain one.\""
+      },
+      {
+        "sense": "An unnamed place",
+        "note": "\"Such and such a place.\""
+      }
     ],
-    "translations": ["friend", "my friend", "such a one", "so-and-so"],
-    "ruthRefs": ["Ruth 4:1"],
+    "translations": [
+      "friend",
+      "my friend",
+      "such a one",
+      "so-and-so"
+    ],
     "elsewhere": [
-      { "ref": "1 Samuel 21:2", "note": "David mentions \"such and such a place.\"" },
-      { "ref": "2 Kings 6:8", "note": "The king of Aram plans to camp at \"such and such a place.\"" }
-    ]
+      {
+        "ref": "1 Samuel 21:2",
+        "note": "David mentions \"such and such a place.\""
+      },
+      {
+        "ref": "2 Kings 6:8",
+        "note": "The king of Aram plans to camp at \"such and such a place.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

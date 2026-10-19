@@ -13,3 +13,7 @@ Study the Bible with context first and verses second: who wrote a book, who it w
 npm install
 npm run dev
 ```
+
+## Licenses
+
+Data pulled from open datasets lives in `content/<book>/generated/` and keeps each source's license. See `content/ruth/generated/LICENSES.md`. In short: the Bible text is public domain; places, words, and cross-references are CC BY; `people.json` is CC BY-SA 4.0 because it's adapted from Theographic Bible Metadata. Credits are also on the site's Sources page.

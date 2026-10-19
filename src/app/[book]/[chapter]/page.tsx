@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Notes from "@/components/Notes";
-import { getBook, getBookSlugs, getChapter, getPeople, getWords, scriptureUrl } from "@/lib/content";
+import SourceNote from "@/components/SourceNote";
+import {
+  type ChapterText, getBook, getBookSlugs, getChapter, getChapterText, getCrossRefData, getPeople, getWords, scriptureUrl,
+} from "@/lib/content";
 
 type Params = { params: Promise<{ book: string; chapter: string }> };
 
@@ -25,6 +28,10 @@ export default async function ChapterPage({ params }: Params) {
   const chapter = getChapter(slug, n);
   const people = getPeople(slug);
   const words = getWords(slug);
+  const text = getChapterText(slug, n);
+  const xref = getCrossRefData(slug, n);
+  const chosen = new Set((chapter?.crossRefs ?? []).map((r) => r.ref));
+  const extraRefs = (xref?.suggested ?? []).filter((s) => !chosen.has(s.ref)).slice(0, 3);
   const title = `${book.title} ${n}`;
 
   return (
@@ -67,6 +74,7 @@ export default async function ChapterPage({ params }: Params) {
             <a href={scriptureUrl(title)} target="_blank" rel="noopener">read {title} in the World English Bible</a>{" "}
             in the meantime.
           </p>
+          {text && <ChapterTextCard title={title} text={text} />}
           <div className="stack gap-12" style={{ maxWidth: 560 }}>
             <h3 style={{ fontSize: 22 }}>Our notes</h3>
             <Notes book={slug} chapter={n} compact />
@@ -108,6 +116,8 @@ export default async function ChapterPage({ params }: Params) {
                 {chapter.questions.map((q) => <li key={q}>{q}</li>)}
               </ol>
             </div>
+
+            {text && <ChapterTextCard title={title} text={text} />}
           </div>
 
           <aside className="col-side" aria-label="Study tools">
@@ -140,6 +150,20 @@ export default async function ChapterPage({ params }: Params) {
                   </li>
                 ))}
               </ul>
+              {extraRefs.length > 0 && xref && (
+                <div className="divider">
+                  <h3 className="label" style={{ fontFamily: "var(--sans)" }}>Also linked by other readers</h3>
+                  <ul className="refs">
+                    {extraRefs.map((r) => (
+                      <li key={r.ref}>
+                        <a href={scriptureUrl(r.ref)} target="_blank" rel="noopener">{r.ref}</a>
+                        <span className="smaller muted">, from {r.from.slice(0, 2).join(", ")}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <SourceNote source={extraRefs[0].source} what="Ranked by reader votes" />
+                </div>
+              )}
             </div>
 
             <div className="card card--tight card--side">
@@ -150,5 +174,31 @@ export default async function ChapterPage({ params }: Params) {
         </section>
       )}
     </main>
+  );
+}
+
+
+// The chapter's text, collapsed so the context comes first.
+function ChapterTextCard({ title, text }: { title: string; text: ChapterText }) {
+  return (
+    <details className="card text-card">
+      <summary>
+        <h2>Read {title}</h2>
+        <span className="smaller muted">World English Bible</span>
+      </summary>
+      <div className="scripture">
+        {text.paragraphs.map((p, i) => (
+          <p key={i}>
+            {p.map((v) => (
+              <span key={`${v.verse}-${v.continued ? "c" : ""}`}>
+                {!v.continued && <sup className="vnum">{v.verse}</sup>}
+                {v.text}{" "}
+              </span>
+            ))}
+          </p>
+        ))}
+      </div>
+      <SourceNote source={text.source} what="Text" />
+    </details>
   );
 }

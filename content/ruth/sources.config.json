@@ -1,0 +1,131 @@
+{
+  "osis": "Ruth",
+  "stepBook": "Rut",
+  "webFile": "ruth.json",
+  "places": [
+    {
+      "id": "bethlehem",
+      "ancientId": "a112427"
+    },
+    {
+      "id": "ephrathah",
+      "ancientId": "af6c09e"
+    },
+    {
+      "id": "moab",
+      "ancientId": "aa0b1d6"
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9",
+      "mapOnly": true
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a",
+      "mapOnly": true
+    },
+    {
+      "id": "jericho",
+      "ancientId": "a231f80",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "naomi",
+      "theographic": "naomi_2147"
+    },
+    {
+      "id": "ruth",
+      "theographic": "ruth_2450"
+    },
+    {
+      "id": "boaz",
+      "theographic": "boaz_519"
+    },
+    {
+      "id": "orpah",
+      "theographic": "orpah_2257"
+    },
+    {
+      "id": "elimelech",
+      "theographic": "elimelech_1134"
+    },
+    {
+      "id": "mahlon",
+      "theographic": "mahlon_1897"
+    },
+    {
+      "id": "chilion",
+      "theographic": "chilion_940"
+    },
+    {
+      "id": "obed",
+      "theographic": "obed_2228"
+    }
+  ],
+  "words": [
+    {
+      "id": "hesed",
+      "strongs": [
+        "H2617A"
+      ],
+      "foundAt": "Ruth 1:8"
+    },
+    {
+      "id": "shaddai",
+      "strongs": [
+        "H7706"
+      ],
+      "foundAt": "Ruth 1:20"
+    },
+    {
+      "id": "mara",
+      "strongs": [
+        "H4755"
+      ],
+      "foundAt": "Ruth 1:20"
+    },
+    {
+      "id": "goel",
+      "strongs": [
+        "H1350A"
+      ],
+      "foundAt": "Ruth 2:20"
+    },
+    {
+      "id": "chayil",
+      "strongs": [
+        "H2428G",
+        "H2428H",
+        "H2428I"
+      ],
+      "foundAt": "Ruth 2:1"
+    },
+    {
+      "id": "kanaph",
+      "strongs": [
+        "H3671"
+      ],
+      "foundAt": "Ruth 2:12"
+    },
+    {
+      "id": "peloni-almoni",
+      "strongs": [
+        "H6423",
+        "H0492"
+      ],
+      "foundAt": "Ruth 4:1"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  }
+}
