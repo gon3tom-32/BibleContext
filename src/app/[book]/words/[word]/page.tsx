@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getBook, getBookSlugs, getChapters, getWord, getWords, scriptureUrl } from "@/lib/content";
+import SourceNote from "@/components/SourceNote";
+import { getBook, getBookSlugs, getChapters, getWord, getWordData, getWords, scriptureUrl } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string; word: string }> };
 
@@ -22,6 +23,7 @@ export default async function WordStudyPage({ params }: Params) {
   const word = getWord(slug, id);
   if (!word) notFound();
   const words = getWords(slug);
+  const data = getWordData(slug, id);
   const uses = getChapters(slug).flatMap((c) =>
     c.words.filter((w) => w.id === id).map((w) => ({ chapter: c.number, note: w.note })),
   );
@@ -87,18 +89,42 @@ export default async function WordStudyPage({ params }: Params) {
                 ))}
               </ul>
             )}
-            <div className="stack gap-8">
-              <h3 className="label" style={{ fontFamily: "var(--sans)" }}>Every verse</h3>
-              <ul className="ref-chips">
-                {word.ruthRefs.map((r) => (
-                  <li key={r}><a href={scriptureUrl(r)} target="_blank" rel="noopener">{r}</a></li>
-                ))}
-              </ul>
-            </div>
+            {data && (
+              <div className="stack gap-8">
+                <h3 className="label" style={{ fontFamily: "var(--sans)" }}>
+                  Every verse ({data.occurrencesInBook.length})
+                </h3>
+                <ul className="ref-chips">
+                  {data.occurrencesInBook.map((r) => (
+                    <li key={r}><a href={scriptureUrl(r)} target="_blank" rel="noopener">{r}</a></li>
+                  ))}
+                </ul>
+                <SourceNote source={data.source} what={`Verses where ${data.strongs.join(" or ")} is tagged in the Hebrew text`} />
+              </div>
+            )}
           </div>
         </div>
 
         <aside className="col-side" aria-label="More about this word">
+          {data && data.lexicon.length > 0 && (
+            <div className="card card--tight card--side">
+              <h2>From the lexicon</h2>
+              {data.lexicon.map((e) => (
+                <div key={e.strongs} className="lex-entry">
+                  <div className="lex-head">
+                    <span className="hebrew lex-heb" lang="he" dir="rtl">{e.hebrew}</span>
+                    <span className="lex-meta">{e.transliteration} · {e.strongs}</span>
+                  </div>
+                  <p className="lex-meaning">{e.meaning}</p>
+                </div>
+              ))}
+              <p className="smaller muted">
+                Used in {data.hebrewBibleCount} verse{data.hebrewBibleCount === 1 ? "" : "s"} of the Hebrew Bible.
+              </p>
+              <SourceNote source={data.source} what="Brief lexicon entry and counts" />
+            </div>
+          )}
+
           <div className="card card--tight card--side">
             <h2>Elsewhere in the Bible</h2>
             <ul className="refs" style={{ gap: 12 }}>

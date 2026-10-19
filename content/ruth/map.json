@@ -3,20 +3,94 @@
   "viewBox": "0 0 620 420",
   "label": "Schematic map with four numbered stops: 1 Bethlehem, 2 Moab, 3 the road back, 4 Bethlehem again. The route goes east above the Dead Sea to Moab and returns west below it.",
   "water": [
-    { "d": "M300 70 C330 55 360 75 355 120 C350 180 368 230 345 290 C332 325 298 325 290 290 C280 230 302 180 296 125 C293 95 285 80 300 70 Z", "label": "Dead Sea", "labelX": 323, "labelY": 200 }
+    {
+      "d": "M300 70 C330 55 360 75 355 120 C350 180 368 230 345 290 C332 325 298 325 290 290 C280 230 302 180 296 125 C293 95 285 80 300 70 Z",
+      "label": "Dead Sea",
+      "labelX": 323,
+      "labelY": 200
+    }
   ],
   "rivers": [
-    { "d": "M300 70 L284 8", "label": "Jordan River", "labelX": 296, "labelY": 22 }
+    {
+      "d": "M300 70 L284 8",
+      "label": "Jordan River",
+      "labelX": 296,
+      "labelY": 22
+    }
   ],
   "routes": [
-    { "direction": "out", "d": "M160 140 C210 20 430 20 480 222", "label": "Going to Moab" },
-    { "direction": "back", "d": "M480 240 C440 385 200 385 162 150", "label": "Returning to Bethlehem" }
+    {
+      "direction": "out",
+      "d": "M160 140 C210 20 430 20 480 222",
+      "label": "Going to Moab"
+    },
+    {
+      "direction": "back",
+      "d": "M480 240 C440 385 200 385 162 150",
+      "label": "Returning to Bethlehem"
+    }
   ],
   "stops": [
-    { "order": 1, "placeId": "bethlehem", "title": "Bethlehem in famine", "short": "Bethlehem", "refs": "Ruth 1:1-2", "x": 160, "y": 140, "labelX": 160, "labelY": 116, "labelAnchor": "middle", "direction": "out", "text": "A famine strikes the town whose name means \"house of bread.\" Elimelech takes Naomi and their two sons east to look for food." },
-    { "order": 2, "placeId": "moab", "title": "Ten years in Moab", "short": "Moab", "refs": "Ruth 1:3-5", "x": 480, "y": 232, "labelX": 480, "labelY": 266, "labelAnchor": "middle", "direction": "out", "text": "The sons marry Moabite women, Orpah and Ruth. Over about ten years, Elimelech and both sons die, leaving three widows." },
-    { "order": 3, "placeId": "road", "title": "The road back", "short": "The road back", "refs": "Ruth 1:6-18", "x": 310, "y": 333, "labelX": 310, "labelY": 378, "labelAnchor": "middle", "direction": "back", "text": "Naomi hears that the Lord has provided food at home, and sets out with both daughters-in-law. On the road she urges them to turn back. Orpah goes home; Ruth stays." },
-    { "order": 4, "placeId": "bethlehem", "title": "Back in Bethlehem", "short": "Home again", "refs": "Ruth 1:19-22", "x": 150, "y": 184, "labelX": 126, "labelY": 190, "labelAnchor": "end", "direction": "back", "text": "The town stirs at Naomi's return. She asks to be called Mara, \"bitter.\" They arrive as the barley harvest begins." }
+    {
+      "order": 1,
+      "placeId": "bethlehem",
+      "title": "Bethlehem in famine",
+      "short": "Bethlehem",
+      "refs": "Ruth 1:1-2",
+      "x": 160,
+      "y": 140,
+      "labelX": 160,
+      "labelY": 116,
+      "labelAnchor": "middle",
+      "direction": "out",
+      "text": "A famine strikes the town whose name means \"house of bread.\" Elimelech takes Naomi and their two sons east to look for food."
+    },
+    {
+      "order": 2,
+      "placeId": "moab",
+      "title": "Ten years in Moab",
+      "short": "Moab",
+      "refs": "Ruth 1:3-5",
+      "x": 480,
+      "y": 232,
+      "labelX": 480,
+      "labelY": 266,
+      "labelAnchor": "middle",
+      "direction": "out",
+      "text": "The sons marry Moabite women, Orpah and Ruth. Over about ten years, Elimelech and both sons die, leaving three widows."
+    },
+    {
+      "order": 3,
+      "placeId": "road",
+      "title": "The road back",
+      "short": "The road back",
+      "refs": "Ruth 1:6-18",
+      "x": 310,
+      "y": 333,
+      "labelX": 310,
+      "labelY": 378,
+      "labelAnchor": "middle",
+      "direction": "back",
+      "text": "Naomi hears that the Lord has provided food at home, and sets out with both daughters-in-law. On the road she urges them to turn back. Orpah goes home; Ruth stays."
+    },
+    {
+      "order": 4,
+      "placeId": "bethlehem",
+      "title": "Back in Bethlehem",
+      "short": "Home again",
+      "refs": "Ruth 1:19-22",
+      "x": 150,
+      "y": 184,
+      "labelX": 126,
+      "labelY": 190,
+      "labelAnchor": "end",
+      "direction": "back",
+      "text": "The town stirs at Naomi's return. She asks to be called Mara, \"bitter.\" They arrive as the barley harvest begins."
+    }
   ],
-  "chapter": 1
+  "chapter": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
 }

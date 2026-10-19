@@ -5,7 +5,11 @@ import path from "node:path";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
+/** Hand-written content carries this until someone has checked it. */
+export type Review = { status: "needs-review" | "reviewed"; note?: string };
+
 export type Book = {
+  review?: Review;
   slug: string;
   title: string;
   chapterCount: number;
@@ -57,8 +61,6 @@ export type Word = {
   range: { sense: string; note: string }[];
   /** How English Bibles commonly render it. */
   translations: string[];
-  /** Verses in this book where the word appears. */
-  ruthRefs: string[];
   elsewhere: { ref: string; note: string }[];
 };
 
@@ -169,4 +171,111 @@ export function getChapter(slug: string, n: number): Chapter | null {
 /** Link out to a public-domain translation (World English Bible). */
 export function scriptureUrl(ref: string) {
   return `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=WEB`;
+}
+
+// ---------- Generated data (scripts/pull-sources.mjs) ----------
+
+export type Source = { name: string; url: string; license: string; fetched: string; item?: string; alsoCredit?: string };
+
+export type ChapterText = {
+  number: number;
+  translation: string;
+  paragraphs: { verse: number; text: string; continued?: boolean }[][];
+  source: Source;
+};
+
+export type PlaceData = {
+  id: string;
+  name: string;
+  type?: string;
+  mentionedIn: string[];
+  mapOnly: boolean;
+  identification: string;
+  modernLocation?: string;
+  lonlat: [number, number] | null;
+  confidence: { score: number | null; outOf: number; label: string };
+  outline: { type: string; coordinates: unknown; kind: string; osm?: boolean } | null;
+  source: Source;
+};
+
+type PersonRef = { name: string; id?: string };
+export type PersonData = {
+  id: string;
+  name: string;
+  alsoCalled?: string;
+  gender?: string;
+  family: { father?: PersonRef; mother?: PersonRef; spouses: PersonRef[]; children: PersonRef[]; siblings: PersonRef[] };
+  chapters: number[];
+  verses: string[];
+  source: Source;
+};
+
+export type WordData = {
+  id: string;
+  strongs: string[];
+  lexicon: { strongs: string; hebrew: string; transliteration: string; partOfSpeech: string; gloss: string; meaning: string }[];
+  formsInBook: { hebrew: string; translit: string; gloss: string }[];
+  occurrencesInBook: string[];
+  hebrewBibleCount: number;
+  source: Source;
+};
+
+export type CrossRefData = {
+  number: number;
+  suggested: { ref: string; from: string[]; votes: number; source: Source }[];
+  handPickedCheck: { ref: string; inDataset: boolean; votes: number }[];
+};
+
+export type SourceInfo = {
+  id: string;
+  name: string;
+  provides: string;
+  homepage: string;
+  repo?: string;
+  commit?: string;
+  license: string;
+  licenseUrl: string;
+  notes?: string;
+  modifications?: string;
+};
+
+function readGenerated<T>(slug: string, file: string, key: string): T | null {
+  if (!exists(slug, "generated", file)) return null;
+  return (readJson<Record<string, unknown>>(slug, "generated", file)[key] as T) ?? null;
+}
+
+export function getChapterText(slug: string, n: number): ChapterText | null {
+  return readGenerated<ChapterText[]>(slug, "text.json", "chapters")?.find((c) => c.number === n) ?? null;
+}
+
+export function getPlaceData(slug: string): PlaceData[] {
+  return readGenerated<PlaceData[]>(slug, "places.json", "places") ?? [];
+}
+
+export function getPeopleData(slug: string): PersonData[] {
+  return readGenerated<PersonData[]>(slug, "people.json", "people") ?? [];
+}
+
+export function getWordData(slug: string, id: string): WordData | null {
+  return readGenerated<WordData[]>(slug, "words.json", "words")?.find((w) => w.id === id) ?? null;
+}
+
+export function getCrossRefData(slug: string, n: number): CrossRefData | null {
+  return readGenerated<CrossRefData[]>(slug, "crossrefs.json", "chapters")?.find((c) => c.number === n) ?? null;
+}
+
+export function getSources(): { fetched: string; sources: SourceInfo[] } {
+  return JSON.parse(fs.readFileSync(path.join(process.cwd(), "scripts/data/sources.json"), "utf8"));
+}
+
+/** One-line family summary, e.g. "Married to Elimelech · Children: Mahlon, Chilion". */
+export function familyLine(p: PersonData): string[] {
+  const names = (xs: PersonRef[]) => xs.map((x) => x.name).join(", ");
+  const parents = [p.family.father, p.family.mother].filter(Boolean) as PersonRef[];
+  return [
+    parents.length ? `Parents: ${names(parents)}` : "",
+    p.family.spouses.length ? `Married to: ${names(p.family.spouses)}` : "",
+    p.family.children.length ? `Children: ${names(p.family.children)}` : "",
+    p.family.siblings.length ? `Siblings: ${names(p.family.siblings)}` : "",
+  ].filter(Boolean);
 }

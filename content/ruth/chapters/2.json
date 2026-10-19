@@ -4,10 +4,22 @@
   "summary": "Ruth asks Naomi if she can go glean, gathering the grain the harvesters leave behind. She happens to end up in a field belonging to Boaz, a relative of Elimelech. Boaz notices her, learns who she is, and goes out of his way to protect and provide for her: he tells her to stay in his field, tells his young men not to touch her, shares his meal with her, and quietly has extra grain left for her to pick up. Ruth comes home with about an ephah of barley, far more than a gleaner would expect. When Naomi hears the name Boaz, she sees something new: he is one of their family redeemers. Ruth keeps gleaning in his fields through the barley and wheat harvests.",
   "whySettingMatters": "Israel's law told landowners to leave the edges of their fields and the dropped grain for the poor, the foreigner, the orphan, and the widow. Ruth is three of those at once. But gleaning was hard, exposed work, and a lone foreign woman in the fields could be harassed or worse, which is why Boaz's protection matters as much as his generosity.",
   "people": [
-    { "id": "ruth", "note": "Takes the initiative to glean, and works from morning until evening." },
-    { "id": "boaz", "note": "A man of standing who notices Ruth, honors her loyalty to Naomi, and goes beyond what the law asked." },
-    { "id": "foreman", "note": "The servant in charge of the harvesters, who tells Boaz who Ruth is." },
-    { "id": "naomi", "note": "Sees Ruth's haul, hears Boaz's name, and begins to hope again." }
+    {
+      "id": "ruth",
+      "note": "Takes the initiative to glean, and works from morning until evening."
+    },
+    {
+      "id": "boaz",
+      "note": "A man of standing who notices Ruth, honors her loyalty to Naomi, and goes beyond what the law asked."
+    },
+    {
+      "id": "foreman",
+      "note": "The servant in charge of the harvesters, who tells Boaz who Ruth is."
+    },
+    {
+      "id": "naomi",
+      "note": "Sees Ruth's haul, hears Boaz's name, and begins to hope again."
+    }
   ],
   "questions": [
     "The story says Ruth \"happened\" to come to Boaz's field (2:3). How does the narrator want us to hear that word?",
@@ -16,15 +28,43 @@
     "In Chapter 1 Naomi said the Lord had turned against her. What has shifted for her by the end of this chapter, and why?"
   ],
   "words": [
-    { "id": "chayil", "note": "Boaz is introduced as a \"worthy man\" (2:1), a man of strength, standing, and character." },
-    { "id": "kanaph", "note": "Boaz speaks of Ruth taking refuge under God's \"wings\" (2:12). Watch for this word again in Chapter 3." },
-    { "id": "hesed", "note": "Naomi blesses the Lord, whose loyal love has not left the living or the dead (2:20)." },
-    { "id": "goel", "note": "Naomi says Boaz is \"one of our redeemers\" (2:20). The rest of the book turns on this word." }
+    {
+      "id": "chayil",
+      "note": "Boaz is introduced as a \"worthy man\" (2:1), a man of strength, standing, and character."
+    },
+    {
+      "id": "kanaph",
+      "note": "Boaz speaks of Ruth taking refuge under God's \"wings\" (2:12). Watch for this word again in Chapter 3."
+    },
+    {
+      "id": "hesed",
+      "note": "Naomi blesses the Lord, whose loyal love has not left the living or the dead (2:20)."
+    },
+    {
+      "id": "goel",
+      "note": "Naomi says Boaz is \"one of our redeemers\" (2:20). The rest of the book turns on this word."
+    }
   ],
   "crossRefs": [
-    { "ref": "Leviticus 19:9-10", "note": "leaving the edges of the field for the poor and the foreigner" },
-    { "ref": "Deuteronomy 24:19-22", "note": "gleaning for the foreigner, orphan, and widow" },
-    { "ref": "Leviticus 25:25", "note": "the duty of a close relative to redeem family land" },
-    { "ref": "Psalm 91:4", "note": "refuge under God's wings" }
-  ]
+    {
+      "ref": "Leviticus 19:9-10",
+      "note": "leaving the edges of the field for the poor and the foreigner"
+    },
+    {
+      "ref": "Deuteronomy 24:19-22",
+      "note": "gleaning for the foreigner, orphan, and widow"
+    },
+    {
+      "ref": "Leviticus 25:25",
+      "note": "the duty of a close relative to redeem family land"
+    },
+    {
+      "ref": "Psalm 91:4",
+      "note": "refuge under God's wings"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
 }

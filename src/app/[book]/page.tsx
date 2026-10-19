@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import JourneyMap from "@/components/JourneyMap";
 import Rich from "@/components/Rich";
-import { getBook, getMap, getPeople, getTimeline } from "@/lib/content";
+import SourceNote from "@/components/SourceNote";
+import { familyLine, getBook, getMap, getPeople, getPeopleData, getTimeline } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string }> };
 
@@ -17,6 +18,7 @@ export default async function Overview({ params }: Params) {
   const people = getPeople(slug);
   const map = getMap(slug);
   const timeline = getTimeline(slug);
+  const peopleData = getPeopleData(slug);
   const shown = book.overviewPeople
     .map((id) => people.find((p) => p.id === id))
     .filter((p): p is NonNullable<typeof p> => Boolean(p));
@@ -110,9 +112,20 @@ export default async function Overview({ params }: Params) {
             <div key={p.id} className="card person-card">
               <h3>{p.name}</h3>
               <p>{p.note}</p>
+              {(() => {
+                const d = peopleData.find((x) => x.id === p.id);
+                if (!d) return null;
+                return (
+                  <ul className="family">
+                    {familyLine(d).map((l) => <li key={l}>{l}</li>)}
+                    <li>Chapters: {d.chapters.join(", ")}</li>
+                  </ul>
+                );
+              })()}
             </div>
           ))}
         </div>
+        {peopleData[0] && <SourceNote source={peopleData[0].source} what="Family links and chapters" />}
       </section>
     </main>
   );

@@ -349,3 +349,41 @@ textarea { resize: vertical; }
   .card { padding: 20px; }
   .col-main, .col-side, .map-card, .stops, .hero-text { flex-basis: 100%; }
 }
+
+/* ---------- Data sources ---------- */
+.source-note { font-size: 13px; color: var(--muted); margin: 0; }
+.source-note a { font-weight: 500; }
+.family { list-style: none; margin: 6px 0 0; padding: 8px 0 0; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 2px; font-size: 13px; color: var(--muted); }
+.text-card summary {
+  cursor: pointer; display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+  flex-wrap: wrap; min-height: 44px; list-style: none;
+}
+.text-card summary::-webkit-details-marker { display: none; }
+.text-card summary h2::before { content: "▸ "; color: var(--gold-ring); }
+.text-card[open] summary h2::before { content: "▾ "; }
+.scripture { font-family: var(--serif); font-size: 18px; line-height: 1.7; color: var(--ink); display: flex; flex-direction: column; gap: 14px; max-width: 65ch; }
+.vnum { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--gold-text); margin-right: 3px; }
+.lex-entry { display: flex; flex-direction: column; gap: 6px; }
+.lex-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.lex-heb { font-size: 26px; }
+.lex-meta { font-size: 13px; color: var(--muted); }
+.lex-meaning { font-size: 14px; color: var(--body); white-space: pre-line; }
+.place-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); }
+.place-list li { background: var(--bg); border-radius: 8px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; }
+.place-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+.conf { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; }
+.conf--high { background: #dfeee6; color: #1f4634; }
+.conf--likely { background: var(--gold-tint); color: var(--gold-deep); }
+.conf--possible, .conf--uncertain { background: #ece9e1; color: var(--text-2); }
+.coords { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; margin: 0; }
+.source-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 16px; }
+.license-chip { font-size: 13px; padding: 4px 10px; border-radius: 999px; background: var(--gold-tint); color: var(--gold-deep); text-decoration: none; }
+.source-facts { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.source-facts dt { font-size: 13px; font-weight: 600; color: var(--muted); }
+.source-facts dd { margin: 2px 0 0; font-size: 15px; color: var(--body); }
+.site-footer { border-top: 1px solid var(--border); background: var(--bg); }
+.site-footer-inner {
+  max-width: 1200px; margin: 0 auto; padding: 28px var(--pad) 40px;
+  display: flex; flex-direction: column; gap: 6px; font-size: 13px; color: var(--muted);
+}
+.card-head a.source-name { font-size: inherit; color: var(--ink); text-decoration-color: var(--gold-ring); }

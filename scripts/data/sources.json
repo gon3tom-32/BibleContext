@@ -1,0 +1,105 @@
+{
+  "fetched": "2026-10-19",
+  "sources": [
+    {
+      "id": "web",
+      "name": "World English Bible",
+      "provides": "Bible text",
+      "homepage": "https://ebible.org/web/",
+      "repo": "https://github.com/TehShrike/world-english-bible",
+      "commit": "68669ba3be9719ae4d1135b19d9e0b6587b7c356",
+      "license": "Public domain",
+      "licenseUrl": "https://ebible.org/web/copyright.htm",
+      "paths": [
+        "/json/ruth.json",
+        "/readme.md",
+        "/package.json"
+      ],
+      "notes": "Text is public domain. The JSON packaging repo has no license of its own; we use only the public-domain verse text.",
+      "modifications": "Only the book being studied is used. Formatting and footnote markers are dropped; verses are grouped into the paragraphs given in the source."
+    },
+    {
+      "id": "openbible-geo",
+      "name": "OpenBible.info Bible Geocoding Data",
+      "provides": "Places, coordinates, confidence, and map outlines",
+      "homepage": "https://www.openbible.info/geo/",
+      "repo": "https://github.com/openbibleinfo/Bible-Geocoding-Data",
+      "commit": "7eb18a5ee62f27b9b93bd6689ea272d76dd23b8f",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "paths": [
+        "/data/ancient.jsonl",
+        "/data/modern.jsonl",
+        "/data/geometry.jsonl",
+        "/license.txt",
+        "/readme.md",
+        "/geometry/*.geojson"
+      ],
+      "notes": "Some geometry derives from OpenStreetMap (ODbL 1.0); those items are marked.",
+      "modifications": "Filtered to the places in the book. We keep each place's top identification, its confidence score (relabeled High, Likely, Possible, or Uncertain), its verse list for the book, and the dataset's simplified outline with coordinates rounded to 4 decimal places."
+    },
+    {
+      "id": "osm",
+      "name": "OpenStreetMap",
+      "provides": "Some outlines inside the OpenBible geocoding data",
+      "homepage": "https://www.openstreetmap.org/copyright",
+      "license": "ODbL 1.0",
+      "licenseUrl": "https://opendatacommons.org/licenses/odbl/",
+      "notes": "Credited because some geometry we store comes from OpenStreetMap via OpenBible.",
+      "modifications": "Used only through OpenBible's simplified outlines (currently the Jordan River)."
+    },
+    {
+      "id": "theographic",
+      "name": "Theographic Bible Metadata",
+      "provides": "People, family relationships, and verse references",
+      "homepage": "https://viz.bible",
+      "repo": "https://github.com/robertrouse/theographic-bible-metadata",
+      "commit": "52e049efb3b95e4f1da52d11a3303fbd2d648922",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "paths": [
+        "/CSV/People.csv",
+        "/CSV/Places.csv",
+        "/LICENSE",
+        "/docs/README.md"
+      ],
+      "notes": "Share-alike: files derived from this dataset carry CC BY-SA 4.0.",
+      "modifications": "Filtered to named people in the book. We keep names, family links, and verse references for the book. Dates and Easton's dictionary text are not used."
+    },
+    {
+      "id": "stepbible",
+      "name": "STEPBible Data (Tyndale House, Cambridge)",
+      "provides": "Hebrew text tagging, Strong's numbers, and lexicon entries",
+      "homepage": "https://www.stepbible.org",
+      "repo": "https://github.com/STEPBible/STEPBible-Data",
+      "commit": "ed476a8ee6e3f7b3a46fc48af6c7dabc02387b1d",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "paths": [
+        "/README.md",
+        "/Lexicons/TBESH - Translators Brief lexicon of Extended Strongs for Hebrew - STEPBible.org CC BY.txt",
+        "/Translators Amalgamated OT+NT/TAHOT Gen-Deu - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt",
+        "/Translators Amalgamated OT+NT/TAHOT Jos-Est - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt",
+        "/Translators Amalgamated OT+NT/TAHOT Job-Sng - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt",
+        "/Translators Amalgamated OT+NT/TAHOT Isa-Mal - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt"
+      ],
+      "modifications": "We read the Strong's numbers tagged at each verse to find every use of a word, count its uses in the Hebrew Bible, and show the brief lexicon entry. HTML in the lexicon text is converted to plain text."
+    },
+    {
+      "id": "openbible-xref",
+      "name": "OpenBible.info Cross References",
+      "provides": "Cross-references with relevance votes",
+      "homepage": "https://www.openbible.info/labs/cross-references/",
+      "repo": "https://github.com/scrollmapper/bible_databases",
+      "commit": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c",
+      "license": "CC BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "paths": [
+        "/sources/extras/cross_references.txt",
+        "/LICENSE"
+      ],
+      "notes": "OpenBible's file (dated 2024-11-04 in its header), read from the scrollmapper mirror because openbible.info isn't reachable from our build environment.",
+      "modifications": "Filtered to verses in the book. Votes for the same target are added up per chapter, links within the book are left out, and the top few are shown alongside our hand-picked references."
+    }
+  ]
+}

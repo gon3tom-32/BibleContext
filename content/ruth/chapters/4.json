@@ -4,12 +4,30 @@
   "summary": "Boaz goes up to the town gate, sits down, and stops the closer relative as he passes. With ten elders as witnesses, he tells him that Naomi is selling Elimelech's land. The man is ready to redeem it, until Boaz adds that whoever acquires the land also takes Ruth, to keep the dead man's name on his inheritance. The relative backs out and seals it by handing over his sandal. Boaz publicly acquires the land and takes Ruth as his wife. The people bless the marriage. Ruth gives birth to a son, Obed. The women of Bethlehem bless the Lord for giving Naomi a redeemer, and Naomi holds the child. The book ends with a family line running from Perez to Obed, Jesse, and David.",
   "whySettingMatters": "The town gate was where business was done and legal cases were settled, in front of elders and anyone passing by. Land was meant to stay in the family, and a close relative was expected to step in to keep a family line and its land from disappearing. The blessing names Tamar, another outsider whose story kept Judah's line going. The ending links this quiet family story to Israel's greatest king.",
   "people": [
-    { "id": "boaz", "note": "Handles the matter openly and by the book, and becomes Ruth's husband." },
-    { "id": "nearer-redeemer", "note": "Willing to buy the land but not to marry Ruth. He stays nameless." },
-    { "id": "ruth", "note": "A Moabite woman who becomes part of Israel and great-grandmother of David." },
-    { "id": "naomi", "note": "Once \"empty,\" now holds a grandson in her lap." },
-    { "id": "women-of-bethlehem", "note": "The chorus who name the child and declare what God has done for Naomi." },
-    { "id": "obed", "note": "Ruth and Boaz's son, grandfather of David." }
+    {
+      "id": "boaz",
+      "note": "Handles the matter openly and by the book, and becomes Ruth's husband."
+    },
+    {
+      "id": "nearer-redeemer",
+      "note": "Willing to buy the land but not to marry Ruth. He stays nameless."
+    },
+    {
+      "id": "ruth",
+      "note": "A Moabite woman who becomes part of Israel and great-grandmother of David."
+    },
+    {
+      "id": "naomi",
+      "note": "Once \"empty,\" now holds a grandson in her lap."
+    },
+    {
+      "id": "women-of-bethlehem",
+      "note": "The chorus who name the child and declare what God has done for Naomi."
+    },
+    {
+      "id": "obed",
+      "note": "Ruth and Boaz's son, grandfather of David."
+    }
   ],
   "questions": [
     "The closer relative is never named. Why might the writer leave him as \"so-and-so\"?",
@@ -18,14 +36,39 @@
     "The book ends with David. How does knowing where his family came from change how you read the whole story?"
   ],
   "words": [
-    { "id": "goel", "note": "The word runs through the gate scene (4:1-8), and the women call baby Obed Naomi's redeemer (4:14)." },
-    { "id": "peloni-almoni", "note": "How Boaz addresses the closer relative (4:1), roughly \"so-and-so.\"" },
-    { "id": "chayil", "note": "The elders pray that Boaz would \"act worthily\" in Ephrathah (4:11)." }
+    {
+      "id": "goel",
+      "note": "The word runs through the gate scene (4:1-8), and the women call baby Obed Naomi's redeemer (4:14)."
+    },
+    {
+      "id": "peloni-almoni",
+      "note": "How Boaz addresses the closer relative (4:1), roughly \"so-and-so.\""
+    },
+    {
+      "id": "chayil",
+      "note": "The elders pray that Boaz would \"act worthily\" in Ephrathah (4:11)."
+    }
   ],
   "crossRefs": [
-    { "ref": "Deuteronomy 25:7-10", "note": "the sandal ceremony when a relative refuses his duty" },
-    { "ref": "Genesis 38", "note": "Tamar, Judah, and the birth of Perez" },
-    { "ref": "1 Samuel 16:1-13", "note": "Jesse's son David is chosen as king" },
-    { "ref": "Matthew 1:5", "note": "Ruth named in Jesus' family line" }
-  ]
+    {
+      "ref": "Deuteronomy 25:7-10",
+      "note": "the sandal ceremony when a relative refuses his duty"
+    },
+    {
+      "ref": "Genesis 38",
+      "note": "Tamar, Judah, and the birth of Perez"
+    },
+    {
+      "ref": "1 Samuel 16:1-13",
+      "note": "Jesse's son David is chosen as king"
+    },
+    {
+      "ref": "Matthew 1:5",
+      "note": "Ruth named in Jesus' family line"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
 }

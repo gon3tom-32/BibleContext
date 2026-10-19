@@ -13,7 +13,12 @@
   "genre": "Narrative",
   "genreNote": "A short story told with care. Watch the dialogue, the loyal love, and what goes unsaid.",
   "bigIdea": "Loyal love (*hesed*) shows up in small, costly choices, and God is at work in them.",
-  "themes": ["Loyal love", "Redemption", "Outsiders welcomed", "Providence"],
+  "themes": [
+    "Loyal love",
+    "Redemption",
+    "Outsiders welcomed",
+    "Providence"
+  ],
   "mapTitle": "Map: Moab to Bethlehem",
   "mapSummary": "A famine pushes a family east into Moab, a neighboring rival. A widow returns west with a Moabite daughter-in-law at her side.",
   "scene": {
@@ -21,5 +26,14 @@
     "audience": "Israel in the days of the kings",
     "happening": "A famine in the days of the judges"
   },
-  "overviewPeople": ["naomi", "ruth", "boaz", "orpah"]
+  "overviewPeople": [
+    "naomi",
+    "ruth",
+    "boaz",
+    "orpah"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
 }
