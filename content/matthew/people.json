@@ -83,5 +83,45 @@
     "id": "solomon",
     "name": "Solomon",
     "note": "David's son, Israel's wealthiest and wisest king."
+  },
+  {
+    "id": "the-leper",
+    "name": "A man with a skin disease",
+    "note": "Shut out by the purity laws until a priest declared him clean."
+  },
+  {
+    "id": "the-centurion",
+    "name": "The centurion",
+    "note": "A Gentile officer stationed in or near Capernaum."
+  },
+  {
+    "id": "peters-mother-in-law",
+    "name": "Peter's mother-in-law",
+    "note": "She lived in Peter's house in Capernaum."
+  },
+  {
+    "id": "the-gadarene-men",
+    "name": "Two men from the tombs",
+    "note": "Possessed by demons, living among the dead in Gentile territory."
+  },
+  {
+    "id": "the-paralyzed-man",
+    "name": "A paralyzed man",
+    "note": "Brought to Jesus on a mat by his friends."
+  },
+  {
+    "id": "the-bleeding-woman",
+    "name": "A woman who had bled for twelve years",
+    "note": "Unclean under the law for all that time."
+  },
+  {
+    "id": "the-synagogue-leader",
+    "name": "A synagogue leader",
+    "note": "Unnamed in Matthew; Mark and Luke call him Jairus."
+  },
+  {
+    "id": "matthew",
+    "name": "Matthew",
+    "note": "A tax collector in Capernaum who becomes one of the twelve."
   }
 ]

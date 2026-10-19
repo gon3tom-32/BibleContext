@@ -657,7 +657,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Leviticus 13:45-46",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Leviticus 14:2-4",
+          "inDataset": true,
+          "votes": 26
+        },
+        {
+          "ref": "Isaiah 53:4",
+          "inDataset": true,
+          "votes": 86
+        },
+        {
+          "ref": "Psalm 107:28-29",
+          "inDataset": true,
+          "votes": 22
+        }
+      ]
     },
     {
       "number": 9,
@@ -720,7 +741,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Hosea 6:6",
+          "inDataset": true,
+          "votes": 162
+        },
+        {
+          "ref": "Numbers 15:38-39",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Leviticus 15:25-27",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Ezekiel 34:5",
+          "inDataset": true,
+          "votes": 13
+        }
+      ]
     },
     {
       "number": 10,

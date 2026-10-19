@@ -407,3 +407,9 @@ textarea { resize: vertical; }
 
 .data-facts { display: flex; flex-direction: column; gap: 14px; background: var(--bg); border-radius: 8px; padding: 18px 20px; }
 .data-facts p { font-size: 15px; color: var(--body); }
+/* Long words (e.g. splanchnizomai) must fit a phone screen. */
+.word-title, .word-hero-heb, .word-tile-name, .word-tile-heb { overflow-wrap: anywhere; min-width: 0; }
+@media (max-width: 640px) {
+  .word-title { font-size: clamp(28px, 9vw, 48px); }
+  .word-hero-heb { font-size: clamp(30px, 9.5vw, 64px); }
+}

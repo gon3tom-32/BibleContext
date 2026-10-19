@@ -504,5 +504,149 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "pistis",
+    "transliteration": "pistis",
+    "original": "πίστις",
+    "pronunciation": "PISS-tiss",
+    "gloss": "faith, trust",
+    "notes": "Trust or confidence in someone, and also faithfulness or loyalty. In Matthew's healing stories it's the trust that comes to Jesus expecting help, often from unlikely people: a Roman officer, a bleeding woman, two blind men.",
+    "range": [
+      {
+        "sense": "Trust",
+        "note": "Confidence in a person or what they can do."
+      },
+      {
+        "sense": "Faithfulness",
+        "note": "Being trustworthy and loyal (STEPBible tags this sense separately)."
+      },
+      {
+        "sense": "The faith",
+        "note": "Later, what Christians believe."
+      }
+    ],
+    "translations": [
+      "faith",
+      "trust",
+      "faithfulness",
+      "belief"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 5:34",
+        "note": "\"Your faith has made you well.\""
+      },
+      {
+        "ref": "Luke 17:6",
+        "note": "Faith like a mustard seed."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "\"The righteous will live by faith.\""
+      },
+      {
+        "ref": "Hebrews 11:1",
+        "note": "Faith is the assurance of things hoped for."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleos",
+    "transliteration": "eleos",
+    "original": "ἔλεος",
+    "pronunciation": "EL-eh-oss",
+    "gloss": "mercy",
+    "notes": "Kindness toward someone in need. When Jesus quotes Hosea 6:6, the Greek Old Testament uses eleos for the Hebrew hesed, the loyal love at the heart of Ruth.",
+    "range": [
+      {
+        "sense": "Pity",
+        "note": "Feeling for someone in trouble."
+      },
+      {
+        "sense": "Kindness shown",
+        "note": "Acting to help the one in need."
+      },
+      {
+        "sense": "God's mercy",
+        "note": "God's faithful kindness to his people."
+      }
+    ],
+    "translations": [
+      "mercy",
+      "compassion",
+      "kindness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:7",
+        "note": "Jesus quotes Hosea 6:6 again."
+      },
+      {
+        "ref": "Matthew 23:23",
+        "note": "Justice, mercy, and faithfulness."
+      },
+      {
+        "ref": "Luke 1:50",
+        "note": "Mary: his mercy for those who fear him."
+      },
+      {
+        "ref": "James 2:13",
+        "note": "Mercy triumphs over judgment."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "splanchnizomai",
+    "transliteration": "splanchnizomai",
+    "original": "σπλαγχνίζομαι",
+    "pronunciation": "splangkh-NID-zoh-my",
+    "gloss": "to have compassion",
+    "notes": "Built from the word for the inner organs, which Greek speakers thought of as the seat of feeling, something like \"heart\" in English. In the Gospels it's used almost only of Jesus, and of characters in his parables who stand for God.",
+    "range": [
+      {
+        "sense": "Be moved inside",
+        "note": "A gut-level feeling of pity."
+      },
+      {
+        "sense": "Act with compassion",
+        "note": "The feeling that leads to help."
+      }
+    ],
+    "translations": [
+      "had compassion",
+      "was moved with pity",
+      "felt sorry for"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 14:14",
+        "note": "Compassion before feeding the crowd."
+      },
+      {
+        "ref": "Mark 1:41",
+        "note": "Moved with pity for a man with a skin disease."
+      },
+      {
+        "ref": "Luke 10:33",
+        "note": "The Samaritan had compassion."
+      },
+      {
+        "ref": "Luke 15:20",
+        "note": "The father runs to his son."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

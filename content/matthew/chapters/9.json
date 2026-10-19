@@ -1,0 +1,74 @@
+{
+  "number": 9,
+  "sceneHappening": "Back in Capernaum, eating with outsiders",
+  "summary": "Back in his own town, friends bring Jesus a paralyzed man on a mat. Seeing their faith, Jesus says, \"Your sins are forgiven.\" Some scribes think this is blasphemy, so Jesus heals the man to show that the Son of Man has authority on earth to forgive sins. He calls Matthew, a tax collector sitting at his booth, and then eats with tax collectors and sinners. When the Pharisees object, he says the sick need a doctor, quotes Hosea (\"I desire mercy, not sacrifice\"), and says he came to call sinners. Asked why his disciples don't fast, he says wedding guests don't mourn while the groom is with them, and new wine needs new wineskins. A synagogue leader's daughter dies; on the way to her, a woman who has bled for twelve years touches the edge of his cloak and is healed. Jesus raises the girl, gives sight to two blind men who call him Son of David, and frees a man who couldn't speak. Seeing the crowds harassed and helpless, like sheep without a shepherd, he has compassion on them: the harvest is plentiful, but the workers are few.",
+  "whySettingMatters": "Tax collectors in Capernaum collected tolls for Herod Antipas on goods moving along the trade route. They were seen as collaborators and were often dishonest, so eating with them signaled acceptance. Under the purity laws, a woman with ongoing bleeding was continually unclean and made unclean whatever she touched; she reaches for the tassel on his cloak that the law told Israelites to wear. Mourners, including hired flute players, gathered quickly after a death. \"Son of David\" was a way of calling him the promised king.",
+  "people": [
+    {
+      "id": "the-paralyzed-man",
+      "note": "Carried by friends whose faith Jesus notices first."
+    },
+    {
+      "id": "matthew",
+      "note": "A tax collector who leaves his booth to follow. Tradition links him to this book."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Scribes and Pharisees object to forgiving sins and to the dinner guests."
+    },
+    {
+      "id": "the-bleeding-woman",
+      "note": "After twelve years, she reaches for his cloak and is healed."
+    },
+    {
+      "id": "the-synagogue-leader",
+      "note": "A local leader who kneels and asks Jesus to come to his dead daughter."
+    }
+  ],
+  "questions": [
+    "The friends carried the man to Jesus, and Jesus responds to \"their faith.\" What do you make of that?",
+    "Why would sharing a meal with tax collectors upset people so much?",
+    "\"I desire mercy, not sacrifice\" comes from Hosea. What might the Pharisees have been missing?",
+    "Jesus feels compassion for crowds who are harassed and helpless. Who might that describe today?"
+  ],
+  "words": [
+    {
+      "id": "exousia",
+      "note": "Authority to forgive sins, given \"to men\" (9:6, 9:8)."
+    },
+    {
+      "id": "pistis",
+      "note": "The friends' faith, the woman's faith, and the blind men's faith (9:2, 9:22, 9:29)."
+    },
+    {
+      "id": "eleos",
+      "note": "\"I desire mercy, not sacrifice\" (9:13)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "He had compassion on the crowds (9:36)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Hosea 6:6",
+      "note": "mercy, not sacrifice"
+    },
+    {
+      "ref": "Numbers 15:38-39",
+      "note": "tassels on the corners of garments"
+    },
+    {
+      "ref": "Leviticus 15:25-27",
+      "note": "the law for ongoing bleeding"
+    },
+    {
+      "ref": "Ezekiel 34:5",
+      "note": "sheep scattered without a shepherd"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

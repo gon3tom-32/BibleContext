@@ -850,6 +850,202 @@
         "fetched": "2026-10-19",
         "item": "G1849"
       }
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4102G",
+          "original": "πίστις",
+          "transliteration": "pistis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "faith",
+          "meaning": "πίστις, -εως, ἡ\n(πείθω), [in LXX chiefly for אֱמוּנָה ;]\n1. in active sense, faith, belief, trust, confidence, in NT always of religious faith in God or Christ or spiritual things: Mat.8:10, Luk.5:20, Act.14:9, Rom.1:8, 1Co.2:5, 2Co.1:24, 1Ti.1:5, al.; with genitive obj., Mrk.11:22, Act.3:16, Rom.3:22, Gal.2:16, Eph.3:12, Jas.2:1, al.; with prep., ἐν, Rom.3:25, Gal.3:26, Eph.1:15, Col.1:24, 1Ti.1:14 3:13, 2Ti.1:13 3:15, 2Pe.1:1; εἰς, Act.20:21 24:24 26:18, Col.2:5, 1Pe.1:21; πρός, 1Th.1:8, Phm 5; ἐπί, with accusative Heb.6:1; ἐν τῇ π. στήκειν (εἶναι, μένειν), 1Co.16:13, 1Co.13:5, 1Ti.2:15; ὑπα …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πίστιν",
+          "translit": "pistin",
+          "gloss": "faith"
+        },
+        {
+          "original": "πίστις",
+          "translit": "pistis",
+          "gloss": "faith"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 8:10",
+        "Matthew 9:2",
+        "Matthew 9:22",
+        "Matthew 9:29",
+        "Matthew 15:28",
+        "Matthew 17:20",
+        "Matthew 21:21",
+        "Matthew 23:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 226,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 5:34",
+          "found": true
+        },
+        {
+          "ref": "Luke 17:6",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:17",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 11:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4102G, G4102H"
+      }
+    },
+    {
+      "id": "eleos",
+      "strongs": [
+        "G1656"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1656",
+          "original": "ἔλεος",
+          "transliteration": "eleos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "mercy",
+          "meaning": "ἔλεος, -ους, τό\n(cl. -ου, ὁ, and so Rec., Mat.9:13 12:7 23:23, Tit.3:5, Heb.4:16; on the Hellenistic form τό ἔ., see WH, App., 158; M, Pr., 60; Mayser, 277; Kühner, i, 515), [in LXX chiefly for חֶסֶד ;]\nmercy, pity, compassion;\n1. of men: Mat.9:13 (LXX) Mat.12:7 23:23; ποιεῖν ἔ. (and id. before μετά, with genitive; cf. Heb. עִם חֶסֶד עָשָׂה, Gen.21:23, al.), Luk.10:37, Jas.2:13 3:17. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἔλεος",
+          "translit": "eleos",
+          "gloss": "mercy"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 9:13",
+        "Matthew 12:7",
+        "Matthew 23:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 26,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 12:7",
+          "found": true
+        },
+        {
+          "ref": "Matthew 23:23",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:50",
+          "found": true
+        },
+        {
+          "ref": "James 2:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1656"
+      }
+    },
+    {
+      "id": "splanchnizomai",
+      "strongs": [
+        "G4697"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4697",
+          "original": "σπλαγχνίζω",
+          "transliteration": "splagchnizō",
+          "partOfSpeech": "G:V",
+          "gloss": "to pity",
+          "meaning": "σπλαγχνίζομαι\n(σπλάγχνον), [in LXX (act., -ίζω): Pro.17:5 A, 2Ma.6:8 (= -εύω) * ;]\nto be moved as to the σπλάγχνα (which see), hence, to feel pity or compassion: absol., Luk.10:33 15:20; ptcp., σπλαγχνισθείς, with indic., Mat.18:27 20:34, Mrk.1:41; before ἐπί, with dative of person(s), Mat.14:14, Luk.7:13; ἐπί, with accusative, Mat.15:32, Mrk.6:34 8:2 9:22; ωερί, Mat.9:36. (The word is elsewhere found only in Sm: 1Ki.23:21, Eze.24:21, Test. Zeb., 4:6-7; see Thayer, see word; MM, xxiii quote Thumb, Hellen., 123 as practically confirming Lft. on Php.1:8, in the suggestion that the verb was a coi …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐσπλαγχνίσθη",
+          "translit": "esplagchnisthē",
+          "gloss": "to pity"
+        },
+        {
+          "original": "σπλαγχνίζομαι",
+          "translit": "splagchnizomai",
+          "gloss": "to pity"
+        },
+        {
+          "original": "Σπλαγχνισθεὶς",
+          "translit": "Splagchnistheis",
+          "gloss": "to pity"
+        },
+        {
+          "original": "σπλαγχνισθεὶς",
+          "translit": "splagchnistheis",
+          "gloss": "to pity"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 9:36",
+        "Matthew 14:14",
+        "Matthew 15:32",
+        "Matthew 18:27",
+        "Matthew 20:34"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 12,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 14:14",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:41",
+          "found": true
+        },
+        {
+          "ref": "Luke 10:33",
+          "found": true
+        },
+        {
+          "ref": "Luke 15:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4697"
+      }
     }
   ]
 }

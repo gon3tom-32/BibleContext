@@ -27,11 +27,15 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 8 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 10 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
       "text": "Emmanouel appears only once in the New Testament; its other uses (Isaiah 7:14, 8:8) are in the Hebrew Bible, which the Greek tagging doesn't cover."
+    },
+    {
+      "area": "places",
+      "text": "Manuscripts differ at 8:28 (Gadarenes, Gerasenes, or Gergesenes), so where the pigs scene happened is debated; we show Gadara as OpenBible locates it."
     }
   ]
 }
