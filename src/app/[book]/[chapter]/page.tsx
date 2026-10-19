@@ -119,7 +119,7 @@ export default async function ChapterPage({ params }: Params) {
                   if (!w) return null;
                   return (
                     <li key={id}>
-                      <Link href={`/${slug}/words/#${w.id}`}>
+                      <Link href={`/${slug}/words/${w.id}/`}>
                         <i>{w.transliteration}</i>
                       </Link>{" "}
                       <span className="gloss">· {w.gloss}</span>
@@ -128,7 +128,7 @@ export default async function ChapterPage({ params }: Params) {
                   );
                 })}
               </ul>
-              <Link href={`/${slug}/words/`} className="smaller">Open full word study</Link>
+              <Link href={`/${slug}/words/`} className="smaller">See all word studies</Link>
             </div>
 
             <div className="card card--tight card--side">

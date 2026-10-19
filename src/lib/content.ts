@@ -46,10 +46,20 @@ export type Chapter = {
 export type Word = {
   id: string;
   transliteration: string;
+  /** Original-language form (Hebrew for Ruth). */
   original: string;
+  /** Approximate, for English speakers. */
+  pronunciation: string;
   gloss: string;
   notes: string;
-  occurrences: string[];
+  /** Shown with a "Debated" tag when the meaning or origin is uncertain. */
+  uncertain?: string;
+  range: { sense: string; note: string }[];
+  /** How English Bibles commonly render it. */
+  translations: string[];
+  /** Verses in this book where the word appears. */
+  ruthRefs: string[];
+  elsewhere: { ref: string; note: string }[];
 };
 
 export type Stop = {
@@ -135,6 +145,18 @@ export function getTimeline(slug: string): Timeline {
   const t = readJson<Timeline>(slug, "timeline.json");
   t.eras.sort((a, b) => a.order - b.order);
   return t;
+}
+
+export function getWord(slug: string, id: string): Word | undefined {
+  return getWords(slug).find((w) => w.id === id);
+}
+
+/** Every written chapter of a book, in order. */
+export function getChapters(slug: string): Chapter[] {
+  const count = getBook(slug).chapterCount;
+  return Array.from({ length: count }, (_, i) => getChapter(slug, i + 1)).filter(
+    (c): c is Chapter => c !== null,
+  );
 }
 
 /** Returns null when the chapter hasn't been written yet. */

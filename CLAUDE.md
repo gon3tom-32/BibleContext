@@ -8,7 +8,7 @@
 - **Maps:** schematic SVG per book, drawn from `map.json` (water, rivers, routes, stops with coordinates).
 - **Notes:** `src/lib/notes.ts` uses localStorage. Phase 2 replaces its internals with Supabase (`supabase/migrations/`), keeping the same functions.
 - **Not a test:** the design's "Start the context check" button became "See the map and timeline".
-- **Word studies:** a simple list page for now; the full screen is Phase 2.
+- **Word studies:** `/ruth/words` lists every word; `/ruth/words/<id>` shows the Hebrew, pronunciation, meaning, range of meaning, uses chapter by chapter (pulled from each chapter's `words` notes), every verse in the book, other places it's used, and common English renderings. `uncertain` adds a "Debated" note.
 - **Isolation:** own GitHub repo and own Supabase project. See `docs/SETUP.md`.
 
 ## What this is
@@ -55,7 +55,7 @@ Navigation: Overview, Context, Chapters, Word studies, Our notes ("Words" on pho
 
 **Chapters 2–4 (done, first draft)** — each chapter can set `sceneHappening` for its own "Setting the scene" fact, and lists key words as `{ id, note }` so the note says what the word is doing in that chapter.
 
-**Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with", the full word study screen.
+**Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with".
 
 **Later** — relationship web for people, more books, search across notes.
 

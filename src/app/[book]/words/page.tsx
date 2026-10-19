@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getBook, getWords, scriptureUrl } from "@/lib/content";
+import { getBook, getChapters, getWords } from "@/lib/content";
 
 type Params = { params: Promise<{ book: string }> };
 
@@ -9,11 +9,13 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   return { title: `${getBook(book).title}: word studies` };
 }
 
-// Simple first pass. The full word study screen is planned for Phase 2.
 export default async function WordsPage({ params }: Params) {
   const { book: slug } = await params;
   const book = getBook(slug);
   const words = getWords(slug);
+  const chapters = getChapters(slug);
+  const chaptersFor = (id: string) => chapters.filter((c) => c.words.some((w) => w.id === id)).map((c) => c.number);
+
   return (
     <main id="main" className="main">
       <section className="stack gap-12">
@@ -21,27 +23,29 @@ export default async function WordsPage({ params }: Params) {
           <Link href={`/${slug}/`}>{book.title}</Link> / Word studies
         </nav>
         <h1 className="page-title">Word studies</h1>
-        <p className="lede lede--sm">The original-language word, its range of meaning, and where else it shows up.</p>
+        <p className="lede lede--sm">
+          Key words from the original language. Tap one to see its range of meaning and where else it shows up.
+        </p>
       </section>
-      <div className="stack gap-16">
-        {words.map((w) => (
-          <section key={w.id} id={w.id} className="card word-card" aria-labelledby={`${w.id}-h`} style={{ scrollMarginTop: 24 }}>
-            <div className="card-head">
-              <h2 id={`${w.id}-h`}><i>{w.transliteration}</i> <span className="muted" style={{ fontFamily: "var(--sans)", fontSize: 18, fontWeight: 400 }}>· {w.gloss}</span></h2>
-              <span className="word-original" lang="he" dir="rtl">{w.original}</span>
-            </div>
-            <p className="prose">{w.notes}</p>
-            <div className="stack gap-8">
-              <h3 className="label" style={{ fontFamily: "var(--sans)" }}>Where it shows up</h3>
-              <ul className="refs">
-                {w.occurrences.map((o) => (
-                  <li key={o}><a href={scriptureUrl(o)} target="_blank" rel="noopener">{o}</a></li>
-                ))}
-              </ul>
-            </div>
-          </section>
-        ))}
-      </div>
+      <ul className="word-grid" aria-label="Words">
+        {words.map((w) => {
+          const chs = chaptersFor(w.id);
+          return (
+            <li key={w.id}>
+              <Link className="word-tile" href={`/${slug}/words/${w.id}/`}>
+                <span className="word-tile-top">
+                  <span className="word-tile-name"><i>{w.transliteration}</i></span>
+                  <span className="hebrew word-tile-heb" lang="he" dir="rtl">{w.original}</span>
+                </span>
+                <span className="word-tile-gloss">{w.gloss}</span>
+                {chs.length > 0 && (
+                  <span className="word-tile-meta">Chapter{chs.length > 1 ? "s" : ""} {chs.join(", ")}</span>
+                )}
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
     </main>
   );
 }

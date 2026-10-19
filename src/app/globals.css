@@ -278,8 +278,50 @@ textarea { resize: vertical; }
 .lane-cell--book { background: var(--ink); color: #fff; font-weight: 600; }
 
 /* ---------- Word study ---------- */
-.word-card h2 { font-size: 30px; }
-.word-original { font-size: 28px; font-family: "SBL Hebrew", "Times New Roman", serif; color: var(--text-2); }
+.hebrew { font-family: var(--font-hebrew), "SBL Hebrew", "Times New Roman", serif; font-weight: 400; }
+.word-grid {
+  list-style: none; margin: 0; padding: 0; display: grid; gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(min(260px, 100%), 1fr));
+}
+.word-tile {
+  display: flex; flex-direction: column; gap: 6px; height: 100%;
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 22px 24px; color: var(--ink); text-decoration: none; font-weight: 400;
+}
+.word-tile:hover { border-color: var(--gold-ring); color: var(--ink); }
+.word-tile-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.word-tile-name { font-family: var(--serif); font-size: 26px; font-weight: 600; }
+.word-tile-heb { font-size: 26px; color: var(--text-2); }
+.word-tile-gloss { font-size: 16px; color: var(--text-2); }
+.word-tile-meta { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+.word-hero { padding: 36px 40px; justify-content: space-between; }
+.word-hero-text { flex: 1 1 360px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.word-title { font-size: 64px; line-height: 1.05; font-weight: 600; }
+.word-gloss { font-family: var(--serif); font-size: 26px; font-weight: 500; color: var(--gold-dark); }
+.word-say { font-size: 15px; color: var(--on-dark-muted); }
+.word-say span:first-child { color: var(--bg); font-weight: 600; letter-spacing: 0.04em; }
+.word-say-note { font-size: 13px; }
+.word-hero-heb {
+  flex: 0 1 auto; min-width: 0; font-size: 88px; line-height: 1.2; color: var(--bg);
+  padding: 8px 32px; border-left: 1px solid var(--chip);
+}
+.range-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.range-list li { display: flex; flex-direction: column; gap: 2px; background: var(--bg); border-radius: 8px; padding: 14px 16px; }
+.range-list span { font-size: 15px; color: var(--text-2); }
+.uses-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
+.uses-list li { display: flex; flex-direction: column; gap: 4px; padding-left: 14px; border-left: 3px solid var(--gold-ring); }
+.uses-ch { font-size: 14px; }
+.uses-list p { color: var(--body); }
+.ref-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.ref-chips a {
+  display: inline-flex; align-items: center; min-height: 44px; padding: 0 14px; border-radius: 999px;
+  border: 1px solid var(--border-strong); background: var(--card); font-size: 14px; text-decoration: none;
+}
+.ref-chips a:hover { border-color: var(--gold-ring); }
+.chips--light li { background: var(--bg); color: var(--ink); border: 1px solid var(--border); }
+.pager { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.pager a { display: inline-flex; align-items: center; min-height: 44px; font-size: 16px; }
 
 /* ---------- Phones ---------- */
 @media (max-width: 640px) {
@@ -301,6 +343,9 @@ textarea { resize: vertical; }
   .band { padding: 28px 20px; gap: 24px; }
   .scene { padding: 20px; }
   .big-idea { font-size: 24px; }
+  .word-hero { padding: 28px 20px; }
+  .word-title { font-size: 48px; }
+  .word-hero-heb { font-size: 64px; padding: 0; border-left: 0; }
   .card { padding: 20px; }
   .col-main, .col-side, .map-card, .stops, .hero-text { flex-basis: 100%; }
 }
