@@ -4031,6 +4031,38 @@
       }
     },
     {
+      "id": "gadara",
+      "name": "Gadara",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 8:28"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        8
+      ],
+      "identification": "Umm Qais",
+      "modernLocation": "Umm Qais",
+      "lonlat": [
+        35.679352,
+        32.655998
+      ],
+      "confidence": {
+        "score": 1000,
+        "outOf": 1000,
+        "label": "High"
+      },
+      "outline": null,
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/afed46a/gadara"
+      }
+    },
+    {
       "id": "jerusalem",
       "name": "Jerusalem",
       "type": "settlement",

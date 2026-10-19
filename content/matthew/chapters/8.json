@@ -1,0 +1,70 @@
+{
+  "number": 8,
+  "sceneHappening": "Healings around the Sea of Galilee",
+  "summary": "Coming down from the mountain, Jesus touches and heals a man with a skin disease, and tells him to show himself to the priest as Moses commanded. In Capernaum a Roman centurion asks him to heal his paralyzed servant, and says Jesus need only say the word, since he too knows how authority works. Jesus is amazed: he hasn't found faith like this in Israel, and many will come from east and west to the feast of the kingdom. He heals Peter's mother-in-law of a fever, and that evening heals many more, which Matthew links to Isaiah: \"He took our weaknesses and carried our diseases.\" Two would-be followers hear what following costs. Crossing the lake, a violent storm hits while Jesus sleeps; the disciples wake him, and he calms the wind and waves. On the other side, in the region of the Gadarenes, two men possessed by demons come out of the tombs. Jesus sends the demons into a herd of pigs, which rush into the lake, and the townspeople ask him to leave.",
+  "whySettingMatters": "Under the purity laws, a skin disease made a person unclean and forced them to live apart, and touching them made you unclean too, so Jesus' touch broke a barrier. A centurion commanded about a hundred soldiers and was a Gentile; observant Jews avoided entering Gentile homes, which may be why he says \"just say the word.\" Sudden storms still sweep down onto the Sea of Galilee from the surrounding hills. Gadara was a Gentile town of the Decapolis, where pigs, unclean for Jews, were herded, and tombs were unclean places.",
+  "people": [
+    {
+      "id": "the-leper",
+      "note": "Kneels and says, \"If you're willing, you can make me clean.\""
+    },
+    {
+      "id": "the-centurion",
+      "note": "A Gentile officer whose trust amazes Jesus."
+    },
+    {
+      "id": "peters-mother-in-law",
+      "note": "Healed of a fever, she gets up and serves him."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Afraid in the storm: \"What kind of man is this?\""
+    },
+    {
+      "id": "the-gadarene-men",
+      "note": "Two men living among the tombs, freed from the demons."
+    }
+  ],
+  "questions": [
+    "Jesus could have healed the man with a word. Why might he choose to touch him?",
+    "The centurion understands authority from army life. What does he see in Jesus that others miss?",
+    "The two would-be followers get hard answers (8:20, 8:22). What were they being asked to give up?",
+    "After the storm the disciples ask, \"What kind of man is this?\" How would you answer from what you've read so far?"
+  ],
+  "words": [
+    {
+      "id": "exousia",
+      "note": "The centurion: \"I too am a man under authority\" (8:9)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"I haven't found such great faith, not even in Israel\" (8:10)."
+    },
+    {
+      "id": "pleroo",
+      "note": "The healings fulfill Isaiah: \"He took our weaknesses\" (8:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 13:45-46",
+      "note": "a person with a skin disease lives apart"
+    },
+    {
+      "ref": "Leviticus 14:2-4",
+      "note": "showing yourself to the priest"
+    },
+    {
+      "ref": "Isaiah 53:4",
+      "note": "he took up our pain and bore our suffering"
+    },
+    {
+      "ref": "Psalm 107:28-29",
+      "note": "God stills the storm"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

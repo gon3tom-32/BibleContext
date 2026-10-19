@@ -341,8 +341,11 @@ function pullWords() {
     const forms = [...new Set(inBook.map((t) => `${t.original.replace(/[\\/]/g, "")}|${t.translit}|${t.gloss}`))]
       .slice(0, 6)
       .map((s) => { const [original, translit, gloss] = s.split("|"); return { original, translit, gloss }; });
-    const entries = [...new Set(w.strongs.map((s) => s))].map((s) => lex.get(s)).filter(Boolean);
-    if (entries.length < w.strongs.length) gap("words", `Lexicon entry missing for some of ${w.strongs.join(", ")} ("${w.id}").`);
+    // Sub-senses of one word often share the same entry text; keep each text once.
+    const seenMeaning = new Set();
+    const entries = [...new Set(w.strongs)].map((s) => lex.get(s)).filter(Boolean)
+      .filter((e) => !seenMeaning.has(e.meaning) && seenMeaning.add(e.meaning));
+    if (w.strongs.some((s) => !lex.has(s))) gap("words", `Lexicon entry missing for some of ${w.strongs.join(", ")} ("${w.id}").`);
 
     // Check our hand-picked "elsewhere" references actually contain this word
     const hw = handWritten.find((x) => x.id === w.id);
