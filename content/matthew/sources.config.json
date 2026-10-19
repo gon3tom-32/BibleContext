@@ -153,6 +153,34 @@
     {
       "id": "solomon",
       "theographic": "solomon_2762"
+    },
+    {
+      "id": "simon-zealot",
+      "theographic": "simon_2746"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "thomas",
+      "theographic": "thomas_2851"
+    },
+    {
+      "id": "philip",
+      "theographic": "philip_2344"
+    },
+    {
+      "id": "bartholomew",
+      "theographic": "bartholomew_405"
+    },
+    {
+      "id": "james-alphaeus",
+      "theographic": "james_718"
+    },
+    {
+      "id": "thaddaeus",
+      "theographic": "lebbaeus_1815"
     }
   ],
   "words": [
@@ -254,6 +282,20 @@
         "G4697"
       ],
       "foundAt": "Matthew 9:36"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Matthew 10:2"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Matthew 10:38"
     }
   ],
   "crossRefs": {
@@ -271,7 +313,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 10 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 11 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
