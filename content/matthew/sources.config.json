@@ -145,6 +145,10 @@
     {
       "id": "mary-magdalene",
       "theographic": "mary_1943"
+    },
+    {
+      "id": "solomon",
+      "theographic": "solomon_2762"
     }
   ],
   "words": [
@@ -196,6 +200,34 @@
         "G5547"
       ],
       "foundAt": "Matthew 1:1"
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "foundAt": "Matthew 5:3"
+    },
+    {
+      "id": "hypokrites",
+      "strongs": [
+        "G5273"
+      ],
+      "foundAt": "Matthew 6:2"
+    },
+    {
+      "id": "mamonas",
+      "strongs": [
+        "G3126"
+      ],
+      "foundAt": "Matthew 6:24"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Matthew 7:29"
     }
   ],
   "crossRefs": {
@@ -213,7 +245,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 5 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 8 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

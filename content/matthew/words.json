@@ -319,5 +319,190 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "makarios",
+    "transliteration": "makarios",
+    "original": "μακάριος",
+    "pronunciation": "mah-KAH-ree-oss",
+    "gloss": "blessed, happy",
+    "notes": "Describes someone in a good place, especially as God sees it. It's a declaration, not an instruction: Jesus isn't telling people to mourn, but saying that those who mourn are in God's favor. Some translations try \"happy,\" which can sound too light.",
+    "range": [
+      {
+        "sense": "Fortunate",
+        "note": "Well off, to be congratulated."
+      },
+      {
+        "sense": "Blessed by God",
+        "note": "In God's favor, whatever things look like now."
+      },
+      {
+        "sense": "Happy",
+        "note": "In ordinary Greek, simply happy or prosperous."
+      }
+    ],
+    "translations": [
+      "blessed",
+      "happy",
+      "fortunate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 6:20",
+        "note": "Luke's shorter list of blessings."
+      },
+      {
+        "ref": "John 20:29",
+        "note": "Blessed are those who haven't seen and believe."
+      },
+      {
+        "ref": "James 1:12",
+        "note": "Blessed is the one who endures trials."
+      },
+      {
+        "ref": "Revelation 1:3",
+        "note": "Blessed is the one who reads this."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hypokrites",
+    "transliteration": "hypokritēs",
+    "original": "ὑποκριτής",
+    "pronunciation": "hoo-poh-kree-TACE",
+    "gloss": "hypocrite, actor",
+    "notes": "In Greek theater the word meant an actor, someone playing a part behind a mask. Jesus uses it for people whose devotion is a performance for an audience. Matthew uses it more than any other book.",
+    "range": [
+      {
+        "sense": "Actor",
+        "note": "A performer on stage."
+      },
+      {
+        "sense": "Pretender",
+        "note": "Someone whose outward show doesn't match the heart."
+      }
+    ],
+    "translations": [
+      "hypocrite",
+      "pretender",
+      "show-off"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 23:13",
+        "note": "\"Woe to you, scribes and Pharisees, hypocrites!\""
+      },
+      {
+        "ref": "Mark 7:6",
+        "note": "Isaiah's words about honoring God with lips only."
+      },
+      {
+        "ref": "Luke 12:56",
+        "note": "Reading the sky but not the times."
+      },
+      {
+        "ref": "Luke 13:15",
+        "note": "On healing on the Sabbath."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mamonas",
+    "transliteration": "mamōnas",
+    "original": "μαμωνᾶς",
+    "pronunciation": "mah-moh-NAHS",
+    "gloss": "wealth, money",
+    "notes": "An Aramaic word for wealth or property, carried over into Greek. Jesus pictures it as a rival master that competes with God for loyalty, which is why older translations kept it as a name, \"Mammon.\"",
+    "range": [
+      {
+        "sense": "Wealth or property",
+        "note": "What a person owns."
+      },
+      {
+        "sense": "Money as a master",
+        "note": "Wealth treated as something people serve."
+      }
+    ],
+    "translations": [
+      "money",
+      "wealth",
+      "Mammon",
+      "riches"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 16:9",
+        "note": "\"Make friends by means of unrighteous wealth.\""
+      },
+      {
+        "ref": "Luke 16:11",
+        "note": "Faithful with worldly wealth."
+      },
+      {
+        "ref": "Luke 16:13",
+        "note": "Luke's version of \"you cannot serve God and money.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "The right or power to act, often given by someone higher. Matthew comes back to it: Jesus teaches with authority (7:29), forgives sins with it (9:6), gives it to the twelve (10:1), and at the end says \"all authority in heaven and on earth has been given to me\" (28:18).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "\"All authority has been given to me.\""
+      },
+      {
+        "ref": "Mark 1:22",
+        "note": "Mark's note on the same reaction."
+      },
+      {
+        "ref": "John 1:12",
+        "note": "The right to become children of God."
+      },
+      {
+        "ref": "Romans 13:1",
+        "note": "Governing authorities."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

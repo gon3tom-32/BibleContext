@@ -1,0 +1,70 @@
+{
+  "number": 5,
+  "sceneHappening": "Teaching on a mountain in Galilee",
+  "summary": "Seeing the crowds, Jesus goes up a mountain, sits down, and teaches his disciples. He begins with blessings for unlikely people: the poor in spirit, those who mourn, the meek, those hungry for righteousness, the merciful, the pure in heart, peacemakers, and the persecuted. His followers are salt and light. He hasn't come to abolish the law and the prophets but to fulfill them, and their righteousness must go beyond that of the scribes and Pharisees. Then six times he says, \"You have heard it said... but I tell you\": about anger, lust, divorce, oaths, retaliation, and love for enemies. Anger is treated like murder, a slap gets the other cheek, a forced mile becomes two, and enemies are to be loved and prayed for, \"so that you may be children of your Father in heaven.\"",
+  "whySettingMatters": "A teacher on a mountain giving God's commands would remind Matthew's readers of Moses at Sinai, and rabbis taught sitting down. Under Roman occupation, a soldier could legally force a civilian to carry his gear for a mile, so \"go two\" landed close to home. \"An eye for an eye\" had been a rule for courts to keep punishment in proportion, not a license for revenge. A slap on the right cheek was usually a backhanded insult, a matter of honor more than injury.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches as a new Moses, but speaks on his own authority (\"but I tell you\")."
+    },
+    {
+      "id": "the-disciples",
+      "note": "The ones being taught, with the crowds listening in."
+    },
+    {
+      "id": "the-crowds",
+      "note": "People from all over Galilee and beyond, many of them poor and sick."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "The scribes and Pharisees set the bar the disciples must go beyond (5:20)."
+    }
+  ],
+  "questions": [
+    "Which of the blessed would you least expect to hear called blessed? Why might Jesus start there?",
+    "Jesus says he came to fulfill the law, not abolish it. How do the \"but I tell you\" sayings go deeper than the rules?",
+    "Going the second mile meant carrying a Roman soldier's gear farther than required. What would that have cost, and what might it have communicated?",
+    "\"Love your enemies\" was said to people living under an occupying army. Who would that have meant for them? Who might it mean for us?"
+  ],
+  "words": [
+    {
+      "id": "makarios",
+      "note": "The blessings that open the sermon (5:3-11)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "Hunger for righteousness, persecution for it, and a righteousness beyond the scribes' (5:6, 5:10, 5:20)."
+    },
+    {
+      "id": "pleroo",
+      "note": "\"Not to abolish, but to fulfill\" (5:17)."
+    },
+    {
+      "id": "basileia",
+      "note": "The kingdom belongs to the poor in spirit and the persecuted (5:3, 5:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 37:11",
+      "note": "the meek will inherit the land"
+    },
+    {
+      "ref": "Isaiah 61:1-3",
+      "note": "good news for the poor and comfort for those who mourn"
+    },
+    {
+      "ref": "Exodus 21:23-25",
+      "note": "\"eye for eye,\" a rule for proportion in court"
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor as yourself"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
