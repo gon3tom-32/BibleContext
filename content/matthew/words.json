@@ -884,5 +884,183 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "parabole",
+    "transliteration": "parabolē",
+    "original": "παραβολή",
+    "pronunciation": "pah-rah-bo-LAY",
+    "gloss": "parable, comparison",
+    "notes": "From a verb meaning \"to set side by side\": a comparison that lays one thing next to another. It translates the Hebrew mashal, which covers proverbs, riddles, and illustrative stories. Matthew uses it a great deal; chapter 13 gathers seven parables in a row.",
+    "range": [
+      {
+        "sense": "Comparison",
+        "note": "One thing set beside another to explain it."
+      },
+      {
+        "sense": "Story",
+        "note": "A short story with a point, like the sower."
+      },
+      {
+        "sense": "Proverb or riddle",
+        "note": "A saying that needs thinking about."
+      }
+    ],
+    "translations": [
+      "parable",
+      "illustration",
+      "comparison",
+      "analogy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 4:2",
+        "note": "He taught them many things in parables."
+      },
+      {
+        "ref": "Luke 10:30",
+        "note": "The good Samaritan."
+      },
+      {
+        "ref": "Luke 15:3",
+        "note": "The lost sheep."
+      },
+      {
+        "ref": "Hebrews 11:19",
+        "note": "Isaac received back \"in a figure.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mysterion",
+    "transliteration": "mystērion",
+    "original": "μυστήριον",
+    "pronunciation": "moos-TAY-ree-on",
+    "gloss": "mystery, secret",
+    "notes": "A secret that has to be revealed, not a puzzle to solve. In the New Testament it usually means something God has kept hidden and now makes known. In Matthew the mysteries of the kingdom are given to the disciples, though what makes them \"insiders\" is that they ask and listen.",
+    "range": [
+      {
+        "sense": "Secret",
+        "note": "Something hidden until it is disclosed."
+      },
+      {
+        "sense": "Revealed truth",
+        "note": "God's plan, now made known."
+      },
+      {
+        "sense": "Religious rite",
+        "note": "In wider Greek, the secret rites of a cult."
+      }
+    ],
+    "translations": [
+      "secrets",
+      "mysteries",
+      "hidden truth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 4:11",
+        "note": "The secret of the kingdom of God."
+      },
+      {
+        "ref": "Romans 16:25",
+        "note": "The mystery kept secret for long ages."
+      },
+      {
+        "ref": "Ephesians 3:3",
+        "note": "The mystery made known by revelation."
+      },
+      {
+        "ref": "1 Corinthians 15:51",
+        "note": "\"Listen, I tell you a mystery.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "suniemi",
+    "transliteration": "syniēmi",
+    "original": "συνίημι",
+    "pronunciation": "soo-NEE-ay-mee",
+    "gloss": "to understand",
+    "notes": "Literally \"to bring together\": to put the pieces into a whole. In chapter 13 it's the dividing line. People who hear the word without understanding it are the path and rocky soil; the one who hears and understands is the good soil. The quotation from Isaiah turns on the same word.",
+    "range": [
+      {
+        "sense": "Grasp",
+        "note": "Take in what something means."
+      },
+      {
+        "sense": "Have insight",
+        "note": "See how things fit together."
+      }
+    ],
+    "translations": [
+      "understand",
+      "comprehend",
+      "grasp",
+      "have insight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:10",
+        "note": "\"Hear and understand.\""
+      },
+      {
+        "ref": "Mark 6:52",
+        "note": "They hadn't understood about the loaves."
+      },
+      {
+        "ref": "Luke 24:45",
+        "note": "He opened their minds to understand the Scriptures."
+      },
+      {
+        "ref": "Acts 28:26",
+        "note": "Paul quotes the same Isaiah passage."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "tekton",
+    "transliteration": "tektōn",
+    "original": "τέκτων",
+    "pronunciation": "TEK-tone",
+    "gloss": "craftsman, carpenter",
+    "notes": "A builder who worked with wood and often stone, so \"carpenter\" can be too narrow. Matthew has the villagers call Jesus \"the carpenter's son\"; Mark's Gospel has them call Jesus himself a tekton. Either way, it places him in a working family that the whole village knew.",
+    "range": [
+      {
+        "sense": "Carpenter",
+        "note": "A worker in wood."
+      },
+      {
+        "sense": "Builder",
+        "note": "A craftsman in wood, stone, or building generally."
+      }
+    ],
+    "translations": [
+      "carpenter",
+      "craftsman",
+      "builder"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 6:3",
+        "note": "\"Isn't this the carpenter?\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

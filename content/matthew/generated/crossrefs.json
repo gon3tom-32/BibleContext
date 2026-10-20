@@ -1078,7 +1078,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 6:9-10",
+          "inDataset": true,
+          "votes": 99
+        },
+        {
+          "ref": "Psalm 78:2",
+          "inDataset": true,
+          "votes": 149
+        },
+        {
+          "ref": "Daniel 4:12",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Daniel 12:3",
+          "inDataset": true,
+          "votes": 25
+        }
+      ]
     },
     {
       "number": 14,

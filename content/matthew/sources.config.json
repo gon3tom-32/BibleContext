@@ -333,6 +333,34 @@
         "G4592"
       ],
       "foundAt": "Matthew 12:38"
+    },
+    {
+      "id": "parabole",
+      "strongs": [
+        "G3850"
+      ],
+      "foundAt": "Matthew 13:3"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "Matthew 13:11"
+    },
+    {
+      "id": "suniemi",
+      "strongs": [
+        "G4920"
+      ],
+      "foundAt": "Matthew 13:13"
+    },
+    {
+      "id": "tekton",
+      "strongs": [
+        "G5045"
+      ],
+      "foundAt": "Matthew 13:55"
     }
   ],
   "crossRefs": {
@@ -350,7 +378,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 13 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 14 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

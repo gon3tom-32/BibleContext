@@ -177,6 +177,11 @@
   {
     "id": "jesus-family",
     "name": "Jesus' mother and brothers",
-    "note": "His family in Nazareth. His brothers are named in 13:55."
+    "note": "His mother Mary and his brothers, named in 13:55 as James, Joses, Simon, and Judas, with sisters not named."
+  },
+  {
+    "id": "nazareth-townspeople",
+    "name": "The people of Nazareth",
+    "note": "Jesus' neighbors and relatives, who knew him as a craftsman's son."
   }
 ]

@@ -1,0 +1,79 @@
+{
+  "number": 13,
+  "sceneHappening": "Teaching from a boat on the lake, then back in Nazareth",
+  "summary": "A crowd gathers so thick on the shore that Jesus gets into a boat and teaches them in parables. A sower scatters seed on a path, rocky ground, thorns, and good soil, and only the last bears fruit, a hundred, sixty, or thirty times over. When the disciples ask why he speaks this way, he says the secrets of the kingdom of heaven have been given to them but not to the crowds, and quotes Isaiah about people who hear and never understand. He then explains the sower, and tells more: an enemy sows weeds among the wheat, and the owner says to let both grow until harvest; a mustard seed, smallest of seeds, becomes a tree for birds; a woman hides yeast in three measures of flour; a man sells everything for a treasure buried in a field; a merchant sells everything for one pearl; a net gathers every kind of fish and is sorted on shore. He ends with the scribe trained for the kingdom, who brings out of his storehouse things new and old. Then in his hometown synagogue the people are astonished and offended: \"Isn't this the carpenter's son?\" He says a prophet is without honor in his own country, and does few miracles there because of their unbelief.",
+  "whySettingMatters": "Farmers in Galilee broadcast seed by hand and plowed it in afterward, so some seed inevitably landed on the paths between fields, on thin soil over limestone, or among thorn roots. The \"weeds\" are probably darnel, a grass that looks like wheat until it heads and whose seeds are poisonous; pulling it early could uproot the wheat with it. People had no banks, so burying valuables in a field was common, and a finder who bought the field got the treasure. Pearls were rare, costly imports. Fishing crews on the lake sorted their catch on shore, keeping only fish the law counted clean (those with fins and scales). \"Carpenter\" translates tekton, a craftsman who might work in wood or stone; in a village of a few hundred people, everyone knew his family.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches in stories, then meets disbelief where he grew up."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Given the explanations the crowds don't get."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Hear the parables, but most don't grasp them."
+    },
+    {
+      "id": "nazareth-townspeople",
+      "note": "Astonished by his wisdom and offended that he's one of their own."
+    },
+    {
+      "id": "jesus-family",
+      "note": "Named in 13:55: his mother Mary and his brothers James, Joses, Simon, and Judas."
+    }
+  ],
+  "questions": [
+    "The sower scatters seed on every kind of ground. What might that say about how the kingdom comes?",
+    "Jesus quotes Isaiah about people who hear but never understand (13:14-15). Why might he quote it here?",
+    "The owner lets the weeds grow until harvest. What might that say about patience, and about our urge to sort people now?",
+    "Two of the parables are about selling everything for something found. What do they have in common, and how do they differ?",
+    "In Nazareth, familiarity leads to offense. When has knowing someone well made it harder to hear them?"
+  ],
+  "words": [
+    {
+      "id": "parabole",
+      "note": "The word for these stories, used for the first time in 13:3."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"The secrets of the kingdom of heaven\" (13:11)."
+    },
+    {
+      "id": "suniemi",
+      "note": "Hearing and not understanding is the heart of the chapter (13:13-23, 13:51)."
+    },
+    {
+      "id": "tekton",
+      "note": "\"Isn't this the carpenter's son?\" (13:55)."
+    },
+    {
+      "id": "basileia",
+      "note": "Seven comparisons begin \"The kingdom of heaven is like\" (13:24-52)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 6:9-10",
+      "note": "hearing but not understanding"
+    },
+    {
+      "ref": "Psalm 78:2",
+      "note": "\"I will open my mouth in parables\""
+    },
+    {
+      "ref": "Daniel 4:12",
+      "note": "a great tree whose branches shelter the birds"
+    },
+    {
+      "ref": "Daniel 12:3",
+      "note": "the wise will shine like the brightness of the sky"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
