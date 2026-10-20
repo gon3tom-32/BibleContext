@@ -1022,5 +1022,759 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "katallage",
+    "transliteration": "katallagē",
+    "original": "καταλλαγή",
+    "pronunciation": "kat-al-ag-AY",
+    "gloss": "reconciliation",
+    "notes": "Exchange, and so the restoring of a broken relationship. Paul says that \"while we were enemies, we were reconciled to God through the death of his Son\" (5:10-11). It is also used of the \"reconciliation of the world\" (11:15) and in 2 Corinthians 5:18-19, where Paul calls his work \"the ministry of reconciliation.\"",
+    "range": [
+      {
+        "sense": "Reconciliation",
+        "note": "Restoring friendship."
+      },
+      {
+        "sense": "Exchange",
+        "note": "A change from enmity to friendship."
+      }
+    ],
+    "translations": [
+      "reconciliation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 5:18",
+        "note": "He gave us the ministry of reconciliation."
+      },
+      {
+        "ref": "2 Corinthians 5:19",
+        "note": "God was reconciling the world to himself in Christ."
+      },
+      {
+        "ref": "Romans 11:15",
+        "note": "If their rejection means the reconciliation of the world."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hypomone",
+    "transliteration": "hypomonē",
+    "original": "ὑπομονή",
+    "pronunciation": "hoop-om-on-AY",
+    "gloss": "perseverance, endurance",
+    "notes": "Steadfastness under pressure, literally \"staying under.\" It is not passive: it is the stubborn endurance of a soldier or runner. Paul says \"suffering produces perseverance\" (5:3-4) and that we wait for what we hope for \"with patience\" (8:25).",
+    "range": [
+      {
+        "sense": "Perseverance",
+        "note": "Steady endurance."
+      },
+      {
+        "sense": "Patience",
+        "note": "Not giving up."
+      }
+    ],
+    "translations": [
+      "perseverance",
+      "endurance",
+      "patience"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 8:15",
+        "note": "They bear fruit with patience."
+      },
+      {
+        "ref": "Luke 21:19",
+        "note": "By your endurance you will gain your lives."
+      },
+      {
+        "ref": "2 Corinthians 6:4",
+        "note": "Through great endurance."
+      },
+      {
+        "ref": "James 1:3",
+        "note": "The testing of your faith produces steadfastness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "opsonion",
+    "transliteration": "opsōnion",
+    "original": "ὀψώνιον",
+    "pronunciation": "op-SO-nee-on",
+    "gloss": "wages, soldier's pay",
+    "notes": "Wages, especially a soldier's pay or rations. \"The wages of sin is death\" (6:23). Paul uses it in 1 Corinthians 9:7 and 2 Corinthians 11:8 for support given to workers. The contrast is with charisma, a free gift.",
+    "range": [
+      {
+        "sense": "Wages",
+        "note": "Pay that is earned."
+      },
+      {
+        "sense": "Soldier's pay",
+        "note": "Military rations or payment."
+      }
+    ],
+    "translations": [
+      "wages",
+      "pay"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 3:14",
+        "note": "Be content with your wages."
+      },
+      {
+        "ref": "1 Corinthians 9:7",
+        "note": "Who serves as a soldier at his own expense?"
+      },
+      {
+        "ref": "2 Corinthians 11:8",
+        "note": "I robbed other churches, accepting support from them."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "douloo",
+    "transliteration": "douloō",
+    "original": "δουλόω",
+    "pronunciation": "doo-LO-oh",
+    "gloss": "to enslave, to make a slave",
+    "notes": "To make someone a slave, or to bring under bondage. Paul says that believers were \"freed from sin\" and \"enslaved to God\" (6:18, 6:22). The verb makes the point that one is always owned by something; the question is by whom.",
+    "range": [
+      {
+        "sense": "Enslave",
+        "note": "Bring under bondage."
+      },
+      {
+        "sense": "Serve",
+        "note": "Be a slave to."
+      }
+    ],
+    "translations": [
+      "become slaves",
+      "be enslaved",
+      "enslave"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Titus 2:3",
+        "note": "Not slaves to much wine."
+      },
+      {
+        "ref": "1 Corinthians 9:19",
+        "note": "I have made myself a servant to all."
+      },
+      {
+        "ref": "Galatians 4:3",
+        "note": "We were enslaved to the elementary principles of the world."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epithymia",
+    "transliteration": "epithymia",
+    "original": "ἐπιθυμία",
+    "pronunciation": "ep-ee-thoo-MEE-ah",
+    "gloss": "desire, craving, lust",
+    "notes": "Strong desire, whether good or bad, though in Paul it is usually a harmful craving. The tenth commandment, \"you shall not covet\" (7:7-8), uses the related verb. In the New Testament it often means the cravings of the flesh.",
+    "range": [
+      {
+        "sense": "Desire",
+        "note": "A strong longing."
+      },
+      {
+        "sense": "Covetousness",
+        "note": "Wanting what is not yours."
+      },
+      {
+        "sense": "Lust",
+        "note": "Craving."
+      }
+    ],
+    "translations": [
+      "desire",
+      "coveting",
+      "lust",
+      "craving"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 4:19",
+        "note": "The desires for other things enter in."
+      },
+      {
+        "ref": "Luke 22:15",
+        "note": "I have earnestly desired to eat this Passover with you."
+      },
+      {
+        "ref": "Galatians 5:16",
+        "note": "You will not gratify the desires of the flesh."
+      },
+      {
+        "ref": "1 Peter 1:14",
+        "note": "Not conforming to the passions of your former ignorance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "huiothesia",
+    "transliteration": "huiothesia",
+    "original": "υἱοθεσία",
+    "pronunciation": "hwee-oth-es-EE-ah",
+    "gloss": "adoption",
+    "notes": "Placing as a son, the legal adoption of a child as a full heir. Paul says believers \"received the Spirit of adoption\" (8:15) and that we wait \"for adoption as sons, the redemption of our bodies\" (8:23). Adoption in Rome gave the adopted person full rights of inheritance, which is Paul's point.",
+    "range": [
+      {
+        "sense": "Adoption",
+        "note": "Legal acceptance as a child and heir."
+      }
+    ],
+    "translations": [
+      "adoption",
+      "adoption as sons"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 9:4",
+        "note": "To them belong the adoption, the glory, the covenants."
+      },
+      {
+        "ref": "Galatians 4:5",
+        "note": "So that we might receive adoption as sons."
+      },
+      {
+        "ref": "Ephesians 1:5",
+        "note": "He predestined us for adoption as sons."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proginosko",
+    "transliteration": "proginōskō",
+    "original": "προγινώσκω",
+    "pronunciation": "pro-gin-OCE-ko",
+    "gloss": "to foreknow",
+    "notes": "To know beforehand. Paul says \"whom he foreknew, he also predestined\" (8:29) and that God did not reject \"his people whom he foreknew\" (11:2). In the Bible knowing is relational as well as factual, so some read \"foreknew\" as \"set his love on beforehand,\" others as God's advance knowledge.",
+    "range": [
+      {
+        "sense": "Foreknow",
+        "note": "Know in advance."
+      },
+      {
+        "sense": "Choose beforehand",
+        "note": "Set affection on in advance."
+      }
+    ],
+    "translations": [
+      "foreknow",
+      "know beforehand"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 26:5",
+        "note": "They have known for a long time."
+      },
+      {
+        "ref": "1 Peter 1:20",
+        "note": "He was foreknown before the foundation of the world."
+      }
+    ],
+    "uncertain": "What \"foreknew\" means in Romans 8:29 (advance knowledge or an act of choosing) is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proorizo",
+    "transliteration": "proorizō",
+    "original": "προορίζω",
+    "pronunciation": "pro-or-ID-zo",
+    "gloss": "to predestine",
+    "notes": "To mark out in advance, to determine beforehand. In Romans 8:29-30, those whom God foreknew he \"predestined to be conformed to the image of his Son.\" The word occurs in Acts 4:28, 1 Corinthians 2:7, and Ephesians 1:5 and 1:11. Debates about its meaning have shaped much Christian theology.",
+    "range": [
+      {
+        "sense": "Predestine",
+        "note": "Determine beforehand."
+      },
+      {
+        "sense": "Mark out",
+        "note": "Decide in advance."
+      }
+    ],
+    "translations": [
+      "predestine",
+      "determine beforehand"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 4:28",
+        "note": "To do whatever your hand and your plan had predestined to take place."
+      },
+      {
+        "ref": "1 Corinthians 2:7",
+        "note": "God decreed before the ages for our glory."
+      },
+      {
+        "ref": "Ephesians 1:5",
+        "note": "He predestined us for adoption."
+      },
+      {
+        "ref": "Ephesians 1:11",
+        "note": "Having been predestined according to the purpose of him who works all things."
+      }
+    ],
+    "uncertain": "How to understand predestination in Romans 8 and 9, whether of individuals or of a people, is debated across Christian traditions.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katakrima",
+    "transliteration": "katakrima",
+    "original": "κατάκριμα",
+    "pronunciation": "kat-AK-ree-ma",
+    "gloss": "condemnation",
+    "notes": "A verdict of condemnation, and the punishment that follows. Paul says, \"There is therefore now no condemnation to those who are in Christ Jesus\" (8:1). It occurs only here, in 5:16, and in 5:18.",
+    "range": [
+      {
+        "sense": "Condemnation",
+        "note": "A guilty verdict."
+      }
+    ],
+    "translations": [
+      "condemnation"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stenagmos",
+    "transliteration": "stenagmos",
+    "original": "στεναγμός",
+    "pronunciation": "sten-ag-MOS",
+    "gloss": "groaning, sigh",
+    "notes": "A groan or sigh of distress. In Romans 8:26 the Spirit intercedes \"with groanings which can't be uttered.\" It appears elsewhere only in Acts 7:34, where God hears the groaning of Israel in Egypt.",
+    "range": [
+      {
+        "sense": "Groan",
+        "note": "A deep sigh."
+      },
+      {
+        "sense": "Sigh",
+        "note": "An inarticulate cry."
+      }
+    ],
+    "translations": [
+      "groaning",
+      "sigh"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 7:34",
+        "note": "I have heard their groaning."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eirene",
+    "transliteration": "eirēnē",
+    "original": "εἰρήνη",
+    "pronunciation": "ay-RAY-nay",
+    "gloss": "peace",
+    "notes": "Peace in the full sense of shalom. \"We have peace with God through our Lord Jesus Christ\" (5:1).",
+    "range": [
+      {
+        "sense": "Peace",
+        "note": "Absence of conflict."
+      },
+      {
+        "sense": "Wellbeing",
+        "note": "Wholeness and safety."
+      },
+      {
+        "sense": "Greeting",
+        "note": "A wish for good."
+      }
+    ],
+    "translations": [
+      "peace"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:36",
+        "note": "\"Peace to you.\""
+      },
+      {
+        "ref": "John 14:27",
+        "note": "My peace I give to you."
+      },
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God that surpasses understanding."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "elpis",
+    "transliteration": "elpis",
+    "original": "ἐλπίς",
+    "pronunciation": "el-PEECE",
+    "gloss": "hope",
+    "notes": "Hope, confident expectation. \"Hope doesn't disappoint us\" (5:5), and \"in hope we were saved\" (8:24).",
+    "range": [
+      {
+        "sense": "Hope",
+        "note": "Expectation of good."
+      },
+      {
+        "sense": "Trust",
+        "note": "Confidence."
+      }
+    ],
+    "translations": [
+      "hope",
+      "expectation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 23:6",
+        "note": "The hope and resurrection of the dead."
+      },
+      {
+        "ref": "1 Corinthians 13:13",
+        "note": "Now faith, hope, and love abide."
+      },
+      {
+        "ref": "1 Peter 1:3",
+        "note": "A living hope through the resurrection of Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doulos",
+    "transliteration": "doulos",
+    "original": "δοῦλος",
+    "pronunciation": "DOO-los",
+    "gloss": "slave, servant",
+    "notes": "A slave or bondservant. \"You are slaves of the one whom you obey\" (6:16), and Paul says he is a bondservant of Christ (1:1).",
+    "range": [
+      {
+        "sense": "Slave",
+        "note": "Someone owned by another."
+      },
+      {
+        "sense": "Servant of God",
+        "note": "A title of honor for those who serve the Lord."
+      }
+    ],
+    "translations": [
+      "slave",
+      "servant",
+      "bondservant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:27",
+        "note": "Whoever wishes to be first among you must be your slave."
+      },
+      {
+        "ref": "Galatians 1:10",
+        "note": "I would not be a servant of Christ."
+      },
+      {
+        "ref": "Philippians 2:7",
+        "note": "Taking the form of a servant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zoe",
+    "transliteration": "zōē",
+    "original": "ζωή",
+    "pronunciation": "zo-AY",
+    "gloss": "life",
+    "notes": "Life, especially the life that comes from God. \"The free gift of God is eternal life\" (6:23), and the Spirit \"of life\" (8:2).",
+    "range": [
+      {
+        "sense": "Life",
+        "note": "Existence, vitality."
+      },
+      {
+        "sense": "Eternal life",
+        "note": "Life of the age to come."
+      }
+    ],
+    "translations": [
+      "life"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 10:10",
+        "note": "That they may have life, and have it abundantly."
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The free gift of God is eternal life."
+      },
+      {
+        "ref": "1 John 5:12",
+        "note": "Whoever has the Son has life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aionios",
+    "transliteration": "aiōnios",
+    "original": "αἰώνιος",
+    "pronunciation": "eye-OH-nee-os",
+    "gloss": "eternal, of the age to come",
+    "notes": "Eternal, of the age to come. \"Eternal life in Christ Jesus our Lord\" (6:23).",
+    "uncertain": "How to understand \"eternal punishment\" (25:46), as endless or as belonging to the age to come, has been debated across church history.",
+    "range": [
+      {
+        "sense": "Of the age to come",
+        "note": "Belonging to God's future age."
+      },
+      {
+        "sense": "Without end",
+        "note": "Lasting forever."
+      }
+    ],
+    "translations": [
+      "eternal",
+      "everlasting",
+      "of the age to come"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:16",
+        "note": "What good thing shall I do to have eternal life?"
+      },
+      {
+        "ref": "John 3:16",
+        "note": "That whoever believes in him should not perish but have eternal life."
+      },
+      {
+        "ref": "1 John 5:11",
+        "note": "God gave us eternal life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarx",
+    "transliteration": "sarx",
+    "original": "σάρξ",
+    "pronunciation": "SARKS",
+    "gloss": "flesh",
+    "notes": "Flesh, the physical body, and for Paul human nature under sin's power. \"Those who walk according to the flesh\" are set against \"those who walk according to the Spirit\" (8:4-13).",
+    "range": [
+      {
+        "sense": "Flesh",
+        "note": "The body."
+      },
+      {
+        "sense": "Humanity",
+        "note": "Human nature."
+      },
+      {
+        "sense": "Weakness",
+        "note": "Mortal life."
+      }
+    ],
+    "translations": [
+      "flesh",
+      "body",
+      "human nature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 1:14",
+        "note": "The Word became flesh."
+      },
+      {
+        "ref": "Galatians 5:17",
+        "note": "The desires of the flesh are against the Spirit."
+      },
+      {
+        "ref": "1 John 4:2",
+        "note": "Jesus Christ has come in the flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pneuma",
+    "transliteration": "pneuma",
+    "original": "πνεῦμα",
+    "pronunciation": "PNYOO-mah",
+    "gloss": "spirit, breath, wind",
+    "notes": "Breath, wind, or spirit. In Romans 8 it is the Holy Spirit, who lives in believers, leads them, and prays for them.",
+    "range": [
+      {
+        "sense": "Spirit",
+        "note": "The Holy Spirit, or a spirit being."
+      },
+      {
+        "sense": "Breath",
+        "note": "Life, the breath of a person."
+      },
+      {
+        "sense": "Wind",
+        "note": "Moving air."
+      }
+    ],
+    "translations": [
+      "spirit",
+      "Spirit",
+      "breath",
+      "wind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:35",
+        "note": "The Holy Spirit will come on you."
+      },
+      {
+        "ref": "John 20:22",
+        "note": "Receive the Holy Spirit."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapao",
+    "transliteration": "agapaō",
+    "original": "ἀγαπάω",
+    "pronunciation": "ah-gah-PAH-oh",
+    "gloss": "to love",
+    "notes": "The verb of self-giving love. \"The love of God which is in Christ Jesus our Lord\" (8:35-39) uses the related noun.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Care for another that shows itself in action."
+      },
+      {
+        "sense": "Prefer",
+        "note": "Choose one over another."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:44",
+        "note": "Love your enemies."
+      },
+      {
+        "ref": "John 13:34",
+        "note": "Love one another as I have loved you."
+      },
+      {
+        "ref": "1 John 4:19",
+        "note": "We love because he first loved us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "abba",
+    "transliteration": "abba",
+    "original": "ἀββά",
+    "pronunciation": "ab-BAH",
+    "gloss": "Father (Aramaic)",
+    "notes": "An Aramaic word for \"father,\" warm and familiar. \"By whom we cry, 'Abba! Father!'\" (8:15), as Jesus cried in Gethsemane (Mark 14:36).",
+    "range": [
+      {
+        "sense": "Father",
+        "note": "A child's and an adult's word for father."
+      }
+    ],
+    "translations": [
+      "Abba",
+      "Father"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:36",
+        "note": "Abba, Father, all things are possible to you."
+      },
+      {
+        "ref": "Galatians 4:6",
+        "note": "The Spirit cries, \"Abba! Father!\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

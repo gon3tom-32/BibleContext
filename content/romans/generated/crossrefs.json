@@ -411,7 +411,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 3:1-19",
+          "inDataset": true,
+          "votes": 44
+        },
+        {
+          "ref": "Isaiah 53:11",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Galatians 3:19",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "1 Corinthians 15:21-22",
+          "inDataset": true,
+          "votes": 121
+        }
+      ]
     },
     {
       "number": 6,
@@ -476,7 +497,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Colossians 2:12",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Galatians 2:20",
+          "inDataset": true,
+          "votes": 67
+        },
+        {
+          "ref": "John 8:34",
+          "inDataset": true,
+          "votes": 58
+        },
+        {
+          "ref": "Romans 5:20-21",
+          "inDataset": true,
+          "votes": 49
+        }
+      ]
     },
     {
       "number": 7,
@@ -540,7 +582,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 20:17",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Deuteronomy 5:21",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Galatians 5:17",
+          "inDataset": true,
+          "votes": 114
+        },
+        {
+          "ref": "Genesis 2:23-24",
+          "inDataset": true,
+          "votes": 44
+        }
+      ]
     },
     {
       "number": 8,
@@ -604,7 +667,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 3:17-19",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Psalm 44:22",
+          "inDataset": true,
+          "votes": 57
+        },
+        {
+          "ref": "Isaiah 50:8-9",
+          "inDataset": true,
+          "votes": 87
+        },
+        {
+          "ref": "Galatians 4:4-7",
+          "inDataset": true,
+          "votes": 222
+        }
+      ]
     },
     {
       "number": 9,

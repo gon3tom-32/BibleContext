@@ -55,6 +55,10 @@
     {
       "id": "adam",
       "theographic": "adam_78"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
     }
   ],
   "words": [
@@ -226,6 +230,140 @@
         "G0266"
       ],
       "foundAt": "Romans 3:9"
+    },
+    {
+      "id": "katallage",
+      "strongs": [
+        "G2643"
+      ],
+      "foundAt": "Romans 5:11"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "Romans 5:3"
+    },
+    {
+      "id": "opsonion",
+      "strongs": [
+        "G3800"
+      ],
+      "foundAt": "Romans 6:23"
+    },
+    {
+      "id": "douloo",
+      "strongs": [
+        "G1402"
+      ],
+      "foundAt": "Romans 6:18"
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "foundAt": "Romans 7:7"
+    },
+    {
+      "id": "huiothesia",
+      "strongs": [
+        "G5206"
+      ],
+      "foundAt": "Romans 8:15"
+    },
+    {
+      "id": "proginosko",
+      "strongs": [
+        "G4267"
+      ],
+      "foundAt": "Romans 8:29"
+    },
+    {
+      "id": "proorizo",
+      "strongs": [
+        "G4309"
+      ],
+      "foundAt": "Romans 8:29"
+    },
+    {
+      "id": "katakrima",
+      "strongs": [
+        "G2631"
+      ],
+      "foundAt": "Romans 8:1"
+    },
+    {
+      "id": "stenagmos",
+      "strongs": [
+        "G4726"
+      ],
+      "foundAt": "Romans 8:26"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Romans 5:1"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "Romans 5:2"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Romans 6:16"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "Romans 5:17"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "Romans 5:21"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "Romans 7:5"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Romans 8:2"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Romans 5:8"
+    },
+    {
+      "id": "abba",
+      "strongs": [
+        "G0005"
+      ],
+      "foundAt": "Romans 8:15"
     }
   ],
   "crossRefs": {
@@ -243,7 +381,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 5 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 9 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

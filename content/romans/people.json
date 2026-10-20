@@ -53,5 +53,10 @@
     "id": "adam",
     "name": "Adam",
     "note": "The first man, through whom sin entered the world."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "The lawgiver; with him the law came in."
   }
 ]

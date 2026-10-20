@@ -315,6 +315,59 @@
         "item": "adam_78",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Amram"
+        },
+        "mother": {
+          "name": "Jochebed"
+        },
+        "spouses": [
+          {
+            "name": "Zipporah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Gershom"
+          },
+          {
+            "name": "Eliezer"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Aaron"
+          },
+          {
+            "name": "Miriam"
+          }
+        ]
+      },
+      "chapters": [
+        5,
+        9,
+        10
+      ],
+      "verses": [
+        "Romans 5:14",
+        "Romans 9:15",
+        "Romans 10:5",
+        "Romans 10:19"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "moses_2108",
+        "recordStatus": "publish"
+      }
     }
   ]
 }
