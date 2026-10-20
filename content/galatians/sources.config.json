@@ -337,6 +337,316 @@
         "G1657"
       ],
       "foundAt": "Galatians 2:4"
+    },
+    {
+      "id": "anoetos",
+      "strongs": [
+        "G0453"
+      ],
+      "foundAt": "Galatians 3:1"
+    },
+    {
+      "id": "baskaino",
+      "strongs": [
+        "G0940"
+      ],
+      "foundAt": "Galatians 3:1"
+    },
+    {
+      "id": "prographo",
+      "strongs": [
+        "G4270"
+      ],
+      "foundAt": "Galatians 3:1"
+    },
+    {
+      "id": "akoe",
+      "strongs": [
+        "G0189"
+      ],
+      "foundAt": "Galatians 3:2"
+    },
+    {
+      "id": "sperma",
+      "strongs": [
+        "G4690G"
+      ],
+      "foundAt": "Galatians 3:16"
+    },
+    {
+      "id": "eulogeo",
+      "strongs": [
+        "G2127"
+      ],
+      "foundAt": "Galatians 3:9"
+    },
+    {
+      "id": "katara",
+      "strongs": [
+        "G2671"
+      ],
+      "foundAt": "Galatians 3:10"
+    },
+    {
+      "id": "epikataratos",
+      "strongs": [
+        "G1944"
+      ],
+      "foundAt": "Galatians 3:10"
+    },
+    {
+      "id": "exagorazo",
+      "strongs": [
+        "G1805"
+      ],
+      "foundAt": "Galatians 3:13"
+    },
+    {
+      "id": "kyroo",
+      "strongs": [
+        "G2964"
+      ],
+      "foundAt": "Galatians 3:15"
+    },
+    {
+      "id": "paidagogos",
+      "strongs": [
+        "G3807"
+      ],
+      "foundAt": "Galatians 3:24"
+    },
+    {
+      "id": "sygkleio",
+      "strongs": [
+        "G4788"
+      ],
+      "foundAt": "Galatians 3:22"
+    },
+    {
+      "id": "phroureo",
+      "strongs": [
+        "G5432"
+      ],
+      "foundAt": "Galatians 3:23"
+    },
+    {
+      "id": "enduo",
+      "strongs": [
+        "G1746"
+      ],
+      "foundAt": "Galatians 3:27"
+    },
+    {
+      "id": "kleronomos",
+      "strongs": [
+        "G2818"
+      ],
+      "foundAt": "Galatians 3:29"
+    },
+    {
+      "id": "huios",
+      "strongs": [
+        "G5207"
+      ],
+      "foundAt": "Galatians 1:16"
+    },
+    {
+      "id": "epitropos",
+      "strongs": [
+        "G2012"
+      ],
+      "foundAt": "Galatians 4:2"
+    },
+    {
+      "id": "stoicheion",
+      "strongs": [
+        "G4747"
+      ],
+      "foundAt": "Galatians 4:3"
+    },
+    {
+      "id": "exapostello",
+      "strongs": [
+        "G1821"
+      ],
+      "foundAt": "Galatians 4:4"
+    },
+    {
+      "id": "asthenes",
+      "strongs": [
+        "G0772G"
+      ],
+      "foundAt": "Galatians 4:9"
+    },
+    {
+      "id": "kopiao",
+      "strongs": [
+        "G2872"
+      ],
+      "foundAt": "Galatians 4:11"
+    },
+    {
+      "id": "morphoo",
+      "strongs": [
+        "G3445"
+      ],
+      "foundAt": "Galatians 4:19"
+    },
+    {
+      "id": "odino",
+      "strongs": [
+        "G5605"
+      ],
+      "foundAt": "Galatians 4:19"
+    },
+    {
+      "id": "allegoreo",
+      "strongs": [
+        "G0238"
+      ],
+      "foundAt": "Galatians 4:24"
+    },
+    {
+      "id": "paidiske",
+      "strongs": [
+        "G3814"
+      ],
+      "foundAt": "Galatians 4:22"
+    },
+    {
+      "id": "ekballo",
+      "strongs": [
+        "G1544"
+      ],
+      "foundAt": "Galatians 4:30"
+    },
+    {
+      "id": "douleia",
+      "strongs": [
+        "G1397"
+      ],
+      "foundAt": "Galatians 4:24"
+    },
+    {
+      "id": "kairos",
+      "strongs": [
+        "G2540"
+      ],
+      "foundAt": "Galatians 4:10"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Galatians 3:2"
+    },
+    {
+      "id": "epiteleo",
+      "strongs": [
+        "G2005"
+      ],
+      "foundAt": "Galatians 3:3"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "Galatians 2:7"
+    },
+    {
+      "id": "epaggelia",
+      "strongs": [
+        "G1860"
+      ],
+      "foundAt": "Galatians 3:14"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Galatians 3:15"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Galatians 3:27"
+    },
+    {
+      "id": "eleutheros",
+      "strongs": [
+        "G1658"
+      ],
+      "foundAt": "Galatians 3:28"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Galatians 1:10"
+    },
+    {
+      "id": "heis",
+      "strongs": [
+        "G1520"
+      ],
+      "foundAt": "Galatians 3:16"
+    },
+    {
+      "id": "nepios",
+      "strongs": [
+        "G3516"
+      ],
+      "foundAt": "Galatians 4:1"
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "foundAt": "Galatians 4:2"
+    },
+    {
+      "id": "pleroma",
+      "strongs": [
+        "G4138"
+      ],
+      "foundAt": "Galatians 4:4"
+    },
+    {
+      "id": "huiothesia",
+      "strongs": [
+        "G5206"
+      ],
+      "foundAt": "Galatians 4:5"
+    },
+    {
+      "id": "abba",
+      "strongs": [
+        "G0005"
+      ],
+      "foundAt": "Galatians 4:6"
+    },
+    {
+      "id": "peirasmos",
+      "strongs": [
+        "G3986G",
+        "G3986H"
+      ],
+      "foundAt": "Galatians 4:14"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "Galatians 1:16"
     }
   ],
   "crossRefs": {

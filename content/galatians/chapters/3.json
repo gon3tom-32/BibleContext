@@ -1,0 +1,170 @@
+{
+  "sceneHappening": "Abraham's children are people of faith, and the law was a guardian until Christ came",
+  "summary": "\"You foolish Galatians, who has bewitched you, before whose eyes Jesus Christ was openly displayed as crucified?\" Paul asks only one thing: did they receive the Spirit by works of the law, or by hearing with faith? Having begun with the Spirit, are they now being perfected by the flesh? Has their experience been in vain? He points to Abraham: \"He believed God, and it was reckoned to him as righteousness.\" So those of faith are sons of Abraham, and Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham: \"All the nations will be blessed in you.\" Those who rely on works of the law are under a curse, for it is written, \"Cursed is everyone who doesn't continue in all things that are written in the book of the law, to do them.\" No one is justified before God by the law, for \"The righteous will live by faith.\" But \"Christ redeemed us from the curse of the law, having become a curse for us; for it is written, 'Cursed is everyone who hangs on a tree,'\" so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promise of the Spirit through faith. By way of a human example, even a human covenant, once ratified, can't be annulled or added to. The promises were made to Abraham and to his offspring; it doesn't say \"offsprings,\" as of many, but \"to your offspring,\" which is Christ. The law, which came four hundred thirty years afterward, doesn't annul a covenant previously ratified by God so as to cancel the promise. If the inheritance comes from the law, it no longer comes from the promise; but God granted it to Abraham by promise. Why then the law? \"It was added because of transgressions, until the offspring should come to whom the promise has been made,\" ordained through angels by a mediator. Is the law then against the promises of God? Certainly not. Scripture imprisoned everything under sin so that the promise by faith in Jesus Christ might be given to those who believe. Before faith came, they were held in custody under the law; so the law was their guardian until Christ came, so that they might be justified by faith. Now that faith has come, they are no longer under a guardian, for \"in Christ Jesus you are all children of God through faith. For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither bondservant nor free man, there is neither male nor female; for you are all one in Christ Jesus. If you are Christ's, then you are Abraham's offspring and heirs according to promise.\"",
+  "whySettingMatters": "Paul's argument depends on a chronology the Galatians would recognize from Genesis: Abraham was credited with righteousness (Genesis 15:6) long before circumcision (Genesis 17) and 430 years before the law at Sinai (Exodus 12:40). That means the promise comes first, and the law cannot cancel it. His use of Deuteronomy 21:23, \"cursed is everyone who hangs on a tree,\" ties the crucifixion to the curse that the law places on law-breakers; Christ bears it. The argument about \"offspring\" (singular) is in a rabbinic style of reading: Paul notes that the Hebrew and Greek word is a collective singular, and applies it to Christ as the one in whom all believers are included. The \"guardian\" (paidagōgos) was a trusted slave who took a child to and from school and supervised his behavior until he came of age, not a teacher; the picture is of a temporary custodian, not an enemy. The line \"you have put on Christ\" uses the image of putting on clothing, possibly connected with baptismal garments. The statement in 3:28 is about equal standing in Christ and belonging to one family, and what it implies for church roles and society has been debated at length. \"Ordained through angels\" reflects a Jewish tradition that angels had a role at Sinai (Deuteronomy 33:2 in the Greek translation; Acts 7:53; Hebrews 2:2).",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Argues from Abraham and from the Galatians' own experience."
+    },
+    {
+      "id": "the-galatian-believers",
+      "note": "Called \"foolish\"; reminded that they received the Spirit by faith."
+    },
+    {
+      "id": "abraham",
+      "note": "Believed God and was counted righteous; father of all who believe."
+    },
+    {
+      "id": "moses",
+      "note": "The law came through a mediator, 430 years after the promise."
+    },
+    {
+      "id": "jesus",
+      "note": "The offspring of Abraham, who became a curse for us."
+    }
+  ],
+  "questions": [
+    "Paul reminds the Galatians of their experience of the Spirit before arguing from Scripture. Why start with experience?",
+    "Why does Paul say the promise to Abraham comes before the law?",
+    "\"Christ redeemed us from the curse of the law, having become a curse for us.\" What does that tell you about the cross?",
+    "\"There is neither Jew nor Greek, slave nor free, male nor female... all one in Christ.\" What does it mean to be one without making everyone the same?"
+  ],
+  "words": [
+    {
+      "id": "anoetos",
+      "note": "\"You foolish Galatians!\" (3:1, 3:3)."
+    },
+    {
+      "id": "baskaino",
+      "note": "\"Who has bewitched you?\" (3:1)."
+    },
+    {
+      "id": "prographo",
+      "note": "\"Openly displayed as crucified\" (3:1)."
+    },
+    {
+      "id": "stauroo",
+      "note": "\"Jesus Christ was openly displayed as crucified\" (3:1)."
+    },
+    {
+      "id": "akoe",
+      "note": "\"By the hearing of faith\" (3:2, 3:5)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"Did you receive the Spirit by the works of the law?\" (3:2-5, 3:14)."
+    },
+    {
+      "id": "epiteleo",
+      "note": "\"Are you now perfected in the flesh?\" (3:3)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"Abraham believed God\" (3:6, 3:22)."
+    },
+    {
+      "id": "dikaioo",
+      "note": "\"God would justify the Gentiles by faith\" (3:8, 3:11, 3:24)."
+    },
+    {
+      "id": "eulogeo",
+      "note": "\"All the nations will be blessed in you\" (3:8-9)."
+    },
+    {
+      "id": "katara",
+      "note": "\"Under a curse\" (3:10, 3:13)."
+    },
+    {
+      "id": "epikataratos",
+      "note": "\"Cursed is everyone who doesn't continue\" (3:10, 3:13)."
+    },
+    {
+      "id": "exagorazo",
+      "note": "\"Christ redeemed us from the curse of the law\" (3:13)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"The promise of the Spirit through faith\" (3:14-29)."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"A man's covenant\" (3:15-17)."
+    },
+    {
+      "id": "kyroo",
+      "note": "\"A covenant confirmed\" (3:15)."
+    },
+    {
+      "id": "sperma",
+      "note": "\"To your offspring, which is Christ\" (3:16, 3:19, 3:29)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"Why then the law?\" (3:10-25)."
+    },
+    {
+      "id": "sygkleio",
+      "note": "\"The Scripture imprisoned all things under sin\" (3:22-23)."
+    },
+    {
+      "id": "phroureo",
+      "note": "\"We were kept in custody under the law\" (3:23)."
+    },
+    {
+      "id": "paidagogos",
+      "note": "\"The law has become our tutor\" or \"guardian\" (3:24-25)."
+    },
+    {
+      "id": "huios",
+      "note": "\"You are all sons of God through faith\" (3:26)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"As many of you as were baptized into Christ\" (3:27)."
+    },
+    {
+      "id": "enduo",
+      "note": "\"Have put on Christ\" (3:27)."
+    },
+    {
+      "id": "kleronomos",
+      "note": "\"Heirs according to promise\" (3:29)."
+    },
+    {
+      "id": "eleutheros",
+      "note": "\"Neither bondservant nor free\" (3:28)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"Neither bondservant nor free\" (3:28)."
+    },
+    {
+      "id": "heis",
+      "note": "\"You are all one in Christ Jesus\" (3:20, 3:28)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 15:6",
+      "note": "he believed the LORD, and he counted it to him as righteousness"
+    },
+    {
+      "ref": "Habakkuk 2:4",
+      "note": "the righteous shall live by his faith"
+    },
+    {
+      "ref": "Deuteronomy 21:23",
+      "note": "a hanged man is cursed by God"
+    },
+    {
+      "ref": "Romans 4:1-25",
+      "note": "Abraham justified by faith, before circumcision"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

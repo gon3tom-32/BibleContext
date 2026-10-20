@@ -1713,5 +1713,1757 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "anoetos",
+    "transliteration": "anóētos",
+    "original": "ἀνόητος",
+    "pronunciation": "an-OH-ay-tos",
+    "gloss": "foolish, without understanding",
+    "notes": "Without understanding or good sense (a- \"not\" plus noeō \"to think\"), not a harsh insult but a sharp one. Paul calls the Galatians \"foolish\" for turning back (3:1, 3:3).",
+    "range": [
+      {
+        "sense": "Foolish",
+        "note": "Lacking understanding."
+      },
+      {
+        "sense": "Senseless",
+        "note": "Thoughtless."
+      }
+    ],
+    "translations": [
+      "foolish"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:25",
+        "note": "You foolish ones, and slow of heart to believe."
+      },
+      {
+        "ref": "Romans 1:14",
+        "note": "I am debtor both to Greeks and to foreigners, both to the wise and to the foolish."
+      },
+      {
+        "ref": "1 Timothy 6:9",
+        "note": "Many foolish and harmful lusts."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baskaino",
+    "transliteration": "baskaínō",
+    "original": "βασκαίνω",
+    "pronunciation": "bas-KAH-ee-no",
+    "gloss": "to bewitch, to cast an evil eye",
+    "notes": "To put a spell on someone or cast the evil eye, often out of envy. In 3:1, Paul asks, \"who has bewitched you?\" using a picture of magic to describe how unaccountably they have turned from the cross. It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Bewitch",
+        "note": "Put a spell on."
+      },
+      {
+        "sense": "Cast the evil eye",
+        "note": "Harm by looking enviously."
+      }
+    ],
+    "translations": [
+      "bewitch"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:1",
+        "note": "Who has bewitched you?"
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prographo",
+    "transliteration": "prographō",
+    "original": "προγράφω",
+    "pronunciation": "pro-GRAF-o",
+    "gloss": "to write before, to portray publicly",
+    "notes": "To write beforehand, or to post publicly like a notice. In 3:1, Jesus Christ was \"openly displayed as crucified\" before their eyes, as if on a public poster. In Romans 15:4 it means \"written before.\"",
+    "range": [
+      {
+        "sense": "Write beforehand",
+        "note": "Write earlier."
+      },
+      {
+        "sense": "Display publicly",
+        "note": "Post for all to see."
+      }
+    ],
+    "translations": [
+      "openly portrayed",
+      "display publicly",
+      "write before"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:4",
+        "note": "Whatever things were written before were written for our learning."
+      },
+      {
+        "ref": "Ephesians 3:3",
+        "note": "As I wrote before in brief."
+      },
+      {
+        "ref": "Jude 1:4",
+        "note": "Who were long ago marked out for this condemnation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "akoe",
+    "transliteration": "akoḗ",
+    "original": "ἀκοή",
+    "pronunciation": "ak-oh-AY",
+    "gloss": "hearing, report",
+    "notes": "The act of hearing, or what is heard, a report or message. In 3:2 and 3:5, Paul asks if they received the Spirit by works of the law or \"by the hearing of faith,\" meaning hearing the message and believing it.",
+    "range": [
+      {
+        "sense": "Hearing",
+        "note": "The act of listening."
+      },
+      {
+        "sense": "Message",
+        "note": "What is heard."
+      }
+    ],
+    "translations": [
+      "hearing",
+      "message",
+      "report"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 10:16",
+        "note": "Who has believed our report?"
+      },
+      {
+        "ref": "Romans 10:17",
+        "note": "So faith comes by hearing."
+      },
+      {
+        "ref": "Matthew 4:24",
+        "note": "The report of him went out into all Syria."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sperma",
+    "transliteration": "spérma",
+    "original": "σπέρμα",
+    "pronunciation": "SPER-mah",
+    "gloss": "seed, offspring",
+    "notes": "Seed, or the offspring it grows into. In 3:16 Paul notes that the promise was made to Abraham and to his \"seed\" (singular), which he says is Christ; in 3:29 all who belong to Christ are \"Abraham's seed.\"",
+    "range": [
+      {
+        "sense": "Seed",
+        "note": "What is sown."
+      },
+      {
+        "sense": "Offspring",
+        "note": "Descendants."
+      },
+      {
+        "sense": "Descendant",
+        "note": "One person or a line."
+      }
+    ],
+    "translations": [
+      "offspring",
+      "seed",
+      "descendants"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 4:13",
+        "note": "The promise to Abraham or to his seed."
+      },
+      {
+        "ref": "Romans 9:7",
+        "note": "Not because they are Abraham's seed are they all children."
+      },
+      {
+        "ref": "2 Corinthians 11:22",
+        "note": "Are they Abraham's seed? So am I."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eulogeo",
+    "transliteration": "eulogéō",
+    "original": "εὐλογέω",
+    "pronunciation": "yoo-log-EH-o",
+    "gloss": "to bless",
+    "notes": "To speak well of, to bless. In 3:8-9, God said to Abraham, \"all the nations will be blessed in you,\" and those who believe are blessed along with Abraham.",
+    "range": [
+      {
+        "sense": "Bless",
+        "note": "Speak well of; give good."
+      },
+      {
+        "sense": "Praise",
+        "note": "Express thanks."
+      }
+    ],
+    "translations": [
+      "bless",
+      "be blessed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Genesis 12:3",
+        "note": "In you all the families of the earth will be blessed (LXX)."
+      },
+      {
+        "ref": "Ephesians 1:3",
+        "note": "Blessed be the God and Father of our Lord Jesus Christ."
+      },
+      {
+        "ref": "Luke 6:28",
+        "note": "Bless those who curse you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katara",
+    "transliteration": "katára",
+    "original": "κατάρα",
+    "pronunciation": "kat-AR-ah",
+    "gloss": "curse",
+    "notes": "A curse, a call for harm. In 3:10-13, those who rely on the works of the law are \"under a curse,\" because the law curses those who do not keep it, and Christ redeems us by \"becoming a curse for us.\"",
+    "range": [
+      {
+        "sense": "Curse",
+        "note": "A pronouncement of harm."
+      },
+      {
+        "sense": "Condemnation",
+        "note": "Being under judgment."
+      }
+    ],
+    "translations": [
+      "curse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 6:8",
+        "note": "Its end is to be burned."
+      },
+      {
+        "ref": "James 3:10",
+        "note": "Out of the same mouth comes blessing and cursing."
+      },
+      {
+        "ref": "2 Peter 2:14",
+        "note": "Children of cursing."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epikataratos",
+    "transliteration": "epikatáratos",
+    "original": "ἐπικατάρατος",
+    "pronunciation": "ep-ee-kat-AR-at-os",
+    "gloss": "cursed, accursed",
+    "notes": "Under a curse, in the language of Deuteronomy 27:26 and 21:23. In 3:10 Paul quotes Deuteronomy: \"Cursed is everyone who doesn't continue in all things written,\" and in 3:13 \"Cursed is everyone who hangs on a tree.\"",
+    "range": [
+      {
+        "sense": "Cursed",
+        "note": "Under a curse."
+      },
+      {
+        "sense": "Accursed",
+        "note": "Marked out for judgment."
+      }
+    ],
+    "translations": [
+      "cursed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:10",
+        "note": "Cursed is everyone who doesn't continue in all things written in the book of the law."
+      },
+      {
+        "ref": "Galatians 3:13",
+        "note": "Cursed is everyone who hangs on a tree."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exagorazo",
+    "transliteration": "exagorázō",
+    "original": "ἐξαγοράζω",
+    "pronunciation": "ex-ag-or-AD-zo",
+    "gloss": "to redeem, to buy out",
+    "notes": "To buy out of slavery, to ransom (ex \"out of\" plus agorazō \"to buy\"). In 3:13, \"Christ redeemed us from the curse of the law,\" and in 4:5, he redeems those under the law so that they can receive adoption.",
+    "range": [
+      {
+        "sense": "Redeem",
+        "note": "Buy back."
+      },
+      {
+        "sense": "Ransom",
+        "note": "Free by paying a price."
+      }
+    ],
+    "translations": [
+      "redeem",
+      "buy back",
+      "make the most of"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 5:16",
+        "note": "Redeeming the time."
+      },
+      {
+        "ref": "Colossians 4:5",
+        "note": "Redeeming the time."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kyroo",
+    "transliteration": "kyróō",
+    "original": "κυρόω",
+    "pronunciation": "koo-RO-oh",
+    "gloss": "to ratify, to confirm",
+    "notes": "To make legally binding, to ratify. In 3:15, \"even though it is only a man's covenant, yet when it has been confirmed, no one annuls it or adds to it,\" which Paul uses to say that God's covenant with Abraham cannot be changed by the law. The related word is used for a confirmed will.",
+    "range": [
+      {
+        "sense": "Ratify",
+        "note": "Make legally valid."
+      },
+      {
+        "sense": "Confirm",
+        "note": "Establish."
+      }
+    ],
+    "translations": [
+      "confirmed",
+      "ratify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 2:8",
+        "note": "I beg you to confirm your love toward him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paidagogos",
+    "transliteration": "paidagōgós",
+    "original": "παιδαγωγός",
+    "pronunciation": "pie-dag-o-GOS",
+    "gloss": "guardian, tutor, child-minder",
+    "notes": "A trusted slave who looked after a boy, taking him to and from school and supervising his behavior until he reached adulthood. The word is the root of \"pedagogy,\" but a paidagōgos was a guardian, not a teacher. In 3:24-25, the law was our \"guardian\" until Christ came.",
+    "range": [
+      {
+        "sense": "Guardian",
+        "note": "One who supervises a child."
+      },
+      {
+        "sense": "Disciplinarian",
+        "note": "One who keeps a child in line."
+      }
+    ],
+    "translations": [
+      "guardian",
+      "tutor",
+      "schoolmaster"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 4:15",
+        "note": "You have ten thousand tutors in Christ, but not many fathers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sygkleio",
+    "transliteration": "synkleíō",
+    "original": "συγκλείω",
+    "pronunciation": "soong-KLY-o",
+    "gloss": "to shut up together, to confine",
+    "notes": "To enclose, as fish in a net or prisoners in a cell. In 3:22-23, \"the Scripture imprisoned all things under sin,\" and \"we were held in custody under the law.\" In Romans 11:32 God \"has shut up all in disobedience that he might have mercy on all.\"",
+    "range": [
+      {
+        "sense": "Confine",
+        "note": "Shut in."
+      },
+      {
+        "sense": "Imprison",
+        "note": "Hold in custody."
+      }
+    ],
+    "translations": [
+      "imprison",
+      "shut up",
+      "confine"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 5:6",
+        "note": "They enclosed a great multitude of fish."
+      },
+      {
+        "ref": "Romans 11:32",
+        "note": "God has shut up all in disobedience."
+      },
+      {
+        "ref": "Galatians 3:23",
+        "note": "Before faith came, we were kept in custody under the law."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phroureo",
+    "transliteration": "phroureō",
+    "original": "φρουρέω",
+    "pronunciation": "froo-REH-o",
+    "gloss": "to guard, to keep in custody",
+    "notes": "To guard, as a garrison guards a city or a guard holds prisoners. In 3:23, \"we were kept in custody under the law, imprisoned until the faith that was to come would be revealed.\"",
+    "range": [
+      {
+        "sense": "Guard",
+        "note": "Watch over."
+      },
+      {
+        "sense": "Keep in custody",
+        "note": "Hold under guard."
+      }
+    ],
+    "translations": [
+      "keep in custody",
+      "guard"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 11:32",
+        "note": "The governor guarded the city of the Damascenes."
+      },
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God will guard your hearts."
+      },
+      {
+        "ref": "1 Peter 1:5",
+        "note": "Who by the power of God are guarded through faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "enduo",
+    "transliteration": "endýō",
+    "original": "ἐνδύω",
+    "pronunciation": "en-DOO-o",
+    "gloss": "to put on, to clothe oneself",
+    "notes": "To put on clothing, and so to take on a character or role. In 3:27, \"as many of you as were baptized into Christ have put on Christ.\" Paul uses the picture often: \"put on the Lord Jesus Christ\" (Romans 13:14).",
+    "range": [
+      {
+        "sense": "Put on",
+        "note": "Dress in."
+      },
+      {
+        "sense": "Take on",
+        "note": "Adopt as one's character."
+      }
+    ],
+    "translations": [
+      "put on",
+      "clothe"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 13:14",
+        "note": "Put on the Lord Jesus Christ."
+      },
+      {
+        "ref": "Ephesians 4:24",
+        "note": "Put on the new man."
+      },
+      {
+        "ref": "Colossians 3:12",
+        "note": "Put on a heart of compassion."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kleronomos",
+    "transliteration": "klēronómos",
+    "original": "κληρονόμος",
+    "pronunciation": "klay-ron-OM-os",
+    "gloss": "heir",
+    "notes": "One who receives an inheritance. In 3:29 and 4:1-7, those who belong to Christ are \"Abraham's offspring and heirs according to promise,\" and \"heirs of God through Christ.\"",
+    "range": [
+      {
+        "sense": "Heir",
+        "note": "One who inherits."
+      },
+      {
+        "sense": "Beneficiary",
+        "note": "One who receives a gift."
+      }
+    ],
+    "translations": [
+      "heir",
+      "heirs"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:17",
+        "note": "If children, then heirs; heirs of God and joint heirs with Christ."
+      },
+      {
+        "ref": "Hebrews 1:2",
+        "note": "Whom he appointed heir of all things."
+      },
+      {
+        "ref": "James 2:5",
+        "note": "Heirs of the kingdom."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "huios",
+    "transliteration": "huiós",
+    "original": "υἱός",
+    "pronunciation": "hwee-OS",
+    "gloss": "son",
+    "notes": "A son, or a male child. In Galatians Paul speaks of Christ as God's Son (1:16; 2:20; 4:4-6) and of believers as \"sons of God through faith\" (3:26; 4:6-7), with the legal sense of heirs in a Roman household.",
+    "range": [
+      {
+        "sense": "Son",
+        "note": "A male child."
+      },
+      {
+        "sense": "Heir",
+        "note": "One who inherits his father's place."
+      }
+    ],
+    "translations": [
+      "son",
+      "sons"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:14",
+        "note": "As many as are led by the Spirit of God, these are children of God."
+      },
+      {
+        "ref": "Matthew 3:17",
+        "note": "This is my beloved Son."
+      },
+      {
+        "ref": "Hebrews 1:2",
+        "note": "He has spoken to us in his Son."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epitropos",
+    "transliteration": "epítropos",
+    "original": "ἐπίτροπος",
+    "pronunciation": "ep-IT-rop-os",
+    "gloss": "guardian, manager",
+    "notes": "One entrusted with the care of someone, a guardian of a minor, or a steward of an estate. In 4:2, an heir who is still a child is \"under guardians and stewards\" until the day his father set. It is used for Herod's steward in Luke 8:3.",
+    "range": [
+      {
+        "sense": "Guardian",
+        "note": "One who looks after a minor."
+      },
+      {
+        "sense": "Manager",
+        "note": "A steward."
+      }
+    ],
+    "translations": [
+      "guardian",
+      "steward",
+      "manager"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:8",
+        "note": "The lord of the vineyard said to his steward."
+      },
+      {
+        "ref": "Luke 8:3",
+        "note": "Joanna, the wife of Chuza, Herod's steward."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stoicheion",
+    "transliteration": "stoicheîon",
+    "original": "στοιχεῖον",
+    "pronunciation": "stoy-KHAY-on",
+    "gloss": "elemental principle, basic element",
+    "notes": "A basic element, such as the letters of the alphabet, the elements of the world (earth, air, fire, water), or the elementary teaching of a subject. In 4:3 and 4:9, believers were enslaved to the \"elementary principles of the world,\" which Paul calls \"weak and beggarly.\" The sense is debated: basic religious teaching, cosmic powers, or both.",
+    "range": [
+      {
+        "sense": "Basic element",
+        "note": "A building block."
+      },
+      {
+        "sense": "Elementary teaching",
+        "note": "The ABCs."
+      },
+      {
+        "sense": "Cosmic power",
+        "note": "Spiritual forces thought to rule the world."
+      }
+    ],
+    "translations": [
+      "elementary principles",
+      "basic principles",
+      "elements"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Colossians 2:8",
+        "note": "According to the elementary principles of the world."
+      },
+      {
+        "ref": "Colossians 2:20",
+        "note": "If you died with Christ from the elementary principles of the world."
+      },
+      {
+        "ref": "Hebrews 5:12",
+        "note": "The first principles of the oracles of God."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exapostello",
+    "transliteration": "exapostéllō",
+    "original": "ἐξαποστέλλω",
+    "pronunciation": "ex-ap-os-TEL-lo",
+    "gloss": "to send out, to send away",
+    "notes": "To send out with a mission (ex \"out\" plus apostellō \"to send\"). In 4:4 and 4:6, God \"sent out\" his Son, and then \"sent out\" the Spirit of his Son into believers' hearts.",
+    "range": [
+      {
+        "sense": "Send out",
+        "note": "Dispatch on a mission."
+      },
+      {
+        "sense": "Send away",
+        "note": "Dismiss."
+      }
+    ],
+    "translations": [
+      "send out",
+      "send forth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:53",
+        "note": "The rich he has sent away empty."
+      },
+      {
+        "ref": "Acts 7:12",
+        "note": "Sent out our fathers the first time."
+      },
+      {
+        "ref": "Acts 9:30",
+        "note": "They sent him off to Tarsus."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "asthenes",
+    "transliteration": "asthenḗs",
+    "original": "ἀσθενής",
+    "pronunciation": "as-then-ACE",
+    "gloss": "weak, sick",
+    "notes": "Without strength, weak or ill. In 4:9, the \"basic principles\" are \"weak and beggarly,\" unable to give life; in 1 Corinthians 1:25 God's weakness is stronger than people.",
+    "range": [
+      {
+        "sense": "Weak",
+        "note": "Lacking strength."
+      },
+      {
+        "sense": "Sick",
+        "note": "Ill."
+      }
+    ],
+    "translations": [
+      "weak",
+      "sick"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:41",
+        "note": "The spirit indeed is willing, but the flesh is weak."
+      },
+      {
+        "ref": "1 Corinthians 1:27",
+        "note": "God chose the weak things of the world."
+      },
+      {
+        "ref": "Hebrews 7:18",
+        "note": "A setting aside of a foregoing commandment because of its weakness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kopiao",
+    "transliteration": "kopiáō",
+    "original": "κοπιάω",
+    "pronunciation": "kop-ee-AH-o",
+    "gloss": "to labor, to toil, to grow weary",
+    "notes": "To work hard until tired. In 4:11, Paul fears he has \"labored over you in vain,\" and in 1 Corinthians 15:10, \"I labored more abundantly than they all.\"",
+    "range": [
+      {
+        "sense": "Labor",
+        "note": "Work to exhaustion."
+      },
+      {
+        "sense": "Grow weary",
+        "note": "Become tired."
+      }
+    ],
+    "translations": [
+      "labor",
+      "toil",
+      "be weary"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:28",
+        "note": "Come to me, all you who labor and are heavily burdened."
+      },
+      {
+        "ref": "1 Corinthians 15:10",
+        "note": "I labored more abundantly than they all."
+      },
+      {
+        "ref": "Philippians 2:16",
+        "note": "That I didn't labor in vain."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "morphoo",
+    "transliteration": "morphóō",
+    "original": "μορφόω",
+    "pronunciation": "mor-FO-oh",
+    "gloss": "to form, to shape",
+    "notes": "To give shape or form to something (from morphē, \"form\"). In 4:19, Paul labors \"until Christ is formed in you,\" using the picture of a mother giving birth. It appears only here.",
+    "range": [
+      {
+        "sense": "Form",
+        "note": "Give shape to."
+      },
+      {
+        "sense": "Shape",
+        "note": "Mold."
+      }
+    ],
+    "translations": [
+      "be formed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 4:19",
+        "note": "Until Christ is formed in you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "odino",
+    "transliteration": "ōdínō",
+    "original": "ὠδίνω",
+    "pronunciation": "o-DEE-no",
+    "gloss": "to be in labor, to travail",
+    "notes": "To suffer birth pains. In 4:19, Paul is \"again in travail\" for the Galatians until Christ is formed in them, and in 4:27 the passage from Isaiah speaks of a woman who \"doesn't travail.\"",
+    "range": [
+      {
+        "sense": "Be in labor",
+        "note": "Suffer birth pains."
+      },
+      {
+        "sense": "Travail",
+        "note": "Struggle in pain."
+      }
+    ],
+    "translations": [
+      "travail",
+      "be in labor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Isaiah 54:1",
+        "note": "Cry aloud, you who have not been in labor (LXX)."
+      },
+      {
+        "ref": "Revelation 12:2",
+        "note": "Crying out in her pain to give birth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "allegoreo",
+    "transliteration": "allēgoréō",
+    "original": "ἀλληγορέω",
+    "pronunciation": "al-lay-gor-EH-o",
+    "gloss": "to speak allegorically",
+    "notes": "To say one thing and mean another, from which we get \"allegory.\" In 4:24, Paul says the story of Hagar and Sarah \"contains an allegory,\" that is, the women represent two covenants. It appears only here.",
+    "range": [
+      {
+        "sense": "Allegorize",
+        "note": "Speak figuratively."
+      },
+      {
+        "sense": "Interpret symbolically",
+        "note": "Read a story as a picture."
+      }
+    ],
+    "translations": [
+      "allegory",
+      "allegorically"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 4:24",
+        "note": "These things contain an allegory."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paidiske",
+    "transliteration": "paidískē",
+    "original": "παιδίσκη",
+    "pronunciation": "pie-DIS-kay",
+    "gloss": "slave girl, servant woman",
+    "notes": "A young female slave. In 4:22-31, Hagar is \"the servant\" (the slave woman), and Sarah is \"the free woman.\" The same word is used for the girl who recognized Peter (Mark 14:66).",
+    "range": [
+      {
+        "sense": "Slave girl",
+        "note": "A young female servant."
+      },
+      {
+        "sense": "Servant woman",
+        "note": "A woman in service."
+      }
+    ],
+    "translations": [
+      "servant",
+      "slave woman",
+      "maid"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:69",
+        "note": "A maid came to him."
+      },
+      {
+        "ref": "Luke 12:45",
+        "note": "Beat the menservants and the maidservants."
+      },
+      {
+        "ref": "Acts 12:13",
+        "note": "A maid named Rhoda came to answer."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekballo",
+    "transliteration": "ekbállō",
+    "original": "ἐκβάλλω",
+    "pronunciation": "ek-BAL-lo",
+    "gloss": "to throw out, to cast out",
+    "notes": "To throw out or send away, with some force. In 4:30, quoting Genesis 21:10, \"cast out the servant and her son.\" It is also the word for Jesus casting out demons and driving the sellers from the temple.",
+    "range": [
+      {
+        "sense": "Throw out",
+        "note": "Expel."
+      },
+      {
+        "sense": "Send away",
+        "note": "Dismiss."
+      }
+    ],
+    "translations": [
+      "cast out",
+      "throw out",
+      "drive out"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:12",
+        "note": "Jesus entered into the temple and drove out all of those who sold and bought."
+      },
+      {
+        "ref": "Mark 1:34",
+        "note": "He cast out many demons."
+      },
+      {
+        "ref": "John 6:37",
+        "note": "Him who comes to me I will in no way throw out."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "douleia",
+    "transliteration": "douleía",
+    "original": "δουλεία",
+    "pronunciation": "doo-LI-ah",
+    "gloss": "slavery, bondage",
+    "notes": "The state of being a slave. In 4:24-25 Hagar \"bears children into slavery,\" and in 5:1 Paul says \"don't be entangled again with a yoke of bondage.\"",
+    "range": [
+      {
+        "sense": "Slavery",
+        "note": "Being owned."
+      },
+      {
+        "sense": "Bondage",
+        "note": "Being bound."
+      }
+    ],
+    "translations": [
+      "bondage",
+      "slavery"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:15",
+        "note": "You didn't receive the spirit of bondage again to fear."
+      },
+      {
+        "ref": "Romans 8:21",
+        "note": "Delivered from the bondage of corruption."
+      },
+      {
+        "ref": "Hebrews 2:15",
+        "note": "Subject to bondage all their lives."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kairos",
+    "transliteration": "kairós",
+    "original": "καιρός",
+    "pronunciation": "kai-ROS",
+    "gloss": "season, appointed time",
+    "notes": "A specific time, opportunity, or season (distinct from chronos, general time). In 4:10 it describes the \"seasons\" the Galatians have begun to observe; in 6:9-10 it is the \"due season\" of harvest and the \"opportunity\" to do good.",
+    "range": [
+      {
+        "sense": "Appointed time",
+        "note": "A set moment."
+      },
+      {
+        "sense": "Opportunity",
+        "note": "A favorable time."
+      },
+      {
+        "sense": "Season",
+        "note": "A recurring period."
+      }
+    ],
+    "translations": [
+      "season",
+      "time",
+      "opportunity"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 1:15",
+        "note": "The time is fulfilled."
+      },
+      {
+        "ref": "Romans 13:11",
+        "note": "Knowing the time, that it is already the hour."
+      },
+      {
+        "ref": "Ephesians 5:16",
+        "note": "Redeeming the time."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pneuma",
+    "transliteration": "pneuma",
+    "original": "πνεῦμα",
+    "pronunciation": "PNYOO-mah",
+    "gloss": "spirit, breath, wind",
+    "notes": "Spirit. The Galatians received the Spirit by faith, not by works (3:2-5, 3:14); God sent \"the Spirit of his Son into your hearts\" (4:6); Isaac was born \"according to the Spirit\" (4:29).",
+    "range": [
+      {
+        "sense": "Spirit",
+        "note": "The Holy Spirit, or a spirit being."
+      },
+      {
+        "sense": "Breath",
+        "note": "Life, the breath of a person."
+      },
+      {
+        "sense": "Wind",
+        "note": "Moving air."
+      }
+    ],
+    "translations": [
+      "spirit",
+      "Spirit",
+      "breath",
+      "wind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:35",
+        "note": "The Holy Spirit will come on you."
+      },
+      {
+        "ref": "John 20:22",
+        "note": "Receive the Holy Spirit."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epiteleo",
+    "transliteration": "epiteléō",
+    "original": "ἐπιτελέω",
+    "pronunciation": "ep-ee-tel-EH-oh",
+    "gloss": "to complete, to finish",
+    "notes": "To complete, to finish. \"Having begun in the Spirit, are you now being perfected in the flesh?\" (3:3).",
+    "range": [
+      {
+        "sense": "Complete",
+        "note": "Bring to an end."
+      },
+      {
+        "sense": "Perfect",
+        "note": "Bring to completion."
+      }
+    ],
+    "translations": [
+      "complete",
+      "finish",
+      "perfect"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:28",
+        "note": "When I have completed this, and have sealed to them this fruit."
+      },
+      {
+        "ref": "Philippians 1:6",
+        "note": "He who began a good work will complete it."
+      },
+      {
+        "ref": "Hebrews 8:5",
+        "note": "They serve a copy."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pisteuo",
+    "transliteration": "pisteuō",
+    "original": "πιστεύω",
+    "pronunciation": "pis-TYOO-oh",
+    "gloss": "to believe, to trust",
+    "notes": "To believe. \"Abraham believed God, and it was reckoned to him as righteousness\" (3:6); Scripture \"imprisoned all things under sin so that the promise by faith... might be given to those who believe\" (3:22).",
+    "range": [
+      {
+        "sense": "Believe",
+        "note": "Accept as true."
+      },
+      {
+        "sense": "Trust",
+        "note": "Rely on."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Commit to someone."
+      }
+    ],
+    "translations": [
+      "believe",
+      "trust",
+      "have faith"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 1:15",
+        "note": "Repent, and believe in the gospel."
+      },
+      {
+        "ref": "Acts 16:31",
+        "note": "Believe in the Lord Jesus."
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "If you believe in your heart."
+      },
+      {
+        "ref": "1 John 5:1",
+        "note": "Everyone who believes that Jesus is the Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epaggelia",
+    "transliteration": "epangelia",
+    "original": "ἐπαγγελία",
+    "pronunciation": "ep-ang-el-EE-ah",
+    "gloss": "promise",
+    "notes": "A promise. \"The promise of the Spirit through faith\" (3:14), the promises made to Abraham (3:16-22, 3:29), and \"children of promise\" (4:23, 4:28).",
+    "range": [
+      {
+        "sense": "Promise",
+        "note": "A solemn pledge."
+      },
+      {
+        "sense": "Gift promised",
+        "note": "What God has promised."
+      }
+    ],
+    "translations": [
+      "promise"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:49",
+        "note": "I am sending the promise of my Father upon you."
+      },
+      {
+        "ref": "Acts 2:33",
+        "note": "He has received from the Father the promise of the Holy Spirit."
+      },
+      {
+        "ref": "Galatians 3:16",
+        "note": "The promises were made to Abraham and to his offspring."
+      },
+      {
+        "ref": "Hebrews 6:12",
+        "note": "Imitate those who through faith and patience inherit the promises."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "A covenant. \"Even though it is only a man's covenant\" (3:15-17), and \"these are two covenants\" (4:24).",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:24",
+        "note": "The blood of the covenant, poured out for many."
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "This cup is the new covenant in my blood."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "The new covenant."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "The mediator of a new covenant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To baptize. \"As many of you as were baptized into Christ have put on Christ\" (3:27).",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:13",
+        "note": "Jesus comes to John to be baptized."
+      },
+      {
+        "ref": "Mark 1:9",
+        "note": "Jesus is baptized in the Jordan."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Be baptized in the name of Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleutheros",
+    "transliteration": "eleútheros",
+    "original": "ἐλεύθερος",
+    "pronunciation": "el-YOO-theh-ros",
+    "gloss": "free, free person",
+    "notes": "Free. \"There is neither bondservant nor free man\" (3:28); \"the free woman\" (4:22-31).",
+    "range": [
+      {
+        "sense": "Free",
+        "note": "Not enslaved."
+      },
+      {
+        "sense": "Free person",
+        "note": "Someone with legal freedom."
+      }
+    ],
+    "translations": [
+      "free",
+      "free person"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:28",
+        "note": "There is neither slave nor free."
+      },
+      {
+        "ref": "Galatians 4:26",
+        "note": "The Jerusalem above is free."
+      },
+      {
+        "ref": "Revelation 19:18",
+        "note": "Free and slave, small and great."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doulos",
+    "transliteration": "doulos",
+    "original": "δοῦλος",
+    "pronunciation": "DOO-los",
+    "gloss": "slave, servant",
+    "notes": "A slave. \"There is neither bondservant nor free\" (3:28); \"you are no longer a bondservant, but a son\" (4:7).",
+    "range": [
+      {
+        "sense": "Slave",
+        "note": "Someone owned by another."
+      },
+      {
+        "sense": "Servant of God",
+        "note": "A title of honor for those who serve the Lord."
+      }
+    ],
+    "translations": [
+      "slave",
+      "servant",
+      "bondservant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:27",
+        "note": "Whoever wishes to be first among you must be your slave."
+      },
+      {
+        "ref": "Galatians 1:10",
+        "note": "I would not be a servant of Christ."
+      },
+      {
+        "ref": "Philippians 2:7",
+        "note": "Taking the form of a servant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "heis",
+    "transliteration": "heis",
+    "original": "εἷς",
+    "pronunciation": "HICE",
+    "gloss": "one",
+    "notes": "One. \"You are all one in Christ Jesus\" (3:28); \"not 'to seeds,' as of many, but as of one\" (3:16).",
+    "range": [
+      {
+        "sense": "One",
+        "note": "The number."
+      },
+      {
+        "sense": "United",
+        "note": "Joined together."
+      }
+    ],
+    "translations": [
+      "one"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:5",
+        "note": "The two shall become one flesh."
+      },
+      {
+        "ref": "Mark 12:29",
+        "note": "The Lord our God, the Lord is one."
+      },
+      {
+        "ref": "Galatians 3:28",
+        "note": "You are all one in Christ Jesus."
+      },
+      {
+        "ref": "Ephesians 4:4",
+        "note": "There is one body and one Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nepios",
+    "transliteration": "nḗpios",
+    "original": "νήπιος",
+    "pronunciation": "NAY-pee-os",
+    "gloss": "infant, child",
+    "notes": "An infant, a child. \"As long as the heir is a child\" (4:1) and \"we, when we were children\" (4:3).",
+    "range": [
+      {
+        "sense": "Infant",
+        "note": "A baby."
+      },
+      {
+        "sense": "Immature",
+        "note": "Not yet grown."
+      }
+    ],
+    "translations": [
+      "infants",
+      "babes",
+      "child"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:25",
+        "note": "You have revealed them to infants."
+      },
+      {
+        "ref": "Ephesians 4:14",
+        "note": "No longer children, tossed to and fro."
+      },
+      {
+        "ref": "Hebrews 5:13",
+        "note": "Everyone who partakes of milk is an infant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikonomos",
+    "transliteration": "oikonómos",
+    "original": "οἰκονόμος",
+    "pronunciation": "oy-koh-NOH-mos",
+    "gloss": "steward, household manager",
+    "notes": "A steward, a household manager. \"Under guardians and stewards until the day appointed by the father\" (4:2).",
+    "range": [
+      {
+        "sense": "Steward",
+        "note": "Manager of another's house."
+      },
+      {
+        "sense": "Treasurer",
+        "note": "Keeper of funds, as with Erastus."
+      }
+    ],
+    "translations": [
+      "steward",
+      "manager",
+      "treasurer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 12:42",
+        "note": "Who then is the faithful and wise steward?"
+      },
+      {
+        "ref": "Titus 1:7",
+        "note": "An overseer must be blameless, as God's steward."
+      },
+      {
+        "ref": "1 Peter 4:10",
+        "note": "Good stewards of God's varied grace."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pleroma",
+    "transliteration": "plērōma",
+    "original": "πλήρωμα",
+    "pronunciation": "PLAY-ro-ma",
+    "gloss": "fullness, fulfillment",
+    "notes": "Fullness. \"When the fullness of the time came, God sent out his Son\" (4:4).",
+    "range": [
+      {
+        "sense": "Fullness",
+        "note": "The full amount."
+      },
+      {
+        "sense": "Fulfillment",
+        "note": "The completion."
+      }
+    ],
+    "translations": [
+      "fullness",
+      "fulfillment",
+      "full number"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:16",
+        "note": "The patch tears away from the garment."
+      },
+      {
+        "ref": "Mark 6:43",
+        "note": "They took up twelve baskets full."
+      },
+      {
+        "ref": "John 1:16",
+        "note": "From his fullness we have all received."
+      },
+      {
+        "ref": "Galatians 4:4",
+        "note": "When the fullness of time had come."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "huiothesia",
+    "transliteration": "huiothesia",
+    "original": "υἱοθεσία",
+    "pronunciation": "hwee-oth-es-EE-ah",
+    "gloss": "adoption",
+    "notes": "Adoption as a son. \"That we might receive the adoption as children\" (4:5).",
+    "range": [
+      {
+        "sense": "Adoption",
+        "note": "Legal acceptance as a child and heir."
+      }
+    ],
+    "translations": [
+      "adoption",
+      "adoption as sons"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 9:4",
+        "note": "To them belong the adoption, the glory, the covenants."
+      },
+      {
+        "ref": "Galatians 4:5",
+        "note": "So that we might receive adoption as sons."
+      },
+      {
+        "ref": "Ephesians 1:5",
+        "note": "He predestined us for adoption as sons."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "abba",
+    "transliteration": "abba",
+    "original": "ἀββά",
+    "pronunciation": "ab-BAH",
+    "gloss": "Father (Aramaic)",
+    "notes": "Father, an Aramaic word of close address. \"Crying, Abba! Father!\" (4:6).",
+    "range": [
+      {
+        "sense": "Father",
+        "note": "A child's and an adult's word for father."
+      }
+    ],
+    "translations": [
+      "Abba",
+      "Father"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:36",
+        "note": "Abba, Father, all things are possible to you."
+      },
+      {
+        "ref": "Galatians 4:6",
+        "note": "The Spirit cries, \"Abba! Father!\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peirasmos",
+    "transliteration": "peirasmos",
+    "original": "πειρασμός",
+    "pronunciation": "pay-ras-MOS",
+    "gloss": "testing, temptation",
+    "notes": "A test, a trial. \"That which was a trial to you in my flesh\" (4:14).",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "A trial of character."
+      },
+      {
+        "sense": "Temptation",
+        "note": "An enticement to sin."
+      }
+    ],
+    "translations": [
+      "temptation",
+      "testing",
+      "trial"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:13",
+        "note": "Do not lead us into temptation."
+      },
+      {
+        "ref": "1 Corinthians 10:13",
+        "note": "No temptation has taken you but such as is common."
+      },
+      {
+        "ref": "James 1:2",
+        "note": "Count it all joy when you meet trials."
+      },
+      {
+        "ref": "2 Peter 2:9",
+        "note": "The Lord knows how to rescue the godly from trials."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarx",
+    "transliteration": "sarx",
+    "original": "σάρξ",
+    "pronunciation": "SARKS",
+    "gloss": "flesh",
+    "notes": "Flesh, human nature. \"Born according to the flesh\" (4:23, 4:29); the flesh is a major theme in chapters 5 and 6.",
+    "range": [
+      {
+        "sense": "Flesh",
+        "note": "The body."
+      },
+      {
+        "sense": "Humanity",
+        "note": "Human nature."
+      },
+      {
+        "sense": "Weakness",
+        "note": "Mortal life."
+      }
+    ],
+    "translations": [
+      "flesh",
+      "body",
+      "human nature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:5",
+        "note": "Those who live according to the flesh."
+      },
+      {
+        "ref": "Galatians 5:17",
+        "note": "The flesh lusts against the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

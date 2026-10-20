@@ -235,7 +235,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 15:6",
+          "inDataset": true,
+          "votes": 22
+        },
+        {
+          "ref": "Habakkuk 2:4",
+          "inDataset": true,
+          "votes": 30
+        },
+        {
+          "ref": "Deuteronomy 21:23",
+          "inDataset": true,
+          "votes": 58
+        },
+        {
+          "ref": "Romans 4:1-25",
+          "inDataset": true,
+          "votes": 180
+        }
+      ]
     },
     {
       "number": 4,
@@ -299,7 +320,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 21:8-12",
+          "inDataset": true,
+          "votes": 35
+        },
+        {
+          "ref": "Isaiah 54:1",
+          "inDataset": true,
+          "votes": 21
+        },
+        {
+          "ref": "Romans 8:14-17",
+          "inDataset": true,
+          "votes": 58
+        },
+        {
+          "ref": "Genesis 16:1-16",
+          "inDataset": true,
+          "votes": 20
+        }
+      ]
     },
     {
       "number": 5,
