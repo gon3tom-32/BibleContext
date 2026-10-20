@@ -5,5 +5,356 @@
   ],
   "_license": "CC BY-SA 4.0. Derived from Theographic Bible Metadata; share-alike applies to this file.",
   "license": "CC BY-SA 4.0",
-  "people": []
+  "people": [
+    {
+      "id": "paul",
+      "name": "Paul",
+      "alsoCalled": "Saul,Mercurius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1,
+        10
+      ],
+      "verses": [
+        "2 Corinthians 1:1",
+        "2 Corinthians 10:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "paul_2479",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus",
+      "displayTitle": "Jesus Christ",
+      "alsoCalled": "Lord,Son,Lamb,Saviour,God,Holy,Word,JESUS,prophet,master,Light,Prince,Master,Branch,Immanuel,root,Judge,Emmanuel,Sun,King,BRANCH,Messiah,LORD,Wonderful,Counsellor,Prophet,Sceptre,Star,Shiloh",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Joseph"
+        },
+        "mother": {
+          "name": "Mary"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "James"
+          },
+          {
+            "name": "Joses"
+          },
+          {
+            "name": "Jude"
+          },
+          {
+            "name": "Simon"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "verses": [
+        "2 Corinthians 1:1",
+        "2 Corinthians 1:14",
+        "2 Corinthians 1:19",
+        "2 Corinthians 1:2",
+        "2 Corinthians 1:21",
+        "2 Corinthians 1:3",
+        "2 Corinthians 1:5",
+        "2 Corinthians 10:1",
+        "2 Corinthians 10:14",
+        "2 Corinthians 10:17",
+        "2 Corinthians 10:18",
+        "2 Corinthians 10:5",
+        "2 Corinthians 10:8",
+        "2 Corinthians 11:10",
+        "2 Corinthians 11:13",
+        "2 Corinthians 11:17",
+        "2 Corinthians 11:2",
+        "2 Corinthians 11:23",
+        "2 Corinthians 11:3",
+        "2 Corinthians 11:31",
+        "2 Corinthians 11:4",
+        "2 Corinthians 12:1",
+        "2 Corinthians 12:19",
+        "2 Corinthians 12:2",
+        "2 Corinthians 12:8",
+        "2 Corinthians 12:9",
+        "2 Corinthians 13:10",
+        "2 Corinthians 13:14",
+        "2 Corinthians 13:3",
+        "2 Corinthians 13:5",
+        "2 Corinthians 2:10",
+        "2 Corinthians 2:12",
+        "2 Corinthians 2:14",
+        "2 Corinthians 2:15",
+        "2 Corinthians 2:17",
+        "2 Corinthians 3:14",
+        "2 Corinthians 3:16",
+        "2 Corinthians 3:17",
+        "2 Corinthians 3:18",
+        "2 Corinthians 3:3",
+        "2 Corinthians 3:4",
+        "2 Corinthians 4:10",
+        "2 Corinthians 4:11",
+        "2 Corinthians 4:14",
+        "2 Corinthians 4:4",
+        "2 Corinthians 4:5",
+        "2 Corinthians 4:6",
+        "2 Corinthians 5:10",
+        "2 Corinthians 5:11",
+        "2 Corinthians 5:14",
+        "2 Corinthians 5:16",
+        "2 Corinthians 5:17",
+        "2 Corinthians 5:18",
+        "2 Corinthians 5:19",
+        "2 Corinthians 5:20",
+        "2 Corinthians 5:6",
+        "2 Corinthians 5:8",
+        "2 Corinthians 6:15",
+        "2 Corinthians 6:17",
+        "2 Corinthians 8:19",
+        "2 Corinthians 8:21",
+        "2 Corinthians 8:23",
+        "2 Corinthians 8:5",
+        "2 Corinthians 8:9",
+        "2 Corinthians 9:13"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "jesus_905",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "timothy",
+      "name": "Timotheus",
+      "alsoCalled": "Timothy",
+      "gender": "Male",
+      "family": {
+        "mother": {
+          "name": "Eunice"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1
+      ],
+      "verses": [
+        "2 Corinthians 1:1",
+        "2 Corinthians 1:19"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "timotheus_2863",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "titus",
+      "name": "Titus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        2,
+        7,
+        8,
+        12
+      ],
+      "verses": [
+        "2 Corinthians 2:13",
+        "2 Corinthians 7:6",
+        "2 Corinthians 7:13",
+        "2 Corinthians 7:14",
+        "2 Corinthians 8:6",
+        "2 Corinthians 8:16",
+        "2 Corinthians 8:23",
+        "2 Corinthians 12:18"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "titus_2869",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "silvanus",
+      "name": "Silas",
+      "alsoCalled": "Silvanus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1
+      ],
+      "verses": [
+        "2 Corinthians 1:19"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "silas_2740",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Amram"
+        },
+        "mother": {
+          "name": "Jochebed"
+        },
+        "spouses": [
+          {
+            "name": "Zipporah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Gershom"
+          },
+          {
+            "name": "Eliezer"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Aaron"
+          },
+          {
+            "name": "Miriam"
+          }
+        ]
+      },
+      "chapters": [
+        3
+      ],
+      "verses": [
+        "2 Corinthians 3:7",
+        "2 Corinthians 3:13",
+        "2 Corinthians 3:15"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "moses_2108",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "eve",
+      "name": "Eve",
+      "gender": "Female",
+      "family": {
+        "father": {
+          "name": "God"
+        },
+        "spouses": [
+          {
+            "name": "Adam"
+          }
+        ],
+        "children": [
+          {
+            "name": "Seth"
+          },
+          {
+            "name": "Cain"
+          },
+          {
+            "name": "Abel"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        11
+      ],
+      "verses": [
+        "2 Corinthians 11:3"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "eve_1231",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "king-aretas",
+      "name": "Aretas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11
+      ],
+      "verses": [
+        "2 Corinthians 11:32"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "aretas_297",
+        "recordStatus": "wip"
+      }
+    }
+  ]
 }

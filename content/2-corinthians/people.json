@@ -53,5 +53,25 @@
     "id": "the-poor-in-jerusalem",
     "name": "The poor in Jerusalem",
     "note": "Believers who received the collection."
+  },
+  {
+    "id": "eve",
+    "name": "Eve",
+    "note": "The first woman, deceived by the serpent; Paul fears the Corinthians will be led astray the same way."
+  },
+  {
+    "id": "king-aretas",
+    "name": "King Aretas",
+    "note": "A Nabatean king (Aretas IV) whose governor guarded Damascus when Paul escaped in a basket."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "The lawgiver whose face shone and who put a veil over it."
+  },
+  {
+    "id": "the-israelites-in-the-wilderness",
+    "name": "Israel at Sinai",
+    "note": "The people who could not look at Moses' face because of its glory."
   }
 ]

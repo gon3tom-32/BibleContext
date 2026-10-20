@@ -99,7 +99,7 @@
         "order": 5,
         "at": "damascus",
         "label": "Damascus",
-        "labelSide": "right"
+        "labelSide": "left"
       }
     ],
     "regionLegend": "Regions: darker shading where more sources agree on their extent",

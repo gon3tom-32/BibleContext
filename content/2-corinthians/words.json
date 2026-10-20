@@ -5126,5 +5126,2210 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "aphrosyne",
+    "transliteration": "aphrosýnē",
+    "original": "ἀφροσύνη",
+    "pronunciation": "af-ro-SOO-nay",
+    "gloss": "foolishness",
+    "notes": "Lack of sense, folly (from a- \"without\" plus phrēn \"mind\"). In 11:1, 11:17, and 11:21 Paul asks the Corinthians to put up with a little \"foolishness\" while he boasts, aware that boasting about oneself is foolish.",
+    "range": [
+      {
+        "sense": "Foolishness",
+        "note": "Lack of good sense."
+      },
+      {
+        "sense": "Folly",
+        "note": "Thoughtless behavior."
+      }
+    ],
+    "translations": [
+      "foolishness",
+      "folly"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:22",
+        "note": "From the heart come foolishness."
+      },
+      {
+        "ref": "2 Corinthians 11:21",
+        "note": "I speak as if in foolishness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphron",
+    "transliteration": "áphrōn",
+    "original": "ἄφρων",
+    "pronunciation": "AH-frone",
+    "gloss": "foolish, a fool",
+    "notes": "A foolish person, one without sense (a- \"without\" plus phrēn \"mind\"). In 11:16-19 and 12:6, 12:11, Paul says, \"receive me as a fool,\" and then says the Corinthians wise enough to put up with fools.",
+    "range": [
+      {
+        "sense": "Fool",
+        "note": "One lacking sense."
+      },
+      {
+        "sense": "Foolish",
+        "note": "Unwise."
+      }
+    ],
+    "translations": [
+      "fool",
+      "foolish"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 12:20",
+        "note": "You foolish one, tonight your soul is required of you."
+      },
+      {
+        "ref": "Romans 2:20",
+        "note": "A corrector of the foolish."
+      },
+      {
+        "ref": "Ephesians 5:17",
+        "note": "Don't be foolish, but understand what the will of the Lord is."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pseudapostolos",
+    "transliteration": "pseudapóstolos",
+    "original": "ψευδαπόστολος",
+    "pronunciation": "psyoo-DAP-os-tol-os",
+    "gloss": "false apostle",
+    "notes": "Someone who claims to be an apostle but is not. In 11:13 Paul calls the \"super-apostles\" false apostles, deceitful workers who disguise themselves. It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "False apostle",
+        "note": "A pretender."
+      },
+      {
+        "sense": "Counterfeit",
+        "note": "Not genuine."
+      }
+    ],
+    "translations": [
+      "false apostles"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 11:13",
+        "note": "Such men are false apostles, deceitful workers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metaschematizo",
+    "transliteration": "metaschēmatízō",
+    "original": "μετασχηματίζω",
+    "pronunciation": "met-as-khay-mat-ID-zo",
+    "gloss": "to disguise, to change one's outward form",
+    "notes": "To change the outward appearance of something, to disguise (meta \"change\" plus schēma \"form\"). In 11:13-15 Paul says false apostles disguise themselves as apostles of Christ, and that Satan disguises himself as an angel of light.",
+    "range": [
+      {
+        "sense": "Disguise",
+        "note": "Change outward form."
+      },
+      {
+        "sense": "Masquerade",
+        "note": "Pretend to be something else."
+      }
+    ],
+    "translations": [
+      "disguise",
+      "masquerade",
+      "transform"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 4:6",
+        "note": "I have applied these things to myself and Apollos."
+      },
+      {
+        "ref": "Philippians 3:21",
+        "note": "Who will transform the body of our humiliation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sargane",
+    "transliteration": "sargánē",
+    "original": "σαργάνη",
+    "pronunciation": "sar-GAN-ay",
+    "gloss": "basket (of woven rope)",
+    "notes": "A basket woven of rope or wickerwork, large enough to hold a person. In 11:33, Paul recalls that he was let down in one from a window in the wall of Damascus.",
+    "range": [
+      {
+        "sense": "Basket",
+        "note": "A large woven container."
+      },
+      {
+        "sense": "Hamper",
+        "note": "Made of rope or twigs."
+      }
+    ],
+    "translations": [
+      "basket"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 11:33",
+        "note": "Let down in a basket through a window in the wall."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "plege",
+    "transliteration": "plēgḗ",
+    "original": "πληγή",
+    "pronunciation": "play-GAY",
+    "gloss": "blow, wound, beating",
+    "notes": "A blow, a stripe, or a plague. Paul lists \"beatings\" among his hardships (6:5; 11:23). It is the word from which \"plague\" comes.",
+    "range": [
+      {
+        "sense": "Blow",
+        "note": "A strike."
+      },
+      {
+        "sense": "Wound",
+        "note": "The mark of a blow."
+      },
+      {
+        "sense": "Plague",
+        "note": "A strike from God."
+      }
+    ],
+    "translations": [
+      "beatings",
+      "stripes",
+      "plague"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 10:30",
+        "note": "They stripped him and beat him."
+      },
+      {
+        "ref": "Acts 16:23",
+        "note": "When they had laid many stripes on them."
+      },
+      {
+        "ref": "Revelation 9:20",
+        "note": "The rest of mankind, who were not killed with these plagues."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rhabdizo",
+    "transliteration": "rhabdízō",
+    "original": "ῥαβδίζω",
+    "pronunciation": "rab-DID-zo",
+    "gloss": "to beat with rods",
+    "notes": "To beat with a rod, the Roman punishment given by magistrates. Paul says he was beaten with rods three times (11:25); one occurrence is in Philippi (Acts 16:22-23).",
+    "range": [
+      {
+        "sense": "Beat with rods",
+        "note": "Flog with a wooden rod."
+      },
+      {
+        "sense": "Punish",
+        "note": "Inflict physical punishment."
+      }
+    ],
+    "translations": [
+      "beaten with rods"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 16:22",
+        "note": "The magistrates tore their clothes off and commanded them to be beaten with rods."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lithazo",
+    "transliteration": "lithádzō",
+    "original": "λιθάζω",
+    "pronunciation": "lith-AD-zo",
+    "gloss": "to stone",
+    "notes": "To throw stones at someone, to stone. Paul says, \"once I was stoned\" (11:25), probably at Lystra (Acts 14:19).",
+    "range": [
+      {
+        "sense": "Stone",
+        "note": "Throw stones at."
+      },
+      {
+        "sense": "Execute by stoning",
+        "note": "Punish by death."
+      }
+    ],
+    "translations": [
+      "stone",
+      "stoned"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 10:31",
+        "note": "The Jews took up stones again to stone him."
+      },
+      {
+        "ref": "Acts 14:19",
+        "note": "Having stoned Paul, they dragged him out of the city."
+      },
+      {
+        "ref": "Hebrews 11:37",
+        "note": "They were stoned."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nauageo",
+    "transliteration": "nauagéō",
+    "original": "ναυαγέω",
+    "pronunciation": "now-ag-EH-oh",
+    "gloss": "to be shipwrecked",
+    "notes": "To suffer shipwreck (naus \"ship\" plus agnymi \"to break\"). Paul says he was shipwrecked three times (11:25), before the voyage described in Acts 27.",
+    "range": [
+      {
+        "sense": "Be shipwrecked",
+        "note": "Lose a ship."
+      },
+      {
+        "sense": "Lose",
+        "note": "Come to ruin."
+      }
+    ],
+    "translations": [
+      "shipwrecked",
+      "suffer shipwreck"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Timothy 1:19",
+        "note": "Some have suffered shipwreck concerning the faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kindynos",
+    "transliteration": "kíndynos",
+    "original": "κίνδυνος",
+    "pronunciation": "KIN-doo-nos",
+    "gloss": "danger, peril",
+    "notes": "Danger or risk. Paul's list in 11:26 repeats it eight times: in dangers from rivers, robbers, his own people, Gentiles, the city, the wilderness, the sea, and false brothers.",
+    "range": [
+      {
+        "sense": "Danger",
+        "note": "Risk of harm."
+      },
+      {
+        "sense": "Peril",
+        "note": "A threat."
+      }
+    ],
+    "translations": [
+      "danger",
+      "peril"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:35",
+        "note": "Shall peril or sword separate us from Christ's love?"
+      },
+      {
+        "ref": "2 Corinthians 11:26",
+        "note": "In dangers from rivers, from robbers, from my countrymen."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "merimna",
+    "transliteration": "mérimna",
+    "original": "μέριμνα",
+    "pronunciation": "MER-im-nah",
+    "gloss": "anxiety, care",
+    "notes": "Worry or concern. In 11:28 Paul says that besides everything else he faces \"the daily pressure of care for all the churches.\"",
+    "range": [
+      {
+        "sense": "Anxiety",
+        "note": "Worry."
+      },
+      {
+        "sense": "Care",
+        "note": "Concern for others."
+      }
+    ],
+    "translations": [
+      "care",
+      "anxiety",
+      "worry"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:22",
+        "note": "The cares of this age and the deceitfulness of riches."
+      },
+      {
+        "ref": "Luke 8:14",
+        "note": "Choked by cares and riches."
+      },
+      {
+        "ref": "1 Peter 5:7",
+        "note": "Casting all your care on him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "satanas",
+    "transliteration": "Satanâs",
+    "original": "Σατανᾶς",
+    "pronunciation": "sat-an-AS",
+    "gloss": "Satan, the adversary",
+    "notes": "Satan, from a Hebrew word meaning \"adversary.\" In this letter Satan can outwit (2:11), masquerade as an angel of light (11:14), and send a \"messenger\" to torment Paul (12:7).",
+    "range": [
+      {
+        "sense": "Adversary",
+        "note": "One who opposes."
+      },
+      {
+        "sense": "Satan",
+        "note": "The enemy of God."
+      }
+    ],
+    "translations": [
+      "Satan"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:10",
+        "note": "Away with you, Satan!"
+      },
+      {
+        "ref": "Romans 16:20",
+        "note": "The God of peace will crush Satan under your feet."
+      },
+      {
+        "ref": "Revelation 12:9",
+        "note": "The great dragon... called the devil and Satan."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apokalypsis",
+    "transliteration": "apokálypsis",
+    "original": "ἀποκάλυψις",
+    "pronunciation": "ap-ok-AL-oo-psis",
+    "gloss": "revelation, uncovering",
+    "notes": "An uncovering, a disclosure of something hidden (it gives the name of the book of Revelation). In 12:1 and 12:7, Paul speaks of \"visions and revelations of the Lord.\"",
+    "range": [
+      {
+        "sense": "Revelation",
+        "note": "An uncovering."
+      },
+      {
+        "sense": "Disclosure",
+        "note": "Something made known."
+      }
+    ],
+    "translations": [
+      "revelation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:25",
+        "note": "According to the revelation of the mystery."
+      },
+      {
+        "ref": "Galatians 1:12",
+        "note": "Through a revelation of Jesus Christ."
+      },
+      {
+        "ref": "Revelation 1:1",
+        "note": "The revelation of Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "optasia",
+    "transliteration": "optasía",
+    "original": "ὀπτασία",
+    "pronunciation": "op-tas-EE-ah",
+    "gloss": "vision",
+    "notes": "A vision, a seeing of something not normally visible. Paul speaks of \"visions and revelations of the Lord\" (12:1), and the word is used for Zechariah's vision in the temple (Luke 1:22).",
+    "range": [
+      {
+        "sense": "Vision",
+        "note": "A supernatural sight."
+      },
+      {
+        "sense": "Appearance",
+        "note": "Something that appears."
+      }
+    ],
+    "translations": [
+      "vision",
+      "visions"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:22",
+        "note": "They perceived that he had seen a vision in the temple."
+      },
+      {
+        "ref": "Luke 24:23",
+        "note": "They had also seen a vision of angels."
+      },
+      {
+        "ref": "Acts 26:19",
+        "note": "I was not disobedient to the heavenly vision."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "harpazo",
+    "transliteration": "harpázō",
+    "original": "ἁρπάζω",
+    "pronunciation": "har-PAD-zo",
+    "gloss": "to snatch, to seize, to catch up",
+    "notes": "To seize suddenly and forcefully. In 12:2-4 Paul speaks of a man being \"caught up\" to the third heaven and paradise. The same word is used in 1 Thessalonians 4:17 for believers being \"caught up\" to meet the Lord.",
+    "range": [
+      {
+        "sense": "Snatch away",
+        "note": "Seize suddenly."
+      },
+      {
+        "sense": "Catch up",
+        "note": "Take up to another place."
+      }
+    ],
+    "translations": [
+      "caught up",
+      "snatch",
+      "seize"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:12",
+        "note": "The violent take it by force."
+      },
+      {
+        "ref": "Acts 8:39",
+        "note": "The Spirit of the Lord caught Philip away."
+      },
+      {
+        "ref": "1 Thessalonians 4:17",
+        "note": "We will be caught up together with them in the clouds."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "arretos",
+    "transliteration": "árrētos",
+    "original": "ἄρρητος",
+    "pronunciation": "AR-ray-tos",
+    "gloss": "unspeakable, inexpressible",
+    "notes": "Not to be spoken, either because it is beyond words or because it is forbidden. In 12:4, Paul heard \"inexpressible words, which it is not permitted for a man to speak.\" It appears only here.",
+    "range": [
+      {
+        "sense": "Unspeakable",
+        "note": "Beyond words."
+      },
+      {
+        "sense": "Forbidden to tell",
+        "note": "Not allowed to say."
+      }
+    ],
+    "translations": [
+      "unspeakable",
+      "inexpressible"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:4",
+        "note": "Heard unspeakable words, which it is not lawful for a man to utter."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skolops",
+    "transliteration": "skólops",
+    "original": "σκόλοψ",
+    "pronunciation": "SKOH-lops",
+    "gloss": "thorn, stake",
+    "notes": "A pointed stake or thorn, something sharp that pierces. In 12:7, Paul says \"a thorn in the flesh was given to me.\" What it was is unknown and debated: an illness, a temptation, or an opponent. It appears only here.",
+    "range": [
+      {
+        "sense": "Thorn",
+        "note": "A sharp object."
+      },
+      {
+        "sense": "Stake",
+        "note": "A pointed piece of wood."
+      }
+    ],
+    "translations": [
+      "thorn",
+      "splinter"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:7",
+        "note": "There was given to me a thorn in the flesh."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kolaphizo",
+    "transliteration": "kolaphízō",
+    "original": "κολαφίζω",
+    "pronunciation": "kol-af-ID-zo",
+    "gloss": "to strike with the fist, to torment",
+    "notes": "To hit with a clenched fist, to batter. In 12:7, Paul's thorn is \"a messenger of Satan to torment me,\" literally \"to strike me.\" The same word is used for the beating of Jesus (Matthew 26:67).",
+    "range": [
+      {
+        "sense": "Strike",
+        "note": "Hit with the fist."
+      },
+      {
+        "sense": "Torment",
+        "note": "Cause ongoing suffering."
+      }
+    ],
+    "translations": [
+      "torment",
+      "buffet",
+      "strike"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:67",
+        "note": "They spat in his face and beat him with their fists."
+      },
+      {
+        "ref": "1 Corinthians 4:11",
+        "note": "We are beaten and homeless."
+      },
+      {
+        "ref": "1 Peter 2:20",
+        "note": "When you are beaten for your faults."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hyperairo",
+    "transliteration": "hyperaírō",
+    "original": "ὑπεραίρω",
+    "pronunciation": "hoo-per-AH-ee-ro",
+    "gloss": "to exalt oneself, to be conceited",
+    "notes": "To lift oneself above others, to be puffed up with pride (hyper \"over\" plus airō \"to lift\"). In 12:7, \"so that I would not be exalted excessively,\" Paul explains the purpose of the thorn.",
+    "range": [
+      {
+        "sense": "Exalt",
+        "note": "Lift up."
+      },
+      {
+        "sense": "Be conceited",
+        "note": "Think too highly of oneself."
+      }
+    ],
+    "translations": [
+      "be exalted",
+      "be conceited",
+      "exalt"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Thessalonians 2:4",
+        "note": "Who opposes and exalts himself above all that is called God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "arkeo",
+    "transliteration": "arkéō",
+    "original": "ἀρκέω",
+    "pronunciation": "ar-KEH-oh",
+    "gloss": "to be enough, to suffice",
+    "notes": "To be sufficient, to be enough. The Lord says, \"My grace is sufficient for you\" (12:9). The related word autarkeia (\"sufficiency\") appears in 9:8.",
+    "range": [
+      {
+        "sense": "Suffice",
+        "note": "Be enough."
+      },
+      {
+        "sense": "Be content",
+        "note": "Be satisfied."
+      }
+    ],
+    "translations": [
+      "is sufficient",
+      "be enough",
+      "be content"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 3:14",
+        "note": "Be content with your wages."
+      },
+      {
+        "ref": "John 6:7",
+        "note": "Two hundred denarii worth of bread is not sufficient."
+      },
+      {
+        "ref": "1 Timothy 6:8",
+        "note": "Having food and clothing, we will be content."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "asthenia",
+    "transliteration": "astheneía",
+    "original": "ἀσθένεια",
+    "pronunciation": "as-then-I-ah",
+    "gloss": "weakness, illness",
+    "notes": "Lack of strength, whether physical weakness, illness, or powerlessness. A major word in 2 Corinthians: Paul boasts in his \"weaknesses\" (11:30; 12:5, 12:9-10), because the Lord's power rests on him there.",
+    "range": [
+      {
+        "sense": "Weakness",
+        "note": "Lack of strength."
+      },
+      {
+        "sense": "Illness",
+        "note": "Sickness."
+      }
+    ],
+    "translations": [
+      "weakness",
+      "weaknesses",
+      "illness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:26",
+        "note": "The Spirit helps our weaknesses."
+      },
+      {
+        "ref": "1 Corinthians 2:3",
+        "note": "I was with you in weakness and in fear."
+      },
+      {
+        "ref": "Hebrews 4:15",
+        "note": "A high priest who can't sympathize with our weaknesses."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "episkenoo",
+    "transliteration": "episkēnóō",
+    "original": "ἐπισκηνόω",
+    "pronunciation": "ep-is-kay-NO-oh",
+    "gloss": "to pitch a tent over, to dwell upon",
+    "notes": "To live in a tent upon or over something, to take up residence. In 12:9 Paul says he will boast in his weaknesses \"that the power of Christ may rest on me,\" literally \"pitch its tent over me.\" It appears only here.",
+    "range": [
+      {
+        "sense": "Dwell upon",
+        "note": "Take up residence."
+      },
+      {
+        "sense": "Rest on",
+        "note": "Be present."
+      }
+    ],
+    "translations": [
+      "rest on",
+      "dwell upon"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:9",
+        "note": "That the power of Christ may rest on me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "teras",
+    "transliteration": "téras",
+    "original": "τέρας",
+    "pronunciation": "TER-as",
+    "gloss": "wonder, portent",
+    "notes": "A wonder, something that causes amazement. It almost always appears with \"signs\" (sēmeia): \"signs, wonders, and mighty works\" are the marks of an apostle (12:12).",
+    "range": [
+      {
+        "sense": "Wonder",
+        "note": "An amazing event."
+      },
+      {
+        "sense": "Portent",
+        "note": "A sign of something greater."
+      }
+    ],
+    "translations": [
+      "wonders"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 2:22",
+        "note": "Jesus, a man approved by God with mighty works, wonders, and signs."
+      },
+      {
+        "ref": "Romans 15:19",
+        "note": "In the power of signs and wonders."
+      },
+      {
+        "ref": "Hebrews 2:4",
+        "note": "With signs and wonders."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katabareo",
+    "transliteration": "katabaréō",
+    "original": "καταβαρέω",
+    "pronunciation": "kat-ab-ar-EH-oh",
+    "gloss": "to weigh down, to burden",
+    "notes": "To place a heavy load on someone. In 12:16 Paul says he did not \"burden\" the Corinthians by taking money from them. The word is used only once in the New Testament.",
+    "range": [
+      {
+        "sense": "Burden",
+        "note": "Put a weight on."
+      },
+      {
+        "sense": "Weigh down",
+        "note": "Load heavily."
+      }
+    ],
+    "translations": [
+      "burden"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:16",
+        "note": "I did not burden you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekdapanao",
+    "transliteration": "ekdapanáō",
+    "original": "ἐκδαπανάω",
+    "pronunciation": "ek-dap-an-AH-oh",
+    "gloss": "to spend completely, to be used up",
+    "notes": "To spend entirely, to exhaust (from dapanē, \"cost\"). In 12:15 Paul says he will \"gladly spend and be utterly spent\" for the Corinthians' souls.",
+    "range": [
+      {
+        "sense": "Spend completely",
+        "note": "Use up."
+      },
+      {
+        "sense": "Exhaust",
+        "note": "Wear out."
+      }
+    ],
+    "translations": [
+      "be utterly spent",
+      "be spent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:15",
+        "note": "I will most gladly spend and be spent for your souls."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katalalia",
+    "transliteration": "katalaliá",
+    "original": "καταλαλιά",
+    "pronunciation": "kat-al-al-ee-AH",
+    "gloss": "slander, backbiting",
+    "notes": "Speaking against someone, slander. In 12:20 Paul fears he will find \"slanders\" among the Corinthians when he arrives.",
+    "range": [
+      {
+        "sense": "Slander",
+        "note": "False talk against someone."
+      },
+      {
+        "sense": "Backbiting",
+        "note": "Speaking ill behind someone's back."
+      }
+    ],
+    "translations": [
+      "slander",
+      "backbiting"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Peter 2:1",
+        "note": "Putting away all slander."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eris",
+    "transliteration": "éris",
+    "original": "ἔρις",
+    "pronunciation": "ER-is",
+    "gloss": "strife, quarreling",
+    "notes": "Contention, strife, quarrels. The same word appears in 1 Corinthians 1:11 (\"quarrels among you\"). In 12:20 Paul fears he will find strife in the church.",
+    "range": [
+      {
+        "sense": "Strife",
+        "note": "Open conflict."
+      },
+      {
+        "sense": "Quarrel",
+        "note": "A heated argument."
+      }
+    ],
+    "translations": [
+      "strife",
+      "quarrels",
+      "contention"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:29",
+        "note": "Full of envy, murder, strife, deceit."
+      },
+      {
+        "ref": "Galatians 5:20",
+        "note": "Strife, jealousy, outbursts of anger."
+      },
+      {
+        "ref": "Philippians 1:15",
+        "note": "Some preach Christ even from envy and strife."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thymos",
+    "transliteration": "thymós",
+    "original": "θυμός",
+    "pronunciation": "thoo-MOS",
+    "gloss": "anger, passion",
+    "notes": "Passionate anger, an outburst of rage. In 12:20 it appears with other vices: \"outbursts of anger\" in a list of what Paul fears he will find in Corinth.",
+    "range": [
+      {
+        "sense": "Rage",
+        "note": "A sudden burst of anger."
+      },
+      {
+        "sense": "Passion",
+        "note": "Strong feeling."
+      }
+    ],
+    "translations": [
+      "anger",
+      "wrath",
+      "outbursts of anger"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 4:28",
+        "note": "All were filled with anger in the synagogue."
+      },
+      {
+        "ref": "Colossians 3:8",
+        "note": "Anger, wrath, malice."
+      },
+      {
+        "ref": "Revelation 14:10",
+        "note": "The wine of the wrath of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eritheia",
+    "transliteration": "eritheía",
+    "original": "ἐριθεία",
+    "pronunciation": "er-ith-I-ah",
+    "gloss": "selfish ambition, rivalry",
+    "notes": "Selfish ambition, rivalry, the spirit of someone who works for personal gain. In 12:20 it appears in the list of vices Paul fears he will find in the church. It occurs elsewhere in Romans 2:8, Galatians 5:20, and Philippians 1:17.",
+    "range": [
+      {
+        "sense": "Selfish ambition",
+        "note": "Self-seeking."
+      },
+      {
+        "sense": "Rivalry",
+        "note": "Competition for position."
+      }
+    ],
+    "translations": [
+      "rivalries",
+      "selfish ambition",
+      "factions"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 2:8",
+        "note": "To those who are self-seeking."
+      },
+      {
+        "ref": "Galatians 5:20",
+        "note": "Strife, jealousy, outbursts of anger, rivalries."
+      },
+      {
+        "ref": "Philippians 2:3",
+        "note": "Do nothing from selfishness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "psithyrismos",
+    "transliteration": "psithyrismós",
+    "original": "ψιθυρισμός",
+    "pronunciation": "psee-thoo-ris-MOS",
+    "gloss": "whispering, gossip",
+    "notes": "Whispering, secret slander (from the sound of a whisper). In 12:20 it is in the list of vices Paul fears he will find in the church. It occurs elsewhere in Romans 1:29.",
+    "range": [
+      {
+        "sense": "Whispering",
+        "note": "Soft speech."
+      },
+      {
+        "sense": "Gossip",
+        "note": "Secret talk against others."
+      }
+    ],
+    "translations": [
+      "gossip",
+      "whisperings"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:20",
+        "note": "Quarrels, jealousy, anger, rivalries, slander, gossip."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "physiosis",
+    "transliteration": "phyísiōsis",
+    "original": "φυσίωσις",
+    "pronunciation": "foo-SEE-oh-sis",
+    "gloss": "puffing up, conceit",
+    "notes": "The state of being puffed up with pride, from the verb physioō (\"puff up\"), which appears seven times in 1 Corinthians. In 12:20 it appears in the list of vices Paul fears he will find in Corinth.",
+    "range": [
+      {
+        "sense": "Conceit",
+        "note": "Inflated pride."
+      },
+      {
+        "sense": "Puffing up",
+        "note": "Arrogance."
+      }
+    ],
+    "translations": [
+      "conceit",
+      "arrogance"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:20",
+        "note": "Whisperings, conceits, disturbances."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "akatharsia",
+    "transliteration": "akatharsía",
+    "original": "ἀκαθαρσία",
+    "pronunciation": "ak-ath-ar-SEE-ah",
+    "gloss": "impurity, uncleanness",
+    "notes": "Moral or ritual uncleanness, sexual impurity. In 12:21 Paul fears he will find that many have not repented of \"impurity, sexual immorality, and sensuality.\"",
+    "range": [
+      {
+        "sense": "Impurity",
+        "note": "Moral uncleanness."
+      },
+      {
+        "sense": "Uncleanness",
+        "note": "Ritual or moral impurity."
+      }
+    ],
+    "translations": [
+      "impurity",
+      "uncleanness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:24",
+        "note": "God gave them up in the lusts of their hearts to uncleanness."
+      },
+      {
+        "ref": "Galatians 5:19",
+        "note": "Sexual immorality, uncleanness, lustfulness."
+      },
+      {
+        "ref": "1 Thessalonians 4:7",
+        "note": "God did not call us to uncleanness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aselgeia",
+    "transliteration": "asélgeia",
+    "original": "ἀσέλγεια",
+    "pronunciation": "as-EL-gi-ah",
+    "gloss": "sensuality, lack of restraint",
+    "notes": "Unrestrained, shameless behavior, especially in sexual matters, without caring what others think. In 12:21 it appears with impurity and sexual immorality as what some in Corinth have not repented of.",
+    "range": [
+      {
+        "sense": "Sensuality",
+        "note": "Unrestrained indulgence."
+      },
+      {
+        "sense": "Licentiousness",
+        "note": "Lack of restraint."
+      }
+    ],
+    "translations": [
+      "sensuality",
+      "licentiousness",
+      "debauchery"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 13:13",
+        "note": "Not in reveling and drunkenness, not in sexual promiscuity and sensuality."
+      },
+      {
+        "ref": "Galatians 5:19",
+        "note": "Sexual immorality, uncleanness, lustfulness."
+      },
+      {
+        "ref": "1 Peter 4:3",
+        "note": "Living in sensuality."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pentheo",
+    "transliteration": "penthéō",
+    "original": "πενθέω",
+    "pronunciation": "pen-THEH-oh",
+    "gloss": "to mourn, to grieve",
+    "notes": "To mourn, to grieve for a loss. In 12:21 Paul fears that he will have to mourn over many who have sinned and not repented.",
+    "range": [
+      {
+        "sense": "Mourn",
+        "note": "Grieve."
+      },
+      {
+        "sense": "Lament",
+        "note": "Express sorrow."
+      }
+    ],
+    "translations": [
+      "mourn",
+      "grieve"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:4",
+        "note": "Blessed are those who mourn."
+      },
+      {
+        "ref": "1 Corinthians 5:2",
+        "note": "You are puffed up, and did not rather mourn."
+      },
+      {
+        "ref": "James 4:9",
+        "note": "Lament and mourn and weep."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peirazo",
+    "transliteration": "peirázō",
+    "original": "πειράζω",
+    "pronunciation": "pi-RAD-zo",
+    "gloss": "to test, to tempt",
+    "notes": "To try, test, or tempt, depending on context: God tests; Satan tempts. In 13:5, \"examine yourselves\" uses this word.",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "Examine to see if genuine."
+      },
+      {
+        "sense": "Tempt",
+        "note": "Entice toward evil."
+      }
+    ],
+    "translations": [
+      "examine",
+      "test",
+      "tempt"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 10:9",
+        "note": "Let's not test the Lord."
+      },
+      {
+        "ref": "Galatians 6:1",
+        "note": "Looking to yourself, lest you also be tempted."
+      },
+      {
+        "ref": "Hebrews 11:17",
+        "note": "By faith Abraham, being tested, offered up Isaac."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katartizo",
+    "transliteration": "katartízō",
+    "original": "καταρτίζω",
+    "pronunciation": "kat-ar-TID-zo",
+    "gloss": "to restore, to mend, to put in order",
+    "notes": "To repair or put in proper condition, as mending a net (Matthew 4:21) or setting a bone. In 13:11, \"be restored\" or \"be made complete,\" it is a prayer for the Corinthians' repair.",
+    "range": [
+      {
+        "sense": "Mend",
+        "note": "Repair."
+      },
+      {
+        "sense": "Restore",
+        "note": "Put right."
+      },
+      {
+        "sense": "Prepare",
+        "note": "Make ready."
+      }
+    ],
+    "translations": [
+      "be restored",
+      "be perfected",
+      "mend"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:21",
+        "note": "Mending their nets."
+      },
+      {
+        "ref": "Galatians 6:1",
+        "note": "Restore such a one in a spirit of gentleness."
+      },
+      {
+        "ref": "1 Peter 5:10",
+        "note": "Will himself perfect, establish, strengthen you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katartisis",
+    "transliteration": "katártisis",
+    "original": "κατάρτισις",
+    "pronunciation": "kat-AR-tis-is",
+    "gloss": "restoration, perfecting",
+    "notes": "A putting in order or restoring to completeness. In 13:9, Paul prays for the Corinthians' \"perfecting\" or \"restoration.\" It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Restoration",
+        "note": "Being put right."
+      },
+      {
+        "sense": "Perfecting",
+        "note": "Being made complete."
+      }
+    ],
+    "translations": [
+      "perfecting",
+      "restoration"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 13:9",
+        "note": "This we also pray for, even your perfecting."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "chairo",
+    "transliteration": "chaírō",
+    "original": "χαίρω",
+    "pronunciation": "KHAH-ee-ro",
+    "gloss": "to rejoice, to be glad",
+    "notes": "To rejoice, be glad. Also a greeting (\"hail,\" \"farewell\"). Paul ends the letter with \"rejoice\" (13:11) and says he rejoices over the Corinthians' repentance and strength (2:3; 7:7-16; 13:9).",
+    "range": [
+      {
+        "sense": "Rejoice",
+        "note": "Be glad."
+      },
+      {
+        "sense": "Greet",
+        "note": "Say \"hello.\""
+      }
+    ],
+    "translations": [
+      "rejoice",
+      "be glad",
+      "farewell"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Philippians 4:4",
+        "note": "Rejoice in the Lord always."
+      },
+      {
+        "ref": "Romans 12:15",
+        "note": "Rejoice with those who rejoice."
+      },
+      {
+        "ref": "1 Thessalonians 5:16",
+        "note": "Rejoice always."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apotomos",
+    "transliteration": "apotómōs",
+    "original": "ἀποτόμως",
+    "pronunciation": "ap-ot-OM-oce",
+    "gloss": "severely, sharply",
+    "notes": "Sharply, harshly (from apotomē, \"cut off\"). In 13:10, Paul writes this letter while absent so that when he comes he will not have to \"use severity.\"",
+    "range": [
+      {
+        "sense": "Sharply",
+        "note": "With a cutting edge."
+      },
+      {
+        "sense": "Severely",
+        "note": "Harshly."
+      }
+    ],
+    "translations": [
+      "severity",
+      "sharply",
+      "severely"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Titus 1:13",
+        "note": "Reprove them sharply."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phroneo",
+    "transliteration": "phronéō",
+    "original": "φρονέω",
+    "pronunciation": "fron-EH-oh",
+    "gloss": "to think, to have a mind",
+    "notes": "To think, to hold an attitude or mindset. In 13:11, \"be of the same mind\" (literally \"think the same thing\"), a call for unity.",
+    "range": [
+      {
+        "sense": "Think",
+        "note": "Hold an opinion."
+      },
+      {
+        "sense": "Have a mindset",
+        "note": "Set the mind on something."
+      }
+    ],
+    "translations": [
+      "be of the same mind",
+      "think",
+      "set the mind on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:16",
+        "note": "Be of the same mind toward one another."
+      },
+      {
+        "ref": "Philippians 2:5",
+        "note": "Have this mind in you which was also in Christ Jesus."
+      },
+      {
+        "ref": "Philippians 4:2",
+        "note": "To be of the same mind in the Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "idiotes",
+    "transliteration": "idiṓtēs",
+    "original": "ἰδιώτης",
+    "pronunciation": "id-ee-OH-tace",
+    "gloss": "outsider, ordinary person, layperson",
+    "notes": "A layperson, an unskilled person. \"Though I am unskilled in speech, yet I am not unskilled in knowledge\" (11:6).",
+    "range": [
+      {
+        "sense": "Layperson",
+        "note": "An ordinary person."
+      },
+      {
+        "sense": "Outsider",
+        "note": "Not part of the group."
+      },
+      {
+        "sense": "Untrained",
+        "note": "Without special knowledge."
+      }
+    ],
+    "translations": [
+      "outsider",
+      "uninstructed",
+      "ungifted"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 4:13",
+        "note": "They were unlearned and ordinary men."
+      },
+      {
+        "ref": "2 Corinthians 11:6",
+        "note": "Even if I am unskilled in speech."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aggelos",
+    "transliteration": "angelos",
+    "original": "ἄγγελος",
+    "pronunciation": "ANG-el-os",
+    "gloss": "angel, messenger",
+    "notes": "An angel, a messenger. \"Satan disguises himself as an angel of light\" (11:14) and the thorn was \"a messenger of Satan\" (12:7).",
+    "range": [
+      {
+        "sense": "Angel",
+        "note": "A heavenly messenger."
+      },
+      {
+        "sense": "Messenger",
+        "note": "One who carries a message."
+      }
+    ],
+    "translations": [
+      "angel",
+      "messenger"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:20",
+        "note": "An angel of the Lord appeared to him in a dream."
+      },
+      {
+        "ref": "Luke 1:26",
+        "note": "The angel Gabriel was sent."
+      },
+      {
+        "ref": "Revelation 1:1",
+        "note": "He made it known by sending his angel."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "astheneo",
+    "transliteration": "astheneō",
+    "original": "ἀσθενέω",
+    "pronunciation": "as-then-EH-oh",
+    "gloss": "to be weak, to be sick",
+    "notes": "To be weak, to be sick. \"Who is weak, and I am not weak?\" (11:29), and \"we are weak in him\" (13:4, 13:9).",
+    "range": [
+      {
+        "sense": "Be weak",
+        "note": "Lack strength."
+      },
+      {
+        "sense": "Be sick",
+        "note": "Be unwell."
+      }
+    ],
+    "translations": [
+      "weak",
+      "sick"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 14:1",
+        "note": "Accept him who is weak in faith."
+      },
+      {
+        "ref": "2 Corinthians 12:10",
+        "note": "When I am weak, then am I strong."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradeisos",
+    "transliteration": "paradeisos",
+    "original": "παράδεισος",
+    "pronunciation": "par-AD-ay-sos",
+    "gloss": "paradise, garden",
+    "notes": "Paradise, a garden. \"He was caught up into paradise\" (12:4); Jesus told the thief, \"Today you will be with me in paradise\" (Luke 23:43).",
+    "range": [
+      {
+        "sense": "Garden",
+        "note": "A walled park."
+      },
+      {
+        "sense": "Paradise",
+        "note": "The place of God's presence."
+      }
+    ],
+    "translations": [
+      "paradise",
+      "garden"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:4",
+        "note": "Caught up into paradise."
+      },
+      {
+        "ref": "Revelation 2:7",
+        "note": "The tree of life in the paradise of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dynamis",
+    "transliteration": "dynamis",
+    "original": "δύναμις",
+    "pronunciation": "DOO-nah-mis",
+    "gloss": "power, ability",
+    "notes": "Power. \"My power is made perfect in weakness\" (12:9); \"he lives through the power of God\" (13:4); signs and mighty works of an apostle (12:12).",
+    "range": [
+      {
+        "sense": "Power",
+        "note": "Ability to act."
+      },
+      {
+        "sense": "Miracle",
+        "note": "A mighty work."
+      }
+    ],
+    "translations": [
+      "power",
+      "miracle",
+      "might"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:16",
+        "note": "The gospel is the power of God for salvation."
+      },
+      {
+        "ref": "Acts 1:8",
+        "note": "You will receive power when the Holy Spirit comes."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "teleo",
+    "transliteration": "teleō",
+    "original": "τελέω",
+    "pronunciation": "tel-EH-oh",
+    "gloss": "to finish, to complete",
+    "notes": "To complete, to fulfill. \"My power is made perfect in weakness\" (12:9).",
+    "range": [
+      {
+        "sense": "Finish",
+        "note": "Complete."
+      },
+      {
+        "sense": "Fulfill",
+        "note": "Bring to completion."
+      },
+      {
+        "sense": "Pay",
+        "note": "Settle a debt."
+      }
+    ],
+    "translations": [
+      "finish",
+      "complete",
+      "fulfill",
+      "accomplish"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:28",
+        "note": "When Jesus finished these sayings."
+      },
+      {
+        "ref": "Luke 12:50",
+        "note": "How I am constrained until it is accomplished."
+      },
+      {
+        "ref": "Acts 13:29",
+        "note": "When they had carried out all that was written of him."
+      },
+      {
+        "ref": "Revelation 20:3",
+        "note": "Until the thousand years were finished."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "semeion",
+    "transliteration": "sēmeion",
+    "original": "σημεῖον",
+    "pronunciation": "say-MAY-on",
+    "gloss": "sign",
+    "notes": "A sign. \"The signs of an apostle were performed among you\" (12:12).",
+    "range": [
+      {
+        "sense": "Mark or token",
+        "note": "Something that identifies, like a signal."
+      },
+      {
+        "sense": "Miraculous sign",
+        "note": "A wonder that points to God's work."
+      },
+      {
+        "sense": "Omen",
+        "note": "A sign of what is coming."
+      }
+    ],
+    "translations": [
+      "sign",
+      "miracle",
+      "mark"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:38",
+        "note": "Teacher, we want to see a sign from you."
+      },
+      {
+        "ref": "Mark 16:20",
+        "note": "The Lord worked with them and confirmed the word by the signs."
+      },
+      {
+        "ref": "Acts 2:22",
+        "note": "Jesus of Nazareth, attested by God with signs."
+      },
+      {
+        "ref": "Revelation 12:1",
+        "note": "A great sign appeared in heaven."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "martys",
+    "transliteration": "martys",
+    "original": "μάρτυς",
+    "pronunciation": "MAR-toos",
+    "gloss": "witness",
+    "notes": "A witness. \"At the mouth of two or three witnesses\" (13:1), echoing Deuteronomy 19:15.",
+    "range": [
+      {
+        "sense": "Witness",
+        "note": "One who testifies."
+      },
+      {
+        "sense": "Martyr",
+        "note": "One who dies for the testimony."
+      }
+    ],
+    "translations": [
+      "witness",
+      "martyr"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 18:16",
+        "note": "On the evidence of two or three witnesses."
+      },
+      {
+        "ref": "Luke 24:48",
+        "note": "You are witnesses of these things."
+      },
+      {
+        "ref": "1 Timothy 6:12",
+        "note": "You made the good confession in the presence of many witnesses."
+      },
+      {
+        "ref": "Revelation 1:5",
+        "note": "Jesus Christ the faithful witness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rhema",
+    "transliteration": "rhēma",
+    "original": "ῥῆμα",
+    "pronunciation": "HRAY-ma",
+    "gloss": "word, spoken word",
+    "notes": "A spoken word, a matter. \"Every word shall be established\" (13:1).",
+    "range": [
+      {
+        "sense": "Spoken word",
+        "note": "What is said."
+      },
+      {
+        "sense": "Message",
+        "note": "A declaration."
+      }
+    ],
+    "translations": [
+      "word",
+      "saying",
+      "message"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:4",
+        "note": "Man shall live by every word that comes from the mouth of God."
+      },
+      {
+        "ref": "Luke 1:37",
+        "note": "Nothing will be impossible with God."
+      },
+      {
+        "ref": "Ephesians 6:17",
+        "note": "The sword of the Spirit, which is the word of God."
+      },
+      {
+        "ref": "Hebrews 1:3",
+        "note": "Upholds the universe by the word of his power."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dokimazo",
+    "transliteration": "dokimázō",
+    "original": "δοκιμάζω",
+    "pronunciation": "doh-kee-MAD-zo",
+    "gloss": "to test, to approve",
+    "notes": "To test, to approve. \"Test yourselves\" (13:5), \"not that we may appear approved\" (13:7).",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "Try to see if genuine."
+      },
+      {
+        "sense": "Approve",
+        "note": "Accept after testing."
+      }
+    ],
+    "translations": [
+      "test",
+      "examine",
+      "approve"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:2",
+        "note": "So that you may prove what is the will of God."
+      },
+      {
+        "ref": "1 Thessalonians 5:21",
+        "note": "Test all things; hold fast to what is good."
+      },
+      {
+        "ref": "1 Peter 1:7",
+        "note": "The testing of your faith, more precious than gold."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "adokimos",
+    "transliteration": "adókimos",
+    "original": "ἀδόκιμος",
+    "pronunciation": "ah-DOK-ee-mos",
+    "gloss": "disqualified, failing the test",
+    "notes": "Disqualified, failing the test. \"Unless indeed you are disqualified\" (13:5-7).",
+    "range": [
+      {
+        "sense": "Disqualified",
+        "note": "Not passing the test."
+      },
+      {
+        "sense": "Rejected",
+        "note": "Not approved."
+      }
+    ],
+    "translations": [
+      "disqualified",
+      "rejected",
+      "failing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:28",
+        "note": "God gave them up to a debased mind."
+      },
+      {
+        "ref": "2 Timothy 3:8",
+        "note": "Opposed to the truth, corrupt in mind."
+      },
+      {
+        "ref": "Titus 1:16",
+        "note": "Unfit for any good work."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "To crucify. \"He was crucified through weakness\" (13:4).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:22",
+        "note": "\"Let him be crucified!\""
+      },
+      {
+        "ref": "Luke 23:21",
+        "note": "\"Crucify, crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "This Jesus whom you crucified."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zao",
+    "transliteration": "zaō",
+    "original": "ζάω",
+    "pronunciation": "DZAH-oh",
+    "gloss": "to live",
+    "notes": "To live. \"He lives through the power of God. For we also are weak in him, but we will live with him\" (13:4).",
+    "range": [
+      {
+        "sense": "Live",
+        "note": "Be alive."
+      },
+      {
+        "sense": "Living",
+        "note": "Active and real."
+      }
+    ],
+    "translations": [
+      "live",
+      "living"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:16",
+        "note": "You are the Christ, the Son of the living God."
+      },
+      {
+        "ref": "John 6:57",
+        "note": "As the living Father sent me, and I live because of the Father."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteous shall live by faith."
+      },
+      {
+        "ref": "1 Thessalonians 1:9",
+        "note": "Serve the living and true God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eirene",
+    "transliteration": "eirēnē",
+    "original": "εἰρήνη",
+    "pronunciation": "ay-RAY-nay",
+    "gloss": "peace",
+    "notes": "Peace. \"Live in peace, and the God of love and peace will be with you\" (13:11).",
+    "range": [
+      {
+        "sense": "Peace",
+        "note": "Absence of conflict."
+      },
+      {
+        "sense": "Wellbeing",
+        "note": "Wholeness and safety."
+      },
+      {
+        "sense": "Greeting",
+        "note": "A wish for good."
+      }
+    ],
+    "translations": [
+      "peace"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:36",
+        "note": "\"Peace to you.\""
+      },
+      {
+        "ref": "John 14:27",
+        "note": "My peace I give to you."
+      },
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God that surpasses understanding."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aspazomai",
+    "transliteration": "aspazomai",
+    "original": "ἀσπάζομαι",
+    "pronunciation": "as-PAD-zom-eye",
+    "gloss": "to greet",
+    "notes": "To greet. \"All the saints greet you\" (13:12-13).",
+    "range": [
+      {
+        "sense": "Greet",
+        "note": "Welcome and acknowledge."
+      },
+      {
+        "sense": "Embrace",
+        "note": "Show affection."
+      }
+    ],
+    "translations": [
+      "greet",
+      "salute"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:47",
+        "note": "If you greet only your brothers, what more are you doing?"
+      },
+      {
+        "ref": "Luke 1:40",
+        "note": "She entered the house of Zechariah and greeted Elizabeth."
+      },
+      {
+        "ref": "1 Corinthians 16:19",
+        "note": "The churches of Asia send you greetings."
+      },
+      {
+        "ref": "Hebrews 13:24",
+        "note": "Greet all your leaders."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "philema",
+    "transliteration": "phílēma",
+    "original": "φίλημα",
+    "pronunciation": "FIL-ay-mah",
+    "gloss": "kiss",
+    "notes": "A kiss. \"Greet one another with a holy kiss\" (13:12).",
+    "range": [
+      {
+        "sense": "Kiss",
+        "note": "A greeting of affection."
+      },
+      {
+        "sense": "Greeting",
+        "note": "A sign of fellowship."
+      }
+    ],
+    "translations": [
+      "kiss"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 7:45",
+        "note": "You gave me no kiss."
+      },
+      {
+        "ref": "Luke 22:48",
+        "note": "Judas, do you betray the Son of Man with a kiss?"
+      },
+      {
+        "ref": "1 Peter 5:14",
+        "note": "Greet one another with a kiss of love."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hagios",
+    "transliteration": "hagios",
+    "original": "ἅγιος",
+    "pronunciation": "HAG-ee-os",
+    "gloss": "holy, saint",
+    "notes": "Holy; saints are \"holy ones.\" \"All the saints greet you\" (13:13).",
+    "range": [
+      {
+        "sense": "Holy",
+        "note": "Set apart for God."
+      },
+      {
+        "sense": "Saint",
+        "note": "A believer."
+      },
+      {
+        "sense": "Holy Spirit",
+        "note": "The Spirit of God."
+      }
+    ],
+    "translations": [
+      "holy",
+      "saint",
+      "saints"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:18",
+        "note": "She was found to be with child from the Holy Spirit."
+      },
+      {
+        "ref": "Romans 1:7",
+        "note": "Called to be saints."
+      },
+      {
+        "ref": "1 Corinthians 1:2",
+        "note": "Sanctified in Christ Jesus, called to be saints."
+      },
+      {
+        "ref": "Revelation 5:8",
+        "note": "The prayers of the saints."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

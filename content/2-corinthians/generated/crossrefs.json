@@ -905,7 +905,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 3:1-6",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Deuteronomy 25:3",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Acts 9:23-25",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Galatians 1:6-9",
+          "inDataset": true,
+          "votes": 80
+        }
+      ]
     },
     {
       "number": 12,
@@ -967,7 +988,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Luke 23:43",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Isaiah 40:29",
+          "inDataset": true,
+          "votes": 141
+        },
+        {
+          "ref": "Romans 15:18-19",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Isaiah 40:29-31",
+          "inDataset": true,
+          "votes": 141
+        }
+      ]
     },
     {
       "number": 13,
@@ -1029,7 +1071,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 19:15",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Matthew 18:16",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "1 Corinthians 11:28",
+          "inDataset": true,
+          "votes": 59
+        },
+        {
+          "ref": "Psalm 139:23-24",
+          "inDataset": true,
+          "votes": 49
+        }
+      ]
     }
   ]
 }

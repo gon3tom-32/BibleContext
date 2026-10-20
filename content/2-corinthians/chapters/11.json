@@ -1,0 +1,162 @@
+{
+  "sceneHappening": "Paul's \"foolish\" boasting: a jealous love, false apostles, and a list of what he has endured",
+  "summary": "Paul asks them to put up with a little foolishness from him. \"For I am jealous over you with a godly jealousy. For I married you to one husband, that I might present you as a pure virgin to Christ. But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity and the purity that is in Christ.\" If someone comes and preaches another Jesus, or if they receive a different spirit or a different gospel, they put up with it well enough. He does not consider himself inferior to the \"super-apostles\"; though unskilled in speech, he is not unskilled in knowledge. He asks if it was a sin to preach God's gospel free of charge, \"humbling myself that you might be exalted,\" robbing other churches by taking support from them to serve the Corinthians, and when he was with them and in need, he did not burden anyone, since the brothers from Macedonia supplied it. He will keep it so, \"that I may cut off occasion from those who desire an occasion,\" so that in what they boast they may be found even as Paul. \"For such men are false apostles, deceitful workers, masquerading as apostles of Christ. And no wonder, for even Satan masquerades as an angel of light.\" Paul asks them again not to think him a fool, but if they do, to receive him as a fool, so that he too may boast a little. Since many boast according to the flesh, he will boast too. They gladly put up with fools, with anyone who enslaves, devours, takes advantage, puts on airs, or strikes them on the face. Whatever anyone dares to boast about, he will too: Hebrews, Israelites, Abraham's descendants, servants of Christ, \"I more,\" with far more labors, far more imprisonments, countless beatings, often near death. Five times he received forty lashes minus one, three times he was beaten with rods, once stoned, three times shipwrecked, a night and a day adrift at sea; on frequent journeys, in danger from rivers, robbers, his own people, Gentiles, in the city, in the wilderness, at sea, and from false brothers; in toil and hardship, through many a sleepless night, hungry and thirsty, often without food, in cold and exposure. Besides all this, the daily pressure of anxiety for all the churches. \"Who is weak, and I am not weak? Who is caused to stumble, and I don't burn with indignation?\" If he must boast, he will boast of the things that show his weakness, and tells how in Damascus the governor under King Aretas guarded the city to seize him, and he was let down in a basket through a window in the wall and escaped his hands.",
+  "whySettingMatters": "This is Paul's \"fool's speech,\" a piece of deliberate irony: in the ancient world, boasting about oneself was considered foolish unless forced by circumstances, and Paul uses the form to turn it upside down by boasting only about weakness. His picture of the church as a bride presented to Christ draws on the custom in which a father arranged and guarded his daughter's betrothal. The reference to Eve and the serpent shows how he reads Genesis 3. The \"super-apostles\" (11:5; 12:11) are probably not the Twelve in Jerusalem but visiting teachers in Corinth who claimed superior credentials; Paul calls them \"false apostles\" in 11:13. The list of hardships adds many things that Acts does not mention (three shipwrecks before the one in Acts 27, five synagogue floggings, three beatings with rods), so it shows how much of Paul's life we do not know. \"Forty lashes minus one\" was the synagogue penalty based on Deuteronomy 25:3, with a margin of safety. The detail about Aretas, the Nabatean king, is one of the few ways to date Paul's life: it points to around AD 37 to 39, when Aretas seems to have had influence in Damascus.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Boasts as a \"fool,\" listing his weaknesses and sufferings."
+    },
+    {
+      "id": "the-super-apostles",
+      "note": "Outside teachers who claim superior status; Paul calls them false apostles."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Compared to a betrothed bride who may be led astray."
+    },
+    {
+      "id": "eve",
+      "note": "Deceived by the serpent; Paul fears the Corinthians will be too."
+    },
+    {
+      "id": "king-aretas",
+      "note": "The Nabatean king whose governor guarded Damascus."
+    },
+    {
+      "id": "the-macedonian-churches",
+      "note": "Supplied Paul's need when he was in Corinth."
+    }
+  ],
+  "questions": [
+    "Paul says he is jealous for the Corinthians with \"godly jealousy.\" What makes jealousy godly instead of selfish?",
+    "He describes \"another Jesus, a different gospel.\" How do we recognize a message that sounds Christian but is not?",
+    "Paul lists beatings, shipwrecks, and anxiety for the churches in the same breath. What does it say that he counts the pressure of care as a hardship alongside the physical ones?",
+    "Why does Paul end his list with an embarrassing escape in a basket?"
+  ],
+  "words": [
+    {
+      "id": "zelos",
+      "note": "\"I am jealous over you with a godly jealousy\" (11:2)."
+    },
+    {
+      "id": "hagnotes",
+      "note": "\"The simplicity and the purity that is in Christ\" (11:3)."
+    },
+    {
+      "id": "agnos",
+      "note": "\"Present you as a pure virgin to Christ\" (11:2)."
+    },
+    {
+      "id": "haplotes",
+      "note": "\"From the simplicity... that is in Christ\" (11:3)."
+    },
+    {
+      "id": "idiotes",
+      "note": "\"Unskilled in speech\" (11:6)."
+    },
+    {
+      "id": "aphrosyne",
+      "note": "\"Bear with me in a little foolishness\" (11:1, 11:17, 11:21)."
+    },
+    {
+      "id": "aphron",
+      "note": "\"Receive me as a fool\" (11:16, 11:19)."
+    },
+    {
+      "id": "pseudapostolos",
+      "note": "\"Such men are false apostles\" (11:13)."
+    },
+    {
+      "id": "metaschematizo",
+      "note": "\"Masquerading as apostles of Christ\" (11:13-15)."
+    },
+    {
+      "id": "satanas",
+      "note": "\"Even Satan masquerades as an angel of light\" (11:14)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"An angel of light\" (11:14)."
+    },
+    {
+      "id": "phos",
+      "note": "\"An angel of light\" (11:14)."
+    },
+    {
+      "id": "plege",
+      "note": "\"In beatings above measure\" (11:23)."
+    },
+    {
+      "id": "rhabdizo",
+      "note": "\"Three times I was beaten with rods\" (11:25)."
+    },
+    {
+      "id": "lithazo",
+      "note": "\"Once I was stoned\" (11:25)."
+    },
+    {
+      "id": "nauageo",
+      "note": "\"Three times I suffered shipwreck\" (11:25)."
+    },
+    {
+      "id": "kindynos",
+      "note": "\"In perils of rivers, perils of robbers\" (11:26)."
+    },
+    {
+      "id": "kopos",
+      "note": "\"In labor and travail\" (11:23, 11:27)."
+    },
+    {
+      "id": "agrypnia",
+      "note": "\"In watchings often\" (11:27)."
+    },
+    {
+      "id": "nesteia",
+      "note": "\"In hunger and thirst, in fastings often\" (11:27)."
+    },
+    {
+      "id": "merimna",
+      "note": "\"The care of all the churches\" (11:28)."
+    },
+    {
+      "id": "sargane",
+      "note": "\"Was let down in a basket\" (11:33)."
+    },
+    {
+      "id": "astheneo",
+      "note": "\"Who is weak, and I am not weak?\" (11:21, 11:29)."
+    },
+    {
+      "id": "asthenia",
+      "note": "\"The things that concern my weakness\" (11:30)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"For the glory of Christ... in my weakness\" (11:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 3:1-6",
+      "note": "the serpent deceives Eve"
+    },
+    {
+      "ref": "Deuteronomy 25:3",
+      "note": "forty stripes he may give him, but not more"
+    },
+    {
+      "ref": "Acts 9:23-25",
+      "note": "Paul lowered in a basket from the wall of Damascus"
+    },
+    {
+      "ref": "Galatians 1:6-9",
+      "note": "a different gospel"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

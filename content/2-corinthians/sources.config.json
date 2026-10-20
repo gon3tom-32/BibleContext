@@ -38,7 +38,40 @@
       "mapOnly": true
     }
   ],
-  "people": [],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "timothy",
+      "theographic": "timotheus_2863"
+    },
+    {
+      "id": "titus",
+      "theographic": "titus_2869"
+    },
+    {
+      "id": "silvanus",
+      "theographic": "silas_2740"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "eve",
+      "theographic": "eve_1231"
+    },
+    {
+      "id": "king-aretas",
+      "theographic": "aretas_297"
+    }
+  ],
   "words": [
     {
       "id": "apokrima",
@@ -959,6 +992,407 @@
         "G0411"
       ],
       "foundAt": "2 Corinthians 9:15"
+    },
+    {
+      "id": "aphrosyne",
+      "strongs": [
+        "G0877"
+      ],
+      "foundAt": "2 Corinthians 11:1"
+    },
+    {
+      "id": "aphron",
+      "strongs": [
+        "G0878"
+      ],
+      "foundAt": "2 Corinthians 11:16"
+    },
+    {
+      "id": "pseudapostolos",
+      "strongs": [
+        "G5570"
+      ],
+      "foundAt": "2 Corinthians 11:13"
+    },
+    {
+      "id": "metaschematizo",
+      "strongs": [
+        "G3345"
+      ],
+      "foundAt": "2 Corinthians 11:13"
+    },
+    {
+      "id": "sargane",
+      "strongs": [
+        "G4553"
+      ],
+      "foundAt": "2 Corinthians 11:33"
+    },
+    {
+      "id": "plege",
+      "strongs": [
+        "G4127"
+      ],
+      "foundAt": "2 Corinthians 6:5"
+    },
+    {
+      "id": "rhabdizo",
+      "strongs": [
+        "G4463"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "lithazo",
+      "strongs": [
+        "G3034"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "nauageo",
+      "strongs": [
+        "G3489"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "kindynos",
+      "strongs": [
+        "G2794"
+      ],
+      "foundAt": "2 Corinthians 11:26"
+    },
+    {
+      "id": "merimna",
+      "strongs": [
+        "G3308"
+      ],
+      "foundAt": "2 Corinthians 11:28"
+    },
+    {
+      "id": "satanas",
+      "strongs": [
+        "G4567"
+      ],
+      "foundAt": "2 Corinthians 2:11"
+    },
+    {
+      "id": "apokalypsis",
+      "strongs": [
+        "G0602"
+      ],
+      "foundAt": "2 Corinthians 12:1"
+    },
+    {
+      "id": "optasia",
+      "strongs": [
+        "G3701"
+      ],
+      "foundAt": "2 Corinthians 12:1"
+    },
+    {
+      "id": "harpazo",
+      "strongs": [
+        "G0726"
+      ],
+      "foundAt": "2 Corinthians 12:2"
+    },
+    {
+      "id": "arretos",
+      "strongs": [
+        "G0731"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "skolops",
+      "strongs": [
+        "G4647"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "kolaphizo",
+      "strongs": [
+        "G2852"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "hyperairo",
+      "strongs": [
+        "G5229"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "arkeo",
+      "strongs": [
+        "G0714"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "asthenia",
+      "strongs": [
+        "G0769G"
+      ],
+      "foundAt": "2 Corinthians 11:30"
+    },
+    {
+      "id": "episkenoo",
+      "strongs": [
+        "G1981"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "teras",
+      "strongs": [
+        "G5059"
+      ],
+      "foundAt": "2 Corinthians 12:12"
+    },
+    {
+      "id": "katabareo",
+      "strongs": [
+        "G2599"
+      ],
+      "foundAt": "2 Corinthians 12:16"
+    },
+    {
+      "id": "ekdapanao",
+      "strongs": [
+        "G1550"
+      ],
+      "foundAt": "2 Corinthians 12:15"
+    },
+    {
+      "id": "katalalia",
+      "strongs": [
+        "G2636"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "eris",
+      "strongs": [
+        "G2054"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "thymos",
+      "strongs": [
+        "G2372"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "eritheia",
+      "strongs": [
+        "G2052"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "psithyrismos",
+      "strongs": [
+        "G5587"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "physiosis",
+      "strongs": [
+        "G5450"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "aselgeia",
+      "strongs": [
+        "G0766"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "pentheo",
+      "strongs": [
+        "G3996"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "peirazo",
+      "strongs": [
+        "G3985H"
+      ],
+      "foundAt": "2 Corinthians 13:5"
+    },
+    {
+      "id": "katartizo",
+      "strongs": [
+        "G2675"
+      ],
+      "foundAt": "2 Corinthians 13:11"
+    },
+    {
+      "id": "katartisis",
+      "strongs": [
+        "G2676"
+      ],
+      "foundAt": "2 Corinthians 13:9"
+    },
+    {
+      "id": "chairo",
+      "strongs": [
+        "G5463"
+      ],
+      "foundAt": "2 Corinthians 2:3"
+    },
+    {
+      "id": "apotomos",
+      "strongs": [
+        "G0664"
+      ],
+      "foundAt": "2 Corinthians 13:10"
+    },
+    {
+      "id": "phroneo",
+      "strongs": [
+        "G5426"
+      ],
+      "foundAt": "2 Corinthians 13:11"
+    },
+    {
+      "id": "idiotes",
+      "strongs": [
+        "G2399"
+      ],
+      "foundAt": "2 Corinthians 11:6"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "2 Corinthians 11:14"
+    },
+    {
+      "id": "astheneo",
+      "strongs": [
+        "G0770G"
+      ],
+      "foundAt": "2 Corinthians 11:21"
+    },
+    {
+      "id": "paradeisos",
+      "strongs": [
+        "G3857"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "2 Corinthians 1:8"
+    },
+    {
+      "id": "teleo",
+      "strongs": [
+        "G5055"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "foundAt": "2 Corinthians 12:12"
+    },
+    {
+      "id": "martys",
+      "strongs": [
+        "G3144"
+      ],
+      "foundAt": "2 Corinthians 1:23"
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "2 Corinthians 8:8"
+    },
+    {
+      "id": "adokimos",
+      "strongs": [
+        "G0096"
+      ],
+      "foundAt": "2 Corinthians 13:5"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "2 Corinthians 13:4"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "2 Corinthians 1:8"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "2 Corinthians 13:12"
+    },
+    {
+      "id": "philema",
+      "strongs": [
+        "G5370"
+      ],
+      "foundAt": "2 Corinthians 13:12"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "2 Corinthians 1:1"
     }
   ],
   "crossRefs": {
@@ -969,10 +1403,6 @@
     {
       "area": "places",
       "text": "The Mediterranean Sea is pulled to draw the map."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }

@@ -2,6 +2,10 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
+      "area": "words",
+      "text": "\"Galatians 6:1\" (listed under peirazo): STEPBible tags the same word there as G3985G, a different sense (\"to test/tempt\"). Fine to keep if the note says so."
+    },
+    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -20,10 +24,6 @@
     {
       "area": "places",
       "text": "The Mediterranean Sea is pulled to draw the map."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }
