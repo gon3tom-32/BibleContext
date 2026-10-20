@@ -2,7 +2,7 @@
 
 Study the Bible with context first and verses second: who wrote a book, who it was for, and what was going on in history. Prototype book: Ruth.
 
-**Live site:** https://gon3tom-32.github.io/BibleContext/ (republished automatically when `main` changes)
+**Live site:** https://bible.tomggonzalez.com/ (republished automatically when `main` changes)
 
 - `content/<book>/` — all book content (JSON). Adding a book means adding a folder.
 - `src/app/` — pages: overview `/ruth`, chapter `/ruth/1`, map and timeline `/ruth/context`, word studies `/ruth/words`, notes `/ruth/notes`.
