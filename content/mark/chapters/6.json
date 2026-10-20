@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Rejected at home, then the twelve sent out, John killed, five thousand fed",
+  "summary": "Jesus comes to his hometown and teaches in the synagogue on the Sabbath. People are amazed and take offense: \"Isn't this the carpenter, the son of Mary, and brother of James, Joses, Judas, and Simon? Aren't his sisters here with us?\" He says, \"A prophet is not without honor except in his own country,\" and can do few mighty works there except heal a few sick people. He marvels at their unbelief. He sends out the twelve two by two, with power over unclean spirits: take nothing but a staff, no bread, no bag, no money, wear sandals, one tunic. If a place doesn't receive you, shake off the dust. They preach repentance, drive out many demons, and anoint many sick with oil. Meanwhile King Herod hears of Jesus and says, \"John, whom I beheaded, has risen.\" Mark tells how: Herod had John arrested because John said it was not lawful for him to have his brother's wife, Herodias. Herod feared John, knowing he was righteous and holy, and heard him gladly. On his birthday, Herodias' daughter dances for his guests, and Herod swears to give her up to half his kingdom. At her mother's prompting she asks for the head of John the Baptist on a platter. Herod is distressed but, because of his oaths and his guests, sends an executioner. John's disciples take the body and lay it in a tomb. The apostles return and report. Jesus says, \"Come away by yourselves to a deserted place and rest,\" but the crowds run ahead. Seeing them as sheep without a shepherd, he has compassion and teaches them at length. That evening he tells the disciples, \"You give them something to eat.\" With five loaves and two fish he has them sit in groups on the green grass, blesses, breaks, and gives; all eat and are filled, and they gather twelve baskets of broken pieces. Five thousand men are fed. He sends the disciples ahead by boat and goes up the mountain to pray. In the fourth watch of the night he sees them straining at the oars and comes to them walking on the sea, and \"he would have passed by them.\" They think it is a ghost. He says, \"Cheer up! It is I! Don't be afraid,\" and gets into the boat; the wind ceases. They are astonished, for \"they hadn't understood about the loaves, but their hearts were hardened.\" At Gennesaret people bring the sick to touch even the fringe of his cloak.",
+  "whySettingMatters": "\"Carpenter\" translates tekton, a builder who worked in wood or stone. Calling him \"son of Mary,\" not of Joseph, was unusual in a society that named people by their fathers, and may be a quiet insult or may mean Joseph had died; it is debated. The brothers and sisters are named: whether they are full siblings, half siblings, or cousins has been debated since early Christianity. The instruction to take only a staff and sandals fits a hurried, light mission, and shaking off the dust is often said to echo what Jews did on leaving Gentile land, a way of saying a place has no part in God's people. The Herod here is Herod Antipas, a son of Herod the Great, who ruled Galilee and Perea as tetrarch (Mark calls him \"king\"). Josephus also writes about John's death, placing it at the fortress of Machaerus east of the Dead Sea. The feast with green grass in the wilderness, with people sitting in groups, recalls Israel fed with manna and Psalm 23. A Roman night was divided into four watches; the fourth is roughly 3 to 6 a.m. \"He would have passed by them\" echoes the way God \"passes by\" Moses and Elijah in Exodus 33 and 1 Kings 19. \"It is I\" can also be read, \"I am.\"",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Rejected at home, then feeds the crowd and walks on the sea."
+    },
+    {
+      "id": "jesus-family",
+      "note": "Named by the people of Nazareth."
+    },
+    {
+      "id": "the-twelve",
+      "note": "Sent out two by two, then astonished at the lake."
+    },
+    {
+      "id": "herod-antipas",
+      "note": "Hears of Jesus and is afraid it is John risen."
+    },
+    {
+      "id": "herodias",
+      "note": "Has a grudge against John for condemning her marriage."
+    },
+    {
+      "id": "herodias-daughter",
+      "note": "Dances at the banquet and asks for John's head."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Killed in prison; his body is buried by his disciples."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Followed Jesus around the lake and were fed."
+    }
+  ],
+  "questions": [
+    "The people of Nazareth knew Jesus too well to see what he was. Where might we do the same with people or with Scripture?",
+    "Herod \"heard him gladly\" and still killed John. What does Mark seem to be saying about how a person can listen and still not follow?",
+    "\"You give them something to eat.\" What is Jesus asking of the disciples there?",
+    "Mark says their hearts were hardened because they hadn't understood about the loaves. What was the connection they should have made?"
+  ],
+  "words": [
+    {
+      "id": "splanchnizomai",
+      "note": "He has compassion on the crowd, who are like sheep without a shepherd (6:34)."
+    },
+    {
+      "id": "artos",
+      "note": "Five loaves feed five thousand (6:38-44); the disciples were told to take no bread (6:8); they \"hadn't understood about the loaves\" (6:52)."
+    },
+    {
+      "id": "exousia",
+      "note": "He gives the twelve authority over unclean spirits (6:7)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Numbers 27:17",
+      "note": "\"like sheep which have no shepherd\""
+    },
+    {
+      "ref": "2 Kings 4:42-44",
+      "note": "Elisha feeds a hundred with twenty loaves"
+    },
+    {
+      "ref": "Job 9:8",
+      "note": "God alone \"treads on the waves of the sea\""
+    },
+    {
+      "ref": "Luke 4:16-30",
+      "note": "the rejection at Nazareth in Luke"
+    },
+    {
+      "ref": "John 4:44",
+      "note": "\"A prophet has no honor in his own country\""
+    }
+  ],
+  "number": 6,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

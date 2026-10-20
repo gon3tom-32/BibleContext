@@ -1,0 +1,563 @@
+{
+  "osis": "Mark",
+  "stepBook": "Mrk",
+  "webFile": "mark.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9"
+    },
+    {
+      "id": "galilee",
+      "ancientId": "a9cf1e8"
+    },
+    {
+      "id": "sea-of-galilee",
+      "ancientId": "a562fcc"
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "decapolis",
+      "ancientId": "ae733a2"
+    },
+    {
+      "id": "idumea",
+      "ancientId": "a2517a0",
+      "map": "none"
+    },
+    {
+      "id": "phoenicia",
+      "ancientId": "a33d53e",
+      "map": "none"
+    },
+    {
+      "id": "capernaum",
+      "ancientId": "af2161c"
+    },
+    {
+      "id": "nazareth",
+      "ancientId": "af5884f"
+    },
+    {
+      "id": "gerasa",
+      "ancientId": "ada6b64",
+      "map": "none"
+    },
+    {
+      "id": "gennesaret",
+      "ancientId": "a7de69e",
+      "map": "none"
+    },
+    {
+      "id": "dalmanutha",
+      "ancientId": "ae8d09d"
+    },
+    {
+      "id": "bethsaida",
+      "ancientId": "a9fc13a"
+    },
+    {
+      "id": "tyre",
+      "ancientId": "a160272"
+    },
+    {
+      "id": "sidon",
+      "ancientId": "a98e4d7"
+    },
+    {
+      "id": "caesarea-philippi",
+      "ancientId": "ab7bf48"
+    },
+    {
+      "id": "jericho",
+      "ancientId": "aaf03fa"
+    },
+    {
+      "id": "bethphage",
+      "ancientId": "abff59d"
+    },
+    {
+      "id": "bethany",
+      "ancientId": "a4f35bc"
+    },
+    {
+      "id": "mount-of-olives",
+      "ancientId": "ac2c4c5"
+    },
+    {
+      "id": "gethsemane",
+      "ancientId": "a42418f"
+    },
+    {
+      "id": "golgotha",
+      "ancientId": "a631d35"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
+    },
+    {
+      "id": "arimathea",
+      "ancientId": "af3d9fc"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "john-baptist",
+      "theographic": "john_1676"
+    },
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "andrew",
+      "theographic": "andrew_264"
+    },
+    {
+      "id": "james-zebedee",
+      "theographic": "james_717"
+    },
+    {
+      "id": "john-apostle",
+      "theographic": "john_1677"
+    },
+    {
+      "id": "peters-mother-in-law",
+      "theographic": "mother_of_the_wife_of_simon_2111"
+    },
+    {
+      "id": "david",
+      "theographic": "david_994"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "jairus",
+      "theographic": "jairus_711"
+    },
+    {
+      "id": "herod-antipas",
+      "theographic": "herod_1505"
+    },
+    {
+      "id": "herodias",
+      "theographic": "herodias_1507"
+    },
+    {
+      "id": "herodias-daughter",
+      "theographic": "daughter_of_herodias_983"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "bartimaeus",
+      "theographic": "bartimaeus_406"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "salome",
+      "theographic": "salome_2464"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
+    }
+  ],
+  "words": [
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "Mark 1:1"
+    },
+    {
+      "id": "euthys",
+      "strongs": [
+        "G2112"
+      ],
+      "foundAt": "Mark 1:10"
+    },
+    {
+      "id": "eremos",
+      "strongs": [
+        "G2048"
+      ],
+      "foundAt": "Mark 1:3"
+    },
+    {
+      "id": "epitimao",
+      "strongs": [
+        "G2008"
+      ],
+      "foundAt": "Mark 1:25"
+    },
+    {
+      "id": "akathartos",
+      "strongs": [
+        "G0169"
+      ],
+      "foundAt": "Mark 1:23"
+    },
+    {
+      "id": "hamartolos",
+      "strongs": [
+        "G0268"
+      ],
+      "foundAt": "Mark 2:15"
+    },
+    {
+      "id": "blasphemeo",
+      "strongs": [
+        "G0987"
+      ],
+      "foundAt": "Mark 2:7"
+    },
+    {
+      "id": "phobeo",
+      "strongs": [
+        "G5399"
+      ],
+      "foundAt": "Mark 4:41"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Mark 1:15"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Mark 1:15"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Mark 1:22"
+    },
+    {
+      "id": "sabbaton",
+      "strongs": [
+        "G4521"
+      ],
+      "foundAt": "Mark 1:21"
+    },
+    {
+      "id": "parabole",
+      "strongs": [
+        "G3850"
+      ],
+      "foundAt": "Mark 4:2"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "Mark 4:11"
+    },
+    {
+      "id": "legion",
+      "strongs": [
+        "G3003"
+      ],
+      "foundAt": "Mark 5:9"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Mark 5:23"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Mark 5:34"
+    },
+    {
+      "id": "splanchnizomai",
+      "strongs": [
+        "G4697"
+      ],
+      "foundAt": "Mark 6:34"
+    },
+    {
+      "id": "artos",
+      "strongs": [
+        "G0740"
+      ],
+      "foundAt": "Mark 6:38"
+    },
+    {
+      "id": "koinos",
+      "strongs": [
+        "G2839G",
+        "G2839H"
+      ],
+      "foundAt": "Mark 7:2"
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "foundAt": "Mark 7:3"
+    },
+    {
+      "id": "ephphatha",
+      "strongs": [
+        "G2188"
+      ],
+      "foundAt": "Mark 7:34"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Mark 8:34"
+    },
+    {
+      "id": "apistia",
+      "strongs": [
+        "G0570"
+      ],
+      "foundAt": "Mark 9:24"
+    },
+    {
+      "id": "skandalizo",
+      "strongs": [
+        "G4624"
+      ],
+      "foundAt": "Mark 9:42"
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "foundAt": "Mark 9:43"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "Mark 9:2"
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "foundAt": "Mark 10:45"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Mark 10:45"
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "foundAt": "Mark 10:51"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "Mark 11:9"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "Mark 11:17"
+    },
+    {
+      "id": "kensos",
+      "strongs": [
+        "G2778"
+      ],
+      "foundAt": "Mark 12:14"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Mark 12:30"
+    },
+    {
+      "id": "lepton",
+      "strongs": [
+        "G3016"
+      ],
+      "foundAt": "Mark 12:42"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Mark 13:34"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Mark 13:19"
+    },
+    {
+      "id": "bdelygma",
+      "strongs": [
+        "G0946"
+      ],
+      "foundAt": "Mark 13:14"
+    },
+    {
+      "id": "eklektos",
+      "strongs": [
+        "G1588"
+      ],
+      "foundAt": "Mark 13:20"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Mark 14:1"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Mark 14:24"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Mark 14:10"
+    },
+    {
+      "id": "abba",
+      "strongs": [
+        "G0005"
+      ],
+      "foundAt": "Mark 14:36"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Mark 14:55"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Mark 15:13"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Mark 15:38"
+    },
+    {
+      "id": "kentyrion",
+      "strongs": [
+        "G2760"
+      ],
+      "foundAt": "Mark 15:39"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Mark 16:6"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean, the Dead Sea, and Samaria aren't central to Mark's story; they're pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Mark's \"country of the Gerasenes\" (5:1) is debated; OpenBible places Gerasa far inland, so the east-shore stop is illustrative."
+    }
+  ]
+}

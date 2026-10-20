@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "Arguments about clean and unclean, then Gentile territory and a deaf man",
+  "summary": "Pharisees and scribes from Jerusalem notice that some of the disciples eat with unwashed hands. Mark explains that the Pharisees and all the Jews do not eat unless they wash their hands carefully, holding to \"the tradition of the elders,\" and that they also wash cups, pots, and bronze vessels. They ask Jesus why his disciples don't follow it. He answers with Isaiah: \"This people honors me with their lips, but their heart is far from me,\" and says they set aside the commandment of God to hold the tradition of men. His example is Corban: someone says that what might have supported his parents is \"given to God,\" and so is excused from helping them, which makes void the word of God. Calling the crowd, he says, \"There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man.\" In the house the disciples ask what he means, and he asks, \"Are you also without understanding?\" Food goes into the stomach and out, and so, Mark adds, \"he declared all foods clean.\" What defiles is what comes out of the heart: evil thoughts, sexual sin, theft, murder, adultery, greed, deceit, envy, pride, foolishness. Jesus then goes to the region of Tyre and enters a house, wanting to be unnoticed. A Greek woman, a Syrophoenician by birth, whose little daughter has an unclean spirit, comes and falls at his feet. He says, \"Let the children be fed first, for it is not appropriate to take the children's bread and throw it to the dogs.\" She answers, \"Yes, Lord, but even the dogs under the table eat the children's crumbs.\" He says, \"For this saying, go your way; the demon has gone out of your daughter,\" and she finds the child lying on the bed, the demon gone. Then he travels through Sidon to the Sea of Galilee within the Decapolis, where people bring a deaf man with a speech impediment. Jesus takes him aside, puts his fingers in his ears, spits and touches his tongue, looks up to heaven, sighs, and says, \"Ephphatha,\" \"Be opened.\" The man hears and speaks plainly. Jesus orders silence, but the more he does, the more they proclaim it: \"He has done all things well. He makes even the deaf hear, and the mute speak.\"",
+  "whySettingMatters": "The \"tradition of the elders\" is the body of oral teaching, later gathered in the Mishnah, that tried to apply the Torah's rules about purity to everyday life; the Pharisees were especially committed to it. The Torah itself required handwashing only for priests (Exodus 30:17-21), so this was an extension. Mark explains it for readers who didn't know, which suggests a mostly Gentile audience. \"Corban\" is an Aramaic or Hebrew word for a gift dedicated to God; a vow of this kind could keep property from being used for others, even needy parents, which cut against the commandment to honor father and mother. Mark's remark that Jesus \"declared all foods clean\" would have been striking for Jews who kept Leviticus 11 and for the early church's later arguments (see Acts 10 and Romans 14). Tyre and Sidon are Phoenician coastal cities, Gentile territory; Tyre was prosperous and grain from Galilee fed it, so the woman's Gentile family had ties to Jewish farmland. \"Dogs\" here is a diminutive, often taken as household dogs, but a hard saying, and how to read Jesus' tone is debated. The woman speaks as an equal and wins her point. The deaf man is in the Decapolis, again Gentile territory; the details of touch and spit and Aramaic \"Ephphatha\" are some of the most physical in Mark. \"He makes even the deaf hear\" echoes Isaiah 35:5-6.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches that what defiles comes from the heart, and goes into Gentile territory."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees and scribes who came from Jerusalem to question him."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Ask him what the saying means."
+    },
+    {
+      "id": "the-syrophoenician-woman",
+      "note": "A Greek woman from Tyre who asks for her daughter's healing."
+    },
+    {
+      "id": "the-deaf-man",
+      "note": "Brought by friends; healed and given speech."
+    }
+  ],
+  "questions": [
+    "Jesus says the tradition of men has been put in place of God's commandment. How can a good practice drift into that?",
+    "Mark states, \"he declared all foods clean,\" as an aside. Why might he have wanted readers to notice that?",
+    "The Syrophoenician woman answers Jesus and he praises her answer. What makes it a good one?",
+    "Jesus takes the deaf man aside from the crowd. Why might he heal in private, and in a physical way?"
+  ],
+  "words": [
+    {
+      "id": "paradosis",
+      "note": "\"The tradition of the elders\" and \"the tradition of men\" versus the word of God (7:3-13)."
+    },
+    {
+      "id": "koinos",
+      "note": "Hands called \"common,\" meaning unwashed and thus unclean (7:2, 7:5)."
+    },
+    {
+      "id": "ephphatha",
+      "note": "The one Aramaic word Mark quotes in this chapter (7:34)."
+    },
+    {
+      "id": "artos",
+      "note": "\"Bread\" with unwashed hands (7:2, 7:5) and \"the children's bread\" given to the dogs (7:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 29:13",
+      "note": "\"This people draw near with their mouth\""
+    },
+    {
+      "ref": "Exodus 20:12",
+      "note": "honor your father and mother"
+    },
+    {
+      "ref": "Leviticus 11:1-47",
+      "note": "the food laws"
+    },
+    {
+      "ref": "1 Kings 17:8-24",
+      "note": "Elijah helps a widow near Sidon"
+    },
+    {
+      "ref": "Isaiah 35:5-6",
+      "note": "the ears of the deaf unstopped"
+    }
+  ],
+  "number": 7,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

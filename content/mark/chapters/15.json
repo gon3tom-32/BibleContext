@@ -1,0 +1,114 @@
+{
+  "sceneHappening": "Before Pilate, and the cross",
+  "summary": "Early in the morning the chief priests with the elders and scribes bind Jesus and hand him over to Pilate, who asks, \"Are you the King of the Jews?\" He answers, \"So you say,\" and to the many accusations he answers nothing, so that Pilate marvels. At the feast it was customary to release a prisoner, and a man named Barabbas is in prison with rebels who had committed murder in the insurrection. The crowd asks for the usual release. Pilate says, \"Do you want me to release for you the King of the Jews?\" for he knows the priests had handed him over out of envy. But the chief priests stir up the crowd to ask for Barabbas instead. \"What then shall I do to him whom you call the King of the Jews?\" \"Crucify him!\" \"Why, what evil has he done?\" They shout more, \"Crucify him!\" Wishing to satisfy the crowd, Pilate releases Barabbas, has Jesus flogged, and hands him over to be crucified. The soldiers in the courtyard of the palace dress him in purple, twist a crown of thorns, and salute him, \"Hail, King of the Jews!\" striking his head with a reed and spitting on him. They compel a passer-by, Simon of Cyrene, the father of Alexander and Rufus, to carry the cross. At Golgotha, \"the place of a skull,\" they offer wine mixed with myrrh, which he does not take. They crucify him at the third hour, divide his clothes by lot, and put up the charge, \"The King of the Jews.\" Two robbers are crucified with him. Passers-by shake their heads and mock, and the chief priests say, \"He saved others. He can't save himself. Let the Christ, the King of Israel, now come down from the cross, that we may see and believe.\" From the sixth hour darkness comes over the whole land until the ninth hour, when Jesus cries, \"Eloi, Eloi, lama sabachthani?\" which means, \"My God, my God, why have you forsaken me?\" Some think he is calling Elijah. Someone gives him sour wine on a sponge. Jesus lets out a loud cry and breathes his last. The curtain of the temple is torn in two from top to bottom. The centurion, seeing how he died, says, \"Truly this man was the Son of God.\" Women who had followed him from Galilee are watching from a distance: Mary Magdalene, Mary the mother of James the less and of Joses, and Salome. Since it is the day of preparation before the Sabbath, Joseph of Arimathea, a respected member of the council who is himself waiting for the kingdom of God, boldly asks Pilate for the body. Pilate wonders that he is already dead, checks with the centurion, and grants it. Joseph wraps the body in a linen cloth, lays it in a tomb cut out of rock, and rolls a stone against the door. The two Marys see where he is laid.",
+  "whySettingMatters": "Pilate was Roman prefect of Judea from about AD 26 to 36 and usually lived at Caesarea on the coast, coming to Jerusalem at festivals to keep order. Only the Romans could carry out a death sentence, which is why the Sanhedrin brought Jesus to him. The charge \"King of the Jews\" is political, and it is the one that appears on the inscription. Crucifixion was a Roman punishment for slaves and rebels, designed to be as public and shameful as possible. Roman records don't mention the custom of releasing a prisoner at Passover, so what lay behind it isn't known. \"Barabbas\" means \"son of the father\" in Aramaic. The wine mixed with myrrh was a mild painkiller, and Jesus refuses it. Mark records the hours: the third hour is about 9 a.m., the sixth noon, the ninth 3 p.m. Jesus' cry is the opening of Psalm 22, in Aramaic, and the psalm moves from abandonment to trust. The curtain that was torn was probably the one before the Holy of Holies (or possibly the outer one). It is tied by Mark to the word \"torn,\" the same verb as at Jesus' baptism (1:10), and the centurion's \"Son of God\" answers the opening line of the book. Joseph's request mattered: Jewish law said a hanged man must be buried before nightfall (Deuteronomy 21:22-23), while Roman crucified bodies were often left unburied. The women, who stay at the cross when the men have fled, are the witnesses who connect the death, burial, and empty tomb.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Silent before Pilate, mocked, crucified."
+    },
+    {
+      "id": "pilate",
+      "note": "The Roman governor who knows it is envy and gives in to the crowd."
+    },
+    {
+      "id": "barabbas",
+      "note": "A prisoner who is released in Jesus' place."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Hand him over and stir up the crowd."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Ask for Barabbas and shout \"Crucify him!\""
+    },
+    {
+      "id": "the-soldiers",
+      "note": "Mock him as a king."
+    },
+    {
+      "id": "simon-of-cyrene",
+      "note": "Made to carry the cross; Mark names his sons."
+    },
+    {
+      "id": "the-centurion",
+      "note": "Sees how he died and calls him the Son of God."
+    },
+    {
+      "id": "mary-magdalene",
+      "note": "Watches from a distance and sees where he is laid."
+    },
+    {
+      "id": "salome",
+      "note": "One of the women watching."
+    },
+    {
+      "id": "mary-mother-of-james",
+      "note": "One of the women watching."
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "note": "A member of the council who asks for the body."
+    }
+  ],
+  "questions": [
+    "Jesus answers almost nothing before Pilate. What is Mark showing us by his silence?",
+    "The mockers say, \"Let him come down from the cross, that we may see and believe.\" What do they misunderstand about who he is?",
+    "The centurion says, \"Truly this man was the Son of God\" at the moment of Jesus' death. Why is that the place Mark puts it?",
+    "The women stay when the disciples have fled. What does their presence mean for the story to come?"
+  ],
+  "words": [
+    {
+      "id": "stauroo",
+      "note": "\"Crucify him!\" (15:13-14, 15:20, 15:24-27)."
+    },
+    {
+      "id": "katapetasma",
+      "note": "The curtain torn from top to bottom (15:38)."
+    },
+    {
+      "id": "kentyrion",
+      "note": "The centurion, a Latin loan word (15:39, 15:44-45)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "Handed over to Pilate (15:1, 15:10, 15:15)."
+    },
+    {
+      "id": "sanhedrion",
+      "note": "The council hands him over (15:1)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 22:1",
+      "note": "\"My God, my God, why have you forsaken me?\""
+    },
+    {
+      "ref": "Psalm 22:18",
+      "note": "they divide my garments"
+    },
+    {
+      "ref": "Isaiah 53:7",
+      "note": "silent as a sheep before its shearers"
+    },
+    {
+      "ref": "Amos 8:9",
+      "note": "the sun goes down at noon"
+    },
+    {
+      "ref": "Psalm 69:21",
+      "note": "in my thirst they gave me vinegar"
+    },
+    {
+      "ref": "Deuteronomy 21:22-23",
+      "note": "a hanged man must be buried before night"
+    }
+  ],
+  "number": 15,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

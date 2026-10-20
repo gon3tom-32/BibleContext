@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Entering Jerusalem, the fig tree, and the temple",
+  "summary": "As they approach Jerusalem, at Bethphage and Bethany near the Mount of Olives, Jesus sends two disciples to a village for a colt on which no one has sat. If asked, they are to say, \"The Lord needs it.\" They find it as he said, put their cloaks on it, and he sits on it. Many spread cloaks on the road, and others spread leafy branches, shouting, \"Hosanna! Blessed is he who comes in the name of the Lord! Blessed is the kingdom of our father David that comes in the name of the Lord! Hosanna in the highest!\" He enters Jerusalem and goes into the temple, looks around at everything, and, since it is already late, goes out to Bethany with the twelve. The next day, hungry, he sees a fig tree in leaf and goes to see if it has fruit; it has only leaves, \"for it was not the season for figs.\" He says, \"May no one ever eat fruit from you again,\" and the disciples hear it. In the temple he begins to drive out those who sell and buy, overturns the tables of the money changers and the seats of those selling doves, and does not allow anyone to carry a vessel through the temple. He teaches: \"Isn't it written, 'My house will be called a house of prayer for all the nations'? But you have made it a den of robbers.\" The chief priests and scribes hear and seek how to destroy him, for they fear him, since the crowd is astonished at his teaching. At evening they go out of the city. In the morning, passing the fig tree, they see it withered from the roots. Peter says, \"Rabbi, look! The fig tree which you cursed has withered away.\" Jesus says, \"Have faith in God. For most certainly I tell you, whoever may tell this mountain, 'Be taken up and cast into the sea,' and doesn't doubt in his heart, but believes that what he says is happening; he shall have whatever he says.\" He adds that when they stand praying they should forgive anyone they have anything against, so that their Father in heaven may forgive them. Back in the temple the chief priests, scribes, and elders ask, \"By what authority do you do these things?\" He asks them a question: \"Was the baptism of John from heaven or from men?\" They reason that if they say from heaven he will say why didn't they believe him, and if from men they fear the people. They say, \"We don't know.\" He says, \"Neither will I tell you by what authority I do these things.\"",
+  "whySettingMatters": "The Mount of Olives, east of Jerusalem across the Kidron valley, was tied in Jewish hope to the arrival of the Lord (Zechariah 14:4). A colt that no one had ridden suits a sacred purpose (compare Numbers 19:2), and a king riding a donkey, not a war horse, echoes Zechariah 9:9, though Mark doesn't quote it. \"Hosanna\" is a Hebrew cry meaning \"save, please,\" from Psalm 118:25-26, which pilgrims used at the festivals. Mark's \"kingdom of our father David\" is the crowd's own phrase. Mark stacks the fig tree around the temple scene: he tells one story, goes into another, and finishes the first, a way of making the two interpret each other. The remark that it was \"not the season for figs\" is puzzling and is explained in different ways; the withered fig tree is widely read as a sign of judgment on a temple that was not producing fruit. The sellers and money changers served pilgrims (animals for sacrifice, temple-tax coins) in the outer court, the Court of the Gentiles, which was meant for all nations to pray. \"Den of robbers\" quotes Jeremiah 7:11, where Jeremiah condemned people who trusted in the temple while doing injustice. The \"mountain\" to be thrown into the sea may mean the temple mount, but this is debated. The authority question comes from the three groups that made up the Sanhedrin.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Enters Jerusalem on a colt, goes into the temple, and curses the fig tree."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Spread cloaks and branches and shout from Psalm 118."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Fetch the colt, hear him curse the fig tree, and see it withered."
+    },
+    {
+      "id": "peter",
+      "note": "Notices the withered tree."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Hear him and look for a way to destroy him."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Scribes and elders who ask by what authority he acts."
+    },
+    {
+      "id": "john-baptist",
+      "note": "His baptism is the trap in Jesus' counter-question."
+    }
+  ],
+  "questions": [
+    "The crowd shouts about \"the kingdom of our father David,\" and Jesus rides a colt. What kind of kingdom is being shown?",
+    "Mark wraps the temple scene in a fig tree story. What might the one say about the other?",
+    "Jesus quotes both Isaiah (\"for all the nations\") and Jeremiah (\"den of robbers\"). What is he accusing the temple of?",
+    "Why do the leaders refuse to answer about John? What does that reveal?"
+  ],
+  "words": [
+    {
+      "id": "hosanna",
+      "note": "The crowd cries \"Hosanna!\" (11:9-10)."
+    },
+    {
+      "id": "lestes",
+      "note": "\"A den of robbers\" (11:17)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"By what authority do you do these things?\" (11:28-33)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Have faith in God\" (11:22)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Zechariah 9:9",
+      "note": "the king comes on a donkey"
+    },
+    {
+      "ref": "Psalm 118:25-26",
+      "note": "\"Blessed is he who comes in the name of the Lord\""
+    },
+    {
+      "ref": "Isaiah 56:7",
+      "note": "\"a house of prayer for all peoples\""
+    },
+    {
+      "ref": "Jeremiah 7:11",
+      "note": "\"a den of robbers\""
+    },
+    {
+      "ref": "Zechariah 14:4",
+      "note": "the Lord's feet on the Mount of Olives"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "Back in Capernaum: four conflicts that begin the opposition",
+  "summary": "When Jesus returns to Capernaum, so many gather at the house that there is no room even at the door. Four men carry a paralyzed man to him, and because they can't get through the crowd, they dig through the roof and lower him on his mat. Seeing their faith, Jesus says, \"Son, your sins are forgiven.\" Some scribes think to themselves, \"Why does this man speak blasphemies like this? Who can forgive sins but God alone?\" Jesus knows what they are thinking and asks which is easier, to say \"Your sins are forgiven\" or \"Get up, take your mat, and walk.\" \"But that you may know that the Son of Man has authority on earth to forgive sins,\" he tells the man to get up, and the man walks out in front of everyone. They are amazed: \"We never saw anything like this.\" By the sea, Jesus sees Levi the son of Alphaeus sitting at the tax booth and says, \"Follow me\"; Levi gets up and follows. Later many tax collectors and sinners are eating at table with Jesus and his disciples, and the scribes of the Pharisees ask the disciples why he eats with them. Jesus answers, \"Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance.\" When people ask why John's disciples and the Pharisees fast but his disciples do not, he says that wedding guests can't fast while the bridegroom is with them, though days will come when the bridegroom is taken away. No one sews new cloth on an old garment or puts new wine into old wineskins. On a Sabbath, as they pass through grain fields, his disciples begin picking heads of grain, and the Pharisees say it isn't lawful. Jesus reminds them what David did when he and his companions were hungry, entering the house of God \"when Abiathar was high priest\" and eating the consecrated bread, and says, \"The Sabbath was made for man, not man for the Sabbath. Therefore the Son of Man is lord even of the Sabbath.\"",
+  "whySettingMatters": "Capernaum houses often had flat roofs made of beams, branches, and packed clay, usually reached by an outside stair, which is how four men could dig through one. The scribes' charge of blasphemy rests on the idea that only God forgives sins. Levi is usually taken to be the same man the other Gospels call Matthew, though Mark doesn't say so. Tax collectors worked for Herod Antipas on trade routes and were seen as collaborators, and \"sinners\" here means people thought to live outside faithful observance, so sharing a meal with them signaled acceptance. Fasting was a regular devotion, and a wedding was a week of celebration when fasting would be out of place. Wineskins were animal hides that stretched as new wine fermented; old ones were brittle. Picking grain by hand from a field was allowed (Deuteronomy 23:25), so the dispute is about doing it on the Sabbath. Mark says Abiathar was high priest when David ate the bread; 1 Samuel 21 names his father Ahimelech, and how to read that detail is debated.",
+  "people": [
+    {
+      "id": "the-paralyzed-man",
+      "note": "Carried by four friends and lowered through a roof."
+    },
+    {
+      "id": "the-four-friends",
+      "note": "Dig through the roof and are credited with faith."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Scribes who object to forgiveness, and Pharisees who object to the meal and the Sabbath."
+    },
+    {
+      "id": "levi",
+      "note": "A tax collector who leaves his booth to follow Jesus."
+    },
+    {
+      "id": "david",
+      "note": "Cited as a precedent for eating the consecrated bread."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Eat with sinners and pick grain on the Sabbath, and are defended by Jesus."
+    }
+  ],
+  "questions": [
+    "The friends dig through a roof to reach Jesus, and he responds to \"their faith.\" What do you notice in that?",
+    "Jesus asks which is easier to say, \"your sins are forgiven\" or \"get up and walk.\" What is he showing?",
+    "Why might a meal with tax collectors and sinners upset people so much?",
+    "\"The Sabbath was made for man, not man for the Sabbath.\" What does Jesus say the Sabbath is for?"
+  ],
+  "words": [
+    {
+      "id": "blasphemeo",
+      "note": "\"Why does this man speak blasphemies like this?\" (2:7)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"Tax collectors and sinners\" (2:15-17)."
+    },
+    {
+      "id": "sabbaton",
+      "note": "The Sabbath controversy over the grain (2:23-28)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"The Son of Man has authority on earth to forgive sins\" (2:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 43:25",
+      "note": "God blots out transgressions for his own sake"
+    },
+    {
+      "ref": "1 Samuel 21:1-6",
+      "note": "David and the consecrated bread"
+    },
+    {
+      "ref": "Deuteronomy 5:14",
+      "note": "the Sabbath rest for everyone in the household"
+    },
+    {
+      "ref": "Isaiah 55:7",
+      "note": "let the wicked return, and God will pardon"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

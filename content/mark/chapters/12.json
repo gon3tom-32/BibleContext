@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "Questions in the temple courts: tenants, taxes, resurrection, and the greatest commandment",
+  "summary": "In the temple Jesus tells a parable: a man plants a vineyard, puts a wall around it, digs a pit for the winepress, builds a tower, and leases it to tenants. At harvest he sends a servant; they beat him and send him away. He sends another, who is wounded in the head, and another, whom they kill, and many others. Last, he sends his beloved son: \"They will respect my son.\" The tenants say, \"This is the heir. Come, let's kill him, and the inheritance will be ours.\" They kill him and throw him out of the vineyard. \"What therefore will the lord of the vineyard do? He will come and destroy the farmers, and will give the vineyard to others.\" He quotes Psalm 118: \"The stone which the builders rejected was made the head of the corner.\" The leaders know it is aimed at them but fear the crowd. They send some Pharisees and Herodians to catch him: \"Is it lawful to pay taxes to Caesar, or not?\" He asks for a denarius: \"Whose is this image and inscription?\" \"Caesar's.\" \"Render to Caesar the things that are Caesar's, and to God the things that are God's.\" They marvel. Sadducees, who say there is no resurrection, pose a case from Moses' law of a woman who married seven brothers in turn: whose wife will she be? Jesus says, \"Isn't this because you don't know the Scriptures, nor the power of God?\" In the resurrection they neither marry nor are given in marriage but are like angels in heaven; and at the burning bush God said, \"I am the God of Abraham, the God of Isaac, and the God of Jacob,\" \"not the God of the dead, but of the living.\" A scribe asks, \"Which commandment is the greatest of all?\" Jesus quotes the Shema, \"The Lord our God, the Lord is one\" and to love God with all heart, soul, mind, and strength, then, \"You shall love your neighbor as yourself.\" The scribe agrees that this is more than all burnt offerings and sacrifices, and Jesus says, \"You are not far from the kingdom of God.\" No one dares ask him more. Jesus then asks how the Christ can be David's son when David, in the Holy Spirit, calls him Lord, and he warns against scribes who love long robes and the best seats and \"devour widows' houses.\" Sitting opposite the treasury, he watches rich people put in large sums and a poor widow put in two small coins, worth a quadrans. \"This poor widow gave more than all those who are giving into the treasury, for she gave all that she had.\"",
+  "whySettingMatters": "Isaiah 5:1-7 describes God's vineyard as Israel, so the leaders in the temple would have heard the opening of Jesus' parable as a familiar prophetic charge. The tenants' behavior is exaggerated on purpose; the parable is not about realistic farming. The Pharisees and Herodians were usually opponents, so their joining in shows how much they wanted to trap him: the Pharisees resented Roman taxation, while the Herodians supported the family that ruled under Rome. A denarius of this period carried the emperor Tiberius' image and an inscription calling him son of the divine Augustus; it was about a day's wage. The Sadducees were an aristocratic priestly party, accepting only the written Torah, who denied resurrection and angels (Acts 23:8). Their question uses the levirate law in Deuteronomy 25:5-6. Jesus answers from the Torah itself, Exodus 3:6. The scribe's question about the greatest commandment was a debate among teachers; Jesus joins Deuteronomy 6:4-5 to Leviticus 19:18. The question about Psalm 110:1 goes to the heart of what \"Messiah\" means. Later Jewish sources describe thirteen trumpet-shaped offering chests in the Court of the Women, which is probably where the widow gave. The \"two small coins\" are lepta, the smallest bronze coins in circulation.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches in the temple, answering four challenges and then asking his own."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "The scribes and elders who understand the parable is about them."
+    },
+    {
+      "id": "herodians",
+      "note": "Sent with the Pharisees to ask about taxes."
+    },
+    {
+      "id": "the-sadducees",
+      "note": "Ask about the resurrection."
+    },
+    {
+      "id": "the-scribe",
+      "note": "Asks about the greatest commandment and is told he is not far from the kingdom."
+    },
+    {
+      "id": "david",
+      "note": "Quoted in Jesus' question about the Christ."
+    },
+    {
+      "id": "the-widow",
+      "note": "Gives two coins, everything she has."
+    },
+    {
+      "id": "the-crowds",
+      "note": "\"The common people heard him gladly.\""
+    }
+  ],
+  "questions": [
+    "The leaders understood the parable and still wanted to arrest him. What does that tell you about the difference between understanding and responding?",
+    "\"Render to Caesar ... and to God the things that are God's.\" What bears God's image?",
+    "The scribe is told he is \"not far from the kingdom of God.\" What is he missing, and what has he got right?",
+    "Jesus points out the widow after warning against show. What does he want his disciples to see?"
+  ],
+  "words": [
+    {
+      "id": "agapao",
+      "note": "\"Love the Lord your God\" and \"love your neighbor\" (12:30-33)."
+    },
+    {
+      "id": "kensos",
+      "note": "\"Is it lawful to pay taxes to Caesar?\" (12:14)."
+    },
+    {
+      "id": "lepton",
+      "note": "The widow's two small coins (12:42)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 5:1-7",
+      "note": "the vineyard of the Lord"
+    },
+    {
+      "ref": "Psalm 118:22-23",
+      "note": "the rejected stone"
+    },
+    {
+      "ref": "Deuteronomy 6:4-5",
+      "note": "the Shema"
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "\"The Lord said to my Lord\""
+    },
+    {
+      "ref": "Exodus 3:6",
+      "note": "\"I am the God of your father\""
+    }
+  ],
+  "number": 12,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

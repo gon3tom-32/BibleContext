@@ -1,0 +1,110 @@
+{
+  "sceneHappening": "From the anointing at Bethany to the high priest's courtyard",
+  "summary": "It is two days before the Passover and Unleavened Bread, and the chief priests and scribes are looking for a way to arrest Jesus by stealth, not during the feast. At Bethany, in the house of Simon the leper, a woman breaks an alabaster jar of very costly nard and pours it on Jesus' head. Some are indignant: it could have been sold for more than three hundred denarii and given to the poor. Jesus says, \"Leave her alone. Why do you trouble her? She has done a good work for me. ... She has done what she could. She has anointed my body beforehand for the burying. ... Wherever the gospel is preached in the whole world, what this woman has done will also be spoken of for a memorial of her.\" Judas Iscariot goes to the chief priests to betray him, and they promise to pay him. On the first day of Unleavened Bread, when the Passover lamb is killed, Jesus sends two disciples into the city to meet a man carrying a jar of water and ask for the guest room; they prepare a large furnished upper room. At the meal he says one of the twelve will betray him, one who eats with him, \"It would be better for that man if he had not been born.\" He takes bread, blesses and breaks it: \"Take, eat. This is my body.\" He takes the cup and gives thanks: \"This is my blood of the new covenant, which is poured out for many.\" He will not drink again of the fruit of the vine until the day he drinks it new in the kingdom of God. After singing a hymn they go to the Mount of Olives, where he says, \"You will all be made to stumble,\" and Peter insists, \"Even if all will be made to stumble, yet I will not.\" Jesus says Peter will deny him three times before the rooster crows twice. In Gethsemane he takes Peter, James, and John: \"My soul is exceedingly sorrowful, even to death.\" He falls on the ground and prays, \"Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.\" He finds them asleep three times. Judas arrives with a crowd and kisses him; someone cuts off the ear of the high priest's servant; \"Have you come out as against a robber, with swords and clubs to seize me?\" All the disciples flee, and a young man in a linen cloth runs away naked. Before the council, many testify falsely, and then the high priest asks, \"Are you the Christ, the Son of the Blessed?\" Jesus says, \"I AM. You will see the Son of Man sitting at the right hand of Power, and coming with the clouds of the sky.\" The high priest tears his clothes: \"You have heard the blasphemy.\" They condemn him as worthy of death, spit on him, and strike him. Peter in the courtyard denies him three times, the rooster crows a second time, and he weeps.",
+  "whySettingMatters": "Passover recalls Israel's rescue from Egypt, and it was the greatest pilgrim festival: Jerusalem swelled several times over, which is why the authorities wanted to avoid a public arrest. The meal Jesus shares is a Passover meal (14:12-16), and his words over the bread and the cup reinterpret it. The \"covenant\" language echoes Exodus 24:8, and \"poured out for many\" echoes Isaiah 53:12. Nard was imported from the Himalayas, and three hundred denarii was nearly a year's wage for a laborer. A man carrying water was unusual, since carrying water was usually done by women, which is why he is easy to spot. \"Abba\" is Aramaic for \"Father,\" an intimate word, and Mark keeps the original sound. Gethsemane means \"oil press\" and was an olive grove on the Mount of Olives. The identity of the young man who flees is not given, and some think it is Mark himself. The Sanhedrin met at the high priest's house, and the trial raises legal questions: Jewish sources from later centuries set out rules that this night would seem to break, but how closely those rules were followed in Jesus' day is debated. \"The Son of the Blessed\" avoids using the name of God. \"Sitting at the right hand\" is from Psalm 110:1 and \"coming with the clouds\" is from Daniel 7:13. Peter's three denials, with the rooster crowing twice, fulfill what Jesus said.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Shares the meal, prays alone, and is arrested and condemned."
+    },
+    {
+      "id": "the-woman-at-bethany",
+      "note": "Anoints him before his burial."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Agrees to betray him and leads the arrest."
+    },
+    {
+      "id": "peter",
+      "note": "Promises loyalty, sleeps in the garden, and denies him three times."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "With Peter and John in Gethsemane."
+    },
+    {
+      "id": "john-apostle",
+      "note": "With Peter and James in Gethsemane."
+    },
+    {
+      "id": "the-twelve",
+      "note": "At the table, then scattered."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Look for a way to arrest him, and judge him."
+    },
+    {
+      "id": "the-high-priest",
+      "note": "Asks \"Are you the Christ?\" and tears his clothes."
+    }
+  ],
+  "questions": [
+    "Jesus says the woman \"has done what she could.\" What is he honoring in her, and what are the disciples missing?",
+    "Jesus reshapes the Passover meal around himself. What does he say it now means?",
+    "In Gethsemane he prays, \"Not what I desire, but what you desire.\" What does it mean that he asks, and then yields?",
+    "All the disciples flee, and Peter denies him. How does Mark want us to read their failure?"
+  ],
+  "words": [
+    {
+      "id": "pascha",
+      "note": "The Passover lamb and meal (14:1, 14:12-16)."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"The blood of the covenant\" (14:24)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "Judas \"hands him over\" (14:10-11, 14:18, 14:21, 14:41-44)."
+    },
+    {
+      "id": "abba",
+      "note": "\"Abba, Father\" (14:36)."
+    },
+    {
+      "id": "sanhedrion",
+      "note": "The whole council seeks testimony (14:55)."
+    },
+    {
+      "id": "blasphemeo",
+      "note": "\"You have heard the blasphemy\" (14:64)."
+    },
+    {
+      "id": "skandalizo",
+      "note": "\"You will all stumble\" (14:27-29)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Zechariah 13:7",
+      "note": "strike the shepherd, and the sheep will be scattered"
+    },
+    {
+      "ref": "Psalm 41:9",
+      "note": "the friend who ate my bread lifted his heel against me"
+    },
+    {
+      "ref": "Exodus 24:8",
+      "note": "the blood of the covenant"
+    },
+    {
+      "ref": "Isaiah 53:12",
+      "note": "he poured out his soul to death"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "at the right hand of God"
+    },
+    {
+      "ref": "Daniel 7:13",
+      "note": "coming with the clouds"
+    }
+  ],
+  "number": 14,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
