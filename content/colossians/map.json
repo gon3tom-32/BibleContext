@@ -1,0 +1,91 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "colossae",
+      "title": "The church addressed",
+      "short": "Colossae",
+      "refs": "Colossians 1:2; 4:9",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A small, once prosperous town in the Lycus Valley where Epaphras started the church. Philemon, Onesimus, and Archippus were probably from here."
+    },
+    {
+      "order": 2,
+      "placeId": "laodicea",
+      "title": "The neighbor church",
+      "short": "Laodicea",
+      "refs": "Colossians 2:1; 4:13-16",
+      "chapter": 4,
+      "direction": "out",
+      "text": "A wealthy city a few miles away. Paul asks that his letter be read there and that the Colossians read the letter from Laodicea."
+    },
+    {
+      "order": 3,
+      "placeId": "hierapolis",
+      "title": "The third city",
+      "short": "Hierapolis",
+      "refs": "Colossians 4:13",
+      "chapter": 4,
+      "direction": "out",
+      "text": "A spa town across the valley, where Epaphras also worked hard for the believers."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 28.2,
+      "east": 30.2,
+      "south": 37.0,
+      "north": 38.6
+    },
+    "label": "Map of the Lycus Valley in western Turkey, drawn from real coordinates. Numbered stops mark Colossae, Laodicea, and Hierapolis.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "colossae",
+        "label": "Colossae",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "laodicea",
+        "label": "Laodicea",
+        "labelSide": "left",
+        "offset": [
+          0,
+          10
+        ]
+      },
+      {
+        "order": 3,
+        "at": "hierapolis",
+        "label": "Hierapolis",
+        "labelSide": "left",
+        "offset": [
+          -2,
+          -6
+        ]
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
