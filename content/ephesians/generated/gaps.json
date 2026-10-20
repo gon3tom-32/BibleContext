@@ -1,0 +1,33 @@
+{
+  "_about": "Gaps and problems found while pulling data.",
+  "gaps": [
+    {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Colossae and Rome aren't named in Ephesians. Colossae is shown because Tychicus carried a letter there at the same time (Colossians 4:7-9), and Rome because it is the traditional place of Paul's imprisonment."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

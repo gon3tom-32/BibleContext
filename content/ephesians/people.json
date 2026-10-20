@@ -1,0 +1,32 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, a prisoner for Christ, whose name is on the letter."
+  },
+  {
+    "id": "tychicus",
+    "name": "Tychicus",
+    "note": "A beloved brother and faithful servant who carried the letter and brought news (6:21-22)."
+  },
+  {
+    "id": "the-gentile-believers",
+    "name": "The Gentile believers",
+    "note": "Non-Jews who were once \"far off\" and have been brought near (2:11-13)."
+  },
+  {
+    "id": "the-jewish-believers",
+    "name": "The Jewish believers",
+    "note": "Those who were \"first to hope in Christ\" (1:12), now one body with the Gentiles."
+  },
+  {
+    "id": "the-rulers-and-powers",
+    "name": "The rulers and powers",
+    "note": "The spiritual forces opposed to God that the letter says are under Christ's feet and that believers stand against (1:21; 6:12)."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The Christ, head of the church, in whom God unites all things."
+  }
+]

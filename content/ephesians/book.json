@@ -1,0 +1,45 @@
+{
+  "slug": "ephesians",
+  "title": "Ephesians",
+  "order": 49,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 6,
+  "tagline": "God's plan from before the world began: one new people in Christ, and how to live it out.",
+  "author": "Paul (debated)",
+  "authorNote": "The letter names Paul as its author (1:1; 3:1), and the church has long accepted that. Many modern scholars question it, pointing to the style (very long sentences), vocabulary, and a more developed picture of the church, and suggest it was written by a close follower of Paul, perhaps after his death. Others point out that a secretary or a changed setting can explain the differences. The question is open and the letter claims Paul in any case.",
+  "authorDebated": true,
+  "audience": "Believers in Ephesus, or perhaps a circle of churches in Asia",
+  "audienceNote": "Several of the oldest manuscripts leave out the words \"in Ephesus\" in 1:1, and the letter has no personal greetings, even though Paul spent about three years in Ephesus. Many scholars think it was a circular letter meant for several churches in the region, with Ephesus as one stop; others think \"in Ephesus\" was original. Its readers are mostly Gentiles (2:11; 3:1).",
+  "setting": "Paul in prison, probably in Rome, about AD 60 to 62 (if written by Paul)",
+  "settingNote": "Paul calls himself a prisoner (3:1; 4:1; 6:20) and says Tychicus will deliver the letter and bring news (6:21-22). Rome is the traditional place (Acts 28), but Caesarea or Ephesus have been suggested. The letter has close parallels with Colossians, which was sent at about the same time with Tychicus (Colossians 4:7-9). If the letter was written later by a follower of Paul, the date would be somewhat later.",
+  "genre": "Letter",
+  "genreNote": "A letter that reads like a blend of prayer, praise, and teaching. The first half (chapters 1 to 3) is largely praise and prayer about what God has done in Christ, and the second half (chapters 4 to 6) turns to how to live. It opens with a single long sentence in Greek (1:3-14).",
+  "bigIdea": "Before the world began, God planned to unite everything in Christ; he has made Jew and Gentile one new people, the church, and calls that people to live in unity, love, and holiness, standing firm in his strength.",
+  "themes": [
+    "God's plan and Christ's headship",
+    "Grace, not works",
+    "Jew and Gentile made one",
+    "The church as Christ's body",
+    "Walking worthy and standing firm"
+  ],
+  "mapTitle": "Map: Ephesus, Colossae, and Rome",
+  "mapSummary": "The letter is addressed to believers in and around Ephesus and was carried by Tychicus, who was sent from Paul's prison, traditionally in Rome.",
+  "scene": {
+    "author": "Paul (debated)",
+    "audience": "Believers in Ephesus and nearby churches",
+    "happening": "Paul in prison, probably Rome, about AD 60 to 62"
+  },
+  "overviewPeople": [
+    "paul",
+    "tychicus",
+    "jesus",
+    "the-gentile-believers",
+    "the-jewish-believers",
+    "the-rulers-and-powers"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
