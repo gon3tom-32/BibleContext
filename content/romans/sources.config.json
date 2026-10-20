@@ -59,6 +59,30 @@
     {
       "id": "moses",
       "theographic": "moses_2108"
+    },
+    {
+      "id": "isaac",
+      "theographic": "isaac_616"
+    },
+    {
+      "id": "jacob",
+      "theographic": "israel_682"
+    },
+    {
+      "id": "esau",
+      "theographic": "esau_1216"
+    },
+    {
+      "id": "pharaoh",
+      "theographic": "pharaoh_2331"
+    },
+    {
+      "id": "isaiah",
+      "theographic": "isaiah_617"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
     }
   ],
   "words": [
@@ -364,6 +388,160 @@
         "G0005"
       ],
       "foundAt": "Romans 8:15"
+    },
+    {
+      "id": "latreia",
+      "strongs": [
+        "G2999"
+      ],
+      "foundAt": "Romans 9:4"
+    },
+    {
+      "id": "ekloge",
+      "strongs": [
+        "G1589"
+      ],
+      "foundAt": "Romans 9:11"
+    },
+    {
+      "id": "leimma",
+      "strongs": [
+        "G3005"
+      ],
+      "foundAt": "Romans 11:5"
+    },
+    {
+      "id": "pleroma",
+      "strongs": [
+        "G4138"
+      ],
+      "foundAt": "Romans 11:12"
+    },
+    {
+      "id": "enkentrizo",
+      "strongs": [
+        "G1461"
+      ],
+      "foundAt": "Romans 11:17"
+    },
+    {
+      "id": "homologeo",
+      "strongs": [
+        "G3670"
+      ],
+      "foundAt": "Romans 10:9"
+    },
+    {
+      "id": "kerysso",
+      "strongs": [
+        "G2784"
+      ],
+      "foundAt": "Romans 10:8"
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "foundAt": "Romans 10:8"
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "foundAt": "Romans 10:2"
+    },
+    {
+      "id": "logikos",
+      "strongs": [
+        "G3050"
+      ],
+      "foundAt": "Romans 12:1"
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "foundAt": "Romans 12:2"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "Romans 12:9"
+    },
+    {
+      "id": "philoxenia",
+      "strongs": [
+        "G5381"
+      ],
+      "foundAt": "Romans 12:13"
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "foundAt": "Romans 9:15"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "Romans 9:33"
+    },
+    {
+      "id": "telos",
+      "strongs": [
+        "G5056"
+      ],
+      "foundAt": "Romans 10:4"
+    },
+    {
+      "id": "epikaleo",
+      "strongs": [
+        "G1941"
+      ],
+      "foundAt": "Romans 10:12"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "Romans 10:15"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Romans 10:9"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "Romans 11:25"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "Romans 12:2"
+    },
+    {
+      "id": "nikao",
+      "strongs": [
+        "G3528"
+      ],
+      "foundAt": "Romans 12:21"
     }
   ],
   "crossRefs": {
@@ -381,7 +559,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 9 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 13 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

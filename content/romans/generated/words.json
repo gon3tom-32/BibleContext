@@ -3074,6 +3074,1333 @@
         "fetched": "2026-10-19",
         "item": "G0005"
       }
+    },
+    {
+      "id": "latreia",
+      "strongs": [
+        "G2999"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2999",
+          "original": "λατρεία",
+          "transliteration": "latreia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "ministry",
+          "meaning": "λατρεία, -ας, ἡ\n(λατρεύω, which see), [in LXX (always of divine service): Exo.12:25-26 13:5, Jos.22:27, 1Ch.28:13 (עֲבֹדָה), 1Ma.1:43 1Mac 2:19 1Mac 2:22, 3Ma.4:14 * ;]\n1. hired service, service.\n2. (in cl. also) divine service, worship: Jhn.16:2, Rom.9:4 12:1, Heb.9:1, 6.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λατρεία",
+          "translit": "latreia",
+          "gloss": "ministry"
+        },
+        {
+          "original": "λατρείαν",
+          "translit": "latreian",
+          "gloss": "ministry"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 9:4",
+        "Romans 12:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "John 16:2",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 9:1",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 9:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2999"
+      }
+    },
+    {
+      "id": "ekloge",
+      "strongs": [
+        "G1589"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1589",
+          "original": "ἐκλογή",
+          "transliteration": "eklogē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "selecting",
+          "meaning": "ἐκλογή, ῆς ἡ\n(ἐκλέγω), [in Aq.: Isa.22:7; Sm., Th.: Isa.37:24 * ;]\na choice, selection; in NT, always of the Divine choice (EV, election): σκεῦος ἐκλογῆς, genitive qual., a chosen vessel; κατ ἐ., Rom.9:11 11:5, 28; with genitive of person(s), 1Th.1:4, 2Pe.1:10; by meton., ἡ ἐ. = οἱ ἐκλεκτοί, Rom.11:7.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐκλογὴν",
+          "translit": "eklogēn",
+          "gloss": "selecting"
+        },
+        {
+          "original": "ἐκλογὴ",
+          "translit": "eklogē",
+          "gloss": "selecting"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 9:11",
+        "Romans 11:5",
+        "Romans 11:7",
+        "Romans 11:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 9:15",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 1:4",
+          "found": true
+        },
+        {
+          "ref": "2 Peter 1:10",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1589"
+      }
+    },
+    {
+      "id": "leimma",
+      "strongs": [
+        "G3005"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3005",
+          "original": "λεῖμμα",
+          "transliteration": "leimma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "remnant",
+          "meaning": "λεῖμμα (WH, λίμμα, see their App., 154), -τος, τό\n(λείπω), [in LXX: 4Ki.19:4 A (שְׁאֵרִית)* ;]\na remnant: Rom.11:5.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λεῖμμα",
+          "translit": "leimma",
+          "gloss": "remnant"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 11:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3005"
+      }
+    },
+    {
+      "id": "pleroma",
+      "strongs": [
+        "G4138"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4138",
+          "original": "πλήρωμα",
+          "transliteration": "plērōma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "fulfillment",
+          "meaning": "πλήρωμα, -τος, τό\n(πληρόω), [in LXX for מְלֹא ;]\nthe result of the action involved in πληρόω (Lft., Col., 255 if.; AR, Eph., 255 ff.), hence,\n1. in passive sense, that which has been completed, complement, plenitude, fullness (in Xen., Luc., Polyb., al., of a ship's crew or cargo, and by meton. of the ship itself) : Jhn.1:16, Rom.11:12, 25 15:29, 1Co.10:26\" (LXX) Eph.1:23 (AR, 42 ff.) Eph.3:19 (AR. 87 ff.) Eph.4:13, Col.1:19 2:9; of time, Gal.4:4, Eph.1:10; κοφίνων (σφυρίδων) πληρώματα, basketfuls, Mrk.6:43 8:20. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πλήρωμα",
+          "translit": "plērōma",
+          "gloss": "fulfillment"
+        },
+        {
+          "original": "πληρώματι",
+          "translit": "plērōmati",
+          "gloss": "fulfillment"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 11:12",
+        "Romans 11:25",
+        "Romans 13:10",
+        "Romans 15:29"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 18,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:16",
+          "found": true
+        },
+        {
+          "ref": "Mark 6:43",
+          "found": true
+        },
+        {
+          "ref": "John 1:16",
+          "found": true
+        },
+        {
+          "ref": "Galatians 4:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4138"
+      }
+    },
+    {
+      "id": "enkentrizo",
+      "strongs": [
+        "G1461"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1461",
+          "original": "ἐγκεντρίζω",
+          "transliteration": "egkentrizō",
+          "partOfSpeech": "G:V",
+          "gloss": "to ingraft",
+          "meaning": "ἐγκεντρίζω, see: ἐνκ-.\nἐν-κεντρίζω (Rec. ἐγρ-, see: ἐν; κεντρίζω, to graft),\n[in LXX: Wis.16:11 *;]\nto ingraft, graft in. figuratively, with accusative of person(s), Rom.11:17,19,23,24.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐνεκεντρίσθης",
+          "translit": "enekentristhēs",
+          "gloss": "to ingraft"
+        },
+        {
+          "original": "ἐγκεντρισθῶ",
+          "translit": "egkentristhō",
+          "gloss": "to ingraft"
+        },
+        {
+          "original": "ἐγκεντρισθήσονται",
+          "translit": "egkentristhēsontai",
+          "gloss": "to ingraft"
+        },
+        {
+          "original": "ἐγκεντρίσαι",
+          "translit": "egkentrisai",
+          "gloss": "to ingraft"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 11:17",
+        "Romans 11:19",
+        "Romans 11:23",
+        "Romans 11:24"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1461"
+      }
+    },
+    {
+      "id": "homologeo",
+      "strongs": [
+        "G3670"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3670",
+          "original": "ὁμολογέω",
+          "transliteration": "homologeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to confess/profess",
+          "meaning": "ὁμολογέω, -ῶ\n(ὁμόλογος, of one mind: Dan LXX Su 1:60 *), [in LXX: Job.40:9 (14) (יָדָה hi.), Jer.44:25 (נָדַר), al. ;]\n1. to speak the same language (Hdt.).\n2. to agree with (Hdt., Plat., al.).\n3. to agree, confess, acknowledge (Plat., al.) : absol., Jhn.1:20 12:42; pass., Rom.10:10; before ὅτι, ib., Heb.11:13; with accusative of thing(s), Act.23:8, 1Jn.1:9, Rev.3:5; id. with dative of person(s), Act.24:14; with accusative cogn., 1Ti.6:12; with accusative of person(s), 1Jn.2:23 Jn 4:3; id. before pred. accusative (Bl., § 34, 5; 73, 5), Jhn.9:22, Rom.10:9, 1Jn.4:2 Jn 4:15, 2Jn.7; with inf. (M, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὁμολογήσῃς",
+          "translit": "homologēsēs",
+          "gloss": "to confess/profess"
+        },
+        {
+          "original": "ὁμολογεῖται",
+          "translit": "homologeitai",
+          "gloss": "to confess/profess"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 10:9",
+        "Romans 10:10"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 23,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:32",
+          "found": true
+        },
+        {
+          "ref": "John 1:20",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 6:12",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3670"
+      }
+    },
+    {
+      "id": "kerysso",
+      "strongs": [
+        "G2784"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2784",
+          "original": "κηρύσσω",
+          "transliteration": "kērussō",
+          "partOfSpeech": "G:V",
+          "gloss": "to preach",
+          "meaning": "κηρύσσω\n[in LXX chiefly for קָרָא ;]\nto be a herald, to proclaim: Mrk.1:45 7:36, Luk.4:18-19\" (LXX) (but see Field, Notes, 174) Luk.8:39, Rom.2:21, 1Co.9:27, Gal.5:11, al.; in NT, chiefly of the proclamation of the Gospel, to proclaim, preach: τὸ εὐαγέλιον, Mat.4:23 9:35 24:14 26:13, Mrk.1:14 13:10 14:9 16:15, Gal.2:2, Col.1:23, 1Th.2:9; before εἰς, Mrk.1:39 13:10, Luk.4:44, 1Th.2:9; ἵνα, Mrk.6:12; with inf.. Rom.2:21; κ. Χριστόν, Ἰησοῦν, Act.8:5 9:20 19:13, 1Co.1:23 15:12, 2Co.1:19 11:4, Php.1:15; 1Ti.3:16 (cf. προ-κηρύσσω)\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κηρύσσων",
+          "translit": "kērussōn",
+          "gloss": "to preach"
+        },
+        {
+          "original": "κηρύσσομεν",
+          "translit": "kērussomen",
+          "gloss": "to preach"
+        },
+        {
+          "original": "κηρύσσοντος;",
+          "translit": "kērussontos",
+          "gloss": "to preach"
+        },
+        {
+          "original": "κηρύξωσιν",
+          "translit": "kēruxōsin",
+          "gloss": "to preach"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 2:21",
+        "Romans 10:8",
+        "Romans 10:14",
+        "Romans 10:15"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 60,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:17",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:14",
+          "found": true
+        },
+        {
+          "ref": "Acts 8:5",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2784"
+      }
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4487",
+          "original": "ῥῆμα",
+          "transliteration": "rhēma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "declaration",
+          "meaning": "ῥῆμα, -τος, τό\n[in LXX chiefly for דָּבָר, also for פֶּה, and Aram. פִּתְגָּם, etc. ;]\n1. prop., of that which is said or spoken,\n(a) a word: Mat.27:14, 2Co.12:4; pl., τὰ ῥ., of speech, discourse, Luk.7:1, Jhn.8:20, Act.2:14, Rom.10:18, 2Pe.3:2, al.;\n(b) opposite to ὄνομα (a single word), a saying, statement, word of prophecy, instruction or command (in cl., phrase): Mat.26:75, Mrk.9:32, Luk.1:38 2:50, Act.11:16, Rom.10:8, Heb.11:3; ῥ. θεοῦ (κυρίου), Luk.3:2, Act.11:16, Eph.6:17, Heb.6:5 11:3, 1Pe.1:25\" (LXX) ; τὰ ῥ. τ. θεοῦ, Jhn.3:34 8:47; ῥ. ἀργόν, Mat.12:36;ῥ. ἄρρητα, 2Co.12:4. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ῥῆμά",
+          "translit": "rhēma",
+          "gloss": "declaration"
+        },
+        {
+          "original": "ῥῆμα",
+          "translit": "rhēma",
+          "gloss": "declaration"
+        },
+        {
+          "original": "ῥήματος",
+          "translit": "rhēmatos",
+          "gloss": "declaration"
+        },
+        {
+          "original": "ῥήματα",
+          "translit": "rhēmata",
+          "gloss": "declaration"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 10:8",
+        "Romans 10:9",
+        "Romans 10:17",
+        "Romans 10:18"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 68,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:4",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:37",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 6:17",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 1:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4487"
+      }
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2205",
+          "original": "ζῆλος",
+          "transliteration": "zēlos",
+          "partOfSpeech": "G:N-M/N",
+          "gloss": "zeal",
+          "meaning": "ζῆλος, -ου, ὁ and in late Gk., also -εος, τό (2Co.9:2, Php.3:6),\n[in LXX for קִנְאָה, Num.25:11, al. ;]\n1. zeal: 2Co.7:11 9:2; κατά ζῆλος, Php.3:6; with genitive obj., Jhn.2:17 (LXX), Rom.10:2; before ὑπέρ, 2Co.7:7; with genitive subj., θεοῦ, 2Co.11:2; πυρός, Heb.10:27 (cf. Isa.26:11, Wis.5:18, and cf. Westc., in l).\n2. jealousy: Rom.13:13, 1Co.3:3 3:2 2Co.12:20, Gal.5:20 (WH, txt, RV), Jas.3:14, 16; πλησθῆναι ζήλου Act.5:17 13:45; pl., ζῆλοι (see B1., § 32, 6), Gal.5:20, WH, mg.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζῆλον",
+          "translit": "zēlon",
+          "gloss": "zeal"
+        },
+        {
+          "original": "ζήλῳ",
+          "translit": "zēlō",
+          "gloss": "zeal"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 10:2",
+        "Romans 13:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 16,
+      "elsewhereCheck": [
+        {
+          "ref": "John 2:17",
+          "found": true
+        },
+        {
+          "ref": "Acts 5:17",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 7:7",
+          "found": true
+        },
+        {
+          "ref": "Philippians 3:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2205"
+      }
+    },
+    {
+      "id": "logikos",
+      "strongs": [
+        "G3050"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3050",
+          "original": "λογικός",
+          "transliteration": "logikos",
+          "partOfSpeech": "G:A",
+          "gloss": "spiritual",
+          "meaning": "λογικός, -ή, -όν\n(λόγος, reason)\nreasonable, rational: λατρεία, Rom.12:1; τὸ λ. (i.e. spiritual) γάλα (see Hort, in l; MM, xvi), 1Pe.2:2 (in support of AV, milk of the word, see ICC, in l).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λογικὴν",
+          "translit": "logikēn",
+          "gloss": "spiritual"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 12:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Peter 2:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3050"
+      }
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3563",
+          "original": "νοῦς",
+          "transliteration": "nous",
+          "partOfSpeech": "G:N-M",
+          "gloss": "mind",
+          "meaning": "νοῦς\n(contr. from νόος), ὁ, genitive, dative, νοός, νοΐ (late forms, = cl., νοῦ, νῷ; Bl., § 9, 3), accusative, νοῦν, [in LXX chiefly for לֵב, לֵבָב ;]\n1. prop., of the ruling faculty, mind, understanding, reason (see Lft., Notes, 88 f.; Vaughan on Rom.7:23): Luk.24:45, Rom.1:28 7:23 12:2 14:5, Eph.4:17, 23 Php.4:7, 2Th.2:2, 1Ti.6:5, 2Ti.3:8, Tit.1:15, Rev.13:18 17:9; ν. τ. σαρκός (ICC, in l), Col.2:18; opposite to σάρξ, Rom.7:25; to πνεῦμα, 1Co.14:14-15; to γλῶσσα, 1Co.14:19\n2. By meton., of an act of mind, a mind, thought, purpose: Rom.11:34 = 1Co.2:16\" (LXX), 1Co.1:10.†\nνόος, see: νοῦς …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νοῦν",
+          "translit": "noun",
+          "gloss": "mind"
+        },
+        {
+          "original": "νοός",
+          "translit": "noos",
+          "gloss": "mind"
+        },
+        {
+          "original": "νοῒ",
+          "translit": "noi",
+          "gloss": "mind"
+        },
+        {
+          "original": "νοὸς",
+          "translit": "noos",
+          "gloss": "mind"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 1:28",
+        "Romans 7:23",
+        "Romans 7:25",
+        "Romans 11:34",
+        "Romans 12:2",
+        "Romans 14:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 22,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 24:45",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 2:16",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 4:23",
+          "found": true
+        },
+        {
+          "ref": "Philippians 4:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3563"
+      }
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0026",
+          "original": "ἀγάπη",
+          "transliteration": "agapē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "love",
+          "meaning": "ἀγάπη, -ης, ἡ\n[in LXX for אַהֲבָה, which is also rendered by ἀγάπησις and φιλία ;]\nlove, goodwill, esteem. Outside of bibl. and eccl. books, there is no clear instance (with Deiss., LAE, 18:4, 70:2, cf. the same writer in Constr. Quar., ii, 4; and with MM, VGT, see word, cf. Dr. Moulton in Exp. Times, xxvi, 3, 139). In NT, like ἀγαπάω, -ῶ,\n1. Of men's love:\n(a) to one another, Jhn.13:35;\n(b) to God, 1Jn.2:5.\n2. Of divine love;\n(a) God's love: to men, Rom.5:8; to Christ, Jhn.17:26;\n(b) Christ's love to men: Rom.8:35.\n3. In pl., love feasts: Ju 12 (DB, iii, 157). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀγάπη",
+          "translit": "agapē",
+          "gloss": "love"
+        },
+        {
+          "original": "ἀγάπην",
+          "translit": "agapēn",
+          "gloss": "love"
+        },
+        {
+          "original": "ἀγάπης",
+          "translit": "agapēs",
+          "gloss": "love"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 5:5",
+        "Romans 5:8",
+        "Romans 8:35",
+        "Romans 8:39",
+        "Romans 12:9",
+        "Romans 13:10",
+        "Romans 14:15",
+        "Romans 15:30"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 104,
+      "elsewhereCheck": [
+        {
+          "ref": "John 15:9",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 13:13",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:22",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0026"
+      }
+    },
+    {
+      "id": "philoxenia",
+      "strongs": [
+        "G5381"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5381",
+          "original": "φιλοξενία",
+          "transliteration": "philoxenia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "hospitality",
+          "meaning": "φιλο-ξενία, -ας, ἡ\n(φιλόξενος),\nlove of strangers, hospitality: Rom.12:13, Heb.13:2.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φιλοξενίαν",
+          "translit": "philoxenian",
+          "gloss": "hospitality"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 12:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Hebrews 13:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5381"
+      }
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1653",
+          "original": "ἐλεέω",
+          "transliteration": "eleeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to have mercy",
+          "meaning": "ἐλεέω\n(in Rom.9:16, Ju 22, -άω, which see), -ῶ (ἔλεος), [in LXX (Hex, Pss, Pr) chiefly for חָנַן, also frequently in Proph. for רָחַם, etc. ;]\nto have pity or mercy on, to show mercy: absol., Rom.9:16 12:8; with accusative, Mat.9:27 15:22 17:15 18:33 20:30-31, Mrk.5:19 10:47-48, Luk.16:24 17:13 18:38-39 Rom.9:15, 18 11:32, Php.2:27, Ju 22. Pass., to have pity or mercy shown one (EV, obtain mercy): Mat.5:7, Rom.11:30-31, 1Co.7:25, 2Co.4:1, 1Ti.1:13 1:16, 1Pe.2:10.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐλεήσω",
+          "translit": "eleēsō",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἐλεῶ",
+          "translit": "eleō",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἐλεῶντος",
+          "translit": "eleōntos",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἐλεεῖ",
+          "translit": "eleei",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἠλεήθητε",
+          "translit": "ēleēthēte",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἐλεηθῶσιν",
+          "translit": "eleēthōsin",
+          "gloss": "to have mercy"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 9:15",
+        "Romans 9:16",
+        "Romans 9:18",
+        "Romans 11:30",
+        "Romans 11:31",
+        "Romans 11:32",
+        "Romans 12:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 29,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:27",
+          "found": true
+        },
+        {
+          "ref": "Luke 17:13",
+          "found": true
+        },
+        {
+          "ref": "Jude 1:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1653"
+      }
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4625",
+          "original": "σκάνδαλον",
+          "transliteration": "skandalon",
+          "partOfSpeech": "G:N-N",
+          "gloss": "stumbling block",
+          "meaning": "σκάνδαλον, -ου, τό\n(late form of the rare word σκανδάληθρον, see LS, see word) [in LXX chiefly for מוֹקֵשׁ, מִכְשׁוֹל ;]\nprop., the bait-stick of a trap, a snare, stumbling-block (Lev.19:14, Jdth.5:1): figuratively, Rom.9:33, 1Pe.2:8 (Isa.8:14; aliter in LXX; στερεὸν σκανδάλου in Aq.). Metaphorical, of that which causes error or sin;\n(a) of persons: Mat.13:41 16:23; Χριστὸς ἐσταυρωμένος, 1Co.1:23;\n(b) of things: Mat.18:7, Rom.11:9\" (LXX) Rom.14:13, 1Jn.2:10 Rev.2:14; τὸ σ. τοῦ σταυροῦ, Gal.5:11; pl., Mat.18:7, Luk.17:1, Rom.16:17.†\nSYN.: πρόσκομμα (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκανδάλου",
+          "translit": "skandalou",
+          "gloss": "stumbling block"
+        },
+        {
+          "original": "σκάνδαλον",
+          "translit": "skandalon",
+          "gloss": "stumbling block"
+        },
+        {
+          "original": "σκάνδαλα",
+          "translit": "skandala",
+          "gloss": "stumbling block"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 9:33",
+        "Romans 11:9",
+        "Romans 14:13",
+        "Romans 16:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 13,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:23",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:23",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4625"
+      }
+    },
+    {
+      "id": "telos",
+      "strongs": [
+        "G5056"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5056",
+          "original": "τέλος",
+          "transliteration": "telos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "goal/tax",
+          "meaning": "τέλος, -ους, τό\n[in LXX for קֵץ, etc.; εἰς τὸ τ., chiefly for נֶצַח and cognate forms ;]\n1. end: most frequently of the termination or limit of an act or state (in NT also of the end of a period of time, cl. τελευτή), Luk.1:33, 1Co.10:11, 2Co.3:13, 1Pe.4:7; by meton., of one who makes an end, Rom.10:4; ἕως (ἄχρι, μέκρι) τέλους, 1Co.1:8, 2Co.1:13, Heb.3:14 6:11, Rev.2:26; εἰς τ., to or at the end, Mat.10:22, Mrk.13:13, Luk.18:5, Jhn.13:1 (or here, to the uttermost, see Westc., in l); τ. ἔχειν, Luk.22:37; adverbially, τὸ δὲ τέλος, finally, 1Pe.3:8; of the last in a series, Rev.21:6 22:13; of the …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τέλος",
+          "translit": "telos",
+          "gloss": "goal/tax"
+        },
+        {
+          "original": "Τέλος",
+          "translit": "Telos",
+          "gloss": "goal/tax"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 6:21",
+        "Romans 6:22",
+        "Romans 10:4",
+        "Romans 13:7"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 41,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:22",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:24",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 3:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5056"
+      }
+    },
+    {
+      "id": "epikaleo",
+      "strongs": [
+        "G1941"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1941",
+          "original": "ἐπικαλέω",
+          "transliteration": "epikaleō",
+          "partOfSpeech": "G:V",
+          "gloss": "to call (on)/name",
+          "meaning": "ἐπι-καλέω, -ῶ\n[in LXX chiefly for קָרָא ;]\n1. to call, name, surname: with accusative (cl.), Mat.10:25; pass., Act.1:23 4:36 10:5, 18 10:22 11:13 12:12, 25, Heb.11:16; τ. ὄνομα, before ἐπί (denoting possession, as Heb. עַל. . שֻׁם קָרָא), Act.15:17 (LXX), Jas.2:7 (see. CB on Amo.9:12). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐπικαλουμένους",
+          "translit": "epikaloumenous",
+          "gloss": "to call (on)/name"
+        },
+        {
+          "original": "ἐπικαλέσηται",
+          "translit": "epikalesētai",
+          "gloss": "to call (on)/name"
+        },
+        {
+          "original": "ἐπικαλέσωνται",
+          "translit": "epikalesōntai",
+          "gloss": "to call (on)/name"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 10:12",
+        "Romans 10:13",
+        "Romans 10:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 31,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 2:21",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:2",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 2:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1941"
+      }
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2097",
+          "original": "εὐαγγελίζομαι",
+          "transliteration": "euangelizomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to speak good news",
+          "meaning": "εὐαγγελίζω\n[in LXX for בָּשַׂר pi., hith.; for good news in general: 1Ki.31:9, al.; of God's loving kindness, Psa.40:10 96:2, and esp. of Messianic blessings, Isa.40:9 60:6, al. ;]\nto bring or announce glad tidings;\n1. act. (only in late writers): with accusative of person(s), Rev.10:7; before ἐπί, with accusative of person(s), Rev.14:6; pass., of things, to be proclaimed as glad tidings: Luk.16:16, Gal.1:11, 1Pe.1:25; impers., 1Pe.4:6; of persons, to have glad tidings proclaimed to one: Mat.11:5, Luk.7:22, Heb.4:2, 6 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εὐαγγελίσασθαι",
+          "translit": "euangelisasthai",
+          "gloss": "to speak good news"
+        },
+        {
+          "original": "εὐαγγελιζομένων",
+          "translit": "euangelizomenōn",
+          "gloss": "to speak good news"
+        },
+        {
+          "original": "εὐαγγελίζεσθαι",
+          "translit": "euangelizesthai",
+          "gloss": "to speak good news"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 1:15",
+        "Romans 10:15",
+        "Romans 15:20"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 52,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 11:5",
+          "found": true
+        },
+        {
+          "ref": "Acts 8:35",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 4:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2097"
+      }
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4982",
+          "original": "σῴζω",
+          "transliteration": "sōzō",
+          "partOfSpeech": "G:V",
+          "gloss": "to save",
+          "meaning": "σώζω (on the more accurate σῴζω, see WH, Intr., §410; Bl., §3, 1-3),\n[in LXX chiefly for ישׁע hi., also for מלט ni., נצל ni., etc. ;]\nto save from peril, injury or suffering: Mat.8:25, Mrk.13:20, Luk.23:35, al.; τ. ψυχήν, Mat.16:25, al.; before ἐκ, Jhn.12:27, Heb.5:7, Ju 5; of healing, restoring to health: Mat.9:22, Mrk.5:34, al. In NT, esp. of salvation from spiritual disease and death, in which sense it is \"spoken of in Scripture as either (1) past, (2) present, or (3) future, according as redemption, grace, or glory is the point in view. Thus (1) Rom.8:24, Eph.2:5, 8 2Ti.1:9, Tit.3:5; (2) A …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σωθησόμεθα",
+          "translit": "sōthēsometha",
+          "gloss": "to save"
+        },
+        {
+          "original": "ἐσώθημεν",
+          "translit": "esōthēmen",
+          "gloss": "to save"
+        },
+        {
+          "original": "σωθήσεται",
+          "translit": "sōthēsetai",
+          "gloss": "to save"
+        },
+        {
+          "original": "σωθήσῃ",
+          "translit": "sōthēsē",
+          "gloss": "to save"
+        },
+        {
+          "original": "σώσω",
+          "translit": "sōsō",
+          "gloss": "to save"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 5:9",
+        "Romans 5:10",
+        "Romans 8:24",
+        "Romans 9:27",
+        "Romans 10:9",
+        "Romans 10:13",
+        "Romans 11:14",
+        "Romans 11:26"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 102,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:21",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:21",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4982"
+      }
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3466",
+          "original": "μυστήριον",
+          "transliteration": "mustērion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "mystery",
+          "meaning": "μυστήρισν, -ου, τό\n(μυέω), [in LXX: Dan LXX TH Dan.2:18 ff. (רָז), Tob.12:7, 11, Jdth.2:2, Wis.2:22 6:22 14:15, 23, Sir.3:18 22:22 27:16-17, 21, 2Ma.13:21 * ;]\n1. that which is known to the μύστης (initiated), a mystery or secret doctrine, mostly in pl., τὰ μ. (Æsch., Hdt., al.).\n2. In later writers (Menand., Incert., 168), that which may not be revealed (not, however, as in the modern sense, intrinsically difficult to understand), a secret or mystery of any kind (To, Jth, 2Mac, ll, with). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μυστήριον",
+          "translit": "mustērion",
+          "gloss": "mystery"
+        },
+        {
+          "original": "μυστηρίου",
+          "translit": "mustēriou",
+          "gloss": "mystery"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 11:25",
+        "Romans 16:25"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 28,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 13:11",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:51",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 3:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3466"
+      }
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3339",
+          "original": "μεταμορφόω",
+          "transliteration": "metamorphoō",
+          "partOfSpeech": "G:V",
+          "gloss": "to transform",
+          "meaning": "μετα-μορφόω, -ῶ\n[in Sm.: Psa.34:1 * ;]\nto transform, trans­figure: pass., of Christ's transfiguration, Mat.17:2, Mrk.9:2 (cf. Luk.9:29); of Christians, Rom.12:2, 2Co.3:18.†\nSYN.: μετασχηματίζω, to change in fashion or appearance, see: μορφή, and cf. Lft., Phi., 125 ff (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μεταμορφοῦσθε",
+          "translit": "metamorphousthe",
+          "gloss": "to transform"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 12:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 9:2",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 3:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3339"
+      }
+    },
+    {
+      "id": "nikao",
+      "strongs": [
+        "G3528"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3528",
+          "original": "νικάω",
+          "transliteration": "nikaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to conquer",
+          "meaning": "νικἀω, -ῶ\n(νίκη), [in LXX: Psa.51:4 (זָכָה), Pro.6:25 frequently (חָמַד); in 4Mac ;]\nto conquer, prevail: absol., of Christ, Rev.3:21 6:2; C. inf., Rev.5:5; of Christians, Rev.2:7, 11 2:17, 26 3:5, 12 3:21 21:7; before ἐκ (RV, come victorious from), Rev.15:2; as law-term (cl.), Rom.3:4 (LXX); with accusative of person(s), Luk.11:22, Rev.11:7 13:7 ([WH], R, mg., om.); of Christ, Jhn.16:33 (τ. κόσμον), Rev.17:14; of Christians, 1Jn.4:4; τ. πονηρόν, 1Jn.2:13-14; αὐτόν (ref. to ὁ κατήγωρ, 1Jn.2:10), Rev.12:11; with accusative of thing(s), τὸν κόσμον, Jhn.16:33, 1Jn.5:4-5; τὸ κακόν, Rom.12:21; pass …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νικήσεις",
+          "translit": "nikēseis",
+          "gloss": "to conquer"
+        },
+        {
+          "original": "νικῶ",
+          "translit": "nikō",
+          "gloss": "to conquer"
+        },
+        {
+          "original": "νίκα",
+          "translit": "nika",
+          "gloss": "to conquer"
+        }
+      ],
+      "occurrencesInBook": [
+        "Romans 3:4",
+        "Romans 12:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 24,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 11:22",
+          "found": true
+        },
+        {
+          "ref": "1 John 5:4",
+          "found": true
+        },
+        {
+          "ref": "Revelation 3:21",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3528"
+      }
     }
   ]
 }

@@ -753,7 +753,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Malachi 1:2-3",
+          "inDataset": true,
+          "votes": 38
+        },
+        {
+          "ref": "Exodus 33:19",
+          "inDataset": true,
+          "votes": 43
+        },
+        {
+          "ref": "Jeremiah 18:1-6",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Hosea 2:23",
+          "inDataset": true,
+          "votes": 25
+        },
+        {
+          "ref": "Isaiah 28:16",
+          "inDataset": true,
+          "votes": 47
+        }
+      ]
     },
     {
       "number": 10,
@@ -816,7 +842,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 30:11-14",
+          "inDataset": true,
+          "votes": 71
+        },
+        {
+          "ref": "Joel 2:32",
+          "inDataset": true,
+          "votes": 103
+        },
+        {
+          "ref": "Isaiah 52:7",
+          "inDataset": true,
+          "votes": 71
+        },
+        {
+          "ref": "Isaiah 65:1-2",
+          "inDataset": true,
+          "votes": 47
+        }
+      ]
     },
     {
       "number": 11,
@@ -878,7 +925,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "1 Kings 19:10-18",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Jeremiah 11:16",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Isaiah 59:20-21",
+          "inDataset": true,
+          "votes": 57
+        },
+        {
+          "ref": "Isaiah 40:13",
+          "inDataset": true,
+          "votes": 23
+        },
+        {
+          "ref": "Job 41:11",
+          "inDataset": true,
+          "votes": 15
+        }
+      ]
     },
     {
       "number": 12,
@@ -940,7 +1013,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 32:35",
+          "inDataset": true,
+          "votes": 67
+        },
+        {
+          "ref": "Proverbs 25:21-22",
+          "inDataset": true,
+          "votes": 56
+        },
+        {
+          "ref": "1 Corinthians 12:12-27",
+          "inDataset": true,
+          "votes": 88
+        },
+        {
+          "ref": "Matthew 5:44",
+          "inDataset": true,
+          "votes": 51
+        }
+      ]
     },
     {
       "number": 13,

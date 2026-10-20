@@ -58,5 +58,60 @@
     "id": "moses",
     "name": "Moses",
     "note": "The lawgiver; with him the law came in."
+  },
+  {
+    "id": "israel-the-people",
+    "name": "Israel",
+    "note": "The people of the covenant, to whom the adoption and promises belong."
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac",
+    "note": "Abraham's son of the promise."
+  },
+  {
+    "id": "jacob",
+    "name": "Jacob",
+    "note": "Isaac's younger son, also called Israel."
+  },
+  {
+    "id": "esau",
+    "name": "Esau",
+    "note": "Isaac's elder son, also called Edom."
+  },
+  {
+    "id": "pharaoh",
+    "name": "Pharaoh",
+    "note": "The king of Egypt at the exodus."
+  },
+  {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "note": "The prophet, often quoted by Paul."
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "note": "The prophet who thought he was the only faithful one left."
+  },
+  {
+    "id": "the-remnant",
+    "name": "The remnant",
+    "note": "The faithful few of Israel."
+  },
+  {
+    "id": "the-gentile-believers",
+    "name": "The Gentile believers",
+    "note": "Wild olive branches grafted in."
+  },
+  {
+    "id": "the-persecutors",
+    "name": "Those who persecute you",
+    "note": "To be blessed and not cursed."
+  },
+  {
+    "id": "the-enemy",
+    "name": "Your enemy",
+    "note": "To be fed when hungry."
   }
 ]

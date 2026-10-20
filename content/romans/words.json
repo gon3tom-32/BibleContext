@@ -1776,5 +1776,891 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "latreia",
+    "transliteration": "latreia",
+    "original": "λατρεία",
+    "pronunciation": "lat-RAY-ah",
+    "gloss": "worship, service",
+    "notes": "Religious service, worship, especially service rendered to God. It is used of Israel's temple service (9:4) and of the believer's whole life offered to God (12:1). The related verb latreuō is used of serving God.",
+    "range": [
+      {
+        "sense": "Worship",
+        "note": "Service to God."
+      },
+      {
+        "sense": "Service",
+        "note": "Religious duty."
+      }
+    ],
+    "translations": [
+      "worship",
+      "service"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 16:2",
+        "note": "Whoever kills you will think he is offering service to God."
+      },
+      {
+        "ref": "Hebrews 9:1",
+        "note": "Regulations for worship."
+      },
+      {
+        "ref": "Hebrews 9:6",
+        "note": "The priests go regularly into the first section, performing their ritual duties."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekloge",
+    "transliteration": "eklogē",
+    "original": "ἐκλογή",
+    "pronunciation": "ek-log-AY",
+    "gloss": "election, choice",
+    "notes": "A choosing out, a selection. In Romans 9 to 11 it refers to God's choice of Israel and of a remnant (9:11, 11:5, 11:7, 11:28). Paul also speaks of Saul as God's \"chosen instrument\" (Acts 9:15). How election works is one of the great debates of theology.",
+    "range": [
+      {
+        "sense": "Election",
+        "note": "God's choosing."
+      },
+      {
+        "sense": "Choice",
+        "note": "Selection."
+      }
+    ],
+    "translations": [
+      "election",
+      "choice",
+      "chosen"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 9:15",
+        "note": "He is a chosen instrument of mine."
+      },
+      {
+        "ref": "1 Thessalonians 1:4",
+        "note": "Knowing your election."
+      },
+      {
+        "ref": "2 Peter 1:10",
+        "note": "Make your calling and election sure."
+      }
+    ],
+    "uncertain": "Whether election in Romans 9 to 11 concerns individuals' destinies, the choice of a people for a purpose, or both, is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "leimma",
+    "transliteration": "leimma",
+    "original": "λεῖμμα",
+    "pronunciation": "LAY-ma",
+    "gloss": "remnant, what is left",
+    "notes": "What is left over, a remnant. Paul says \"there is a remnant according to the election of grace\" (11:5), in the line of the seven thousand left in Elijah's day. It occurs only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Remnant",
+        "note": "What remains."
+      }
+    ],
+    "translations": [
+      "remnant"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pleroma",
+    "transliteration": "plērōma",
+    "original": "πλήρωμα",
+    "pronunciation": "PLAY-ro-ma",
+    "gloss": "fullness, fulfillment",
+    "notes": "That which fills or completes: fullness, full number, fulfillment. Paul speaks of Israel's \"fullness\" (11:12), \"the fullness of the Gentiles\" (11:25), and love as \"the fulfillment of the law\" (13:10). It is an important word also in Colossians and Ephesians.",
+    "range": [
+      {
+        "sense": "Fullness",
+        "note": "The full amount."
+      },
+      {
+        "sense": "Fulfillment",
+        "note": "The completion."
+      }
+    ],
+    "translations": [
+      "fullness",
+      "fulfillment",
+      "full number"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:16",
+        "note": "The patch tears away from the garment."
+      },
+      {
+        "ref": "Mark 6:43",
+        "note": "They took up twelve baskets full."
+      },
+      {
+        "ref": "John 1:16",
+        "note": "From his fullness we have all received."
+      },
+      {
+        "ref": "Galatians 4:4",
+        "note": "When the fullness of time had come."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "enkentrizo",
+    "transliteration": "enkentrizō",
+    "original": "ἐγκεντρίζω",
+    "pronunciation": "eng-ken-TRID-zo",
+    "gloss": "to graft in",
+    "notes": "To graft a branch into a tree. Paul says wild olive branches are \"grafted in\" among the natural branches (11:17, 11:19, 11:23-24), and that broken branches can be grafted in again. It occurs only in this chapter in the New Testament.",
+    "range": [
+      {
+        "sense": "Graft",
+        "note": "Join a branch to a tree."
+      }
+    ],
+    "translations": [
+      "graft",
+      "graft in"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "homologeo",
+    "transliteration": "homologeō",
+    "original": "ὁμολογέω",
+    "pronunciation": "hom-ol-og-EH-oh",
+    "gloss": "to confess, to acknowledge",
+    "notes": "Literally \"to say the same,\" to agree, acknowledge, or publicly declare. Paul says that if you \"confess with your mouth Jesus as Lord\" and believe in your heart, you will be saved (10:9-10). It is the verb of the earliest Christian creeds.",
+    "range": [
+      {
+        "sense": "Confess",
+        "note": "Publicly declare."
+      },
+      {
+        "sense": "Agree",
+        "note": "Say the same thing."
+      }
+    ],
+    "translations": [
+      "confess",
+      "acknowledge",
+      "profess"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:32",
+        "note": "Whoever acknowledges me before men."
+      },
+      {
+        "ref": "John 1:20",
+        "note": "He confessed, and did not deny."
+      },
+      {
+        "ref": "1 Timothy 6:12",
+        "note": "You made the good confession."
+      },
+      {
+        "ref": "1 John 4:15",
+        "note": "Whoever confesses that Jesus is the Son of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kerysso",
+    "transliteration": "kēryssō",
+    "original": "κηρύσσω",
+    "pronunciation": "kay-ROOS-so",
+    "gloss": "to proclaim, to preach",
+    "notes": "To announce like a herald (kēryx), to proclaim publicly. Paul says \"How will they hear without a preacher?\" (10:14-15). The noun kērygma means the message proclaimed.",
+    "range": [
+      {
+        "sense": "Proclaim",
+        "note": "Announce publicly."
+      },
+      {
+        "sense": "Preach",
+        "note": "Deliver a message."
+      }
+    ],
+    "translations": [
+      "preach",
+      "proclaim"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:17",
+        "note": "From that time Jesus began to preach."
+      },
+      {
+        "ref": "Mark 1:14",
+        "note": "Jesus came proclaiming the gospel of God."
+      },
+      {
+        "ref": "Acts 8:5",
+        "note": "Philip proclaimed to them the Christ."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rhema",
+    "transliteration": "rhēma",
+    "original": "ῥῆμα",
+    "pronunciation": "HRAY-ma",
+    "gloss": "word, spoken word",
+    "notes": "A spoken word, a saying. Paul says, \"The word (rhēma) is near you,\" quoting Deuteronomy 30:14, and \"Faith comes from hearing, and hearing through the word (rhēma) of Christ\" (10:8, 10:17). It differs from logos in stressing what is actually said.",
+    "range": [
+      {
+        "sense": "Spoken word",
+        "note": "What is said."
+      },
+      {
+        "sense": "Message",
+        "note": "A declaration."
+      }
+    ],
+    "translations": [
+      "word",
+      "saying",
+      "message"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:4",
+        "note": "Man shall live by every word that comes from the mouth of God."
+      },
+      {
+        "ref": "Luke 1:37",
+        "note": "Nothing will be impossible with God."
+      },
+      {
+        "ref": "Ephesians 6:17",
+        "note": "The sword of the Spirit, which is the word of God."
+      },
+      {
+        "ref": "Hebrews 1:3",
+        "note": "Upholds the universe by the word of his power."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zelos",
+    "transliteration": "zēlos",
+    "original": "ζῆλος",
+    "pronunciation": "DZAY-los",
+    "gloss": "zeal, jealousy",
+    "notes": "Intense passion, in a good sense zeal and in a bad sense jealousy or envy. Paul says Israel has \"a zeal for God, but not according to knowledge\" (10:2). He also speaks of provoking Israel to \"jealousy\" (10:19, 11:11, 11:14).",
+    "range": [
+      {
+        "sense": "Zeal",
+        "note": "Passionate devotion."
+      },
+      {
+        "sense": "Jealousy",
+        "note": "Envy."
+      }
+    ],
+    "translations": [
+      "zeal",
+      "jealousy",
+      "envy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 2:17",
+        "note": "Zeal for your house will consume me."
+      },
+      {
+        "ref": "Acts 5:17",
+        "note": "Filled with jealousy."
+      },
+      {
+        "ref": "2 Corinthians 7:7",
+        "note": "Your zeal for me."
+      },
+      {
+        "ref": "Philippians 3:6",
+        "note": "As to zeal, a persecutor of the church."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "logikos",
+    "transliteration": "logikos",
+    "original": "λογικός",
+    "pronunciation": "log-ee-KOS",
+    "gloss": "spiritual, reasonable",
+    "notes": "From logos (\"reason, word\"): rational, reasonable, or spiritual. Paul calls the offering of the body \"your spiritual service\" or \"reasonable service\" (12:1). It occurs only here and in 1 Peter 2:2, \"the pure spiritual milk.\"",
+    "range": [
+      {
+        "sense": "Spiritual",
+        "note": "Of the inner life."
+      },
+      {
+        "sense": "Reasonable",
+        "note": "Fitting and logical."
+      }
+    ],
+    "translations": [
+      "spiritual",
+      "reasonable",
+      "rational"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Peter 2:2",
+        "note": "Like newborn infants, long for the pure spiritual milk."
+      }
+    ],
+    "uncertain": "Whether logikē latreia in Romans 12:1 means \"spiritual worship,\" \"reasonable service,\" or \"rational worship\" is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nous",
+    "transliteration": "nous",
+    "original": "νοῦς",
+    "pronunciation": "NOOCE",
+    "gloss": "mind",
+    "notes": "The mind, the thinking and willing self. Paul says to be \"transformed by the renewing of your mind\" (12:2). He also speaks of a \"debased mind\" (1:28) and the \"mind of the Lord\" (11:34).",
+    "range": [
+      {
+        "sense": "Mind",
+        "note": "The faculty of thought."
+      },
+      {
+        "sense": "Understanding",
+        "note": "Insight."
+      }
+    ],
+    "translations": [
+      "mind",
+      "understanding"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:45",
+        "note": "He opened their minds to understand the Scriptures."
+      },
+      {
+        "ref": "1 Corinthians 2:16",
+        "note": "We have the mind of Christ."
+      },
+      {
+        "ref": "Ephesians 4:23",
+        "note": "Be renewed in the spirit of your minds."
+      },
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God, which surpasses all understanding."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agape",
+    "transliteration": "agapē",
+    "original": "ἀγάπη",
+    "pronunciation": "ag-AH-pay",
+    "gloss": "love",
+    "notes": "Self-giving love, the main word for love in the New Testament. Paul says \"Let love be without hypocrisy\" (12:9) and \"Love does no wrong to a neighbor\" (13:10). The related verb is agapaō.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Self-giving goodwill."
+      },
+      {
+        "sense": "Charity",
+        "note": "Love in action."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 15:9",
+        "note": "As the Father has loved me, so have I loved you."
+      },
+      {
+        "ref": "1 Corinthians 13:13",
+        "note": "Faith, hope, and love abide, but the greatest of these is love."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love."
+      },
+      {
+        "ref": "1 John 4:8",
+        "note": "God is love."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "philoxenia",
+    "transliteration": "philoxenia",
+    "original": "φιλοξενία",
+    "pronunciation": "fil-ox-en-EE-ah",
+    "gloss": "hospitality",
+    "notes": "Love of strangers, hospitality. Paul says believers should be \"given to hospitality\" (12:13). The only other New Testament use is in Hebrews 13:2: \"Do not neglect to show hospitality to strangers.\"",
+    "range": [
+      {
+        "sense": "Hospitality",
+        "note": "Welcoming strangers."
+      }
+    ],
+    "translations": [
+      "hospitality"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 13:2",
+        "note": "Do not neglect to show hospitality to strangers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleeo",
+    "transliteration": "eleeō",
+    "original": "ἐλεέω",
+    "pronunciation": "el-eh-EH-oh",
+    "gloss": "to show mercy",
+    "notes": "To show mercy. \"I will have mercy on whom I have mercy\" (9:15), and God \"shut up all to disobedience that he might have mercy on all\" (11:32).",
+    "range": [
+      {
+        "sense": "Have mercy",
+        "note": "Show pity."
+      },
+      {
+        "sense": "Help",
+        "note": "Give aid."
+      }
+    ],
+    "translations": [
+      "have mercy",
+      "show mercy",
+      "pity"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:27",
+        "note": "Have mercy on us, Son of David."
+      },
+      {
+        "ref": "Luke 17:13",
+        "note": "Master, have mercy on us."
+      },
+      {
+        "ref": "Jude 1:22",
+        "note": "Have mercy on those who doubt."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skandalon",
+    "transliteration": "skandalon",
+    "original": "σκάνδαλον",
+    "pronunciation": "SKAN-dah-lon",
+    "gloss": "stumbling block, trap",
+    "notes": "A stumbling block, something that trips people. Paul quotes Isaiah about \"a stumbling stone and a rock of offense\" (9:32-33), and warns against putting a stumbling block before a brother (14:13).",
+    "range": [
+      {
+        "sense": "Trap trigger",
+        "note": "The part of a trap that snaps shut."
+      },
+      {
+        "sense": "Stumbling block",
+        "note": "Something that makes a person fall."
+      },
+      {
+        "sense": "Offense",
+        "note": "A cause of taking offense."
+      }
+    ],
+    "translations": [
+      "stumbling block",
+      "offense",
+      "hindrance",
+      "trap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:23",
+        "note": "You are a hindrance to me."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "A stumbling block to Jews."
+      },
+      {
+        "ref": "Galatians 5:11",
+        "note": "The offense of the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "telos",
+    "transliteration": "telos",
+    "original": "τέλος",
+    "pronunciation": "TEL-os",
+    "gloss": "end, goal, completion",
+    "notes": "End, goal, completion. \"Christ is the end of the law\" (10:4), in the sense of its goal, its termination, or both.",
+    "range": [
+      {
+        "sense": "End",
+        "note": "The last point."
+      },
+      {
+        "sense": "Goal",
+        "note": "The purpose reached."
+      },
+      {
+        "sense": "Completeness",
+        "note": "The full extent."
+      }
+    ],
+    "translations": [
+      "end",
+      "completely",
+      "to the uttermost"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:22",
+        "note": "The one who endures to the end will be saved."
+      },
+      {
+        "ref": "1 Corinthians 15:24",
+        "note": "Then comes the end."
+      },
+      {
+        "ref": "Hebrews 3:14",
+        "note": "If we hold our confidence firm to the end."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epikaleo",
+    "transliteration": "epikaleō",
+    "original": "ἐπικαλέω",
+    "pronunciation": "ep-ee-kal-EH-oh",
+    "gloss": "to call on, to appeal",
+    "notes": "To call on, to appeal. \"Whoever will call on the name of the Lord will be saved\" (10:13).",
+    "range": [
+      {
+        "sense": "Call on",
+        "note": "Invoke in prayer."
+      },
+      {
+        "sense": "Appeal",
+        "note": "Make a legal appeal."
+      },
+      {
+        "sense": "Name",
+        "note": "Give a surname."
+      }
+    ],
+    "translations": [
+      "call on",
+      "appeal",
+      "name"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 2:21",
+        "note": "Everyone who calls on the name of the Lord will be saved."
+      },
+      {
+        "ref": "1 Corinthians 1:2",
+        "note": "Those who call upon the name of our Lord Jesus Christ."
+      },
+      {
+        "ref": "2 Timothy 2:22",
+        "note": "Those who call on the Lord from a pure heart."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euangelizo",
+    "transliteration": "euangelizomai",
+    "original": "εὐαγγελίζομαι",
+    "pronunciation": "yoo-ang-gel-ID-zom-eye",
+    "gloss": "to announce good news",
+    "notes": "To announce good news. \"How beautiful are the feet of those who preach the Good News of peace\" (10:15).",
+    "range": [
+      {
+        "sense": "Announce good news",
+        "note": "Bring joyful news."
+      },
+      {
+        "sense": "Preach",
+        "note": "Proclaim the gospel."
+      }
+    ],
+    "translations": [
+      "bring good news",
+      "preach the gospel",
+      "proclaim"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:5",
+        "note": "The poor have good news preached to them."
+      },
+      {
+        "ref": "Acts 8:35",
+        "note": "Philip tells him the good news about Jesus."
+      },
+      {
+        "ref": "Hebrews 4:2",
+        "note": "The good news was preached to us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sozo",
+    "transliteration": "sōzō",
+    "original": "σῴζω",
+    "pronunciation": "SODE-zo",
+    "gloss": "to save, to heal, to make well",
+    "notes": "To save, heal, or make well. \"You will be saved\" (10:9), \"Whoever will call on the name of the Lord will be saved\" (10:13).",
+    "range": [
+      {
+        "sense": "Heal",
+        "note": "To make well."
+      },
+      {
+        "sense": "Rescue",
+        "note": "To save from danger or death."
+      },
+      {
+        "sense": "Save",
+        "note": "To save in the fullest sense."
+      }
+    ],
+    "translations": [
+      "save",
+      "heal",
+      "make well",
+      "rescue"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "Acts 2:21",
+        "note": "Everyone who calls will be saved."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you are saved."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mysterion",
+    "transliteration": "mystērion",
+    "original": "μυστήριον",
+    "pronunciation": "moos-TAY-ree-on",
+    "gloss": "mystery, secret",
+    "notes": "A mystery, a secret that has been revealed. Paul says, \"I don't desire, brothers, to have you ignorant of this mystery\" (11:25).",
+    "range": [
+      {
+        "sense": "Secret",
+        "note": "Something hidden until it is disclosed."
+      },
+      {
+        "sense": "Revealed truth",
+        "note": "God's plan, now made known."
+      },
+      {
+        "sense": "Religious rite",
+        "note": "In wider Greek, the secret rites of a cult."
+      }
+    ],
+    "translations": [
+      "secrets",
+      "mysteries",
+      "hidden truth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:11",
+        "note": "The secrets of the kingdom of heaven."
+      },
+      {
+        "ref": "1 Corinthians 15:51",
+        "note": "Behold, I tell you a mystery."
+      },
+      {
+        "ref": "Ephesians 3:3",
+        "note": "The mystery was made known to me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metamorphoo",
+    "transliteration": "metamorphoō",
+    "original": "μεταμορφόω",
+    "pronunciation": "meh-tah-mor-FOH-oh",
+    "gloss": "to transform",
+    "notes": "To change form. \"Be transformed by the renewing of your mind\" (12:2). Jesus was \"transfigured\" with the same word.",
+    "range": [
+      {
+        "sense": "Change outward form",
+        "note": "As on the mountain."
+      },
+      {
+        "sense": "Be transformed inwardly",
+        "note": "As in Paul's letters."
+      }
+    ],
+    "translations": [
+      "transfigured",
+      "transformed",
+      "changed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 9:2",
+        "note": "He was transfigured before them."
+      },
+      {
+        "ref": "2 Corinthians 3:18",
+        "note": "Being transformed into the same image."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nikao",
+    "transliteration": "nikaō",
+    "original": "νικάω",
+    "pronunciation": "nik-AH-oh",
+    "gloss": "to conquer, to overcome",
+    "notes": "To conquer, to overcome. \"Don't be overcome by evil, but overcome evil with good\" (12:21).",
+    "range": [
+      {
+        "sense": "Conquer",
+        "note": "Win."
+      },
+      {
+        "sense": "Overcome",
+        "note": "Prevail over."
+      }
+    ],
+    "translations": [
+      "overcome",
+      "conquer",
+      "prevail"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 11:22",
+        "note": "A stronger one attacks and overcomes him."
+      },
+      {
+        "ref": "1 John 5:4",
+        "note": "This is the victory that has overcome the world, our faith."
+      },
+      {
+        "ref": "Revelation 3:21",
+        "note": "The one who conquers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]
