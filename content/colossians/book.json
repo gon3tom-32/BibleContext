@@ -1,0 +1,45 @@
+{
+  "slug": "colossians",
+  "title": "Colossians",
+  "order": 51,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 4,
+  "tagline": "Christ is supreme over everything, so don't trade the fullness you have in him for rules and speculation.",
+  "author": "Paul (debated)",
+  "authorNote": "The letter names Paul with Timothy (1:1), adds a greeting in his own hand (4:18), and the church has long accepted it as Paul's. Some modern scholars question this, pointing to style, vocabulary, and the closeness to Ephesians, and suggest a follower of Paul wrote it; others reply that a different subject, a secretary, or Paul's own development explain the differences. The letter is closely linked with Philemon, which names many of the same people.",
+  "authorDebated": true,
+  "audience": "The believers in Colossae, a small town in the Lycus Valley, also meant to be shared with Laodicea",
+  "audienceNote": "Paul had never visited Colossae; the church was started through Epaphras (1:7; 4:12-13), probably during Paul's time in Ephesus (Acts 19:10). Most of its members were Gentiles (1:21, 1:27; 2:13). Paul asks that the letter be read in nearby Laodicea too, and that they read the letter from Laodicea (4:16).",
+  "setting": "Paul in prison, probably in Rome, about AD 60 to 62 (debated)",
+  "settingNote": "Paul writes in chains (4:3, 4:10, 4:18), and Tychicus carries the letter together with Onesimus (4:7-9), the same trip as the letter to Philemon. Rome is the traditional place; Ephesus and Caesarea have been suggested. Colossae was hit by an earthquake in about AD 60 to 61, according to the Roman historian Tacitus, who reports that nearby Laodicea was rebuilt without outside aid, so the letter may have reached a town recovering from disaster.",
+  "genre": "Letter",
+  "genreNote": "A pastoral letter that answers a teaching Paul considers a danger, without naming it. The center is a poem or hymn about Christ (1:15-20), followed by warnings (chapter 2), instructions for a new way of life (3:1-4:6), and personal greetings (4:7-18).",
+  "bigIdea": "Christ is the image of the invisible God, creator and reconciler of all things, and the head of the church; those who belong to him have already died and risen with him, so they need no other path to fullness and should live as people made new.",
+  "themes": [
+    "The supremacy of Christ",
+    "Fullness in Christ, not in human rules",
+    "Raised with Christ",
+    "Putting off the old, putting on the new",
+    "Wisdom, prayer, and daily life"
+  ],
+  "mapTitle": "Map: Colossae, Laodicea, and Hierapolis",
+  "mapSummary": "Colossae sits in the Lycus Valley with its neighbors Laodicea and Hierapolis, a few miles apart, in what is now western Turkey.",
+  "scene": {
+    "author": "Paul (debated)",
+    "audience": "The believers in Colossae",
+    "happening": "Paul in prison, probably Rome, about AD 60 to 62"
+  },
+  "overviewPeople": [
+    "paul",
+    "timothy",
+    "epaphras",
+    "tychicus",
+    "onesimus",
+    "jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

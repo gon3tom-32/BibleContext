@@ -1,0 +1,1594 @@
+{
+  "osis": "Col",
+  "stepBook": "Col",
+  "webFile": "colossians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "colossae",
+      "ancientId": "a4e5a69"
+    },
+    {
+      "id": "laodicea",
+      "ancientId": "a83fb1e"
+    },
+    {
+      "id": "hierapolis",
+      "ancientId": "a11bbbe"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "timothy",
+      "theographic": "timotheus_2863"
+    },
+    {
+      "id": "epaphras",
+      "theographic": "epaphras_1195"
+    },
+    {
+      "id": "tychicus",
+      "theographic": "tychicus_2885"
+    },
+    {
+      "id": "onesimus",
+      "theographic": "onesimus_2251"
+    },
+    {
+      "id": "aristarchus",
+      "theographic": "aristarchus_306"
+    },
+    {
+      "id": "mark",
+      "theographic": "mark_1679"
+    },
+    {
+      "id": "luke",
+      "theographic": "luke_1836"
+    },
+    {
+      "id": "demas",
+      "theographic": "demas_1006"
+    },
+    {
+      "id": "archippus",
+      "theographic": "archippus_292"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "jesus-justus",
+      "theographic": "justus_1766"
+    }
+  ],
+  "words": [
+    {
+      "id": "synesis",
+      "strongs": [
+        "G4907"
+      ],
+      "foundAt": "Colossians 1:9"
+    },
+    {
+      "id": "areskeia",
+      "strongs": [
+        "G0699"
+      ],
+      "foundAt": "Colossians 1:10"
+    },
+    {
+      "id": "hikanoo",
+      "strongs": [
+        "G2427"
+      ],
+      "foundAt": "Colossians 1:12"
+    },
+    {
+      "id": "meris",
+      "strongs": [
+        "G3310"
+      ],
+      "foundAt": "Colossians 1:12"
+    },
+    {
+      "id": "kleros",
+      "strongs": [
+        "G2819"
+      ],
+      "foundAt": "Colossians 1:12"
+    },
+    {
+      "id": "methistemi",
+      "strongs": [
+        "G3179"
+      ],
+      "foundAt": "Colossians 1:13"
+    },
+    {
+      "id": "aoratos",
+      "strongs": [
+        "G0517"
+      ],
+      "foundAt": "Colossians 1:15"
+    },
+    {
+      "id": "prototokos",
+      "strongs": [
+        "G4416"
+      ],
+      "foundAt": "Colossians 1:15"
+    },
+    {
+      "id": "thronos",
+      "strongs": [
+        "G2362"
+      ],
+      "foundAt": "Colossians 1:16"
+    },
+    {
+      "id": "arche",
+      "strongs": [
+        "G0746"
+      ],
+      "foundAt": "Colossians 1:16"
+    },
+    {
+      "id": "synistemi",
+      "strongs": [
+        "G4921"
+      ],
+      "foundAt": "Colossians 1:17"
+    },
+    {
+      "id": "prooteuo",
+      "strongs": [
+        "G4409"
+      ],
+      "foundAt": "Colossians 1:18"
+    },
+    {
+      "id": "eudokeo",
+      "strongs": [
+        "G2106"
+      ],
+      "foundAt": "Colossians 1:19"
+    },
+    {
+      "id": "katoikeo",
+      "strongs": [
+        "G2730"
+      ],
+      "foundAt": "Colossians 1:19"
+    },
+    {
+      "id": "apokatallasso",
+      "strongs": [
+        "G0604"
+      ],
+      "foundAt": "Colossians 1:20"
+    },
+    {
+      "id": "eirenopoieo",
+      "strongs": [
+        "G1517"
+      ],
+      "foundAt": "Colossians 1:20"
+    },
+    {
+      "id": "haima",
+      "strongs": [
+        "G0129G"
+      ],
+      "foundAt": "Colossians 1:14"
+    },
+    {
+      "id": "apallotrioo",
+      "strongs": [
+        "G0526"
+      ],
+      "foundAt": "Colossians 1:21"
+    },
+    {
+      "id": "echthros",
+      "strongs": [
+        "G2190"
+      ],
+      "foundAt": "Colossians 1:21"
+    },
+    {
+      "id": "anegkletos",
+      "strongs": [
+        "G0410"
+      ],
+      "foundAt": "Colossians 1:22"
+    },
+    {
+      "id": "hedraios",
+      "strongs": [
+        "G1476"
+      ],
+      "foundAt": "Colossians 1:23"
+    },
+    {
+      "id": "metakineo",
+      "strongs": [
+        "G3334"
+      ],
+      "foundAt": "Colossians 1:23"
+    },
+    {
+      "id": "noutheteo",
+      "strongs": [
+        "G3560"
+      ],
+      "foundAt": "Colossians 1:28"
+    },
+    {
+      "id": "plerophoria",
+      "strongs": [
+        "G4136"
+      ],
+      "foundAt": "Colossians 2:2"
+    },
+    {
+      "id": "symbibazo",
+      "strongs": [
+        "G4822"
+      ],
+      "foundAt": "Colossians 2:2"
+    },
+    {
+      "id": "apokryphos",
+      "strongs": [
+        "G0614"
+      ],
+      "foundAt": "Colossians 2:3"
+    },
+    {
+      "id": "pithanologia",
+      "strongs": [
+        "G4086"
+      ],
+      "foundAt": "Colossians 2:4"
+    },
+    {
+      "id": "paralogizomai",
+      "strongs": [
+        "G3884"
+      ],
+      "foundAt": "Colossians 2:4"
+    },
+    {
+      "id": "stereoma",
+      "strongs": [
+        "G4733"
+      ],
+      "foundAt": "Colossians 2:5"
+    },
+    {
+      "id": "epoikodomeo",
+      "strongs": [
+        "G2026"
+      ],
+      "foundAt": "Colossians 2:7"
+    },
+    {
+      "id": "bebaioo",
+      "strongs": [
+        "G0950"
+      ],
+      "foundAt": "Colossians 2:7"
+    },
+    {
+      "id": "sylagogeo",
+      "strongs": [
+        "G4812"
+      ],
+      "foundAt": "Colossians 2:8"
+    },
+    {
+      "id": "philosophia",
+      "strongs": [
+        "G5385"
+      ],
+      "foundAt": "Colossians 2:8"
+    },
+    {
+      "id": "apate",
+      "strongs": [
+        "G0539"
+      ],
+      "foundAt": "Colossians 2:8"
+    },
+    {
+      "id": "somatikos",
+      "strongs": [
+        "G4985"
+      ],
+      "foundAt": "Colossians 2:9"
+    },
+    {
+      "id": "theotes",
+      "strongs": [
+        "G2320"
+      ],
+      "foundAt": "Colossians 2:9"
+    },
+    {
+      "id": "acheiropoietos",
+      "strongs": [
+        "G0886"
+      ],
+      "foundAt": "Colossians 2:11"
+    },
+    {
+      "id": "apekdysis",
+      "strongs": [
+        "G0555"
+      ],
+      "foundAt": "Colossians 2:11"
+    },
+    {
+      "id": "synthapto",
+      "strongs": [
+        "G4916"
+      ],
+      "foundAt": "Colossians 2:12"
+    },
+    {
+      "id": "synegeiro",
+      "strongs": [
+        "G4891"
+      ],
+      "foundAt": "Colossians 2:12"
+    },
+    {
+      "id": "synzoopoieo",
+      "strongs": [
+        "G4806"
+      ],
+      "foundAt": "Colossians 2:13"
+    },
+    {
+      "id": "exaleipho",
+      "strongs": [
+        "G1813"
+      ],
+      "foundAt": "Colossians 2:14"
+    },
+    {
+      "id": "cheirographon",
+      "strongs": [
+        "G5498"
+      ],
+      "foundAt": "Colossians 2:14"
+    },
+    {
+      "id": "hypenantios",
+      "strongs": [
+        "G5227"
+      ],
+      "foundAt": "Colossians 2:14"
+    },
+    {
+      "id": "proseloo",
+      "strongs": [
+        "G4338"
+      ],
+      "foundAt": "Colossians 2:14"
+    },
+    {
+      "id": "aperkdyomai",
+      "strongs": [
+        "G0554"
+      ],
+      "foundAt": "Colossians 2:15"
+    },
+    {
+      "id": "deigmatizo",
+      "strongs": [
+        "G1165"
+      ],
+      "foundAt": "Colossians 2:15"
+    },
+    {
+      "id": "brosis",
+      "strongs": [
+        "G1035"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "posis",
+      "strongs": [
+        "G4213"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "neomenia",
+      "strongs": [
+        "G3561"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "skia",
+      "strongs": [
+        "G4639"
+      ],
+      "foundAt": "Colossians 2:17"
+    },
+    {
+      "id": "mello",
+      "strongs": [
+        "G3195"
+      ],
+      "foundAt": "Colossians 2:17"
+    },
+    {
+      "id": "katabrabeuo",
+      "strongs": [
+        "G2603"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "threskeia",
+      "strongs": [
+        "G2356"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "embateuo",
+      "strongs": [
+        "G1687"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "krateo",
+      "strongs": [
+        "G2902"
+      ],
+      "foundAt": "Colossians 2:19"
+    },
+    {
+      "id": "auxesis",
+      "strongs": [
+        "G0838"
+      ],
+      "foundAt": "Colossians 2:19"
+    },
+    {
+      "id": "dogmatizo",
+      "strongs": [
+        "G1379"
+      ],
+      "foundAt": "Colossians 2:20"
+    },
+    {
+      "id": "geuomai",
+      "strongs": [
+        "G1089"
+      ],
+      "foundAt": "Colossians 2:21"
+    },
+    {
+      "id": "thigganO",
+      "strongs": [
+        "G2345"
+      ],
+      "foundAt": "Colossians 2:21"
+    },
+    {
+      "id": "apochresis",
+      "strongs": [
+        "G0671"
+      ],
+      "foundAt": "Colossians 2:22"
+    },
+    {
+      "id": "entalma",
+      "strongs": [
+        "G1778"
+      ],
+      "foundAt": "Colossians 2:22"
+    },
+    {
+      "id": "ethelothreskia",
+      "strongs": [
+        "G1479"
+      ],
+      "foundAt": "Colossians 2:23"
+    },
+    {
+      "id": "aphedia",
+      "strongs": [
+        "G0857"
+      ],
+      "foundAt": "Colossians 2:23"
+    },
+    {
+      "id": "time",
+      "strongs": [
+        "G5092"
+      ],
+      "foundAt": "Colossians 2:23"
+    },
+    {
+      "id": "plesmone",
+      "strongs": [
+        "G4140"
+      ],
+      "foundAt": "Colossians 2:23"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Colossians 1:3"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Colossians 1:4"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "Colossians 1:4"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "Colossians 1:5"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "Colossians 1:5"
+    },
+    {
+      "id": "epignosis",
+      "strongs": [
+        "G1922"
+      ],
+      "foundAt": "Colossians 1:9"
+    },
+    {
+      "id": "sophia",
+      "strongs": [
+        "G4678"
+      ],
+      "foundAt": "Colossians 1:9"
+    },
+    {
+      "id": "axios",
+      "strongs": [
+        "G0516"
+      ],
+      "foundAt": "Colossians 1:10"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "Colossians 1:11"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Colossians 1:13"
+    },
+    {
+      "id": "skotos",
+      "strongs": [
+        "G4655"
+      ],
+      "foundAt": "Colossians 1:13"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Colossians 1:13"
+    },
+    {
+      "id": "apolytrosis",
+      "strongs": [
+        "G0629"
+      ],
+      "foundAt": "Colossians 1:14"
+    },
+    {
+      "id": "aphesis",
+      "strongs": [
+        "G0859"
+      ],
+      "foundAt": "Colossians 1:14"
+    },
+    {
+      "id": "eikon",
+      "strongs": [
+        "G1504"
+      ],
+      "foundAt": "Colossians 1:15"
+    },
+    {
+      "id": "ktizo",
+      "strongs": [
+        "G2936"
+      ],
+      "foundAt": "Colossians 1:16"
+    },
+    {
+      "id": "kyriotes",
+      "strongs": [
+        "G2963"
+      ],
+      "foundAt": "Colossians 1:16"
+    },
+    {
+      "id": "kephale",
+      "strongs": [
+        "G2776"
+      ],
+      "foundAt": "Colossians 1:18"
+    },
+    {
+      "id": "soma",
+      "strongs": [
+        "G4983"
+      ],
+      "foundAt": "Colossians 1:18"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "Colossians 1:18"
+    },
+    {
+      "id": "pleroma",
+      "strongs": [
+        "G4138"
+      ],
+      "foundAt": "Colossians 1:19"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Colossians 1:20"
+    },
+    {
+      "id": "amomos",
+      "strongs": [
+        "G0299"
+      ],
+      "foundAt": "Colossians 1:22"
+    },
+    {
+      "id": "themelioo",
+      "strongs": [
+        "G2311"
+      ],
+      "foundAt": "Colossians 1:23"
+    },
+    {
+      "id": "diakonos",
+      "strongs": [
+        "G1249"
+      ],
+      "foundAt": "Colossians 1:7"
+    },
+    {
+      "id": "oikonomia",
+      "strongs": [
+        "G3622"
+      ],
+      "foundAt": "Colossians 1:25"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "Colossians 1:26"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Colossians 1:11"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "Colossians 1:28"
+    },
+    {
+      "id": "agonizomai",
+      "strongs": [
+        "G0075"
+      ],
+      "foundAt": "Colossians 1:29"
+    },
+    {
+      "id": "energeia",
+      "strongs": [
+        "G1753"
+      ],
+      "foundAt": "Colossians 1:29"
+    },
+    {
+      "id": "agon",
+      "strongs": [
+        "G0073"
+      ],
+      "foundAt": "Colossians 2:1"
+    },
+    {
+      "id": "thesauros",
+      "strongs": [
+        "G2344"
+      ],
+      "foundAt": "Colossians 2:3"
+    },
+    {
+      "id": "taxis",
+      "strongs": [
+        "G5010"
+      ],
+      "foundAt": "Colossians 2:5"
+    },
+    {
+      "id": "peripateo",
+      "strongs": [
+        "G4043"
+      ],
+      "foundAt": "Colossians 1:10"
+    },
+    {
+      "id": "rhizoo",
+      "strongs": [
+        "G4492"
+      ],
+      "foundAt": "Colossians 2:7"
+    },
+    {
+      "id": "eucharistia",
+      "strongs": [
+        "G2169"
+      ],
+      "foundAt": "Colossians 2:7"
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "foundAt": "Colossians 2:8"
+    },
+    {
+      "id": "stoicheion",
+      "strongs": [
+        "G4747"
+      ],
+      "foundAt": "Colossians 2:8"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Colossians 2:11"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Colossians 2:12"
+    },
+    {
+      "id": "charizomai",
+      "strongs": [
+        "G5483"
+      ],
+      "foundAt": "Colossians 2:13"
+    },
+    {
+      "id": "paraptoma",
+      "strongs": [
+        "G3900"
+      ],
+      "foundAt": "Colossians 2:13"
+    },
+    {
+      "id": "dogma",
+      "strongs": [
+        "G1378"
+      ],
+      "foundAt": "Colossians 2:14"
+    },
+    {
+      "id": "parresia",
+      "strongs": [
+        "G3954"
+      ],
+      "foundAt": "Colossians 2:15"
+    },
+    {
+      "id": "thriambeuo",
+      "strongs": [
+        "G2358"
+      ],
+      "foundAt": "Colossians 2:15"
+    },
+    {
+      "id": "krino",
+      "strongs": [
+        "G2919"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "heorte",
+      "strongs": [
+        "G1859"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "sabbaton",
+      "strongs": [
+        "G4521"
+      ],
+      "foundAt": "Colossians 2:16"
+    },
+    {
+      "id": "tapeinophrosyne",
+      "strongs": [
+        "G5012"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "physioo",
+      "strongs": [
+        "G5448"
+      ],
+      "foundAt": "Colossians 2:18"
+    },
+    {
+      "id": "didaskalia",
+      "strongs": [
+        "G1319"
+      ],
+      "foundAt": "Colossians 2:22"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "Colossians 1:22"
+    },
+    {
+      "id": "ano",
+      "strongs": [
+        "G0507"
+      ],
+      "foundAt": "Colossians 3:1"
+    },
+    {
+      "id": "krypto",
+      "strongs": [
+        "G2928"
+      ],
+      "foundAt": "Colossians 3:3"
+    },
+    {
+      "id": "phaneroo",
+      "strongs": [
+        "G5319"
+      ],
+      "foundAt": "Colossians 1:26"
+    },
+    {
+      "id": "nekroo",
+      "strongs": [
+        "G3499"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "pathos",
+      "strongs": [
+        "G3806"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "aischrologia",
+      "strongs": [
+        "G0148"
+      ],
+      "foundAt": "Colossians 3:8"
+    },
+    {
+      "id": "pseudomai",
+      "strongs": [
+        "G5574"
+      ],
+      "foundAt": "Colossians 3:9"
+    },
+    {
+      "id": "neos",
+      "strongs": [
+        "G3501"
+      ],
+      "foundAt": "Colossians 3:10"
+    },
+    {
+      "id": "anakainoo",
+      "strongs": [
+        "G0341"
+      ],
+      "foundAt": "Colossians 3:10"
+    },
+    {
+      "id": "skythes",
+      "strongs": [
+        "G4658"
+      ],
+      "foundAt": "Colossians 3:11"
+    },
+    {
+      "id": "teleiotes",
+      "strongs": [
+        "G5047"
+      ],
+      "foundAt": "Colossians 3:14"
+    },
+    {
+      "id": "brabeuo",
+      "strongs": [
+        "G1018"
+      ],
+      "foundAt": "Colossians 3:15"
+    },
+    {
+      "id": "enoikeo",
+      "strongs": [
+        "G1774"
+      ],
+      "foundAt": "Colossians 3:16"
+    },
+    {
+      "id": "plousios_adv",
+      "strongs": [
+        "G4146"
+      ],
+      "foundAt": "Colossians 3:16"
+    },
+    {
+      "id": "aneko",
+      "strongs": [
+        "G0433"
+      ],
+      "foundAt": "Colossians 3:18"
+    },
+    {
+      "id": "pikraino",
+      "strongs": [
+        "G4087"
+      ],
+      "foundAt": "Colossians 3:19"
+    },
+    {
+      "id": "erethizo",
+      "strongs": [
+        "G2042"
+      ],
+      "foundAt": "Colossians 3:21"
+    },
+    {
+      "id": "athymeo",
+      "strongs": [
+        "G0120"
+      ],
+      "foundAt": "Colossians 3:21"
+    },
+    {
+      "id": "antapodosis",
+      "strongs": [
+        "G0469"
+      ],
+      "foundAt": "Colossians 3:24"
+    },
+    {
+      "id": "douleuo",
+      "strongs": [
+        "G1398"
+      ],
+      "foundAt": "Colossians 3:24"
+    },
+    {
+      "id": "adikeo",
+      "strongs": [
+        "G0091"
+      ],
+      "foundAt": "Colossians 3:25"
+    },
+    {
+      "id": "komizo",
+      "strongs": [
+        "G2865"
+      ],
+      "foundAt": "Colossians 3:25"
+    },
+    {
+      "id": "parecho",
+      "strongs": [
+        "G3930"
+      ],
+      "foundAt": "Colossians 4:1"
+    },
+    {
+      "id": "laleo",
+      "strongs": [
+        "G2980"
+      ],
+      "foundAt": "Colossians 4:3"
+    },
+    {
+      "id": "exo",
+      "strongs": [
+        "G1854"
+      ],
+      "foundAt": "Colossians 4:5"
+    },
+    {
+      "id": "halas",
+      "strongs": [
+        "G0217"
+      ],
+      "foundAt": "Colossians 4:6"
+    },
+    {
+      "id": "artyo",
+      "strongs": [
+        "G0741"
+      ],
+      "foundAt": "Colossians 4:6"
+    },
+    {
+      "id": "apokrinomai",
+      "strongs": [
+        "G0611"
+      ],
+      "foundAt": "Colossians 4:6"
+    },
+    {
+      "id": "syndoulos",
+      "strongs": [
+        "G4889"
+      ],
+      "foundAt": "Colossians 1:7"
+    },
+    {
+      "id": "pistos",
+      "strongs": [
+        "G4103"
+      ],
+      "foundAt": "Colossians 1:2"
+    },
+    {
+      "id": "aspasmos",
+      "strongs": [
+        "G0783"
+      ],
+      "foundAt": "Colossians 4:18"
+    },
+    {
+      "id": "synaichmalotos",
+      "strongs": [
+        "G4869"
+      ],
+      "foundAt": "Colossians 4:10"
+    },
+    {
+      "id": "anepsios",
+      "strongs": [
+        "G0431"
+      ],
+      "foundAt": "Colossians 4:10"
+    },
+    {
+      "id": "dechomai",
+      "strongs": [
+        "G1209"
+      ],
+      "foundAt": "Colossians 4:10"
+    },
+    {
+      "id": "ponos",
+      "strongs": [
+        "G4192"
+      ],
+      "foundAt": "Colossians 4:13"
+    },
+    {
+      "id": "iatros",
+      "strongs": [
+        "G2395"
+      ],
+      "foundAt": "Colossians 4:14"
+    },
+    {
+      "id": "mnemoneuo",
+      "strongs": [
+        "G3421"
+      ],
+      "foundAt": "Colossians 4:18"
+    },
+    {
+      "id": "zeteo",
+      "strongs": [
+        "G2212"
+      ],
+      "foundAt": "Colossians 3:1"
+    },
+    {
+      "id": "phroneo",
+      "strongs": [
+        "G5426"
+      ],
+      "foundAt": "Colossians 3:2"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "Colossians 3:3"
+    },
+    {
+      "id": "melos",
+      "strongs": [
+        "G3196"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "pleonexia",
+      "strongs": [
+        "G4124"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "eidololatria",
+      "strongs": [
+        "G1495"
+      ],
+      "foundAt": "Colossians 3:5"
+    },
+    {
+      "id": "orge",
+      "strongs": [
+        "G3709"
+      ],
+      "foundAt": "Colossians 3:6"
+    },
+    {
+      "id": "thymos",
+      "strongs": [
+        "G2372"
+      ],
+      "foundAt": "Colossians 3:8"
+    },
+    {
+      "id": "kakia",
+      "strongs": [
+        "G2549"
+      ],
+      "foundAt": "Colossians 3:8"
+    },
+    {
+      "id": "blasphemia",
+      "strongs": [
+        "G0988"
+      ],
+      "foundAt": "Colossians 3:8"
+    },
+    {
+      "id": "palaios",
+      "strongs": [
+        "G3820"
+      ],
+      "foundAt": "Colossians 3:9"
+    },
+    {
+      "id": "anthropos",
+      "strongs": [
+        "G0444"
+      ],
+      "foundAt": "Colossians 1:28"
+    },
+    {
+      "id": "eklektos",
+      "strongs": [
+        "G1588"
+      ],
+      "foundAt": "Colossians 3:12"
+    },
+    {
+      "id": "barbaros",
+      "strongs": [
+        "G0915"
+      ],
+      "foundAt": "Colossians 3:11"
+    },
+    {
+      "id": "splanchnon",
+      "strongs": [
+        "G4698"
+      ],
+      "foundAt": "Colossians 3:12"
+    },
+    {
+      "id": "chrestotes",
+      "strongs": [
+        "G5544"
+      ],
+      "foundAt": "Colossians 3:12"
+    },
+    {
+      "id": "praytes",
+      "strongs": [
+        "G4236"
+      ],
+      "foundAt": "Colossians 3:12"
+    },
+    {
+      "id": "makrothymia",
+      "strongs": [
+        "G3115"
+      ],
+      "foundAt": "Colossians 1:11"
+    },
+    {
+      "id": "anechomai",
+      "strongs": [
+        "G0430"
+      ],
+      "foundAt": "Colossians 3:13"
+    },
+    {
+      "id": "syndesmos",
+      "strongs": [
+        "G4886"
+      ],
+      "foundAt": "Colossians 2:19"
+    },
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "Colossians 1:5"
+    },
+    {
+      "id": "psalmos",
+      "strongs": [
+        "G5568"
+      ],
+      "foundAt": "Colossians 3:16"
+    },
+    {
+      "id": "hymnos",
+      "strongs": [
+        "G5215"
+      ],
+      "foundAt": "Colossians 3:16"
+    },
+    {
+      "id": "ode",
+      "strongs": [
+        "G5603"
+      ],
+      "foundAt": "Colossians 3:16"
+    },
+    {
+      "id": "hypotasso",
+      "strongs": [
+        "G5293"
+      ],
+      "foundAt": "Colossians 3:18"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Colossians 3:12"
+    },
+    {
+      "id": "hypakouo",
+      "strongs": [
+        "G5219"
+      ],
+      "foundAt": "Colossians 3:20"
+    },
+    {
+      "id": "euarestos",
+      "strongs": [
+        "G2101"
+      ],
+      "foundAt": "Colossians 3:20"
+    },
+    {
+      "id": "ophthalmodoulia",
+      "strongs": [
+        "G3787"
+      ],
+      "foundAt": "Colossians 3:22"
+    },
+    {
+      "id": "haplotes",
+      "strongs": [
+        "G0572"
+      ],
+      "foundAt": "Colossians 3:22"
+    },
+    {
+      "id": "phobeo",
+      "strongs": [
+        "G5399"
+      ],
+      "foundAt": "Colossians 3:22"
+    },
+    {
+      "id": "ergazomai",
+      "strongs": [
+        "G2038"
+      ],
+      "foundAt": "Colossians 3:23"
+    },
+    {
+      "id": "psyche",
+      "strongs": [
+        "G5590G",
+        "G5590H",
+        "G5590I",
+        "G5590J"
+      ],
+      "foundAt": "Colossians 3:23"
+    },
+    {
+      "id": "kleronomia",
+      "strongs": [
+        "G2817"
+      ],
+      "foundAt": "Colossians 3:24"
+    },
+    {
+      "id": "prosopolempsia",
+      "strongs": [
+        "G4382"
+      ],
+      "foundAt": "Colossians 3:25"
+    },
+    {
+      "id": "isotes",
+      "strongs": [
+        "G2471"
+      ],
+      "foundAt": "Colossians 4:1"
+    },
+    {
+      "id": "proskartereo",
+      "strongs": [
+        "G4342"
+      ],
+      "foundAt": "Colossians 4:2"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Colossians 4:2"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "Colossians 4:3"
+    },
+    {
+      "id": "desmos",
+      "strongs": [
+        "G1199"
+      ],
+      "foundAt": "Colossians 4:18"
+    },
+    {
+      "id": "exagorazo",
+      "strongs": [
+        "G1805"
+      ],
+      "foundAt": "Colossians 4:5"
+    },
+    {
+      "id": "kairos",
+      "strongs": [
+        "G2540"
+      ],
+      "foundAt": "Colossians 4:5"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "Colossians 2:2"
+    },
+    {
+      "id": "entole",
+      "strongs": [
+        "G1785"
+      ],
+      "foundAt": "Colossians 4:10"
+    },
+    {
+      "id": "synergos",
+      "strongs": [
+        "G4904"
+      ],
+      "foundAt": "Colossians 4:11"
+    },
+    {
+      "id": "plerophoreo",
+      "strongs": [
+        "G4135"
+      ],
+      "foundAt": "Colossians 4:12"
+    },
+    {
+      "id": "agapetos",
+      "strongs": [
+        "G0027"
+      ],
+      "foundAt": "Colossians 1:7"
+    },
+    {
+      "id": "epistole",
+      "strongs": [
+        "G1992"
+      ],
+      "foundAt": "Colossians 4:16"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "Colossians 4:17"
+    },
+    {
+      "id": "paralambano",
+      "strongs": [
+        "G3880"
+      ],
+      "foundAt": "Colossians 2:6"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "Colossians 4:10"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Colossians 1:2"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Colossians 1:2"
+    },
+    {
+      "id": "pleroo",
+      "strongs": [
+        "G4137"
+      ],
+      "foundAt": "Colossians 1:9"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Rome, the traditional place of Paul's imprisonment, isn't named in Colossians and lies off this map; Ephesus and Caesarea have also been suggested."
+    }
+  ]
+}

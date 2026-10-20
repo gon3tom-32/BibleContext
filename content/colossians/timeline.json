@@ -1,0 +1,109 @@
+{
+  "title": "Where Colossians fits",
+  "eras": [
+    {
+      "id": "herod",
+      "label": "Rome and Herod",
+      "order": 1
+    },
+    {
+      "id": "ministry",
+      "label": "Jesus' ministry",
+      "order": 2
+    },
+    {
+      "id": "church",
+      "label": "The early church",
+      "order": 3
+    },
+    {
+      "id": "war",
+      "label": "The Jewish war and after",
+      "order": 4
+    }
+  ],
+  "focusEraId": "church",
+  "lanes": [
+    {
+      "id": "israel",
+      "label": "Judea and Galilee"
+    },
+    {
+      "id": "neighbors",
+      "label": "The empire"
+    },
+    {
+      "id": "book",
+      "label": "This book"
+    }
+  ],
+  "events": [
+    {
+      "lane": "israel",
+      "eraId": "herod",
+      "text": "Herod the Great rules for Rome and rebuilds the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "ministry",
+      "text": "Jesus is crucified and rises (about AD 30)."
+    },
+    {
+      "lane": "israel",
+      "eraId": "church",
+      "text": "The church spreads from Jerusalem across the empire; Paul is arrested in Jerusalem (about AD 57)."
+    },
+    {
+      "lane": "israel",
+      "eraId": "war",
+      "text": "Revolt against Rome from AD 66; the temple destroyed in AD 70."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "herod",
+      "text": "Augustus becomes emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "ministry",
+      "text": "Tiberius is emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "church",
+      "text": "An earthquake strikes the Lycus Valley (about AD 60 to 61); Nero is emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "war",
+      "text": "A year of civil war, then Vespasian."
+    },
+    {
+      "lane": "book",
+      "eraId": "church",
+      "text": "Written from prison, about AD 60 to 62 (debated)",
+      "highlight": true
+    }
+  ],
+  "teaser": [
+    {
+      "title": "The gospel reaches Colossae",
+      "text": "Epaphras brings the gospel to the Lycus Valley while Paul is teaching in Ephesus (Acts 19:10), about AD 52 to 55.",
+      "tone": "green"
+    },
+    {
+      "title": "Colossians is written",
+      "text": "Paul is a prisoner, probably in Rome, about AD 60 to 62.",
+      "tone": "gold"
+    },
+    {
+      "title": "The letter is delivered",
+      "text": "Tychicus and Onesimus carry it, along with Philemon (4:7-9).",
+      "tone": "ink"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

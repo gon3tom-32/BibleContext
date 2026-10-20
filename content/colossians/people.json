@@ -1,0 +1,112 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, in chains, writing to a church he has never visited."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Named with Paul as sender (1:1)."
+  },
+  {
+    "id": "epaphras",
+    "name": "Epaphras",
+    "note": "A Colossian who brought the gospel there and is now with Paul, \"always struggling for you in prayers\" (1:7; 4:12-13)."
+  },
+  {
+    "id": "tychicus",
+    "name": "Tychicus",
+    "note": "A beloved brother and faithful servant who carries the letter and brings news (4:7)."
+  },
+  {
+    "id": "onesimus",
+    "name": "Onesimus",
+    "note": "A faithful and beloved brother, \"one of you,\" who travels with Tychicus (4:9); the runaway slave of the letter to Philemon."
+  },
+  {
+    "id": "the-colossian-believers",
+    "name": "The believers in Colossae",
+    "note": "Mostly Gentiles, a young church facing pressure from a rival teaching."
+  },
+  {
+    "id": "the-philosophers",
+    "name": "The teachers of \"philosophy\"",
+    "note": "Those whose teaching about regulations, festivals, and spiritual powers Paul warns against (2:8, 2:16-23); he does not name them."
+  },
+  {
+    "id": "the-rulers-and-powers",
+    "name": "The rulers and powers",
+    "note": "Spiritual forces that Christ made by creating and disarmed on the cross (1:16; 2:10, 2:15)."
+  },
+  {
+    "id": "aristarchus",
+    "name": "Aristarchus",
+    "note": "Paul's fellow prisoner, who sends greetings (4:10)."
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "note": "Barnabas's cousin; Paul asks them to welcome him if he comes (4:10)."
+  },
+  {
+    "id": "jesus-justus",
+    "name": "Jesus called Justus",
+    "note": "A Jewish co-worker who sends greetings (4:11)."
+  },
+  {
+    "id": "luke",
+    "name": "Luke",
+    "note": "\"The beloved physician,\" who sends greetings (4:14)."
+  },
+  {
+    "id": "demas",
+    "name": "Demas",
+    "note": "A co-worker who sends greetings (4:14)."
+  },
+  {
+    "id": "nympha",
+    "name": "Nympha",
+    "note": "A woman in Laodicea (or her household) who hosts a church in her house (4:15)."
+  },
+  {
+    "id": "archippus",
+    "name": "Archippus",
+    "note": "Told to \"fulfill the ministry\" he received in the Lord (4:17)."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The image of the invisible God, firstborn of creation and of the dead, head of the church."
+  },
+  {
+    "id": "the-colossian-wives",
+    "name": "Wives",
+    "note": "Addressed first in the household teaching (3:18)."
+  },
+  {
+    "id": "the-colossian-husbands",
+    "name": "Husbands",
+    "note": "Told to love their wives and not be bitter (3:19)."
+  },
+  {
+    "id": "the-colossian-children",
+    "name": "Children",
+    "note": "Told to obey their parents (3:20)."
+  },
+  {
+    "id": "the-colossian-fathers",
+    "name": "Fathers",
+    "note": "Told not to provoke their children (3:21)."
+  },
+  {
+    "id": "the-colossian-slaves",
+    "name": "Slaves",
+    "note": "Told to work heartily as for the Lord (3:22-25)."
+  },
+  {
+    "id": "the-colossian-masters",
+    "name": "Masters",
+    "note": "Told to treat slaves justly and fairly (4:1)."
+  }
+]

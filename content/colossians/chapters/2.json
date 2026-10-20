@@ -1,0 +1,326 @@
+{
+  "sceneHappening": "Warnings against empty philosophy and rules: in Christ you have the fullness, and have died and risen with him",
+  "summary": "Paul wants them to know how great a struggle he has for them, for those at Laodicea, and for all who have not seen his face, that their hearts may be comforted, knit together in love, and attain all the riches of full assurance of understanding, to the knowledge of the mystery of God, namely Christ, \"in whom are all the treasures of wisdom and knowledge hidden.\" He says this so that no one will deceive them with persuasive words; though absent in body, he is with them in spirit, rejoicing to see their order and the steadfastness of their faith in Christ. \"As therefore you received Christ Jesus the Lord, walk in him, rooted and built up in him, and established in your faith, even as you were taught, abounding in it with thanksgiving.\" Then the warning: \"Beware that no one capture you through his philosophy and vain deceit, after the tradition of men, after the elemental principles of the world, and not after Christ. For in him all the fullness of the Godhead dwells bodily, and in him you are made full, who is the head of all principality and power.\" In him they were also circumcised with a circumcision made without hands, in the putting off of the body of the flesh, buried with him in baptism, in which they were also raised with him through faith in the working of God, who raised him from the dead. \"You were dead through your trespasses and the uncircumcision of your flesh, he made alive together with him, having forgiven us all our trespasses, wiping out the handwriting in ordinances which was against us; and he has taken it out of the way, nailing it to his cross; having stripped off the principalities and the powers, he made a show of them openly, triumphing over them in it.\" So let no one judge them in food or drink or in respect of a feast day or a new moon or a Sabbath day, \"which are a shadow of the things to come; but the body is Christ's.\" Let no one rob them of their prize by insisting on humility and the worship of angels, going into detail about visions, vainly puffed up by his fleshly mind, and not holding firmly to the Head, from whom all the body, being supplied and knit together through the joints and ligaments, grows with the growth of God. If they died with Christ from the elemental principles of the world, why, as though living in the world, do they submit to regulations: \"Don't handle, nor taste, nor touch\" (all about things that perish with use), according to the commandments and doctrines of men? These things have indeed a show of wisdom in self-imposed worship, humility, and severity to the body, but are not of any value against the indulgence of the flesh.",
+  "whySettingMatters": "Paul never names the teaching he opposes, and scholars debate what it was. From his answer it seems to have mixed Jewish practices (food laws, festivals, new moons, Sabbaths), strict self-denial, visions, and some veneration of angels or spiritual powers, and to have called itself \"philosophy.\" The \"elemental principles of the world\" (stoicheia) are debated, as in Galatians 4: they may be basic religious teachings, or the spiritual forces thought to govern the world. The expression translated \"worship of angels\" can mean worshipping angels or sharing in the worship that angels offer, and \"going into detail about visions\" is also uncertain; both are among the hardest phrases in the letter. The \"handwriting in ordinances\" (cheirographon) was a signed record of debt, an IOU, which Paul says God canceled and nailed to the cross, likely echoing the notice fixed to a crucified person. The victory image, \"triumphing over them,\" draws on a Roman triumph, with captives paraded behind the conqueror. Paul's rule of thumb is that these practices are shadow and Christ is the substance, and his central claim is that his readers have already died and been raised with Christ.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Struggles for churches he has not seen."
+    },
+    {
+      "id": "the-colossian-believers",
+      "note": "Warned not to be captured by empty deceit."
+    },
+    {
+      "id": "the-philosophers",
+      "note": "Whose rules about food, festivals, and visions Paul answers."
+    },
+    {
+      "id": "the-rulers-and-powers",
+      "note": "Disarmed and put to open shame at the cross."
+    },
+    {
+      "id": "jesus",
+      "note": "In whom the whole fullness dwells bodily."
+    }
+  ],
+  "questions": [
+    "Paul says all the treasures of wisdom are hidden in Christ. Why would that matter to people tempted by other sources of wisdom?",
+    "He says the rules about food and festivals are a \"shadow\" and Christ is the \"substance.\" How can something be both valuable and not final?",
+    "\"You have died with Christ.\" What does it mean to live as someone who has already died and risen?",
+    "Paul says that rules with a \"show of wisdom\" cannot stop the flesh. Why do you think rules fail at that?"
+  ],
+  "words": [
+    {
+      "id": "agon",
+      "note": "\"How greatly I struggle for you\" (2:1)."
+    },
+    {
+      "id": "plerophoria",
+      "note": "\"All the riches of the full assurance of understanding\" (2:2)."
+    },
+    {
+      "id": "symbibazo",
+      "note": "\"Knit together in love\" (2:2, 2:19)."
+    },
+    {
+      "id": "thesauros",
+      "note": "\"In whom are all the treasures of wisdom and knowledge hidden\" (2:3)."
+    },
+    {
+      "id": "apokryphos",
+      "note": "\"Hidden\" (2:3)."
+    },
+    {
+      "id": "pithanologia",
+      "note": "\"With persuasive speech\" (2:4)."
+    },
+    {
+      "id": "paralogizomai",
+      "note": "\"Let no one deceive you\" (2:4)."
+    },
+    {
+      "id": "taxis",
+      "note": "\"Rejoicing and seeing your order\" (2:5)."
+    },
+    {
+      "id": "stereoma",
+      "note": "\"And the steadfastness of your faith\" (2:5)."
+    },
+    {
+      "id": "peripateo",
+      "note": "\"So walk in him\" (2:6)."
+    },
+    {
+      "id": "rhizoo",
+      "note": "\"Rooted\" (2:7)."
+    },
+    {
+      "id": "epoikodomeo",
+      "note": "\"And built up in him\" (2:7)."
+    },
+    {
+      "id": "bebaioo",
+      "note": "\"Established in the faith\" (2:7)."
+    },
+    {
+      "id": "eucharistia",
+      "note": "\"Abounding in it in thanksgiving\" (2:7)."
+    },
+    {
+      "id": "sylagogeo",
+      "note": "\"That no one takes you captive\" (2:8)."
+    },
+    {
+      "id": "philosophia",
+      "note": "\"Through his philosophy and vain deceit\" (2:8)."
+    },
+    {
+      "id": "apate",
+      "note": "\"And vain deceit\" (2:8)."
+    },
+    {
+      "id": "paradosis",
+      "note": "\"After the tradition of men\" (2:8)."
+    },
+    {
+      "id": "stoicheion",
+      "note": "\"After the elemental principles of the world\" (2:8, 2:20)."
+    },
+    {
+      "id": "theotes",
+      "note": "\"All the fullness of the Godhead\" (2:9)."
+    },
+    {
+      "id": "somatikos",
+      "note": "\"Dwells bodily\" (2:9)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"In whom you were also circumcised\" (2:11)."
+    },
+    {
+      "id": "acheiropoietos",
+      "note": "\"With a circumcision not made with hands\" (2:11)."
+    },
+    {
+      "id": "apekdysis",
+      "note": "\"In the putting off of the body of the sins of the flesh\" (2:11)."
+    },
+    {
+      "id": "synthapto",
+      "note": "\"Having been buried with him in baptism\" (2:12)."
+    },
+    {
+      "id": "synegeiro",
+      "note": "\"In whom you were also raised with him\" (2:12)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"Through faith in the working of God, who raised him from the dead\" (2:12)."
+    },
+    {
+      "id": "synzoopoieo",
+      "note": "\"He made alive together with him\" (2:13)."
+    },
+    {
+      "id": "charizomai",
+      "note": "\"Having forgiven us all our trespasses\" (2:13)."
+    },
+    {
+      "id": "paraptoma",
+      "note": "\"You were dead through your trespasses\" (2:13)."
+    },
+    {
+      "id": "exaleipho",
+      "note": "\"Wiping out the handwriting\" (2:14)."
+    },
+    {
+      "id": "cheirographon",
+      "note": "\"The handwriting in ordinances which was against us\" (2:14)."
+    },
+    {
+      "id": "dogma",
+      "note": "\"In ordinances\" (2:14, 2:20)."
+    },
+    {
+      "id": "hypenantios",
+      "note": "\"Which was against us\" (2:14)."
+    },
+    {
+      "id": "proseloo",
+      "note": "\"Nailing it to the cross\" (2:14)."
+    },
+    {
+      "id": "aperkdyomai",
+      "note": "\"Having stripped off the principalities and the powers\" (2:15)."
+    },
+    {
+      "id": "deigmatizo",
+      "note": "\"He made a show of them openly\" (2:15)."
+    },
+    {
+      "id": "parresia",
+      "note": "\"Openly\" (2:15)."
+    },
+    {
+      "id": "thriambeuo",
+      "note": "\"Triumphing over them in it\" (2:15)."
+    },
+    {
+      "id": "krino",
+      "note": "\"Let no one judge you in food or in drink\" (2:16)."
+    },
+    {
+      "id": "brosis",
+      "note": "\"In food\" (2:16)."
+    },
+    {
+      "id": "posis",
+      "note": "\"Or in drink\" (2:16)."
+    },
+    {
+      "id": "heorte",
+      "note": "\"Or in respect of a feast day\" (2:16)."
+    },
+    {
+      "id": "neomenia",
+      "note": "\"Or a new moon\" (2:16)."
+    },
+    {
+      "id": "sabbaton",
+      "note": "\"Or a Sabbath day\" (2:16)."
+    },
+    {
+      "id": "skia",
+      "note": "\"Which are a shadow of the things to come\" (2:17)."
+    },
+    {
+      "id": "mello",
+      "note": "\"Of the things to come\" (2:17)."
+    },
+    {
+      "id": "katabrabeuo",
+      "note": "\"Let no one rob you of your prize\" (2:18)."
+    },
+    {
+      "id": "tapeinophrosyne",
+      "note": "\"By a voluntary humility\" (2:18, 2:23)."
+    },
+    {
+      "id": "threskeia",
+      "note": "\"And worshipping of the angels\" (2:18)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"The worshipping of the angels\" (2:18)."
+    },
+    {
+      "id": "embateuo",
+      "note": "\"Dwelling in the things which he has seen\" (2:18)."
+    },
+    {
+      "id": "physioo",
+      "note": "\"Vainly puffed up\" (2:18)."
+    },
+    {
+      "id": "krateo",
+      "note": "\"And not holding firmly to the Head\" (2:19)."
+    },
+    {
+      "id": "kephale",
+      "note": "\"To the Head\" (2:10, 2:19)."
+    },
+    {
+      "id": "auxesis",
+      "note": "\"Grows with the growth of God\" (2:19)."
+    },
+    {
+      "id": "dogmatizo",
+      "note": "\"Why do you subject yourselves to ordinances?\" (2:20)."
+    },
+    {
+      "id": "geuomai",
+      "note": "\"Nor taste\" (2:21)."
+    },
+    {
+      "id": "thigganO",
+      "note": "\"Nor touch\" (2:21)."
+    },
+    {
+      "id": "apochresis",
+      "note": "\"Which all perish with use\" (2:22)."
+    },
+    {
+      "id": "entalma",
+      "note": "\"According to the commandments\" (2:22)."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"And doctrines of men\" (2:22)."
+    },
+    {
+      "id": "ethelothreskia",
+      "note": "\"In self-imposed worship\" (2:23)."
+    },
+    {
+      "id": "aphedia",
+      "note": "\"And severity to the body\" (2:23)."
+    },
+    {
+      "id": "time",
+      "note": "\"Not of any value\" (2:23)."
+    },
+    {
+      "id": "plesmone",
+      "note": "\"Against the indulgence of the flesh\" (2:23)."
+    },
+    {
+      "id": "sarx",
+      "note": "\"The indulgence of the flesh\" (2:11, 2:13, 2:18, 2:23)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Galatians 4:8-11",
+      "note": "how can you turn back to the weak and worthless elementary principles?"
+    },
+    {
+      "ref": "Romans 6:3-11",
+      "note": "we were buried therefore with him by baptism into death"
+    },
+    {
+      "ref": "Ephesians 2:1-6",
+      "note": "dead in trespasses, God made us alive together with Christ"
+    },
+    {
+      "ref": "Hebrews 10:1",
+      "note": "the law has only a shadow of the good things to come"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

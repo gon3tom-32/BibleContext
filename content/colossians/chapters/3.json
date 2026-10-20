@@ -1,0 +1,354 @@
+{
+  "sceneHappening": "Raised with Christ: put off the old self, put on the new, and live it out at home and at work",
+  "summary": "\"If then you were raised together with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your mind on the things that are above, not on the things that are on the earth. For you died, and your life is hidden with Christ in God. When Christ, our life, is revealed, then you also will be revealed with him in glory.\" So put to death what belongs to your earthly nature: sexual immorality, uncleanness, passion, evil desire, and covetousness, which is idolatry; because of these things the wrath of God comes on the children of disobedience, in which you also once walked when you lived in them. But now put them all away: anger, wrath, malice, slander, and shameful speech out of your mouth. Don't lie to one another, seeing that you have put off the old man with his doings and have put on the new man, who is being renewed in knowledge after the image of his creator, \"where there can't be Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondservant, freeman; but Christ is all, and in all.\" So, as God's chosen ones, holy and loved, put on a heart of compassion, kindness, humility, gentleness, and patience; bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do. \"Above all these things, walk in love, which is the bond of perfection. Let the peace of God rule in your hearts, to which also you were called in one body, and be thankful. Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your hearts to the Lord. Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father through him.\" Then follows household teaching: wives, be in subjection to your husbands, as is fitting in the Lord. Husbands, love your wives, and don't be bitter against them. Children, obey your parents in all things, for this pleases the Lord. Fathers, don't provoke your children, so that they won't be discouraged. Servants, obey in all things those who are your masters according to the flesh, not with eye-service, as men-pleasers, but in singleness of heart, fearing the Lord. \"Whatever you do, work heartily, as for the Lord, and not for men, knowing that from the Lord you will receive the reward of the inheritance; you serve the Lord Christ.\" For he who does wrong will receive the consequences of the wrong that he has done, and there is no partiality.",
+  "whySettingMatters": "With chapter 3 the letter turns from what Christ has done to how to live in light of it, and the turning point is the repeated pattern of \"died and raised with Christ\" (2:12, 3:1) leading to \"put off\" and \"put on.\" The \"things above\" do not mean escaping the world, since the commands that follow are very practical: speech, forgiveness, work. The list in 3:5-9 names two kinds of sin, those of the body and those of speech and anger, and \"covetousness, which is idolatry\" ties greed to worship. The line about no Greek and Jew, barbarian, Scythian reflects the real mix of the Roman world: \"barbarian\" meant a non-Greek speaker, and \"Scythian\" was the stereotype of the lowest, wildest outsider, so Paul is naming extremes. The household code (3:18-4:1) has parallels in Ephesians 5:22-6:9 and in Greek writing on household management. It speaks to wives, husbands, children, fathers, slaves, and masters directly, and it says slaves and masters answer to the same Lord; Paul does not here call for ending slavery, and this is an issue in later discussion. The letter to Philemon, sent with Onesimus at the same time, deals with this very situation.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Calls the Colossians to live what they received."
+    },
+    {
+      "id": "the-colossian-believers",
+      "note": "Raised with Christ, called to put off the old and put on the new."
+    },
+    {
+      "id": "jesus",
+      "note": "Seated at God's right hand; \"Christ is all, and in all.\""
+    },
+    {
+      "id": "the-colossian-wives",
+      "note": "Addressed in the household teaching."
+    },
+    {
+      "id": "the-colossian-husbands",
+      "note": "Called to love their wives and not be bitter."
+    },
+    {
+      "id": "the-colossian-children",
+      "note": "Told to obey their parents."
+    },
+    {
+      "id": "the-colossian-fathers",
+      "note": "Told not to provoke their children."
+    },
+    {
+      "id": "the-colossian-slaves",
+      "note": "Told to work heartily as for the Lord."
+    }
+  ],
+  "questions": [
+    "Paul says, \"you died, and your life is hidden with Christ.\" How does that change the way you see everyday struggles?",
+    "The list of what to put off and put on is paired with a picture of clothing. What is gained by describing character as something to put on?",
+    "\"Christ is all, and in all.\" What kinds of divisions does that say are not the last word?",
+    "\"Whatever you do, do it all in the name of the Lord Jesus.\" What would that mean for ordinary work?"
+  ],
+  "words": [
+    {
+      "id": "egeiro",
+      "note": "\"If then you were raised together with Christ\" (3:1)."
+    },
+    {
+      "id": "synegeiro",
+      "note": "\"Raised together with Christ\" (3:1)."
+    },
+    {
+      "id": "zeteo",
+      "note": "\"Seek the things that are above\" (3:1)."
+    },
+    {
+      "id": "ano",
+      "note": "\"The things that are above\" (3:1-2)."
+    },
+    {
+      "id": "phroneo",
+      "note": "\"Set your mind on the things that are above\" (3:2)."
+    },
+    {
+      "id": "krypto",
+      "note": "\"Your life is hidden with Christ in God\" (3:3)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"Christ, our life\" (3:3-4)."
+    },
+    {
+      "id": "phaneroo",
+      "note": "\"When Christ, our life, is revealed\" (3:4)."
+    },
+    {
+      "id": "nekroo",
+      "note": "\"Put to death therefore your members\" (3:5)."
+    },
+    {
+      "id": "melos",
+      "note": "\"Your members which are on the earth\" (3:5)."
+    },
+    {
+      "id": "porneia",
+      "note": "\"Sexual immorality\" (3:5)."
+    },
+    {
+      "id": "akatharsia",
+      "note": "\"Uncleanness\" (3:5)."
+    },
+    {
+      "id": "pathos",
+      "note": "\"Passion\" (3:5)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"Evil desire\" (3:5)."
+    },
+    {
+      "id": "pleonexia",
+      "note": "\"And covetousness, which is idolatry\" (3:5)."
+    },
+    {
+      "id": "eidololatria",
+      "note": "\"Which is idolatry\" (3:5)."
+    },
+    {
+      "id": "orge",
+      "note": "\"The wrath of God comes\" and \"anger, wrath\" (3:6, 3:8)."
+    },
+    {
+      "id": "thymos",
+      "note": "\"Anger, wrath\" (3:8)."
+    },
+    {
+      "id": "kakia",
+      "note": "\"Malice\" (3:8)."
+    },
+    {
+      "id": "blasphemia",
+      "note": "\"Slander\" (3:8)."
+    },
+    {
+      "id": "aischrologia",
+      "note": "\"Shameful speaking out of your mouth\" (3:8)."
+    },
+    {
+      "id": "pseudomai",
+      "note": "\"Don't lie to one another\" (3:9)."
+    },
+    {
+      "id": "apekdysis",
+      "note": "\"Seeing that you have put off the old man\" (3:9)."
+    },
+    {
+      "id": "palaios",
+      "note": "\"The old man with his doings\" (3:9)."
+    },
+    {
+      "id": "anthropos",
+      "note": "\"The old man... the new man\" (3:9-10)."
+    },
+    {
+      "id": "neos",
+      "note": "\"And have put on the new man\" (3:10)."
+    },
+    {
+      "id": "anakainoo",
+      "note": "\"Who is being renewed\" (3:10)."
+    },
+    {
+      "id": "epignosis",
+      "note": "\"In knowledge\" (3:10)."
+    },
+    {
+      "id": "eikon",
+      "note": "\"After the image of his creator\" (3:10)."
+    },
+    {
+      "id": "barbaros",
+      "note": "\"Barbarian\" (3:11)."
+    },
+    {
+      "id": "skythes",
+      "note": "\"Scythian\" (3:11)."
+    },
+    {
+      "id": "eklektos",
+      "note": "\"God's chosen ones\" (3:12)."
+    },
+    {
+      "id": "splanchnon",
+      "note": "\"A heart of compassion\" (3:12)."
+    },
+    {
+      "id": "chrestotes",
+      "note": "\"Kindness\" (3:12)."
+    },
+    {
+      "id": "tapeinophrosyne",
+      "note": "\"Humility\" (3:12)."
+    },
+    {
+      "id": "praytes",
+      "note": "\"Gentleness\" (3:12)."
+    },
+    {
+      "id": "makrothymia",
+      "note": "\"Patience\" (3:12)."
+    },
+    {
+      "id": "anechomai",
+      "note": "\"Bearing with one another\" (3:13)."
+    },
+    {
+      "id": "charizomai",
+      "note": "\"And forgiving each other\" (3:13)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Walk in love, which is the bond of perfection\" (3:14)."
+    },
+    {
+      "id": "syndesmos",
+      "note": "\"The bond of perfection\" (3:14)."
+    },
+    {
+      "id": "teleiotes",
+      "note": "\"Of perfection\" (3:14)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Let the peace of God rule\" (3:15)."
+    },
+    {
+      "id": "brabeuo",
+      "note": "\"Rule in your hearts\" (3:15)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "\"Giving thanks to God the Father\" (3:15-17)."
+    },
+    {
+      "id": "logos",
+      "note": "\"Let the word of Christ dwell in you richly\" (3:16, 3:17)."
+    },
+    {
+      "id": "enoikeo",
+      "note": "\"Dwell in you\" (3:16)."
+    },
+    {
+      "id": "plousios_adv",
+      "note": "\"Richly\" (3:16)."
+    },
+    {
+      "id": "noutheteo",
+      "note": "\"Admonishing one another\" (3:16)."
+    },
+    {
+      "id": "psalmos",
+      "note": "\"With psalms\" (3:16)."
+    },
+    {
+      "id": "hymnos",
+      "note": "\"Hymns\" (3:16)."
+    },
+    {
+      "id": "ode",
+      "note": "\"Spiritual songs\" (3:16)."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"Wives, be in subjection to your husbands\" (3:18)."
+    },
+    {
+      "id": "aneko",
+      "note": "\"As is fitting in the Lord\" (3:18)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"Husbands, love your wives\" (3:19)."
+    },
+    {
+      "id": "pikraino",
+      "note": "\"Don't be bitter against them\" (3:19)."
+    },
+    {
+      "id": "hypakouo",
+      "note": "\"Children, obey your parents\" (3:20, 3:22)."
+    },
+    {
+      "id": "euarestos",
+      "note": "\"For this pleases the Lord\" (3:20)."
+    },
+    {
+      "id": "erethizo",
+      "note": "\"Don't provoke your children\" (3:21)."
+    },
+    {
+      "id": "athymeo",
+      "note": "\"So that they won't be discouraged\" (3:21)."
+    },
+    {
+      "id": "ophthalmodoulia",
+      "note": "\"Not with eye-service\" (3:22)."
+    },
+    {
+      "id": "haplotes",
+      "note": "\"In singleness of heart\" (3:22)."
+    },
+    {
+      "id": "phobeo",
+      "note": "\"Fearing the Lord\" (3:22)."
+    },
+    {
+      "id": "ergazomai",
+      "note": "\"Whatever you do, work heartily\" (3:23)."
+    },
+    {
+      "id": "psyche",
+      "note": "\"Work heartily\" (3:23)."
+    },
+    {
+      "id": "antapodosis",
+      "note": "\"The reward of the inheritance\" (3:24)."
+    },
+    {
+      "id": "kleronomia",
+      "note": "\"The reward of the inheritance\" (3:24)."
+    },
+    {
+      "id": "douleuo",
+      "note": "\"You serve the Lord Christ\" (3:24)."
+    },
+    {
+      "id": "adikeo",
+      "note": "\"He who does wrong\" (3:25)."
+    },
+    {
+      "id": "komizo",
+      "note": "\"Will receive the wrong that he has done\" (3:25)."
+    },
+    {
+      "id": "prosopolempsia",
+      "note": "\"There is no partiality\" (3:25)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Romans 6:1-11",
+      "note": "we have been buried with him... so that we too might walk in newness of life"
+    },
+    {
+      "ref": "Ephesians 4:22-32",
+      "note": "put off your old self... put on the new self"
+    },
+    {
+      "ref": "1 Corinthians 10:31",
+      "note": "whether you eat or drink, or whatever you do, do all to the glory of God"
+    },
+    {
+      "ref": "Galatians 3:26-28",
+      "note": "there is neither Jew nor Greek, slave nor free, male nor female"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
