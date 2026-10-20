@@ -28,7 +28,14 @@ jobs:
       - run: npm ci
       # Content data is already committed, so the build doesn't fetch sources.
       # The site is served from bible.tomggonzalez.com (root), so no BASE_PATH.
-      - run: npm run build
+      # The build fetches Google Fonts, which sometimes fails once; try up to 3 times.
+      - run: |
+          for attempt in 1 2 3; do
+            npm run build && exit 0
+            echo "Build failed (attempt $attempt of 3)"
+            sleep 20
+          done
+          exit 1
       - run: touch out/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
