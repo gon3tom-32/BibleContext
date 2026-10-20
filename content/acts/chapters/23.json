@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "Before the council, a plot to kill him, and a night escort to Caesarea",
+  "summary": "Paul, looking intently at the council, says, \"Brothers, I have lived before God in all good conscience until this day.\" The high priest Ananias commands those standing by to strike him on the mouth. Then Paul says, \"God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?\" Those who stand by say, \"Do you malign God's high priest?\" Paul says, \"I didn't know, brothers, that he was high priest. For it is written, 'You shall not speak evil of a ruler of your people.'\" Perceiving that one part were Sadducees and the other Pharisees, Paul cries out in the council, \"Men and brothers, I am a Pharisee, a son of Pharisees. Concerning the hope and resurrection of the dead I am being judged!\" When he says this, an argument breaks out between the Pharisees and Sadducees, and the assembly is divided, for the Sadducees say there is no resurrection, no angel, and no spirit, but the Pharisees confess all of them. There is a great outcry, and some of the scribes of the Pharisees' part rise up and argue: \"We find no evil in this man. But if a spirit or angel has spoken to him, let's not fight against God.\" When a great argument arises, the commanding officer, fearing that Paul will be torn in pieces by them, commands the soldiers to take him by force from among them and bring him into the barracks. The following night the Lord stands by him and says, \"Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.\" When it is day, some of the Jews form a conspiracy and bind themselves under a curse, saying they will neither eat nor drink until they have killed Paul; there are more than forty who have made this conspiracy. They go to the chief priests and elders and ask them to request that the commanding officer bring Paul down, as though they would judge his case more exactly, while they themselves will be ready to kill him before he comes near. But Paul's sister's son hears of their ambush, comes into the barracks, and tells Paul, who calls one of the centurions and says, \"Bring this young man to the commanding officer, for he has something to tell him.\" The commanding officer takes him by the hand, goes aside, and asks privately, \"What is it that you have to tell me?\" He says, \"The Jews have agreed to ask you to bring Paul down tomorrow to the council, as though intending to inquire somewhat more accurately concerning him. Therefore don't yield to them, for more than forty men of them lie in wait for him, who have bound themselves under a curse neither to eat nor to drink until they have killed him.\" The commanding officer lets the young man go, charging him, \"Tell no one that you have revealed these things to me.\" He calls two of the centurions and says, \"Prepare two hundred soldiers to go as far as Caesarea, with seventy horsemen and two hundred men armed with spears, at the third hour of the night. Provide animals, that they may set Paul on one, and bring him safely to Felix the governor.\" He writes a letter: \"Claudius Lysias to the most excellent governor Felix: Greetings. This man was seized by the Jews, and was about to be killed by them, when I came with the soldiers and rescued him, having learned that he was a Roman. Desiring to know the cause why they accused him, I brought him down to their council. I found him to be accused about questions of their law, but not to be charged with anything worthy of death or of imprisonment. When I was told that there would be a plot against the man, I sent him to you immediately, charging his accusers also to bring their accusations against him before you.\" The soldiers, as they were commanded, take Paul and bring him by night to Antipatris. On the next day they let the horsemen go with him, and return to the barracks. When they come to Caesarea and deliver the letter to the governor, they also present Paul to him. When the governor reads it, he asks what province he is from, and when he learns that he is from Cilicia, he says, \"I will hear you fully when your accusers also arrive.\" He commands that he be kept in Herod's palace.",
+  "whySettingMatters": "The high priest Ananias (son of Nedebaeus) held the office from about AD 47 to 59, and was known for his greed and violence; he was killed by Jewish rebels in AD 66. Paul's retort, \"whitewashed wall,\" echoes Ezekiel 13:10-15 and Jesus' \"whitewashed tombs\" (Matthew 23:27); his explanation that he did not know the speaker was high priest is odd, and the reasons (poor eyesight, the high priest not wearing robes, irony) are debated. Paul quotes Exodus 22:28 to show respect for the office. The council was split between the Sadducees, who denied resurrection and angels and spirits, and the Pharisees, who affirmed all three, and Paul uses the split. Luke's remark that Paul called himself a Pharisee makes the point that for Paul the resurrection was at the heart of Jewish hope. The vision of the Lord assures Paul that he will reach Rome. The forty conspirators bound themselves by a vow, with the high priests' help, which shows how far the plot went; the intervention of Paul's nephew, otherwise unknown, is a rare mention of his family. Claudius Lysias' letter slightly polishes his own role by saying he rescued Paul because he was a Roman, whereas 21:33-22:29 suggests he learned this later. The escort of 470 soldiers is large, and Antipatris was a Roman stage on the road to Caesarea, about 35 miles from Jerusalem. Felix (governor from about AD 52 to 59) hears the case in Herod's palace.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Before the council, then rescued and sent to Caesarea."
+    },
+    {
+      "id": "ananias-the-high-priest",
+      "note": "Orders Paul to be struck on the mouth."
+    },
+    {
+      "id": "the-sadducees",
+      "note": "Deny resurrection, angels, and spirit."
+    },
+    {
+      "id": "the-pharisees",
+      "note": "Some defend Paul."
+    },
+    {
+      "id": "the-forty-conspirators",
+      "note": "Swear not to eat or drink until Paul is dead."
+    },
+    {
+      "id": "pauls-nephew",
+      "note": "Hears of the ambush and warns Paul."
+    },
+    {
+      "id": "claudius-lysias",
+      "note": "The tribune who sends Paul to Felix."
+    },
+    {
+      "id": "felix",
+      "note": "The governor in Caesarea."
+    }
+  ],
+  "questions": [
+    "Paul uses the Pharisee-Sadducee split. Is that clever, honest, or both?",
+    "The Lord says, \"You must testify also at Rome.\" What does that promise mean for what follows?",
+    "Paul's nephew speaks up and the tribune listens. What does this tell you about how God works through ordinary people?",
+    "Claudius Lysias' letter is a little self-serving. What does that say about how Luke tells the story?"
+  ],
+  "words": [
+    {
+      "id": "syneidesis",
+      "note": "\"I have lived before God in all good conscience\" (23:1)."
+    },
+    {
+      "id": "anathematizo",
+      "note": "\"Bound themselves under a curse\" (23:12, 23:14, 23:21)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"Concerning the hope and resurrection of the dead\" (23:6)."
+    },
+    {
+      "id": "anastasis",
+      "note": "\"The resurrection of the dead\" (23:6-8)."
+    },
+    {
+      "id": "martyreo",
+      "note": "\"As you have testified about me at Jerusalem\" (23:11)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"There is no resurrection, no angel, and no spirit\" (23:8-9)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 22:28",
+      "note": "you shall not speak evil of a ruler of your people"
+    },
+    {
+      "ref": "Matthew 23:27",
+      "note": "whitewashed tombs"
+    },
+    {
+      "ref": "Ecclesiastes 10:20",
+      "note": "do not curse the king, even in your thoughts"
+    }
+  ],
+  "number": 23,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

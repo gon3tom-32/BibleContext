@@ -346,6 +346,38 @@
     {
       "id": "judas-barsabbas",
       "theographic": "judas_1759"
+    },
+    {
+      "id": "felix",
+      "theographic": "felix_1257"
+    },
+    {
+      "id": "drusilla",
+      "theographic": "drusilla_1024"
+    },
+    {
+      "id": "agrippa-ii",
+      "theographic": "agrippa_111"
+    },
+    {
+      "id": "bernice",
+      "theographic": "bernice_482"
+    },
+    {
+      "id": "julius",
+      "theographic": "julius_1763"
+    },
+    {
+      "id": "publius",
+      "theographic": "publius_2374"
+    },
+    {
+      "id": "tertullus",
+      "theographic": "tertullus_2844"
+    },
+    {
+      "id": "ananias-the-high-priest",
+      "theographic": "ananias_260"
     }
   ],
   "words": [
@@ -935,6 +967,161 @@
         "G2840"
       ],
       "foundAt": "Acts 21:28"
+    },
+    {
+      "id": "politeia",
+      "strongs": [
+        "G4174"
+      ],
+      "foundAt": "Acts 22:28"
+    },
+    {
+      "id": "apolouo",
+      "strongs": [
+        "G0628"
+      ],
+      "foundAt": "Acts 22:16"
+    },
+    {
+      "id": "epikaleo",
+      "strongs": [
+        "G1941"
+      ],
+      "foundAt": "Acts 22:16"
+    },
+    {
+      "id": "syneidesis",
+      "strongs": [
+        "G4893"
+      ],
+      "foundAt": "Acts 23:1"
+    },
+    {
+      "id": "anathematizo",
+      "strongs": [
+        "G0332"
+      ],
+      "foundAt": "Acts 23:12"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "Acts 23:6"
+    },
+    {
+      "id": "hairesis",
+      "strongs": [
+        "G0139"
+      ],
+      "foundAt": "Acts 24:5"
+    },
+    {
+      "id": "enkrateia",
+      "strongs": [
+        "G1466"
+      ],
+      "foundAt": "Acts 24:25"
+    },
+    {
+      "id": "sebastos",
+      "strongs": [
+        "G4575"
+      ],
+      "foundAt": "Acts 25:21"
+    },
+    {
+      "id": "phantasia",
+      "strongs": [
+        "G5325"
+      ],
+      "foundAt": "Acts 25:23"
+    },
+    {
+      "id": "mainomai",
+      "strongs": [
+        "G3105"
+      ],
+      "foundAt": "Acts 26:24"
+    },
+    {
+      "id": "apeithes",
+      "strongs": [
+        "G0545"
+      ],
+      "foundAt": "Acts 26:19"
+    },
+    {
+      "id": "kentron",
+      "strongs": [
+        "G2759"
+      ],
+      "foundAt": "Acts 26:14"
+    },
+    {
+      "id": "diasozo",
+      "strongs": [
+        "G1295"
+      ],
+      "foundAt": "Acts 27:43"
+    },
+    {
+      "id": "typhonikos",
+      "strongs": [
+        "G5189"
+      ],
+      "foundAt": "Acts 27:14"
+    },
+    {
+      "id": "akolytos",
+      "strongs": [
+        "G0209"
+      ],
+      "foundAt": "Acts 28:31"
+    },
+    {
+      "id": "philanthropia",
+      "strongs": [
+        "G5363"
+      ],
+      "foundAt": "Acts 28:2"
+    },
+    {
+      "id": "barbaros",
+      "strongs": [
+        "G0915"
+      ],
+      "foundAt": "Acts 28:2"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Acts 24:25"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "Acts 25:26"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Acts 27:35"
+    },
+    {
+      "id": "phobeo",
+      "strongs": [
+        "G5399"
+      ],
+      "foundAt": "Acts 10:2"
     }
   ],
   "crossRefs": {
@@ -949,10 +1136,6 @@
     {
       "area": "places",
       "text": "The map shows nine of the many places in Acts; the Context page lists them all."
-    },
-    {
-      "area": "chapters",
-      "text": "Chapters 22 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

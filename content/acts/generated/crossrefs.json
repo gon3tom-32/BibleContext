@@ -1863,7 +1863,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Acts 9:1-19",
+          "inDataset": true,
+          "votes": 64
+        },
+        {
+          "ref": "Acts 26:9-18",
+          "inDataset": true,
+          "votes": 39
+        },
+        {
+          "ref": "Acts 16:37",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "1 Corinthians 6:11",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Philippians 3:5-6",
+          "inDataset": true,
+          "votes": 9
+        }
+      ]
     },
     {
       "number": 23,
@@ -1925,7 +1951,23 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 22:28",
+          "inDataset": true,
+          "votes": 26
+        },
+        {
+          "ref": "Matthew 23:27",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Ecclesiastes 10:20",
+          "inDataset": true,
+          "votes": 14
+        }
+      ]
     },
     {
       "number": 24,
@@ -1989,7 +2031,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 12:2",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Romans 15:25-27",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Acts 23:6",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "1 Peter 3:15",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "1 Timothy 1:5",
+          "inDataset": true,
+          "votes": 10
+        }
+      ]
     },
     {
       "number": 25,
@@ -2039,7 +2107,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Acts 23:11",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Luke 21:12-13",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Acts 9:15",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Philippians 1:12-14",
+          "inDataset": true,
+          "votes": 3
+        }
+      ]
     },
     {
       "number": 26,
@@ -2101,7 +2190,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 42:6-7",
+          "inDataset": true,
+          "votes": 22
+        },
+        {
+          "ref": "Jeremiah 1:7-8",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Acts 9:1-19",
+          "inDataset": true,
+          "votes": 49
+        },
+        {
+          "ref": "Acts 22:1-21",
+          "inDataset": true,
+          "votes": 61
+        }
+      ]
     },
     {
       "number": 27,
@@ -2166,7 +2276,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 107:23-30",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Jonah 1:4-16",
+          "inDataset": true,
+          "votes": 21
+        },
+        {
+          "ref": "2 Corinthians 11:25",
+          "inDataset": true,
+          "votes": 8
+        },
+        {
+          "ref": "Acts 23:11",
+          "inDataset": true,
+          "votes": 21
+        }
+      ]
     },
     {
       "number": 28,
@@ -2228,7 +2359,23 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 6:9-10",
+          "inDataset": true,
+          "votes": 52
+        },
+        {
+          "ref": "Philippians 1:12-14",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Ezekiel 12:2",
+          "inDataset": true,
+          "votes": 17
+        }
+      ]
     }
   ]
 }

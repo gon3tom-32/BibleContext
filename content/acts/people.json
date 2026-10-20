@@ -573,5 +573,140 @@
     "id": "the-tribune",
     "name": "The tribune",
     "note": "The Roman commander in Jerusalem; named Claudius Lysias later."
+  },
+  {
+    "id": "the-crowd-in-jerusalem",
+    "name": "The crowd in Jerusalem",
+    "note": "The people in the temple area who listen to Paul's defense."
+  },
+  {
+    "id": "the-centurion",
+    "name": "The centurion",
+    "note": "An officer who warns the tribune that Paul is a Roman."
+  },
+  {
+    "id": "ananias-the-high-priest",
+    "name": "Ananias the high priest",
+    "note": "High priest from about AD 47 to 59."
+  },
+  {
+    "id": "the-pharisees",
+    "name": "The Pharisees",
+    "note": "A movement devoted to holiness and the law, who believed in the resurrection."
+  },
+  {
+    "id": "the-forty-conspirators",
+    "name": "The forty conspirators",
+    "note": "Men who bound themselves to kill Paul."
+  },
+  {
+    "id": "pauls-nephew",
+    "name": "Paul's nephew",
+    "note": "His sister's son, who reveals the plot."
+  },
+  {
+    "id": "claudius-lysias",
+    "name": "Claudius Lysias",
+    "note": "The Roman tribune in Jerusalem."
+  },
+  {
+    "id": "felix",
+    "name": "Antonius Felix",
+    "note": "Roman governor of Judea from about AD 52 to 59."
+  },
+  {
+    "id": "tertullus",
+    "name": "Tertullus",
+    "note": "An advocate for the Jewish leaders."
+  },
+  {
+    "id": "drusilla",
+    "name": "Drusilla",
+    "note": "Felix's Jewish wife, daughter of Herod Agrippa I."
+  },
+  {
+    "id": "festus",
+    "name": "Porcius Festus",
+    "note": "Roman governor of Judea from about AD 59 to 62."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "Senior priests who sat on the council."
+  },
+  {
+    "id": "the-jews-from-jerusalem",
+    "name": "The Jews from Jerusalem",
+    "note": "They bring charges against Paul."
+  },
+  {
+    "id": "agrippa-ii",
+    "name": "King Agrippa",
+    "note": "Herod Agrippa II, the last Herodian king."
+  },
+  {
+    "id": "bernice",
+    "name": "Bernice",
+    "note": "Agrippa's sister."
+  },
+  {
+    "id": "the-emperor",
+    "name": "The emperor",
+    "note": "Nero, though Luke does not name him."
+  },
+  {
+    "id": "julius",
+    "name": "Julius",
+    "note": "A centurion of the Augustan Cohort."
+  },
+  {
+    "id": "the-pilot-and-the-owner",
+    "name": "The pilot and the owner",
+    "note": "The ship's officers."
+  },
+  {
+    "id": "the-sailors",
+    "name": "The sailors",
+    "note": "Try to flee the ship."
+  },
+  {
+    "id": "the-soldiers",
+    "name": "The soldiers",
+    "note": "Guarding the prisoners."
+  },
+  {
+    "id": "the-other-prisoners",
+    "name": "The other prisoners",
+    "note": "Also being taken to Rome."
+  },
+  {
+    "id": "the-maltese",
+    "name": "The people of Malta",
+    "note": "They show kindness to the survivors."
+  },
+  {
+    "id": "publius",
+    "name": "Publius",
+    "note": "The chief man of Malta."
+  },
+  {
+    "id": "the-brothers-at-puteoli",
+    "name": "The brothers at Puteoli",
+    "note": "Believers who hosted Paul."
+  },
+  {
+    "id": "the-brothers-from-rome",
+    "name": "The brothers from Rome",
+    "note": "Met Paul on the Appian Way."
+  },
+  {
+    "id": "the-soldier-guarding-paul",
+    "name": "The soldier guarding Paul",
+    "note": "Paul is chained to him."
+  },
+  {
+    "id": "the-jewish-leaders-in-rome",
+    "name": "The Jewish leaders in Rome",
+    "note": "They hear Paul."
   }
 ]

@@ -1592,6 +1592,238 @@
         "item": "judas_1759",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "felix",
+      "name": "Felix",
+      "gender": "Male",
+      "family": {
+        "spouses": [
+          {
+            "name": "Drusilla",
+            "id": "drusilla"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        23,
+        24,
+        25
+      ],
+      "verses": [
+        "Acts 23:24",
+        "Acts 23:26",
+        "Acts 24:3",
+        "Acts 24:22",
+        "Acts 24:24",
+        "Acts 24:25",
+        "Acts 24:27",
+        "Acts 25:14"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "felix_1257",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "drusilla",
+      "name": "Drusilla",
+      "gender": "Female",
+      "family": {
+        "spouses": [
+          {
+            "name": "Felix",
+            "id": "felix"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Acts 24:24"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "drusilla_1024",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "agrippa-ii",
+      "name": "Agrippa",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        25,
+        26
+      ],
+      "verses": [
+        "Acts 25:13",
+        "Acts 25:22",
+        "Acts 25:23",
+        "Acts 25:24",
+        "Acts 25:26",
+        "Acts 26:1",
+        "Acts 26:2",
+        "Acts 26:7",
+        "Acts 26:19",
+        "Acts 26:27",
+        "Acts 26:28",
+        "Acts 26:32"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "agrippa_111",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "bernice",
+      "name": "Bernice",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        25,
+        26
+      ],
+      "verses": [
+        "Acts 25:13",
+        "Acts 25:23",
+        "Acts 26:30"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "bernice_482",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "julius",
+      "name": "Julius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Acts 27:1",
+        "Acts 27:3"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "julius_1763",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "publius",
+      "name": "Publius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        28
+      ],
+      "verses": [
+        "Acts 28:7",
+        "Acts 28:8"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "publius_2374",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "tertullus",
+      "name": "Tertullus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Acts 24:1",
+        "Acts 24:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "tertullus_2844",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "ananias-the-high-priest",
+      "name": "Ananias",
+      "displayTitle": "Ananias (High Priest)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        23,
+        24
+      ],
+      "verses": [
+        "Acts 23:2",
+        "Acts 24:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "ananias_260",
+        "recordStatus": "publish"
+      }
     }
   ]
 }
