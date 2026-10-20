@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "The Jerusalem council decides what Gentile believers must do, and Paul and Barnabas part ways",
+  "summary": "Some men come down from Judea and teach the brothers, \"Unless you are circumcised after the custom of Moses, you can't be saved.\" Paul and Barnabas have no small dissension and discussion with them, and the church appoints them and some others to go up to Jerusalem about this question. On the way they report the conversion of the Gentiles, which brings great joy to all the brothers. At Jerusalem they are received by the church, the apostles, and the elders, and tell all that God has done with them. But some of the Pharisees who believe rise up: \"It is necessary to circumcise them, and to command them to keep the law of Moses.\" The apostles and elders meet to consider the matter. After much discussion, Peter stands up: \"Brothers, you know that a good while ago God made a choice among you, that by my mouth the Gentiles should hear the word of the gospel, and believe. God, who knows the heart, testified about them, giving them the Holy Spirit, just like he did to us; and he made no distinction between us and them, cleansing their hearts by faith. Now therefore why do you tempt God, that you should put a yoke on the neck of the disciples which neither our fathers nor we were able to bear? But we believe that we are saved through the grace of the Lord Jesus, just as they are.\" All the multitude keep silence, and listen to Barnabas and Paul reporting what signs and wonders God had done among the Gentiles through them. After they have finished, James answers, \"Brothers, listen to me. Simeon has reported how God first visited the Gentiles, to take out of them a people for his name. This agrees with the words of the prophets,\" and he cites Amos 9:11-12 about rebuilding David's fallen tent so that the rest of mankind may seek the Lord. \"Therefore my judgment is that we don't trouble those from among the Gentiles who turn to God, but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood. For Moses from generations of old has in every city those who preach him, being read in the synagogues every Sabbath.\" Then it seems good to the apostles and elders, with the whole church, to choose men from among them and send them to Antioch with Paul and Barnabas: Judas called Barsabbas and Silas, chief men among the brothers. They write: \"For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things: that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality. If you keep yourselves from these, it will be well with you.\" The Antioch church rejoices over the encouragement; Judas and Silas, who are prophets themselves, exhort and strengthen the brothers. After some time Paul says to Barnabas, \"Let's return now and visit our brothers in every city in which we proclaimed the word of the Lord, and see how they are doing.\" Barnabas wants to take John, who is called Mark, with them, but Paul thinks it is not appropriate to take with them someone who withdrew from them in Pamphylia and didn't go with them to the work. There is a sharp contention, so that they separate from each other. Barnabas takes Mark and sails away to Cyprus, but Paul chooses Silas and goes out, being commended by the brothers to the grace of the Lord, and goes through Syria and Cilicia, strengthening the churches.",
+  "whySettingMatters": "This is the hinge of Acts: the question is whether Gentiles must become Jews to belong to the people of God. Circumcision was the sign of the covenant with Abraham (Genesis 17), and the men from Judea held that it was necessary for salvation. The meeting, sometimes called the Council of Jerusalem (about AD 49), may be the same as the visit Paul describes in Galatians 2:1-10, though how they relate is debated. Peter's speech reflects his own experience with Cornelius, and his phrase, \"a yoke which neither we nor our fathers could bear,\" is blunt about the law's burden. James, the brother of Jesus, now leads the Jerusalem church and gives the decision, based on Amos 9:11-12, in the Greek form (which says \"that the rest of mankind may seek the Lord\"). The four requirements echo Leviticus 17 and 18, which applied to foreigners living among Israel: avoid food offered to idols, blood, strangled animals, and sexual immorality. Whether they were ethical rules or a way to make shared meals possible is debated, and some manuscripts read them differently. The letter's phrase \"it seemed good to the Holy Spirit and to us\" shows how the church saw its own decisions. The Paul-Barnabas split over John Mark is a rare human moment; Luke does not say who was right, and Paul later speaks well of Mark (Colossians 4:10, 2 Timothy 4:11). Silas, a Roman citizen and Jerusalem leader, becomes Paul's new partner.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Argues for the Gentiles, then parts from Barnabas."
+    },
+    {
+      "id": "barnabas",
+      "note": "Takes John Mark to Cyprus."
+    },
+    {
+      "id": "peter",
+      "note": "Speaks of God's choice and of the yoke."
+    },
+    {
+      "id": "james-brother-of-jesus",
+      "note": "Gives the judgment, citing Amos."
+    },
+    {
+      "id": "the-judean-teachers",
+      "note": "Teach that Gentiles must be circumcised to be saved."
+    },
+    {
+      "id": "the-pharisee-believers",
+      "note": "Say Gentiles must keep the law of Moses."
+    },
+    {
+      "id": "the-apostles-and-elders",
+      "note": "Meet and write the letter."
+    },
+    {
+      "id": "judas-barsabbas",
+      "note": "Sent with the letter to Antioch."
+    },
+    {
+      "id": "silas",
+      "note": "Sent with the letter; then goes with Paul."
+    },
+    {
+      "id": "john-mark",
+      "note": "The cause of the quarrel."
+    }
+  ],
+  "questions": [
+    "The question is whether Gentiles must become Jews. Why does the whole church take it up in a public meeting?",
+    "Peter says, \"We are saved through the grace of the Lord Jesus, just as they are.\" What does the \"just as\" do?",
+    "James cites Amos and ends with practical rules. How do the Scripture and the rules fit?",
+    "Paul and Barnabas split over Mark. What does Luke's silence about who was right tell you?"
+  ],
+  "words": [
+    {
+      "id": "peritome",
+      "note": "\"Unless you are circumcised after the custom of Moses\" (15:1, 15:5)."
+    },
+    {
+      "id": "zygos",
+      "note": "\"A yoke on the neck of the disciples\" (15:10)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Saved through the grace of the Lord Jesus\" (15:11, 15:40)."
+    },
+    {
+      "id": "paroxysmos",
+      "note": "\"There was a sharp contention\" (15:39)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"You can't be saved\" and \"we are saved\" (15:1, 15:11)."
+    },
+    {
+      "id": "epistrepho",
+      "note": "\"Those from among the Gentiles who turn to God\" (15:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Galatians 2:1-10",
+      "note": "Paul's account of a meeting in Jerusalem"
+    },
+    {
+      "ref": "Amos 9:11-12",
+      "note": "David's fallen tent rebuilt"
+    },
+    {
+      "ref": "Genesis 17:9-14",
+      "note": "circumcision as the covenant sign"
+    },
+    {
+      "ref": "Leviticus 17:10-14",
+      "note": "blood and foreigners"
+    }
+  ],
+  "number": 15,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

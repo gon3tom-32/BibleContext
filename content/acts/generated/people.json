@@ -1135,6 +1135,463 @@
         "item": "elymas_403",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "silas",
+      "name": "Silas",
+      "alsoCalled": "Silvanus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "verses": [
+        "Acts 15:22",
+        "Acts 15:27",
+        "Acts 15:32",
+        "Acts 15:34",
+        "Acts 15:40",
+        "Acts 16:19",
+        "Acts 16:25",
+        "Acts 16:29",
+        "Acts 17:4",
+        "Acts 17:10",
+        "Acts 17:14",
+        "Acts 17:15",
+        "Acts 18:5"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "silas_2740",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "lydia",
+      "name": "Lydia",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Acts 16:14",
+        "Acts 16:40"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "lydia_1837",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "jason",
+      "name": "Jason",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        17
+      ],
+      "verses": [
+        "Acts 17:5",
+        "Acts 17:6",
+        "Acts 17:7",
+        "Acts 17:9"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "jason_742",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "damaris",
+      "name": "Damaris",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        17
+      ],
+      "verses": [
+        "Acts 17:34"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "damaris_972",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "dionysius-the-areopagite",
+      "name": "Dionysius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        17
+      ],
+      "verses": [
+        "Acts 17:34"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "dionysius_1013",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "aquila",
+      "name": "Aquila",
+      "gender": "Male",
+      "family": {
+        "spouses": [
+          {
+            "name": "Priscilla",
+            "id": "priscilla"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "Acts 18:2",
+        "Acts 18:18",
+        "Acts 18:26"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "aquila_279",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "priscilla",
+      "name": "Priscilla",
+      "alsoCalled": "Prisca",
+      "gender": "Female",
+      "family": {
+        "spouses": [
+          {
+            "name": "Aquila",
+            "id": "aquila"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "Acts 18:2",
+        "Acts 18:18",
+        "Acts 18:26"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "priscilla_2370",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "crispus",
+      "name": "Crispus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "Acts 18:8"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "crispus_961",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "gallio",
+      "name": "Gallio",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "Acts 18:12",
+        "Acts 18:14",
+        "Acts 18:17"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "gallio_1275",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "sosthenes",
+      "name": "Sosthenes",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "Acts 18:17"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "sosthenes_2772",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "apollos",
+      "name": "Apollos",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18,
+        19
+      ],
+      "verses": [
+        "Acts 18:24",
+        "Acts 19:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "apollos_276",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "erastus",
+      "name": "Erastus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        19
+      ],
+      "verses": [
+        "Acts 19:22"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "erastus_1213",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "demetrius",
+      "name": "Demetrius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        19
+      ],
+      "verses": [
+        "Acts 19:24",
+        "Acts 19:38"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "demetrius_1007",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "aristarchus",
+      "name": "Aristarchus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        19,
+        20,
+        27
+      ],
+      "verses": [
+        "Acts 19:29",
+        "Acts 20:4",
+        "Acts 27:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "aristarchus_306",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "eutychus",
+      "name": "Eutychus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        20
+      ],
+      "verses": [
+        "Acts 20:9"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "eutychus_1230",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "trophimus",
+      "name": "Trophimus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        20,
+        21
+      ],
+      "verses": [
+        "Acts 20:4",
+        "Acts 21:29"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "trophimus_2880",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "judas-barsabbas",
+      "name": "Judas",
+      "displayTitle": "Judas Barsabas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "Acts 15:22",
+        "Acts 15:27",
+        "Acts 15:32"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "judas_1759",
+        "recordStatus": "publish"
+      }
     }
   ]
 }

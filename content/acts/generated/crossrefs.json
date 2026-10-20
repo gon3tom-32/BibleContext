@@ -1267,7 +1267,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Galatians 2:1-10",
+          "inDataset": true,
+          "votes": 35
+        },
+        {
+          "ref": "Amos 9:11-12",
+          "inDataset": true,
+          "votes": 65
+        },
+        {
+          "ref": "Genesis 17:9-14",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Leviticus 17:10-14",
+          "inDataset": true,
+          "votes": 10
+        }
+      ]
     },
     {
       "number": 16,
@@ -1329,7 +1350,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 12:2",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "1 Corinthians 9:19-23",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Galatians 2:3-5",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Romans 10:9-10",
+          "inDataset": true,
+          "votes": 28
+        },
+        {
+          "ref": "1 Thessalonians 5:16-18",
+          "inDataset": true,
+          "votes": 33
+        }
+      ]
     },
     {
       "number": 17,
@@ -1393,7 +1440,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 42:5",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Psalm 139:7-12",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Isaiah 40:18-20",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Psalm 96:13",
+          "inDataset": true,
+          "votes": 5
+        }
+      ]
     },
     {
       "number": 18,
@@ -1455,7 +1523,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "1 Corinthians 1:12-17",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "1 Thessalonians 2:9",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Isaiah 41:10",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "1 Corinthians 3:4-6",
+          "inDataset": true,
+          "votes": 7
+        }
+      ]
     },
     {
       "number": 19,
@@ -1519,7 +1608,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 44:9-20",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Deuteronomy 18:10-12",
+          "inDataset": true,
+          "votes": 1
+        },
+        {
+          "ref": "Psalm 115:4-8",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "Acts 18:24-28",
+          "inDataset": true,
+          "votes": 9
+        }
+      ]
     },
     {
       "number": 20,
@@ -1581,7 +1691,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Ezekiel 34:1-10",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "2 Timothy 4:6-8",
+          "inDataset": true,
+          "votes": 35
+        },
+        {
+          "ref": "1 Kings 17:21",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "1 Corinthians 16:1-4",
+          "inDataset": true,
+          "votes": 9
+        }
+      ]
     },
     {
       "number": 21,
@@ -1644,7 +1775,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Numbers 6:1-21",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Jeremiah 13:1-11",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "1 Corinthians 9:20",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Philippians 1:20-21",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Romans 10:2",
+          "inDataset": true,
+          "votes": 8
+        }
+      ]
     },
     {
       "number": 22,

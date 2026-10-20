@@ -278,6 +278,74 @@
     {
       "id": "elymas",
       "theographic": "elymas_403"
+    },
+    {
+      "id": "silas",
+      "theographic": "silas_2740"
+    },
+    {
+      "id": "lydia",
+      "theographic": "lydia_1837"
+    },
+    {
+      "id": "jason",
+      "theographic": "jason_742"
+    },
+    {
+      "id": "damaris",
+      "theographic": "damaris_972"
+    },
+    {
+      "id": "dionysius-the-areopagite",
+      "theographic": "dionysius_1013"
+    },
+    {
+      "id": "aquila",
+      "theographic": "aquila_279"
+    },
+    {
+      "id": "priscilla",
+      "theographic": "priscilla_2370"
+    },
+    {
+      "id": "crispus",
+      "theographic": "crispus_961"
+    },
+    {
+      "id": "gallio",
+      "theographic": "gallio_1275"
+    },
+    {
+      "id": "sosthenes",
+      "theographic": "sosthenes_2772"
+    },
+    {
+      "id": "apollos",
+      "theographic": "apollos_276"
+    },
+    {
+      "id": "erastus",
+      "theographic": "erastus_1213"
+    },
+    {
+      "id": "demetrius",
+      "theographic": "demetrius_1007"
+    },
+    {
+      "id": "aristarchus",
+      "theographic": "aristarchus_306"
+    },
+    {
+      "id": "eutychus",
+      "theographic": "eutychus_1230"
+    },
+    {
+      "id": "trophimus",
+      "theographic": "trophimus_2880"
+    },
+    {
+      "id": "judas-barsabbas",
+      "theographic": "judas_1759"
     }
   ],
   "words": [
@@ -649,6 +717,224 @@
         "G0859"
       ],
       "foundAt": "Acts 13:38"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Acts 15:1"
+    },
+    {
+      "id": "paroxysmos",
+      "strongs": [
+        "G3948"
+      ],
+      "foundAt": "Acts 15:39"
+    },
+    {
+      "id": "python",
+      "strongs": [
+        "G4436"
+      ],
+      "foundAt": "Acts 16:16"
+    },
+    {
+      "id": "porphyropolis",
+      "strongs": [
+        "G4211"
+      ],
+      "foundAt": "Acts 16:14"
+    },
+    {
+      "id": "oikos",
+      "strongs": [
+        "G3624G",
+        "G3624H"
+      ],
+      "foundAt": "Acts 16:15"
+    },
+    {
+      "id": "agnostos",
+      "strongs": [
+        "G0057"
+      ],
+      "foundAt": "Acts 17:23"
+    },
+    {
+      "id": "deisidaimon",
+      "strongs": [
+        "G1174"
+      ],
+      "foundAt": "Acts 17:22"
+    },
+    {
+      "id": "zeteo",
+      "strongs": [
+        "G2212"
+      ],
+      "foundAt": "Acts 17:27"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "Acts 17:18"
+    },
+    {
+      "id": "skenopoios",
+      "strongs": [
+        "G4635"
+      ],
+      "foundAt": "Acts 18:3"
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "foundAt": "Acts 18:12"
+    },
+    {
+      "id": "akribos",
+      "strongs": [
+        "G0199"
+      ],
+      "foundAt": "Acts 18:25"
+    },
+    {
+      "id": "perierga",
+      "strongs": [
+        "G4021"
+      ],
+      "foundAt": "Acts 19:19"
+    },
+    {
+      "id": "biblos",
+      "strongs": [
+        "G0976"
+      ],
+      "foundAt": "Acts 19:19"
+    },
+    {
+      "id": "asiarches",
+      "strongs": [
+        "G0775"
+      ],
+      "foundAt": "Acts 19:31"
+    },
+    {
+      "id": "episkopos",
+      "strongs": [
+        "G1985"
+      ],
+      "foundAt": "Acts 20:28"
+    },
+    {
+      "id": "diamartyromai",
+      "strongs": [
+        "G1263"
+      ],
+      "foundAt": "Acts 20:21"
+    },
+    {
+      "id": "oikodomeo",
+      "strongs": [
+        "G3618"
+      ],
+      "foundAt": "Acts 20:32"
+    },
+    {
+      "id": "euche",
+      "strongs": [
+        "G2171"
+      ],
+      "foundAt": "Acts 21:23"
+    },
+    {
+      "id": "hagnizo",
+      "strongs": [
+        "G0048"
+      ],
+      "foundAt": "Acts 21:24"
+    },
+    {
+      "id": "zelotes",
+      "strongs": [
+        "G2207"
+      ],
+      "foundAt": "Acts 21:20"
+    },
+    {
+      "id": "chiliarchos",
+      "strongs": [
+        "G5506"
+      ],
+      "foundAt": "Acts 21:31"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Acts 15:11"
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "foundAt": "Acts 15:10"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Acts 15:1"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "Acts 16:31"
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "foundAt": "Acts 17:2"
+    },
+    {
+      "id": "martyreo",
+      "strongs": [
+        "G3140"
+      ],
+      "foundAt": "Acts 18:5"
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "foundAt": "Acts 20:28"
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "foundAt": "Acts 20:35"
+    },
+    {
+      "id": "koinoo",
+      "strongs": [
+        "G2840"
+      ],
+      "foundAt": "Acts 21:28"
     }
   ],
   "crossRefs": {
@@ -666,7 +952,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 15 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 22 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

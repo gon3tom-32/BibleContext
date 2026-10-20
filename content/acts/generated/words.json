@@ -3823,6 +3823,1931 @@
         "fetched": "2026-10-19",
         "item": "G0859"
       }
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4061",
+          "original": "περιτομή",
+          "transliteration": "peritomē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "circumcision",
+          "meaning": "περι-τομή, -ῆς, ἡ\n(περιτέμνω), [in LXX: Gen.17:13, Exo.4:25-26 (מוּל ni., מוּלָה), Jer.11:16 * ;]\ncircumcision;\n(a) of the rite itself : Jhn.7:22-23 Act.7:8, Rom.4:11, Gal.5:11, Php.3:5;\n(b) of the state of circumcision: Rom.2:25-28 3:1, 1Co.7:19, Gal.5:6 6:15, Col.3:11; ἐν π. ὤν, Rom.4:10;\n(with) by meton., π. = οἱ περιτμηθέντες, the circumcised: Rom.3:30 4:9, 12 15:8, Gal.2:7-9, Eph.2:11; οἱ ἐκ τῆς π., of Jews, Rom.4:12; of Jewish Christians, Act.11:2, Gal.2:12, Tit.1:10; οἱ ἐκ π. πιστοί, Act.10:45; οἱ ὄντες ἐκ π., Col.4:11 Metaphorical, Rom.2:29, Col.2:11, Php.3:3.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "περιτομῆς",
+          "translit": "peritomēs",
+          "gloss": "circumcision"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 7:8",
+        "Acts 10:45",
+        "Acts 11:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 32,
+      "elsewhereCheck": [
+        {
+          "ref": "John 7:22",
+          "found": true
+        },
+        {
+          "ref": "Romans 2:29",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:6",
+          "found": true
+        },
+        {
+          "ref": "Philippians 3:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4061"
+      }
+    },
+    {
+      "id": "paroxysmos",
+      "strongs": [
+        "G3948"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3948",
+          "original": "παροξυσμός",
+          "transliteration": "paroxusmos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "stirring up",
+          "meaning": "παροξυσμός, -οῦ, ὁ\n(παροξύνω), [in LXX: Deu.29:28, Jer.32:37 (קֶצֶף)* ;]\n1. stimulation, provocation: π. ἀγάπης, Heb.10:14.\n2. irritation: Act.15:39.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παροξυσμός",
+          "translit": "paroxusmos",
+          "gloss": "stirring up"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 15:39"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Hebrews 10:24",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3948"
+      }
+    },
+    {
+      "id": "python",
+      "strongs": [
+        "G4436"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4436",
+          "original": "Πύθων",
+          "transliteration": "Puthōn",
+          "partOfSpeech": "G:N-M",
+          "gloss": "divining spirit",
+          "meaning": "πύθων, -ωνος, ὁ\n1. in cl., Python, a serpent slain by Apollo, who is hence surnamed the Pythian.\n2. In Plut. (ii, 414 E), a name given to ventriloquist soothsayers (ἐγγαστρίμυθοι; cf. Lev.19:31 20:6, 27, 1Ki.28:7), and perhaps in this sense πνεῦμα πύθωνα, a python-spirit: Act.16:16.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πύθωνα",
+          "translit": "puthōna",
+          "gloss": "divining spirit"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 16:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4436"
+      }
+    },
+    {
+      "id": "porphyropolis",
+      "strongs": [
+        "G4211"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4211",
+          "original": "πορφυρόπωλις",
+          "transliteration": "porphuropōlis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "dealer in purple",
+          "meaning": "πορφυρόπωλις, -ιδος, ἡ\na seller of purple fabrics: Act.16:14.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πορφυρόπωλις",
+          "translit": "porphuropōlis",
+          "gloss": "dealer in purple"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 16:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4211"
+      }
+    },
+    {
+      "id": "oikos",
+      "strongs": [
+        "G3624G",
+        "G3624H"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3624G",
+          "original": "οἶκος",
+          "transliteration": "oikos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "house: home",
+          "meaning": "οἶκος, -οῦ, ὁ,\n[in LXX chiefly for בַּיִת, also for אֹהֶל ,הֵכָל, etc. ;]\n1. prop., a house, dwelling: Act.2:2 19:16; with genitive poss., Mat.9:6, 7 Mrk.2:11, Luk.1:23, al.; with genitive attrib., ἐμπορίου, Jhn.2:16; προσευχῆς, Mat.21:13, al.; of a sanctuary (Hdt., Eur.): οἶ. τ. θεοῦ, of the tabernacle, Mat.12:4, al.; the temple, Mat.21:13, al.; metaphorically of a city: Mat.23:38, Luk.13:35; of the body, Mat.12:44, Luk.11:24; of Christians, 1Pe.2:5; ἐν οἴ (M, Pr., 81f.), at home, Mrk.2:1, 1Co.11:34 14:35; so κατ ̓ οἶκον, Act.2:46 5:42; οἱ εἰς (= οἱ ἐν; see: εἰς) τ. οἶ., Luk.7:10 15:6; κατ ̓ο …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "οἶκον",
+          "translit": "oikon",
+          "gloss": "house"
+        },
+        {
+          "original": "οἶκος",
+          "translit": "oikos",
+          "gloss": "house"
+        },
+        {
+          "original": "οἴκῳ",
+          "translit": "oikō",
+          "gloss": "house"
+        },
+        {
+          "original": "οἴκους",
+          "translit": "oikous",
+          "gloss": "house"
+        },
+        {
+          "original": "οἶκός",
+          "translit": "oikos",
+          "gloss": "house"
+        },
+        {
+          "original": "οἶκόν",
+          "translit": "oikon",
+          "gloss": "house"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 2:2",
+        "Acts 2:36",
+        "Acts 2:46",
+        "Acts 5:42",
+        "Acts 7:10",
+        "Acts 7:20",
+        "Acts 7:42",
+        "Acts 7:46",
+        "Acts 7:47",
+        "Acts 7:49",
+        "Acts 8:3",
+        "Acts 10:2",
+        "Acts 10:22",
+        "Acts 10:30",
+        "Acts 11:12",
+        "Acts 11:13",
+        "Acts 11:14",
+        "Acts 16:15",
+        "Acts 16:31",
+        "Acts 16:34",
+        "Acts 18:8",
+        "Acts 19:16",
+        "Acts 20:20",
+        "Acts 21:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 106,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 11:17",
+          "found": true
+        },
+        {
+          "ref": "Luke 19:9",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:16",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 3:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3624G, G3624H"
+      }
+    },
+    {
+      "id": "agnostos",
+      "strongs": [
+        "G0057"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0057",
+          "original": "ἄγνωστος",
+          "transliteration": "agnōstos",
+          "partOfSpeech": "G:A",
+          "gloss": "unknown",
+          "meaning": "ἄγνωστος, -ον\n(γινώσκω), [in LXX: Wis.11:18 18:3, 2Ma.1:19 2:7 (Cremer, 157) * ;]\nunknown: Act.17:23 (cf. MM, VGT, see word).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀγνώστῳ",
+          "translit": "agnōstō",
+          "gloss": "unknown"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 17:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0057"
+      }
+    },
+    {
+      "id": "deisidaimon",
+      "strongs": [
+        "G1174"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1174",
+          "original": "δεισιδαίμων",
+          "transliteration": "deisidaimōn",
+          "partOfSpeech": "G:A",
+          "gloss": "religious",
+          "meaning": "δεισι-δαίμων, -ον\n(δείδω, to fear; δαίμων, deity)\nreverent to the deity, religious; compar. -μονεστέρους (AV, too superstitious, R, txt., somewhat superstitious, a sense in wh. the word is sometimes used; cf. Field, Notes, 125), more religious, God fearing, than others, quite religious (Abbott, Essays, 105 ff.; Deiss., LAE, 285): Act.17:22.†\nSYN.: εὐσεβής (which see), θεοσεβής, θρῆσκος (Cremer, 681; DB, ext., 142 a). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "δεισιδαιμονεστέρους",
+          "translit": "deisidaimonesterous",
+          "gloss": "religious"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 17:22"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1174"
+      }
+    },
+    {
+      "id": "zeteo",
+      "strongs": [
+        "G2212"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2212",
+          "original": "ζητέω",
+          "transliteration": "zēteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to seek",
+          "meaning": "ζητέω, -ῶ,\n[in LXX chiefly for בּקשׁ pi., also for דּרשׁ, etc. ;]\n1. to seek, seek for: Mat.7:7, 8 Luk.11:9, 10; with accusative of person(s), Mrk.1:37, Luk.2:48, Jhn.6:24, al.; id. before ἐν, Act.9:11; with accusative of thing(s), Mat.13:45, Luk.19:10; before ἐν, Luk.13:6, 7; ψυχήν, of plotting against one's life ( Exo.4:19, al.), Mat.2:20, Rom.11:3\" (LXX) . Metaphorical, to seek by thinking, search after, inquire into: Mrk.11:18, Luk.12:28, Jhn.16:19; τ. θεόν, Act.17:27. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζήτησον",
+          "translit": "zētēson",
+          "gloss": "to seek"
+        },
+        {
+          "original": "ζητοῦντές",
+          "translit": "zētountes",
+          "gloss": "to seek"
+        },
+        {
+          "original": "ζητεῖτε",
+          "translit": "zēteite",
+          "gloss": "to seek"
+        },
+        {
+          "original": "ζητῶν",
+          "translit": "zētōn",
+          "gloss": "to seek"
+        },
+        {
+          "original": "ἐζήτει",
+          "translit": "ezētei",
+          "gloss": "to seek"
+        },
+        {
+          "original": "ἐζητήσαμεν",
+          "translit": "ezētēsamen",
+          "gloss": "to seek"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 9:11",
+        "Acts 10:19",
+        "Acts 10:21",
+        "Acts 13:8",
+        "Acts 13:11",
+        "Acts 16:10",
+        "Acts 17:5",
+        "Acts 17:27",
+        "Acts 21:31",
+        "Acts 27:30"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 116,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 7:7",
+          "found": true
+        },
+        {
+          "ref": "Luke 19:10",
+          "found": true
+        },
+        {
+          "ref": "John 4:23",
+          "found": true
+        },
+        {
+          "ref": "Romans 10:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2212"
+      }
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0386",
+          "original": "ἀνάστασις",
+          "transliteration": "anastasis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "resurrection",
+          "meaning": "ἀνά-στασις, -εως, ή\n(ἀνίστημι), [in LXX: Zep.3:8 (קוּם), La 3:63 (קִימָה), קִימָה), Psa.66:1-20 title., Dan LXX 11:20, 2Ma.7:14 2Mac 12:43 * ;]\n1. a raising up, awakening, rising (in Inscr. of the erection of a monument, see MM, VGT, see word): Luk.2:34.\n2. a rising from the dead (see DCG, ii, 605b);\n(a) of Christ: Act.1:22 2:31 4:33 Rom.6:5, Php.3:10, 1Pe.3:21; ἐξ ἀ. νεκρῶν, Rom.1:4 (ICC, in l); ἐκ νεκρῶν, 1Pe.1:3;\n(b) of persons in OT hist. (e.g. 3Ki.17:17 ff.): Heb.11:35; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀναστάσεως",
+          "translit": "anastaseōs",
+          "gloss": "resurrection"
+        },
+        {
+          "original": "ἀνάστασιν",
+          "translit": "anastasin",
+          "gloss": "resurrection"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 1:22",
+        "Acts 2:31",
+        "Acts 4:2",
+        "Acts 4:33",
+        "Acts 17:18",
+        "Acts 17:32",
+        "Acts 23:6",
+        "Acts 23:8",
+        "Acts 24:15",
+        "Acts 24:21",
+        "Acts 26:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 40,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 22:23",
+          "found": true
+        },
+        {
+          "ref": "John 11:25",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:12",
+          "found": true
+        },
+        {
+          "ref": "Revelation 20:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0386"
+      }
+    },
+    {
+      "id": "skenopoios",
+      "strongs": [
+        "G4635"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4635",
+          "original": "σκηνοποιός",
+          "transliteration": "skēnopoios",
+          "partOfSpeech": "G:N-M",
+          "gloss": "tentmaker",
+          "meaning": "σκηνοποιός, -όν\n(σκηνή, ποιέω),\nmaking tents; as subst., ὁ σ., a tent-maker: Act.18:3.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκηνοποιοὶ",
+          "translit": "skēnopoioi",
+          "gloss": "tentmaker"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 18:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4635"
+      }
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0968",
+          "original": "βῆμα",
+          "transliteration": "bēma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "judgement seat",
+          "meaning": "βῆμα, -τος, τό\n(βαίνω), [in LXX: Deu.2:5 (מִדְרָךְ), Neh.8:4 (מִגְדָּל), I Est.9:42, Sir.19:30 45:9, 2Ma.13:26 * ;]\n1. a step, stride, pace: Act.7:5.\n2. a raised place, a platform reached by steps, originally that in the Pnyx at Athens from which orations were made; frequently of the tribune or tribunal of a Roman magistrate or ruler: Mat.27:19, Jhn.19:13, Act.12:21, 18:12, 16, 17 25:6, 10, 17; β. τοῦ θεοῦ, Rom.14:10; τ. Χριστοῦ, 2Co.5:10.\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "βῆμα",
+          "translit": "bēma",
+          "gloss": "judgement seat"
+        },
+        {
+          "original": "βήματος",
+          "translit": "bēmatos",
+          "gloss": "judgement seat"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 7:5",
+        "Acts 12:21",
+        "Acts 18:12",
+        "Acts 18:16",
+        "Acts 18:17",
+        "Acts 25:6",
+        "Acts 25:10",
+        "Acts 25:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 12,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:19",
+          "found": true
+        },
+        {
+          "ref": "John 19:13",
+          "found": true
+        },
+        {
+          "ref": "Romans 14:10",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 5:10",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0968"
+      }
+    },
+    {
+      "id": "akribos",
+      "strongs": [
+        "G0199"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0199",
+          "original": "ἀκριβῶς",
+          "transliteration": "akribōs",
+          "partOfSpeech": "G:ADV",
+          "gloss": "exactly",
+          "meaning": "ἀκριβῶς\nadv. (ἀκριβής), [in LXX: Deu.19:18 (יָטַב), Da TH 7:19 (יְצֵב), Eze.39:14, Wis.19:18, Sir.18:29 ;]\nwith exactness, carefully: Mat.2:8, Luk.1:3, Act.18:25, Eph.5:15, 1Th.5:2 (M, Th., in l). Compar., ἀκριβέστερον (Milligan, NTD, 111; MM, VGT, see word), Act.18:26 23:15, 20 24:22.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀκριβῶς",
+          "translit": "akribōs",
+          "gloss": "exactly"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 18:25"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:8",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:3",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 5:15",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0199"
+      }
+    },
+    {
+      "id": "perierga",
+      "strongs": [
+        "G4021"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4021",
+          "original": "περίεργος",
+          "transliteration": "periergos",
+          "partOfSpeech": "G:A",
+          "gloss": "meddlesome/magic",
+          "meaning": "περίεργος, -ον\nI. of persons;\n1. over careful.\n2. curious, meddling, a busybody: 1Ti.5:13.\nII. Of things;\n1. over-wrought.\n2. super­fluous.\n3. curious, uncanny; τὰ π., curious arts, magic: Act.19:19 (see Deiss., BS, 3235.).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "περίεργα",
+          "translit": "perierga",
+          "gloss": "meddlesome/magic"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 19:19"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Timothy 5:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4021"
+      }
+    },
+    {
+      "id": "biblos",
+      "strongs": [
+        "G0976"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0976",
+          "original": "βίβλος",
+          "transliteration": "biblos",
+          "partOfSpeech": "G:N-F",
+          "gloss": "book",
+          "meaning": "βίβλος, -ου, ἡ (variant form of βύβλος, the Egyptian papyrus, paper made from its fibrous coat),\n[in LXX for סֶפֶר, the form βύβ- being sometimes used ;]\na book, a roll, used much less frequently than βιβλίον, and with a \"connotation of sacredness and veneration\" (MM, Exp., x), Mat.1:1 Mrk.12:26, Luk.3:4 20:42 Act.1:20 7:42 19:19; β. τ. ζωῆς, Php.4:3, Rev.3:5 20:15.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "βίβλῳ",
+          "translit": "biblō",
+          "gloss": "book"
+        },
+        {
+          "original": "βίβλους",
+          "translit": "biblous",
+          "gloss": "book"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 1:20",
+        "Acts 7:42",
+        "Acts 19:19"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 10,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:1",
+          "found": true
+        },
+        {
+          "ref": "Mark 12:26",
+          "found": true
+        },
+        {
+          "ref": "Luke 3:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0976"
+      }
+    },
+    {
+      "id": "asiarches",
+      "strongs": [
+        "G0775"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0775",
+          "original": "Ἀσιάρχης",
+          "transliteration": "Asiarchēs",
+          "partOfSpeech": "N:N--T",
+          "gloss": "Asiarch",
+          "meaning": "Ἀσιάρχης, -ου, ὁ\nan Asiarch, one of ten officers elected by the various cities in the province of Asia whose duty it was to celebrate at their own charges the public games and festivals: Act.19:31 (Strab., Inscr.; DB, see word).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "Ἀσιαρχῶν",
+          "translit": "Asiarchōn",
+          "gloss": "Asiarch"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 19:31"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0775"
+      }
+    },
+    {
+      "id": "episkopos",
+      "strongs": [
+        "G1985"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1985",
+          "original": "ἐπίσκοπος",
+          "transliteration": "episkopos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "overseer",
+          "meaning": "ἐπί-σκοπος, -ου, ὁ\n(σκοπός, a watcher), [in LXX for פָּקַד, its parts and derivatives, Num.4:16 31:14, Jdg.9:28, 4Ki.11:15 11:18, 2Ch.34:12 34:17, Neh.11:9, 14 11:22; אֵל, Job.20:29; נָגַשׂ:, Isa.60:17; Wis.1:6, 1Ma.1:51 * ;]\na superintendent, guardian, overseer (cl.; for exx. see LS, see word): Act.20:28, 1Pe.2:25 (ICC, in l); as technical term for a religious office (Deiss., BS, 230 f.), in later Paul. epp. of the head of a church (Vg. episcopus), a bishop: Php.1:1, 1Ti.3:2, Tit.1:7 (see reff. see word ἐπισκοπή).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐπισκόπους",
+          "translit": "episkopous",
+          "gloss": "overseer"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 20:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Philippians 1:1",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 3:2",
+          "found": true
+        },
+        {
+          "ref": "Titus 1:7",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 2:25",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1985"
+      }
+    },
+    {
+      "id": "diamartyromai",
+      "strongs": [
+        "G1263"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1263",
+          "original": "διαμαρτύρομαι",
+          "transliteration": "diamarturomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to testify solemnly",
+          "meaning": "δια-μαρτύρομαι, depon., of Ionic origin, intensive of the simple μαρτύρομαι, which see,\n[in LXX chiefly for עוּד hi., usually with dative of person(s), Deu.4:26 8:19, 1Ki.8:9, al. ;]\nsolemnly to protest: Luk.16:28, Act.2:40 8:25 10:42 18:5 20:21, 23, 24 23:11 28:23, 1Th.4:6, Heb.2:6; in adjuration, before ἐνώπιον τ. θεοῦ, 1Ti.5:21, 2Ti.2:14 4:1 (Cremer, 415).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "διεμαρτύρατο",
+          "translit": "diemarturato",
+          "gloss": "to testify solemnly"
+        },
+        {
+          "original": "διαμαρτυράμενοι",
+          "translit": "diamarturamenoi",
+          "gloss": "to testify solemnly"
+        },
+        {
+          "original": "διαμαρτύρασθαι",
+          "translit": "diamarturasthai",
+          "gloss": "to testify solemnly"
+        },
+        {
+          "original": "διαμαρτυρόμενος",
+          "translit": "diamarturomenos",
+          "gloss": "to testify solemnly"
+        },
+        {
+          "original": "διαμαρτύρεταί",
+          "translit": "diamarturetai",
+          "gloss": "to testify solemnly"
+        },
+        {
+          "original": "διεμαρτύρω",
+          "translit": "diemarturō",
+          "gloss": "to testify solemnly"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 2:40",
+        "Acts 8:25",
+        "Acts 10:42",
+        "Acts 18:5",
+        "Acts 20:21",
+        "Acts 20:23",
+        "Acts 20:24",
+        "Acts 23:11",
+        "Acts 28:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 15,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 16:28",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:6",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 5:21",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 4:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1263"
+      }
+    },
+    {
+      "id": "oikodomeo",
+      "strongs": [
+        "G3618"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3618",
+          "original": "οἰκοδομέω",
+          "transliteration": "oikodomeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to build",
+          "meaning": "οἰκοδομέω, -ῶ\n(οἰκοδόμος), [in LXX chiefly for בָּנָה ;]\nto build a house, to build: absol., Luk.11:48 14:30 17:28; οἱ οἰκοδομοῦντες, the builders (as Psa.118:22, בָּנָה), Mat.21:42, Mrk.12:10, Luk.20:17, 1Pe.2:7\" (LXX) ; ἐ π ̓ ἀλλότριον θεμέλιον οἰ., proverb., Rom.15:20; with accusative of thing(s), Gal.2:18; πύργον), Mat.21:33, Mrk.12:1, Luk.14:28; ἀποθήκας, Luk.12:18; ναόν, Mrk.14:58; pass., Jhn.2:20; οἰκία, Luk.6:48; with accusative of thing(s) before dative of person(s) (cf. Gen.8:20, Eze.16:24), Luk.7:5, Act.7:47, 49; accusative before ἐπί, Mat.7:24, 26 Luk.6:49; πόλιν ἐπ ̓ ὄρους, Luk.4: …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "οἰκοδόμησεν",
+          "translit": "oikodomēsen",
+          "gloss": "to build"
+        },
+        {
+          "original": "οἰκοδομήσετέ",
+          "translit": "oikodomēsete",
+          "gloss": "to build"
+        },
+        {
+          "original": "οἰκοδομουμένη",
+          "translit": "oikodomoumenē",
+          "gloss": "to build"
+        },
+        {
+          "original": "οἰκοδομῆσαι",
+          "translit": "oikodomēsai",
+          "gloss": "to build"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 7:47",
+        "Acts 7:49",
+        "Acts 9:31",
+        "Acts 20:32"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 38,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:18",
+          "found": true
+        },
+        {
+          "ref": "Romans 15:20",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 8:1",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3618"
+      }
+    },
+    {
+      "id": "euche",
+      "strongs": [
+        "G2171"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2171",
+          "original": "εὐχή",
+          "transliteration": "euchē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "a vow/prayer",
+          "meaning": "εὐχή, -ῆς, ἡ\n(εὔχομαι), [in LXX chiefly for נָדַר ;]\n1. a prayer: Jas.5:15.\n2. a vow: Act.18:18 21:23.†\nSYN.: see: δέησις (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εὐχήν",
+          "translit": "euchēn",
+          "gloss": "a vow/prayer"
+        },
+        {
+          "original": "εὐχὴν",
+          "translit": "euchēn",
+          "gloss": "a vow/prayer"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 18:18",
+        "Acts 21:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "James 5:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2171"
+      }
+    },
+    {
+      "id": "hagnizo",
+      "strongs": [
+        "G0048"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0048",
+          "original": "ἁγνίζω",
+          "transliteration": "hagnizō",
+          "partOfSpeech": "G:V",
+          "gloss": "to purify",
+          "meaning": "ἁγνίζω (&gt; ἁγνός),\n[in LXX always ceremonially, chiefly for קָדַשׁ ;]\nto purify, cleanse from defilement;\n(a) ceremonially: Jhn.11:55, Act.21:24, 26 24:18;\n(b) morally: Jas.4:8, 1Pe.1:22, 1Jn.3:3.\n† SYN.: καθαρίζω, which see (and see: ἁγνός). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἁγνίσθητι",
+          "translit": "hagnisthēti",
+          "gloss": "to purify"
+        },
+        {
+          "original": "ἁγνισθεὶς",
+          "translit": "hagnistheis",
+          "gloss": "to purify"
+        },
+        {
+          "original": "ἡγνισμένον",
+          "translit": "hēgnismenon",
+          "gloss": "to purify"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 21:24",
+        "Acts 21:26",
+        "Acts 24:18"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "John 11:55",
+          "found": true
+        },
+        {
+          "ref": "James 4:8",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 1:22",
+          "found": true
+        },
+        {
+          "ref": "1 John 3:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0048"
+      }
+    },
+    {
+      "id": "zelotes",
+      "strongs": [
+        "G2207"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2207",
+          "original": "ζηλωτής",
+          "transliteration": "zēlōtēs",
+          "partOfSpeech": "N:N-M-T",
+          "gloss": "zealot",
+          "meaning": "ζηλωτής, -οῦ, ὁ\n(ζηλόω), [in LXX for קַנָּא (θεὸς ζ.), Exo.20:5 34:14, Deu.4:24 5:9 6:15; קַנּוֹא, Nam.1:2 (θεός); pl., I Est.8:72; ζ. τῶν νόμων, 2Ma.4:2;τὸν ζ. Φινεές, 4Ma.18:12 (cf. Num.25:11)* ;]\n1. in cl. an emulator, zealous admirer (Plat., al.).\n2. eagerly desirous, zealous;\n(a) absol., as in OT, ll. with;\n(b) with genitive obj.: (zealous to acquire or to defend), 1Co.14:12, Tit.2:14, 1Pe.3:13; τ. νόμου (2Mac, l.with), Act.21:20; παραδόσεων, Gal.1:14; with genitive of person(s), θεοῦ, Act.22:3. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζηλωταὶ",
+          "translit": "zēlōtai",
+          "gloss": "zealot"
+        },
+        {
+          "original": "ζηλωτὴς",
+          "translit": "zēlōtēs",
+          "gloss": "zealot"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 21:20",
+        "Acts 22:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 22:3",
+          "found": true
+        },
+        {
+          "ref": "Galatians 1:14",
+          "found": true
+        },
+        {
+          "ref": "Titus 2:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2207"
+      }
+    },
+    {
+      "id": "chiliarchos",
+      "strongs": [
+        "G5506"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5506",
+          "original": "χιλίαρχος",
+          "transliteration": "chiliarchos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "military officer",
+          "meaning": "χιλίαρχος (in Hdt., al., -ης), -ου, ὁ\n(χίλιοι, ἄρχω) [in LXX chiefly for אַלּוּף שַׂר ;]\na chiliarch, the commander of a thousand, esp. a Roman military tribune, the commander of a cohort: Jhn.18:12, Act.21:31-33, 37 22:24-29 23:10, 15 23:17-19, 22 24:7, 22 25:23; more generally, of officers of similar rank, Mrk.6:21, Rev.6:15 19:18 (see, DB, i, 352b; DCG, i, 271a, 307a).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χιλιάρχῳ",
+          "translit": "chiliarchō",
+          "gloss": "military officer"
+        },
+        {
+          "original": "χιλίαρχον",
+          "translit": "chiliarchon",
+          "gloss": "military officer"
+        },
+        {
+          "original": "χιλίαρχος",
+          "translit": "chiliarchos",
+          "gloss": "military officer"
+        },
+        {
+          "original": "χιλιάρχοις",
+          "translit": "chiliarchois",
+          "gloss": "military officer"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 21:31",
+        "Acts 21:32",
+        "Acts 21:33",
+        "Acts 21:37",
+        "Acts 22:24",
+        "Acts 22:26",
+        "Acts 22:27",
+        "Acts 22:28",
+        "Acts 22:29",
+        "Acts 23:10",
+        "Acts 23:15",
+        "Acts 23:17",
+        "Acts 23:18",
+        "Acts 23:19",
+        "Acts 23:22",
+        "Acts 24:7",
+        "Acts 24:22",
+        "Acts 25:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 22,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 6:21",
+          "found": true
+        },
+        {
+          "ref": "John 18:12",
+          "found": true
+        },
+        {
+          "ref": "Revelation 6:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5506"
+      }
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5485",
+          "original": "χάρις",
+          "transliteration": "charis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "grace",
+          "meaning": "χάρις, -ιτος, ἡ Abbott-Smith does not include the article here., accusative, χάριν (χάριτα in Act.24:27, Ju 4; see WH, App., 157),\n[in LXX chiefly for חֵן ;]\n1. objectively, that which causes favourable regard, gracefulness, grace, loveliness of form, graciousness of speech (cl.; Ecc.10:12, Sir.21:16, al.): Col.4:6; λόγοι τ. χάριτος (genitive qual.), Luk.4:22.\n2. Subjectively, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χάριν",
+          "translit": "charin",
+          "gloss": "grace"
+        },
+        {
+          "original": "χάρις",
+          "translit": "charis",
+          "gloss": "grace"
+        },
+        {
+          "original": "χάριτος",
+          "translit": "charitos",
+          "gloss": "grace"
+        },
+        {
+          "original": "χάριτι",
+          "translit": "chariti",
+          "gloss": "grace"
+        },
+        {
+          "original": "χάριτα",
+          "translit": "charita",
+          "gloss": "grace"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 2:47",
+        "Acts 4:33",
+        "Acts 6:8",
+        "Acts 7:10",
+        "Acts 7:46",
+        "Acts 11:23",
+        "Acts 13:43",
+        "Acts 14:3",
+        "Acts 14:26",
+        "Acts 15:11",
+        "Acts 15:40",
+        "Acts 18:27",
+        "Acts 20:24",
+        "Acts 20:32",
+        "Acts 24:27",
+        "Acts 25:3",
+        "Acts 25:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 147,
+      "elsewhereCheck": [
+        {
+          "ref": "John 1:14",
+          "found": true
+        },
+        {
+          "ref": "Romans 3:24",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5485"
+      }
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2218",
+          "original": "ζυγός",
+          "transliteration": "zugos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "yoke/scales",
+          "meaning": "ζυγός (in cl. more frequently τὸ ζυγόν), -οῦ, ὁ\n(ζεύγνυμι), [in LXX for עֹל, מֹאזֵן, etc. ;]\n1. a yoke; metaphorically, of bondage or submission to authority: Mat.11:29-30, Act.15:10, Gal.5:1, 1Ti.6:1.\n2. a balance: Rev.6:5 (of. Isa.40:12, al.).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζυγὸν",
+          "translit": "zugon",
+          "gloss": "yoke/scales"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 15:10"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 11:29",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:1",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 6:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2218"
+      }
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4982",
+          "original": "σῴζω",
+          "transliteration": "sōzō",
+          "partOfSpeech": "G:V",
+          "gloss": "to save",
+          "meaning": "σώζω (on the more accurate σῴζω, see WH, Intr., §410; Bl., §3, 1-3),\n[in LXX chiefly for ישׁע hi., also for מלט ni., נצל ni., etc. ;]\nto save from peril, injury or suffering: Mat.8:25, Mrk.13:20, Luk.23:35, al.; τ. ψυχήν, Mat.16:25, al.; before ἐκ, Jhn.12:27, Heb.5:7, Ju 5; of healing, restoring to health: Mat.9:22, Mrk.5:34, al. In NT, esp. of salvation from spiritual disease and death, in which sense it is \"spoken of in Scripture as either (1) past, (2) present, or (3) future, according as redemption, grace, or glory is the point in view. Thus (1) Rom.8:24, Eph.2:5, 8 2Ti.1:9, Tit.3:5; (2) A …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σωθήσεται",
+          "translit": "sōthēsetai",
+          "gloss": "to save"
+        },
+        {
+          "original": "σώθητε",
+          "translit": "sōthēte",
+          "gloss": "to save"
+        },
+        {
+          "original": "σῳζομένους",
+          "translit": "sōzomenous",
+          "gloss": "to save"
+        },
+        {
+          "original": "σέσωται",
+          "translit": "sesōtai",
+          "gloss": "to save"
+        },
+        {
+          "original": "σωθῆναι",
+          "translit": "sōthēnai",
+          "gloss": "to save"
+        },
+        {
+          "original": "σωθήσῃ",
+          "translit": "sōthēsē",
+          "gloss": "to save"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 2:21",
+        "Acts 2:40",
+        "Acts 2:47",
+        "Acts 4:9",
+        "Acts 4:12",
+        "Acts 11:14",
+        "Acts 14:9",
+        "Acts 15:1",
+        "Acts 15:11",
+        "Acts 16:30",
+        "Acts 16:31",
+        "Acts 27:20",
+        "Acts 27:31"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 102,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:21",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:21",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4982"
+      }
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4100",
+          "original": "πιστεύω",
+          "transliteration": "pisteuō",
+          "partOfSpeech": "G:V",
+          "gloss": "to trust (in)",
+          "meaning": "πιστεύω,\n[in LXX chiefly for אמן hi. ;]\n1. intrans., to have faith (in), to believe; in cl., with accusative, dative, in NT also with prep, (on the significance of the various constructions, see M, Pr., 67f.; Vau. on Rom.4:5; Ellic. on 1Ti.1:16; Abbott, JV, 19-80): absol., Mat.24:23, 26 Mrk.13:21, 1Co.11:18; with accusative of thing(s), Act.13:41, 1Co.13:7; with dative of person(s) (to believe what one says), Mrk.16:[13, 14], 1Jn.4:1; τ. ψεύδει, 2Th.2:11; περί . . . ὅτι, Jhn.9:18; esp. and most frequently with reference to religious belief: absol., Mat.8:13, Mrk.5:36, Luk.8:50, Jhn.11:40, al.; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πιστεύοντες",
+          "translit": "pisteuontes",
+          "gloss": "to trust (in)"
+        },
+        {
+          "original": "ἐπίστευσαν",
+          "translit": "episteusan",
+          "gloss": "to trust (in)"
+        },
+        {
+          "original": "πιστευσάντων",
+          "translit": "pisteusantōn",
+          "gloss": "to trust (in)"
+        },
+        {
+          "original": "ἐπίστευσεν",
+          "translit": "episteusen",
+          "gloss": "to trust (in)"
+        },
+        {
+          "original": "πιστεύεις",
+          "translit": "pisteueis",
+          "gloss": "to trust (in)"
+        },
+        {
+          "original": "πιστεύω",
+          "translit": "pisteuō",
+          "gloss": "to trust (in)"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 2:44",
+        "Acts 4:4",
+        "Acts 4:32",
+        "Acts 5:14",
+        "Acts 8:12",
+        "Acts 8:13",
+        "Acts 8:37",
+        "Acts 9:26",
+        "Acts 9:42",
+        "Acts 10:43",
+        "Acts 11:17",
+        "Acts 11:21",
+        "Acts 13:12",
+        "Acts 13:39",
+        "Acts 13:41",
+        "Acts 13:48",
+        "Acts 14:1",
+        "Acts 14:23",
+        "Acts 15:5",
+        "Acts 15:7",
+        "Acts 15:11",
+        "Acts 16:31",
+        "Acts 16:34",
+        "Acts 17:12",
+        "Acts 17:34",
+        "Acts 18:8",
+        "Acts 18:27",
+        "Acts 19:2",
+        "Acts 19:4",
+        "Acts 19:18",
+        "Acts 21:20",
+        "Acts 21:25",
+        "Acts 22:19",
+        "Acts 24:14",
+        "Acts 26:27",
+        "Acts 27:25"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 218,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 1:15",
+          "found": true
+        },
+        {
+          "ref": "Acts 16:31",
+          "found": true
+        },
+        {
+          "ref": "Romans 10:9",
+          "found": true
+        },
+        {
+          "ref": "1 John 5:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4100"
+      }
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1124",
+          "original": "γραφή",
+          "transliteration": "graphē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "a writing",
+          "meaning": "γραφή, -ῆς, ἡ\n(γράφω), [in LXX chiefly for כְּתָב ;]\n1. a drawing, painting.\n2.\n(a) writing;\n(b) that which is written, a writing: πᾶσα γ., 2Ti.3:16; γ. ἅγιαι, Rom.1:2; προφητικαί, Rom.16:26; al αἱ γ. τ. προφητῶν, Mat.26:56; ἡ γ., αἱ γ., the sacred writings, the Scriptures (i.e. the OT; see Milligan, NTD, 205); in pl., when the sacred writings as a whole are meant, e.g. Mat.21:42 26:54, Jhn.5:39, Rom.15:4; in sing., when a particular passage is referred to, as in Luk.4:21, Jhn.19:24, Rom.4:3 9:17 10:11 11:2, Jas.2:23 (Cremer, 165; DCG, ii, 584).\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "γραφὴν",
+          "translit": "graphēn",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφῆς",
+          "translit": "graphēs",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφῶν",
+          "translit": "graphōn",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφὰς",
+          "translit": "graphas",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφαῖς",
+          "translit": "graphais",
+          "gloss": "a writing"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 1:16",
+        "Acts 8:32",
+        "Acts 8:35",
+        "Acts 17:2",
+        "Acts 17:11",
+        "Acts 18:24",
+        "Acts 18:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 51,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 24:27",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 3:16",
+          "found": true
+        },
+        {
+          "ref": "2 Peter 1:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1124"
+      }
+    },
+    {
+      "id": "martyreo",
+      "strongs": [
+        "G3140"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3140",
+          "original": "μαρτυρέω",
+          "transliteration": "martureō",
+          "partOfSpeech": "G:V",
+          "gloss": "to testify",
+          "meaning": "μαρτυρέω, -ῶ\n(μάρτυς), [in LXX chiefly for עֵד (עֵד (Gen.31:47-48, al.), also for עוּד hi. (Gen.43:3, La 2:13), עָנָה (Num.35:30) ;]\n(a) prop., to be a witness, bear witness, testify: absol. (find., al.), Jhn.15:27, Act.26:5; parenthetical (Bl., § 79, 7; MM, xvi), 2Co.8:3; with dative of person(s) (comm. and incomm.; El., § 37, 2), Act.22:5, Heb.10:15; id. before ὅτι, Mat.23:31, Rom.10:2, al.; accusative and inf., Act.10:43; with accusative of thing(s) (cl.), Jhn.3:11, Rev.22:16, 20; with accusative cogn., before περί, Jhn.5:32, 1Jn.5:10; with dative of thing(s), Jhn.5:33, Act.14:3, al.; befor …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μαρτυρουμένους",
+          "translit": "marturoumenous",
+          "gloss": "to testify"
+        },
+        {
+          "original": "μαρτυρούμενός",
+          "translit": "marturoumenos",
+          "gloss": "to testify"
+        },
+        {
+          "original": "μαρτυροῦσιν",
+          "translit": "marturousin",
+          "gloss": "to testify"
+        },
+        {
+          "original": "μαρτυρήσας",
+          "translit": "marturēsas",
+          "gloss": "to testify"
+        },
+        {
+          "original": "μαρτυροῦντι",
+          "translit": "marturounti",
+          "gloss": "to testify"
+        },
+        {
+          "original": "ἐμαρτύρησεν",
+          "translit": "emarturēsen",
+          "gloss": "to testify"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 6:3",
+        "Acts 10:22",
+        "Acts 10:43",
+        "Acts 13:22",
+        "Acts 14:3",
+        "Acts 15:8",
+        "Acts 16:2",
+        "Acts 22:5",
+        "Acts 22:12",
+        "Acts 23:11",
+        "Acts 26:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 73,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 4:22",
+          "found": true
+        },
+        {
+          "ref": "John 1:7",
+          "found": true
+        },
+        {
+          "ref": "Revelation 22:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3140"
+      }
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4165",
+          "original": "ποιμαίνω",
+          "transliteration": "poimainō",
+          "partOfSpeech": "G:V",
+          "gloss": "to shepherd",
+          "meaning": "ποιμαίνω\n(ποιμήν), [in LXX chiefly for רָעָה ;]\nto act as shepherd, tend flocks: Luk.17:7; with accusative, ποιμνην, 1Co.9:7. Metaphorical, to tend, shepherd, govern: with accusative, Mat.2:6 (LXX), Jhn.21:16, Act.20:28, 1Pe.5:2, Ju 12, Rev.2:27 7:17 12:5 19:15.†\nSYN.: βόσκω, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ποιμαίνειν",
+          "translit": "poimainein",
+          "gloss": "to shepherd"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 20:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:6",
+          "found": true
+        },
+        {
+          "ref": "John 21:16",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 5:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4165"
+      }
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3107",
+          "original": "μακάριος",
+          "transliteration": "makarios",
+          "partOfSpeech": "G:A",
+          "gloss": "blessed",
+          "meaning": "μακάριος, -α, -ον\n(collat. form of poët. μάκαρ, in Hom., Hes., chiefly of the gods and the departed), [in LXX for אֹשֶׁר ;]\nblessed, happy (DCG, i, 177, 213): θεός (δυνάστης), 1Ti.1:11 6:15; ἐλπίς, Tit.2:13; esp. in congratulations, usually with the omission of the copula (M, Pr., 180; B1., § 30, 3), μ. ὁ, Mat.5:3 ff., Luk.6:20 ff. Jhn.20:29, Rev.1:3, al.; before ptcp., Luk.1:45, al.; ὅς, Mat.11:6, Luk.7:23, Rom.4:7-8; ὅτι, Mat.13:16, al.; ἐάν, Jhn.13:17, 1Co.7:40; compar., μ. . . . μᾶλλον, Act.20:35; -ώτερος, 1Co.7:40\nSYN.: εὐλογητός, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μακάριόν",
+          "translit": "makarion",
+          "gloss": "blessed "
+        },
+        {
+          "original": "μακάριον",
+          "translit": "makarion",
+          "gloss": "blessed "
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 20:35",
+        "Acts 26:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 49,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:3",
+          "found": true
+        },
+        {
+          "ref": "Luke 6:20",
+          "found": true
+        },
+        {
+          "ref": "James 1:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3107"
+      }
+    },
+    {
+      "id": "koinoo",
+      "strongs": [
+        "G2840"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2840",
+          "original": "κοινόω",
+          "transliteration": "koinoō",
+          "partOfSpeech": "G:V",
+          "gloss": "to profane",
+          "meaning": "κοινόω, -ῶ\n[in LXX: 4Ma.7:6 א R* ;]\n1. in cl., to make common.\n2. In LXX, l.with, and NT (as κοινός, 2), to make ceremonially unclean, to profane (= cl., βεληλόω): Mat.15:11, 18 15:20, Mrk.7:15, 18 7:20, 23, Act.21:28; pass., Heb.9:13.\n3. to count unclean (cf. δικαιόω): Act.10:15 11:9.†\nSYN.: βεβηλόω. Thayer (see word κ.) mentions that Winer Notes the accuracy whereby the Jews are said to use κ. in addressing Jews, Act.21:28, and β. when speaking to Felix, 24:6 (Cremer, 362) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κοίνου",
+          "translit": "koinou",
+          "gloss": "to profane"
+        },
+        {
+          "original": "κεκοίνωκεν",
+          "translit": "kekoinōken",
+          "gloss": "to profane"
+        }
+      ],
+      "occurrencesInBook": [
+        "Acts 10:15",
+        "Acts 11:9",
+        "Acts 21:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 15:11",
+          "found": true
+        },
+        {
+          "ref": "Mark 7:15",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 9:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2840"
+      }
     }
   ]
 }
