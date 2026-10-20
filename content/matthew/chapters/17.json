@@ -1,0 +1,78 @@
+{
+  "number": 17,
+  "sceneHappening": "On a mountain, then back among the crowds and in Capernaum",
+  "summary": "Six days later, Jesus takes Peter, James, and John up a high mountain, where he is transfigured: his face shines like the sun and his clothes become white as light. Moses and Elijah appear, talking with him. Peter suggests making three tents, and while he is speaking a bright cloud covers them and a voice says, \"This is my beloved Son, with whom I am well pleased. Listen to him.\" The disciples fall on their faces, terrified, until Jesus touches them: \"Get up, and don't be afraid.\" They see only Jesus. As they come down he tells them to tell no one until the Son of Man is raised from the dead. They ask why the scribes say Elijah must come first; Jesus says Elijah has already come and was mistreated, and they understand he means John the Baptist. At the foot of the mountain a man kneels and begs for mercy for his son, who has seizures and often falls into fire or water; the disciples couldn't heal him. Jesus calls the generation faithless and twisted, rebukes the demon, and the boy is healed. Asked privately why they failed, he says it was because of their little faith: with faith like a mustard seed they could say to the mountain, \"Move,\" and it would move. In Galilee he again says he will be betrayed, killed, and raised, and they are greatly distressed. In Capernaum the collectors of the temple tax ask Peter whether his teacher pays it. Jesus tells Peter that kings' sons are free, but so as not to cause offense, he should go to the lake, throw in a hook, and open the mouth of the first fish he catches to find a coin worth enough for both of them.",
+  "whySettingMatters": "The mountain isn't named. Tradition points to Tabor, but Mount Hermon, near Caesarea Philippi where the last scene took place, is often proposed. Mountains in Israel's story were places where people met God, and Moses and Elijah both met him on Sinai (Horeb). A bright cloud recalls God's presence at Sinai and in the tabernacle. Moses and Elijah were also expected figures: Moses as the prophet to come (Deuteronomy 18:15, echoed in \"Listen to him\") and Elijah as the one sent before the Lord's day (Malachi 4:5-6). Tents may recall the festival of Tabernacles; that link is debated. The boy's condition is described with a word that literally means \"moonstruck,\" often taken to mean epilepsy, though a modern diagnosis can't be certain. Uprooting or moving a mountain was a proverbial image for the impossible. The half-shekel temple tax was an annual levy on adult Jewish men for the temple's upkeep (Exodus 30:13-16). The coin in the fish's mouth, a stater, was worth four drachmas, roughly four days' wages, enough for two people.",
+  "people": [
+    {
+      "id": "peter",
+      "note": "Offers to build tents, then is asked to pay the temple tax."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "One of the three taken up the mountain."
+    },
+    {
+      "id": "john-apostle",
+      "note": "One of the three taken up the mountain."
+    },
+    {
+      "id": "moses",
+      "note": "Appears with Jesus, the lawgiver who met God on Sinai."
+    },
+    {
+      "id": "elijah",
+      "note": "Appears with Jesus, the prophet who met God at Horeb and was expected to return."
+    },
+    {
+      "id": "the-boy-and-father",
+      "note": "A father begs mercy for his son after the disciples couldn't help."
+    },
+    {
+      "id": "temple-tax-collectors",
+      "note": "Collectors in Capernaum who ask whether Jesus pays the half-shekel."
+    }
+  ],
+  "questions": [
+    "Moses and Elijah appear with Jesus. What might their presence say about how he fits into Israel's story?",
+    "The voice repeats what was said at the baptism and adds \"Listen to him.\" Why might that be added here, right after Jesus spoke of his death?",
+    "The disciples couldn't heal the boy, and Jesus points to \"little faith.\" What do you make of the mustard-seed answer?",
+    "Jesus says the sons are free but pays the temple tax anyway. What does that say about rights and generosity?"
+  ],
+  "words": [
+    {
+      "id": "metamorphoo",
+      "note": "He was \"transfigured\" before them (17:2)."
+    },
+    {
+      "id": "oligopistos",
+      "note": "\"Because of your little faith\" (17:20, the related noun)."
+    },
+    {
+      "id": "skandalon",
+      "note": "\"So that we don't offend them\" (17:27, the related verb)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 18:15",
+      "note": "the prophet like Moses: \"listen to him\""
+    },
+    {
+      "ref": "Malachi 4:5-6",
+      "note": "Elijah sent before the day of the Lord"
+    },
+    {
+      "ref": "Exodus 30:13",
+      "note": "the half-shekel offering"
+    },
+    {
+      "ref": "Numbers 14:27",
+      "note": "how long this faithless generation grumbles"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

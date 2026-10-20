@@ -1971,6 +1971,255 @@
         "fetched": "2026-10-19",
         "item": "G2952"
       }
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1577",
+          "original": "ἐκκλησία",
+          "transliteration": "ekklēsia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "assembly",
+          "meaning": "ἐκκλησία, -ας, ἡ\n(ἐκ-καλέω), [in LXX chiefly for קָהָל, otherwise for one of its cogn. forms ;]\n1. prop., an assembly of citizens regularly convened (in Thuc., ii, 22, opposite to σύλλογος, a concourse): Act.19:32, 39 41.\n2. In LXX of the assembly, congregation, community of Israel (Deu.4:10 23:2, al.): Act.7:38, Heb.2:12\" (LXX) .\n3. NT, esp. of an assembly or company of Christians, a (the) church;\n(a) of gatherings for worship: 1Co.11:18 14:19, 34 35; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐκκλησίαν",
+          "translit": "ekklēsian",
+          "gloss": "assembly"
+        },
+        {
+          "original": "ἐκκλησίᾳ",
+          "translit": "ekklēsia",
+          "gloss": "assembly"
+        },
+        {
+          "original": "ἐκκλησίας",
+          "translit": "ekklēsias",
+          "gloss": "assembly"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 16:18",
+        "Matthew 18:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 114,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 18:17",
+          "found": true
+        },
+        {
+          "ref": "Acts 7:38",
+          "found": true
+        },
+        {
+          "ref": "Acts 19:32",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 5:25",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1577"
+      }
+    },
+    {
+      "id": "petra",
+      "strongs": [
+        "G4073"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4073",
+          "original": "πέτρα",
+          "transliteration": "petra",
+          "partOfSpeech": "G:N-F",
+          "gloss": "rock",
+          "meaning": "πέτρα, -ας, ἡ\n[in LXX chiefly for סֶלַע, צוּר ;]\na rock, i.e. a mass of live rock as distinct from πέτρος, a detached stone or boulder : Mat.7:24-25 27:51, 60 Mrk.15:46, Luk.6:48 8:6, 13; of a hollow rock, a cave, Rev.6:15-16 (of. Isa.2:10, al.). Metaphorical, Mat.16:18 (on the meaning, see Hort, Eccl., 16 ff., but cf. also ICC, in l), 1Co.10:4; = πέτρος, Rom.9:33, 1Pe.2:8\" (LXX) .†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πέτραν",
+          "translit": "petran",
+          "gloss": "rock"
+        },
+        {
+          "original": "πέτρᾳ",
+          "translit": "petra",
+          "gloss": "rock"
+        },
+        {
+          "original": "πέτραι",
+          "translit": "petrai",
+          "gloss": "rock"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 7:24",
+        "Matthew 7:25",
+        "Matthew 16:18",
+        "Matthew 27:51",
+        "Matthew 27:60"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 14,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 7:24",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 10:4",
+          "found": true
+        },
+        {
+          "ref": "Romans 9:33",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 2:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4073"
+      }
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3339",
+          "original": "μεταμορφόω",
+          "transliteration": "metamorphoō",
+          "partOfSpeech": "G:V",
+          "gloss": "to transform",
+          "meaning": "μετα-μορφόω, -ῶ\n[in Sm.: Psa.34:1 * ;]\nto transform, trans­figure: pass., of Christ's transfiguration, Mat.17:2, Mrk.9:2 (cf. Luk.9:29); of Christians, Rom.12:2, 2Co.3:18.†\nSYN.: μετασχηματίζω, to change in fashion or appearance, see: μορφή, and cf. Lft., Phi., 125 ff (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μετεμορφώθη",
+          "translit": "metemorphōthē",
+          "gloss": "to transform"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 17:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 9:2",
+          "found": true
+        },
+        {
+          "ref": "Romans 12:2",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 3:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3339"
+      }
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4625",
+          "original": "σκάνδαλον",
+          "transliteration": "skandalon",
+          "partOfSpeech": "G:N-N",
+          "gloss": "stumbling block",
+          "meaning": "σκάνδαλον, -ου, τό\n(late form of the rare word σκανδάληθρον, see LS, see word) [in LXX chiefly for מוֹקֵשׁ, מִכְשׁוֹל ;]\nprop., the bait-stick of a trap, a snare, stumbling-block (Lev.19:14, Jdth.5:1): figuratively, Rom.9:33, 1Pe.2:8 (Isa.8:14; aliter in LXX; στερεὸν σκανδάλου in Aq.). Metaphorical, of that which causes error or sin;\n(a) of persons: Mat.13:41 16:23; Χριστὸς ἐσταυρωμένος, 1Co.1:23;\n(b) of things: Mat.18:7, Rom.11:9\" (LXX) Rom.14:13, 1Jn.2:10 Rev.2:14; τὸ σ. τοῦ σταυροῦ, Gal.5:11; pl., Mat.18:7, Luk.17:1, Rom.16:17.†\nSYN.: πρόσκομμα (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκάνδαλα",
+          "translit": "skandala",
+          "gloss": "stumbling block"
+        },
+        {
+          "original": "σκάνδαλον",
+          "translit": "skandalon",
+          "gloss": "stumbling block"
+        },
+        {
+          "original": "σκανδάλων",
+          "translit": "skandalōn",
+          "gloss": "stumbling block"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 13:41",
+        "Matthew 16:23",
+        "Matthew 18:7"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 13,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 18:7",
+          "found": true
+        },
+        {
+          "ref": "Romans 9:33",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:23",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4625"
+      }
     }
   ]
 }

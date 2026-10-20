@@ -1241,6 +1241,98 @@
         "item": "daughter_of_herodias_983",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "elijah",
+      "name": "Elijah",
+      "alsoCalled": "Elias",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11,
+        16,
+        17,
+        27
+      ],
+      "verses": [
+        "Matthew 11:14",
+        "Matthew 16:14",
+        "Matthew 17:3",
+        "Matthew 17:4",
+        "Matthew 17:10",
+        "Matthew 17:11",
+        "Matthew 17:12",
+        "Matthew 27:47",
+        "Matthew 27:49"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "elijah_1131",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Amram"
+        },
+        "mother": {
+          "name": "Jochebed"
+        },
+        "spouses": [
+          {
+            "name": "Zipporah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Gershom"
+          },
+          {
+            "name": "Eliezer"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Aaron"
+          },
+          {
+            "name": "Miriam"
+          }
+        ]
+      },
+      "chapters": [
+        8,
+        17,
+        19,
+        22
+      ],
+      "verses": [
+        "Matthew 8:4",
+        "Matthew 17:3",
+        "Matthew 17:4",
+        "Matthew 19:7",
+        "Matthew 19:8",
+        "Matthew 22:24"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "moses_2108",
+        "recordStatus": "publish"
+      }
     }
   ]
 }

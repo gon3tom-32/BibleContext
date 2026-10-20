@@ -1286,5 +1286,199 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "ekklesia",
+    "transliteration": "ekklēsia",
+    "original": "ἐκκλησία",
+    "pronunciation": "ek-klay-SEE-ah",
+    "gloss": "assembly, church",
+    "notes": "From \"to call out\": a gathering of people called together. In everyday Greek it was a city's citizen assembly. The Greek Old Testament used it for Israel's assembly before God, which is the background Jesus' first hearers would hear. Matthew uses it only twice, here and in 18:17, and none of the other three Gospels uses it at all.",
+    "range": [
+      {
+        "sense": "Citizen assembly",
+        "note": "A city's gathering of free citizens."
+      },
+      {
+        "sense": "Israel's assembly",
+        "note": "God's gathered people in the Greek Old Testament."
+      },
+      {
+        "sense": "A local gathering",
+        "note": "A particular congregation."
+      },
+      {
+        "sense": "The church",
+        "note": "All followers of Jesus."
+      }
+    ],
+    "translations": [
+      "church",
+      "assembly",
+      "congregation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 18:17",
+        "note": "\"Tell it to the church.\""
+      },
+      {
+        "ref": "Acts 7:38",
+        "note": "Israel as \"the assembly in the wilderness.\""
+      },
+      {
+        "ref": "Acts 19:32",
+        "note": "An unruly civic assembly in Ephesus."
+      },
+      {
+        "ref": "Ephesians 5:25",
+        "note": "Christ loved the church."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "petra",
+    "transliteration": "petra",
+    "original": "πέτρα",
+    "pronunciation": "PET-rah",
+    "gloss": "rock, bedrock",
+    "notes": "A mass of rock or bedrock, in contrast to a loose stone. Jesus plays on Peter's name: Petros (a masculine name form) and petra. Many readers have noted that in Aramaic the same word would stand for both. In Matthew it also means the rock a wise builder chooses (7:24) and the rock cut for Jesus' tomb (27:60).",
+    "uncertain": "What \"this rock\" refers to (Peter himself, his confession, or Jesus) has been debated among Christian traditions for centuries.",
+    "range": [
+      {
+        "sense": "Bedrock",
+        "note": "Solid rock, a foundation."
+      },
+      {
+        "sense": "Cliff or outcrop",
+        "note": "A rock face or ledge."
+      },
+      {
+        "sense": "Figure for God",
+        "note": "In the Psalms, God as a rock and refuge."
+      }
+    ],
+    "translations": [
+      "rock",
+      "bedrock",
+      "stone"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:24",
+        "note": "The wise builder on the rock."
+      },
+      {
+        "ref": "1 Corinthians 10:4",
+        "note": "\"The rock was Christ.\""
+      },
+      {
+        "ref": "Romans 9:33",
+        "note": "A rock that makes people fall."
+      },
+      {
+        "ref": "1 Peter 2:8",
+        "note": "A rock of offense."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metamorphoo",
+    "transliteration": "metamorphoō",
+    "original": "μεταμορφόω",
+    "pronunciation": "meh-tah-mor-FOH-oh",
+    "gloss": "to transform",
+    "notes": "To change form, the root of English \"metamorphosis.\" It's used only four times in the New Testament: Jesus' transfiguration (here and in Mark) and twice for believers being changed, in Romans 12:2 and 2 Corinthians 3:18.",
+    "range": [
+      {
+        "sense": "Change outward form",
+        "note": "As on the mountain."
+      },
+      {
+        "sense": "Be transformed inwardly",
+        "note": "As in Paul's letters."
+      }
+    ],
+    "translations": [
+      "transfigured",
+      "transformed",
+      "changed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 9:2",
+        "note": "The same event in Mark."
+      },
+      {
+        "ref": "Romans 12:2",
+        "note": "\"Be transformed by the renewing of your mind.\""
+      },
+      {
+        "ref": "2 Corinthians 3:18",
+        "note": "Being transformed into the same image."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skandalon",
+    "transliteration": "skandalon",
+    "original": "σκάνδαλον",
+    "pronunciation": "SKAN-dah-lon",
+    "gloss": "stumbling block, trap",
+    "notes": "Originally the trigger of a trap, the thing that springs it. In the New Testament it's a stumbling block, something that trips a person up in following God. Peter becomes one for Jesus when he tries to talk him out of the cross, and Paul later says the cross itself is a stumbling block to many.",
+    "range": [
+      {
+        "sense": "Trap trigger",
+        "note": "The part of a trap that snaps shut."
+      },
+      {
+        "sense": "Stumbling block",
+        "note": "Something that makes a person fall."
+      },
+      {
+        "sense": "Offense",
+        "note": "A cause of taking offense."
+      }
+    ],
+    "translations": [
+      "stumbling block",
+      "offense",
+      "hindrance",
+      "trap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 18:7",
+        "note": "\"Woe to the world because of stumbling blocks.\""
+      },
+      {
+        "ref": "Romans 9:33",
+        "note": "A stone that makes people stumble."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "Christ crucified, a stumbling block to Jews."
+      },
+      {
+        "ref": "Galatians 5:11",
+        "note": "The offense of the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

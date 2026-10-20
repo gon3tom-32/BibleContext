@@ -218,6 +218,14 @@
     {
       "id": "herodias-daughter",
       "theographic": "daughter_of_herodias_983"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
     }
   ],
   "words": [
@@ -417,6 +425,34 @@
         "G2952"
       ],
       "foundAt": "Matthew 15:26"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "Matthew 16:18"
+    },
+    {
+      "id": "petra",
+      "strongs": [
+        "G4073"
+      ],
+      "foundAt": "Matthew 16:18"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "Matthew 17:2"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "Matthew 16:23"
     }
   ],
   "crossRefs": {
@@ -434,7 +470,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 16 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 18 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -447,6 +483,10 @@
     {
       "area": "people",
       "text": "Theographic has no record for the Canaanite woman, who is unnamed in Matthew."
+    },
+    {
+      "area": "places",
+      "text": "Matthew doesn't name the mountain of the transfiguration (17:1); it isn't mapped."
     }
   ]
 }
