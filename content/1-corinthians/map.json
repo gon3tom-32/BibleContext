@@ -1,0 +1,102 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "corinth",
+      "title": "The church Paul founded",
+      "short": "Corinth",
+      "refs": "1 Corinthians 1:2; Acts 18:1-18",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A wealthy Roman colony on the narrow land bridge between northern and southern Greece, with a harbor on each side. Paul stayed about eighteen months."
+    },
+    {
+      "order": 2,
+      "placeId": "ephesus",
+      "title": "Where Paul writes",
+      "short": "Ephesus",
+      "refs": "1 Corinthians 16:8-9, 16:19",
+      "chapter": 16,
+      "direction": "out",
+      "text": "Paul stays in Ephesus until Pentecost because \"a great and effective door has opened\" there. Believers in the province of Asia send greetings."
+    },
+    {
+      "order": 3,
+      "placeId": "macedonia",
+      "title": "The route Paul plans",
+      "short": "Macedonia",
+      "refs": "1 Corinthians 16:5",
+      "chapter": 16,
+      "direction": "out",
+      "text": "Paul plans to pass through Macedonia and then come to Corinth."
+    },
+    {
+      "order": 4,
+      "placeId": "jerusalem",
+      "title": "The collection for the poor",
+      "short": "Jerusalem",
+      "refs": "1 Corinthians 16:1-4",
+      "chapter": 16,
+      "direction": "out",
+      "text": "Paul asks the Corinthians to set money aside each week for the believers in Jerusalem, and offers to send it with their chosen messengers."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 18.5,
+      "east": 37.0,
+      "south": 30.8,
+      "north": 42.5
+    },
+    "label": "Map of the Aegean region and the eastern Mediterranean, drawn from real coordinates. Numbered stops mark Corinth, Ephesus, Macedonia, and Jerusalem.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left"
+      },
+      {
+        "order": 2,
+        "at": "ephesus",
+        "label": "Ephesus",
+        "labelSide": "right"
+      },
+      {
+        "order": 3,
+        "at": "macedonia",
+        "label": "Macedonia",
+        "labelSide": "left"
+      },
+      {
+        "order": 4,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "achaia": null,
+      "asia": null,
+      "galatia": null,
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

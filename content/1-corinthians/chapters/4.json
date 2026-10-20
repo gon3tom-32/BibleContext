@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Servants and stewards, a church puffed up, and Paul as a spiritual father",
+  "summary": "Paul says people should think of him and Apollos as servants of Christ and stewards of God's mysteries, and what is required of stewards is faithfulness. He cares little about being judged by the Corinthians or by any human court; he does not even judge himself, for the Lord is his judge, and the Lord will bring hidden things to light and reveal the purposes of the heart. He has applied these points to himself and Apollos so they will learn \"not to go beyond the things which are written,\" and not be puffed up on behalf of one against another. \"Who makes you different? What do you have that you didn't receive?\" Then Paul turns ironic: they are already full, already rich, already reigning, while the apostles are like men sentenced to death in the arena, fools for Christ, weak, dishonored, hungry, beaten, homeless, and treated like the \"scum of the world.\" He writes not to shame them but to warn them as beloved children. Though they may have ten thousand guides, they do not have many fathers; Paul became their father through the gospel and sends Timothy to remind them of his ways. Some are puffed up, thinking he will not come, but he will come soon, if the Lord wills, and will find out not the talk but the power, \"for the Kingdom of God is not in word, but in power.\" Shall he come with a rod, or with love and a spirit of gentleness?",
+  "whySettingMatters": "A \"steward\" (oikonomos) was often a household slave put in charge of managing the master's property. The role carried responsibility but not ownership, and Paul uses it to say that preachers answer to Christ and not to the opinion of the audience. The picture in 4:9 is of the last act in a Roman arena, when condemned prisoners were brought out to die for the crowd's entertainment, and it is deliberately the opposite of the Corinthian picture of the apostles as impressive teachers. \"Scum\" and \"refuse\" (4:13) were words for what is scraped off and thrown away. The language of fathers and children fits an ancient world where a founder was often expected to guide his followers. The phrase \"not beyond what is written\" is obscure in Greek, and scholars debate whether it refers to Scriptures Paul has just quoted or to a slogan; it is best read as a warning against going beyond what Scripture teaches.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "A steward, a \"fool for Christ,\" and a spiritual father."
+    },
+    {
+      "id": "apollos",
+      "note": "Another servant and steward."
+    },
+    {
+      "id": "timothy",
+      "note": "Paul's beloved and faithful child, sent to remind them."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Proud and satisfied; called Paul's beloved children."
+    }
+  ],
+  "questions": [
+    "Paul says he is not troubled by being judged by others, or even by himself. Where does he find his confidence?",
+    "\"What do you have that you didn't receive?\" How does that question deflate boasting?",
+    "Paul describes the apostles in humiliating terms, using irony. Why would he press that picture on a church that thinks it has arrived?",
+    "\"Shall I come with a rod, or in love?\" What does that say about how Paul sees his role?"
+  ],
+  "words": [
+    {
+      "id": "oikonomos",
+      "note": "\"Stewards of God's mysteries\" (4:1-2)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"Stewards of the mysteries of God\" (4:1)."
+    },
+    {
+      "id": "physioo",
+      "note": "\"That no one of you be puffed up\" (4:6, 4:18-19)."
+    },
+    {
+      "id": "peripsema",
+      "note": "\"The filth of the world, the dirt wiped off by all\" (4:13)."
+    },
+    {
+      "id": "anakrino",
+      "note": "\"I am judged by you or by man's day\" (4:3-4)."
+    },
+    {
+      "id": "kauchaomai",
+      "note": "\"Why do you boast as if you hadn't received it?\" (4:7)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"The Kingdom of God is not in word, but in power\" (4:20)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Peter 4:10",
+      "note": "good stewards of the manifold grace of God"
+    },
+    {
+      "ref": "Acts 19:22",
+      "note": "Paul sends Timothy ahead into Macedonia"
+    },
+    {
+      "ref": "2 Corinthians 11:23-28",
+      "note": "Paul lists his hardships"
+    },
+    {
+      "ref": "Philippians 2:19-22",
+      "note": "Timothy, who cares for others like a son with a father"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

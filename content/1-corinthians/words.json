@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "sophia",
+    "transliteration": "sophía",
+    "original": "σοφία",
+    "pronunciation": "so-FEE-ah",
+    "gloss": "wisdom",
+    "notes": "Wisdom, skill, or insight. In Greek culture it meant philosophy and clever speech, and in Jewish writings it often meant practical, God-given insight for living well. In this letter Paul sets \"the wisdom of this age\" against God's wisdom, which looks like foolishness because it is centered on a crucified Messiah (1:18-2:16).",
+    "range": [
+      {
+        "sense": "Skill",
+        "note": "Practical know-how."
+      },
+      {
+        "sense": "Insight",
+        "note": "Understanding of what is true."
+      },
+      {
+        "sense": "God's wisdom",
+        "note": "His purpose, shown in Christ."
+      }
+    ],
+    "translations": [
+      "wisdom",
+      "skill",
+      "insight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Proverbs 8:22",
+        "note": "Wisdom speaks about her place in creation."
+      },
+      {
+        "ref": "Colossians 2:3",
+        "note": "In Christ are hidden all the treasures of wisdom."
+      },
+      {
+        "ref": "James 3:17",
+        "note": "The wisdom from above is pure and peaceable."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "moria",
+    "transliteration": "mōría",
+    "original": "μωρία",
+    "pronunciation": "mo-REE-ah",
+    "gloss": "foolishness",
+    "notes": "Foolishness. The English word \"moron\" comes from the same root. Paul says the message of the cross looks like foolishness to the world, and then says God's \"foolishness\" is wiser than human wisdom (1:18-25).",
+    "range": [
+      {
+        "sense": "Foolishness",
+        "note": "Lack of sense."
+      },
+      {
+        "sense": "Absurd to outsiders",
+        "note": "What the cross looks like to the world."
+      }
+    ],
+    "translations": [
+      "foolishness",
+      "folly"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 2:14",
+        "note": "The natural person finds God's things foolishness."
+      },
+      {
+        "ref": "1 Corinthians 3:19",
+        "note": "The wisdom of this world is foolishness with God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kauchaomai",
+    "transliteration": "kauchâomai",
+    "original": "καυχάομαι",
+    "pronunciation": "kow-KHAH-oh-my",
+    "gloss": "to boast, to take pride",
+    "notes": "To boast or glory in something. Paul uses it often in this letter, usually against boasting in people, and says the only fitting boast is \"in the Lord,\" echoing Jeremiah 9:24 (1:29-31).",
+    "range": [
+      {
+        "sense": "Boast",
+        "note": "Speak proudly of oneself or others."
+      },
+      {
+        "sense": "Glory in",
+        "note": "Take confidence in something."
+      }
+    ],
+    "translations": [
+      "boast",
+      "glory",
+      "take pride"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 5:3",
+        "note": "We boast in sufferings."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "note": "May I never boast except in the cross."
+      },
+      {
+        "ref": "2 Corinthians 10:17",
+        "note": "Let him who boasts boast in the Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "schisma",
+    "transliteration": "schísma",
+    "original": "σχίσμα",
+    "pronunciation": "SKHEE-sma",
+    "gloss": "a split, division",
+    "notes": "A tear or split, as in cloth or a crowd. In this letter it names divisions in the church (1:10; 11:18; 12:25). It does not necessarily mean separate churches, but a breakdown of unity inside one.",
+    "range": [
+      {
+        "sense": "Tear",
+        "note": "A rip in cloth."
+      },
+      {
+        "sense": "Division",
+        "note": "A split among people."
+      }
+    ],
+    "translations": [
+      "division",
+      "split",
+      "dissension"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 7:43",
+        "note": "A division arose among the crowd because of him."
+      },
+      {
+        "ref": "John 9:16",
+        "note": "A division among them over Jesus."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kerygma",
+    "transliteration": "kḗrygma",
+    "original": "κήρυγμα",
+    "pronunciation": "KAY-roog-mah",
+    "gloss": "proclamation, what is preached",
+    "notes": "What a herald announces. It stands for the content of the message that is preached, not the style of delivery. Paul says God was pleased to save people through the \"foolishness of the preached message\" (1:21).",
+    "range": [
+      {
+        "sense": "Message",
+        "note": "What is proclaimed."
+      },
+      {
+        "sense": "Preaching",
+        "note": "The act of heralding."
+      }
+    ],
+    "translations": [
+      "preaching",
+      "proclamation",
+      "message"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:25",
+        "note": "My gospel and the preaching of Jesus Christ."
+      },
+      {
+        "ref": "2 Timothy 4:17",
+        "note": "Through me the proclamation might be fully made."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauros",
+    "transliteration": "stauros",
+    "original": "σταυρός",
+    "pronunciation": "stow-ROSS",
+    "gloss": "cross",
+    "notes": "Paul makes the cross the center of his message to Corinth (1:17-18, 1:23, 2:2).",
+    "range": [
+      {
+        "sense": "Stake or cross",
+        "note": "The wooden frame used for crucifixion."
+      },
+      {
+        "sense": "Crucifixion",
+        "note": "The execution itself."
+      },
+      {
+        "sense": "The cost of following",
+        "note": "A picture of giving up one's life."
+      }
+    ],
+    "translations": [
+      "cross"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:32",
+        "note": "They compelled Simon to carry his cross."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "note": "Boast only in the cross of our Lord Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dynamis",
+    "transliteration": "dynamis",
+    "original": "δύναμις",
+    "pronunciation": "DOO-nah-mis",
+    "gloss": "power, ability",
+    "notes": "\"The message of the cross is the power of God\" (1:18, 1:24; 2:4-5).",
+    "range": [
+      {
+        "sense": "Power",
+        "note": "Ability to act."
+      },
+      {
+        "sense": "Miracle",
+        "note": "A mighty work."
+      }
+    ],
+    "translations": [
+      "power",
+      "miracle",
+      "might"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:16",
+        "note": "The gospel is the power of God for salvation."
+      },
+      {
+        "ref": "Acts 1:8",
+        "note": "You will receive power when the Holy Spirit comes."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kletos",
+    "transliteration": "klētos",
+    "original": "κλητός",
+    "pronunciation": "klay-TOS",
+    "gloss": "called, invited",
+    "notes": "The Corinthians are \"called to be saints\" (1:2), and Christ is God's power and wisdom \"to those who are called\" (1:24).",
+    "range": [
+      {
+        "sense": "Called",
+        "note": "Summoned by God."
+      },
+      {
+        "sense": "Invited",
+        "note": "Asked to come."
+      }
+    ],
+    "translations": [
+      "called",
+      "invited"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, called to be an apostle."
+      },
+      {
+        "ref": "Romans 1:7",
+        "note": "Called to be saints."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skandalon",
+    "transliteration": "skandalon",
+    "original": "σκάνδαλον",
+    "pronunciation": "SKAN-dah-lon",
+    "gloss": "stumbling block, trap",
+    "notes": "\"To Jews a stumbling block\" (1:23).",
+    "range": [
+      {
+        "sense": "Trap trigger",
+        "note": "The part of a trap that snaps shut."
+      },
+      {
+        "sense": "Stumbling block",
+        "note": "Something that makes a person fall."
+      },
+      {
+        "sense": "Offense",
+        "note": "A cause of taking offense."
+      }
+    ],
+    "translations": [
+      "stumbling block",
+      "offense",
+      "hindrance",
+      "trap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 9:33",
+        "note": "I lay in Zion a stumbling stone."
+      },
+      {
+        "ref": "Galatians 5:11",
+        "note": "Then the offense of the cross has been removed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pneumatikos",
+    "transliteration": "pneumatikós",
+    "original": "πνευματικός",
+    "pronunciation": "pnyoo-mah-tee-KOS",
+    "gloss": "spiritual",
+    "notes": "Belonging to the Spirit, or shaped by the Spirit. In this letter it describes people, gifts, and things. Paul uses it against those who treated being \"spiritual\" as a proud status. For him it means to be led by God's Spirit (2:13-15; 12:1; 14:1; 15:44-46).",
+    "range": [
+      {
+        "sense": "Of the Spirit",
+        "note": "Coming from God's Spirit."
+      },
+      {
+        "sense": "Spiritual person",
+        "note": "One led by the Spirit."
+      },
+      {
+        "sense": "Spiritual gifts",
+        "note": "What the Spirit gives."
+      }
+    ],
+    "translations": [
+      "spiritual",
+      "of the Spirit"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:11",
+        "note": "I may impart some spiritual gift."
+      },
+      {
+        "ref": "Galatians 6:1",
+        "note": "You who are spiritual, restore him."
+      },
+      {
+        "ref": "Ephesians 1:3",
+        "note": "Every spiritual blessing in Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "psychikos",
+    "transliteration": "psychikós",
+    "original": "ψυχικός",
+    "pronunciation": "psoo-khee-KOS",
+    "gloss": "natural, ordinary",
+    "notes": "Belonging to the ordinary human life (psychē, \"soul\"), without the Spirit. \"The natural person\" does not accept the things of God's Spirit (2:14). The same word describes the present body in 15:44, and means \"a body suited to this age,\" not an evil one.",
+    "range": [
+      {
+        "sense": "Natural",
+        "note": "Of ordinary human life."
+      },
+      {
+        "sense": "Unspiritual",
+        "note": "Without the Spirit."
+      }
+    ],
+    "translations": [
+      "natural",
+      "unspiritual"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 15:44",
+        "note": "It is sown a natural body; it is raised a spiritual body."
+      },
+      {
+        "ref": "James 3:15",
+        "note": "This wisdom is earthly, unspiritual, demonic."
+      },
+      {
+        "ref": "Jude 1:19",
+        "note": "Natural, devoid of the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anakrino",
+    "transliteration": "anakrínō",
+    "original": "ἀνακρίνω",
+    "pronunciation": "ah-nah-KREE-no",
+    "gloss": "to examine, to discern",
+    "notes": "To examine closely, as in a legal inquiry. Paul says the spiritual person \"examines\" all things (2:14-15) and that he himself is \"examined\" by the Lord (4:3-4). The word describes careful, serious evaluation, not casual criticism.",
+    "range": [
+      {
+        "sense": "Examine",
+        "note": "Question closely."
+      },
+      {
+        "sense": "Discern",
+        "note": "Judge what is true."
+      }
+    ],
+    "translations": [
+      "discern",
+      "examine",
+      "judge"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 17:11",
+        "note": "They searched the Scriptures daily to see whether these things were so."
+      },
+      {
+        "ref": "1 Corinthians 9:3",
+        "note": "My defense to those who examine me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarkikos",
+    "transliteration": "sarkikós",
+    "original": "σαρκικός",
+    "pronunciation": "sar-kee-KOS",
+    "gloss": "fleshly, of the flesh",
+    "notes": "Of the flesh, meaning living by ordinary human, self-centered ways rather than the Spirit. Paul says the Corinthians are still \"fleshly\" because of jealousy and strife (3:1-4).",
+    "range": [
+      {
+        "sense": "Fleshly",
+        "note": "Shaped by human ways."
+      },
+      {
+        "sense": "Worldly",
+        "note": "Not led by the Spirit."
+      }
+    ],
+    "translations": [
+      "fleshly",
+      "worldly",
+      "of the flesh"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:27",
+        "note": "If the Gentiles have shared in their spiritual things, they owe it to serve them in material things."
+      },
+      {
+        "ref": "1 Corinthians 9:11",
+        "note": "If we have sown spiritual things, is it a great thing if we reap material things?"
+      },
+      {
+        "ref": "2 Corinthians 1:12",
+        "note": "Not in fleshly wisdom."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nepios",
+    "transliteration": "nḗpios",
+    "original": "νήπιος",
+    "pronunciation": "NAY-pee-os",
+    "gloss": "infant, child",
+    "notes": "A baby or very young child, one who cannot yet speak or reason as an adult. Paul uses it for believers who are immature (3:1) and in his poem on love for the childish way of speaking and thinking he has left behind (13:11).",
+    "range": [
+      {
+        "sense": "Infant",
+        "note": "A baby."
+      },
+      {
+        "sense": "Immature",
+        "note": "Not yet grown."
+      }
+    ],
+    "translations": [
+      "infants",
+      "babes",
+      "child"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:25",
+        "note": "You have revealed them to infants."
+      },
+      {
+        "ref": "Ephesians 4:14",
+        "note": "No longer children, tossed to and fro."
+      },
+      {
+        "ref": "Hebrews 5:13",
+        "note": "Everyone who partakes of milk is an infant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "synergos",
+    "transliteration": "synergós",
+    "original": "συνεργός",
+    "pronunciation": "soon-er-GOS",
+    "gloss": "fellow worker",
+    "notes": "A co-worker, someone who works alongside others. Paul uses it for himself and Apollos as \"God's fellow workers\" (3:9), and elsewhere for friends like Timothy, Priscilla, and Aquila.",
+    "range": [
+      {
+        "sense": "Fellow worker",
+        "note": "One who works with others."
+      },
+      {
+        "sense": "Co-worker with God",
+        "note": "Joined in God's work."
+      }
+    ],
+    "translations": [
+      "fellow workers",
+      "co-workers",
+      "helper"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:3",
+        "note": "Greet Prisca and Aquila, my fellow workers."
+      },
+      {
+        "ref": "Philippians 2:25",
+        "note": "Epaphroditus, my brother and fellow worker."
+      },
+      {
+        "ref": "2 Corinthians 8:23",
+        "note": "Titus is my partner and fellow worker."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "themelios",
+    "transliteration": "themélios",
+    "original": "θεμέλιος",
+    "pronunciation": "theh-MEH-lee-os",
+    "gloss": "foundation",
+    "notes": "The foundation of a building. Paul says Jesus Christ is the only foundation (3:10-12), and in Ephesians the apostles and prophets are described as a foundation with Christ as the cornerstone.",
+    "range": [
+      {
+        "sense": "Foundation",
+        "note": "The base of a building."
+      },
+      {
+        "sense": "Basis",
+        "note": "What everything rests on."
+      }
+    ],
+    "translations": [
+      "foundation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 2:20",
+        "note": "Built on the foundation of the apostles and prophets."
+      },
+      {
+        "ref": "Hebrews 11:10",
+        "note": "The city which has the foundations."
+      },
+      {
+        "ref": "Luke 6:48",
+        "note": "He laid the foundation on the rock."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "naos",
+    "transliteration": "naós",
+    "original": "ναός",
+    "pronunciation": "nah-OS",
+    "gloss": "temple, sanctuary",
+    "notes": "The inner sanctuary of a temple, where the god dwelt, as distinct from the whole temple area (hieron). Paul says the church is \"the temple of God\" (3:16-17), and later that the body is \"the temple of the Holy Spirit\" (6:19).",
+    "range": [
+      {
+        "sense": "Sanctuary",
+        "note": "The inner house of a god."
+      },
+      {
+        "sense": "Temple",
+        "note": "God's dwelling place."
+      }
+    ],
+    "translations": [
+      "temple",
+      "sanctuary"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 6:16",
+        "note": "You are the temple of the living God."
+      },
+      {
+        "ref": "Ephesians 2:21",
+        "note": "A holy temple in the Lord."
+      },
+      {
+        "ref": "Revelation 21:22",
+        "note": "I saw no temple in it."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dokimazo",
+    "transliteration": "dokimázō",
+    "original": "δοκιμάζω",
+    "pronunciation": "doh-kee-MAD-zo",
+    "gloss": "to test, to approve",
+    "notes": "To test something to see whether it is genuine, as metal is tested by fire, and so to approve what passes. Paul uses it for the fire that tests each person's work (3:13) and later for examining oneself before the Lord's Supper (11:28).",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "Try to see if genuine."
+      },
+      {
+        "sense": "Approve",
+        "note": "Accept after testing."
+      }
+    ],
+    "translations": [
+      "test",
+      "examine",
+      "approve"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:2",
+        "note": "So that you may prove what is the will of God."
+      },
+      {
+        "ref": "1 Thessalonians 5:21",
+        "note": "Test all things; hold fast to what is good."
+      },
+      {
+        "ref": "1 Peter 1:7",
+        "note": "The testing of your faith, more precious than gold."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikodome",
+    "transliteration": "oikodomē",
+    "original": "οἰκοδομή",
+    "pronunciation": "oy-kod-om-AY",
+    "gloss": "building up, edification",
+    "notes": "The church is \"God's building\" (3:9); in other chapters the word means \"building up\" (8:1; 14:3-26).",
+    "range": [
+      {
+        "sense": "Building up",
+        "note": "Strengthening."
+      },
+      {
+        "sense": "Edification",
+        "note": "Spiritual growth."
+      },
+      {
+        "sense": "Building",
+        "note": "A structure."
+      }
+    ],
+    "translations": [
+      "build up",
+      "edification",
+      "building"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 14:19",
+        "note": "Pursue the things that build up one another."
+      },
+      {
+        "ref": "Ephesians 2:21",
+        "note": "The whole building, fitted together."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikonomos",
+    "transliteration": "oikonómos",
+    "original": "οἰκονόμος",
+    "pronunciation": "oy-koh-NOH-mos",
+    "gloss": "steward, household manager",
+    "notes": "A household manager, often a trusted slave, who looked after the master's property and affairs. Paul calls himself and Apollos \"stewards of God's mysteries,\" who must be found faithful (4:1-2).",
+    "range": [
+      {
+        "sense": "Steward",
+        "note": "Manager of another's house."
+      },
+      {
+        "sense": "Treasurer",
+        "note": "Keeper of funds, as with Erastus."
+      }
+    ],
+    "translations": [
+      "steward",
+      "manager",
+      "treasurer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 12:42",
+        "note": "Who then is the faithful and wise steward?"
+      },
+      {
+        "ref": "Titus 1:7",
+        "note": "An overseer must be blameless, as God's steward."
+      },
+      {
+        "ref": "1 Peter 4:10",
+        "note": "Good stewards of God's varied grace."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mysterion",
+    "transliteration": "mystērion",
+    "original": "μυστήριον",
+    "pronunciation": "moos-TAY-ree-on",
+    "gloss": "mystery, secret",
+    "notes": "Paul speaks of \"God's wisdom in a mystery\" (2:7) and calls himself a steward of God's mysteries (4:1).",
+    "range": [
+      {
+        "sense": "Secret",
+        "note": "Something hidden until it is disclosed."
+      },
+      {
+        "sense": "Revealed truth",
+        "note": "God's plan, now made known."
+      },
+      {
+        "sense": "Religious rite",
+        "note": "In wider Greek, the secret rites of a cult."
+      }
+    ],
+    "translations": [
+      "secrets",
+      "mysteries",
+      "hidden truth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:25",
+        "note": "The revelation of the mystery kept secret for long ages."
+      },
+      {
+        "ref": "Ephesians 3:3",
+        "note": "The mystery was made known to me by revelation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apokalypto",
+    "transliteration": "apokalyptō",
+    "original": "ἀποκαλύπτω",
+    "pronunciation": "ap-ok-al-OOP-to",
+    "gloss": "to reveal, to uncover",
+    "notes": "\"God revealed them to us through the Spirit\" (2:10).",
+    "range": [
+      {
+        "sense": "Reveal",
+        "note": "Make known."
+      },
+      {
+        "sense": "Uncover",
+        "note": "Remove a covering."
+      }
+    ],
+    "translations": [
+      "reveal",
+      "uncover"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteousness of God is revealed."
+      },
+      {
+        "ref": "Matthew 11:25",
+        "note": "You revealed them to infants."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nous",
+    "transliteration": "nous",
+    "original": "νοῦς",
+    "pronunciation": "NOOCE",
+    "gloss": "mind",
+    "notes": "\"We have Christ's mind\" (2:16).",
+    "range": [
+      {
+        "sense": "Mind",
+        "note": "The faculty of thought."
+      },
+      {
+        "sense": "Understanding",
+        "note": "Insight."
+      }
+    ],
+    "translations": [
+      "mind",
+      "understanding"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:2",
+        "note": "Be transformed by the renewing of your mind."
+      },
+      {
+        "ref": "Luke 24:45",
+        "note": "He opened their minds to understand the Scriptures."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "physioo",
+    "transliteration": "physióō",
+    "original": "φυσιόω",
+    "pronunciation": "foo-see-OH-oh",
+    "gloss": "to puff up, to inflate",
+    "notes": "To inflate, like a bag filled with air. Paul uses it for pride in this letter more than anywhere else (4:6, 4:18-19; 5:2; 8:1; 13:4), and sets it against love, which \"is not puffed up.\"",
+    "range": [
+      {
+        "sense": "Inflate",
+        "note": "Fill with air."
+      },
+      {
+        "sense": "Be arrogant",
+        "note": "Think too highly of oneself."
+      }
+    ],
+    "translations": [
+      "puffed up",
+      "arrogant",
+      "conceited"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Colossians 2:18",
+        "note": "Puffed up without cause by his fleshly mind."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peripsema",
+    "transliteration": "peripsēma",
+    "original": "περίψημα",
+    "pronunciation": "peh-REEP-say-mah",
+    "gloss": "scrapings, refuse",
+    "notes": "What is wiped off, scraped away, or washed off, so refuse or scum. In 4:13 Paul says the apostles are treated as \"the filth of the world.\" It could also describe a person offered as a sacrifice to save others.",
+    "range": [
+      {
+        "sense": "Scrapings",
+        "note": "What is wiped away."
+      },
+      {
+        "sense": "Refuse",
+        "note": "Trash."
+      }
+    ],
+    "translations": [
+      "refuse",
+      "dirt",
+      "filth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 4:13",
+        "note": "The apostles are treated as the dirt wiped off by all."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "\"The Kingdom of God is not in word, but in power\" (4:20); later Paul warns that wrongdoers will not inherit it (6:9-10).",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 14:17",
+        "note": "The Kingdom of God is not eating and drinking, but righteousness and peace."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "The Kingdom of God is at hand."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]

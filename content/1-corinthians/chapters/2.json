@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "Paul's weakness, God's hidden wisdom, and the Spirit who reveals it",
+  "summary": "Paul reminds the Corinthians how he came to them: not with lofty speech or wisdom, but with the testimony of God, \"for I determined not to know anything among you, except Jesus Christ, and him crucified.\" He came in weakness, fear, and much trembling, so that their faith would rest on God's power and not on human wisdom. Yet among the mature he does speak wisdom, a hidden wisdom of God decreed before the ages, which none of the rulers of this age understood, \"for had they known it, they wouldn't have crucified the Lord of glory.\" Quoting Scripture, Paul says what no eye has seen or ear heard is what God has prepared for those who love him, and God has revealed it through the Spirit, who searches even the depths of God. Just as only a person's own spirit knows what is in them, only the Spirit of God knows God's thoughts. Paul speaks words taught by the Spirit, explaining spiritual things in spiritual words. The natural person does not receive the things of God's Spirit, but the spiritual person discerns all things, \"for who has known the mind of the Lord, that he should instruct him? But we have Christ's mind.\"",
+  "whySettingMatters": "Paul's refusal to impress would have stood out in Corinth, where traveling speakers were judged by their polish and Paul had been criticized for being unimpressive (2 Corinthians 10:10). \"The rulers of this age\" probably means the human authorities who crucified Jesus, and possibly the powers behind them; Paul does not say which. The words \"natural\" (psychikos) and \"spiritual\" (pneumatikos) probably echo the Corinthians' own boasting about being spiritual. For Paul, being spiritual is not an elite status but having received the Spirit by grace (2:12), and the \"mature\" (teleioi) are not a special class but those who grasp the cross. The quotation in 2:9 is a combination of Isaiah texts (Isaiah 64:4 and 65:17), which some early readers also found in other writings. Paul's \"mind of Christ\" is not a claim to secret knowledge, but to receive what the Spirit has made known.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Came in weakness, preaching Christ crucified."
+    },
+    {
+      "id": "jesus",
+      "note": "The crucified Lord of glory."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Told that their faith rests on God's power."
+    }
+  ],
+  "questions": [
+    "Paul chose not to impress the Corinthians. What might he have gained or lost by choosing a different style?",
+    "Paul says the rulers of the age crucified \"the Lord of glory\" without understanding. What does that say about how the world measures wisdom?",
+    "What does Paul mean by a \"natural\" person and a \"spiritual\" person, and why might the Corinthians have enjoyed those words?",
+    "\"We have the mind of Christ.\" How does the setting keep that from being a boast?"
+  ],
+  "words": [
+    {
+      "id": "mysterion",
+      "note": "\"We speak God's wisdom in a mystery\" (2:1, 2:7)."
+    },
+    {
+      "id": "pneumatikos",
+      "note": "\"Explaining spiritual things in spiritual words\" (2:13-15)."
+    },
+    {
+      "id": "psychikos",
+      "note": "\"The natural man doesn't receive the things of God's Spirit\" (2:14)."
+    },
+    {
+      "id": "anakrino",
+      "note": "\"He who is spiritual discerns all things\" (2:14-15)."
+    },
+    {
+      "id": "apokalypto",
+      "note": "\"God revealed them to us through the Spirit\" (2:10)."
+    },
+    {
+      "id": "sophia",
+      "note": "\"Wisdom of this age\" and \"God's wisdom\" (2:5-7, 2:13)."
+    },
+    {
+      "id": "nous",
+      "note": "\"We have Christ's mind\" (2:16)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 64:4",
+      "note": "no eye has seen a God besides you who acts for those who wait"
+    },
+    {
+      "ref": "Isaiah 40:13",
+      "note": "who has directed the Spirit of the LORD"
+    },
+    {
+      "ref": "Psalm 31:19",
+      "note": "how great is your goodness, which you have laid up for those who fear you"
+    },
+    {
+      "ref": "John 14:26",
+      "note": "the Spirit will teach you all things"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

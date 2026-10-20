@@ -1,0 +1,45 @@
+{
+  "slug": "1-corinthians",
+  "title": "1 Corinthians",
+  "order": 46,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 16,
+  "tagline": "Paul answers a divided, gifted, and troubled church in a bustling Greek port city.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul as author (1:1, 16:21), and nearly all scholars accept that. Sosthenes is named with him as a co-sender (1:1); Paul probably dictated and then added a greeting in his own hand (16:21). Some scholars think a few verses (such as 14:34-35) may have been added later, and a few debate whether our letter combines more than one of Paul's letters to Corinth. Paul mentions an earlier letter that we do not have (5:9).",
+  "authorDebated": false,
+  "audience": "The church in Corinth, a mixed group of mostly Gentile believers, many of them poor, with a few of higher status",
+  "audienceNote": "Paul founded the church on his second journey and stayed about eighteen months (Acts 18). Corinth was a Roman colony and a wealthy port with two harbors, known for trade, religious variety, and a reputation for loose living. The church wrote to Paul with questions (7:1) and Chloe's people reported quarrels (1:11).",
+  "setting": "Ephesus, about AD 54 to 55, a few years after Paul's time in Corinth",
+  "settingNote": "Paul writes from Ephesus (16:8), during his third journey, planning to pass through Macedonia and come to Corinth (16:5-8). The date comes from the timeline of Acts and from Gallio's governorship in Achaia (Acts 18:12), and is good but not certain. The letter was probably carried by Stephanas, Fortunatus, and Achaicus (16:17).",
+  "genre": "Letter",
+  "genreNote": "A pastoral letter that answers reports and written questions one by one. Paul often moves from a problem to a principle and back to a practical answer, and sometimes quotes slogans from the Corinthians (such as \"all things are lawful for me\") before correcting them.",
+  "bigIdea": "The cross reshapes everything. Because Christ was crucified and raised, a divided and proud church is called to be one body, shaped by love, and to look forward to resurrection.",
+  "themes": [
+    "Unity in one body",
+    "The wisdom of the cross",
+    "Love above gifts",
+    "Holiness and freedom",
+    "The resurrection of the body"
+  ],
+  "mapTitle": "Map: Corinth, Ephesus, Macedonia, and Jerusalem",
+  "mapSummary": "Paul writes from Ephesus to Corinth across the Aegean Sea, plans a route through Macedonia, and is gathering money for the poor in Jerusalem.",
+  "scene": {
+    "author": "Paul",
+    "audience": "The church in Corinth",
+    "happening": "Ephesus, about AD 54 to 55"
+  },
+  "overviewPeople": [
+    "paul",
+    "sosthenes",
+    "apollos",
+    "stephanas",
+    "chloes-people",
+    "cephas"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

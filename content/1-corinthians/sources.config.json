@@ -1,0 +1,240 @@
+{
+  "osis": "1Cor",
+  "stepBook": "1Co",
+  "webFile": "1corinthians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "ephesus",
+      "ancientId": "a5feb15"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "galatia",
+      "ancientId": "a0f440a"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [
+    {
+      "id": "sophia",
+      "strongs": [
+        "G4678"
+      ],
+      "foundAt": "1 Corinthians 1:17"
+    },
+    {
+      "id": "moria",
+      "strongs": [
+        "G3472"
+      ],
+      "foundAt": "1 Corinthians 1:18"
+    },
+    {
+      "id": "kauchaomai",
+      "strongs": [
+        "G2744"
+      ],
+      "foundAt": "1 Corinthians 1:29"
+    },
+    {
+      "id": "schisma",
+      "strongs": [
+        "G4978"
+      ],
+      "foundAt": "1 Corinthians 1:10"
+    },
+    {
+      "id": "kerygma",
+      "strongs": [
+        "G2782"
+      ],
+      "foundAt": "1 Corinthians 1:21"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "1 Corinthians 1:17"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "1 Corinthians 1:18"
+    },
+    {
+      "id": "kletos",
+      "strongs": [
+        "G2822"
+      ],
+      "foundAt": "1 Corinthians 1:1"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "1 Corinthians 1:23"
+    },
+    {
+      "id": "pneumatikos",
+      "strongs": [
+        "G4152"
+      ],
+      "foundAt": "1 Corinthians 2:13"
+    },
+    {
+      "id": "psychikos",
+      "strongs": [
+        "G5591"
+      ],
+      "foundAt": "1 Corinthians 2:14"
+    },
+    {
+      "id": "anakrino",
+      "strongs": [
+        "G0350"
+      ],
+      "foundAt": "1 Corinthians 2:14"
+    },
+    {
+      "id": "sarkikos",
+      "strongs": [
+        "G4559"
+      ],
+      "foundAt": "1 Corinthians 3:3"
+    },
+    {
+      "id": "nepios",
+      "strongs": [
+        "G3516"
+      ],
+      "foundAt": "1 Corinthians 3:1"
+    },
+    {
+      "id": "synergos",
+      "strongs": [
+        "G4904"
+      ],
+      "foundAt": "1 Corinthians 3:9"
+    },
+    {
+      "id": "themelios",
+      "strongs": [
+        "G2310"
+      ],
+      "foundAt": "1 Corinthians 3:10"
+    },
+    {
+      "id": "naos",
+      "strongs": [
+        "G3485"
+      ],
+      "foundAt": "1 Corinthians 3:16"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "1 Corinthians 3:13"
+    },
+    {
+      "id": "oikodome",
+      "strongs": [
+        "G3619"
+      ],
+      "foundAt": "1 Corinthians 3:9"
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "foundAt": "1 Corinthians 4:1"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "1 Corinthians 2:1"
+    },
+    {
+      "id": "apokalypto",
+      "strongs": [
+        "G0601"
+      ],
+      "foundAt": "1 Corinthians 2:10"
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "foundAt": "1 Corinthians 1:10"
+    },
+    {
+      "id": "physioo",
+      "strongs": [
+        "G5448"
+      ],
+      "foundAt": "1 Corinthians 4:6"
+    },
+    {
+      "id": "peripsema",
+      "strongs": [
+        "G4067"
+      ],
+      "foundAt": "1 Corinthians 4:13"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "1 Corinthians 4:20"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

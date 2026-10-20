@@ -1,0 +1,110 @@
+{
+  "sceneHappening": "Paul greets a gifted but divided church and puts the cross at the center",
+  "summary": "Paul and Sosthenes write to \"the church of God which is at Corinth,\" called to be holy together with everyone who calls on the name of the Lord. Paul thanks God for the grace given them: they are enriched in speech and knowledge and lack no spiritual gift. Then he turns to the problem. Chloe's people have told him about quarrels, with some saying \"I follow Paul,\" others \"Apollos,\" \"Cephas,\" or \"Christ.\" Paul asks, \"Is Christ divided?\" and says he is thankful he baptized only a few (Crispus, Gaius, and the household of Stephanas), since Christ sent him to preach the good news, \"not in wisdom of words, so that the cross of Christ wouldn't be made void.\" The message of the cross is foolishness to those who are perishing but the power of God to those being saved. Jews ask for signs and Greeks seek wisdom, but Paul preaches Christ crucified, a stumbling block to Jews and foolishness to Gentiles, yet to those called, the power and wisdom of God. Look at who you were when called, he says: not many wise, powerful, or of noble birth. God chose the foolish, weak, and low to shame the strong, \"that no flesh should boast before God,\" and whoever boasts should boast in the Lord.",
+  "whySettingMatters": "Corinth had been refounded by Rome in 44 BC and was a city of newcomers, freed slaves, merchants, and ambition. Status mattered, and so did eloquence: public speakers (sophists) competed for followers and paid students, and loyalty to a teacher could be like loyalty to a political party. The slogans in 1:12 sound like that world, brought into the church. Against it Paul sets the cross, which in the Roman world was the punishment for slaves and rebels and a shameful end that no one would pick as a symbol of power. The names matter too: Apollos was an educated, eloquent Jew from Alexandria (Acts 18:24), Cephas is Peter, and Crispus was a synagogue leader (Acts 18:8). It is unclear whether there were four organized parties or simply a habit of boasting about teachers; Paul never gives a doctrine for each group, only treats the quarrels as a sign of pride. Paul's point about baptism is not that baptism is unimportant, but that no one should treat it as belonging to a teacher.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Called as an apostle; preached Christ crucified in Corinth."
+    },
+    {
+      "id": "sosthenes",
+      "note": "Co-sender; perhaps the synagogue leader beaten in Acts 18:17."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Gifted, but quarreling over teachers."
+    },
+    {
+      "id": "chloes-people",
+      "note": "Reported the quarrels to Paul."
+    },
+    {
+      "id": "apollos",
+      "note": "One of the names some claimed."
+    },
+    {
+      "id": "cephas",
+      "note": "Peter; another name some claimed."
+    },
+    {
+      "id": "crispus",
+      "note": "A synagogue leader Paul baptized."
+    },
+    {
+      "id": "gaius",
+      "note": "Baptized by Paul; later Paul's host (Romans 16:23)."
+    },
+    {
+      "id": "stephanas",
+      "note": "His household was baptized by Paul."
+    }
+  ],
+  "questions": [
+    "Paul says the church is divided over loyalty to teachers. What are modern versions of \"I follow Paul, I follow Apollos\"?",
+    "Paul thanks God for the Corinthians' gifts before correcting them. What does that order show about how he sees them?",
+    "The cross was shameful in the Roman world. What did it mean for Paul to make it the center of his message?",
+    "\"Not many wise, not many powerful, not many noble.\" What does that say about the people God was gathering in Corinth?"
+  ],
+  "words": [
+    {
+      "id": "sophia",
+      "note": "\"Not in wisdom of words\" and \"the wisdom of God\" (1:17-30)."
+    },
+    {
+      "id": "moria",
+      "note": "\"The message of the cross is foolishness to those who are dying\" (1:18, 1:21, 1:23)."
+    },
+    {
+      "id": "kauchaomai",
+      "note": "\"He who boasts, let him boast in the Lord\" (1:29-31)."
+    },
+    {
+      "id": "schisma",
+      "note": "\"That there be no divisions among you\" (1:10)."
+    },
+    {
+      "id": "kerygma",
+      "note": "\"The foolishness of the preaching\" (1:21)."
+    },
+    {
+      "id": "stauros",
+      "note": "\"We preach Christ crucified\" (1:17-18, 1:23)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"The power of God\" (1:18, 1:24)."
+    },
+    {
+      "id": "kletos",
+      "note": "\"Called to be saints\" and \"to those who are called\" (1:2, 1:24)."
+    },
+    {
+      "id": "skandalon",
+      "note": "\"To Jews a stumbling block\" (1:23)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 9:23-24",
+      "note": "let him who boasts boast in this, that he understands and knows me"
+    },
+    {
+      "ref": "Isaiah 29:14",
+      "note": "I will destroy the wisdom of the wise"
+    },
+    {
+      "ref": "Acts 18:1-11",
+      "note": "Paul founds the church in Corinth"
+    },
+    {
+      "ref": "James 2:5",
+      "note": "God has chosen the poor of this world to be rich in faith"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

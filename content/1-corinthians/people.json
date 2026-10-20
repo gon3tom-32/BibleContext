@@ -1,0 +1,57 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle who founded the church in Corinth, writing from Ephesus."
+  },
+  {
+    "id": "the-corinthian-believers",
+    "name": "The believers in Corinth",
+    "note": "A mixed church of mostly Gentiles, gifted and divided."
+  },
+  {
+    "id": "sosthenes",
+    "name": "Sosthenes",
+    "note": "Named with Paul as co-sender (1:1); perhaps the former synagogue leader of Acts 18:17."
+  },
+  {
+    "id": "apollos",
+    "name": "Apollos",
+    "note": "An eloquent Jew from Alexandria who taught in Corinth after Paul (Acts 18:24-28)."
+  },
+  {
+    "id": "cephas",
+    "name": "Cephas (Peter)",
+    "note": "The apostle Simon Peter; some in Corinth said, \"I follow Cephas.\""
+  },
+  {
+    "id": "chloes-people",
+    "name": "Chloe's people",
+    "note": "Members of Chloe's household who told Paul about the quarrels (1:11)."
+  },
+  {
+    "id": "stephanas",
+    "name": "Stephanas",
+    "note": "A Corinthian whose household were Paul's first converts in Achaia (16:15)."
+  },
+  {
+    "id": "crispus",
+    "name": "Crispus",
+    "note": "A synagogue leader in Corinth who believed and was baptized by Paul (Acts 18:8)."
+  },
+  {
+    "id": "gaius",
+    "name": "Gaius",
+    "note": "A Corinthian baptized by Paul; his house later hosted the church (Romans 16:23)."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Paul's younger co-worker, sent to Corinth to remind them of Paul's ways."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The crucified and risen Lord, the foundation of the church."
+  }
+]
