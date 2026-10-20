@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Logo from "./Logo";
 
 type Props = { slug: string };
 
@@ -20,7 +21,7 @@ export default function SiteHeader({ slug }: Props) {
     <header className="site-header">
       <a className="skip" href="#main">Skip to content</a>
       <div className="site-header-inner">
-        <Link className="brand" href="/">Passage Explorer</Link>
+        <Logo />
         <nav className="site-nav" aria-label="Book sections">
           {items.map((item) => (
             <Link key={item.label} href={item.href} aria-current={item.match(pathname) ? "page" : undefined}>
