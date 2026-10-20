@@ -2,14 +2,6 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
-      "area": "words",
-      "text": "\"James 4:9\" (listed under metastrepho): STEPBible doesn't tag G3344 there. It's a related word at most; the note should say so or the reference should go."
-    },
-    {
-      "area": "words",
-      "text": "No G4957 found in Galatians for \"systauroo\"."
-    },
-    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },

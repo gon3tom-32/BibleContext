@@ -180,10 +180,6 @@
         {
           "ref": "Acts 2:20",
           "found": true
-        },
-        {
-          "ref": "James 4:9",
-          "found": false
         }
       ],
       "source": {
@@ -933,44 +929,6 @@
         "license": "CC BY 4.0",
         "fetched": "2026-10-19",
         "item": "G0203"
-      }
-    },
-    {
-      "id": "systauroo",
-      "strongs": [
-        "G4957"
-      ],
-      "lexicon": [
-        {
-          "strongs": "G4957",
-          "original": "συσταυρόομαι",
-          "transliteration": "sustauroomai",
-          "partOfSpeech": "G:V",
-          "gloss": "to crucify with",
-          "meaning": "συν-σταυρόω (Rec. συσ-), -ῶ,\nto crucify together with: pass., with dative, Jhn.19:32; id. before σύν, Mat.27:44, Mrk.15:32. Metaphorical, of the mystical death of the Christian with Christ: Rom.6:6, Gal.2:20 (Eccl.).†\n(AS)"
-        }
-      ],
-      "formsInBook": [],
-      "occurrencesInBook": [],
-      "language": "Greek",
-      "corpus": "New Testament",
-      "corpusCount": 4,
-      "elsewhereCheck": [
-        {
-          "ref": "Romans 6:6",
-          "found": true
-        },
-        {
-          "ref": "John 19:32",
-          "found": true
-        }
-      ],
-      "source": {
-        "name": "STEPBible Data (Tyndale House, Cambridge)",
-        "url": "https://www.stepbible.org",
-        "license": "CC BY 4.0",
-        "fetched": "2026-10-19",
-        "item": "G4957"
       }
     },
     {
