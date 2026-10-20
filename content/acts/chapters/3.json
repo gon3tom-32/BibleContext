@@ -1,0 +1,74 @@
+{
+  "sceneHappening": "A lame man healed at the temple gate, and Peter's second sermon",
+  "summary": "Peter and John go up together into the temple at the hour of prayer, the ninth hour. A man lame from birth is carried every day and laid at the gate of the temple called Beautiful to ask for gifts from those entering. Seeing Peter and John about to go in, he asks for money. Peter, with John, looks at him: \"Look at us.\" He gives them his attention, expecting to receive something. Peter says, \"I have no silver or gold, but what I have, that I give you: in the name of Jesus Christ of Nazareth, get up and walk!\" He takes him by the right hand and raises him up, and immediately his feet and ankle bones receive strength. Leaping up, he stands, walks, and enters the temple with them, walking, leaping, and praising God. All the people see him walking and praising God, and recognize him as the one who sat begging at the Beautiful Gate, and are filled with wonder and amazement. While he clings to Peter and John, all the people run together to them in the portico called Solomon's, greatly amazed. Peter answers, \"Men of Israel, why do you marvel at this man? Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk? The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his servant Jesus, whom you delivered up, and denied in the presence of Pilate, when he had determined to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and killed the Prince of life, whom God raised from the dead, to which we are witnesses. By faith in his name, his name has made this man strong, whom you see and know. Yes, the faith which is through him has given him this perfect soundness in the presence of you all.\" \"Now, brothers, I know that you did it in ignorance, as did also your rulers. But the things which God announced by the mouth of all his prophets, that his Christ should suffer, he thus fulfilled. Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord, and that he may send Christ Jesus, who was ordained for you before.\" He cites Moses: \"The Lord God will raise up a prophet for you from among your brothers, like me. You shall listen to him,\" and says all the prophets from Samuel onward foretold these days: \"You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, 'All the families of the earth will be blessed through your offspring.' God, having raised up his servant, sent him to you first, to bless you, in turning away every one of you from your wickedness.\"",
+  "whySettingMatters": "The ninth hour (about 3 p.m.) was the time of the afternoon sacrifice and prayer in the temple, and the disciples still go there as faithful Jews. The Beautiful Gate is not securely identified, though many think it was the gate between the court of the Gentiles and the court of the women. A man lame from birth could not enter the temple's inner courts under the priestly purity rules, and begging at the gate was the best a disabled person could hope for, so his leaping into the temple is a sign of restoration. Solomon's portico was the covered colonnade on the east side of the temple, where Jesus had also taught (John 10:23). Peter's speech is the second of many in Acts and follows a pattern: a sign, a question to the crowd, a story of Jesus' death and resurrection, a call to repent. \"His servant Jesus\" uses the Greek pais, a word that recalls the suffering servant of Isaiah 52 and 53, and \"the Holy and Righteous One\" and \"Prince of life\" (or author of life) are titles that are not common elsewhere. Peter's \"you acted in ignorance\" is gracious and still demands repentance. The prophet like Moses is Deuteronomy 18:15, and the blessing to all families of the earth is the promise to Abraham (Genesis 12:3), and Peter says Israel is first in that blessing, but not last.",
+  "people": [
+    {
+      "id": "peter",
+      "note": "Heals the man and speaks to the crowd."
+    },
+    {
+      "id": "john-apostle",
+      "note": "With Peter at the temple."
+    },
+    {
+      "id": "the-lame-man",
+      "note": "Lame from birth; walks, leaps, and praises God."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Gather in Solomon's portico, amazed."
+    }
+  ],
+  "questions": [
+    "Peter says, \"I have no silver or gold.\" What did he have that mattered more to this man?",
+    "The man goes into the temple walking and leaping. What is he doing, and what does it say about the temple?",
+    "Peter says, \"You acted in ignorance\" and still calls for repentance. How do the two fit?",
+    "Peter says the blessing comes to Israel first, to turn everyone from wickedness. How do you hear \"bless\" in that sentence?"
+  ],
+  "words": [
+    {
+      "id": "onoma",
+      "note": "\"In the name of Jesus Christ of Nazareth, get up and walk\" (3:6, 3:16)."
+    },
+    {
+      "id": "archegos",
+      "note": "\"The Prince of life\" (3:15)."
+    },
+    {
+      "id": "epistrepho",
+      "note": "\"Repent therefore, and turn again\" (3:19)."
+    },
+    {
+      "id": "martys",
+      "note": "\"To which we are witnesses\" (3:15)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"Repent therefore\" (3:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 18:15",
+      "note": "a prophet like Moses"
+    },
+    {
+      "ref": "Genesis 12:3",
+      "note": "all the families of the earth will be blessed"
+    },
+    {
+      "ref": "Luke 24:47",
+      "note": "repentance and forgiveness preached in his name"
+    },
+    {
+      "ref": "Isaiah 44:22",
+      "note": "I have blotted out your transgressions like a cloud"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

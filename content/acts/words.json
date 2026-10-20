@@ -1,1 +1,1179 @@
-[]
+[
+  {
+    "id": "martys",
+    "transliteration": "martys",
+    "original": "μάρτυς",
+    "pronunciation": "MAR-toos",
+    "gloss": "witness",
+    "notes": "Someone who gives testimony about what they have seen or heard. In Acts it is the disciples' job: \"You will be witnesses to me\" (1:8). The word later took on the sense of one who dies for the testimony, from which \"martyr\" comes.",
+    "range": [
+      {
+        "sense": "Witness",
+        "note": "One who testifies."
+      },
+      {
+        "sense": "Martyr",
+        "note": "One who dies for the testimony."
+      }
+    ],
+    "translations": [
+      "witness",
+      "martyr"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 18:16",
+        "note": "On the evidence of two or three witnesses."
+      },
+      {
+        "ref": "Luke 24:48",
+        "note": "You are witnesses of these things."
+      },
+      {
+        "ref": "1 Timothy 6:12",
+        "note": "You made the good confession in the presence of many witnesses."
+      },
+      {
+        "ref": "Revelation 1:5",
+        "note": "Jesus Christ the faithful witness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dynamis",
+    "transliteration": "dynamis",
+    "original": "δύναμις",
+    "pronunciation": "DOO-nah-mis",
+    "gloss": "power, ability",
+    "notes": "Power, strength, or capability, from which we get \"dynamite.\" In Acts it is the power of the Holy Spirit that makes the disciples witnesses (1:8), and the power by which signs are done (3:12, 4:7, 4:33).",
+    "range": [
+      {
+        "sense": "Power",
+        "note": "Ability to act."
+      },
+      {
+        "sense": "Miracle",
+        "note": "A mighty work."
+      }
+    ],
+    "translations": [
+      "power",
+      "miracle",
+      "might"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:29",
+        "note": "You know neither the Scriptures nor the power of God."
+      },
+      {
+        "ref": "Luke 1:35",
+        "note": "The power of the Most High will overshadow you."
+      },
+      {
+        "ref": "Romans 1:16",
+        "note": "The gospel is the power of God for salvation."
+      },
+      {
+        "ref": "1 Corinthians 1:18",
+        "note": "To us who are being saved it is the power of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proskartereo",
+    "transliteration": "proskartereō",
+    "original": "προσκαρτερέω",
+    "pronunciation": "pros-kar-ter-EH-oh",
+    "gloss": "to devote oneself, to continue steadfastly",
+    "notes": "To persist in something, to be constantly devoted to it. The believers \"devoted themselves\" to prayer (1:14) and to the apostles' teaching (2:42), and the apostles to \"prayer and the ministry of the word\" (6:4). The root means to hold firm.",
+    "range": [
+      {
+        "sense": "Persist",
+        "note": "Continue steadily."
+      },
+      {
+        "sense": "Devote oneself",
+        "note": "Give constant attention."
+      }
+    ],
+    "translations": [
+      "devote",
+      "continue steadfastly",
+      "persevere"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 3:9",
+        "note": "He told his disciples to have a boat ready."
+      },
+      {
+        "ref": "Romans 12:12",
+        "note": "Be constant in prayer."
+      },
+      {
+        "ref": "Romans 13:6",
+        "note": "Ministers of God, attending to this very thing."
+      },
+      {
+        "ref": "Colossians 4:2",
+        "note": "Continue steadfastly in prayer."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "glossa",
+    "transliteration": "glōssa",
+    "original": "γλῶσσα",
+    "pronunciation": "GLOS-sah",
+    "gloss": "tongue, language",
+    "notes": "The physical tongue, and by extension a language. At Pentecost the disciples speak in other \"tongues\" and the crowd hears \"in our own language\" (2:3-11). Paul later writes about speaking in tongues in worship (1 Corinthians 12 and 14).",
+    "range": [
+      {
+        "sense": "Tongue",
+        "note": "The organ of speech."
+      },
+      {
+        "sense": "Language",
+        "note": "A spoken tongue."
+      }
+    ],
+    "translations": [
+      "tongue",
+      "language"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 16:17",
+        "note": "They will speak in new tongues."
+      },
+      {
+        "ref": "1 Corinthians 12:10",
+        "note": "Various kinds of tongues."
+      },
+      {
+        "ref": "Philippians 2:11",
+        "note": "Every tongue confesses."
+      },
+      {
+        "ref": "Revelation 5:9",
+        "note": "Persons from every tribe and language."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinonia",
+    "transliteration": "koinōnia",
+    "original": "κοινωνία",
+    "pronunciation": "koy-nown-EE-ah",
+    "gloss": "fellowship, sharing",
+    "notes": "Participation and sharing, partnership. The first believers were devoted to \"the apostles' teaching and fellowship\" (2:42), and the same word is used for sharing money (2 Corinthians 8:4, Romans 15:26). It comes from koinos, \"common.\"",
+    "range": [
+      {
+        "sense": "Fellowship",
+        "note": "A shared life."
+      },
+      {
+        "sense": "Partnership",
+        "note": "Joint participation."
+      },
+      {
+        "sense": "Contribution",
+        "note": "A shared gift."
+      }
+    ],
+    "translations": [
+      "fellowship",
+      "sharing",
+      "participation",
+      "partnership"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 1:9",
+        "note": "God called you into the fellowship of his Son."
+      },
+      {
+        "ref": "Galatians 2:9",
+        "note": "They gave me and Barnabas the right hand of fellowship."
+      },
+      {
+        "ref": "Philippians 1:5",
+        "note": "Your partnership in the gospel."
+      },
+      {
+        "ref": "1 John 1:3",
+        "note": "Our fellowship is with the Father and with his Son."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "archegos",
+    "transliteration": "archēgos",
+    "original": "ἀρχηγός",
+    "pronunciation": "ar-khay-GOS",
+    "gloss": "author, founder, leader",
+    "notes": "Someone who goes first and leads others: a founder, pioneer, or leader. Peter calls Jesus \"the Prince of life\" (3:15) and \"a Prince and a Savior\" (5:31). Hebrews uses it as \"the founder and perfecter of our faith\" (12:2).",
+    "range": [
+      {
+        "sense": "Founder",
+        "note": "One who starts something."
+      },
+      {
+        "sense": "Leader",
+        "note": "One who goes first."
+      },
+      {
+        "sense": "Author",
+        "note": "The source."
+      }
+    ],
+    "translations": [
+      "author",
+      "Prince",
+      "leader",
+      "founder"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 2:10",
+        "note": "The founder of their salvation."
+      },
+      {
+        "ref": "Hebrews 12:2",
+        "note": "The founder and perfecter of our faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epistrepho",
+    "transliteration": "epistrephō",
+    "original": "ἐπιστρέφω",
+    "pronunciation": "ep-ee-STREF-o",
+    "gloss": "to turn back, to turn around",
+    "notes": "To turn around, to return. It is one of Acts' words for conversion: \"Repent, and turn again\" (3:19; also 9:35, 11:21, 14:15, 15:19). It pairs with metanoeō and means a change of direction.",
+    "range": [
+      {
+        "sense": "Turn",
+        "note": "Change direction."
+      },
+      {
+        "sense": "Return",
+        "note": "Come back."
+      }
+    ],
+    "translations": [
+      "turn",
+      "turn back",
+      "return"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:15",
+        "note": "Turn, and I would heal them."
+      },
+      {
+        "ref": "Luke 1:16",
+        "note": "He will turn many of the children of Israel to the Lord."
+      },
+      {
+        "ref": "1 Thessalonians 1:9",
+        "note": "You turned to God from idols."
+      },
+      {
+        "ref": "James 5:19",
+        "note": "If anyone among you wanders from the truth and someone brings him back."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "onoma",
+    "transliteration": "onoma",
+    "original": "ὄνομα",
+    "pronunciation": "ON-oh-mah",
+    "gloss": "name",
+    "notes": "A name, and in the Bible the person's character, authority, and presence. In Acts, things are done \"in the name of Jesus\": the lame man is healed (3:6), salvation comes (4:12), and baptism happens (2:38). To act in someone's name was to act with their authority.",
+    "range": [
+      {
+        "sense": "Name",
+        "note": "What someone is called."
+      },
+      {
+        "sense": "Authority",
+        "note": "Power in someone's name."
+      },
+      {
+        "sense": "Reputation",
+        "note": "How one is known."
+      }
+    ],
+    "translations": [
+      "name"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:19",
+        "note": "Baptizing them in the name of the Father."
+      },
+      {
+        "ref": "Romans 10:13",
+        "note": "Everyone who calls on the name of the Lord will be saved."
+      },
+      {
+        "ref": "Philippians 2:9",
+        "note": "The name that is above every name."
+      },
+      {
+        "ref": "1 John 5:13",
+        "note": "You who believe in the name of the Son of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parresia",
+    "transliteration": "parrēsia",
+    "original": "παρρησία",
+    "pronunciation": "par-ray-SEE-ah",
+    "gloss": "boldness, openness",
+    "notes": "Freedom of speech, frankness, and confidence in speaking. Acts uses it of the apostles speaking without fear before the council (4:13, 4:29, 4:31) and of Paul preaching (28:31). It is one of Luke's signature words for the church.",
+    "range": [
+      {
+        "sense": "Boldness",
+        "note": "Courage in speaking."
+      },
+      {
+        "sense": "Openness",
+        "note": "Speaking frankly."
+      }
+    ],
+    "translations": [
+      "boldness",
+      "confidence",
+      "openly"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 8:32",
+        "note": "He said this plainly."
+      },
+      {
+        "ref": "John 7:4",
+        "note": "No one who wants to be known openly acts in secret."
+      },
+      {
+        "ref": "Ephesians 6:19",
+        "note": "That I may boldly make known the mystery of the gospel."
+      },
+      {
+        "ref": "Hebrews 4:16",
+        "note": "Let us then with confidence draw near to the throne of grace."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "soteria",
+    "transliteration": "sōtēria",
+    "original": "σωτηρία",
+    "pronunciation": "so-tay-REE-ah",
+    "gloss": "salvation, deliverance",
+    "notes": "Rescue, safety, and salvation, from the same root as sōzō and sōtēr. Peter says \"There is salvation in no one else\" (4:12), in answer to a question about how a man was healed. It covers physical rescue as well as the fullest sense of salvation.",
+    "range": [
+      {
+        "sense": "Salvation",
+        "note": "Rescue from sin and death."
+      },
+      {
+        "sense": "Safety",
+        "note": "Deliverance from danger."
+      }
+    ],
+    "translations": [
+      "salvation",
+      "deliverance"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:69",
+        "note": "He has raised up a horn of salvation for us."
+      },
+      {
+        "ref": "Romans 1:16",
+        "note": "The power of God for salvation."
+      },
+      {
+        "ref": "Ephesians 1:13",
+        "note": "The gospel of your salvation."
+      },
+      {
+        "ref": "Hebrews 2:3",
+        "note": "How shall we escape if we neglect such a great salvation?"
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "homothymadon",
+    "transliteration": "homothymadon",
+    "original": "ὁμοθυμαδόν",
+    "pronunciation": "hom-oth-oo-mad-ON",
+    "gloss": "with one accord",
+    "notes": "\"With one mind,\" a favorite word of Luke's, used of the believers' unity in prayer and gathering (1:14, 2:46, 4:24, 5:12). In the New Testament it appears mostly in Acts, and once in Romans 15:6.",
+    "range": [
+      {
+        "sense": "With one accord",
+        "note": "In agreement."
+      },
+      {
+        "sense": "Together",
+        "note": "Unanimously."
+      }
+    ],
+    "translations": [
+      "with one accord",
+      "together",
+      "of one mind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:6",
+        "note": "So that together you may with one voice glorify God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phobos",
+    "transliteration": "phobos",
+    "original": "φόβος",
+    "pronunciation": "FOB-os",
+    "gloss": "fear, awe",
+    "notes": "Fear, and also reverence and awe. In Acts, \"great fear\" comes on those who hear of Ananias and Sapphira (5:5, 5:11), and the church walks \"in the fear of the Lord\" (9:31). It covers both terror and respect before God.",
+    "range": [
+      {
+        "sense": "Fear",
+        "note": "Fright."
+      },
+      {
+        "sense": "Awe",
+        "note": "Reverence."
+      }
+    ],
+    "translations": [
+      "fear",
+      "awe",
+      "reverence"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:8",
+        "note": "They departed with fear and great joy."
+      },
+      {
+        "ref": "Luke 1:12",
+        "note": "Fear fell upon him."
+      },
+      {
+        "ref": "Romans 8:15",
+        "note": "You did not receive a spirit of slavery to fall back into fear."
+      },
+      {
+        "ref": "2 Corinthians 5:11",
+        "note": "Knowing the fear of the Lord, we persuade others."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peitharcheo",
+    "transliteration": "peitharcheō",
+    "original": "πειθαρχέω",
+    "pronunciation": "pay-thar-KHEH-oh",
+    "gloss": "to obey authority",
+    "notes": "To obey someone in authority, from \"to be persuaded\" and \"ruler.\" Peter says, \"We must obey God rather than men\" (5:29). It is also used of the sailors who did not heed Paul's advice (27:21) and in Titus 3:1.",
+    "range": [
+      {
+        "sense": "Obey",
+        "note": "Follow a command."
+      },
+      {
+        "sense": "Heed",
+        "note": "Pay attention to authority."
+      }
+    ],
+    "translations": [
+      "obey",
+      "heed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Titus 3:1",
+        "note": "Be submissive to rulers and authorities, to be obedient."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hellenistes",
+    "transliteration": "Hellēnistēs",
+    "original": "Ἑλληνιστής",
+    "pronunciation": "hel-lay-nis-TACE",
+    "gloss": "Greek-speaking Jew, Hellenist",
+    "notes": "A Jew who spoke Greek and lived in a Greek-speaking culture, as opposed to the Hebrews who spoke Aramaic. The complaint in 6:1 is from the Hellenists. The word occurs only three times in the New Testament, all in Acts (6:1, 9:29, 11:20).",
+    "range": [
+      {
+        "sense": "Hellenist",
+        "note": "A Greek-speaking Jew."
+      }
+    ],
+    "translations": [
+      "Hellenist",
+      "Greek-speaking Jew"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lithoboleo",
+    "transliteration": "lithoboleō",
+    "original": "λιθοβολέω",
+    "pronunciation": "lith-ob-ol-EH-oh",
+    "gloss": "to stone",
+    "notes": "To pelt with stones, to stone to death, the penalty for blasphemy under the law (Leviticus 24:16). It is used of Stephen's death (7:58-59), and of Paul at Lystra (14:19).",
+    "range": [
+      {
+        "sense": "Stone",
+        "note": "Kill by throwing stones."
+      }
+    ],
+    "translations": [
+      "stone"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:35",
+        "note": "The tenants beat one, killed another, and stoned another."
+      },
+      {
+        "ref": "Matthew 23:37",
+        "note": "Jerusalem, who stones those sent to her."
+      },
+      {
+        "ref": "Luke 13:34",
+        "note": "Jerusalem, who stones those sent to her."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skleratrachelos",
+    "transliteration": "sklērotrachēlos",
+    "original": "σκληροτράχηλος",
+    "pronunciation": "skler-ot-RAKH-ay-los",
+    "gloss": "stiff-necked",
+    "notes": "Literally \"hard in the neck,\" like an ox that won't take the yoke. It translates the Old Testament description of Israel as a stiff-necked people (Exodus 32:9). Stephen says it to the council (7:51). It occurs only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Stiff-necked",
+        "note": "Stubborn and unyielding."
+      }
+    ],
+    "translations": [
+      "stiff-necked"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pneuma",
+    "transliteration": "pneuma",
+    "original": "πνεῦμα",
+    "pronunciation": "PNYOO-mah",
+    "gloss": "spirit, breath, wind",
+    "notes": "Breath, wind, or spirit. In Acts it is chiefly the Holy Spirit, who is promised in 1:5-8, poured out at Pentecost (2:4), and fills the church throughout.",
+    "range": [
+      {
+        "sense": "Spirit",
+        "note": "The Holy Spirit, or a spirit being."
+      },
+      {
+        "sense": "Breath",
+        "note": "Life, the breath of a person."
+      },
+      {
+        "sense": "Wind",
+        "note": "Moving air."
+      }
+    ],
+    "translations": [
+      "spirit",
+      "Spirit",
+      "breath",
+      "wind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:35",
+        "note": "The Holy Spirit will come on you."
+      },
+      {
+        "ref": "John 20:22",
+        "note": "Receive the Holy Spirit."
+      },
+      {
+        "ref": "Romans 8:14",
+        "note": "Those led by the Spirit of God are sons of God."
+      },
+      {
+        "ref": "1 Corinthians 2:10",
+        "note": "The Spirit searches everything."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apostolos",
+    "transliteration": "apostolos",
+    "original": "ἀπόστολος",
+    "pronunciation": "ah-POSS-toh-loss",
+    "gloss": "apostle, one sent",
+    "notes": "Someone sent with authority. Acts 1:2 and 1:25-26 use it for the twelve, restored to its number with Matthias.",
+    "range": [
+      {
+        "sense": "Messenger",
+        "note": "Someone sent with a message."
+      },
+      {
+        "sense": "Envoy",
+        "note": "Someone sent to act with the sender's authority."
+      },
+      {
+        "sense": "The apostles",
+        "note": "The twelve, and later others such as Paul."
+      }
+    ],
+    "translations": [
+      "apostle",
+      "messenger",
+      "one who is sent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 6:13",
+        "note": "Whom he also named apostles."
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, called to be an apostle."
+      },
+      {
+        "ref": "Galatians 1:1",
+        "note": "An apostle not from men."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To dip or immerse. John baptized with water; Jesus' followers will be baptized with the Holy Spirit (1:5), and Peter calls for baptism \"in the name of Jesus Christ\" (2:38).",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:13",
+        "note": "Jesus comes to John to be baptized."
+      },
+      {
+        "ref": "Mark 1:9",
+        "note": "Jesus is baptized in the Jordan."
+      },
+      {
+        "ref": "Romans 6:3",
+        "note": "Baptized into his death."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoeo",
+    "transliteration": "metanoeō",
+    "original": "μετανοέω",
+    "pronunciation": "meh-tah-no-EH-oh",
+    "gloss": "to repent",
+    "notes": "To change one's mind, to repent. Peter's call at Pentecost is \"Repent, and be baptized\" (2:38).",
+    "range": [
+      {
+        "sense": "Change one's mind",
+        "note": "Think again about something."
+      },
+      {
+        "sense": "Turn from wrongdoing",
+        "note": "Regret and leave behind what was wrong."
+      },
+      {
+        "sense": "Turn toward God",
+        "note": "A new direction for the whole life."
+      }
+    ],
+    "translations": [
+      "repent",
+      "turn back",
+      "change your hearts and lives"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:2",
+        "note": "Repent, for the kingdom of heaven is at hand."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "Repent, and believe in the gospel."
+      },
+      {
+        "ref": "Revelation 2:5",
+        "note": "Remember from where you have fallen, and repent."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinos",
+    "transliteration": "koinos",
+    "original": "κοινός",
+    "pronunciation": "koy-NOCE",
+    "gloss": "common, unclean",
+    "notes": "Common, shared. The believers \"had all things in common\" (2:44, 4:32). The same word is used of what is ritually unclean, as in 10:14.",
+    "range": [
+      {
+        "sense": "Shared",
+        "note": "Held in common."
+      },
+      {
+        "sense": "Ordinary or unclean",
+        "note": "Not set apart as holy."
+      }
+    ],
+    "translations": [
+      "common",
+      "unclean",
+      "defiled",
+      "unwashed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:2",
+        "note": "With hands that were defiled."
+      },
+      {
+        "ref": "Romans 14:14",
+        "note": "Nothing is unclean in itself."
+      },
+      {
+        "ref": "Titus 1:4",
+        "note": "A common faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekklesia",
+    "transliteration": "ekklēsia",
+    "original": "ἐκκλησία",
+    "pronunciation": "ek-klay-SEE-ah",
+    "gloss": "assembly, church",
+    "notes": "An assembly, a gathering of those called out. It is the word translated \"church.\" Acts 5:11 is its first use in the book.",
+    "range": [
+      {
+        "sense": "Citizen assembly",
+        "note": "A city's gathering of free citizens."
+      },
+      {
+        "sense": "Israel's assembly",
+        "note": "God's gathered people in the Greek Old Testament."
+      },
+      {
+        "sense": "A local gathering",
+        "note": "A particular congregation."
+      },
+      {
+        "sense": "The church",
+        "note": "All followers of Jesus."
+      }
+    ],
+    "translations": [
+      "church",
+      "assembly",
+      "congregation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:18",
+        "note": "I will build my church."
+      },
+      {
+        "ref": "1 Corinthians 1:2",
+        "note": "To the church of God that is in Corinth."
+      },
+      {
+        "ref": "Ephesians 1:22",
+        "note": "The church, which is his body."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakonia",
+    "transliteration": "diakonia",
+    "original": "διακονία",
+    "pronunciation": "dee-ak-on-EE-ah",
+    "gloss": "service, ministry",
+    "notes": "Service, especially waiting on tables. The apostles say they should not give up the word of God to \"serve tables\" (6:2) and keep to \"the ministry of the word\" (6:4).",
+    "range": [
+      {
+        "sense": "Service",
+        "note": "Waiting on others."
+      },
+      {
+        "sense": "Ministry",
+        "note": "Work for the community."
+      },
+      {
+        "sense": "Hospitality",
+        "note": "Meeting guests' needs."
+      }
+    ],
+    "translations": [
+      "service",
+      "serving",
+      "ministry"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 10:40",
+        "note": "Martha was distracted with much serving."
+      },
+      {
+        "ref": "Romans 12:7",
+        "note": "Whoever has a gift of service."
+      },
+      {
+        "ref": "2 Corinthians 5:18",
+        "note": "The ministry of reconciliation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakoneo",
+    "transliteration": "diakoneō",
+    "original": "διακονέω",
+    "pronunciation": "dee-ah-ko-NEH-oh",
+    "gloss": "to serve",
+    "notes": "To wait on someone, as at a table. The apostles say, \"It is not right that we should give up preaching the word of God to serve tables\" (6:2).",
+    "range": [
+      {
+        "sense": "Wait at table",
+        "note": "Serve food and drink."
+      },
+      {
+        "sense": "Provide for",
+        "note": "Look after someone's needs."
+      },
+      {
+        "sense": "Minister",
+        "note": "Serve in a role of care or leadership."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "wait on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:27",
+        "note": "I am among you as one who serves."
+      },
+      {
+        "ref": "John 12:26",
+        "note": "Whoever serves me must follow me."
+      },
+      {
+        "ref": "1 Timothy 3:10",
+        "note": "Let them serve as deacons."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "logos",
+    "transliteration": "logos",
+    "original": "λόγος",
+    "pronunciation": "LOG-os",
+    "gloss": "word, message, reason",
+    "notes": "A word, message, or account. In Acts the word grows: \"The word of God spread\" (6:7, 12:24, 19:20).",
+    "range": [
+      {
+        "sense": "Word",
+        "note": "A spoken word or message."
+      },
+      {
+        "sense": "Reason",
+        "note": "The ordering principle."
+      },
+      {
+        "sense": "Account",
+        "note": "A statement or explanation."
+      }
+    ],
+    "translations": [
+      "word",
+      "message",
+      "reason",
+      "account"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 8:11",
+        "note": "The seed is the word of God."
+      },
+      {
+        "ref": "Hebrews 4:12",
+        "note": "The word of God is living and active."
+      },
+      {
+        "ref": "1 John 1:1",
+        "note": "The Word of life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koimao",
+    "transliteration": "koimaō",
+    "original": "κοιμάω",
+    "pronunciation": "koy-MAH-oh",
+    "gloss": "to sleep, to fall asleep",
+    "notes": "To fall asleep, a gentle word for death. Stephen \"fell asleep\" as he died (7:60).",
+    "range": [
+      {
+        "sense": "Sleep",
+        "note": "Rest in bed."
+      },
+      {
+        "sense": "Die",
+        "note": "Pass away."
+      }
+    ],
+    "translations": [
+      "sleep",
+      "fall asleep"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:52",
+        "note": "Many bodies of the saints who had fallen asleep were raised."
+      },
+      {
+        "ref": "1 Corinthians 15:6",
+        "note": "Some have fallen asleep."
+      },
+      {
+        "ref": "1 Thessalonians 4:13",
+        "note": "Those who are asleep."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "soter",
+    "transliteration": "sōtēr",
+    "original": "σωτήρ",
+    "pronunciation": "so-TARE",
+    "gloss": "savior",
+    "notes": "One who saves. Peter calls Jesus \"a Prince and a Savior\" (5:31).",
+    "range": [
+      {
+        "sense": "Rescuer",
+        "note": "One who saves from danger."
+      },
+      {
+        "sense": "Healer",
+        "note": "One who restores."
+      },
+      {
+        "sense": "Title",
+        "note": "A royal or divine title in the Greek world."
+      }
+    ],
+    "translations": [
+      "Savior",
+      "deliverer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 2:11",
+        "note": "A Savior, who is Christ the Lord."
+      },
+      {
+        "ref": "Philippians 3:20",
+        "note": "We eagerly await a Savior."
+      },
+      {
+        "ref": "Titus 2:13",
+        "note": "Our great God and Savior, Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doxa",
+    "transliteration": "doxa",
+    "original": "δόξα",
+    "pronunciation": "DOX-ah",
+    "gloss": "glory",
+    "notes": "Splendor, honor, and the visible presence of God. Stephen sees \"the glory of God\" (7:55), and begins by calling him \"the God of glory\" (7:2).",
+    "range": [
+      {
+        "sense": "Glory",
+        "note": "The splendor of God."
+      },
+      {
+        "sense": "Honor",
+        "note": "Praise."
+      },
+      {
+        "sense": "Reputation",
+        "note": "How one is regarded."
+      }
+    ],
+    "translations": [
+      "glory",
+      "honor",
+      "splendor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 9:32",
+        "note": "They saw his glory."
+      },
+      {
+        "ref": "Romans 3:23",
+        "note": "All have fallen short of the glory of God."
+      },
+      {
+        "ref": "Hebrews 1:3",
+        "note": "He is the radiance of God's glory."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]

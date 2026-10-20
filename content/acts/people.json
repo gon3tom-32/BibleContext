@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The risen Lord whose story Luke's Gospel tells."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "A fisherman, the leader of the apostles in the early chapters."
+  },
+  {
+    "id": "john-apostle",
+    "name": "John",
+    "note": "An apostle and a fisherman, with Peter at the temple."
+  },
+  {
+    "id": "the-eleven",
+    "name": "The eleven",
+    "note": "The apostles after Judas' death."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "The apostles, with Matthias."
+  },
+  {
+    "id": "the-apostles",
+    "name": "The apostles",
+    "note": "The twelve, sent by Jesus."
+  },
+  {
+    "id": "mary",
+    "name": "Mary",
+    "note": "The mother of Jesus."
+  },
+  {
+    "id": "jesus-brothers",
+    "name": "Jesus' brothers",
+    "note": "They did not believe in him earlier but are among the believers now."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "The apostle who betrayed Jesus."
+  },
+  {
+    "id": "matthias",
+    "name": "Matthias",
+    "note": "Chosen to take Judas' place."
+  },
+  {
+    "id": "the-two-men-in-white",
+    "name": "Two men in white",
+    "note": "They appear at the ascension."
+  },
+  {
+    "id": "the-believers",
+    "name": "The believers",
+    "note": "The first followers of Jesus in Jerusalem."
+  },
+  {
+    "id": "the-pilgrims-in-jerusalem",
+    "name": "The pilgrims",
+    "note": "Jews from many nations in Jerusalem for Pentecost."
+  },
+  {
+    "id": "the-lame-man",
+    "name": "The lame man",
+    "note": "Healed at the Beautiful Gate."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people in Jerusalem."
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "note": "A former high priest, still very influential."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "High priest from about AD 18 to 36."
+  },
+  {
+    "id": "the-sadducees",
+    "name": "The Sadducees",
+    "note": "A priestly party that denied resurrection."
+  },
+  {
+    "id": "the-council",
+    "name": "The council",
+    "note": "The Sanhedrin."
+  },
+  {
+    "id": "barnabas",
+    "name": "Barnabas",
+    "note": "A Levite from Cyprus, named Joseph, nicknamed \"Son of Encouragement.\""
+  },
+  {
+    "id": "ananias-and-sapphira",
+    "name": "Ananias and Sapphira",
+    "note": "A husband and wife who lied about a gift."
+  },
+  {
+    "id": "the-high-priest",
+    "name": "The high priest",
+    "note": "The head of the temple and the council."
+  },
+  {
+    "id": "gamaliel",
+    "name": "Gamaliel",
+    "note": "A respected Pharisee and teacher of the law."
+  },
+  {
+    "id": "the-hellenist-widows",
+    "name": "The Hellenist widows",
+    "note": "Greek-speaking widows who were neglected."
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "note": "One of the seven; the first martyr."
+  },
+  {
+    "id": "philip",
+    "name": "Philip",
+    "note": "One of the seven, later called the evangelist."
+  },
+  {
+    "id": "nicolaus",
+    "name": "Nicolaus",
+    "note": "A proselyte of Antioch, one of the seven."
+  },
+  {
+    "id": "the-synagogue-of-the-freedmen",
+    "name": "The Synagogue of the Freedmen",
+    "note": "A group of Jews from North Africa and Asia Minor who argued with Stephen."
+  },
+  {
+    "id": "saul",
+    "name": "Saul",
+    "note": "A young man from Tarsus who approves of Stephen's death; later called Paul."
+  }
+]

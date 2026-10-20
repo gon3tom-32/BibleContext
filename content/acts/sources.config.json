@@ -162,8 +162,248 @@
       "mapOnly": true
     }
   ],
-  "people": [],
-  "words": [],
+  "people": [
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "john-apostle",
+      "theographic": "john_1677"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "matthias",
+      "theographic": "matthias_1972"
+    },
+    {
+      "id": "annas",
+      "theographic": "annas_269"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "barnabas",
+      "theographic": "barnabas_1722"
+    },
+    {
+      "id": "gamaliel",
+      "theographic": "gamaliel_1277"
+    },
+    {
+      "id": "stephen",
+      "theographic": "stephen_2802"
+    },
+    {
+      "id": "saul",
+      "theographic": "paul_2479"
+    }
+  ],
+  "words": [
+    {
+      "id": "martys",
+      "strongs": [
+        "G3144"
+      ],
+      "foundAt": "Acts 1:8"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "Acts 1:8"
+    },
+    {
+      "id": "proskartereo",
+      "strongs": [
+        "G4342"
+      ],
+      "foundAt": "Acts 1:14"
+    },
+    {
+      "id": "glossa",
+      "strongs": [
+        "G1100"
+      ],
+      "foundAt": "Acts 2:3"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Acts 2:42"
+    },
+    {
+      "id": "archegos",
+      "strongs": [
+        "G0747"
+      ],
+      "foundAt": "Acts 3:15"
+    },
+    {
+      "id": "epistrepho",
+      "strongs": [
+        "G1994"
+      ],
+      "foundAt": "Acts 3:19"
+    },
+    {
+      "id": "onoma",
+      "strongs": [
+        "G3686"
+      ],
+      "foundAt": "Acts 3:6"
+    },
+    {
+      "id": "parresia",
+      "strongs": [
+        "G3954"
+      ],
+      "foundAt": "Acts 4:13"
+    },
+    {
+      "id": "soteria",
+      "strongs": [
+        "G4991"
+      ],
+      "foundAt": "Acts 4:12"
+    },
+    {
+      "id": "homothymadon",
+      "strongs": [
+        "G3661"
+      ],
+      "foundAt": "Acts 4:24"
+    },
+    {
+      "id": "phobos",
+      "strongs": [
+        "G5401"
+      ],
+      "foundAt": "Acts 5:5"
+    },
+    {
+      "id": "peitharcheo",
+      "strongs": [
+        "G3980"
+      ],
+      "foundAt": "Acts 5:29"
+    },
+    {
+      "id": "hellenistes",
+      "strongs": [
+        "G1675"
+      ],
+      "foundAt": "Acts 6:1"
+    },
+    {
+      "id": "lithoboleo",
+      "strongs": [
+        "G3036"
+      ],
+      "foundAt": "Acts 7:58"
+    },
+    {
+      "id": "skleratrachelos",
+      "strongs": [
+        "G4644"
+      ],
+      "foundAt": "Acts 7:51"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Acts 1:5"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Acts 1:2"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Acts 1:5"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Acts 2:38"
+    },
+    {
+      "id": "koinos",
+      "strongs": [
+        "G2839G",
+        "G2839H"
+      ],
+      "foundAt": "Acts 2:44"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "Acts 5:11"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "Acts 6:1"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Acts 6:2"
+    },
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "Acts 6:2"
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "foundAt": "Acts 7:60"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "Acts 5:31"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Acts 7:2"
+    }
+  ],
   "crossRefs": {
     "perChapter": 4,
     "minVotes": 5
@@ -179,7 +419,7 @@
     },
     {
       "area": "chapters",
-      "text": "No chapters have hand-written context notes yet."
+      "text": "Chapters 8 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }
