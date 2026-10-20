@@ -99,6 +99,22 @@
       "id": "samaria",
       "ancientId": "a282dce",
       "mapOnly": true
+    },
+    {
+      "id": "tyre",
+      "ancientId": "a160272"
+    },
+    {
+      "id": "sidon",
+      "ancientId": "a98e4d7"
+    },
+    {
+      "id": "sodom",
+      "ancientId": "a0aa664"
+    },
+    {
+      "id": "nineveh",
+      "ancientId": "a70fd5d"
     }
   ],
   "people": [
@@ -296,6 +312,27 @@
         "G4716"
       ],
       "foundAt": "Matthew 10:38"
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "foundAt": "Matthew 11:29"
+    },
+    {
+      "id": "sabbaton",
+      "strongs": [
+        "G4521"
+      ],
+      "foundAt": "Matthew 12:2"
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "foundAt": "Matthew 12:38"
     }
   ],
   "crossRefs": {
@@ -313,7 +350,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 11 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 13 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

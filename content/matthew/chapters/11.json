@@ -1,0 +1,66 @@
+{
+  "number": 11,
+  "sceneHappening": "John in prison; mixed responses in Galilee",
+  "summary": "John the Baptist, now in prison, hears what Jesus is doing and sends his disciples to ask, \"Are you the one who is to come, or should we expect someone else?\" Jesus tells them to report what they see: the blind see, the lame walk, people with skin diseases are cleansed, the deaf hear, the dead are raised, and the poor hear good news. Then he praises John to the crowds: not a reed shaken by the wind, not a man in fine clothes from a palace, but a prophet and more, the messenger Malachi promised, the Elijah who was to come. This generation, though, is like children in the marketplace who won't join any game: they called John possessed for fasting and call Jesus a glutton for eating with tax collectors and sinners. He warns Chorazin, Bethsaida, and Capernaum, which saw his miracles and didn't repent; Tyre, Sidon, and even Sodom would have. Then he thanks the Father for revealing these things to little children rather than the wise, and invites: \"Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart.\"",
+  "whySettingMatters": "John was held by Herod Antipas, the ruler of Galilee (Matthew tells why in 14:3-4); the historian Josephus places it at the fortress of Machaerus east of the Dead Sea. Reeds grew thick along the Jordan where John had preached, and a man in soft clothing would live in a king's palace, like the one holding John. Tyre and Sidon were wealthy Gentile port cities to the north, often condemned by Israel's prophets. A yoke was the wooden frame that joined oxen for work, and Jewish teachers spoke of taking on \"the yoke\" of the law as a way of life.",
+  "people": [
+    {
+      "id": "john-baptist",
+      "note": "In prison, sending a sincere question about Jesus."
+    },
+    {
+      "id": "johns-disciples",
+      "note": "Carry the question to Jesus and the answer back."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Hear Jesus defend John, and are compared to children who won't play."
+    },
+    {
+      "id": "jesus",
+      "note": "Points to what he's doing, then offers rest to the weary."
+    }
+  ],
+  "questions": [
+    "John had announced Jesus with confidence (3:11). What might make him ask \"Are you the one?\" from prison?",
+    "Jesus answers with a list of actions, not a title. Why might that be a better answer?",
+    "People found fault with John for fasting and with Jesus for feasting. What does that say about \"this generation\"?",
+    "What kind of weariness might Jesus' listeners have carried? What would \"my yoke is easy\" have offered them?"
+  ],
+  "words": [
+    {
+      "id": "metanoeo",
+      "note": "The towns that saw his miracles and didn't repent (11:20-21)."
+    },
+    {
+      "id": "basileia",
+      "note": "The least in the kingdom is greater than John (11:11-12)."
+    },
+    {
+      "id": "zygos",
+      "note": "\"Take my yoke upon you\" (11:29-30)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 35:5-6",
+      "note": "the blind see and the lame leap"
+    },
+    {
+      "ref": "Malachi 3:1",
+      "note": "the messenger sent ahead"
+    },
+    {
+      "ref": "Isaiah 61:1",
+      "note": "good news for the poor"
+    },
+    {
+      "ref": "Jeremiah 6:16",
+      "note": "find rest for your souls"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

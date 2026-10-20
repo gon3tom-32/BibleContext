@@ -1,0 +1,70 @@
+{
+  "number": 12,
+  "sceneHappening": "Sabbath disputes and a plot against Jesus",
+  "summary": "On a Sabbath, Jesus' hungry disciples pick heads of grain, and the Pharisees object. Jesus points to David eating the consecrated bread and to priests who work in the temple on the Sabbath, says something greater than the temple is here, quotes Hosea again (\"I desire mercy, not sacrifice\"), and calls the Son of Man lord of the Sabbath. In a synagogue he heals a man with a withered hand, arguing that anyone would lift a sheep out of a pit on the Sabbath, and the Pharisees begin plotting to destroy him. He withdraws, heals many, and tells them not to make him known, which Matthew links to Isaiah's servant who won't break a bruised reed. When he frees a man who is blind and mute, the crowds wonder if he's the Son of David, but the Pharisees say he drives out demons by Beelzebul. Jesus answers that a divided kingdom can't stand, warns about blasphemy against the Spirit, and says a tree is known by its fruit. Asked for a sign, he offers only the sign of Jonah. When his mother and brothers come looking for him, he points to his disciples: \"Whoever does the will of my Father in heaven is my brother and sister and mother.\"",
+  "whySettingMatters": "The law forbade work on the Sabbath, and teachers debated in detail what counted as work; rubbing out grain could be called reaping and threshing. Picking grain by hand from a neighbor's field was allowed (Deuteronomy 23:25), so the question was the day, not the grain. Healing someone whose life wasn't in danger was also debated. \"Beelzebul\" was a name for the prince of demons, perhaps drawn from Baal-zebub, a Philistine god (2 Kings 1). Family was the center of a person's identity and honor, which makes Jesus' answer about his mother and brothers striking.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees object to the Sabbath picking and begin plotting (12:14)."
+    },
+    {
+      "id": "the-withered-hand",
+      "note": "Healed in the synagogue on the Sabbath."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Ask, \"Could this be the Son of David?\" (12:23)."
+    },
+    {
+      "id": "jesus-family",
+      "note": "His mother and brothers wait outside to speak with him."
+    }
+  ],
+  "questions": [
+    "Jesus doesn't say the Sabbath doesn't matter. What does he say it's for?",
+    "Matthew quotes Isaiah's servant who won't break a bruised reed right after a plot to kill Jesus. Why might he put those side by side?",
+    "The Pharisees and the crowds see the same healing and reach opposite conclusions. What makes the difference?",
+    "What would it have meant to hear that the people doing God's will are Jesus' family?"
+  ],
+  "words": [
+    {
+      "id": "sabbaton",
+      "note": "The day at the center of both disputes (12:1-12)."
+    },
+    {
+      "id": "eleos",
+      "note": "Hosea again: \"I desire mercy, not sacrifice\" (12:7)."
+    },
+    {
+      "id": "semeion",
+      "note": "Asked for a sign, he offers only the sign of Jonah (12:38-39)."
+    },
+    {
+      "id": "pleroo",
+      "note": "The quiet healings fulfill Isaiah's servant song (12:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Samuel 21:1-6",
+      "note": "David and the consecrated bread"
+    },
+    {
+      "ref": "Deuteronomy 23:25",
+      "note": "picking grain by hand in a neighbor's field"
+    },
+    {
+      "ref": "Isaiah 42:1-4",
+      "note": "the servant who won't break a bruised reed"
+    },
+    {
+      "ref": "Jonah 1:17",
+      "note": "three days and nights inside the fish"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

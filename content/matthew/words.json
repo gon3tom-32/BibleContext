@@ -744,5 +744,145 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "zygos",
+    "transliteration": "zygos",
+    "original": "ζυγός",
+    "pronunciation": "zoo-GOSS",
+    "gloss": "yoke",
+    "notes": "The wooden crossbar that joined two animals so they could pull together, and so a picture of work, service, and someone else's direction. Jewish teachers spoke of \"the yoke of the law\" or \"the yoke of the kingdom.\" Jesus offers his own yoke as easy, and himself as a gentle teacher. The word can also mean a pair of scales (Revelation 6:5).",
+    "range": [
+      {
+        "sense": "Yoke",
+        "note": "The frame joining working animals."
+      },
+      {
+        "sense": "Burden or rule",
+        "note": "Obligations someone places on you, like slavery or a law."
+      },
+      {
+        "sense": "Scales",
+        "note": "A balance for weighing."
+      }
+    ],
+    "translations": [
+      "yoke"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 15:10",
+        "note": "A yoke neither we nor our ancestors could bear."
+      },
+      {
+        "ref": "Galatians 5:1",
+        "note": "Don't submit again to a yoke of slavery."
+      },
+      {
+        "ref": "1 Timothy 6:1",
+        "note": "Those under the yoke of slavery."
+      },
+      {
+        "ref": "Revelation 6:5",
+        "note": "A rider holding a pair of scales."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sabbaton",
+    "transliteration": "sabbaton",
+    "original": "σάββατον",
+    "pronunciation": "SAB-bah-ton",
+    "gloss": "Sabbath",
+    "notes": "The Greek form of the Hebrew shabbat, the seventh day of rest from Friday evening to Saturday evening. Keeping it was one of the clearest marks of Jewish identity. The plural can also mean \"the week.\"",
+    "range": [
+      {
+        "sense": "The Sabbath day",
+        "note": "The seventh day, set apart for rest."
+      },
+      {
+        "sense": "A week",
+        "note": "As in \"the first day of the week\" (28:1)."
+      }
+    ],
+    "translations": [
+      "Sabbath",
+      "week"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 2:27",
+        "note": "\"The Sabbath was made for people.\""
+      },
+      {
+        "ref": "Luke 13:14",
+        "note": "A synagogue leader objects to Sabbath healing."
+      },
+      {
+        "ref": "John 5:9",
+        "note": "A healing on the Sabbath at the pool."
+      },
+      {
+        "ref": "Matthew 28:1",
+        "note": "After the Sabbath, the first day of the week."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "semeion",
+    "transliteration": "sēmeion",
+    "original": "σημεῖον",
+    "pronunciation": "say-MAY-on",
+    "gloss": "sign",
+    "notes": "A mark or event that points to something beyond itself. Leaders ask Jesus for a sign to prove his authority; he refuses to perform on demand and points instead to Jonah, a sign that comes through death and return.",
+    "range": [
+      {
+        "sense": "Mark or token",
+        "note": "Something that identifies, like a signal."
+      },
+      {
+        "sense": "Miraculous sign",
+        "note": "A wonder that points to God's work."
+      },
+      {
+        "sense": "Omen",
+        "note": "A sign of what is coming."
+      }
+    ],
+    "translations": [
+      "sign",
+      "miracle",
+      "mark"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:4",
+        "note": "Again, only the sign of Jonah."
+      },
+      {
+        "ref": "John 2:11",
+        "note": "Water into wine, the first of his signs."
+      },
+      {
+        "ref": "1 Corinthians 1:22",
+        "note": "Jews ask for signs."
+      },
+      {
+        "ref": "Luke 2:12",
+        "note": "\"This will be a sign for you.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]
