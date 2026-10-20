@@ -1,0 +1,222 @@
+{
+  "sceneHappening": "Imitate God in love, walk as children of light, be filled with the Spirit, and a picture of marriage in Christ and the church",
+  "summary": "\"Be therefore imitators of God, as beloved children. Walk in love, even as Christ also loved you, and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.\" Sexual immorality, uncleanness, and covetousness must not even be named among them, as is fitting for saints, nor filthiness, foolish talk, or crude joking, but giving of thanks. No one should deceive them with empty words, for because of these things the wrath of God comes on the sons of disobedience. \"For you were once darkness, but now are you light in the Lord. Walk as children of light (for the fruit of the light is in all goodness and righteousness and truth), proving what is well-pleasing to the Lord. Have no fellowship with the unfruitful works of darkness, but rather even reprove them.\" It is a shame even to speak of the things done in secret, but everything exposed by the light becomes visible, \"for everything that is revealed is light. Therefore he says, 'Awake, you who sleep, and arise from the dead, and Christ will shine on you.'\" So look carefully how you walk, not as unwise but as wise, redeeming the time because the days are evil. Don't be foolish, but understand what the will of the Lord is. \"Don't be drunken with wine, in which is dissipation, but be filled with the Spirit; speaking to one another in psalms, hymns, and spiritual songs; singing and making melody in your heart to the Lord; giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father; subjecting yourselves to one another in the fear of Christ.\" Then follows household teaching: wives, be subject to your own husbands as to the Lord, for the husband is the head of the wife, as Christ also is the head of the assembly, being himself the savior of the body; as the assembly is subject to Christ, so wives should be to their husbands in everything. \"Husbands, love your wives, even as Christ also loved the assembly, and gave himself up for it; that he might sanctify it, having cleansed it by the washing of water with the word, that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing, but that it should be holy and without blemish.\" So husbands ought to love their wives as their own bodies; he who loves his wife loves himself, for no one hates his own flesh but nourishes and cherishes it, just as Christ does the assembly, because we are members of his body. \"'For this cause a man will leave his father and mother, and will be joined to his wife, and the two will become one flesh.' This mystery is great, but I speak concerning Christ and the assembly. Nevertheless each one of you must also love his own wife even as himself; and let the wife see that she respects her husband.\"",
+  "whySettingMatters": "Chapter 5 continues the practical section and leads into the household teaching that runs to 6:9. In the ancient world, writers on household management (and the \"household codes\" of Greek and Roman writers) commonly told wives, children, and slaves to obey the male head, so Paul's lists are not unusual in structure, but his content is. He addresses wives, husbands, children, parents, slaves, and masters directly, treats each as a moral agent responsible to Christ, and puts the heaviest weight on the husband, whose model is Christ's self-giving love. The whole passage hangs on verse 21, \"subjecting yourselves to one another,\" which grammatically depends on being filled with the Spirit (5:18). The meaning of \"head\" (kephalē) is debated: authority, source, or both. How this passage applies today is something Christians continue to discuss, and readers should look at how the passage frames Christ's own sacrificial love as the model. The contrast with drunkenness (5:18) may reflect the ecstatic worship of Dionysus, in which wine was used to seek a god's presence; Paul says to seek filling with the Spirit instead. The fragment in 5:14 looks like a line from an early hymn or baptismal song.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Teaches a walk of love and light, and a marriage shaped by Christ."
+    },
+    {
+      "id": "jesus",
+      "note": "The Savior of the body, who loved the church and gave himself up for her."
+    },
+    {
+      "id": "the-ephesian-wives",
+      "note": "Addressed in the household teaching."
+    },
+    {
+      "id": "the-ephesian-husbands",
+      "note": "Called to love their wives as Christ loved the church."
+    },
+    {
+      "id": "the-gentile-believers",
+      "note": "Once darkness, now light in the Lord."
+    }
+  ],
+  "questions": [
+    "\"Be imitators of God, as beloved children.\" What does it mean to imitate God?",
+    "Paul sets \"be filled with the Spirit\" against being drunk. What does he suggest the Spirit gives that wine only imitates?",
+    "The household teaching begins with \"submit to one another.\" How does that change how we read what follows?",
+    "The husband's model is Christ giving himself up for the church. How does that picture reshape what \"headship\" means?"
+  ],
+  "words": [
+    {
+      "id": "mimetes",
+      "note": "\"Be therefore imitators of God\" (5:1)."
+    },
+    {
+      "id": "agapetos",
+      "note": "\"As beloved children\" (5:1)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Walk in love, even as Christ also loved you\" (5:2, 5:25, 5:28, 5:33)."
+    },
+    {
+      "id": "euodia",
+      "note": "\"For a sweet-smelling fragrance\" (5:2)."
+    },
+    {
+      "id": "porneia",
+      "note": "\"Sexual immorality... must not even be named\" (5:3, 5:5)."
+    },
+    {
+      "id": "akatharsia",
+      "note": "\"Uncleanness\" (5:3, 5:5)."
+    },
+    {
+      "id": "pleonexia",
+      "note": "\"Or covetousness\" (5:3, 5:5)."
+    },
+    {
+      "id": "aischrotes",
+      "note": "\"Nor filthiness\" (5:4)."
+    },
+    {
+      "id": "morologia",
+      "note": "\"Nor foolish talking\" (5:4)."
+    },
+    {
+      "id": "eutrapelia",
+      "note": "\"Nor jesting\" (5:4)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "\"But rather giving of thanks\" (5:4, 5:20)."
+    },
+    {
+      "id": "kenos",
+      "note": "\"With empty words\" (5:6)."
+    },
+    {
+      "id": "orge",
+      "note": "\"The wrath of God comes\" (5:6)."
+    },
+    {
+      "id": "phos",
+      "note": "\"Now you are light in the Lord\" (5:8-14)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"The fruit of the light\" (5:9, 5:11)."
+    },
+    {
+      "id": "elencho",
+      "note": "\"Rather even reprove them\" (5:11, 5:13)."
+    },
+    {
+      "id": "exagorazo",
+      "note": "\"Redeeming the time\" (5:16)."
+    },
+    {
+      "id": "kairos",
+      "note": "\"Redeeming the time, because the days are evil\" (5:16)."
+    },
+    {
+      "id": "methysko",
+      "note": "\"Don't be drunken with wine\" (5:18)."
+    },
+    {
+      "id": "asotia",
+      "note": "\"In which is dissipation\" (5:18)."
+    },
+    {
+      "id": "pleroo",
+      "note": "\"But be filled with the Spirit\" (5:18)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"Be filled with the Spirit\" (5:18)."
+    },
+    {
+      "id": "psalmos",
+      "note": "\"In psalms\" (5:19)."
+    },
+    {
+      "id": "hymnos",
+      "note": "\"Hymns\" (5:19)."
+    },
+    {
+      "id": "ode",
+      "note": "\"And spiritual songs\" (5:19)."
+    },
+    {
+      "id": "psallo",
+      "note": "\"Singing and making melody in your heart\" (5:19)."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"Subjecting yourselves to one another\" (5:21-24)."
+    },
+    {
+      "id": "kephale",
+      "note": "\"The husband is the head of the wife\" (5:23)."
+    },
+    {
+      "id": "soter",
+      "note": "\"Himself the savior of the body\" (5:23)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"As Christ also is the head of the assembly\" (5:23-32)."
+    },
+    {
+      "id": "hagiazo",
+      "note": "\"That he might sanctify it\" (5:26)."
+    },
+    {
+      "id": "loutron",
+      "note": "\"By the washing of water\" (5:26)."
+    },
+    {
+      "id": "rhema",
+      "note": "\"With the word\" (5:26)."
+    },
+    {
+      "id": "endoxos",
+      "note": "\"That he might present the assembly to himself gloriously\" (5:27)."
+    },
+    {
+      "id": "spilos",
+      "note": "\"Not having spot\" (5:27)."
+    },
+    {
+      "id": "rhytis",
+      "note": "\"Or wrinkle\" (5:27)."
+    },
+    {
+      "id": "amomos",
+      "note": "\"Holy and without blemish\" (5:27)."
+    },
+    {
+      "id": "ektrepho",
+      "note": "\"But nourishes\" (5:29)."
+    },
+    {
+      "id": "thalpo",
+      "note": "\"And cherishes it\" (5:29)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"This mystery is great\" (5:32)."
+    },
+    {
+      "id": "phobeo",
+      "note": "\"The wife see that she respects her husband\" (5:33)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 2:24",
+      "note": "a man shall leave his father and his mother and hold fast to his wife"
+    },
+    {
+      "ref": "Colossians 3:18-19",
+      "note": "wives, submit to your husbands; husbands, love your wives"
+    },
+    {
+      "ref": "1 Peter 3:1-7",
+      "note": "wives and husbands"
+    },
+    {
+      "ref": "Isaiah 60:1",
+      "note": "arise, shine, for your light has come"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

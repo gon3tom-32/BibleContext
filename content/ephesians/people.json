@@ -1,0 +1,62 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, a prisoner for Christ, whose name is on the letter."
+  },
+  {
+    "id": "tychicus",
+    "name": "Tychicus",
+    "note": "A beloved brother and faithful servant who carried the letter and brought news (6:21-22)."
+  },
+  {
+    "id": "the-gentile-believers",
+    "name": "The Gentile believers",
+    "note": "Non-Jews who were once \"far off\" and have been brought near (2:11-13)."
+  },
+  {
+    "id": "the-jewish-believers",
+    "name": "The Jewish believers",
+    "note": "Those who were \"first to hope in Christ\" (1:12), now one body with the Gentiles."
+  },
+  {
+    "id": "the-rulers-and-powers",
+    "name": "The rulers and powers",
+    "note": "The spiritual forces opposed to God that the letter says are under Christ's feet and that believers stand against (1:21; 6:12)."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The Christ, head of the church, in whom God unites all things."
+  },
+  {
+    "id": "the-ephesian-wives",
+    "name": "Wives",
+    "note": "Addressed first in the household teaching (5:22-24, 5:33)."
+  },
+  {
+    "id": "the-ephesian-husbands",
+    "name": "Husbands",
+    "note": "Called to love their wives as Christ loved the church (5:25-33)."
+  },
+  {
+    "id": "the-ephesian-children",
+    "name": "Children",
+    "note": "Told to obey their parents in the Lord (6:1-3)."
+  },
+  {
+    "id": "the-ephesian-fathers",
+    "name": "Fathers",
+    "note": "Told not to provoke their children, but to bring them up in the Lord's discipline (6:4)."
+  },
+  {
+    "id": "the-ephesian-slaves",
+    "name": "Slaves",
+    "note": "Told to serve as slaves of Christ (6:5-8)."
+  },
+  {
+    "id": "the-ephesian-masters",
+    "name": "Masters",
+    "note": "Told to stop threatening, since they and their slaves share a Master in heaven (6:9)."
+  }
+]

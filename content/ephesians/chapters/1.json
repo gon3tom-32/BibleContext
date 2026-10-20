@@ -1,0 +1,206 @@
+{
+  "sceneHappening": "One long blessing: God's plan from before the world began, and a prayer that they know the power at work in them",
+  "summary": "Paul, an apostle of Christ Jesus through God's will, writes to the saints [in Ephesus] who are faithful in Christ Jesus: grace and peace. Then, in a single sentence in Greek, he blesses \"the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ.\" He lists what God has done: chosen us in Christ before the foundation of the world to be holy and blameless before him in love; predestined us for adoption as his children through Jesus Christ, according to the good pleasure of his will, to the praise of his glorious grace; in him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace which he lavished on us. He made known to us the mystery of his will, according to his purpose set forth in Christ, \"to sum up all things in Christ, the things in the heavens and the things on the earth.\" In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will; we who were the first to hope in Christ are to the praise of his glory. In him, you also, after hearing the word of truth, the gospel of your salvation, and believing in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory. For this reason Paul, hearing of their faith and love for all the saints, does not cease to give thanks for them, remembering them in his prayers, that the God of our Lord Jesus Christ, the Father of glory, may give them a spirit of wisdom and revelation in the knowledge of him, having the eyes of their hearts enlightened, that they may know what is the hope of his calling, what the riches of the glory of his inheritance in the saints, and \"what is the exceeding greatness of his power toward us who believe,\" according to the working of the strength of his might, which he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and every name that is named, not only in this age but also in the age to come. God put all things under his feet and gave him as head over all things to the church, which is his body, \"the fullness of him who fills all in all.\"",
+  "whySettingMatters": "Several of the oldest manuscripts do not include the words \"in Ephesus\" in 1:1, and the letter has no personal greetings, which is why many think it began as a circular letter for several churches. Ephesus itself was a great port and religious center, famous for the temple of Artemis, and some of the language about \"powers,\" \"rulers,\" and \"authorities\" would have spoken directly to a population who feared spiritual forces and consulted magic (Acts 19:19). The opening is one long sentence of praise in the Greek, a form of Jewish blessing (berakah), and it is not an argument but a celebration of God's plan. \"Chosen before the foundation of the world\" and \"predestined\" are debated across Christian traditions: some read them as God's choice of individuals, others as God's choice of a people in Christ, and the text itself stresses that this is \"in Christ\" and for praise, love, and holiness. The phrase \"heavenly places\" appears five times in the letter and means the realm of God's rule that believers already share in Christ. The \"seal\" and the \"guarantee\" are business and legal pictures: a mark of ownership, and a down payment on the rest.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes as an apostle by God's will."
+    },
+    {
+      "id": "the-gentile-believers",
+      "note": "\"You also... were sealed with the promised Holy Spirit.\""
+    },
+    {
+      "id": "the-jewish-believers",
+      "note": "\"We who were the first to hope in Christ.\""
+    },
+    {
+      "id": "the-rulers-and-powers",
+      "note": "Under Christ's feet, far below the risen Lord."
+    },
+    {
+      "id": "jesus",
+      "note": "The head over all things to the church."
+    }
+  ],
+  "questions": [
+    "Paul praises God before asking for anything. What does it say that the letter begins with blessing?",
+    "\"Chosen before the foundation of the world.\" What does it change to know your life belongs to a plan that began before you?",
+    "Paul prays that \"the eyes of your heart\" would be enlightened. What kind of seeing is he talking about?",
+    "Christ is \"head over all things to the church.\" What does it mean to say the church is \"the fullness of him who fills all in all\"?"
+  ],
+  "words": [
+    {
+      "id": "eulogetos",
+      "note": "\"Blessed be the God and Father of our Lord Jesus Christ\" (1:3)."
+    },
+    {
+      "id": "eklegomai",
+      "note": "\"He chose us in him before the foundation of the world\" (1:4)."
+    },
+    {
+      "id": "amomos",
+      "note": "\"That we would be holy and without blemish before him\" (1:4)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"To the saints who are in Ephesus\" and \"holy\" (1:1, 1:4, 1:15, 1:18)."
+    },
+    {
+      "id": "proorizo",
+      "note": "\"Having predestined us for adoption\" (1:5, 1:11)."
+    },
+    {
+      "id": "huiothesia",
+      "note": "\"For adoption as children through Jesus Christ\" (1:5)."
+    },
+    {
+      "id": "eudokia",
+      "note": "\"According to the good pleasure of his will\" (1:5, 1:9)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The praise of the glory of his grace\" (1:2, 1:6-7)."
+    },
+    {
+      "id": "apolytrosis",
+      "note": "\"We have our redemption through his blood\" (1:7, 1:14)."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"The forgiveness of our trespasses\" (1:7)."
+    },
+    {
+      "id": "paraptoma",
+      "note": "\"Our trespasses\" (1:7)."
+    },
+    {
+      "id": "perisseuo",
+      "note": "\"Which he made to abound toward us\" (1:8)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"The mystery of his will\" (1:9)."
+    },
+    {
+      "id": "oikonomia",
+      "note": "\"For the administration of the fullness of the times\" (1:10)."
+    },
+    {
+      "id": "anakephalaioo",
+      "note": "\"To sum up all things in Christ\" (1:10)."
+    },
+    {
+      "id": "kleroo",
+      "note": "\"In whom we were also made a heritage\" (1:11)."
+    },
+    {
+      "id": "kleronomia",
+      "note": "\"The guarantee of our inheritance\" (1:14, 1:18)."
+    },
+    {
+      "id": "sphragizo",
+      "note": "\"You were sealed with the promised Holy Spirit\" (1:13)."
+    },
+    {
+      "id": "arrabon",
+      "note": "\"Who is a pledge of our inheritance\" (1:14)."
+    },
+    {
+      "id": "photizo",
+      "note": "\"The eyes of your heart being enlightened\" (1:18)."
+    },
+    {
+      "id": "hyperballo",
+      "note": "\"The exceeding greatness of his power\" (1:19)."
+    },
+    {
+      "id": "energeia",
+      "note": "\"According to the working of the strength of his might\" (1:19)."
+    },
+    {
+      "id": "kratos",
+      "note": "\"The strength of his might\" (1:19)."
+    },
+    {
+      "id": "ischys",
+      "note": "\"The strength of his might\" (1:19)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"The exceeding greatness of his power toward us who believe\" (1:19, 1:21)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"Far above all rule, and authority\" (1:21)."
+    },
+    {
+      "id": "kyriotes",
+      "note": "\"Dominion\" (1:21)."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"He put all things in subjection under his feet\" (1:22)."
+    },
+    {
+      "id": "kephale",
+      "note": "\"Head over all things for the assembly\" (1:22)."
+    },
+    {
+      "id": "soma",
+      "note": "\"Which is his body\" (1:23)."
+    },
+    {
+      "id": "pleroma",
+      "note": "\"The fullness of him who fills all in all\" (1:23)."
+    },
+    {
+      "id": "pleroo",
+      "note": "\"Who fills all in all\" (1:23)."
+    },
+    {
+      "id": "apokalypsis",
+      "note": "\"A spirit of wisdom and revelation\" (1:17)."
+    },
+    {
+      "id": "sophia",
+      "note": "\"A spirit of wisdom and revelation\" (1:8, 1:17)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"When he raised him from the dead\" (1:20)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"Head over all things for the assembly\" (1:22)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"What is the hope of his calling\" (1:12, 1:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Colossians 1:15-20",
+      "note": "in him all things hold together; he is the head of the body"
+    },
+    {
+      "ref": "Romans 8:28-30",
+      "note": "those whom he foreknew he also predestined"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "sit at my right hand, until I make your enemies your footstool"
+    },
+    {
+      "ref": "Philippians 2:9-11",
+      "note": "God has highly exalted him"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "ephesus",
+      "title": "The city addressed",
+      "short": "Ephesus",
+      "refs": "Ephesians 1:1 (in some manuscripts); Acts 19",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A great port city of Roman Asia, famous for the temple of Artemis, where Paul taught for about three years."
+    },
+    {
+      "order": 2,
+      "placeId": "colossae",
+      "title": "A neighboring church",
+      "short": "Colossae",
+      "refs": "Colossians 4:7-9",
+      "chapter": 6,
+      "direction": "out",
+      "text": "Tychicus also carried a letter to Colossae, which shares much with Ephesians. This stop is not named in Ephesians itself."
+    },
+    {
+      "order": 3,
+      "placeId": "rome",
+      "title": "Where Paul is probably held",
+      "short": "Rome",
+      "refs": "Ephesians 3:1; 4:1; 6:20; Acts 28:16-31",
+      "chapter": 6,
+      "direction": "out",
+      "text": "Paul calls himself \"an ambassador in chains.\" Rome is the traditional place of his imprisonment, but the letter does not say."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 9.0,
+      "east": 38.0,
+      "south": 34.0,
+      "north": 43.5
+    },
+    "label": "Map of the Mediterranean from Rome to Asia Minor, drawn from real coordinates. Numbered stops mark Ephesus, Colossae, and Rome.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "ephesus",
+        "label": "Ephesus",
+        "labelSide": "left"
+      },
+      {
+        "order": 2,
+        "at": "colossae",
+        "label": "Colossae",
+        "labelSide": "right"
+      },
+      {
+        "order": 3,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
