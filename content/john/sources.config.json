@@ -143,6 +143,10 @@
     {
       "id": "nicodemus",
       "theographic": "nicodemus_2204"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
     }
   ],
   "words": [
@@ -286,6 +290,111 @@
         "G4990"
       ],
       "foundAt": "John 4:42"
+    },
+    {
+      "id": "hygies",
+      "strongs": [
+        "G5199"
+      ],
+      "foundAt": "John 5:6"
+    },
+    {
+      "id": "ergon",
+      "strongs": [
+        "G2041"
+      ],
+      "foundAt": "John 5:17"
+    },
+    {
+      "id": "zoopoieo",
+      "strongs": [
+        "G2227"
+      ],
+      "foundAt": "John 5:21"
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "foundAt": "John 5:39"
+    },
+    {
+      "id": "manna",
+      "strongs": [
+        "G3131"
+      ],
+      "foundAt": "John 6:31"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "John 6:51"
+    },
+    {
+      "id": "helkyo",
+      "strongs": [
+        "G1670"
+      ],
+      "foundAt": "John 6:44"
+    },
+    {
+      "id": "heorte",
+      "strongs": [
+        "G1859"
+      ],
+      "foundAt": "John 7:2"
+    },
+    {
+      "id": "dipsao",
+      "strongs": [
+        "G1372"
+      ],
+      "foundAt": "John 7:37"
+    },
+    {
+      "id": "eleutheroo",
+      "strongs": [
+        "G1659"
+      ],
+      "foundAt": "John 8:32"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "John 8:21"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "John 8:34"
+    },
+    {
+      "id": "artos",
+      "strongs": [
+        "G0740"
+      ],
+      "foundAt": "John 6:5"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "John 5:8"
+    },
+    {
+      "id": "diabolos",
+      "strongs": [
+        "G1228"
+      ],
+      "foundAt": "John 8:44"
     }
   ],
   "crossRefs": {
@@ -303,7 +412,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 5 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 9 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

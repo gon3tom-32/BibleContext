@@ -83,5 +83,60 @@
     "id": "the-royal-official",
     "name": "The royal official",
     "note": "A man in Herod Antipas's service whose son was sick at Capernaum."
+  },
+  {
+    "id": "the-man-at-bethesda",
+    "name": "The man at the pool",
+    "note": "Sick for thirty-eight years."
+  },
+  {
+    "id": "the-boy-with-the-loaves",
+    "name": "The boy",
+    "note": "Gives five barley loaves and two fish."
+  },
+  {
+    "id": "the-disciples-who-left",
+    "name": "The disciples who left",
+    "note": "Followers who found the bread of life teaching too hard."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "The inner circle of apostles."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "jesus-family",
+    "name": "Jesus' brothers",
+    "note": "They did not believe in him at this stage."
+  },
+  {
+    "id": "the-pharisees",
+    "name": "The Pharisees",
+    "note": "A Jewish movement devoted to holiness and the law."
+  },
+  {
+    "id": "the-officers",
+    "name": "The officers",
+    "note": "Temple police sent to arrest him."
+  },
+  {
+    "id": "the-woman-caught-in-adultery",
+    "name": "The woman caught in adultery",
+    "note": "In a passage missing from the oldest manuscripts of John."
+  },
+  {
+    "id": "the-jews-who-believed",
+    "name": "The Jews who believed",
+    "note": "People who believed him, then argued."
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "note": "The ancestor of Israel."
   }
 ]

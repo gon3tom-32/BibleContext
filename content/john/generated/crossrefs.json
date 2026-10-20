@@ -411,7 +411,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Jeremiah 17:21-22",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Daniel 12:2",
+          "inDataset": true,
+          "votes": 24
+        },
+        {
+          "ref": "Deuteronomy 18:15",
+          "inDataset": true,
+          "votes": 77
+        },
+        {
+          "ref": "Luke 24:27",
+          "inDataset": true,
+          "votes": 58
+        }
+      ]
     },
     {
       "number": 6,
@@ -473,7 +494,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 16:4",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "2 Kings 4:42-44",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Psalm 78:24",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Isaiah 55:1-3",
+          "inDataset": true,
+          "votes": 65
+        },
+        {
+          "ref": "Isaiah 54:13",
+          "inDataset": true,
+          "votes": 128
+        }
+      ]
     },
     {
       "number": 7,
@@ -539,7 +586,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Leviticus 23:33-43",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Zechariah 14:8",
+          "inDataset": true,
+          "votes": 69
+        },
+        {
+          "ref": "Isaiah 12:3",
+          "inDataset": true,
+          "votes": 156
+        },
+        {
+          "ref": "Micah 5:2",
+          "inDataset": true,
+          "votes": 26
+        },
+        {
+          "ref": "Isaiah 55:1",
+          "inDataset": true,
+          "votes": 59
+        }
+      ]
     },
     {
       "number": 8,
@@ -605,7 +678,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 19:15",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Exodus 3:14",
+          "inDataset": true,
+          "votes": 41
+        },
+        {
+          "ref": "Leviticus 20:10",
+          "inDataset": true,
+          "votes": 30
+        },
+        {
+          "ref": "Galatians 5:1",
+          "inDataset": true,
+          "votes": 90
+        },
+        {
+          "ref": "Romans 8:2",
+          "inDataset": true,
+          "votes": 131
+        }
+      ]
     },
     {
       "number": 9,

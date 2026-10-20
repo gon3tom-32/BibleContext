@@ -901,5 +901,659 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "hygies",
+    "transliteration": "hygiēs",
+    "original": "ὑγιής",
+    "pronunciation": "hoog-ee-ACE",
+    "gloss": "healthy, well, whole",
+    "notes": "Healthy, sound, or whole. The man at the pool is asked, \"Do you want to be made well (hygies)?\" (5:6), and is later said to have been made \"well\" (5:9, 5:11, 5:14-15). It gives us \"hygiene.\"",
+    "range": [
+      {
+        "sense": "Healthy",
+        "note": "In good health."
+      },
+      {
+        "sense": "Whole",
+        "note": "Sound."
+      }
+    ],
+    "translations": [
+      "well",
+      "whole",
+      "healthy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:13",
+        "note": "His hand was restored, healthy as the other."
+      },
+      {
+        "ref": "Matthew 15:31",
+        "note": "The mute speaking, the crippled healthy."
+      },
+      {
+        "ref": "Acts 4:10",
+        "note": "This man is standing before you well."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ergon",
+    "transliteration": "ergon",
+    "original": "ἔργον",
+    "pronunciation": "ER-gon",
+    "gloss": "work, deed",
+    "notes": "A work or deed, what someone does. Jesus speaks of the Father's \"work\" and of his own \"works\" as evidence of who he is (5:17, 5:20, 5:36, 10:25, 14:10-12). In John the works are the signs and also the whole of what Jesus does for the Father.",
+    "range": [
+      {
+        "sense": "Work",
+        "note": "What one does."
+      },
+      {
+        "sense": "Deed",
+        "note": "An act."
+      },
+      {
+        "sense": "Sign",
+        "note": "A work that testifies."
+      }
+    ],
+    "translations": [
+      "work",
+      "deed",
+      "action"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:16",
+        "note": "Let them see your good works."
+      },
+      {
+        "ref": "Ephesians 2:10",
+        "note": "Created in Christ Jesus for good works."
+      },
+      {
+        "ref": "James 2:17",
+        "note": "Faith by itself, if it does not have works, is dead."
+      },
+      {
+        "ref": "Acts 13:41",
+        "note": "I am doing a work in your days."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zoopoieo",
+    "transliteration": "zōopoieō",
+    "original": "ζῳοποιέω",
+    "pronunciation": "zo-op-oy-EH-oh",
+    "gloss": "to give life, to make alive",
+    "notes": "From \"life\" and \"to make.\" To bring to life, or to impart life. Jesus says the Father raises the dead and gives them life, and so does the Son (5:21), and that the Spirit gives life (6:63). Paul uses it of the resurrection (1 Corinthians 15:22).",
+    "range": [
+      {
+        "sense": "Make alive",
+        "note": "Give life."
+      },
+      {
+        "sense": "Raise",
+        "note": "Bring back from death."
+      }
+    ],
+    "translations": [
+      "give life",
+      "make alive",
+      "bring to life"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 4:17",
+        "note": "God, who gives life to the dead."
+      },
+      {
+        "ref": "1 Corinthians 15:22",
+        "note": "In Christ shall all be made alive."
+      },
+      {
+        "ref": "1 Corinthians 15:45",
+        "note": "The last Adam became a life-giving spirit."
+      },
+      {
+        "ref": "2 Corinthians 3:6",
+        "note": "The Spirit gives life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "graphe",
+    "transliteration": "graphē",
+    "original": "γραφή",
+    "pronunciation": "graf-AY",
+    "gloss": "writing, Scripture",
+    "notes": "A writing, and in the New Testament most often the Scriptures, the books of the Old Testament. Jesus says, \"You search the Scriptures ... they testify about me\" (5:39). It is also used for a single passage (\"the Scripture says\").",
+    "range": [
+      {
+        "sense": "Scripture",
+        "note": "The sacred writings."
+      },
+      {
+        "sense": "A passage",
+        "note": "A particular text."
+      }
+    ],
+    "translations": [
+      "Scripture",
+      "the Scriptures",
+      "writing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:27",
+        "note": "He interpreted to them in all the Scriptures."
+      },
+      {
+        "ref": "Acts 17:11",
+        "note": "Examining the Scriptures daily."
+      },
+      {
+        "ref": "2 Timothy 3:16",
+        "note": "All Scripture is breathed out by God."
+      },
+      {
+        "ref": "2 Peter 1:20",
+        "note": "No prophecy of Scripture comes from private interpretation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "manna",
+    "transliteration": "manna",
+    "original": "μάννα",
+    "pronunciation": "MAN-nah",
+    "gloss": "manna",
+    "notes": "The bread-like food God provided to Israel in the wilderness (Exodus 16). The crowd mentions it to ask for a sign (6:31), and Jesus answers that it was not Moses who gave it, and that he himself is the true bread from heaven (6:32-35, 6:49-51).",
+    "range": [
+      {
+        "sense": "Manna",
+        "note": "The wilderness food."
+      }
+    ],
+    "translations": [
+      "manna"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 9:4",
+        "note": "The golden urn holding the manna."
+      },
+      {
+        "ref": "Revelation 2:17",
+        "note": "To the one who conquers I will give some of the hidden manna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarx",
+    "transliteration": "sarx",
+    "original": "σάρξ",
+    "pronunciation": "SARKS",
+    "gloss": "flesh",
+    "notes": "Flesh, the physical body, and by extension human nature in its weakness. John 1:14 says the Word became flesh, and in chapter 6 Jesus says the bread he gives is his flesh (6:51-56), though he also says \"the flesh profits nothing\" (6:63), speaking of flesh without the Spirit. Paul uses it more negatively, of human nature set against God.",
+    "range": [
+      {
+        "sense": "Flesh",
+        "note": "The body."
+      },
+      {
+        "sense": "Humanity",
+        "note": "Human nature."
+      },
+      {
+        "sense": "Weakness",
+        "note": "Mortal life."
+      }
+    ],
+    "translations": [
+      "flesh",
+      "body",
+      "human nature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:17",
+        "note": "Flesh and blood has not revealed this to you."
+      },
+      {
+        "ref": "Luke 24:39",
+        "note": "A spirit does not have flesh and bones."
+      },
+      {
+        "ref": "Romans 8:3",
+        "note": "God sending his own Son in the likeness of sinful flesh."
+      },
+      {
+        "ref": "1 John 4:2",
+        "note": "Jesus Christ has come in the flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "helkyo",
+    "transliteration": "helkyō",
+    "original": "ἑλκύω",
+    "pronunciation": "hel-KOO-oh",
+    "gloss": "to draw, to drag",
+    "notes": "To pull or drag, as of a net or a person. No one can come to Jesus unless the Father \"draws\" him (6:44), and Jesus says, \"I, if I am lifted up from the earth, will draw all people to myself\" (12:32).",
+    "range": [
+      {
+        "sense": "Draw",
+        "note": "Pull toward."
+      },
+      {
+        "sense": "Drag",
+        "note": "Haul by force."
+      }
+    ],
+    "translations": [
+      "draw",
+      "drag",
+      "pull"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 21:6",
+        "note": "They were not able to haul it in."
+      },
+      {
+        "ref": "Acts 16:19",
+        "note": "They dragged Paul and Silas into the marketplace."
+      },
+      {
+        "ref": "James 2:6",
+        "note": "Is it not the rich who drag you into court?"
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "heorte",
+    "transliteration": "heortē",
+    "original": "ἑορτή",
+    "pronunciation": "heh-or-TAY",
+    "gloss": "feast, festival",
+    "notes": "A religious festival, especially the great pilgrim feasts: Passover, Pentecost, and Booths. John organizes much of his Gospel around the feasts (2:13, 5:1, 6:4, 7:2, 10:22, 11:55), in which Jesus claims to fulfill what each celebrates.",
+    "range": [
+      {
+        "sense": "Feast",
+        "note": "A religious festival."
+      },
+      {
+        "sense": "Festival",
+        "note": "A celebration."
+      }
+    ],
+    "translations": [
+      "feast",
+      "festival"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:15",
+        "note": "At the feast the governor was accustomed to release a prisoner."
+      },
+      {
+        "ref": "Mark 15:6",
+        "note": "At every feast he used to release one prisoner."
+      },
+      {
+        "ref": "Luke 2:41",
+        "note": "His parents went every year to Jerusalem for the feast of the Passover."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dipsao",
+    "transliteration": "dipsaō",
+    "original": "διψάω",
+    "pronunciation": "dip-SAH-oh",
+    "gloss": "to be thirsty",
+    "notes": "To thirst, literally and figuratively. John uses it for the woman at the well (4:14), for Jesus' offer in 6:35 and 7:37, and for Jesus' own cry on the cross, \"I am thirsty\" (19:28). The Beatitudes use it for those who \"thirst for righteousness\" (Matthew 5:6).",
+    "range": [
+      {
+        "sense": "Thirst",
+        "note": "Need water."
+      },
+      {
+        "sense": "Long for",
+        "note": "Desire strongly."
+      }
+    ],
+    "translations": [
+      "thirst",
+      "be thirsty"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:6",
+        "note": "Blessed are those who hunger and thirst for righteousness."
+      },
+      {
+        "ref": "Matthew 25:35",
+        "note": "I was thirsty and you gave me drink."
+      },
+      {
+        "ref": "Romans 12:20",
+        "note": "If your enemy is thirsty, give him something to drink."
+      },
+      {
+        "ref": "Revelation 22:17",
+        "note": "Let the one who is thirsty come."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleutheroo",
+    "transliteration": "eleutheroō",
+    "original": "ἐλευθερόω",
+    "pronunciation": "el-yoo-ther-OH-oh",
+    "gloss": "to set free",
+    "notes": "To free a slave or prisoner. Jesus says the truth will make you free and, \"If the Son makes you free, you will be free indeed\" (8:32, 8:36). Paul uses it for freedom from sin (Romans 6:18, 6:22; 8:2).",
+    "range": [
+      {
+        "sense": "Free",
+        "note": "Release from slavery."
+      },
+      {
+        "sense": "Liberate",
+        "note": "Set at liberty."
+      }
+    ],
+    "translations": [
+      "set free",
+      "make free"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 6:18",
+        "note": "Set free from sin."
+      },
+      {
+        "ref": "Romans 8:2",
+        "note": "The law of the Spirit has set you free."
+      },
+      {
+        "ref": "Galatians 5:1",
+        "note": "For freedom Christ has set us free."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hamartia",
+    "transliteration": "hamartia",
+    "original": "ἁμαρτία",
+    "pronunciation": "ham-ar-TEE-ah",
+    "gloss": "sin",
+    "notes": "Sin, missing the mark. In John 8 Jesus says that everyone who commits sin is a bondservant of sin (8:34) and warns that unbelief means dying in one's sins (8:21, 8:24).",
+    "range": [
+      {
+        "sense": "Sin",
+        "note": "Missing the mark."
+      },
+      {
+        "sense": "Offense",
+        "note": "A wrong against God or others."
+      }
+    ],
+    "translations": [
+      "sin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "John 1:29",
+        "note": "The Lamb of God who takes away the sin of the world."
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The wages of sin is death."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "If we confess our sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doulos",
+    "transliteration": "doulos",
+    "original": "δοῦλος",
+    "pronunciation": "DOO-los",
+    "gloss": "slave, servant",
+    "notes": "A slave or bondservant. Jesus says \"everyone who commits sin is the bondservant of sin\" (8:34), and that a slave doesn't stay in the house forever, while a son does (8:35).",
+    "range": [
+      {
+        "sense": "Slave",
+        "note": "Someone owned by another."
+      },
+      {
+        "sense": "Servant of God",
+        "note": "A title of honor for those who serve the Lord."
+      }
+    ],
+    "translations": [
+      "slave",
+      "servant",
+      "bondservant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:27",
+        "note": "Whoever wishes to be first among you must be your slave."
+      },
+      {
+        "ref": "Romans 6:16",
+        "note": "You are slaves of the one whom you obey."
+      },
+      {
+        "ref": "Galatians 1:10",
+        "note": "I would not be a servant of Christ."
+      },
+      {
+        "ref": "Philippians 2:7",
+        "note": "Taking the form of a servant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "artos",
+    "transliteration": "artos",
+    "original": "ἄρτος",
+    "pronunciation": "AR-tos",
+    "gloss": "bread, loaf",
+    "notes": "Bread, and by extension food. In John 6 it begins as barley loaves for the crowd and becomes the central image: \"I am the bread of life\" (6:35, 6:48).",
+    "range": [
+      {
+        "sense": "Loaf",
+        "note": "A round flat loaf."
+      },
+      {
+        "sense": "Food",
+        "note": "A meal in general."
+      }
+    ],
+    "translations": [
+      "bread",
+      "loaf",
+      "loaves",
+      "food"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:3",
+        "note": "Command that these stones become bread."
+      },
+      {
+        "ref": "Mark 6:41",
+        "note": "He broke the loaves."
+      },
+      {
+        "ref": "Luke 22:19",
+        "note": "He took bread, broke it, and gave it."
+      },
+      {
+        "ref": "1 Corinthians 11:23",
+        "note": "The Lord Jesus took bread."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake, raise up, rise. Jesus says \"Arise, take up your mat\" (5:8), and says the Father raises the dead and gives them life (5:21).",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:6",
+        "note": "\"He is risen, as he said.\""
+      },
+      {
+        "ref": "Luke 24:34",
+        "note": "\"The Lord is risen indeed.\""
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "He was raised on the third day."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diabolos",
+    "transliteration": "diabolos",
+    "original": "διάβολος",
+    "pronunciation": "dee-AB-oh-los",
+    "gloss": "devil, slanderer",
+    "notes": "The devil, from a word meaning \"slanderer.\" In 8:44 Jesus says to his opponents, \"You are of your father, the devil,\" about those who want to kill him.",
+    "range": [
+      {
+        "sense": "Slanderer",
+        "note": "One who accuses falsely."
+      },
+      {
+        "sense": "The Devil",
+        "note": "The adversary of God."
+      }
+    ],
+    "translations": [
+      "devil",
+      "slanderer",
+      "accuser"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:1",
+        "note": "Jesus was led up to be tempted by the devil."
+      },
+      {
+        "ref": "Luke 4:2",
+        "note": "Tempted for forty days by the devil."
+      },
+      {
+        "ref": "Ephesians 6:11",
+        "note": "Stand against the schemes of the devil."
+      },
+      {
+        "ref": "James 4:7",
+        "note": "Resist the devil, and he will flee."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

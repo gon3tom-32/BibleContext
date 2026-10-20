@@ -1705,6 +1705,1149 @@
         "fetched": "2026-10-19",
         "item": "G4990"
       }
+    },
+    {
+      "id": "hygies",
+      "strongs": [
+        "G5199"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5199",
+          "original": "ὑγιής",
+          "transliteration": "hugiēs",
+          "partOfSpeech": "G:A",
+          "gloss": "healthy",
+          "meaning": "ὑγιής, -ές, accusative, ὑγιῆ (Attic usually -ιᾶ),\n[in LXX for חַי, etc. ;]\nsound, whole, healthy: Mat.12:13 15:31, Jhn.5:[4], 6, 9, 11, 14, 15 7:23, Act.4:10; before ἀπό, Mrk.5:34; of words, opinions, etc. (as in cl.), metaphorically, λόγος, Tit.2:8.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὑγιὴς",
+          "translit": "hugiēs",
+          "gloss": "healthy"
+        },
+        {
+          "original": "ὑγιῆ",
+          "translit": "hugiē",
+          "gloss": "healthy"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 5:4",
+        "John 5:6",
+        "John 5:9",
+        "John 5:11",
+        "John 5:14",
+        "John 5:15",
+        "John 7:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 14,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 12:13",
+          "found": true
+        },
+        {
+          "ref": "Matthew 15:31",
+          "found": true
+        },
+        {
+          "ref": "Acts 4:10",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5199"
+      }
+    },
+    {
+      "id": "ergon",
+      "strongs": [
+        "G2041"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2041",
+          "original": "ἔργον",
+          "transliteration": "ergon",
+          "partOfSpeech": "G:N-N",
+          "gloss": "work",
+          "meaning": "ἔργον, -ου, τό (originally Ϝέργον, work), [very frequently in LXX, chiefly for מַשֶׂה, מְלָאכָה, also for עֲבֹדָה, פֹּעַל, etc. ;]\n1. work, task, employment: Mrk.13:34, Jhn.4:34 17:4, Act.13:2, Php.1:22 2:30, 1Th.5:13, al.; of an enterprise or undertaking (Deu.15:10, Wis.2:12), Act.5:38. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἔργα",
+          "translit": "erga",
+          "gloss": "work"
+        },
+        {
+          "original": "ἔργον",
+          "translit": "ergon",
+          "gloss": "work"
+        },
+        {
+          "original": "ἔργου",
+          "translit": "ergou",
+          "gloss": "work"
+        },
+        {
+          "original": "ἔργοις",
+          "translit": "ergois",
+          "gloss": "work"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 3:19",
+        "John 3:20",
+        "John 3:21",
+        "John 4:34",
+        "John 5:20",
+        "John 5:36",
+        "John 6:28",
+        "John 6:29",
+        "John 7:3",
+        "John 7:7",
+        "John 7:21",
+        "John 8:39",
+        "John 8:41",
+        "John 9:3",
+        "John 9:4",
+        "John 10:25",
+        "John 10:32",
+        "John 10:33",
+        "John 10:37",
+        "John 10:38",
+        "John 14:10",
+        "John 14:11",
+        "John 14:12",
+        "John 15:24",
+        "John 17:4"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 161,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:16",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:10",
+          "found": true
+        },
+        {
+          "ref": "James 2:17",
+          "found": true
+        },
+        {
+          "ref": "Acts 13:41",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2041"
+      }
+    },
+    {
+      "id": "zoopoieo",
+      "strongs": [
+        "G2227"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2227",
+          "original": "ζωοποιέω",
+          "transliteration": "zōopoieō",
+          "partOfSpeech": "G:V",
+          "gloss": "to make alive",
+          "meaning": "ζωο-ποιέω, ῶ\n[in LXX for חָיָה pi., hi., Jdg.21:14, 4Ki.5:7, Neh.9:6, Job.36:6, Psa.70:20, Ecc.7:12 * ;]\n1. in cl. (= ζωογονέω), to produce alive.\n2. In LXX and NT, to make alive, cause to live, quicken (DCG, ii, 606a; Cremer, 275): Jhn.5:21 6:53, Rom.4:17 8:11, 1Co.15:45, 2Co.3:6, Gal.3:21. Pass., 1Co.15:22 15:36, 1Pe.3:18.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζῳοποιεῖ",
+          "translit": "zōopoiei",
+          "gloss": "to make alive"
+        },
+        {
+          "original": "ζῳοποιοῦν",
+          "translit": "zōopoioun",
+          "gloss": "to make alive"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 5:21",
+        "John 6:63"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 10,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 4:17",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:22",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:45",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 3:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2227"
+      }
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1124",
+          "original": "γραφή",
+          "transliteration": "graphē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "a writing",
+          "meaning": "γραφή, -ῆς, ἡ\n(γράφω), [in LXX chiefly for כְּתָב ;]\n1. a drawing, painting.\n2.\n(a) writing;\n(b) that which is written, a writing: πᾶσα γ., 2Ti.3:16; γ. ἅγιαι, Rom.1:2; προφητικαί, Rom.16:26; al αἱ γ. τ. προφητῶν, Mat.26:56; ἡ γ., αἱ γ., the sacred writings, the Scriptures (i.e. the OT; see Milligan, NTD, 205); in pl., when the sacred writings as a whole are meant, e.g. Mat.21:42 26:54, Jhn.5:39, Rom.15:4; in sing., when a particular passage is referred to, as in Luk.4:21, Jhn.19:24, Rom.4:3 9:17 10:11 11:2, Jas.2:23 (Cremer, 165; DCG, ii, 584).\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "γραφῇ",
+          "translit": "graphēa",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφάς",
+          "translit": "graphas",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφή",
+          "translit": "graphē",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφὴ",
+          "translit": "graphē",
+          "gloss": "a writing"
+        },
+        {
+          "original": "γραφὴν",
+          "translit": "graphēn",
+          "gloss": "a writing"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 2:22",
+        "John 5:39",
+        "John 7:38",
+        "John 7:42",
+        "John 10:35",
+        "John 13:18",
+        "John 17:12",
+        "John 19:24",
+        "John 19:28",
+        "John 19:36",
+        "John 19:37",
+        "John 20:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 51,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 24:27",
+          "found": true
+        },
+        {
+          "ref": "Acts 17:11",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 3:16",
+          "found": true
+        },
+        {
+          "ref": "2 Peter 1:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1124"
+      }
+    },
+    {
+      "id": "manna",
+      "strongs": [
+        "G3131"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3131",
+          "original": "μάννα",
+          "transliteration": "manna",
+          "partOfSpeech": "H:N",
+          "gloss": "manna",
+          "meaning": "μάννα, τό ,\n(in FlJ, also ἡ),\nindecl.\n[in LXX: τὸ μάν, Exo.16:31 ff., elsewhere τ. μάννα, Num.11:6 ff., al. (מָן, Aram. מַנָּא) ;]\nmanna: Jhn.6:31, 49, Heb.9:4; symb., Rev.2:17.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μάννα",
+          "translit": "manna",
+          "gloss": "manna"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 6:31",
+        "John 6:49",
+        "John 6:58"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Hebrews 9:4",
+          "found": true
+        },
+        {
+          "ref": "Revelation 2:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3131"
+      }
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4561",
+          "original": "σάρξ",
+          "transliteration": "sarx",
+          "partOfSpeech": "G:N-F",
+          "gloss": "flesh",
+          "meaning": "σάρξ, σαρκός, ἡ\n[in LXX chiefly for בָּשָׂר ;]\nflesh;\n1. as in cl. generally,\n(a) prop., of the soft substance of the animal body: 1Co.15:39, 2Co.12:7, Gal.6:13, al.; σ. καὶ αἷμα, 1Co.5:50; σ. καὶ ὀστέα, Luk.24:39; pl., of the flesh of many or parts of the flesh of one (cl.), Rev.17:16 19:18; φαγεῖν, Re, ll. with (cf. κατεσθίειν, 4Ki.9:36, al., and βιβρώσκειν, frequently in l.); metaphorically, Jas.5:3; mystically, φ. (τρώγειν) τὴν σ. τοῦ υἱοῦ τ. ἀνθρώπου, Jhn.6:52-56; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σαρκὸς",
+          "translit": "sarkos",
+          "gloss": "flesh"
+        },
+        {
+          "original": "σὰρξ",
+          "translit": "sarx",
+          "gloss": "flesh"
+        },
+        {
+          "original": "σάρξ",
+          "translit": "sarx",
+          "gloss": "flesh"
+        },
+        {
+          "original": "σάρκα",
+          "translit": "sarka",
+          "gloss": "flesh"
+        },
+        {
+          "original": "σαρκός",
+          "translit": "sarkos",
+          "gloss": "flesh"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:13",
+        "John 1:14",
+        "John 3:6",
+        "John 6:51",
+        "John 6:52",
+        "John 6:53",
+        "John 6:54",
+        "John 6:55",
+        "John 6:56",
+        "John 6:63",
+        "John 8:15",
+        "John 17:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 129,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:17",
+          "found": true
+        },
+        {
+          "ref": "Luke 24:39",
+          "found": true
+        },
+        {
+          "ref": "Romans 8:3",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4561"
+      }
+    },
+    {
+      "id": "helkyo",
+      "strongs": [
+        "G1670"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1670",
+          "original": "ἕλκω",
+          "transliteration": "helkuō, helkō",
+          "partOfSpeech": "G:V",
+          "gloss": "to draw/persuade",
+          "meaning": "ἕλκω\n(Hellenistic form ἑλκύω in Jhn.11:1-57. with, Act.16:19), [in LXX for מָשַׁךְ, etc. ;]\nto draw: with accusative of thing(s), Jhn.18:10 21:6; with accusative of person(s), before ἔξω, Act.21:30; εἰς, Act.16:19, Jas.2:6. Metaphorical, to draw, lead, impel: Jhn.6:44 12:32. (For discussion of ἕ. in Oxyrh. Log., see Deiss., LAE, 437 ff.)†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἑλκύσῃ",
+          "translit": "helkusē",
+          "gloss": "to draw/persuade"
+        },
+        {
+          "original": "ἑλκύσω",
+          "translit": "helkusō",
+          "gloss": "to draw/persuade"
+        },
+        {
+          "original": "εἵλκυσεν",
+          "translit": "eilkusen",
+          "gloss": "to draw/persuade"
+        },
+        {
+          "original": "ἑλκύσαι",
+          "translit": "helkusai",
+          "gloss": "to draw/persuade"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 6:44",
+        "John 12:32",
+        "John 18:10",
+        "John 21:6",
+        "John 21:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "John 21:6",
+          "found": true
+        },
+        {
+          "ref": "Acts 16:19",
+          "found": true
+        },
+        {
+          "ref": "James 2:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1670"
+      }
+    },
+    {
+      "id": "heorte",
+      "strongs": [
+        "G1859"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1859",
+          "original": "ἑορτή",
+          "transliteration": "heortē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "festival",
+          "meaning": "ἑορτή, -ῆς, ἡ\n[in LXX for חַג (chiefly), מוֹעֵד ;]\na feast, festival: Luk.2:42, Jhn.5:1, Jhn.6:4 Jhn.7:37, Col.2:10; ἡ ἑ. τοῦ πάσχα, Luk.2:41, Jhn.13:1; τ. ἀζύμων, Luk.22:1; ἡ σκηνοπηγία, Jhn.7:2 (Deiss., LAE, 116); ἐν τ. ἑ., Mat.26:5, Mrk.14:2, Jhn.4:45 7:11 12:20 (εἶναι ἐν ἑ.), Jhn.2:23; εἰς τ. ἑ. (for the feast), Jhn.13:29; ἀναβαίνειν, ἔρχεσθαι εἰς τ. ἑ., Jhn.4:45 7:8-10 11:56 12:12; τῆς ἐ μεσούσης, Jhn.7:14; κατὰ ἑ. (at each feast), Mat.27:15, Mrk.15:6, Luk.23:17, R, mg.; τ. ἑ. ποιεῖν, Act.18:21; κατὰ τὸ ἔθος τῆς ἑ., Luk.2:42.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἑορτῇ",
+          "translit": "he'ortēa",
+          "gloss": "festival"
+        },
+        {
+          "original": "ἑορτήν",
+          "translit": "he'ortēn",
+          "gloss": "festival"
+        },
+        {
+          "original": "ἑορτὴ",
+          "translit": "he'ortē",
+          "gloss": "festival"
+        },
+        {
+          "original": "ἑορτὴν",
+          "translit": "he'ortēn",
+          "gloss": "festival"
+        },
+        {
+          "original": "ἑορτῆς",
+          "translit": "he'ortēs",
+          "gloss": "festival"
+        },
+        {
+          "original": "ἑορτήν;",
+          "translit": "he'ortēn",
+          "gloss": "festival"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 2:23",
+        "John 4:45",
+        "John 5:1",
+        "John 6:4",
+        "John 7:2",
+        "John 7:8",
+        "John 7:10",
+        "John 7:11",
+        "John 7:14",
+        "John 7:37",
+        "John 11:56",
+        "John 12:12",
+        "John 12:20",
+        "John 13:1",
+        "John 13:29"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 25,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:15",
+          "found": true
+        },
+        {
+          "ref": "Mark 15:6",
+          "found": true
+        },
+        {
+          "ref": "Luke 2:41",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1859"
+      }
+    },
+    {
+      "id": "dipsao",
+      "strongs": [
+        "G1372"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1372",
+          "original": "διψάω",
+          "transliteration": "dipsaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to thirst",
+          "meaning": "διψάω,-ῶ\n(δίψα, thirst), [in LXX chiefly for צָמֵא ;]\nto thirst: absol., Mat.25:35, 37 25:42, 44, Jhn.4:13, 15 19:28, Rom.12:20\" (LXX), 1Co.4:11; figuratively, Jhn.4:14 6:35 7:37, Rev.7:16 21:6 22:17; with accusative (= cl. with genitive), τ. δικαιοσύνην, Mat.5:6.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "διψήσει",
+          "translit": "dipsēsei",
+          "gloss": "to thirst"
+        },
+        {
+          "original": "διψῶ",
+          "translit": "dipsō",
+          "gloss": "to thirst"
+        },
+        {
+          "original": "διψᾷ",
+          "translit": "dipsa",
+          "gloss": "to thirst"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 4:13",
+        "John 4:14",
+        "John 4:15",
+        "John 6:35",
+        "John 7:37",
+        "John 19:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 16,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:6",
+          "found": true
+        },
+        {
+          "ref": "Matthew 25:35",
+          "found": true
+        },
+        {
+          "ref": "Romans 12:20",
+          "found": true
+        },
+        {
+          "ref": "Revelation 22:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1372"
+      }
+    },
+    {
+      "id": "eleutheroo",
+      "strongs": [
+        "G1659"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1659",
+          "original": "ἐλευθερόω",
+          "transliteration": "eleutheroō",
+          "partOfSpeech": "G:V",
+          "gloss": "to set free",
+          "meaning": "ἐλευθερόω, -ῶ\n[in LXX: Pro.25:10. 2Ma.1:27 2Mac 2:22 * ;]\nto make free from sin, Jhn.8:32, 36; before ἀπό, Rom.6:18, 22 8:2, 21; τ. ἐλευθερία (dative commodi), Gal.5:1 (on the \"punctiliar\" force of this verb, see M, Pr. 149; cf. also Cremer, 251).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐλευθερώσει",
+          "translit": "eleutherōsei",
+          "gloss": "to set free"
+        },
+        {
+          "original": "ἐλευθερώσῃ",
+          "translit": "eleutherōsē",
+          "gloss": "to set free"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 8:32",
+        "John 8:36"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 6:18",
+          "found": true
+        },
+        {
+          "ref": "Romans 8:2",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1659"
+      }
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0266",
+          "original": "ἁμαρτία",
+          "transliteration": "hamartia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "sin",
+          "meaning": "ἁμαρτία, -ας, ἡ\n(ἁμαρτάνω, which see), [in LXX chiefly for חַטָּאת and cogn. forms, also for פֶּשַׁע ,עָוֹן, etc. ;]\nprop. a missing the mark; in cl. (see reff. to CR in MM, VGT, see word);\n(a) guilt, sin (Plat., Arist., al.);\n(b) more freq., from Æsch. down, a fault, failure. In NT (as LXX) always in ethical sense; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἁμαρτίαν",
+          "translit": "hamartian",
+          "gloss": "sin"
+        },
+        {
+          "original": "ἁμαρτίᾳ",
+          "translit": "hamartia",
+          "gloss": "sin"
+        },
+        {
+          "original": "ἁμαρτίαις",
+          "translit": "hamartiais",
+          "gloss": "sin"
+        },
+        {
+          "original": "ἁμαρτίας",
+          "translit": "hamartias",
+          "gloss": "sin"
+        },
+        {
+          "original": "ἁμαρτίας;",
+          "translit": "hamartias",
+          "gloss": "sin"
+        },
+        {
+          "original": "ἁμαρτία",
+          "translit": "hamartia",
+          "gloss": "sin"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:29",
+        "John 8:21",
+        "John 8:24",
+        "John 8:34",
+        "John 8:46",
+        "John 9:34",
+        "John 9:41",
+        "John 15:22",
+        "John 15:24",
+        "John 16:8",
+        "John 16:9",
+        "John 19:11",
+        "John 20:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 151,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:21",
+          "found": true
+        },
+        {
+          "ref": "John 1:29",
+          "found": true
+        },
+        {
+          "ref": "Romans 6:23",
+          "found": true
+        },
+        {
+          "ref": "1 John 1:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0266"
+      }
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1401",
+          "original": "δοῦλος",
+          "transliteration": "doulos",
+          "partOfSpeech": "G:N",
+          "gloss": "slave",
+          "meaning": "δοῦλος, -η, -ον,\n[in LXX, ὁ δ. nearly always for עֶבֶד; ὁ δ. chiefly for שִׁפְחָה ,אָמָה ;]\n1. in bondage to, subject to: Rom.6:19.\n2. As subst., ὁ, ἡ δ., a slave;\n(a) fem., ἡ δ., a female slave, bondmaid (Cremer, 702; DB, iii, 215): Luk.1:38, 48 Act.2:18\" (LXX) ; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "δοῦλοι",
+          "translit": "douloi",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλός",
+          "translit": "doulos",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλος",
+          "translit": "doulos",
+          "gloss": "slave"
+        },
+        {
+          "original": "δούλους",
+          "translit": "doulous",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλον",
+          "translit": "doulon",
+          "gloss": "slave"
+        },
+        {
+          "original": "δούλῳ",
+          "translit": "doulō",
+          "gloss": "slave"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 4:51",
+        "John 8:34",
+        "John 8:35",
+        "John 13:16",
+        "John 15:15",
+        "John 15:20",
+        "John 18:10",
+        "John 18:18",
+        "John 18:26"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 121,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 20:27",
+          "found": true
+        },
+        {
+          "ref": "Romans 6:16",
+          "found": true
+        },
+        {
+          "ref": "Galatians 1:10",
+          "found": true
+        },
+        {
+          "ref": "Philippians 2:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1401"
+      }
+    },
+    {
+      "id": "artos",
+      "strongs": [
+        "G0740"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0740",
+          "original": "ἄρτος",
+          "transliteration": "artos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "bread",
+          "meaning": "ἄρτος, -ου, ὁ,\n[in LXX chiefly for לֶחֶם ;]\nbread, a loaf: Mat.4:3, 4 Mrk.3:20, al.; ἄρτοι τ. προθέσεως, bread of the setting forth, i.e. the shewbread. Metaphorical, ὁ ἄ. τ. θεοῦ, τ. ζωῆς, ref. to Christ, Jhn.6:33, 35; in general, food: Mat.6:11, al.; ἄ. φαγεῖν (Heb. אֲכֹל לֶחֶם), to eat (MM, see word), Lu 14:1, al.\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἄρτους",
+          "translit": "artous",
+          "gloss": "bread"
+        },
+        {
+          "original": "ἄρτοι",
+          "translit": "artoi",
+          "gloss": "bread"
+        },
+        {
+          "original": "ἄρτων",
+          "translit": "artōn",
+          "gloss": "bread"
+        },
+        {
+          "original": "ἄρτον",
+          "translit": "arton",
+          "gloss": "bread"
+        },
+        {
+          "original": "ἄρτος",
+          "translit": "artos",
+          "gloss": "bread"
+        },
+        {
+          "original": "ἄρτου",
+          "translit": "artou",
+          "gloss": "bread"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 6:5",
+        "John 6:7",
+        "John 6:9",
+        "John 6:11",
+        "John 6:13",
+        "John 6:23",
+        "John 6:26",
+        "John 6:31",
+        "John 6:32",
+        "John 6:33",
+        "John 6:34",
+        "John 6:35",
+        "John 6:41",
+        "John 6:48",
+        "John 6:50",
+        "John 6:51",
+        "John 6:58",
+        "John 13:18",
+        "John 21:9",
+        "John 21:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 91,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:3",
+          "found": true
+        },
+        {
+          "ref": "Mark 6:41",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:19",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 11:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0740"
+      }
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1453",
+          "original": "ἐγείρω",
+          "transliteration": "egeirō",
+          "partOfSpeech": "G:V",
+          "gloss": "to arise",
+          "meaning": "ἐγείρω, [in LXX for קוּם, etc. ;] trans. (imperat. ἔγειρε used intransitively, Mat.9:5, Mrk.2:11, al.);\n1. to awaken, arouse from sleep: Mrk.4:38, Act.12:7; metaphorically, of spiritual awakening, Rom.13:11 (pass.), Eph.5:14; pass., to be aroused, wake up: Mat.25:7, Mrk.4:27; ἀπὸ τ. ὕπνου, Mat.1:24.\n2. Freq. in NT, to raise from the dead: νεκρούς, Jhn.5:21, Act.26:8, 2Co.1:9; ἐκ νεκρῶν, Jhn.12:1, Act.3:15, Rom.8:11, al.; pass., rise from death: Mat.11:5, Luk.7:22, Jhn.2:22, Rom.6:9, al.; ἀπὸ τ. νεκρῶν, Mat.14:2, al.\n3. In late Gk., …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐγερῶ",
+          "translit": "egerō",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἐγερεῖς",
+          "translit": "egereis",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἠγέρθη",
+          "translit": "ēgerthē",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἔγειρε",
+          "translit": "egeire",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἐγείρει",
+          "translit": "egeirei",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἐγείρεται",
+          "translit": "egeiretai",
+          "gloss": "to arise"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 2:19",
+        "John 2:20",
+        "John 2:22",
+        "John 5:8",
+        "John 5:21",
+        "John 7:52",
+        "John 11:29",
+        "John 12:1",
+        "John 12:9",
+        "John 12:17",
+        "John 13:4",
+        "John 14:31",
+        "John 21:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 137,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 28:6",
+          "found": true
+        },
+        {
+          "ref": "Luke 24:34",
+          "found": true
+        },
+        {
+          "ref": "Romans 10:9",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1453"
+      }
+    },
+    {
+      "id": "diabolos",
+      "strongs": [
+        "G1228"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1228",
+          "original": "διάβολος",
+          "transliteration": "diabolos",
+          "partOfSpeech": "G:A",
+          "gloss": "devilish/the Devil",
+          "meaning": "διάβολος, -ον\n(διαβάλλω, which see) [in LXX for שָׂטָן (as Job.1:6), exc. Est.7:4 8:1 (צַר, צָרַר) ;]\nslanderous, accusing falsely. As subst., ὁ, ἡ, δ.;\n(a) generally (of. Es, ll. with), a slanderer, false accuser: 1Ti.3:6, 7 (CGT, in l., but see infr.) 3:11, 2Ti.3:3, Tit.2:3; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "διάβολός",
+          "translit": "diabolos",
+          "gloss": "devilish/the Devil"
+        },
+        {
+          "original": "διαβόλου",
+          "translit": "diabolou",
+          "gloss": "devilish/the Devil"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 6:70",
+        "John 8:44",
+        "John 13:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 36,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:1",
+          "found": true
+        },
+        {
+          "ref": "Luke 4:2",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 6:11",
+          "found": true
+        },
+        {
+          "ref": "James 4:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1228"
+      }
     }
   ]
 }

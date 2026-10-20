@@ -315,6 +315,43 @@
         "item": "nicodemus_2204",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "judas-iscariot",
+      "name": "Judas",
+      "displayTitle": "Judas Iscariot",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        6,
+        12,
+        13,
+        14,
+        18
+      ],
+      "verses": [
+        "John 6:71",
+        "John 12:4",
+        "John 13:2",
+        "John 13:26",
+        "John 13:29",
+        "John 14:22",
+        "John 18:2",
+        "John 18:3",
+        "John 18:5"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "judas_1760",
+        "recordStatus": "publish"
+      }
     }
   ]
 }
