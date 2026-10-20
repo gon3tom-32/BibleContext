@@ -2,10 +2,6 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
-      "area": "words",
-      "text": "\"Mark 6:56\" (listed under astheneo): STEPBible tags the same word there as G0770H, a different sense (\"be weak\"). Fine to keep if the note says so."
-    },
-    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -24,10 +20,6 @@
     {
       "area": "places",
       "text": "The Mediterranean Sea is pulled to draw the map."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }

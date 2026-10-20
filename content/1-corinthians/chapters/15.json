@@ -1,0 +1,150 @@
+{
+  "sceneHappening": "The resurrection of Christ and of the dead: the heart of the gospel",
+  "summary": "Paul reminds the Corinthians of the gospel he preached, which they received and in which they stand: \"that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures,\" and that he appeared to Cephas, then the twelve, then to more than five hundred at once, most of whom are still alive, then to James, then to all the apostles, and last of all to Paul, \"as to one born at the wrong time,\" the least of the apostles, who persecuted the church, yet by God's grace he is what he is. Then he asks how some can say there is no resurrection of the dead. If there is no resurrection, Christ has not been raised, and their faith and his preaching are empty, and those who have died in Christ are lost, and \"we are of all people most to be pitied.\" \"But now Christ has been raised from the dead, the firstfruits of those who are asleep.\" As in Adam all die, so in Christ all will be made alive, each in his own order: Christ the firstfruits, then those who belong to Christ at his coming, then the end, when he hands over the Kingdom to God the Father, after destroying every rule and authority and power; the last enemy to be destroyed is death. Paul asks about people being baptized for the dead, and says he faces danger every hour, that he has fought wild beasts at Ephesus, and quotes, \"Let's eat and drink, for tomorrow we die.\" \"Don't be deceived: bad company ruins good morals.\" Then he answers: how are the dead raised, with what kind of body? Like a seed that dies and is sown, God gives it a body as he chooses. There are different kinds of flesh and different heavenly and earthly bodies. \"It is sown in corruption; it is raised in incorruption. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body.\" The first man Adam became a living soul; the last Adam became a life-giving spirit. Flesh and blood cannot inherit God's Kingdom. \"Behold, I tell you a mystery: we will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet.\" The dead will be raised incorruptible, and \"death is swallowed up in victory. Death, where is your sting? Hades, where is your victory?\" \"Thanks be to God, who gives us the victory through our Lord Jesus Christ.\" Therefore be steadfast, immovable, always abounding in the Lord's work, since your labor is not in vain.",
+  "whySettingMatters": "Greek thought about death often held that the soul escaped the body at death and that the body was something to be left behind; many in Corinth may have found a bodily resurrection strange or unwelcome (as Athenians did in Acts 17:32). Paul does not argue that resurrection is possible by general reasoning; he starts from what Christ's resurrection means. His list of appearances in 15:3-8 is among the earliest Christian statements we have, written within about twenty-five years of the crucifixion and drawing on a tradition he \"received.\" Some in Corinth did not deny life after death altogether, but denied a future bodily resurrection; the text does not say exactly what they believed. The sentence about being \"baptized for the dead\" (15:29) is one of the most puzzling in the New Testament, and interpreters have offered many explanations (vicarious baptism for those who died, baptism in view of the resurrection, and others); Paul mentions it only in passing as an argument from the Corinthians' own practice, without endorsing it. The \"spiritual body\" does not mean an immaterial one, since the word \"spiritual\" describes the source and power of the body (the Spirit), not what it is made of. Paul presents the resurrection as the answer to death, and the basis for everything else in the letter.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Last of those to whom the risen Christ appeared."
+    },
+    {
+      "id": "jesus",
+      "note": "Died, was buried, was raised, and appeared to many."
+    },
+    {
+      "id": "cephas",
+      "note": "First of the list of those to whom Christ appeared."
+    },
+    {
+      "id": "james-the-lords-brother",
+      "note": "Appeared to him; later a leader in Jerusalem."
+    },
+    {
+      "id": "adam",
+      "note": "The first man, who brought death; Christ is the last Adam."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Some of whom doubted the resurrection."
+    }
+  ],
+  "questions": [
+    "Paul says that if Christ is not raised, faith is in vain. Why does he tie everything to the resurrection?",
+    "He lists eyewitnesses, including \"most of whom are still alive.\" What is he doing by naming so many?",
+    "What does the seed picture teach about continuity and change in the resurrection body?",
+    "\"Your labor is not in vain.\" How does that conclusion connect the resurrection to everyday work?"
+  ],
+  "words": [
+    {
+      "id": "euangelion",
+      "note": "\"The Good News which I preached to you\" (15:1)."
+    },
+    {
+      "id": "paralambano",
+      "note": "\"Which you also received\" and \"what I also received\" (15:1, 15:3)."
+    },
+    {
+      "id": "anastasis",
+      "note": "\"How do some among you say that there is no resurrection of the dead?\" (15:12-13, 15:21, 15:42)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"Christ has been raised from the dead\" (15:4, 15:12-20, 15:42-52)."
+    },
+    {
+      "id": "nekros",
+      "note": "\"The resurrection of the dead\" (15:12-52)."
+    },
+    {
+      "id": "koimao",
+      "note": "\"Those who are asleep\" (15:6, 15:18, 15:20, 15:51)."
+    },
+    {
+      "id": "aparche",
+      "note": "\"The firstfruits of those who are asleep\" (15:20, 15:23)."
+    },
+    {
+      "id": "katargeo",
+      "note": "\"The last enemy that will be abolished is death\" (15:24-26)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Christ died for our sins\" and \"the power of sin is the law\" (15:3, 15:17, 15:56)."
+    },
+    {
+      "id": "soma",
+      "note": "\"With what kind of body do they come?\" (15:35-44)."
+    },
+    {
+      "id": "psychikos",
+      "note": "\"It is sown a natural body\" (15:44-46)."
+    },
+    {
+      "id": "pneumatikos",
+      "note": "\"It is raised a spiritual body\" (15:44-46)."
+    },
+    {
+      "id": "phthora",
+      "note": "\"Sown in perishability\" (15:42, 15:50)."
+    },
+    {
+      "id": "aphtharsia",
+      "note": "\"Raised in imperishability\" (15:42, 15:50, 15:53-54)."
+    },
+    {
+      "id": "athanasia",
+      "note": "\"This mortal must put on immortality\" (15:53-54)."
+    },
+    {
+      "id": "atomos",
+      "note": "\"In a moment\" (15:52)."
+    },
+    {
+      "id": "salpigx",
+      "note": "\"At the last trumpet\" (15:52)."
+    },
+    {
+      "id": "nikos",
+      "note": "\"Death is swallowed up in victory\" (15:54-55)."
+    },
+    {
+      "id": "kentron",
+      "note": "\"Death, where is your sting?\" (15:55)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"Behold, I tell you a mystery\" (15:51)."
+    },
+    {
+      "id": "charis",
+      "note": "\"By the grace of God I am what I am\" (15:10)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"Flesh and blood can't inherit the Kingdom of God\" (15:24, 15:50)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 25:8",
+      "note": "he will swallow up death forever"
+    },
+    {
+      "ref": "Hosea 13:14",
+      "note": "O death, where are your plagues?"
+    },
+    {
+      "ref": "Romans 5:12-21",
+      "note": "as in Adam all die, so in Christ all are made alive"
+    },
+    {
+      "ref": "1 Thessalonians 4:13-18",
+      "note": "the dead in Christ will rise first"
+    }
+  ],
+  "number": 15,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1087,7 +1087,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "1 Peter 4:8",
+          "inDataset": true,
+          "votes": 192
+        },
+        {
+          "ref": "Colossians 3:14",
+          "inDataset": true,
+          "votes": 98
+        },
+        {
+          "ref": "Galatians 5:22",
+          "inDataset": true,
+          "votes": 133
+        },
+        {
+          "ref": "1 John 4:7-12",
+          "inDataset": true,
+          "votes": 119
+        }
+      ]
     },
     {
       "number": 14,
@@ -1152,7 +1173,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 28:11-12",
+          "inDataset": true,
+          "votes": 42
+        },
+        {
+          "ref": "Acts 2:4-11",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Romans 14:19",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "1 Thessalonians 5:19-21",
+          "inDataset": true,
+          "votes": 19
+        }
+      ]
     },
     {
       "number": 15,
@@ -1214,7 +1256,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 25:8",
+          "inDataset": true,
+          "votes": 40
+        },
+        {
+          "ref": "Hosea 13:14",
+          "inDataset": true,
+          "votes": 35
+        },
+        {
+          "ref": "Romans 5:12-21",
+          "inDataset": true,
+          "votes": 74
+        },
+        {
+          "ref": "1 Thessalonians 4:13-18",
+          "inDataset": true,
+          "votes": 81
+        }
+      ]
     },
     {
       "number": 16,
@@ -1276,7 +1339,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Romans 15:25-27",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "2 Corinthians 8:1-15",
+          "inDataset": true,
+          "votes": 25
+        },
+        {
+          "ref": "Acts 19:1-10",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Acts 18:18-19",
+          "inDataset": true,
+          "votes": 4
+        }
+      ]
     }
   ]
 }

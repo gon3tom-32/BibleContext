@@ -88,5 +88,40 @@
     "id": "moses",
     "name": "Moses",
     "note": "The prophet into whom Israel was \"baptized\" in the cloud and sea."
+  },
+  {
+    "id": "james-the-lords-brother",
+    "name": "James, the Lord's brother",
+    "note": "Appeared to by the risen Christ (15:7); later a leader in Jerusalem."
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "note": "The first man; Paul contrasts him with Christ, the last Adam."
+  },
+  {
+    "id": "the-outsider-in-corinth",
+    "name": "The outsider",
+    "note": "The unbeliever or uninstructed person who might come into the assembly."
+  },
+  {
+    "id": "fortunatus",
+    "name": "Fortunatus",
+    "note": "Came to Paul with Stephanas, probably bringing the Corinthians' letter."
+  },
+  {
+    "id": "achaicus",
+    "name": "Achaicus",
+    "note": "Came with Stephanas and Fortunatus."
+  },
+  {
+    "id": "prisca-and-aquila",
+    "name": "Prisca and Aquila",
+    "note": "A married couple who worked with Paul; they hosted a church in their house in Ephesus."
+  },
+  {
+    "id": "the-poor-in-jerusalem",
+    "name": "The poor in Jerusalem",
+    "note": "Believers who received the collection."
   }
 ]

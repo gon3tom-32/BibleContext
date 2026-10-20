@@ -5,5 +5,641 @@
   ],
   "_license": "CC BY-SA 4.0. Derived from Theographic Bible Metadata; share-alike applies to this file.",
   "license": "CC BY-SA 4.0",
-  "people": []
+  "people": [
+    {
+      "id": "paul",
+      "name": "Paul",
+      "alsoCalled": "Saul,Mercurius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1,
+        3,
+        16
+      ],
+      "verses": [
+        "1 Corinthians 1:1",
+        "1 Corinthians 1:12",
+        "1 Corinthians 1:13",
+        "1 Corinthians 3:4",
+        "1 Corinthians 3:5",
+        "1 Corinthians 3:22",
+        "1 Corinthians 16:21"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "paul_2479",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus",
+      "displayTitle": "Jesus Christ",
+      "alsoCalled": "Lord,Son,Lamb,Saviour,God,Holy,Word,JESUS,prophet,master,Light,Prince,Master,Branch,Immanuel,root,Judge,Emmanuel,Sun,King,BRANCH,Messiah,LORD,Wonderful,Counsellor,Prophet,Sceptre,Star,Shiloh",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Joseph"
+        },
+        "mother": {
+          "name": "Mary"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "James",
+            "id": "james-the-lords-brother"
+          },
+          {
+            "name": "Joses"
+          },
+          {
+            "name": "Jude"
+          },
+          {
+            "name": "Simon"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16
+      ],
+      "verses": [
+        "1 Corinthians 1:1",
+        "1 Corinthians 1:10",
+        "1 Corinthians 1:12",
+        "1 Corinthians 1:13",
+        "1 Corinthians 1:17",
+        "1 Corinthians 1:2",
+        "1 Corinthians 1:23",
+        "1 Corinthians 1:24",
+        "1 Corinthians 1:3",
+        "1 Corinthians 1:30",
+        "1 Corinthians 1:31",
+        "1 Corinthians 1:4",
+        "1 Corinthians 1:6",
+        "1 Corinthians 1:7",
+        "1 Corinthians 1:8",
+        "1 Corinthians 1:9",
+        "1 Corinthians 10:16",
+        "1 Corinthians 10:21",
+        "1 Corinthians 10:22",
+        "1 Corinthians 10:4",
+        "1 Corinthians 10:9",
+        "1 Corinthians 11:1",
+        "1 Corinthians 11:11",
+        "1 Corinthians 11:23",
+        "1 Corinthians 11:27",
+        "1 Corinthians 11:3",
+        "1 Corinthians 11:32",
+        "1 Corinthians 12:12",
+        "1 Corinthians 12:27",
+        "1 Corinthians 12:3",
+        "1 Corinthians 12:5",
+        "1 Corinthians 14:21",
+        "1 Corinthians 14:37",
+        "1 Corinthians 15:12",
+        "1 Corinthians 15:13",
+        "1 Corinthians 15:14",
+        "1 Corinthians 15:15",
+        "1 Corinthians 15:16",
+        "1 Corinthians 15:17",
+        "1 Corinthians 15:18",
+        "1 Corinthians 15:19",
+        "1 Corinthians 15:20",
+        "1 Corinthians 15:22",
+        "1 Corinthians 15:23",
+        "1 Corinthians 15:28",
+        "1 Corinthians 15:3",
+        "1 Corinthians 15:31",
+        "1 Corinthians 15:47",
+        "1 Corinthians 15:57",
+        "1 Corinthians 15:58",
+        "1 Corinthians 16:10",
+        "1 Corinthians 16:19",
+        "1 Corinthians 16:2",
+        "1 Corinthians 16:22",
+        "1 Corinthians 16:23",
+        "1 Corinthians 16:24",
+        "1 Corinthians 16:7",
+        "1 Corinthians 2:16",
+        "1 Corinthians 2:2",
+        "1 Corinthians 2:8",
+        "1 Corinthians 3:1",
+        "1 Corinthians 3:11",
+        "1 Corinthians 3:20",
+        "1 Corinthians 3:23",
+        "1 Corinthians 3:5",
+        "1 Corinthians 4:1",
+        "1 Corinthians 4:10",
+        "1 Corinthians 4:15",
+        "1 Corinthians 4:17",
+        "1 Corinthians 4:19",
+        "1 Corinthians 4:4",
+        "1 Corinthians 4:5",
+        "1 Corinthians 5:4",
+        "1 Corinthians 5:5",
+        "1 Corinthians 5:7",
+        "1 Corinthians 6:11",
+        "1 Corinthians 6:13",
+        "1 Corinthians 6:14",
+        "1 Corinthians 6:15",
+        "1 Corinthians 6:17",
+        "1 Corinthians 7:10",
+        "1 Corinthians 7:12",
+        "1 Corinthians 7:17",
+        "1 Corinthians 7:22",
+        "1 Corinthians 7:25",
+        "1 Corinthians 7:32",
+        "1 Corinthians 7:34",
+        "1 Corinthians 7:35",
+        "1 Corinthians 7:39",
+        "1 Corinthians 8:11",
+        "1 Corinthians 8:12",
+        "1 Corinthians 8:6",
+        "1 Corinthians 9:1",
+        "1 Corinthians 9:12",
+        "1 Corinthians 9:14",
+        "1 Corinthians 9:18",
+        "1 Corinthians 9:2",
+        "1 Corinthians 9:21",
+        "1 Corinthians 9:5"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "jesus_905",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "apollos",
+      "name": "Apollos",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1,
+        3,
+        4,
+        16
+      ],
+      "verses": [
+        "1 Corinthians 1:12",
+        "1 Corinthians 3:4",
+        "1 Corinthians 3:5",
+        "1 Corinthians 3:6",
+        "1 Corinthians 3:22",
+        "1 Corinthians 4:6",
+        "1 Corinthians 16:12"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "apollos_276",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "cephas",
+      "name": "Simon",
+      "displayTitle": "Simon Peter",
+      "alsoCalled": "Cephas,Simeon",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Jonas"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Andrew"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        3,
+        9,
+        15
+      ],
+      "verses": [
+        "1 Corinthians 1:12",
+        "1 Corinthians 3:22",
+        "1 Corinthians 9:5",
+        "1 Corinthians 15:5"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "peter_2745",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "crispus",
+      "name": "Crispus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1
+      ],
+      "verses": [
+        "1 Corinthians 1:14"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "crispus_961",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "gaius",
+      "name": "Gaius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1
+      ],
+      "verses": [
+        "1 Corinthians 1:14"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "gaius_1271",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "timothy",
+      "name": "Timotheus",
+      "alsoCalled": "Timothy",
+      "gender": "Male",
+      "family": {
+        "mother": {
+          "name": "Eunice"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        4,
+        16
+      ],
+      "verses": [
+        "1 Corinthians 4:17",
+        "1 Corinthians 16:10"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "timotheus_2863",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "stephanas",
+      "name": "Stephanas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1,
+        16
+      ],
+      "verses": [
+        "1 Corinthians 1:16",
+        "1 Corinthians 16:15",
+        "1 Corinthians 16:17"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "stephanas_2801",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "sosthenes",
+      "name": "Sosthenes",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        1
+      ],
+      "verses": [
+        "1 Corinthians 1:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "sosthenes_2772",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "barnabas",
+      "name": "Barnabas",
+      "alsoCalled": "Jupiter,Joses",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Mary"
+          }
+        ]
+      },
+      "chapters": [
+        9
+      ],
+      "verses": [
+        "1 Corinthians 9:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barnabas_1722",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Amram"
+        },
+        "mother": {
+          "name": "Jochebed"
+        },
+        "spouses": [
+          {
+            "name": "Zipporah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Gershom"
+          },
+          {
+            "name": "Eliezer"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Aaron"
+          },
+          {
+            "name": "Miriam"
+          }
+        ]
+      },
+      "chapters": [
+        9,
+        10
+      ],
+      "verses": [
+        "1 Corinthians 9:9",
+        "1 Corinthians 10:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "moses_2108",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "God"
+        },
+        "spouses": [
+          {
+            "name": "Eve"
+          }
+        ],
+        "children": [
+          {
+            "name": "Seth"
+          },
+          {
+            "name": "Abel"
+          },
+          {
+            "name": "Cain"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "1 Corinthians 15:22",
+        "1 Corinthians 15:45"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "adam_78",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "fortunatus",
+      "name": "Fortunatus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "1 Corinthians 16:17"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "fortunatus_1258",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "achaicus",
+      "name": "Achaicus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "1 Corinthians 16:17"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "achaicus_60",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "james-the-lords-brother",
+      "name": "James",
+      "displayTitle": "James (Brother of Jesus)",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Joseph"
+        },
+        "mother": {
+          "name": "Mary"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Jesus",
+            "id": "jesus"
+          },
+          {
+            "name": "Joses"
+          },
+          {
+            "name": "Jude"
+          },
+          {
+            "name": "Simon"
+          }
+        ]
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "1 Corinthians 15:7"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "james_719",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "prisca-and-aquila",
+      "name": "Priscilla",
+      "alsoCalled": "Prisca",
+      "gender": "Female",
+      "family": {
+        "spouses": [
+          {
+            "name": "Aquila"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "1 Corinthians 16:19"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "priscilla_2370",
+        "recordStatus": "publish"
+      }
+    }
+  ]
 }

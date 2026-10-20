@@ -61,7 +61,11 @@
         "order": 1,
         "at": "corinth",
         "label": "Corinth",
-        "labelSide": "left"
+        "labelSide": "left",
+        "offset": [
+          -2,
+          8
+        ]
       },
       {
         "order": 2,
@@ -73,7 +77,7 @@
         "order": 3,
         "at": "macedonia",
         "label": "Macedonia",
-        "labelSide": "left"
+        "labelSide": "right"
       },
       {
         "order": 4,
