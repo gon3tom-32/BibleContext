@@ -1,0 +1,98 @@
+{
+  "number": 26,
+  "sceneHappening": "Passover in Jerusalem: the last supper, Gethsemane, the arrest, and the trial before Caiaphas",
+  "summary": "Jesus tells the disciples that Passover is two days away and the Son of Man will be handed over to be crucified. The chief priests and elders meet at the high priest Caiaphas's palace to plot an arrest, but not during the feast. At Bethany, in Simon the leper's house, a woman pours costly ointment on Jesus' head. The disciples call it waste; Jesus calls it a beautiful thing, done to prepare him for burial, and says it will be remembered wherever the gospel is told. Judas goes to the chief priests and agrees to betray Jesus for thirty pieces of silver. At the Passover meal Jesus says one of the twelve will betray him, and Judas asks, \"Is it me, Rabbi?\" \"You said it.\" He gives them bread (\"Take, eat; this is my body\") and a cup (\"this is my blood of the covenant, which is poured out for many for the forgiveness of sins\"), and says he won't drink again until he drinks it new in his Father's kingdom. On the Mount of Olives he tells them they will all fall away, as Zechariah foretold, and Peter swears he never will; Jesus says Peter will deny him three times before the rooster crows. In Gethsemane, grieved to the point of death, Jesus asks the three closest disciples to watch with him, and prays three times, \"if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire.\" Each time they are asleep. Judas arrives with an armed crowd and betrays him with a kiss. When one of the disciples cuts off a servant's ear, Jesus tells him to put the sword away: he could call on twelve legions of angels, but then how would the Scriptures be fulfilled? All the disciples flee. Before Caiaphas and the council, two witnesses claim Jesus said he could destroy the temple and rebuild it in three days. Asked whether he is the Christ, the Son of God, Jesus answers, \"You have said so. Nevertheless, I tell you, after this you will see the Son of Man sitting at the right hand of Power, and coming on the clouds of heaven.\" The high priest tears his clothes and calls it blasphemy; the council says he deserves death, and some spit on him and strike him. In the courtyard Peter denies him three times, the last time cursing, and when the rooster crows he remembers Jesus' words and weeps bitterly.",
+  "whySettingMatters": "Passover recalled the exodus from Egypt and filled Jerusalem with pilgrims; the lamb was killed in the temple on the afternoon before the meal, and the festival ran straight into the week of Unleavened Bread. Caiaphas was high priest from about AD 18 to 36, appointed under Roman rule. Thirty pieces of silver is the price set for a slave killed by an ox in Exodus 21:32. In the meal, \"covenant\" recalls Moses sealing the covenant with blood at Sinai (Exodus 24:8), and \"poured out for many\" may echo Isaiah 53:12; the \"new covenant\" of Jeremiah 31:31 is the background Luke makes explicit. Gethsemane means \"oil press\" and was a grove on the Mount of Olives. The \"cup\" recalls the biblical image of God's judgment (Isaiah 51:22). A Roman legion was about six thousand soldiers, so \"twelve legions\" is a picture of overwhelming power. The Sanhedrin was the ruling council of Jerusalem; whether the night proceedings followed the procedures later recorded in rabbinic law is debated, since those rules were written down later. Tearing one's robes was the standard response to hearing blasphemy. \"Son of God\" in the high priest's question is a royal, messianic title. Peter's Galilean accent was recognizable in Jerusalem.",
+  "people": [
+    {
+      "id": "caiaphas",
+      "note": "The high priest, in whose house the council gathers and Jesus is tried."
+    },
+    {
+      "id": "chief-priests",
+      "note": "Plot the arrest and send the armed crowd."
+    },
+    {
+      "id": "the-woman-at-bethany",
+      "note": "Anoints Jesus before the Passion; unnamed in Matthew."
+    },
+    {
+      "id": "simon-the-leper",
+      "note": "The host in Bethany."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Bargains for thirty pieces of silver and betrays Jesus with a kiss."
+    },
+    {
+      "id": "peter",
+      "note": "Swears he will never fall away, and denies Jesus three times."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Sleep in Gethsemane and flee when Jesus is arrested."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "One of the three taken further into the garden."
+    },
+    {
+      "id": "john-apostle",
+      "note": "One of the three taken further into the garden."
+    }
+  ],
+  "questions": [
+    "A woman anoints Jesus and is rebuked for waste; Jesus calls it beautiful. What does he see that the disciples don't?",
+    "At the Passover table Jesus gives familiar things new meaning: bread, cup, covenant. What might the disciples have heard in \"the blood of the covenant\"?",
+    "Peter insists he will never fall away, and the others say the same. How does the chapter treat their failure?",
+    "In Gethsemane Jesus prays \"not what I desire, but what you desire.\" What is he asking, and what is he accepting?"
+  ],
+  "words": [
+    {
+      "id": "pascha",
+      "note": "\"After two days the Passover\" (26:2), and the supper (26:17-19)."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"My blood of the covenant\" (26:28)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "Handed over, delivered, betrayed (26:2, 26:15-16, 26:21, 26:25, 26:46)."
+    },
+    {
+      "id": "sanhedrion",
+      "note": "The council that seeks testimony against Jesus (26:59)."
+    },
+    {
+      "id": "gregoreo",
+      "note": "\"Stay here and watch with me\" (26:38, 26:40-41)."
+    },
+    {
+      "id": "rabbi",
+      "note": "Judas calls him \"Rabbi\" at the supper and in the garden (26:25, 26:49)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Zechariah 13:7",
+      "note": "strike the shepherd, and the sheep will scatter"
+    },
+    {
+      "ref": "Exodus 24:7-8",
+      "note": "the blood of the covenant"
+    },
+    {
+      "ref": "Zechariah 11:12-13",
+      "note": "thirty pieces of silver"
+    },
+    {
+      "ref": "Daniel 7:13",
+      "note": "one like a son of man coming with the clouds"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

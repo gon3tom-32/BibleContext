@@ -1632,6 +1632,201 @@
         "item": "abel_13",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "caiaphas",
+      "name": "Caiaphas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        26
+      ],
+      "verses": [
+        "Matthew 26:3",
+        "Matthew 26:57"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "caiaphas_532",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "simon-the-leper",
+      "name": "Simon",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        26
+      ],
+      "verses": [
+        "Matthew 26:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simon_2748",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "pilate",
+      "name": "Pontius",
+      "displayTitle": "Pontius Pilate",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:2",
+        "Matthew 27:13",
+        "Matthew 27:17",
+        "Matthew 27:22",
+        "Matthew 27:24",
+        "Matthew 27:58",
+        "Matthew 27:62",
+        "Matthew 27:65"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "pilate_2365",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:16",
+        "Matthew 27:17",
+        "Matthew 27:20",
+        "Matthew 27:21",
+        "Matthew 27:26"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barabbas_399",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "simon-of-cyrene",
+      "name": "Simon",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [
+          {
+            "name": "Rufus"
+          },
+          {
+            "name": "Alexander"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:32"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simon_2749",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "mary-magdalene",
+      "name": "Mary",
+      "displayTitle": "Mary Magdalene",
+      "alsoCalled": "Magdalene",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27,
+        28
+      ],
+      "verses": [
+        "Matthew 27:56",
+        "Matthew 27:61",
+        "Matthew 28:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1943",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "name": "Joseph",
+      "displayTitle": "Joseph (of Arimathea)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:57",
+        "Matthew 27:59"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "joseph_1716",
+        "recordStatus": "wip"
+      }
     }
   ]
 }

@@ -2083,7 +2083,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Proverbs 19:17",
+          "inDataset": true,
+          "votes": 60
+        },
+        {
+          "ref": "Deuteronomy 15:7-11",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Isaiah 54:5",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Daniel 12:2",
+          "inDataset": true,
+          "votes": 17
+        }
+      ]
     },
     {
       "number": 26,
@@ -2150,7 +2171,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Zechariah 13:7",
+          "inDataset": true,
+          "votes": 82
+        },
+        {
+          "ref": "Exodus 24:7-8",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Zechariah 11:12-13",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Daniel 7:13",
+          "inDataset": true,
+          "votes": 25
+        }
+      ]
     },
     {
       "number": 27,
@@ -2213,7 +2255,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 22:1",
+          "inDataset": true,
+          "votes": 64
+        },
+        {
+          "ref": "Psalm 22:18",
+          "inDataset": true,
+          "votes": 26
+        },
+        {
+          "ref": "Zechariah 11:12-13",
+          "inDataset": true,
+          "votes": 45
+        },
+        {
+          "ref": "Amos 8:9",
+          "inDataset": true,
+          "votes": 13
+        }
+      ]
     },
     {
       "number": 28,

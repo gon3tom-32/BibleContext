@@ -27,7 +27,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 25 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapter 28 has text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -48,6 +48,10 @@
     {
       "area": "people",
       "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for Pilate's wife, the woman at Bethany, the Roman soldiers, or the centurion at the cross; they're unnamed in Matthew and hand-written. Mary the mother of James and Joses is also hand-written, since the data merges her with another Mary."
     }
   ]
 }

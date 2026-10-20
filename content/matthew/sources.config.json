@@ -132,6 +132,14 @@
     {
       "id": "zion",
       "ancientId": "af20c46"
+    },
+    {
+      "id": "akeldama",
+      "ancientId": "a040ba5"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
     }
   ],
   "people": [
@@ -254,6 +262,34 @@
     {
       "id": "abel",
       "theographic": "abel_13"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "simon-the-leper",
+      "theographic": "simon_2748"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "simon-of-cyrene",
+      "theographic": "simon_2749"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
     }
   ],
   "words": [
@@ -630,6 +666,69 @@
         "G1127"
       ],
       "foundAt": "Matthew 24:42"
+    },
+    {
+      "id": "elachistos",
+      "strongs": [
+        "G1646"
+      ],
+      "foundAt": "Matthew 25:40"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "Matthew 25:46"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Matthew 26:2"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Matthew 26:28"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Matthew 26:2"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Matthew 26:59"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Matthew 27:22"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Matthew 27:51"
+    },
+    {
+      "id": "koustodia",
+      "strongs": [
+        "G2892"
+      ],
+      "foundAt": "Matthew 27:65"
     }
   ],
   "crossRefs": {
@@ -647,7 +746,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 25 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapter 28 has text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -668,6 +767,10 @@
     {
       "area": "people",
       "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for Pilate's wife, the woman at Bethany, the Roman soldiers, or the centurion at the cross; they're unnamed in Matthew and hand-written. Mary the mother of James and Joses is also hand-written, since the data merges her with another Mary."
     }
   ]
 }

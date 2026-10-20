@@ -1,0 +1,70 @@
+{
+  "number": 25,
+  "sceneHappening": "On the Mount of Olives: three stories about being ready and being faithful",
+  "summary": "Jesus tells three stories. In the first, ten bridesmaids take their lamps to meet the bridegroom: five are wise and bring extra oil, and five are foolish and don't. The bridegroom is delayed and all fall asleep; at midnight there is a shout, and the foolish ask the wise for oil. They answer no, there isn't enough, go buy some. While the foolish are away the bridegroom comes, the wise go in with him to the wedding feast, and the door is shut. The others come back and call, \"Lord, Lord, open to us,\" and he says, \"I don't know you.\" \"Watch therefore, for you don't know the day nor the hour.\" In the second, a man going on a journey entrusts his property to three servants: five talents, two, and one, \"to each according to his own ability.\" The first two put the money to work and double it, and when the master returns, he says to each, \"Well done, good and faithful servant. You were faithful over a few things; I will set you over many things. Enter into the joy of your lord.\" The servant with one talent had buried it: \"I knew you to be a hard man... I was afraid, and went away and hid your talent in the earth.\" The master calls him wicked and lazy, says he should at least have put the money with the bankers to earn interest, takes the talent and gives it to the one with ten. \"For to everyone who has will be given, and he will have abundance, but from him who doesn't have, even that which he has will be taken away.\" The useless servant is thrown into the outer darkness. In the third, the Son of Man comes in his glory with all his angels and sits on his glorious throne, and all the nations are gathered before him. He separates them as a shepherd separates sheep from goats. To those on his right he says, \"Come, blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.\" He was hungry and they fed him, thirsty and they gave him a drink, a stranger and they took him in, naked and they clothed him, sick and they visited him, in prison and they came to him. \"Lord, when did we see you hungry... ?\" \"Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers, you did it to me.\" To those on his left he says the opposite: \"Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels,\" because they did none of these things, and \"inasmuch as you didn't do it to one of the least of these, you didn't do it to me.\" These will go away into eternal punishment, but the righteous into eternal life.",
+  "whySettingMatters": "Weddings began in the evening with a procession, and lamps or torches were needed for the night walk; delays were normal, and the exact customs in the story aren't fully known. A talent was worth about 6,000 denarii, roughly sixteen to twenty years of a laborer's wages, so even the servant given one was handed a fortune. Burying money was commonly thought the safest way to keep it, which is why the master's anger at him is surprising. In Palestine sheep and goats often grazed in mixed flocks and were sorted in the evening, since goats needed more warmth. Who \"the nations\" are (all people) and who \"the least of these my brothers\" are is debated: any person in need, or Jesus' followers and messengers, as in 10:40-42. The word \"eternal\" (aionios) also means \"of the age to come,\" and how to understand the length and nature of the punishment has been debated through church history.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches on the Mount of Olives, ending with a picture of the Son of Man as judge."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Hear all three stories privately, as the last teaching before the Passion."
+    }
+  ],
+  "questions": [
+    "In the bridesmaids story the wise can't share their oil. What is the story pointing at, and what does it say about being ready?",
+    "The third servant buries his talent because he is afraid of his master. What picture of the master has he settled on, and what does the story say about it?",
+    "At the judgment neither group knew they were serving or ignoring Jesus: \"When did we see you?\" Why might that matter?",
+    "Who are \"the least of these my brothers\": any needy person, or Jesus' followers? What changes depending on your answer?"
+  ],
+  "words": [
+    {
+      "id": "gregoreo",
+      "note": "\"Watch therefore\" (25:13)."
+    },
+    {
+      "id": "talanton",
+      "note": "Five talents, two talents, one talent (25:15-28)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"Well done, good and faithful servant\" (25:21, 25:23)."
+    },
+    {
+      "id": "elachistos",
+      "note": "\"One of the least of these my brothers\" (25:40, 25:45)."
+    },
+    {
+      "id": "aionios",
+      "note": "Eternal fire and eternal life (25:41, 25:46)."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"All the nations will be gathered before him\" (25:32)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 19:17",
+      "note": "whoever is kind to the poor lends to the Lord"
+    },
+    {
+      "ref": "Deuteronomy 15:7-11",
+      "note": "open your hand to the poor"
+    },
+    {
+      "ref": "Isaiah 54:5",
+      "note": "your maker is your husband"
+    },
+    {
+      "ref": "Daniel 12:2",
+      "note": "some to everlasting life, some to everlasting contempt"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

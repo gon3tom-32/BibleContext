@@ -2411,5 +2411,398 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "elachistos",
+    "transliteration": "elachistos",
+    "original": "ἐλάχιστος",
+    "pronunciation": "eh-LAH-khis-tos",
+    "gloss": "least, smallest",
+    "notes": "The superlative of \"small\": the smallest or least important. In the judgment scene it describes those Jesus identifies with, \"the least of these my brothers.\" Who exactly they are, any person in need or Jesus' followers, is debated.",
+    "uncertain": "Whether \"the least of these my brothers\" means any person in need or Jesus' followers in particular is debated.",
+    "range": [
+      {
+        "sense": "Smallest",
+        "note": "Least in size or amount."
+      },
+      {
+        "sense": "Least important",
+        "note": "Lowest in rank or status."
+      }
+    ],
+    "translations": [
+      "least",
+      "smallest",
+      "very small"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:19",
+        "note": "\"Least in the kingdom of heaven.\""
+      },
+      {
+        "ref": "Luke 16:10",
+        "note": "Faithful in very little."
+      },
+      {
+        "ref": "1 Corinthians 15:9",
+        "note": "Paul, the least of the apostles."
+      },
+      {
+        "ref": "James 3:4",
+        "note": "A very small rudder steers a ship."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aionios",
+    "transliteration": "aiōnios",
+    "original": "αἰώνιος",
+    "pronunciation": "eye-OH-nee-os",
+    "gloss": "eternal, of the age to come",
+    "notes": "From aion, \"age.\" It describes what belongs to the coming age, and so what is lasting or without end. In the New Testament it usually modifies life (\"eternal life\") but here also fire and punishment. It can mean both \"of the age to come\" and \"endless.\"",
+    "uncertain": "How to understand \"eternal punishment\" (25:46), as endless or as belonging to the age to come, has been debated across church history.",
+    "range": [
+      {
+        "sense": "Of the age to come",
+        "note": "Belonging to God's future age."
+      },
+      {
+        "sense": "Without end",
+        "note": "Lasting forever."
+      }
+    ],
+    "translations": [
+      "eternal",
+      "everlasting",
+      "of the age to come"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:16",
+        "note": "\"What good thing shall I do that I may have eternal life?\""
+      },
+      {
+        "ref": "John 3:16",
+        "note": "\"Should not perish, but have eternal life.\""
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The free gift is eternal life."
+      },
+      {
+        "ref": "2 Corinthians 4:18",
+        "note": "What is unseen is eternal."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "The Greek form of the Aramaic and Hebrew pesach, the Passover: the spring festival recalling Israel's exodus from Egypt, and the lamb sacrificed for it. The same word names the festival, the meal, and the lamb. Paul calls Christ \"our Passover lamb\" (1 Corinthians 5:7).",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:15",
+        "note": "\"I have earnestly desired to eat this Passover with you.\""
+      },
+      {
+        "ref": "John 19:14",
+        "note": "The preparation day of the Passover."
+      },
+      {
+        "ref": "1 Corinthians 5:7",
+        "note": "\"Christ, our Passover lamb, has been sacrificed.\""
+      },
+      {
+        "ref": "Hebrews 11:28",
+        "note": "Moses kept the Passover."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "In everyday Greek it meant a will or testament; in the Greek Old Testament it translates the Hebrew berit, a covenant, a binding agreement between God and his people. English \"testament\" in \"New Testament\" comes from it. At the supper Jesus' words call to mind Sinai (Exodus 24) and Jeremiah's promised new covenant (Jeremiah 31).",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:20",
+        "note": "\"This cup is the new covenant in my blood.\""
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "The same words in Paul."
+      },
+      {
+        "ref": "2 Corinthians 3:6",
+        "note": "Ministers of a new covenant."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "Jeremiah's new covenant quoted."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradidomi",
+    "transliteration": "paradidōmi",
+    "original": "παραδίδωμι",
+    "pronunciation": "pah-rah-DEE-doh-mee",
+    "gloss": "to hand over, betray",
+    "notes": "Literally \"to give over\": to hand someone over to another's power. It's the word for Judas's betrayal, but also for the leaders handing Jesus to Pilate, Pilate handing him to be crucified, and, in Paul's letters, God giving up his Son. English has to choose \"betray,\" \"hand over,\" or \"deliver\" depending on who is acting; the Greek uses one word throughout.",
+    "range": [
+      {
+        "sense": "Hand over",
+        "note": "Give someone into another's custody."
+      },
+      {
+        "sense": "Betray",
+        "note": "Hand over by treachery."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Pass something on, as a teaching."
+      }
+    ],
+    "translations": [
+      "betray",
+      "hand over",
+      "deliver",
+      "give over"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:4",
+        "note": "Judas, \"who also betrayed him.\""
+      },
+      {
+        "ref": "Mark 1:14",
+        "note": "John was \"arrested.\""
+      },
+      {
+        "ref": "Romans 8:32",
+        "note": "God \"gave him up for us all.\""
+      },
+      {
+        "ref": "Galatians 2:20",
+        "note": "\"Gave himself up for me.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "Literally \"sitting together\": a council. The Sanhedrin was Jerusalem's supreme Jewish council, made up of chief priests, elders, and scribes, with the high priest presiding. Under Roman rule it had authority over many internal Jewish matters. The word can also mean a local court.",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "\"Liable to the council.\""
+      },
+      {
+        "ref": "John 11:47",
+        "note": "The council gathers about Jesus."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles before the council."
+      },
+      {
+        "ref": "Acts 23:6",
+        "note": "Paul before the council."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "From stauros (\"cross\"): to fasten to a cross, Rome's execution for slaves and rebels. The verb is in the passive in Matthew's trial scene, where the crowd shouts \"Let him be crucified!\" The cross later became the central image of the Christian message (1 Corinthians 1:23).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 15:13",
+        "note": "\"Crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "\"This Jesus whom you crucified.\""
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "\"We preach Christ crucified.\""
+      },
+      {
+        "ref": "Galatians 3:1",
+        "note": "Christ \"was portrayed as crucified.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katapetasma",
+    "transliteration": "katapetasma",
+    "original": "καταπέτασμα",
+    "pronunciation": "kah-tah-PEH-tahs-mah",
+    "gloss": "curtain, veil",
+    "notes": "A curtain or veil, used in the Greek Old Testament for the curtains of the tabernacle and temple. Which curtain is torn in 27:51 isn't stated. The inner curtain screened the Holy of Holies, and Hebrews later reads the torn curtain as opening the way into God's presence.",
+    "uncertain": "Whether the inner curtain before the Holy of Holies or the outer curtain is meant is debated; Matthew doesn't say.",
+    "range": [
+      {
+        "sense": "Veil",
+        "note": "A hanging curtain."
+      },
+      {
+        "sense": "Temple curtain",
+        "note": "The curtain in the tabernacle or temple."
+      }
+    ],
+    "translations": [
+      "veil",
+      "curtain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 15:38",
+        "note": "The same event in Mark."
+      },
+      {
+        "ref": "Luke 23:45",
+        "note": "The same event in Luke."
+      },
+      {
+        "ref": "Hebrews 6:19",
+        "note": "Hope enters \"behind the veil.\""
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "\"Through the veil, that is, his flesh.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koustodia",
+    "transliteration": "koustōdia",
+    "original": "κουστωδία",
+    "pronunciation": "koos-toh-DEE-ah",
+    "gloss": "guard",
+    "notes": "A Latin loan word (custodia): a guard, a watch. Used only in Matthew, here and in 28:11. Whether Pilate's words in 27:65 mean \"You have a guard\" or \"Take a guard,\" and whether the soldiers were Roman or from the temple, are matters of debate; the Greek verb can be read either way.",
+    "uncertain": "Whether the guard was Roman or from the temple, and whether Pilate says \"you have\" or \"take\" a guard, is debated.",
+    "range": [
+      {
+        "sense": "Guard",
+        "note": "A detachment posted to watch something."
+      }
+    ],
+    "translations": [
+      "guard",
+      "watch",
+      "soldiers"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:11",
+        "note": "Some of the guard report to the chief priests."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

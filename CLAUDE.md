@@ -59,7 +59,7 @@ Navigation: Overview, Context, Chapters, Word studies, Our notes ("Words" on pho
 
 **Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with".
 
-**Books:** Ruth (done). Working through the New Testament one book at a time: Matthew has the overview, context, map, timeline, word studies, and chapters 1–24 written; chapters 25–28 show text and dataset facts until their notes are written (in batches).
+**Books:** Ruth (done). Working through the New Testament one book at a time: Matthew has the overview, context, map, timeline, word studies, and chapters 1–27 written; chapter 28 show text and dataset facts until their notes are written (in batches).
 
 **Later** — relationship web for people, search across notes.
 
