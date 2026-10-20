@@ -1,0 +1,45 @@
+{
+  "slug": "2-thessalonians",
+  "title": "2 Thessalonians",
+  "order": 53,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 3,
+  "tagline": "A follow-up to a church that is suffering and unsettled: God will set things right, so don't be shaken, and keep working.",
+  "author": "Paul (debated)",
+  "authorNote": "The letter names Paul, Silvanus, and Timothy (1:1) and claims Paul's own handwriting (3:17), and the church has long accepted it as Paul's. A number of modern scholars question it, pointing to its similarity to 1 Thessalonians, a somewhat more formal tone, and a different picture of the end; others point out that similar wording is natural when the same author writes soon after, to the same people, about related matters. The letter itself warns about letters falsely said to come from Paul (2:2; 3:17).",
+  "authorDebated": true,
+  "audience": "The church in Thessalonica, still under pressure from outsiders and now unsettled by a rumor",
+  "audienceNote": "Written to the same church as 1 Thessalonians. Persecution had continued (1:4-7), and some had been told that \"the day of the Lord has already come\" (2:2). Some members had also stopped working and become dependent on others (3:6-12).",
+  "setting": "Probably Corinth, a few months after 1 Thessalonians, about AD 51 (if by Paul)",
+  "settingNote": "If Paul wrote it, the letter was sent soon after the first, since the same three men are named and the situation is similar. Corinth is the likely place, based on Acts 18:1-18, but the letter does not say where it was written. If it was written by someone else, the date is uncertain and might be later.",
+  "genre": "Letter",
+  "genreNote": "A short pastoral letter with a firm, corrective tone. It includes thanks and a prayer, an encouragement for the persecuted, a correction about the timing of the Lord's coming (using symbolic, apocalyptic language), and a command about work.",
+  "bigIdea": "God will set things right when Christ returns, giving relief to the afflicted and judgment to those who oppose him; so do not be shaken by claims that the day has come, stand firm in what you were taught, and keep doing good, including honest work.",
+  "themes": [
+    "God's justice and relief for the persecuted",
+    "The day of the Lord and the \"man of lawlessness\"",
+    "Standing firm in what was taught",
+    "Work and idleness",
+    "Prayer and the faithful Lord"
+  ],
+  "mapTitle": "Map: Thessalonica and Corinth",
+  "mapSummary": "The letter is addressed to Thessalonica; Corinth is the likely place from which Paul wrote.",
+  "scene": {
+    "author": "Paul (debated), with Silvanus and Timothy",
+    "audience": "The church in Thessalonica",
+    "happening": "Probably Corinth, about AD 51"
+  },
+  "overviewPeople": [
+    "paul",
+    "silvanus",
+    "timothy",
+    "the-thessalonian-believers",
+    "the-man-of-lawlessness",
+    "the-lord-jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
