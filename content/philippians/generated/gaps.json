@@ -2,10 +2,6 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
-      "area": "words",
-      "text": "\"1 Corinthians 9:25\" (listed under agon): STEPBible doesn't tag G0073 there. It's a related word at most; the note should say so or the reference should go."
-    },
-    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },

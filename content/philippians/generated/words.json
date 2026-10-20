@@ -3791,10 +3791,6 @@
       "corpusCount": 6,
       "elsewhereCheck": [
         {
-          "ref": "1 Corinthians 9:25",
-          "found": false
-        },
-        {
           "ref": "Colossians 2:1",
           "found": true
         },
