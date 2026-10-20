@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Teaching on prayer, accusations of working with Beelzebul, and a dinner with sharp words",
+  "summary": "Jesus is praying in a certain place, and when he finishes, a disciple asks, \"Lord, teach us to pray, just as John also taught his disciples.\" He gives them a prayer: \"Father, may your name be kept holy. May your Kingdom come. Give us day by day our daily bread. Forgive us our sins, for we ourselves also forgive everyone who is indebted to us. Bring us not into temptation.\" He tells of a man who goes to a friend at midnight to ask for three loaves because a friend has arrived, and though the friend won't get up out of friendship, he will because of the man's persistence. \"Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened to you.\" What father, asked for a fish, gives a snake? \"If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?\" He casts out a mute demon, and some say, \"He casts out demons by Beelzebul, the prince of demons,\" while others test him by asking for a sign. He answers that a kingdom divided against itself falls, and \"if I by the finger of God cast out demons, then the Kingdom of God has come to you.\" When a strong man guards his house, his goods are safe until a stronger one overcomes him. \"He who is not with me is against me.\" An unclean spirit that leaves a person finds the house swept and returns with seven others worse than itself. When a woman in the crowd says, \"Blessed is the womb that bore you,\" he says, \"On the contrary, blessed are those who hear the word of God, and keep it.\" He says this generation seeks a sign, but only the sign of Jonah will be given, and the queen of the south and the men of Nineveh will rise up in judgment, because \"someone greater than Jonah is here.\" He says the eye is the lamp of the body, so \"see whether the light that is in you isn't darkness.\" While he speaks, a Pharisee invites him to dinner, and is surprised that he doesn't wash first. Jesus says, \"Now you Pharisees clean the outside of the cup and of the platter, but your inward part is full of extortion and wickedness ... give for gifts to the needy that which is within, and behold, all things will be clean to you.\" He pronounces woes on the Pharisees for tithing mint and rue while neglecting justice and the love of God, loving the best seats, and being like unmarked graves, and on the lawyers for loading people with burdens, building the tombs of prophets their fathers killed, and taking away \"the key of knowledge.\" They begin to press him hard and to lie in wait to catch him in something he might say.",
+  "whySettingMatters": "Luke's Lord's Prayer is shorter than Matthew's, and it follows a disciple's request, which was natural because teachers gave their followers a prayer that marked their group. \"Father\" is probably Jesus' Aramaic word Abba. \"Daily bread\" translates a very rare Greek word, epiousios, whose exact meaning (for today, for the coming day, or necessary) is uncertain, and it appears only in the Lord's Prayer. The friend at midnight is about persistence, but the Greek word often translated \"persistence\" can also mean \"shamelessness.\" Beelzebul was a name for a ruler of demons, from an old Philistine god's name. \"The finger of God\" echoes the Egyptian magicians' admission in Exodus 8:19, so Jesus casts the exorcisms as a new act of rescue. The sign of Jonah, the queen of the south (Sheba), and the men of Nineveh are Gentiles who respond better than Israel. Washing before a meal was a Pharisaic custom of purity that went beyond the written law. Mint and rue were small garden herbs; tithing them showed scrupulous care. Contact with an unmarked grave made a person unclean, so Jesus is saying the Pharisees spread uncleanness without anyone seeing it. \"The key of knowledge\" refers to the lawyers' role as interpreters of Scripture. How the blood of Abel to Zechariah fits the Old Testament order (Genesis 4 to 2 Chronicles 24) is straightforward: from the first murder to the last in the Hebrew Bible.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches his disciples to pray, and confronts the Pharisees and lawyers."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Ask to be taught to pray."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Ask for a sign, and say he casts out demons by Beelzebul."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "A Pharisee host and the lawyers who are given woes."
+    },
+    {
+      "id": "the-lawyers",
+      "note": "Experts in the law who load burdens on others."
+    }
+  ],
+  "questions": [
+    "Jesus teaches a short prayer: Father, name, kingdom, bread, forgiveness, protection. What does it ask for, and what does it leave out?",
+    "\"How much more will your heavenly Father give the Holy Spirit?\" Why does Luke end the teaching on prayer with the Spirit?",
+    "Jesus says the Pharisees are careful about herbs and careless about justice. How do we do the same?",
+    "\"Someone greater than Jonah is here.\" How did people take it, and how do we?"
+  ],
+  "words": [
+    {
+      "id": "hagiazo",
+      "note": "\"May your name be kept holy\" (11:2)."
+    },
+    {
+      "id": "epiousios",
+      "note": "\"Give us day by day our daily bread\" (11:3)."
+    },
+    {
+      "id": "peirasmos",
+      "note": "\"Bring us not into temptation\" (11:4)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Father give the Holy Spirit to those who ask\" (11:13), and the unclean spirit that returns (11:24-26)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"May your Kingdom come\" (11:2), and \"the Kingdom of God has come to you\" (11:20)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Forgive us our sins\" (11:4)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 8:19",
+      "note": "\"This is the finger of God\""
+    },
+    {
+      "ref": "Jonah 3:5",
+      "note": "Nineveh repents"
+    },
+    {
+      "ref": "1 Kings 10:1-10",
+      "note": "the queen of Sheba comes to hear Solomon"
+    },
+    {
+      "ref": "2 Chronicles 24:20-22",
+      "note": "Zechariah killed in the temple court"
+    },
+    {
+      "ref": "Genesis 4:8",
+      "note": "Abel's blood"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

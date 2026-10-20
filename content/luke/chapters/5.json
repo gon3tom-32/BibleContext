@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "A catch of fish on the lake, a leper, a paralyzed man through a roof, and a tax collector's feast",
+  "summary": "Jesus stands on the shore of the Lake of Gennesaret with the crowd pressing in to hear the word of God. He gets into Simon's boat, asks him to push out a little, and teaches from it. When he finishes he tells Simon, \"Put out into the deep, and let down your nets for a catch.\" Simon answers, \"Master, we worked all night and caught nothing. But at your word I will let down the nets.\" They catch so many fish that the nets begin to break and two boats begin to sink. Simon falls at Jesus' knees: \"Depart from me, for I am a sinful man, Lord.\" Jesus says, \"Don't be afraid. From now on you will be catching people alive.\" Simon, James, and John bring their boats to land, leave everything, and follow him. In one of the towns a man full of leprosy falls on his face: \"Lord, if you want to, you can make me clean.\" Jesus touches him: \"I want to. Be made clean.\" He tells him to show himself to the priest, and, though he orders silence, the news spreads, and he withdraws to deserted places to pray. One day, when Pharisees and teachers of the law from every village of Galilee and Judea and from Jerusalem are sitting by, some men carry a paralyzed man on a bed, and since they can't get through the crowd, they go up on the roof, lower him down through the tiles into the middle, in front of Jesus. Seeing their faith, he says, \"Man, your sins are forgiven you.\" The scribes and Pharisees think, \"Who is this who speaks blasphemies? Who can forgive sins, but God alone?\" Jesus knows what they are thinking: \"Which is easier, to say, 'Your sins are forgiven you,' or to say, 'Get up and walk'? But that you may know that the Son of Man has authority on earth to forgive sins\" and he says to the man, \"I tell you, arise, take up your cot, and go to your house.\" He stands up at once, takes what he lay on, and goes home glorifying God. All are amazed: \"We have seen strange things today.\" After this Jesus sees a tax collector named Levi sitting at the tax office and says, \"Follow me.\" Levi leaves everything and follows, and gives a great feast at his house for Jesus, with a large crowd of tax collectors and others. The Pharisees and their scribes grumble, \"Why do you eat and drink with the tax collectors and sinners?\" Jesus says, \"Those who are healthy have no need for a physician, but those who are sick do. I have not come to call the righteous, but sinners to repentance.\" They ask about fasting, and he answers that you can't make wedding guests fast while the bridegroom is with them; new cloth doesn't patch an old garment, nor new wine go into old wineskins. Only in Luke he adds, \"No one having drunk old wine immediately desires new, for he says, 'The old is better.'\"",
+  "whySettingMatters": "The \"Lake of Gennesaret\" is the Sea of Galilee, named for the fertile plain on its west shore, and Luke is the only Gospel to call it a lake. Fishermen worked at night with nets, so a daytime catch against their expertise is the miracle. Peter's reaction, to confess he is a sinful man, is an Old Testament pattern for meeting the holy (compare Isaiah 6:5). Leprosy (a term covering several skin conditions) kept a person out of the community under Leviticus 13 and 14, and touching such a person made one unclean; Jesus touches him anyway, and sends him to the priest, as the law required for a declared cure. Most houses had flat roofs made of beams, branches, and clay, which could be dug through, and Luke's \"tiles\" has been explained as the Greek term for roofing material. The scribes were right that only God forgives sins; what is at issue is whether Jesus speaks for him. Levi is a tax collector, probably in Capernaum, a customs post on a trade road; tax collectors profited from the system and were counted as sinners by many. Eating with someone meant acceptance, which is why the Pharisees grumble. The new wine in old wineskins refers to skins that stiffen with age and burst when the wine ferments. Luke's extra line about old wine may explain why people resist what is new.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches from a boat, touches a leper, forgives a paralyzed man, and eats with sinners."
+    },
+    {
+      "id": "peter",
+      "note": "Confesses he is a sinful man, and leaves everything."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "Simon's partner in the fishing business."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Simon's partner in the fishing business."
+    },
+    {
+      "id": "the-leper",
+      "note": "Kneels, and is touched and made clean."
+    },
+    {
+      "id": "the-paralyzed-man",
+      "note": "Lowered through the roof by his friends."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees and teachers who object to forgiving sins and eating with sinners."
+    },
+    {
+      "id": "levi",
+      "note": "A tax collector who leaves his post and gives a feast."
+    },
+    {
+      "id": "the-tax-collectors",
+      "note": "Come to Levi's feast."
+    }
+  ],
+  "questions": [
+    "Peter says, \"Depart from me, for I am a sinful man,\" and Jesus says, \"Don't be afraid.\" What is Jesus doing with Peter's confession?",
+    "The friends of the paralyzed man go to great lengths to reach Jesus. What does he see in that?",
+    "Levi gets up and leaves a lucrative post. What is Luke showing about what following Jesus costs?",
+    "Jesus says he has come to call sinners to repentance. Who is he really talking to?"
+  ],
+  "words": [
+    {
+      "id": "kyrios",
+      "note": "Simon calls him \"Lord\" for the first time (5:8)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"I am a sinful man\" (5:8), and \"tax collectors and sinners\" (5:30-32)."
+    },
+    {
+      "id": "telones",
+      "note": "Levi the tax collector (5:27, 5:29-30)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"The Son of Man has authority on earth to forgive sins\" (5:24)."
+    },
+    {
+      "id": "metanoia",
+      "note": "\"To call sinners to repentance\" (5:32)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 6:5",
+      "note": "\"Woe is me! For I am undone\""
+    },
+    {
+      "ref": "Leviticus 14:1-32",
+      "note": "the cleansing of a leper"
+    },
+    {
+      "ref": "Isaiah 43:25",
+      "note": "God blots out transgressions for his own sake"
+    },
+    {
+      "ref": "2 Kings 5:10-14",
+      "note": "Naaman is cleansed of leprosy"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

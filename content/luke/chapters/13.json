@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Repent or perish, a woman healed on the Sabbath, the narrow door, and the lament over Jerusalem",
+  "summary": "Some people tell Jesus about the Galileans whose blood Pilate mixed with their sacrifices. Jesus asks if they were worse sinners than other Galileans because of this, and answers, \"I tell you, no, but unless you repent, you will all perish in the same way.\" He adds the eighteen who died when the tower at Siloam fell: \"Unless you repent, you will all likewise perish.\" He tells of a fig tree planted in a vineyard that has borne no fruit for three years; the owner says cut it down, but the gardener says, \"Lord, leave it alone this year also, until I dig around it, and fertilize it. If it bears fruit, fine; but if not, after that, you can cut it down.\" On a Sabbath, as he teaches in a synagogue, he sees a woman who for eighteen years has had a spirit of weakness and is bent over, unable to straighten up. He calls her, lays his hands on her, and says, \"Woman, you are freed from your infirmity.\" She stands straight and glorifies God. The synagogue ruler, indignant, tells the crowd there are six days for work, so come on those days to be healed. Jesus answers, \"You hypocrites! Doesn't each one of you free his ox or his donkey from the stall on the Sabbath, and lead him away to water? Ought not this woman, being a daughter of Abraham, whom Satan had bound eighteen years, be freed from this bondage on the Sabbath day?\" His opponents are put to shame, and the crowd rejoices. He compares the Kingdom of God to a mustard seed that grows into a tree in which birds nest, and to yeast a woman hid in three measures of flour until all of it was leavened. Going on toward Jerusalem, he is asked, \"Lord, are they few who are saved?\" and says, \"Strive to enter in by the narrow door, for many, I tell you, will seek to enter in, and will not be able.\" Once the master of the house has shut the door, those outside will knock and say, \"Lord, open to us,\" and he will answer, \"I don't know where you come from. Depart from me, all you workers of iniquity.\" There will be weeping and gnashing of teeth when they see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, and people will come from east and west and north and south and sit down in it. \"Behold, there are some who are last who will be first, and there are some who are first who will be last.\" Some Pharisees warn him, \"Get out of here, and go away, for Herod wants to kill you.\" He says, \"Go and tell that fox, 'Behold, I cast out demons and perform cures today and tomorrow, and the third day I complete my mission.' Nevertheless I must go on my way today and tomorrow and the next day, for it can't be that a prophet perish outside of Jerusalem.\" He ends, \"Jerusalem, Jerusalem, who kills the prophets, and stones those who are sent to her! How often I wanted to gather your children together, even as a hen gathers her own brood under her wings, and you were not willing! Behold, your house is left to you desolate. I tell you, you will not see me, until you say, 'Blessed is he who comes in the name of the Lord!'\"",
+  "whySettingMatters": "Pilate was known for brutality, and Josephus tells of several violent episodes under him, though this one is not otherwise recorded. The tower at Siloam, near a pool at the southeast corner of Jerusalem, is also known only from Luke. Jesus rejects the idea that those who died were worse sinners, a common assumption in the ancient world, and turns it into a call to everyone to repent. The fig tree and vineyard recall Isaiah 5 and Israel as God's planting. The woman is bent for eighteen years; Jesus calls her \"a daughter of Abraham,\" a title that gives her full standing in the community. The synagogue ruler's objection is that healing is work, and Jesus' answer uses an argument his hearers would accept, that animals are cared for on the Sabbath. The mustard seed and yeast pair a man's and a woman's image, as Luke often does. \"The narrow door\" and the people \"from east and west\" point to a feast of the kingdom open to Gentiles (Isaiah 25:6-9). Herod Antipas is called \"that fox,\" a cunning, small predator, not a lion. The hen gathering her chicks echoes Deuteronomy 32:11 and Psalm 17:8 and is a picture of protective care. \"Your house is left desolate\" refers to the temple or to Jerusalem as a whole, and the quote from Psalm 118:26 returns at the entry into the city (19:38).",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Calls for repentance, frees a woman, and laments over Jerusalem."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Bring news of Pilate's massacre and rejoice when the woman is freed."
+    },
+    {
+      "id": "the-bent-woman",
+      "note": "Bent over for eighteen years; healed and called a daughter of Abraham."
+    },
+    {
+      "id": "the-synagogue-ruler",
+      "note": "Objects to a Sabbath healing."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Some Pharisees warn him of Herod."
+    },
+    {
+      "id": "herod-antipas",
+      "note": "Jesus calls him a fox."
+    },
+    {
+      "id": "pilate",
+      "note": "Mixed Galileans' blood with their sacrifices."
+    }
+  ],
+  "questions": [
+    "Jesus is asked about a massacre and an accident and says, \"Unless you repent.\" What is he refusing to do, and what is he asking for?",
+    "The gardener asks for one more year for the fig tree. What does the story say about patience and urgency?",
+    "Jesus calls the bent woman \"a daughter of Abraham.\" What is he giving her beyond the healing?",
+    "Jesus speaks of Jerusalem with grief, not anger. What does the hen and chicks image say about how he sees it?"
+  ],
+  "words": [
+    {
+      "id": "metanoeo",
+      "note": "\"Unless you repent\" (13:3, 13:5)."
+    },
+    {
+      "id": "agonizomai",
+      "note": "\"Strive to enter in by the narrow door\" (13:24)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"Lord, open to us\" (13:25)."
+    },
+    {
+      "id": "basileia",
+      "note": "The mustard seed, the yeast, and the banquet of the kingdom (13:18-21, 13:28-29)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 5:1-7",
+      "note": "the vineyard that bears no fruit"
+    },
+    {
+      "ref": "Daniel 4:12",
+      "note": "birds nest in the branches of a great tree"
+    },
+    {
+      "ref": "Deuteronomy 32:11",
+      "note": "like an eagle that stirs up its nest"
+    },
+    {
+      "ref": "Psalm 118:26",
+      "note": "\"Blessed is he who comes in the name of the Lord\""
+    },
+    {
+      "ref": "Psalm 6:8",
+      "note": "\"Depart from me, all you workers of iniquity\""
+    }
+  ],
+  "number": 13,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "A shrewd manager, money, and a rich man and Lazarus",
+  "summary": "Jesus tells his disciples of a rich man whose manager is accused of wasting his goods. The master says, \"Give an accounting of your management, for you can no longer be manager.\" The manager thinks, \"I'm not strong enough to dig. I'm ashamed to beg. I know what I will do, so that when I am removed from management, they may welcome me into their houses.\" He calls in each of his master's debtors: \"How much do you owe?\" \"A hundred batos of oil.\" \"Take your bill, sit down quickly, and write fifty.\" To the next, \"A hundred cors of wheat,\" he says, \"Take your bill, and write eighty.\" The master commends the dishonest manager because he had done wisely, \"for the children of this world are, in their own generation, wiser than the children of the light.\" Jesus says, \"Make for yourselves friends by means of unrighteous mammon, so that when it fails, they may receive you into the eternal tents.\" He who is faithful in a very little is faithful also in much, and the one who is dishonest in a very little is dishonest also in much. \"If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? ... No servant can serve two masters ... You aren't able to serve God and mammon.\" The Pharisees, who are lovers of money, hear all this and scoff at him. He says, \"You are those who justify yourselves in the sight of men, but God knows your hearts. For that which is exalted among men is an abomination in the sight of God.\" He says the Law and the Prophets were until John, since which time the Kingdom of God is preached and everyone forces his way into it, that not one stroke of the law will fall, and that everyone who divorces his wife and marries another commits adultery. Then he tells of a rich man who dressed in purple and fine linen and feasted every day, and at his gate lay a beggar named Lazarus, covered with sores, who longed to be fed with what fell from the rich man's table; even the dogs came and licked his sores. The beggar died and was carried by the angels to Abraham's bosom, and the rich man also died and was buried. In Hades, in torment, he sees Abraham far off with Lazarus at his bosom, and says, \"Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue.\" Abraham says, \"Son, remember that you, in your lifetime, received your good things, and Lazarus, in the same way, bad things. But here he is now comforted, and you are in anguish. Besides all this, between us and you there is a great gulf fixed.\" He begs Abraham to send Lazarus to his father's house, to warn his five brothers. \"They have Moses and the prophets. Let them listen to them.\" \"No, father Abraham, but if one goes to them from the dead, they will repent.\" \"If they don't listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.\"",
+  "whySettingMatters": "The dishonest manager is among the most debated parables. The manager is clearly in trouble and acts to secure friends, but the reduced bills could be his own commission, interest hidden in the debt (which the law forbade among Jews), or simply forgiving part of what he was owed, and scholars have long disagreed. What the master commends is the shrewdness, the urgency about the future, not the dishonesty. A bato is about eight or nine gallons, so a hundred batos of oil is a very large debt; a cor was about ten bushels, so the wheat debt is huge too. \"Mammon\" is an Aramaic word for wealth or property that people trusted in. Luke says the Pharisees were \"lovers of money,\" which is the context for the sayings. The saying about the law and divorce comes in the middle of the chapter and ties to the question of what counts as righteousness. Lazarus is the only named character in any of Jesus' parables; his name means \"God helps.\" Dogs were scavengers, and the rich man's gate and his clothes of purple and fine linen set the contrast. \"Abraham's bosom\" and \"Hades\" are pictures of the afterlife drawn from the Jewish imagination of the time, and how literally to take the details is debated. The last line points to the resurrection, and the unbelief of those who have the Scriptures.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Tells two parables about money."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Told the first parable."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees who love money and scoff at him."
+    },
+    {
+      "id": "the-manager",
+      "note": "Makes friends by reducing debts, and is commended for shrewdness."
+    },
+    {
+      "id": "the-rich-man",
+      "note": "Feasts daily and ignores the beggar at his gate."
+    },
+    {
+      "id": "lazarus-the-beggar",
+      "note": "Covered with sores at the gate; carried by angels."
+    },
+    {
+      "id": "abraham",
+      "note": "Speaks across the gulf."
+    }
+  ],
+  "questions": [
+    "The manager acts quickly when his future is at risk. What is Jesus asking his disciples to take from that?",
+    "\"You cannot serve God and mammon.\" What does that mean in practice for someone with and without money?",
+    "The rich man never speaks to Lazarus, in life or in death. What is the story pointing at?",
+    "\"If they don't listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.\" What does Luke want us to hear in that line?"
+  ],
+  "words": [
+    {
+      "id": "mamonas",
+      "note": "\"You can't serve God and mammon\" (16:9, 16:11, 16:13)."
+    },
+    {
+      "id": "oikonomos",
+      "note": "The manager, or steward, of the rich man's goods (16:1-8)."
+    },
+    {
+      "id": "hades",
+      "note": "The rich man in Hades (16:23)."
+    },
+    {
+      "id": "ptochos",
+      "note": "Lazarus, the beggar (16:20, 16:22)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"They will repent\" (16:30)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Amos 6:4-7",
+      "note": "those who lie on beds of ivory and ignore the ruin"
+    },
+    {
+      "ref": "Isaiah 58:7",
+      "note": "share your bread with the hungry"
+    },
+    {
+      "ref": "1 Samuel 16:7",
+      "note": "the Lord looks on the heart"
+    },
+    {
+      "ref": "Matthew 25:21",
+      "note": "faithful in little, set over much"
+    }
+  ],
+  "number": 16,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

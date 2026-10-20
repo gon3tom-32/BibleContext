@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "Tested in the wilderness, rejected in Nazareth, and busy in Capernaum",
+  "summary": "Filled with the Holy Spirit, Jesus returns from the Jordan and is led by the Spirit in the wilderness for forty days, tempted by the devil, and eats nothing. The devil says, \"If you are the Son of God, tell this stone to become bread.\" Jesus answers, \"It is written, 'Man shall not live by bread alone.'\" The devil shows him all the kingdoms of the world and says he will give them if Jesus worships him; Jesus says, \"It is written, 'You shall worship the Lord your God, and him only shall you serve.'\" The devil takes him to Jerusalem, sets him on the pinnacle of the temple, and says, \"If you are the Son of God, throw yourself down from here,\" quoting Psalm 91; Jesus answers, \"You shall not test the Lord your God.\" The devil departs \"until another time.\" Jesus returns to Galilee in the power of the Spirit and teaches in their synagogues, praised by all. At Nazareth, on the Sabbath, he stands to read and is handed the scroll of Isaiah. He reads, \"The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to heal the brokenhearted, to proclaim release to the captives, recovering of sight to the blind, to deliver those who are crushed, and to proclaim the year of the Lord's favor.\" He rolls up the scroll and says, \"Today, this Scripture has been fulfilled in your hearing.\" All speak well of him and marvel at his gracious words, but ask, \"Isn't this Joseph's son?\" He says no prophet is accepted in his own country, and reminds them that in Elijah's day there were many widows in Israel, but he was sent to a widow at Zarephath in Sidon, and that in Elisha's time there were many lepers in Israel, but only Naaman the Syrian was cleansed. They are filled with rage, drive him out, and lead him to the edge of the hill to throw him down, but he passes through the midst of them and goes on his way. He goes down to Capernaum and teaches on the Sabbath, and they are astonished because his word is with authority. A man with the spirit of an unclean demon cries out, \"Ha! What have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God!\" Jesus rebukes it, and the demon throws the man down and comes out without harming him. He then heals Simon's mother-in-law of a high fever, and at sunset people bring all who are sick, and he lays his hands on each one. When it is day he goes to a deserted place, and the crowds look for him, but he says, \"I must preach the good news of the Kingdom of God to the other cities also. For this reason I have been sent.\"",
+  "whySettingMatters": "Forty days recalls Israel's forty years in the wilderness and Moses' and Elijah's fasts, and each of Jesus' answers comes from Deuteronomy 6 and 8, the passages about Israel's wilderness testing. Luke gives the temptations in a different order from Matthew, ending at the Jerusalem temple, which suits a Gospel that heads toward Jerusalem. \"Until another time\" signals that the testing will come back, most of all in the passion. The synagogue was a gathering place for reading and teaching; readers stood to read the scroll and sat to teach. The passage Jesus reads combines Isaiah 61:1-2 with a phrase from 58:6 (\"set at liberty those who are oppressed\") and stops before the line about \"the day of vengeance,\" and \"the year of the Lord's favor\" echoes the jubilee of Leviticus 25, when debts were forgiven and land returned; whether Israel ever fully practiced the jubilee is debated. The stories of Elijah and Elisha show God's blessing going to outsiders, a Phoenician widow and a Syrian general, which is what angers the hometown crowd. Capernaum was a fishing town on the north shore of the Sea of Galilee and became Jesus' base. In Luke, the demons recognize him as Son of God and Holy One, and he silences them. Jesus' reason for leaving the crowds, that he must preach to other towns, sets up the mission that follows.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Tested, then announcing his mission in the synagogue."
+    },
+    {
+      "id": "the-devil",
+      "note": "Tests Jesus in the wilderness, with Scripture."
+    },
+    {
+      "id": "the-people-of-nazareth",
+      "note": "Marvel, then try to throw him from the hill."
+    },
+    {
+      "id": "man-with-unclean-spirit",
+      "note": "Cries out in the Capernaum synagogue and is freed."
+    },
+    {
+      "id": "peters-mother-in-law",
+      "note": "Healed of a fever; she serves them."
+    },
+    {
+      "id": "peter",
+      "note": "Called Simon here, whose house Jesus enters."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Bring their sick at sunset, and try to keep him."
+    }
+  ],
+  "questions": [
+    "Each time, Jesus answers the devil with Scripture from Israel's wilderness story. What is Luke saying about who Jesus is?",
+    "Jesus reads Isaiah and says \"Today this is fulfilled.\" Why was that both welcomed and rejected?",
+    "The hometown crowd rages when Jesus points to Gentiles in Israel's past. What did they hear?",
+    "He leaves the crowds in Capernaum because he \"must\" go to other towns. What does that say about what his mission is?"
+  ],
+  "words": [
+    {
+      "id": "diabolos",
+      "note": "The devil tempts him for forty days (4:1-13)."
+    },
+    {
+      "id": "euangelizo",
+      "note": "\"To preach good news to the poor\" (4:18, 4:43)."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"To proclaim release to the captives\" (4:18)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"His word was with authority\" (4:32, 4:36)."
+    },
+    {
+      "id": "epitimao",
+      "note": "He rebukes the demon and the fever (4:35, 4:39, 4:41)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Gracious words\" (4:22)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 8:3",
+      "note": "man does not live by bread alone"
+    },
+    {
+      "ref": "Deuteronomy 6:13",
+      "note": "worship the Lord and serve him only"
+    },
+    {
+      "ref": "Psalm 91:11-12",
+      "note": "the angels will bear you up"
+    },
+    {
+      "ref": "Isaiah 61:1-2",
+      "note": "the Spirit of the Lord is upon me"
+    },
+    {
+      "ref": "1 Kings 17:8-24",
+      "note": "Elijah and the widow at Zarephath"
+    },
+    {
+      "ref": "2 Kings 5:1-14",
+      "note": "Naaman the Syrian is healed"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

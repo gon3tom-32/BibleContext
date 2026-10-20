@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "John at the Jordan, and Jesus' baptism, dated by emperors and governors",
+  "summary": "Luke dates the moment carefully: in the fifteenth year of Tiberius Caesar, when Pontius Pilate is governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, Lysanias tetrarch of Abilene, in the high priesthood of Annas and Caiaphas, the word of God comes to John the son of Zechariah in the wilderness. He goes through the region around the Jordan preaching a baptism of repentance for the forgiveness of sins, as Isaiah wrote: \"Make ready the way of the Lord ... Every valley will be filled, and every mountain and hill will be brought low ... and all flesh will see the salvation of God.\" To the crowds who come out he says, \"You offspring of vipers, who warned you to flee from the wrath to come? Produce fruits worthy of repentance, and don't begin to say among yourselves, 'We have Abraham for our father.' For I tell you that God is able from these stones to raise up children to Abraham. Even now the axe lies at the root of the trees.\" They ask, \"What then must we do?\" He says, \"He who has two coats, let him share with him who has none.\" Tax collectors are told to collect no more than they are ordered, and soldiers not to extort or accuse falsely, and to be content with their wages. When people wonder if he might be the Christ, John says, \"I indeed baptize you with water, but he who is mightier than I comes ... He will baptize you with the Holy Spirit and with fire,\" and speaks of a winnowing fork and the threshing floor. He also rebukes Herod the tetrarch for taking his brother's wife, Herodias, and for all the evil he had done, and Herod adds to it by shutting John up in prison. When all the people have been baptized, Jesus too is baptized, and while he is praying, heaven opens, the Holy Spirit descends on him in bodily form like a dove, and a voice from heaven says, \"You are my beloved Son. In you I am well pleased.\" Luke then says Jesus is about thirty years old as he begins, \"being the son (as was supposed) of Joseph,\" and gives a genealogy running backward through David and Abraham to Noah and Adam, \"the son of God.\"",
+  "whySettingMatters": "Tiberius became emperor in AD 14, so the fifteenth year is about AD 28 or 29, depending on how years are counted; this is the most precise date in the Gospels. Pilate governed Judea from about AD 26 to 36; Herod Antipas and Philip, sons of Herod the Great, ruled their own regions as tetrarchs. Annas had been high priest earlier and remained powerful, and Caiaphas, his son-in-law, held the office. Luke's naming of all these shows that the story belongs in public history. John's quotation from Isaiah 40 goes further than Mark's or Matthew's, ending with \"all flesh will see the salvation of God,\" which matches Luke's concern with everyone. Baptism was already used for Gentiles joining Judaism, and John asks Jews to do the same; the claim to descent from Abraham was a common source of confidence. Tax collectors worked for Rome through contractors and made their living by collecting extra, which is why John's instruction is specific. John's advice to the crowds, the tax collectors, and the soldiers is practical: share, be honest, don't abuse power. Luke tells of John's imprisonment before the baptism, though not in chronological order. Jesus' genealogy differs from Matthew's: it runs backward, goes through David's son Nathan, not Solomon, and goes all the way to Adam. How the two lists relate has been debated for a long time.",
+  "people": [
+    {
+      "id": "john-baptist",
+      "note": "Preaches repentance and gives practical instruction."
+    },
+    {
+      "id": "jesus",
+      "note": "Baptized while praying, and called the beloved Son."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Ask John, \"What then must we do?\""
+    },
+    {
+      "id": "the-tax-collectors",
+      "note": "Told to collect no more than is due."
+    },
+    {
+      "id": "the-soldiers",
+      "note": "Told not to extort or accuse falsely."
+    },
+    {
+      "id": "herod-antipas",
+      "note": "Rebuked by John, and shuts him up in prison."
+    },
+    {
+      "id": "annas",
+      "note": "Named with Caiaphas as high priest."
+    },
+    {
+      "id": "caiaphas",
+      "note": "High priest during the ministry."
+    }
+  ],
+  "questions": [
+    "Luke names seven rulers before John appears. What difference does it make for a Gospel to begin with a date?",
+    "John gives different instructions to crowds, tax collectors, and soldiers. What do they have in common?",
+    "While Jesus prays, heaven opens. Why might Luke mention prayer here, when the other Gospels don't?",
+    "The genealogy ends with Adam, \"the son of God.\" What does Luke gain by tracing Jesus back that far?"
+  ],
+  "words": [
+    {
+      "id": "metanoia",
+      "note": "\"A baptism of repentance for the forgiveness of sins\" (3:3, 3:8)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"Produce fruits worthy of repentance\" (3:8-9)."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"For the forgiveness of sins\" (3:3)."
+    },
+    {
+      "id": "baptizo",
+      "note": "John baptizes with water, and the coming one will baptize with the Spirit (3:7, 3:16, 3:21)."
+    },
+    {
+      "id": "euangelizo",
+      "note": "John \"preached good news\" to the people (3:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 40:3-5",
+      "note": "a voice crying in the wilderness"
+    },
+    {
+      "ref": "Psalm 2:7",
+      "note": "\"You are my son\""
+    },
+    {
+      "ref": "Isaiah 42:1",
+      "note": "my chosen, in whom I delight"
+    },
+    {
+      "ref": "Malachi 3:1-3",
+      "note": "the messenger who prepares the way"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

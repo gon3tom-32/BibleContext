@@ -1,0 +1,74 @@
+{
+  "sceneHappening": "A widow's gift, and Jesus on the Mount of Olives speaking of the temple's fall and his return",
+  "summary": "Jesus looks up and sees rich people putting their gifts into the treasury, and a poor widow putting in two small coins. \"Truly I tell you, this poor widow put in more than all of them, for all these put in gifts from their abundance, but she, out of her poverty, put in all that she had to live on.\" As some speak of how the temple is adorned with beautiful stones and gifts, he says, \"As for these things which you see, the days will come, in which there will not be left here one stone on another, that will not be thrown down.\" They ask, \"Teacher, when will these things be? What is the sign that these things are about to happen?\" He says, \"Take heed that you not be led astray. For many will come in my name, saying, 'I am he,' and, 'The time is at hand.' Therefore don't follow them. When you hear of wars and disturbances, don't be terrified, for these things must happen first, but the end won't come immediately.\" Nation will rise against nation; there will be great earthquakes, famines, plagues, and \"fearful sights and great signs from heaven.\" But before all this, they will lay hands on his followers, persecute them, deliver them to synagogues and prisons, and bring them before kings and governors for his name's sake: \"It will turn out as a testimony for you. Settle it therefore in your hearts not to meditate beforehand how to defend yourselves, for I will give you a mouth and wisdom which all your adversaries will not be able to withstand or to contradict.\" They will be betrayed even by parents, brothers, relatives, and friends, and some will be put to death, \"but not even one hair of your head will perish. By your endurance you will win your lives.\" \"But when you see Jerusalem surrounded by armies, then know that its desolation is at hand. Then let those who are in Judea flee to the mountains. Let those who are in the midst of her depart ... for these are days of vengeance, that all things which are written may be fulfilled.\" \"Jerusalem will be trampled by the Gentiles, until the times of the Gentiles are fulfilled.\" There will be signs in sun, moon, and stars, and on earth distress of nations in perplexity at the roaring of the sea and the waves, men fainting for fear; \"Then they will see the Son of Man coming in a cloud with power and great glory. But when these things begin to happen, look up, and lift up your heads, because your redemption is near.\" He tells the parable of the fig tree and all the trees: when they sprout, you know summer is near; \"even so you also, when you see these things happening, know that the Kingdom of God is near. Most certainly I tell you, this generation will not pass away, until all things are accomplished. Heaven and earth will pass away, but my words will by no means pass away.\" \"Be careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly like a snare. ... Watch at all times, praying that you may be counted worthy to escape all these things that will happen, and to stand before the Son of Man.\" Each day he is teaching in the temple, and at night goes out and stays on the mountain called Olivet, and all the people come early in the morning to hear him in the temple.",
+  "whySettingMatters": "The widow's gift is the last scene before the temple's fall is announced, and it follows Jesus' warning about those who \"devour widows' houses\" (20:47), so it shows a woman giving to a system that has taken from her. Luke is the Gospel that most plainly points to Jerusalem's destruction by an army: \"surrounded by armies\" and \"trampled by the Gentiles\" match the Roman siege of AD 70, and unlike in Mark, Luke does not use the cryptic phrase \"the abomination of desolation.\" Whether this shows that Luke wrote after the event, or that Jesus foresaw it, is debated. The \"times of the Gentiles\" suggests an extended period before the end. The disciples' persecution before synagogues and rulers prepares for the Acts of the Apostles, where exactly this happens. The language of sun, moon, and stars and of the Son of Man \"coming in a cloud\" comes from Daniel 7:13 and prophets like Joel and Isaiah. \"Your redemption\" is a word for release or ransom. \"This generation will not pass away\" is one of the hardest sayings of the Gospels; some take it as about the fall of Jerusalem, some as about the human race, some as about the generation that sees the signs. Luke ends with the picture of Jesus at work by day in the temple and at night on the Mount of Olives, which sets up the passion.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Notes a widow's gift and speaks of what is coming."
+    },
+    {
+      "id": "the-widow",
+      "note": "Gives two small coins, all she has."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Ask when the temple will fall."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Come early to hear him in the temple."
+    }
+  ],
+  "questions": [
+    "Jesus is glad about a gift others would miss, and then announces the temple's fall. How do those two scenes belong together?",
+    "Don't prepare a defense in advance. What would it take to trust that?",
+    "Jesus says to lift your heads because redemption is near. How is that different from fear?",
+    "He warns about hearts loaded down with the cares of life. How do you watch for something and still live normal days?"
+  ],
+  "words": [
+    {
+      "id": "lepton",
+      "note": "The widow's two small coins (21:2)."
+    },
+    {
+      "id": "apolytrosis",
+      "note": "\"Your redemption is near\" (21:28)."
+    },
+    {
+      "id": "agrypneo",
+      "note": "\"Watch at all times, praying\" (21:36)."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"The times of the Gentiles\" (21:24)."
+    },
+    {
+      "id": "doxa",
+      "note": "The Son of Man \"coming with power and great glory\" (21:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Daniel 7:13-14",
+      "note": "one like a son of man coming with the clouds"
+    },
+    {
+      "ref": "Daniel 9:26",
+      "note": "the city and the sanctuary destroyed"
+    },
+    {
+      "ref": "Isaiah 40:8",
+      "note": "the word of our God stands forever"
+    },
+    {
+      "ref": "Jeremiah 1:9",
+      "note": "\"I have put my words in your mouth\""
+    }
+  ],
+  "number": 21,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

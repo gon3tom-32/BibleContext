@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Forgiveness and faith, ten lepers on the Samaria border, and the days of the Son of Man",
+  "summary": "Jesus tells his disciples that stumbling blocks are sure to come, but woe to the one through whom they come; it would be better for him to have a millstone hung around his neck and be thrown into the sea than to cause one of these little ones to stumble. \"If your brother sins against you, rebuke him. If he repents, forgive him. If he sins against you seven times in a day, and seven times returns, saying, 'I repent,' you must forgive him.\" The apostles say, \"Increase our faith,\" and Jesus says, \"If you had faith like a grain of mustard seed, you would tell this sycamine tree, 'Be uprooted, and be planted in the sea,' and it would obey you.\" He asks which of them with a servant plowing or keeping sheep would say to him when he comes in from the field, \"Come immediately and sit down at the table\"? Rather he says, \"Prepare my supper, dress yourself properly, and serve me.\" So with the disciples: \"When you have done all the things that are commanded you, say, 'We are unworthy servants. We have done our duty.'\" On the way to Jerusalem, passing between Samaria and Galilee, as he enters a village ten lepers meet him and stand at a distance, calling, \"Jesus, Master, have mercy on us!\" He says, \"Go and show yourselves to the priests.\" As they go, they are cleansed. One of them, seeing he is healed, turns back, praising God with a loud voice, and falls on his face at Jesus' feet, giving thanks, and he is a Samaritan. Jesus asks, \"Weren't the ten cleansed? But where are the nine? Were there none found who returned to give glory to God, except this foreigner?\" He tells him, \"Get up, and go your way. Your faith has made you well.\" Asked by the Pharisees when the Kingdom of God comes, he answers, \"The Kingdom of God doesn't come with observation; neither will they say, 'Look, here!' or, 'Look, there!' for behold, the Kingdom of God is within you.\" To the disciples he says the days are coming when they will long to see one of the days of the Son of Man, and will not; they will say, \"Look, there!\" or \"Look, here!\" but they are not to follow, \"for as the lightning, when it flashes out of the one part under the sky, shines to the other part under the sky, so will the Son of Man be in his day.\" But first he must suffer many things and be rejected by this generation. As it was in the days of Noah and in the days of Lot, people were eating, drinking, marrying, buying, selling, planting, building, until the flood or the fire came and destroyed them all; so it will be in the day the Son of Man is revealed. \"Remember Lot's wife! Whoever seeks to save his life loses it, but whoever loses his life preserves it.\" Two will be in one bed; one will be taken and the other left. They ask, \"Where, Lord?\" and he says, \"Where the body is, there will the vultures also be gathered together.\"",
+  "whySettingMatters": "The ten lepers meet Jesus in the borderland between Galilee and Samaria, where Jews and Samaritans lived close together, and in suffering they stand together too. Lepers had to live apart and call out (Leviticus 13:45-46), and anyone healed had to be examined and declared clean by a priest (Leviticus 14), which is why they are sent to the priests before they are healed. The Samaritan is a double outsider, and Luke calls him a \"foreigner,\" a word found only here in the New Testament. A \"sycamine\" was a mulberry tree with deep roots. The servant parable describes the normal order in a household, and its point is that duty is not a claim to reward. \"Within you\" in 17:21 can also be translated \"among you\" or \"in your midst\"; the Greek preposition is ambiguous, and which is meant has long been debated. If \"among you,\" the kingdom is present in Jesus himself; if \"within you,\" it is an inward reality; Luke's context, speaking to Pharisees, points to \"among you.\" The days of Noah (Genesis 6 and 7) and Lot (Genesis 19) are warnings that ordinary life continues until judgment arrives, and Lot's wife (Genesis 19:26) looked back. The vultures proverb means that the signs will be unmistakable, as carrion draws birds.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches about forgiveness and heals ten lepers on the road."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Asked to increase their faith; told they are servants."
+    },
+    {
+      "id": "the-ten-lepers",
+      "note": "Healed on their way to the priests."
+    },
+    {
+      "id": "the-grateful-samaritan",
+      "note": "The one who returns to give thanks."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees who ask when the kingdom comes."
+    }
+  ],
+  "questions": [
+    "Jesus says to forgive seven times a day. What does that cost the person doing the forgiving?",
+    "Nine of the ten were healed and did not return. What does Luke see in the one who did?",
+    "\"The Kingdom of God is among you\" or \"within you.\" Which reading do you hear, and what changes?",
+    "\"Remember Lot's wife.\" What is the warning for ordinary people in ordinary times?"
+  ],
+  "words": [
+    {
+      "id": "aphiemi",
+      "note": "\"If he repents, forgive him\" (17:3-4)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "The Samaritan \"gave him thanks\" (17:16)."
+    },
+    {
+      "id": "eleeo",
+      "note": "\"Jesus, Master, have mercy on us!\" (17:13)."
+    },
+    {
+      "id": "entos",
+      "note": "\"The Kingdom of God is within you\" or \"among you\" (17:21)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Increase our faith,\" and \"Your faith has made you well\" (17:5-6, 17:19)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Whoever seeks to save his life will lose it\" (17:33), and \"made you well\" (17:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 14:2-4",
+      "note": "the priest examines a healed leper"
+    },
+    {
+      "ref": "Genesis 19:15-26",
+      "note": "Lot's wife looks back"
+    },
+    {
+      "ref": "Genesis 6:5-8",
+      "note": "the days of Noah"
+    },
+    {
+      "ref": "2 Kings 5:1-14",
+      "note": "a foreigner, Naaman, healed of leprosy"
+    }
+  ],
+  "number": 17,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

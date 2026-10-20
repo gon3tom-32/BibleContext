@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "The seventy sent out, a lawyer's question about neighbors, and Martha and Mary",
+  "summary": "After this the Lord appoints seventy others and sends them two by two ahead of him to every town he is about to visit. \"The harvest is indeed plentiful, but the laborers are few. Pray therefore to the Lord of the harvest that he may send out laborers into his harvest.\" He sends them \"as lambs among wolves,\" with no purse, bag, or sandals, telling them to greet no one on the road. Into any house they enter, they are to say first, \"Peace be to this house,\" to eat what is set before them, heal the sick, and say, \"The Kingdom of God has come near to you.\" Where they are not received they are to wipe the dust off their feet. Jesus says it will be more tolerable for Sodom than for those towns, and pronounces woes on Chorazin, Bethsaida, and Capernaum. The seventy return with joy: \"Lord, even the demons are subject to us in your name!\" He says, \"I saw Satan having fallen like lightning from heaven ... Nevertheless, don't rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.\" Filled with joy in the Holy Spirit, he thanks the Father for hiding these things from the wise and revealing them to infants, and tells his disciples privately that many prophets and kings desired to see what they see. A lawyer stands to test him: \"Teacher, what shall I do to inherit eternal life?\" Jesus asks what is written, and he answers with love for God and for neighbor. \"You have answered correctly. Do this, and you will live.\" Wanting to justify himself, he asks, \"Who is my neighbor?\" Jesus tells of a man going down from Jerusalem to Jericho who falls among robbers, who strip him, beat him, and leave him half dead. A priest comes down that way and passes by on the other side, and a Levite does the same. But a Samaritan, as he travels, comes upon him, and \"when he saw him, he was moved with compassion,\" bandages his wounds with oil and wine, sets him on his own animal, brings him to an inn, and takes care of him. Next day he gives the innkeeper two denarii: \"Take care of him. Whatever you spend beyond that, I will repay you when I return.\" \"Which of these three, do you think, seemed to be a neighbor to him who fell among the robbers?\" \"He who showed mercy on him.\" \"Go and do likewise.\" As they go on, Jesus enters a village and a woman named Martha welcomes him into her house. Her sister Mary sits at the Lord's feet and listens, but Martha is distracted with much serving and says, \"Lord, don't you care that my sister left me to serve alone? Ask her to help me.\" Jesus answers, \"Martha, Martha, you are anxious and troubled about many things, but one thing is needed. Mary has chosen the good part, which will not be taken away from her.\"",
+  "whySettingMatters": "The \"seventy\" (some manuscripts say seventy-two) may recall the seventy elders who shared Moses' spirit (Numbers 11) or the seventy nations of Genesis 10; the number points to a mission wider than the twelve, and the Gospel of Luke is the only one that records it. Eating whatever is set before them meant sharing meals with people who might not keep Jewish food customs. Chorazin and Bethsaida were Galilean towns near Capernaum, and Sodom is the standard of judgment. The road from Jerusalem to Jericho drops about 3,300 feet in seventeen miles through desert hills, and was known for robbers. Priests and Levites served in the temple and lived in places like Jericho, so those on the road were probably going home. A priest might avoid a body for fear of ritual impurity, though Luke gives no reason. Jews and Samaritans were deeply hostile, going back to the split of the kingdoms and the rival temple on Mount Gerizim, so making the Samaritan the hero turns the lawyer's question around: not \"whom must I treat as a neighbor,\" but \"who proved to be one.\" Two denarii were about two days' wages. Luke doesn't name the village of Martha and Mary; John 11:1 places them at Bethany. Sitting \"at the feet\" is the position of a student, as Paul describes his own training (Acts 22:3), and women were not usually welcomed in that role.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Sends out the seventy and answers the lawyer."
+    },
+    {
+      "id": "the-seventy",
+      "note": "Sent ahead in pairs; they return with joy."
+    },
+    {
+      "id": "the-lawyer",
+      "note": "An expert in the law who tests Jesus."
+    },
+    {
+      "id": "the-samaritan",
+      "note": "The hero of the story, a member of a despised group."
+    },
+    {
+      "id": "the-priest-and-the-levite",
+      "note": "Two temple figures who pass by."
+    },
+    {
+      "id": "martha",
+      "note": "Distracted by serving."
+    },
+    {
+      "id": "mary-of-bethany",
+      "note": "Sits at Jesus' feet."
+    }
+  ],
+  "questions": [
+    "The lawyer asks \"Who is my neighbor?\" and Jesus ends with \"Which was a neighbor?\" What changed in the question?",
+    "Why a Samaritan, and not, say, a third Jew?",
+    "Jesus says Mary has chosen the good part. What is he saying about Martha, and what is he not saying?",
+    "The seventy are told to go with almost nothing. What would that teach them about the mission?"
+  ],
+  "words": [
+    {
+      "id": "plesion",
+      "note": "\"Who is my neighbor?\" (10:27-36)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Peace be to this house\" (10:5-6)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "The Samaritan \"was moved with compassion\" (10:33)."
+    },
+    {
+      "id": "diakonia",
+      "note": "Martha was \"distracted with much serving\" (10:40)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"You shall love the Lord your God ... and your neighbor as yourself\" (10:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 6:5",
+      "note": "love the Lord your God with all your heart"
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor as yourself"
+    },
+    {
+      "ref": "Numbers 11:16-17",
+      "note": "seventy elders share Moses' spirit"
+    },
+    {
+      "ref": "Isaiah 14:12-15",
+      "note": "how you have fallen from heaven"
+    },
+    {
+      "ref": "Psalm 91:13",
+      "note": "you will tread on the lion and the viper"
+    }
+  ],
+  "number": 10,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "osis": "Luke",
+  "stepBook": "Luk",
+  "webFile": "luke.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9"
+    },
+    {
+      "id": "galilee",
+      "ancientId": "a9cf1e8"
+    },
+    {
+      "id": "sea-of-galilee",
+      "ancientId": "a562fcc",
+      "mapOnly": true
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "capernaum",
+      "ancientId": "af2161c"
+    },
+    {
+      "id": "nazareth",
+      "ancientId": "af5884f"
+    },
+    {
+      "id": "bethsaida",
+      "ancientId": "a9fc13a"
+    },
+    {
+      "id": "tyre",
+      "ancientId": "a160272"
+    },
+    {
+      "id": "sidon",
+      "ancientId": "a98e4d7"
+    },
+    {
+      "id": "jericho",
+      "ancientId": "aaf03fa"
+    },
+    {
+      "id": "bethphage",
+      "ancientId": "abff59d"
+    },
+    {
+      "id": "bethany",
+      "ancientId": "a4f35bc"
+    },
+    {
+      "id": "mount-of-olives",
+      "ancientId": "ac2c4c5"
+    },
+    {
+      "id": "golgotha",
+      "ancientId": "a631d35"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
+    },
+    {
+      "id": "arimathea",
+      "ancientId": "af3d9fc"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "bethlehem",
+      "ancientId": "a112427"
+    },
+    {
+      "id": "nain",
+      "ancientId": "aee679c"
+    },
+    {
+      "id": "emmaus",
+      "ancientId": "ae7274b"
+    },
+    {
+      "id": "gerasa",
+      "ancientId": "ada6b64",
+      "map": "none"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "zechariah",
+      "theographic": "zacharias_2971"
+    },
+    {
+      "id": "elizabeth",
+      "theographic": "elisabeth_1152"
+    },
+    {
+      "id": "gabriel",
+      "theographic": "gabriel_1261"
+    },
+    {
+      "id": "mary",
+      "theographic": "mary_1938"
+    },
+    {
+      "id": "joseph",
+      "theographic": "joseph_1715"
+    },
+    {
+      "id": "john-baptist",
+      "theographic": "john_1676"
+    },
+    {
+      "id": "augustus",
+      "theographic": "augustus_366"
+    },
+    {
+      "id": "herod-antipas",
+      "theographic": "herod_1505"
+    },
+    {
+      "id": "annas",
+      "theographic": "annas_269"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "the-devil",
+      "theographic": "satan_2476"
+    },
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "joanna",
+      "theographic": "joanna_1629"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "james-zebedee",
+      "theographic": "james_717"
+    },
+    {
+      "id": "john-apostle",
+      "theographic": "john_1677"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
+    },
+    {
+      "id": "martha",
+      "theographic": "martha_1937"
+    },
+    {
+      "id": "mary-of-bethany",
+      "theographic": "mary_1939"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
+    }
+  ],
+  "words": [
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "Luke 2:11"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "Luke 2:10"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Luke 1:30"
+    },
+    {
+      "id": "aphesis",
+      "strongs": [
+        "G0859"
+      ],
+      "foundAt": "Luke 3:3"
+    },
+    {
+      "id": "metanoia",
+      "strongs": [
+        "G3341"
+      ],
+      "foundAt": "Luke 3:3"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "Luke 3:8"
+    },
+    {
+      "id": "diabolos",
+      "strongs": [
+        "G1228"
+      ],
+      "foundAt": "Luke 4:2"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Luke 3:7"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Luke 4:32"
+    },
+    {
+      "id": "epitimao",
+      "strongs": [
+        "G2008"
+      ],
+      "foundAt": "Luke 4:35"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "Luke 5:8"
+    },
+    {
+      "id": "telones",
+      "strongs": [
+        "G5057"
+      ],
+      "foundAt": "Luke 5:27"
+    },
+    {
+      "id": "charizomai",
+      "strongs": [
+        "G5483"
+      ],
+      "foundAt": "Luke 7:42"
+    },
+    {
+      "id": "hamartolos",
+      "strongs": [
+        "G0268"
+      ],
+      "foundAt": "Luke 5:8"
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "foundAt": "Luke 6:20"
+    },
+    {
+      "id": "ouai",
+      "strongs": [
+        "G3759"
+      ],
+      "foundAt": "Luke 6:24"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Luke 6:27"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Luke 6:13"
+    },
+    {
+      "id": "sabbaton",
+      "strongs": [
+        "G4521"
+      ],
+      "foundAt": "Luke 6:1"
+    },
+    {
+      "id": "splanchnizomai",
+      "strongs": [
+        "G4697"
+      ],
+      "foundAt": "Luke 7:13"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Luke 7:9"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Luke 7:50"
+    },
+    {
+      "id": "legion",
+      "strongs": [
+        "G3003"
+      ],
+      "foundAt": "Luke 8:30"
+    },
+    {
+      "id": "parabole",
+      "strongs": [
+        "G3850"
+      ],
+      "foundAt": "Luke 8:4"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Luke 8:3"
+    },
+    {
+      "id": "exodos",
+      "strongs": [
+        "G1841"
+      ],
+      "foundAt": "Luke 9:31"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Luke 9:31"
+    },
+    {
+      "id": "plesion",
+      "strongs": [
+        "G4139"
+      ],
+      "foundAt": "Luke 10:27"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Luke 10:5"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "Luke 10:40"
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "foundAt": "Luke 11:2"
+    },
+    {
+      "id": "epiousios",
+      "strongs": [
+        "G1967"
+      ],
+      "foundAt": "Luke 11:3"
+    },
+    {
+      "id": "peirasmos",
+      "strongs": [
+        "G3986G",
+        "G3986H"
+      ],
+      "foundAt": "Luke 11:4"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Luke 11:13"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "Luke 11:4"
+    },
+    {
+      "id": "merimnao",
+      "strongs": [
+        "G3309"
+      ],
+      "foundAt": "Luke 12:22"
+    },
+    {
+      "id": "pleonexia",
+      "strongs": [
+        "G4124"
+      ],
+      "foundAt": "Luke 12:15"
+    },
+    {
+      "id": "psyche",
+      "strongs": [
+        "G5590G",
+        "G5590H",
+        "G5590I",
+        "G5590J"
+      ],
+      "foundAt": "Luke 12:19"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Luke 9:23"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Luke 10:9"
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "foundAt": "Luke 12:5"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Luke 12:37"
+    },
+    {
+      "id": "agonizomai",
+      "strongs": [
+        "G0075"
+      ],
+      "foundAt": "Luke 13:24"
+    },
+    {
+      "id": "ptochos",
+      "strongs": [
+        "G4434"
+      ],
+      "foundAt": "Luke 14:13"
+    },
+    {
+      "id": "miseo",
+      "strongs": [
+        "G3404"
+      ],
+      "foundAt": "Luke 14:26"
+    },
+    {
+      "id": "apotassomai",
+      "strongs": [
+        "G0657"
+      ],
+      "foundAt": "Luke 14:33"
+    },
+    {
+      "id": "apollymi",
+      "strongs": [
+        "G0622"
+      ],
+      "foundAt": "Luke 15:4"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "Luke 15:7"
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "foundAt": "Luke 16:1"
+    },
+    {
+      "id": "hades",
+      "strongs": [
+        "G0086"
+      ],
+      "foundAt": "Luke 16:23"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Luke 13:3"
+    },
+    {
+      "id": "mamonas",
+      "strongs": [
+        "G3126"
+      ],
+      "foundAt": "Luke 16:9"
+    },
+    {
+      "id": "entos",
+      "strongs": [
+        "G1787"
+      ],
+      "foundAt": "Luke 17:21"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Luke 17:16"
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "foundAt": "Luke 17:13"
+    },
+    {
+      "id": "hilaskomai",
+      "strongs": [
+        "G2433"
+      ],
+      "foundAt": "Luke 18:13"
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "foundAt": "Luke 18:14"
+    },
+    {
+      "id": "mna",
+      "strongs": [
+        "G3414"
+      ],
+      "foundAt": "Luke 19:13"
+    },
+    {
+      "id": "episkope",
+      "strongs": [
+        "G1984"
+      ],
+      "foundAt": "Luke 19:44"
+    },
+    {
+      "id": "agapetos",
+      "strongs": [
+        "G0027"
+      ],
+      "foundAt": "Luke 20:13"
+    },
+    {
+      "id": "phoros",
+      "strongs": [
+        "G5411"
+      ],
+      "foundAt": "Luke 20:22"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "Luke 20:27"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "Luke 17:3"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "Luke 19:46"
+    },
+    {
+      "id": "apolytrosis",
+      "strongs": [
+        "G0629"
+      ],
+      "foundAt": "Luke 21:28"
+    },
+    {
+      "id": "agrypneo",
+      "strongs": [
+        "G0069"
+      ],
+      "foundAt": "Luke 21:36"
+    },
+    {
+      "id": "anamnesis",
+      "strongs": [
+        "G0364"
+      ],
+      "foundAt": "Luke 22:19"
+    },
+    {
+      "id": "siniazo",
+      "strongs": [
+        "G4617"
+      ],
+      "foundAt": "Luke 22:31"
+    },
+    {
+      "id": "paradeisos",
+      "strongs": [
+        "G3857"
+      ],
+      "foundAt": "Luke 23:43"
+    },
+    {
+      "id": "dikaios",
+      "strongs": [
+        "G1342"
+      ],
+      "foundAt": "Luke 23:47"
+    },
+    {
+      "id": "diermeneuo",
+      "strongs": [
+        "G1329"
+      ],
+      "foundAt": "Luke 24:27"
+    },
+    {
+      "id": "elpizo",
+      "strongs": [
+        "G1679"
+      ],
+      "foundAt": "Luke 24:21"
+    },
+    {
+      "id": "ethnos",
+      "strongs": [
+        "G1484"
+      ],
+      "foundAt": "Luke 21:24"
+    },
+    {
+      "id": "lepton",
+      "strongs": [
+        "G3016"
+      ],
+      "foundAt": "Luke 21:2"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Luke 22:20"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Luke 22:1"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Luke 23:21"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Luke 23:45"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Luke 23:1"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Luke 24:6"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean, the Dead Sea, and Samaria aren't central to Luke's story; they're pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Where Emmaus was is debated; several sites have been proposed, so the marker is a best guess from OpenBible's data."
+    }
+  ]
+}

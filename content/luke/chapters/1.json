@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Two unexpected births announced, in a priest's temple duty and a Galilean village",
+  "summary": "Luke opens with a one-sentence preface: since many have set out to draw up an account of the things fulfilled among us, as handed down by eyewitnesses and servants of the word, it seemed good to him, having followed everything closely from the first, to write an orderly account for \"most excellent Theophilus,\" so that he may know the certainty of what he has been taught. In the days of King Herod of Judea there is a priest named Zechariah, of the division of Abijah, and his wife Elizabeth, also from a priestly family. Both are righteous, but she is barren and they are old. While Zechariah is serving at the altar of incense, the angel Gabriel appears and says Elizabeth will bear a son, John, who will be great before the Lord, will drink no wine, will be filled with the Holy Spirit even from the womb, and will turn many in Israel back to God \"in the spirit and power of Elijah.\" Zechariah asks, \"How will I know this?\" and is made unable to speak until it happens. Elizabeth conceives and says, \"This is what the Lord has done for me ... to take away my disgrace among people.\" In her sixth month Gabriel is sent to Nazareth, a village in Galilee, to a virgin named Mary, engaged to Joseph, of David's house: \"Rejoice, you highly favored one! The Lord is with you.\" She will conceive and bear a son named Jesus, who will be called Son of the Most High and receive the throne of his father David, and \"of his kingdom there will be no end.\" Mary asks, \"How can this be, seeing I am a virgin?\" \"The Holy Spirit will come on you, and the power of the Most High will overshadow you.\" She answers, \"Behold, the servant of the Lord; let it be done to me according to your word.\" She hurries to the hill country of Judea to visit Elizabeth, and the baby leaps in Elizabeth's womb. Elizabeth, filled with the Spirit, cries, \"Blessed are you among women, and blessed is the fruit of your womb!\" Mary sings the Magnificat: \"My soul magnifies the Lord ... He has put down princes from their thrones, and has exalted the lowly. He has filled the hungry with good things. He has sent the rich away empty.\" She stays about three months, then goes home. John is born; on the eighth day the neighbors want to name him Zechariah, but Elizabeth says, \"He will be called John,\" and Zechariah writes, \"His name is John,\" and his tongue is loosed. Filled with the Spirit, he sings a song of blessing: the Lord has raised up \"a horn of salvation\" in the house of David, and \"the dawn from on high will visit us, to shine on those who sit in darkness and the shadow of death, to guide our feet into the way of peace.\" The child grows strong in spirit and lives in the wilderness until he appears publicly to Israel.",
+  "whySettingMatters": "Luke's preface follows the pattern of ancient histories, and with it he says what kind of book he means this to be: researched, orderly, and based on eyewitnesses. Herod the Great ruled Judea for Rome until 4 BC. Priests served in the temple in twenty-four divisions, each for a week at a time twice a year (1 Chronicles 24), and the burning of incense was decided by lot, so it was a rare honor. The word of an old, barren couple having a son echoes Abraham and Sarah, and Hannah and Samuel. Barrenness was widely felt as a disgrace, which is why Elizabeth speaks of having it taken away. John is described as a Nazirite-like figure who drinks no wine, and as an Elijah-like forerunner in the words of Malachi 4:5-6. Mary lives in Nazareth, a small village in Galilee, and engagement was legally binding but came before the couple lived together. Mary's age isn't stated; betrothals at a young age were common, though what age is assumed is debated. Mary's song closely echoes Hannah's song (1 Samuel 2:1-10) and speaks of God reversing the high and the low, a theme that runs through Luke. Zechariah's song closes with images of dawn and light that anticipate the rest of the book. The hill country of Judea is some seventy or more miles south of Nazareth; Luke doesn't name the town.",
+  "people": [
+    {
+      "id": "zechariah",
+      "note": "A priest struck silent for doubting, who names his son John."
+    },
+    {
+      "id": "elizabeth",
+      "note": "Mary's relative, who conceives in old age."
+    },
+    {
+      "id": "gabriel",
+      "note": "The angel who announces both births."
+    },
+    {
+      "id": "mary",
+      "note": "A young woman in Nazareth who says yes."
+    },
+    {
+      "id": "joseph",
+      "note": "Engaged to Mary, of David's house."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Born to Zechariah and Elizabeth, to prepare the way."
+    }
+  ],
+  "questions": [
+    "Zechariah, a priest in the temple, doubts the angel, while Mary, a village girl, asks and then accepts. What does Luke seem to be doing with that contrast?",
+    "Mary's song says God lifts the lowly and sends the rich away empty. What would it have meant sung by someone in her position?",
+    "Luke says he wrote an \"orderly account\" so that Theophilus can be sure. What kind of certainty is he offering?",
+    "Zechariah's first words when he can speak are a blessing. What does that tell us about how he used the months of silence?"
+  ],
+  "words": [
+    {
+      "id": "euangelizo",
+      "note": "Gabriel says he was sent \"to bring you this good news\" (1:19)."
+    },
+    {
+      "id": "charis",
+      "note": "\"You have found favor with God\" (1:30)."
+    },
+    {
+      "id": "soter",
+      "note": "\"My spirit rejoices in God my Savior\" (1:47)."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"Knowledge of salvation ... in the forgiveness of their sins\" (1:77)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"Blessed is the fruit of your womb\" (1:42)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Samuel 2:1-10",
+      "note": "Hannah's song, which Mary's echoes"
+    },
+    {
+      "ref": "Malachi 4:5-6",
+      "note": "Elijah sent before the day of the Lord"
+    },
+    {
+      "ref": "2 Samuel 7:12-16",
+      "note": "a throne for David's son"
+    },
+    {
+      "ref": "Genesis 18:11-14",
+      "note": "Sarah laughs at a promised child in old age"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

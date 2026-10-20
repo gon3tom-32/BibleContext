@@ -1,0 +1,3535 @@
+[
+  {
+    "id": "soter",
+    "transliteration": "sōtēr",
+    "original": "σωτήρ",
+    "pronunciation": "so-TARE",
+    "gloss": "savior",
+    "notes": "One who rescues or saves. In Luke it is first used by Mary of God (1:47) and then by the angel of Jesus (2:11). In the Roman world \"savior\" was a title given to emperors and benefactors, so using it for a baby in a feeding trough is a pointed contrast.",
+    "range": [
+      {
+        "sense": "Rescuer",
+        "note": "One who saves from danger."
+      },
+      {
+        "sense": "Healer",
+        "note": "One who restores."
+      },
+      {
+        "sense": "Title",
+        "note": "A royal or divine title in the Greek world."
+      }
+    ],
+    "translations": [
+      "Savior",
+      "deliverer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 4:42",
+        "note": "\"Indeed the Savior of the world.\""
+      },
+      {
+        "ref": "Acts 5:31",
+        "note": "God exalted him to be Leader and Savior."
+      },
+      {
+        "ref": "Acts 13:23",
+        "note": "From David's seed, God brought a Savior."
+      },
+      {
+        "ref": "Philippians 3:20",
+        "note": "We eagerly await a Savior."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euangelizo",
+    "transliteration": "euangelizomai",
+    "original": "εὐαγγελίζομαι",
+    "pronunciation": "yoo-ang-gel-ID-zom-eye",
+    "gloss": "to announce good news",
+    "notes": "The verb behind \"gospel.\" Luke uses it more than any other Gospel: Gabriel announces John's birth (1:19), the angel announces Jesus' birth (2:10), John preaches (3:18), and Jesus says it is why he was sent (4:18, 4:43). It means to bring news worth celebrating, as a messenger from a battlefield would.",
+    "range": [
+      {
+        "sense": "Announce good news",
+        "note": "Bring joyful news."
+      },
+      {
+        "sense": "Preach",
+        "note": "Proclaim the gospel."
+      }
+    ],
+    "translations": [
+      "bring good news",
+      "preach the gospel",
+      "proclaim"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:5",
+        "note": "The poor have good news preached to them."
+      },
+      {
+        "ref": "Acts 8:35",
+        "note": "Philip tells him the good news about Jesus."
+      },
+      {
+        "ref": "Romans 10:15",
+        "note": "How beautiful are the feet of those who bring good news."
+      },
+      {
+        "ref": "Hebrews 4:2",
+        "note": "The good news was preached to us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "charis",
+    "transliteration": "charis",
+    "original": "χάρις",
+    "pronunciation": "KHA-rees",
+    "gloss": "grace, favor",
+    "notes": "Favor, kindness freely given, and the gratitude that answers it. Mary has \"found favor\" with God (1:30), the child Jesus grows in favor with God and people (2:40, 2:52), and the Nazarenes marvel at his \"gracious\" words (4:22).",
+    "range": [
+      {
+        "sense": "Favor",
+        "note": "Goodwill shown to someone."
+      },
+      {
+        "sense": "Gift",
+        "note": "What is given freely."
+      },
+      {
+        "sense": "Thanks",
+        "note": "Gratitude."
+      }
+    ],
+    "translations": [
+      "grace",
+      "favor",
+      "thanks",
+      "gracious"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 1:14",
+        "note": "The Word was full of grace and truth."
+      },
+      {
+        "ref": "Acts 4:33",
+        "note": "Great grace was on them all."
+      },
+      {
+        "ref": "Romans 3:24",
+        "note": "Justified freely by his grace."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you are saved."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphesis",
+    "transliteration": "aphesis",
+    "original": "ἄφεσις",
+    "pronunciation": "AF-eh-sis",
+    "gloss": "release, forgiveness",
+    "notes": "Release or letting go, used for freeing a prisoner, canceling a debt, and forgiving sins. In Luke 4:18 Jesus reads Isaiah's \"release to the captives\" and \"set free those who are oppressed,\" using the same word twice. Forgiveness of sins is tied to John's baptism (3:3) and Zechariah's song (1:77).",
+    "range": [
+      {
+        "sense": "Release",
+        "note": "Freedom from captivity."
+      },
+      {
+        "sense": "Cancellation",
+        "note": "Release from a debt."
+      },
+      {
+        "sense": "Forgiveness",
+        "note": "Pardon for sins."
+      }
+    ],
+    "translations": [
+      "forgiveness",
+      "release",
+      "liberty",
+      "remission"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:28",
+        "note": "The blood poured out for the forgiveness of sins."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Be baptized for the forgiveness of sins."
+      },
+      {
+        "ref": "Ephesians 1:7",
+        "note": "Redemption, the forgiveness of sins."
+      },
+      {
+        "ref": "Hebrews 9:22",
+        "note": "Without shedding of blood, no forgiveness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoia",
+    "transliteration": "metanoia",
+    "original": "μετάνοια",
+    "pronunciation": "met-AH-noy-ah",
+    "gloss": "repentance",
+    "notes": "A change of mind that leads to a change of life. John's baptism is \"of repentance\" (3:3), and he asks for \"fruits worthy of repentance\" (3:8), and then spells it out as sharing, honesty, and fairness. It is the noun that goes with the verb \"repent\" (metanoeō).",
+    "range": [
+      {
+        "sense": "Change of mind",
+        "note": "A new way of thinking."
+      },
+      {
+        "sense": "Turning",
+        "note": "A change of direction."
+      }
+    ],
+    "translations": [
+      "repentance",
+      "change of heart"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:8",
+        "note": "Produce fruit worthy of repentance."
+      },
+      {
+        "ref": "Acts 20:21",
+        "note": "Repentance toward God."
+      },
+      {
+        "ref": "Romans 2:4",
+        "note": "God's kindness leads you to repentance."
+      },
+      {
+        "ref": "2 Corinthians 7:10",
+        "note": "Godly sorrow produces repentance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "karpos",
+    "transliteration": "karpos",
+    "original": "καρπός",
+    "pronunciation": "kar-POS",
+    "gloss": "fruit",
+    "notes": "Fruit of a tree or a field, and so the result of a life. John says that repentance must show in \"fruits\" and warns that a tree that doesn't produce good fruit is cut down (3:8-9). Elizabeth also uses it, literally, of Mary's child (1:42).",
+    "range": [
+      {
+        "sense": "Fruit",
+        "note": "What a plant produces."
+      },
+      {
+        "sense": "Result",
+        "note": "What a life produces."
+      }
+    ],
+    "translations": [
+      "fruit",
+      "offspring",
+      "result"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:16",
+        "note": "You will know them by their fruits."
+      },
+      {
+        "ref": "John 15:5",
+        "note": "Whoever remains in me bears much fruit."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit."
+      },
+      {
+        "ref": "James 3:17",
+        "note": "Wisdom from above is full of good fruits."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diabolos",
+    "transliteration": "diabolos",
+    "original": "διάβολος",
+    "pronunciation": "dee-AB-oh-los",
+    "gloss": "devil, slanderer",
+    "notes": "From a verb meaning \"to throw across,\" so one who accuses or slanders. In the New Testament it is the name for the chief adversary, also called Satan. In Luke 4 he tests Jesus three times and leaves \"until another time.\"",
+    "range": [
+      {
+        "sense": "Slanderer",
+        "note": "One who accuses falsely."
+      },
+      {
+        "sense": "The Devil",
+        "note": "The adversary of God."
+      }
+    ],
+    "translations": [
+      "devil",
+      "slanderer",
+      "accuser"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:1",
+        "note": "Jesus was led up to be tempted by the devil."
+      },
+      {
+        "ref": "John 8:44",
+        "note": "\"You are of your father the devil.\""
+      },
+      {
+        "ref": "Ephesians 6:11",
+        "note": "Stand against the schemes of the devil."
+      },
+      {
+        "ref": "James 4:7",
+        "note": "Resist the devil, and he will flee."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To dip or immerse. John's baptism in the Jordan was a sign of repentance (3:3), and Luke has Jesus baptized while he prays (3:21). John says the one to come will baptize \"with the Holy Spirit and fire\" (3:16).",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:13",
+        "note": "Jesus comes to John to be baptized."
+      },
+      {
+        "ref": "Mark 1:9",
+        "note": "Jesus is baptized in the Jordan."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Be baptized for the forgiveness of sins."
+      },
+      {
+        "ref": "Romans 6:3",
+        "note": "Baptized into his death."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "Authority, the right and the power to act. In Luke 4 people are astonished that Jesus' word carries authority, in teaching (4:32) and over unclean spirits (4:36).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "All authority has been given to me."
+      },
+      {
+        "ref": "John 1:12",
+        "note": "The right to become children of God."
+      },
+      {
+        "ref": "Romans 13:1",
+        "note": "Governing authorities."
+      },
+      {
+        "ref": "Colossians 1:13",
+        "note": "Delivered from the power of darkness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epitimao",
+    "transliteration": "epitimaō",
+    "original": "ἐπιτιμάω",
+    "pronunciation": "eh-pee-tee-MAH-oh",
+    "gloss": "to rebuke, to command sternly",
+    "notes": "To rebuke, to speak sharply to. In Luke 4 Jesus rebukes the unclean spirit (4:35), the fever (4:39), and the demons, and does not let them speak (4:41), as a master commands what is under him.",
+    "range": [
+      {
+        "sense": "Rebuke",
+        "note": "Speak sharply against."
+      },
+      {
+        "sense": "Command sternly",
+        "note": "Give a strict order, often to silence."
+      },
+      {
+        "sense": "Warn",
+        "note": "Charge someone strongly."
+      }
+    ],
+    "translations": [
+      "rebuke",
+      "sternly order",
+      "warn",
+      "command"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:26",
+        "note": "He rebukes the wind and the sea."
+      },
+      {
+        "ref": "Mark 1:25",
+        "note": "Jesus rebukes the unclean spirit."
+      },
+      {
+        "ref": "Jude 1:9",
+        "note": "\"The Lord rebuke you.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kyrios",
+    "transliteration": "kyrios",
+    "original": "κύριος",
+    "pronunciation": "KOO-ree-os",
+    "gloss": "lord, master",
+    "notes": "A word that can mean \"sir,\" \"master,\" or \"Lord,\" and which the Greek Old Testament uses for God's name. Luke uses it of God throughout the birth story and then increasingly of Jesus, who is called \"the Lord\" in his narration (7:13). Peter's \"Lord\" in 5:8 begins with awe; in 6:46 Jesus asks why people say it without doing what he says.",
+    "range": [
+      {
+        "sense": "Sir",
+        "note": "A polite address."
+      },
+      {
+        "sense": "Master",
+        "note": "An owner or ruler."
+      },
+      {
+        "sense": "Lord",
+        "note": "The title for God and for Jesus."
+      }
+    ],
+    "translations": [
+      "Lord",
+      "lord",
+      "master",
+      "sir"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:21",
+        "note": "\"Not everyone who says to me, 'Lord, Lord.'\""
+      },
+      {
+        "ref": "John 20:28",
+        "note": "Thomas: \"My Lord and my God!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "God has made him both Lord and Christ."
+      },
+      {
+        "ref": "Philippians 2:11",
+        "note": "Every tongue will confess that Jesus Christ is Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "telones",
+    "transliteration": "telōnēs",
+    "original": "τελώνης",
+    "pronunciation": "tel-OH-nace",
+    "gloss": "tax collector",
+    "notes": "Someone who collected taxes or customs for Rome, usually by paying for the contract in advance and recovering the cost, plus a profit, from the public. They were thought of as collaborators and thieves and are grouped with \"sinners.\" Luke names tax collectors more than any other Gospel: Levi (5:27), those baptized by John (3:12, 7:29), and later Zacchaeus (19:2).",
+    "range": [
+      {
+        "sense": "Tax collector",
+        "note": "One who collects taxes."
+      },
+      {
+        "sense": "Customs agent",
+        "note": "One who collects tolls on trade."
+      }
+    ],
+    "translations": [
+      "tax collector",
+      "publican"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:10",
+        "note": "Many tax collectors and sinners sat with him."
+      },
+      {
+        "ref": "Matthew 21:31",
+        "note": "Tax collectors and prostitutes go into the kingdom ahead of you."
+      },
+      {
+        "ref": "Luke 3:12",
+        "note": "Tax collectors came to be baptized."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "charizomai",
+    "transliteration": "charizomai",
+    "original": "χαρίζομαι",
+    "pronunciation": "khar-ID-zom-eye",
+    "gloss": "to forgive, to give freely",
+    "notes": "From the same root as charis (grace). It means to give as a favor, and is used for forgiving a debt. In the story of the two debtors, the moneylender \"forgave\" both (7:42-43). Paul uses it too (2 Corinthians 2:7; Colossians 3:13).",
+    "range": [
+      {
+        "sense": "Give freely",
+        "note": "Grant as a favor."
+      },
+      {
+        "sense": "Forgive",
+        "note": "Cancel a debt."
+      }
+    ],
+    "translations": [
+      "forgive",
+      "give freely",
+      "grant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 2:7",
+        "note": "You should rather forgive and comfort him."
+      },
+      {
+        "ref": "Ephesians 4:32",
+        "note": "Forgiving each other, as God forgave you."
+      },
+      {
+        "ref": "Colossians 3:13",
+        "note": "Forgive as the Lord forgave you."
+      },
+      {
+        "ref": "Romans 8:32",
+        "note": "Will he not also freely give us all things?"
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hamartolos",
+    "transliteration": "hamartōlos",
+    "original": "ἁμαρτωλός",
+    "pronunciation": "ha-mar-toh-LOSS",
+    "gloss": "sinner, sinful",
+    "notes": "A sinner. In Luke it is used of people the religious leaders consider outside the community: tax collectors (5:30, 7:34), the woman in Simon's house (7:37, 7:39), and Peter himself, who says, \"I am a sinful man\" (5:8). Jesus says he came to call sinners to repentance (5:32).",
+    "range": [
+      {
+        "sense": "Sinner",
+        "note": "One who has sinned."
+      },
+      {
+        "sense": "Outcast",
+        "note": "Someone seen as outside the faithful community."
+      }
+    ],
+    "translations": [
+      "sinner",
+      "sinful",
+      "outcast"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:13",
+        "note": "Not the righteous, but sinners."
+      },
+      {
+        "ref": "John 9:31",
+        "note": "God doesn't listen to sinners."
+      },
+      {
+        "ref": "Romans 5:8",
+        "note": "While we were still sinners, Christ died for us."
+      },
+      {
+        "ref": "1 Timothy 1:15",
+        "note": "Christ came into the world to save sinners."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "makarios",
+    "transliteration": "makarios",
+    "original": "μακάριος",
+    "pronunciation": "mah-KAH-ree-oss",
+    "gloss": "blessed, happy",
+    "notes": "Blessed, fortunate, or happy in the sense of being in a favored position before God. In Luke's version the blessing is given to those who are actually poor, hungry, and weeping (6:20-22), and is paired with warnings to the rich.",
+    "range": [
+      {
+        "sense": "Fortunate",
+        "note": "Well off, to be congratulated."
+      },
+      {
+        "sense": "Blessed by God",
+        "note": "In God's favor, whatever things look like now."
+      },
+      {
+        "sense": "Happy",
+        "note": "In ordinary Greek, simply happy or prosperous."
+      }
+    ],
+    "translations": [
+      "blessed",
+      "happy",
+      "fortunate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:3",
+        "note": "Blessed are the poor in spirit."
+      },
+      {
+        "ref": "John 20:29",
+        "note": "Blessed are those who have not seen and yet believe."
+      },
+      {
+        "ref": "James 1:12",
+        "note": "Blessed is the one who endures trial."
+      },
+      {
+        "ref": "Revelation 14:13",
+        "note": "Blessed are the dead who die in the Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ouai",
+    "transliteration": "ouai",
+    "original": "οὐαί",
+    "pronunciation": "oo-AI",
+    "gloss": "woe",
+    "notes": "\"Woe,\" a cry of grief or warning. Luke gives four woes to match his four blessings (6:24-26). Throughout the Gospel it is spoken of those whose comfort has become their security.",
+    "range": [
+      {
+        "sense": "Cry of grief",
+        "note": "Pain or sorrow."
+      },
+      {
+        "sense": "Warning of judgment",
+        "note": "A prophet's announcement of trouble ahead."
+      }
+    ],
+    "translations": [
+      "woe",
+      "alas",
+      "how terrible"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 23:13",
+        "note": "Woe to you, scribes and Pharisees."
+      },
+      {
+        "ref": "1 Corinthians 9:16",
+        "note": "Woe is me if I do not preach the gospel."
+      },
+      {
+        "ref": "Jude 1:11",
+        "note": "Woe to them, for they walked in the way of Cain."
+      },
+      {
+        "ref": "Revelation 8:13",
+        "note": "Woe to those who dwell on the earth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapao",
+    "transliteration": "agapaō",
+    "original": "ἀγαπάω",
+    "pronunciation": "ah-gah-PAH-oh",
+    "gloss": "to love",
+    "notes": "The verb of self-giving love. In Luke 6 Jesus says to love enemies, which is unlike ordinary loyalty, since even sinners love those who love them (6:32). In 7:42-47 love is the response of a forgiven person.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Care for another that shows itself in action."
+      },
+      {
+        "sense": "Prefer",
+        "note": "Choose one over another."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:44",
+        "note": "Love your enemies."
+      },
+      {
+        "ref": "John 13:34",
+        "note": "Love one another as I have loved you."
+      },
+      {
+        "ref": "Romans 13:8",
+        "note": "Love is the fulfillment of the law."
+      },
+      {
+        "ref": "1 John 4:19",
+        "note": "We love because he first loved us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apostolos",
+    "transliteration": "apostolos",
+    "original": "ἀπόστολος",
+    "pronunciation": "ah-POSS-toh-loss",
+    "gloss": "apostle, one sent",
+    "notes": "Someone sent with authority. Luke says Jesus chose twelve from his disciples \"whom he also named apostles\" (6:13), after a night of prayer.",
+    "range": [
+      {
+        "sense": "Messenger",
+        "note": "Someone sent with a message."
+      },
+      {
+        "sense": "Envoy",
+        "note": "Someone sent to act with the sender's authority."
+      },
+      {
+        "sense": "The apostles",
+        "note": "The twelve, and later others such as Paul."
+      }
+    ],
+    "translations": [
+      "apostle",
+      "messenger",
+      "one who is sent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 13:16",
+        "note": "A messenger is not greater than the one who sent him."
+      },
+      {
+        "ref": "Acts 1:26",
+        "note": "Matthias is numbered with the eleven apostles."
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, called to be an apostle."
+      },
+      {
+        "ref": "Galatians 1:1",
+        "note": "An apostle not from men."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sabbaton",
+    "transliteration": "sabbaton",
+    "original": "σάββατον",
+    "pronunciation": "SAB-bah-ton",
+    "gloss": "Sabbath",
+    "notes": "The Sabbath, the seventh day of rest. Luke 6 gives two Sabbath conflicts, over picking grain and healing a hand, ending with \"The Son of Man is Lord of the Sabbath.\"",
+    "range": [
+      {
+        "sense": "The Sabbath day",
+        "note": "The seventh day, set apart for rest."
+      },
+      {
+        "sense": "A week",
+        "note": "As in \"the first day of the week\" (28:1)."
+      }
+    ],
+    "translations": [
+      "Sabbath",
+      "week"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:8",
+        "note": "The Son of Man is Lord of the Sabbath."
+      },
+      {
+        "ref": "John 5:9",
+        "note": "It was the Sabbath on that day."
+      },
+      {
+        "ref": "Acts 13:14",
+        "note": "They went into the synagogue on the Sabbath."
+      },
+      {
+        "ref": "Colossians 2:16",
+        "note": "Don't let anyone judge you about a Sabbath."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "splanchnizomai",
+    "transliteration": "splanchnizomai",
+    "original": "σπλαγχνίζομαι",
+    "pronunciation": "splangkh-NID-zoh-my",
+    "gloss": "to have compassion",
+    "notes": "To be moved in the gut. In Luke it is used of Jesus' reaction to the widow of Nain (7:13), and in two stories only Luke tells it is used of the good Samaritan (10:33) and the father in the story of the lost son (15:20).",
+    "range": [
+      {
+        "sense": "Be moved inside",
+        "note": "A gut-level feeling of pity."
+      },
+      {
+        "sense": "Act with compassion",
+        "note": "The feeling that leads to help."
+      }
+    ],
+    "translations": [
+      "had compassion",
+      "was moved with pity",
+      "felt sorry for"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 14:14",
+        "note": "Compassion before feeding the crowd."
+      },
+      {
+        "ref": "Mark 1:41",
+        "note": "Moved with pity for a man with a skin disease."
+      },
+      {
+        "ref": "Matthew 20:34",
+        "note": "Moved with compassion for two blind men."
+      },
+      {
+        "ref": "Mark 6:34",
+        "note": "Compassion for the crowd like sheep without a shepherd."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pistis",
+    "transliteration": "pistis",
+    "original": "πίστις",
+    "pronunciation": "PISS-tiss",
+    "gloss": "faith, trust",
+    "notes": "Trust, faithfulness, and belief. In Luke it is what Jesus finds in the centurion (7:9) and the forgiven woman (7:50), and what he asks of the disciples in the storm (8:25).",
+    "range": [
+      {
+        "sense": "Trust",
+        "note": "Confidence in a person or what they can do."
+      },
+      {
+        "sense": "Faithfulness",
+        "note": "Being trustworthy and loyal (STEPBible tags this sense separately)."
+      },
+      {
+        "sense": "The faith",
+        "note": "Later, what Christians believe."
+      }
+    ],
+    "translations": [
+      "faith",
+      "trust",
+      "faithfulness",
+      "belief"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:22",
+        "note": "Your faith has made you well."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteous will live by faith."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you have been saved through faith."
+      },
+      {
+        "ref": "Hebrews 11:1",
+        "note": "Faith is the assurance of things hoped for."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sozo",
+    "transliteration": "sōzō",
+    "original": "σῴζω",
+    "pronunciation": "SODE-zo",
+    "gloss": "to save, to heal, to make well",
+    "notes": "To save, heal, or make well, one word covering rescue, healing, and salvation. In Luke 7:50 and 8:48 Jesus says to women, \"Your faith has saved you\" or \"made you well,\" which can mean either, or both.",
+    "range": [
+      {
+        "sense": "Heal",
+        "note": "To make well."
+      },
+      {
+        "sense": "Rescue",
+        "note": "To save from danger or death."
+      },
+      {
+        "sense": "Save",
+        "note": "To save in the fullest sense."
+      }
+    ],
+    "translations": [
+      "save",
+      "heal",
+      "make well",
+      "rescue"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "John 3:17",
+        "note": "The world might be saved through him."
+      },
+      {
+        "ref": "Acts 2:21",
+        "note": "Everyone who calls will be saved."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you are saved."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "legion",
+    "transliteration": "legiōn",
+    "original": "λεγιών",
+    "pronunciation": "leg-ee-OWN",
+    "gloss": "legion",
+    "notes": "A Latin loan word for a unit of several thousand Roman soldiers. The spirits give it as their name (8:30), since they are many.",
+    "range": [
+      {
+        "sense": "Military unit",
+        "note": "A Roman legion."
+      },
+      {
+        "sense": "A great number",
+        "note": "Used loosely for \"a vast host.\""
+      }
+    ],
+    "translations": [
+      "Legion"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:53",
+        "note": "More than twelve legions of angels."
+      },
+      {
+        "ref": "Mark 5:9",
+        "note": "The same name in Mark's telling."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parabole",
+    "transliteration": "parabolē",
+    "original": "παραβολή",
+    "pronunciation": "pah-rah-bo-LAY",
+    "gloss": "parable, comparison",
+    "notes": "A comparison or story set beside a truth. In Luke 8 Jesus tells the parable of the sower and says that for the crowds the truths are given in parables, while the disciples are given the meaning.",
+    "range": [
+      {
+        "sense": "Comparison",
+        "note": "One thing set beside another to explain it."
+      },
+      {
+        "sense": "Story",
+        "note": "A short story with a point, like the sower."
+      },
+      {
+        "sense": "Proverb or riddle",
+        "note": "A saying that needs thinking about."
+      }
+    ],
+    "translations": [
+      "parable",
+      "illustration",
+      "comparison",
+      "analogy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:3",
+        "note": "He spoke in parables."
+      },
+      {
+        "ref": "Mark 4:2",
+        "note": "He taught them many things in parables."
+      },
+      {
+        "ref": "Hebrews 9:9",
+        "note": "A symbol for the present time."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakoneo",
+    "transliteration": "diakoneō",
+    "original": "διακονέω",
+    "pronunciation": "dee-ah-ko-NEH-oh",
+    "gloss": "to serve",
+    "notes": "To wait on someone, as at a table. In Luke 8:3 the women \"provided for\" Jesus and the twelve from their possessions, using the same verb as for serving at table.",
+    "range": [
+      {
+        "sense": "Wait at table",
+        "note": "Serve food and drink."
+      },
+      {
+        "sense": "Provide for",
+        "note": "Look after someone's needs."
+      },
+      {
+        "sense": "Minister",
+        "note": "Serve in a role of care or leadership."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "wait on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:28",
+        "note": "The Son of Man came to serve."
+      },
+      {
+        "ref": "Mark 1:31",
+        "note": "She served them."
+      },
+      {
+        "ref": "John 12:26",
+        "note": "Whoever serves me must follow me."
+      },
+      {
+        "ref": "Acts 6:2",
+        "note": "Serving tables."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exodos",
+    "transliteration": "exodos",
+    "original": "ἔξοδος",
+    "pronunciation": "EKS-oh-dos",
+    "gloss": "departure, exodus",
+    "notes": "Literally \"the way out.\" Moses and Elijah speak with Jesus about \"his departure, which he was about to accomplish at Jerusalem\" (9:31). It is the same word as the book of Exodus, so Luke gives Jesus' death and resurrection the shape of a new rescue. In 2 Peter 1:15 the same word is used for Peter's own death.",
+    "range": [
+      {
+        "sense": "Departure",
+        "note": "A way out, or an exit."
+      },
+      {
+        "sense": "Death",
+        "note": "A euphemism for dying."
+      },
+      {
+        "sense": "Exodus",
+        "note": "The rescue from Egypt."
+      }
+    ],
+    "translations": [
+      "departure",
+      "exodus"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 11:22",
+        "note": "Joseph spoke of the departure (exodos) of the sons of Israel."
+      },
+      {
+        "ref": "2 Peter 1:15",
+        "note": "After my departure."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doxa",
+    "transliteration": "doxa",
+    "original": "δόξα",
+    "pronunciation": "DOX-ah",
+    "gloss": "glory",
+    "notes": "Splendor, honor, and the visible presence of God. The angels' \"glory\" at the birth (2:9, 2:14) becomes the glory of Jesus on the mountain (9:31-32) and again in the future coming (21:27). The root is \"to seem,\" so it can mean reputation, but in the Bible it is the weight and brightness of God.",
+    "range": [
+      {
+        "sense": "Glory",
+        "note": "The splendor of God."
+      },
+      {
+        "sense": "Honor",
+        "note": "Praise."
+      },
+      {
+        "sense": "Reputation",
+        "note": "How one is regarded."
+      }
+    ],
+    "translations": [
+      "glory",
+      "honor",
+      "splendor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 1:14",
+        "note": "We have seen his glory."
+      },
+      {
+        "ref": "Romans 3:23",
+        "note": "All have fallen short of the glory of God."
+      },
+      {
+        "ref": "2 Corinthians 4:6",
+        "note": "The light of the knowledge of the glory of God."
+      },
+      {
+        "ref": "Hebrews 1:3",
+        "note": "He is the radiance of God's glory."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "plesion",
+    "transliteration": "plēsion",
+    "original": "πλησίον",
+    "pronunciation": "play-SEE-on",
+    "gloss": "neighbor",
+    "notes": "Literally \"the one near.\" It is the word in the command to love your neighbor as yourself (Leviticus 19:18, in the Greek Bible). The lawyer asks \"Who is my neighbor?\" and Jesus' story reverses it: the Samaritan became a neighbor by what he did (10:36).",
+    "range": [
+      {
+        "sense": "Neighbor",
+        "note": "Someone near."
+      },
+      {
+        "sense": "Fellow person",
+        "note": "Another human being."
+      }
+    ],
+    "translations": [
+      "neighbor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:39",
+        "note": "You shall love your neighbor as yourself."
+      },
+      {
+        "ref": "Romans 13:10",
+        "note": "Love does no harm to a neighbor."
+      },
+      {
+        "ref": "Galatians 5:14",
+        "note": "The whole law is fulfilled in one word."
+      },
+      {
+        "ref": "James 2:8",
+        "note": "Love your neighbor as yourself."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eirene",
+    "transliteration": "eirēnē",
+    "original": "εἰρήνη",
+    "pronunciation": "ay-RAY-nay",
+    "gloss": "peace",
+    "notes": "Peace in the full Hebrew sense of shalom: well-being, wholeness, and right relationship, not just the absence of war. The seventy are to say \"Peace to this house\" (10:5-6). Luke's Gospel is full of the word: the angels' \"on earth peace\" (2:14), \"Go in peace\" (7:50, 8:48), and the risen Jesus' greeting (24:36).",
+    "range": [
+      {
+        "sense": "Peace",
+        "note": "Absence of conflict."
+      },
+      {
+        "sense": "Wellbeing",
+        "note": "Wholeness and safety."
+      },
+      {
+        "sense": "Greeting",
+        "note": "A wish for good."
+      }
+    ],
+    "translations": [
+      "peace"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:13",
+        "note": "Let your peace come on the house."
+      },
+      {
+        "ref": "John 14:27",
+        "note": "My peace I give to you."
+      },
+      {
+        "ref": "Romans 5:1",
+        "note": "We have peace with God."
+      },
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God that surpasses understanding."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakonia",
+    "transliteration": "diakonia",
+    "original": "διακονία",
+    "pronunciation": "dee-ak-on-EE-ah",
+    "gloss": "service, ministry",
+    "notes": "The noun for service, especially waiting on someone at a table. Martha is \"distracted with much serving\" (10:40). The word is later used for the work of the church, and gives us \"deacon.\"",
+    "range": [
+      {
+        "sense": "Service",
+        "note": "Waiting on others."
+      },
+      {
+        "sense": "Ministry",
+        "note": "Work for the community."
+      },
+      {
+        "sense": "Hospitality",
+        "note": "Meeting guests' needs."
+      }
+    ],
+    "translations": [
+      "service",
+      "serving",
+      "ministry"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 6:1",
+        "note": "The daily distribution."
+      },
+      {
+        "ref": "Romans 12:7",
+        "note": "Whoever has a gift of service."
+      },
+      {
+        "ref": "1 Corinthians 12:5",
+        "note": "Varieties of service."
+      },
+      {
+        "ref": "2 Corinthians 5:18",
+        "note": "The ministry of reconciliation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hagiazo",
+    "transliteration": "hagiazō",
+    "original": "ἁγιάζω",
+    "pronunciation": "hag-ee-AD-zo",
+    "gloss": "to make holy, to hallow",
+    "notes": "To treat as holy or to set apart for God. \"Hallowed be your name\" (11:2) asks that God's name be honored as holy, as in the Old Testament, where God says he will make his name holy among the nations (Ezekiel 36:23).",
+    "range": [
+      {
+        "sense": "Hallow",
+        "note": "Treat as holy."
+      },
+      {
+        "sense": "Sanctify",
+        "note": "Set apart for God."
+      }
+    ],
+    "translations": [
+      "hallow",
+      "sanctify",
+      "make holy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:9",
+        "note": "Hallowed be your name."
+      },
+      {
+        "ref": "John 17:19",
+        "note": "For their sakes I sanctify myself."
+      },
+      {
+        "ref": "Hebrews 2:11",
+        "note": "He who sanctifies and those who are sanctified."
+      },
+      {
+        "ref": "1 Peter 3:15",
+        "note": "In your hearts, honor Christ as Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epiousios",
+    "transliteration": "epiousios",
+    "original": "ἐπιούσιος",
+    "pronunciation": "ep-ee-OO-see-os",
+    "gloss": "daily, for the coming day (uncertain)",
+    "notes": "A word found in the Lord's Prayer and nowhere else in Greek writing that survives. It is usually translated \"daily,\" but it may mean \"for the coming day\" or \"needed for existence.\" Luke adds \"day by day\" (11:3), which supports a sense of daily provision.",
+    "range": [
+      {
+        "sense": "Daily",
+        "note": "For each day."
+      },
+      {
+        "sense": "Tomorrow's",
+        "note": "For the day coming."
+      },
+      {
+        "sense": "Necessary",
+        "note": "What is needed to live."
+      }
+    ],
+    "translations": [
+      "daily",
+      "for the coming day"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:11",
+        "note": "Give us this day our daily bread."
+      }
+    ],
+    "uncertain": "The exact meaning of epiousios is debated because the word doesn't survive anywhere else in ancient Greek.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peirasmos",
+    "transliteration": "peirasmos",
+    "original": "πειρασμός",
+    "pronunciation": "pay-ras-MOS",
+    "gloss": "testing, temptation",
+    "notes": "A test or trial, which can be meant to prove someone or to lead them to fail. \"Bring us not into temptation\" (11:4) asks not to be put to a test that is too much. The same word is used for Jesus' testing in the wilderness (4:13) and the disciples' trial in Gethsemane (22:40, 22:46).",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "A trial of character."
+      },
+      {
+        "sense": "Temptation",
+        "note": "An enticement to sin."
+      }
+    ],
+    "translations": [
+      "temptation",
+      "testing",
+      "trial"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:13",
+        "note": "Do not lead us into temptation."
+      },
+      {
+        "ref": "1 Corinthians 10:13",
+        "note": "No temptation has taken you but such as is common."
+      },
+      {
+        "ref": "James 1:2",
+        "note": "Count it all joy when you meet trials."
+      },
+      {
+        "ref": "2 Peter 2:9",
+        "note": "The Lord knows how to rescue the godly from trials."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pneuma",
+    "transliteration": "pneuma",
+    "original": "πνεῦμα",
+    "pronunciation": "PNYOO-mah",
+    "gloss": "spirit, breath, wind",
+    "notes": "Breath, wind, or spirit, in Greek and in the Hebrew word ruach behind it. In Luke it most often refers to the Holy Spirit, who fills John, Mary, Elizabeth, Zechariah, Simeon, and Jesus; it also refers to unclean spirits. Luke and Acts together are often called the Gospel of the Spirit.",
+    "range": [
+      {
+        "sense": "Spirit",
+        "note": "The Holy Spirit, or a spirit being."
+      },
+      {
+        "sense": "Breath",
+        "note": "Life, the breath of a person."
+      },
+      {
+        "sense": "Wind",
+        "note": "Moving air."
+      }
+    ],
+    "translations": [
+      "spirit",
+      "Spirit",
+      "breath",
+      "wind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 3:8",
+        "note": "The wind blows where it wishes."
+      },
+      {
+        "ref": "John 4:24",
+        "note": "God is spirit."
+      },
+      {
+        "ref": "Acts 2:4",
+        "note": "They were all filled with the Holy Spirit."
+      },
+      {
+        "ref": "Romans 8:14",
+        "note": "Those led by the Spirit of God are sons of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hamartia",
+    "transliteration": "hamartia",
+    "original": "ἁμαρτία",
+    "pronunciation": "ham-ar-TEE-ah",
+    "gloss": "sin",
+    "notes": "Literally \"missing the mark.\" Luke often pairs it with forgiveness: John's baptism is for the forgiveness of sins (3:3), and the Lord's Prayer asks, \"Forgive us our sins\" (11:4). It is the noun that goes with hamartolos, \"sinner.\"",
+    "range": [
+      {
+        "sense": "Sin",
+        "note": "Missing the mark."
+      },
+      {
+        "sense": "Offense",
+        "note": "A wrong against God or others."
+      }
+    ],
+    "translations": [
+      "sin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "John 1:29",
+        "note": "The Lamb of God who takes away the sin of the world."
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The wages of sin is death."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "If we confess our sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "merimnao",
+    "transliteration": "merimnaō",
+    "original": "μεριμνάω",
+    "pronunciation": "mer-im-NAH-oh",
+    "gloss": "to be anxious, to worry",
+    "notes": "To be pulled in different directions, to worry. Jesus says not to be anxious about food or clothing (12:22, 12:25-26); Martha is \"anxious and troubled about many things\" (10:41). The root meaning is to be divided, as in a mind pulled apart.",
+    "range": [
+      {
+        "sense": "Worry",
+        "note": "Be anxious."
+      },
+      {
+        "sense": "Care for",
+        "note": "Be concerned about."
+      }
+    ],
+    "translations": [
+      "worry",
+      "be anxious",
+      "take thought"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:25",
+        "note": "Do not be anxious about your life."
+      },
+      {
+        "ref": "Philippians 4:6",
+        "note": "Do not be anxious about anything."
+      },
+      {
+        "ref": "Matthew 6:27",
+        "note": "Which of you by worrying can add a cubit to his life?"
+      },
+      {
+        "ref": "1 Corinthians 7:32",
+        "note": "I want you to be free from anxieties."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pleonexia",
+    "transliteration": "pleonexia",
+    "original": "πλεονεξία",
+    "pronunciation": "pleh-on-ex-EE-ah",
+    "gloss": "greed, covetousness",
+    "notes": "From \"to have more.\" Not just wanting things but wanting more than one's share. Jesus says, \"Keep yourselves from covetousness, for a man's life doesn't consist of the abundance of the things which he possesses\" (12:15). Paul calls it idolatry (Colossians 3:5).",
+    "range": [
+      {
+        "sense": "Greed",
+        "note": "The desire for more."
+      },
+      {
+        "sense": "Covetousness",
+        "note": "Wanting what is another's."
+      }
+    ],
+    "translations": [
+      "covetousness",
+      "greed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:22",
+        "note": "Out of the heart come greed, deceit."
+      },
+      {
+        "ref": "Romans 1:29",
+        "note": "Filled with covetousness."
+      },
+      {
+        "ref": "Ephesians 5:3",
+        "note": "Let covetousness not be named among you."
+      },
+      {
+        "ref": "Colossians 3:5",
+        "note": "Covetousness, which is idolatry."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "psyche",
+    "transliteration": "psychē",
+    "original": "ψυχή",
+    "pronunciation": "psoo-KHAY",
+    "gloss": "soul, life",
+    "notes": "The self or life of a person, and the word the rich man addresses (12:19). It covers both \"soul\" and \"life\": \"Soul, you have many goods laid up\" and \"tonight your soul is required of you\" use the same word as \"don't be anxious for your life\" (12:22-23).",
+    "range": [
+      {
+        "sense": "Life",
+        "note": "The animating self."
+      },
+      {
+        "sense": "Soul",
+        "note": "The inner person."
+      },
+      {
+        "sense": "Person",
+        "note": "A whole being."
+      }
+    ],
+    "translations": [
+      "soul",
+      "life",
+      "self"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:28",
+        "note": "Fear him who can destroy both soul and body."
+      },
+      {
+        "ref": "Mark 8:36",
+        "note": "What does it profit a man to forfeit his soul?"
+      },
+      {
+        "ref": "John 10:11",
+        "note": "The good shepherd lays down his life."
+      },
+      {
+        "ref": "Acts 2:41",
+        "note": "About three thousand souls were added."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauros",
+    "transliteration": "stauros",
+    "original": "σταυρός",
+    "pronunciation": "stow-ROSS",
+    "gloss": "cross",
+    "notes": "A stake or cross, the Roman instrument of execution. In Luke Jesus says that following him means to \"take up his cross daily\" (9:23), adding \"daily\" to the other Gospels' version.",
+    "range": [
+      {
+        "sense": "Stake or cross",
+        "note": "The wooden frame used for crucifixion."
+      },
+      {
+        "sense": "Crucifixion",
+        "note": "The execution itself."
+      },
+      {
+        "sense": "The cost of following",
+        "note": "A picture of giving up one's life."
+      }
+    ],
+    "translations": [
+      "cross"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:24",
+        "note": "The same call in Matthew."
+      },
+      {
+        "ref": "Mark 8:34",
+        "note": "The same call in Mark."
+      },
+      {
+        "ref": "1 Corinthians 1:18",
+        "note": "The word of the cross."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "note": "Boasting only in the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "A kingdom, a rule or reign. In Luke the kingdom is God's reign breaking in: \"The Kingdom of God has come near to you\" (10:9), and \"the Kingdom of God has come to you\" (11:20), as his works show.",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:17",
+        "note": "The kingdom of heaven is at hand."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "The kingdom of God is at hand."
+      },
+      {
+        "ref": "John 18:36",
+        "note": "My kingdom is not of this world."
+      },
+      {
+        "ref": "Acts 1:3",
+        "note": "Speaking of the kingdom of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "geenna",
+    "transliteration": "geenna",
+    "original": "γέεννα",
+    "pronunciation": "GEH-en-nah",
+    "gloss": "Gehenna",
+    "notes": "Named for the valley of Hinnom outside Jerusalem. Jesus uses it for final judgment: \"Fear him who has power to cast into Gehenna\" (12:5).",
+    "uncertain": "A popular claim says Gehenna was Jerusalem's burning garbage dump. Scholars debate this: the idea isn't found in sources before the Middle Ages, and the Old Testament links the valley with child sacrifice.",
+    "range": [
+      {
+        "sense": "A valley",
+        "note": "The Valley of Hinnom near Jerusalem."
+      },
+      {
+        "sense": "Judgment",
+        "note": "A picture of final judgment by fire."
+      }
+    ],
+    "translations": [
+      "hell",
+      "Gehenna",
+      "the fire of hell"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "Whoever says \"You fool\" is liable to Gehenna."
+      },
+      {
+        "ref": "Mark 9:43",
+        "note": "Better to enter life crippled than with two hands go to Gehenna."
+      },
+      {
+        "ref": "James 3:6",
+        "note": "The tongue is set on fire by Gehenna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "gregoreo",
+    "transliteration": "grēgoreō",
+    "original": "γρηγορέω",
+    "pronunciation": "gray-gor-EH-oh",
+    "gloss": "to keep watch, stay awake",
+    "notes": "To be awake, keep watch. In Luke 12 the servants whom the master finds \"awake\" are blessed (12:37, 12:39), and the Son of Man comes when you least expect.",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Don't sleep."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Stay ready for what is coming."
+      }
+    ],
+    "translations": [
+      "watch",
+      "keep watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:42",
+        "note": "Watch therefore."
+      },
+      {
+        "ref": "Matthew 26:41",
+        "note": "Watch and pray."
+      },
+      {
+        "ref": "1 Thessalonians 5:6",
+        "note": "Let us watch and be sober."
+      },
+      {
+        "ref": "1 Peter 5:8",
+        "note": "Be sober, be watchful."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agonizomai",
+    "transliteration": "agōnizomai",
+    "original": "ἀγωνίζομαι",
+    "pronunciation": "ag-on-ID-zom-eye",
+    "gloss": "to strive, to struggle",
+    "notes": "To compete in a contest or fight, from the same root as \"agony.\" Jesus says, \"Strive to enter in by the narrow door\" (13:24). Paul uses the same word of running a race (1 Corinthians 9:25) and fighting the good fight (1 Timothy 6:12).",
+    "range": [
+      {
+        "sense": "Strive",
+        "note": "Make a great effort."
+      },
+      {
+        "sense": "Compete",
+        "note": "Take part in a contest."
+      },
+      {
+        "sense": "Fight",
+        "note": "Struggle against opposition."
+      }
+    ],
+    "translations": [
+      "strive",
+      "struggle",
+      "fight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 9:25",
+        "note": "Every athlete competes with self-control."
+      },
+      {
+        "ref": "Colossians 1:29",
+        "note": "I toil, struggling with all his energy."
+      },
+      {
+        "ref": "1 Timothy 6:12",
+        "note": "Fight the good fight of the faith."
+      },
+      {
+        "ref": "John 18:36",
+        "note": "My servants would fight."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ptochos",
+    "transliteration": "ptōchos",
+    "original": "πτωχός",
+    "pronunciation": "pto-KHOS",
+    "gloss": "poor, destitute",
+    "notes": "Not just poor but reduced to begging, with nothing to fall back on. The word appears more in Luke than any other Gospel: good news to the poor (4:18), \"Blessed are you who are poor\" (6:20), the guests of the banquet (14:13, 14:21), Lazarus (16:20, 16:22), and the widow's offering (21:3).",
+    "range": [
+      {
+        "sense": "Beggar",
+        "note": "One who depends on gifts."
+      },
+      {
+        "sense": "Destitute",
+        "note": "One with nothing."
+      }
+    ],
+    "translations": [
+      "poor",
+      "beggar",
+      "destitute"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:5",
+        "note": "The poor have good news preached to them."
+      },
+      {
+        "ref": "Mark 10:21",
+        "note": "Give to the poor, and you will have treasure in heaven."
+      },
+      {
+        "ref": "James 2:5",
+        "note": "God chose those who are poor in the world."
+      },
+      {
+        "ref": "Galatians 2:10",
+        "note": "Remember the poor."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "miseo",
+    "transliteration": "miseō",
+    "original": "μισέω",
+    "pronunciation": "mis-EH-oh",
+    "gloss": "to hate, to love less",
+    "notes": "To hate, and in the Semitic idiom to love less or to turn away from. Jesus says disciples must \"hate\" their families and even their own lives (14:26). The parallel in Matthew 10:37 says, \"He who loves father or mother more than me isn't worthy of me,\" which shows the hyperbole.",
+    "range": [
+      {
+        "sense": "Hate",
+        "note": "Feel hostility."
+      },
+      {
+        "sense": "Love less",
+        "note": "Prefer something else."
+      }
+    ],
+    "translations": [
+      "hate",
+      "love less"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 15:18",
+        "note": "If the world hates you, know that it hated me first."
+      },
+      {
+        "ref": "John 12:25",
+        "note": "He who hates his life in this world will keep it."
+      },
+      {
+        "ref": "Romans 9:13",
+        "note": "\"Jacob I loved, but Esau I hated.\""
+      },
+      {
+        "ref": "Matthew 6:24",
+        "note": "He will hate the one and love the other."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apotassomai",
+    "transliteration": "apotassomai",
+    "original": "ἀποτάσσομαι",
+    "pronunciation": "ap-ot-AS-som-eye",
+    "gloss": "to say goodbye, to renounce",
+    "notes": "To take leave of someone or to give something up. It is used of saying farewell to family (9:61) and of renouncing possessions (14:33). Jesus' point is the same: nothing should have the final claim except him.",
+    "range": [
+      {
+        "sense": "Say goodbye",
+        "note": "Take leave of."
+      },
+      {
+        "sense": "Renounce",
+        "note": "Give up."
+      }
+    ],
+    "translations": [
+      "renounce",
+      "say goodbye",
+      "take leave"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 6:46",
+        "note": "After he had taken leave of them, he went up the mountain."
+      },
+      {
+        "ref": "Acts 18:18",
+        "note": "Paul took leave of the brothers."
+      },
+      {
+        "ref": "2 Corinthians 2:13",
+        "note": "I took leave of them and went on to Macedonia."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apollymi",
+    "transliteration": "apollymi",
+    "original": "ἀπόλλυμι",
+    "pronunciation": "ap-OL-oo-mee",
+    "gloss": "to lose, to destroy, to perish",
+    "notes": "To lose or be lost, and also to destroy or perish. In chapter 15 it is the word of the lost sheep, coin, and son. The father says, \"he was lost, and is found\" (15:24, 15:32). It is the same word Jesus uses when he says he came \"to seek and to save that which was lost\" (19:10).",
+    "range": [
+      {
+        "sense": "Lose",
+        "note": "Misplace."
+      },
+      {
+        "sense": "Perish",
+        "note": "Die or be destroyed."
+      },
+      {
+        "sense": "Destroy",
+        "note": "Bring to ruin."
+      }
+    ],
+    "translations": [
+      "lost",
+      "perish",
+      "destroy",
+      "lose"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:6",
+        "note": "Go to the lost sheep of the house of Israel."
+      },
+      {
+        "ref": "John 3:16",
+        "note": "Whoever believes in him will not perish."
+      },
+      {
+        "ref": "1 Corinthians 1:18",
+        "note": "The word of the cross is folly to those who are perishing."
+      },
+      {
+        "ref": "2 Peter 3:9",
+        "note": "Not wishing that any should perish."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "chara",
+    "transliteration": "chara",
+    "original": "χαρά",
+    "pronunciation": "kha-RAH",
+    "gloss": "joy",
+    "notes": "Joy, gladness, and the celebration that follows. Luke is the Gospel of joy: the angels bring \"good news of great joy\" (2:10), and the three lost things stories end in joy (15:7, 15:10, 15:32). It's related to charis, \"grace.\"",
+    "range": [
+      {
+        "sense": "Joy",
+        "note": "Deep gladness."
+      },
+      {
+        "sense": "Delight",
+        "note": "Pleasure."
+      }
+    ],
+    "translations": [
+      "joy",
+      "gladness",
+      "delight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 2:10",
+        "note": "They rejoiced with exceedingly great joy."
+      },
+      {
+        "ref": "John 15:11",
+        "note": "That my joy may be in you."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love, joy, peace."
+      },
+      {
+        "ref": "Hebrews 12:2",
+        "note": "For the joy set before him he endured the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikonomos",
+    "transliteration": "oikonomos",
+    "original": "οἰκονόμος",
+    "pronunciation": "oy-kon-OM-os",
+    "gloss": "manager, steward",
+    "notes": "A household manager, the person in charge of a master's property. The word gives us \"economy.\" The dishonest manager of 16:1-8 is one; Paul calls himself a steward of God's mysteries (1 Corinthians 4:1). Jesus also uses it of the faithful servant in 12:42.",
+    "range": [
+      {
+        "sense": "Steward",
+        "note": "A manager of another's property."
+      },
+      {
+        "sense": "Manager",
+        "note": "One in charge of the household."
+      }
+    ],
+    "translations": [
+      "manager",
+      "steward"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 4:1",
+        "note": "Servants of Christ and stewards of the mysteries of God."
+      },
+      {
+        "ref": "Titus 1:7",
+        "note": "An overseer, as God's steward."
+      },
+      {
+        "ref": "1 Peter 4:10",
+        "note": "Good stewards of God's varied grace."
+      },
+      {
+        "ref": "Romans 16:23",
+        "note": "Erastus, the city treasurer."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hades",
+    "transliteration": "hadēs",
+    "original": "ᾅδης",
+    "pronunciation": "HAH-dace",
+    "gloss": "Hades, the place of the dead",
+    "notes": "The Greek name for the realm of the dead, used in the Greek Old Testament for Sheol. In the story of the rich man and Lazarus, the rich man is \"in Hades, in torment\" (16:23), while Lazarus is with Abraham. How literally to take the picture is debated.",
+    "range": [
+      {
+        "sense": "The realm of the dead",
+        "note": "The place where the dead go."
+      },
+      {
+        "sense": "Torment",
+        "note": "A place of anguish in this story."
+      }
+    ],
+    "translations": [
+      "Hades",
+      "the grave",
+      "the place of the dead"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:18",
+        "note": "The gates of Hades will not prevail."
+      },
+      {
+        "ref": "Acts 2:27",
+        "note": "You will not abandon my soul to Hades."
+      },
+      {
+        "ref": "Revelation 1:18",
+        "note": "I have the keys of Death and of Hades."
+      },
+      {
+        "ref": "Revelation 20:14",
+        "note": "Death and Hades were thrown into the lake of fire."
+      }
+    ],
+    "uncertain": "How literally to read the details of Hades, the gulf, and Abraham's bosom in Luke 16 is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoeo",
+    "transliteration": "metanoeō",
+    "original": "μετανοέω",
+    "pronunciation": "meh-tah-no-EH-oh",
+    "gloss": "to repent",
+    "notes": "To change one's mind, to repent. Jesus' call in Luke 13 is to everyone: \"Unless you repent, you will all perish\" (13:3, 13:5). In Luke 16:30 the rich man thinks a visitor from the dead would make his brothers repent.",
+    "range": [
+      {
+        "sense": "Change one's mind",
+        "note": "Think again about something."
+      },
+      {
+        "sense": "Turn from wrongdoing",
+        "note": "Regret and leave behind what was wrong."
+      },
+      {
+        "sense": "Turn toward God",
+        "note": "A new direction for the whole life."
+      }
+    ],
+    "translations": [
+      "repent",
+      "turn back",
+      "change your hearts and lives"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:2",
+        "note": "Repent, for the kingdom of heaven is at hand."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "Repent, and believe in the gospel."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Repent and be baptized."
+      },
+      {
+        "ref": "Revelation 2:5",
+        "note": "Remember from where you have fallen, and repent."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mamonas",
+    "transliteration": "mamōnas",
+    "original": "μαμωνᾶς",
+    "pronunciation": "mah-moh-NAHS",
+    "gloss": "wealth, money",
+    "notes": "An Aramaic word for money or property, treated by Jesus as a rival master. \"You can't serve God and mammon\" (16:13), and Luke applies it to the Pharisees who loved money (16:14).",
+    "range": [
+      {
+        "sense": "Wealth or property",
+        "note": "What a person owns."
+      },
+      {
+        "sense": "Money as a master",
+        "note": "Wealth treated as something people serve."
+      }
+    ],
+    "translations": [
+      "money",
+      "wealth",
+      "Mammon",
+      "riches"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:24",
+        "note": "You cannot serve God and mammon."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "entos",
+    "transliteration": "entos",
+    "original": "ἐντός",
+    "pronunciation": "en-TOS",
+    "gloss": "within, among",
+    "notes": "A word meaning \"inside\" or \"in the midst of.\" Jesus says the kingdom of God is \"entos hymon\" (17:21), which can be read \"within you\" or \"among you.\" Since he is speaking to Pharisees, many take it as \"among you,\" meaning present in his own ministry; others take it as inward. The meaning is debated.",
+    "range": [
+      {
+        "sense": "Within",
+        "note": "Inside a person."
+      },
+      {
+        "sense": "Among",
+        "note": "In the midst of a group."
+      }
+    ],
+    "translations": [
+      "within",
+      "among",
+      "in the midst of"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 23:26",
+        "note": "Clean the inside of the cup."
+      }
+    ],
+    "uncertain": "Whether Luke 17:21 means \"within you\" or \"among you\" is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eucharisteo",
+    "transliteration": "eucharisteō",
+    "original": "εὐχαριστέω",
+    "pronunciation": "yoo-khar-is-TEH-oh",
+    "gloss": "to give thanks",
+    "notes": "To be thankful, and to say so. It comes from charis (grace) and gives us \"Eucharist.\" The Samaritan who returns is the one who \"gave him thanks\" (17:16); Jesus gives thanks over the bread at the Last Supper (22:19).",
+    "range": [
+      {
+        "sense": "Give thanks",
+        "note": "Express gratitude."
+      },
+      {
+        "sense": "Be thankful",
+        "note": "Feel gratitude."
+      }
+    ],
+    "translations": [
+      "give thanks",
+      "thank"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:36",
+        "note": "He gave thanks and broke the loaves."
+      },
+      {
+        "ref": "John 6:11",
+        "note": "Jesus gave thanks and distributed the loaves."
+      },
+      {
+        "ref": "Romans 1:21",
+        "note": "They did not give thanks to him."
+      },
+      {
+        "ref": "1 Thessalonians 5:18",
+        "note": "Give thanks in all circumstances."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleeo",
+    "transliteration": "eleeō",
+    "original": "ἐλεέω",
+    "pronunciation": "el-eh-EH-oh",
+    "gloss": "to show mercy",
+    "notes": "To have pity and to act on it. People call out to Jesus with it throughout Luke: the lepers (17:13), the blind man (18:38-39), and the rich man in Hades (16:24). The related noun is eleos, \"mercy.\"",
+    "range": [
+      {
+        "sense": "Have mercy",
+        "note": "Show pity."
+      },
+      {
+        "sense": "Help",
+        "note": "Give aid."
+      }
+    ],
+    "translations": [
+      "have mercy",
+      "show mercy",
+      "pity"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:27",
+        "note": "Two blind men cry, \"Have mercy on us, Son of David!\""
+      },
+      {
+        "ref": "Matthew 18:33",
+        "note": "Should you not have had mercy on your fellow servant?"
+      },
+      {
+        "ref": "Romans 9:15",
+        "note": "I will have mercy on whom I have mercy."
+      },
+      {
+        "ref": "Jude 1:22",
+        "note": "Have mercy on those who doubt."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hilaskomai",
+    "transliteration": "hilaskomai",
+    "original": "ἱλάσκομαι",
+    "pronunciation": "hil-AS-kom-eye",
+    "gloss": "to be merciful, to atone",
+    "notes": "A word from the language of the temple, meaning to make atonement or to be reconciled, and by extension to show mercy. The tax collector prays, \"God, be merciful to me, a sinner\" (18:13), using it. Hebrews 2:17 uses it of Jesus making atonement for the people's sins.",
+    "range": [
+      {
+        "sense": "Be merciful",
+        "note": "Show mercy."
+      },
+      {
+        "sense": "Atone",
+        "note": "Make atonement for sin."
+      }
+    ],
+    "translations": [
+      "be merciful",
+      "make atonement",
+      "propitiate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 2:17",
+        "note": "To make propitiation for the sins of the people."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaioo",
+    "transliteration": "dikaioō",
+    "original": "δικαιόω",
+    "pronunciation": "dik-ah-YOH-oh",
+    "gloss": "to justify, to declare righteous",
+    "notes": "To declare someone in the right. The tax collector goes home \"justified\" (18:14), declared right with God, not the Pharisee who has made his own case. The word is central to Paul's letters (Romans 3:24, Galatians 2:16). In Luke 7:35 and 7:29 it is used of vindicating or acknowledging God's wisdom.",
+    "range": [
+      {
+        "sense": "Justify",
+        "note": "Declare in the right."
+      },
+      {
+        "sense": "Vindicate",
+        "note": "Show to be right."
+      }
+    ],
+    "translations": [
+      "justify",
+      "declare righteous",
+      "vindicate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 3:24",
+        "note": "Justified by his grace as a gift."
+      },
+      {
+        "ref": "Romans 5:1",
+        "note": "Since we have been justified by faith."
+      },
+      {
+        "ref": "Galatians 2:16",
+        "note": "Not justified by works of the law."
+      },
+      {
+        "ref": "Titus 3:7",
+        "note": "Justified by his grace."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mna",
+    "transliteration": "mna",
+    "original": "μνᾶ",
+    "pronunciation": "mnah",
+    "gloss": "mina",
+    "notes": "A unit of money, about a hundred days' wages. In the parable, the servants are each given a mina to trade with (19:13, 19:16-25). Matthew's similar parable uses talents, a far larger sum.",
+    "range": [
+      {
+        "sense": "Mina",
+        "note": "A sum of money worth about a hundred denarii."
+      }
+    ],
+    "translations": [
+      "mina",
+      "pound"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "episkope",
+    "transliteration": "episkopē",
+    "original": "ἐπισκοπή",
+    "pronunciation": "ep-is-kop-AY",
+    "gloss": "visitation, oversight",
+    "notes": "From a verb meaning \"to look on, to care for.\" It is the word Jesus uses for \"the time of your visitation\" (19:44), a time when God came to Jerusalem, and which the city did not recognize. The same root gives \"bishop,\" an overseer (1 Timothy 3:1).",
+    "range": [
+      {
+        "sense": "Visitation",
+        "note": "A time when God visits."
+      },
+      {
+        "sense": "Oversight",
+        "note": "The work of an overseer."
+      }
+    ],
+    "translations": [
+      "visitation",
+      "oversight",
+      "office of overseer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 1:20",
+        "note": "Let another take his office."
+      },
+      {
+        "ref": "1 Timothy 3:1",
+        "note": "If anyone aspires to the office of overseer."
+      },
+      {
+        "ref": "1 Peter 2:12",
+        "note": "On the day of visitation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapetos",
+    "transliteration": "agapētos",
+    "original": "ἀγαπητός",
+    "pronunciation": "ag-ap-ay-TOS",
+    "gloss": "beloved",
+    "notes": "\"Loved,\" and often \"only and dearly loved.\" In the parable the owner sends his \"beloved son\" (20:13), echoing the voice at Jesus' baptism and transfiguration, \"This is my beloved Son\" (3:22, 9:35).",
+    "range": [
+      {
+        "sense": "Beloved",
+        "note": "Dearly loved."
+      },
+      {
+        "sense": "Only",
+        "note": "The one specially loved."
+      }
+    ],
+    "translations": [
+      "beloved",
+      "dear"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:17",
+        "note": "This is my beloved Son."
+      },
+      {
+        "ref": "Mark 1:11",
+        "note": "You are my beloved Son."
+      },
+      {
+        "ref": "Romans 1:7",
+        "note": "To all those in Rome who are loved by God."
+      },
+      {
+        "ref": "1 John 4:7",
+        "note": "Beloved, let us love one another."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phoros",
+    "transliteration": "phoros",
+    "original": "φόρος",
+    "pronunciation": "FOR-os",
+    "gloss": "tribute, tax",
+    "notes": "A tax paid by a subject people to a ruling power, as distinct from customs duties. The spies ask whether it is lawful to pay tribute to Caesar (20:22). Paul says the same word in Romans 13:6-7.",
+    "range": [
+      {
+        "sense": "Tribute",
+        "note": "A tax paid to a ruler."
+      },
+      {
+        "sense": "Tax",
+        "note": "A payment demanded by government."
+      }
+    ],
+    "translations": [
+      "tribute",
+      "tax"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 23:2",
+        "note": "They accuse him of forbidding giving tribute to Caesar."
+      },
+      {
+        "ref": "Romans 13:6",
+        "note": "For this reason you also pay taxes."
+      },
+      {
+        "ref": "Romans 13:7",
+        "note": "Pay taxes to whom taxes are due."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anastasis",
+    "transliteration": "anastasis",
+    "original": "ἀνάστασις",
+    "pronunciation": "an-AS-tas-is",
+    "gloss": "resurrection",
+    "notes": "Literally \"standing up again.\" It is used of the resurrection of the dead. The Sadducees deny it (20:27), and Jesus teaches that those who attain it are \"children of the resurrection\" (20:36). It also names a theme of Simeon's prophecy, \"the falling and rising of many\" (2:34).",
+    "range": [
+      {
+        "sense": "Resurrection",
+        "note": "Rising from the dead."
+      },
+      {
+        "sense": "Rising",
+        "note": "Standing up."
+      }
+    ],
+    "translations": [
+      "resurrection",
+      "rising"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:23",
+        "note": "Sadducees say there is no resurrection."
+      },
+      {
+        "ref": "John 11:25",
+        "note": "I am the resurrection and the life."
+      },
+      {
+        "ref": "Acts 4:2",
+        "note": "Proclaiming in Jesus the resurrection from the dead."
+      },
+      {
+        "ref": "1 Corinthians 15:12",
+        "note": "How can some of you say there is no resurrection?"
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphiemi",
+    "transliteration": "aphiēmi",
+    "original": "ἀφίημι",
+    "pronunciation": "ah-FEE-ay-mee",
+    "gloss": "to forgive, release, leave",
+    "notes": "To let go, to send away, to forgive. In Luke 17:3-4 Jesus says to forgive a brother who repents, up to seven times a day.",
+    "range": [
+      {
+        "sense": "Leave",
+        "note": "Leave something or someone behind."
+      },
+      {
+        "sense": "Release a debt",
+        "note": "Let someone off what they owe."
+      },
+      {
+        "sense": "Forgive",
+        "note": "Release someone from sin or offense."
+      },
+      {
+        "sense": "Permit",
+        "note": "Allow or let."
+      }
+    ],
+    "translations": [
+      "forgive",
+      "release",
+      "leave",
+      "let go",
+      "allow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:12",
+        "note": "Forgive us our debts."
+      },
+      {
+        "ref": "Mark 2:5",
+        "note": "Your sins are forgiven."
+      },
+      {
+        "ref": "John 20:23",
+        "note": "If you forgive anyone his sins."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "If we confess our sins, he forgives us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lestes",
+    "transliteration": "lēstēs",
+    "original": "λῃστής",
+    "pronunciation": "lace-TACE",
+    "gloss": "robber, bandit",
+    "notes": "A robber or bandit. Jesus says the temple has become \"a den of robbers\" (19:46), quoting Jeremiah 7:11.",
+    "range": [
+      {
+        "sense": "Robber",
+        "note": "A bandit."
+      },
+      {
+        "sense": "Revolutionary",
+        "note": "A violent insurgent."
+      }
+    ],
+    "translations": [
+      "robber",
+      "bandit",
+      "revolutionary"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:13",
+        "note": "\"A den of robbers.\""
+      },
+      {
+        "ref": "John 10:1",
+        "note": "A thief and a robber climbs in another way."
+      },
+      {
+        "ref": "John 18:40",
+        "note": "Barabbas was a robber."
+      },
+      {
+        "ref": "2 Corinthians 11:26",
+        "note": "Danger from robbers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apolytrosis",
+    "transliteration": "apolytrōsis",
+    "original": "ἀπολύτρωσις",
+    "pronunciation": "ap-ol-OO-tro-sis",
+    "gloss": "redemption, release",
+    "notes": "The payment or act that frees a slave or prisoner. Jesus says that when the signs begin, \"lift up your heads, because your redemption is near\" (21:28). It belongs to the same family as lytron, \"ransom.\" Paul uses it of what Christ's death does (Romans 3:24; Ephesians 1:7).",
+    "range": [
+      {
+        "sense": "Redemption",
+        "note": "Release by payment."
+      },
+      {
+        "sense": "Deliverance",
+        "note": "Rescue from captivity."
+      }
+    ],
+    "translations": [
+      "redemption",
+      "release"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 3:24",
+        "note": "Justified by his grace through the redemption in Christ Jesus."
+      },
+      {
+        "ref": "Ephesians 1:7",
+        "note": "In him we have redemption through his blood."
+      },
+      {
+        "ref": "Colossians 1:14",
+        "note": "Redemption, the forgiveness of sins."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "Redemption of the transgressions."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agrypneo",
+    "transliteration": "agrypneō",
+    "original": "ἀγρυπνέω",
+    "pronunciation": "ag-roop-NEH-oh",
+    "gloss": "to stay awake, to be alert",
+    "notes": "To lose sleep, to be wakeful, and so to watch. Jesus ends his teaching with \"Watch at all times, praying\" (21:36). Mark 13:33 and Ephesians 6:18 use the same word.",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Keep from sleeping."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Be watchful."
+      }
+    ],
+    "translations": [
+      "watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 13:33",
+        "note": "Take heed, keep alert."
+      },
+      {
+        "ref": "Ephesians 6:18",
+        "note": "Keep alert with all perseverance."
+      },
+      {
+        "ref": "Hebrews 13:17",
+        "note": "They keep watch over your souls."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anamnesis",
+    "transliteration": "anamnēsis",
+    "original": "ἀνάμνησις",
+    "pronunciation": "an-AM-nay-sis",
+    "gloss": "remembrance",
+    "notes": "A calling to mind that makes something present again, not merely a memory. Jesus says, \"Do this in memory of me\" (22:19), at a meal that already recalls the Passover. The word also appears in Paul's account (1 Corinthians 11:24-25).",
+    "range": [
+      {
+        "sense": "Remembrance",
+        "note": "Calling to mind."
+      },
+      {
+        "sense": "Memorial",
+        "note": "A remembering action."
+      }
+    ],
+    "translations": [
+      "remembrance",
+      "memory"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 11:24",
+        "note": "Do this in remembrance of me."
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "Do this, as often as you drink it, in remembrance of me."
+      },
+      {
+        "ref": "Hebrews 10:3",
+        "note": "A reminder of sins every year."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "siniazo",
+    "transliteration": "siniazō",
+    "original": "σινιάζω",
+    "pronunciation": "sin-ee-AD-zo",
+    "gloss": "to sift",
+    "notes": "To shake in a sieve, separating wheat from chaff. Jesus says Satan asked \"to sift\" the apostles \"like wheat\" (22:31). It is found only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Sift",
+        "note": "Shake in a sieve."
+      }
+    ],
+    "translations": [
+      "sift"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradeisos",
+    "transliteration": "paradeisos",
+    "original": "παράδεισος",
+    "pronunciation": "par-AD-ay-sos",
+    "gloss": "paradise, garden",
+    "notes": "A Persian loan word for an enclosed garden or park, used in the Greek Old Testament for the garden of Eden. Jesus says to the repentant criminal, \"Today you will be with me in Paradise\" (23:43). It appears only three times in the New Testament.",
+    "range": [
+      {
+        "sense": "Garden",
+        "note": "A walled park."
+      },
+      {
+        "sense": "Paradise",
+        "note": "The place of God's presence."
+      }
+    ],
+    "translations": [
+      "paradise",
+      "garden"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:4",
+        "note": "Caught up into paradise."
+      },
+      {
+        "ref": "Revelation 2:7",
+        "note": "The tree of life in the paradise of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaios",
+    "transliteration": "dikaios",
+    "original": "δίκαιος",
+    "pronunciation": "DIK-eye-os",
+    "gloss": "righteous, just, innocent",
+    "notes": "Right, just, in good standing with God or with the law. Luke calls many people \"righteous\": Zechariah and Elizabeth (1:6), Simeon (2:25), and Joseph of Arimathea (23:50). The centurion says of Jesus, \"Certainly this was a righteous man,\" which can also mean \"innocent\" (23:47).",
+    "range": [
+      {
+        "sense": "Righteous",
+        "note": "In the right with God."
+      },
+      {
+        "sense": "Just",
+        "note": "Fair, upright."
+      },
+      {
+        "sense": "Innocent",
+        "note": "Free from guilt."
+      }
+    ],
+    "translations": [
+      "righteous",
+      "just",
+      "innocent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:19",
+        "note": "Joseph, being a righteous man."
+      },
+      {
+        "ref": "Acts 3:14",
+        "note": "You denied the Holy and Righteous One."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteous shall live by faith."
+      },
+      {
+        "ref": "1 Peter 3:18",
+        "note": "Christ suffered once, the righteous for the unrighteous."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diermeneuo",
+    "transliteration": "diermēneuō",
+    "original": "διερμηνεύω",
+    "pronunciation": "dee-er-main-YOO-oh",
+    "gloss": "to explain, to interpret",
+    "notes": "To translate or explain fully. Jesus \"explained to them in all the Scriptures the things concerning himself\" (24:27). The same word is used of translating tongues in 1 Corinthians (12:30, 14:5).",
+    "range": [
+      {
+        "sense": "Explain",
+        "note": "Make clear."
+      },
+      {
+        "sense": "Translate",
+        "note": "Put into another language."
+      }
+    ],
+    "translations": [
+      "explain",
+      "interpret",
+      "translate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 9:36",
+        "note": "Tabitha, which translated means Dorcas."
+      },
+      {
+        "ref": "1 Corinthians 12:30",
+        "note": "Do all interpret?"
+      },
+      {
+        "ref": "1 Corinthians 14:5",
+        "note": "Unless someone interprets."
+      },
+      {
+        "ref": "1 Corinthians 14:13",
+        "note": "Pray that he may interpret."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "elpizo",
+    "transliteration": "elpizō",
+    "original": "ἐλπίζω",
+    "pronunciation": "el-PID-zo",
+    "gloss": "to hope",
+    "notes": "To expect something good, to place hope in someone. The Emmaus disciples say, \"We were hoping that it was he who would redeem Israel\" (24:21). In the Greek it is in the past tense, which expresses how their hope had died.",
+    "range": [
+      {
+        "sense": "Hope",
+        "note": "Expect something good."
+      },
+      {
+        "sense": "Trust",
+        "note": "Rely on."
+      }
+    ],
+    "translations": [
+      "hope",
+      "expect",
+      "trust"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:21",
+        "note": "In his name the Gentiles will hope."
+      },
+      {
+        "ref": "John 5:45",
+        "note": "Moses, on whom you have set your hope."
+      },
+      {
+        "ref": "Romans 8:24",
+        "note": "Who hopes for what he sees?"
+      },
+      {
+        "ref": "1 Corinthians 13:7",
+        "note": "Love hopes all things."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ethnos",
+    "transliteration": "ethnos",
+    "original": "ἔθνος",
+    "pronunciation": "ETH-nos",
+    "gloss": "nation, Gentile",
+    "notes": "A people or nation, and in the plural \"the nations,\" meaning the non-Jewish peoples, the Gentiles. In Luke, Simeon says the child is \"a light to the Gentiles\" (2:32), and Jesus says Jerusalem will be trampled until \"the times of the Gentiles\" are fulfilled (21:24), and that repentance will be preached \"to all the nations\" (24:47).",
+    "range": [
+      {
+        "sense": "Nation",
+        "note": "A people."
+      },
+      {
+        "sense": "Gentile",
+        "note": "A non-Jew."
+      }
+    ],
+    "translations": [
+      "nation",
+      "Gentile",
+      "people"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:19",
+        "note": "Make disciples of all nations."
+      },
+      {
+        "ref": "Acts 10:45",
+        "note": "The gift of the Spirit was poured out on the Gentiles."
+      },
+      {
+        "ref": "Romans 15:9",
+        "note": "That the Gentiles might glorify God."
+      },
+      {
+        "ref": "Galatians 3:8",
+        "note": "In you shall all the nations be blessed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lepton",
+    "transliteration": "lepton",
+    "original": "λεπτόν",
+    "pronunciation": "lep-TON",
+    "gloss": "small coin, a mite",
+    "notes": "The smallest bronze coin in use, worth a fraction of a day's wage. The poor widow puts in two of them (21:2).",
+    "range": [
+      {
+        "sense": "Small coin",
+        "note": "The least valuable coin."
+      }
+    ],
+    "translations": [
+      "mite",
+      "small coin",
+      "penny"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 12:42",
+        "note": "The widow's two small coins, in Mark."
+      },
+      {
+        "ref": "Luke 12:59",
+        "note": "Until you have paid the very last lepton."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "A covenant. At the supper Jesus calls the cup \"the new covenant in my blood\" (22:20), taking up Jeremiah's promise of a new covenant.",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:24",
+        "note": "The blood of the covenant, poured out for many."
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "This cup is the new covenant in my blood."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "The new covenant."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "The mediator of a new covenant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "The Passover festival and the lamb killed for it. In Luke 22:15 Jesus says, \"I have earnestly desired to eat this Passover with you before I suffer.\"",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:2",
+        "note": "The Passover in two days."
+      },
+      {
+        "ref": "Mark 14:12",
+        "note": "The first day of Unleavened Bread."
+      },
+      {
+        "ref": "John 19:14",
+        "note": "The day of preparation of the Passover."
+      },
+      {
+        "ref": "1 Corinthians 5:7",
+        "note": "Christ our Passover has been sacrificed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "To crucify. The crowd shouts \"Crucify him!\" and Luke notes that their voices prevail (23:21, 23:23).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:22",
+        "note": "\"Let him be crucified!\""
+      },
+      {
+        "ref": "John 19:6",
+        "note": "\"Crucify him, crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "This Jesus whom you crucified."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katapetasma",
+    "transliteration": "katapetasma",
+    "original": "καταπέτασμα",
+    "pronunciation": "kah-tah-PEH-tahs-mah",
+    "gloss": "curtain, veil",
+    "notes": "The curtain of the temple, torn in two as Jesus dies (23:45). Luke places it just before his last words.",
+    "uncertain": "Whether the inner curtain before the Holy of Holies or the outer curtain is meant is debated; Matthew doesn't say.",
+    "range": [
+      {
+        "sense": "Veil",
+        "note": "A hanging curtain."
+      },
+      {
+        "sense": "Temple curtain",
+        "note": "The curtain in the tabernacle or temple."
+      }
+    ],
+    "translations": [
+      "veil",
+      "curtain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:51",
+        "note": "The curtain torn, the earth shaking."
+      },
+      {
+        "ref": "Mark 15:38",
+        "note": "The curtain torn from top to bottom."
+      },
+      {
+        "ref": "Hebrews 6:19",
+        "note": "Hope enters behind the curtain."
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "The new way through the curtain, his flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "The council, the Jewish high court in Jerusalem. Luke says \"the whole council\" took Jesus to Pilate (23:1).",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:59",
+        "note": "The council seeks false witness."
+      },
+      {
+        "ref": "Mark 14:55",
+        "note": "The whole council looks for testimony."
+      },
+      {
+        "ref": "John 11:47",
+        "note": "The council meets after Lazarus."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles are called before it."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake, raise up, rise. The two men at the tomb say, \"He isn't here, but is risen\" (24:6), and the disciples report \"The Lord is risen indeed\" (24:34).",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:6",
+        "note": "\"He is risen, as he said.\""
+      },
+      {
+        "ref": "Mark 16:6",
+        "note": "\"He has risen.\""
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "He was raised on the third day."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]
