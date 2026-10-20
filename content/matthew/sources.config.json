@@ -453,6 +453,36 @@
         "G4625"
       ],
       "foundAt": "Matthew 16:23"
+    },
+    {
+      "id": "paidion",
+      "strongs": [
+        "G3813"
+      ],
+      "foundAt": "Matthew 18:2"
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "foundAt": "Matthew 18:9"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "Matthew 18:27"
+    },
+    {
+      "id": "talanton",
+      "strongs": [
+        "G5007"
+      ],
+      "foundAt": "Matthew 18:24"
     }
   ],
   "crossRefs": {
@@ -470,7 +500,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 18 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 19 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

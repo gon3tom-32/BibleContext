@@ -1480,5 +1480,192 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "paidion",
+    "transliteration": "paidion",
+    "original": "παιδίον",
+    "pronunciation": "pie-DEE-on",
+    "gloss": "child",
+    "notes": "A young child, small enough to be carried and watched over. It's a diminutive of pais, \"child,\" and is the word Jesus uses when he places a child among the disciples. In that world a child had no standing or power, which is the point Jesus draws: greatness in the kingdom runs through humility and dependence.",
+    "range": [
+      {
+        "sense": "Young child",
+        "note": "A small child or infant."
+      },
+      {
+        "sense": "Childlike",
+        "note": "The dependent, humble stance Jesus commends."
+      }
+    ],
+    "translations": [
+      "child",
+      "little child",
+      "infant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:14",
+        "note": "\"Let the little children come to me.\""
+      },
+      {
+        "ref": "Mark 10:14",
+        "note": "The same scene in Mark."
+      },
+      {
+        "ref": "Luke 18:16",
+        "note": "The same scene in Luke."
+      },
+      {
+        "ref": "1 Corinthians 14:20",
+        "note": "\"Don't be children in your thinking.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "geenna",
+    "transliteration": "geenna",
+    "original": "γέεννα",
+    "pronunciation": "GEH-en-nah",
+    "gloss": "Gehenna",
+    "notes": "The Greek form of the Hebrew Ge Hinnom, the Valley of Hinnom just south of Jerusalem. In the Old Testament it's where some of Judah's kings sacrificed children, and the prophets spoke of it as a place of judgment. By Jesus' time it had become a name for the place of final judgment. Matthew uses it more than any other Gospel.",
+    "uncertain": "A popular claim says Gehenna was Jerusalem's burning garbage dump. Scholars debate this: the idea isn't found in sources before the Middle Ages, and the Old Testament links the valley with child sacrifice.",
+    "range": [
+      {
+        "sense": "A valley",
+        "note": "The Valley of Hinnom near Jerusalem."
+      },
+      {
+        "sense": "Judgment",
+        "note": "A picture of final judgment by fire."
+      }
+    ],
+    "translations": [
+      "hell",
+      "Gehenna",
+      "the fire of hell"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "\"In danger of the fire of Gehenna.\""
+      },
+      {
+        "ref": "Matthew 10:28",
+        "note": "\"Fear the one who can destroy both soul and body.\""
+      },
+      {
+        "ref": "Mark 9:43",
+        "note": "The parallel about the hand that causes stumbling."
+      },
+      {
+        "ref": "James 3:6",
+        "note": "The tongue is set on fire by Gehenna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphiemi",
+    "transliteration": "aphiēmi",
+    "original": "ἀφίημι",
+    "pronunciation": "ah-FEE-ay-mee",
+    "gloss": "to forgive, release, leave",
+    "notes": "Literally \"to send away\" or \"to let go.\" The same verb is used for leaving something behind (the fishermen left their nets), for allowing something, and for releasing someone from a debt or a sin. That second sense is why the story of the servant, where a debt is let go, and the call to forgive fit together so closely. STEPBible tags these senses separately: \"leave,\" \"forgive,\" and \"permit.\"",
+    "range": [
+      {
+        "sense": "Leave",
+        "note": "Leave something or someone behind."
+      },
+      {
+        "sense": "Release a debt",
+        "note": "Let someone off what they owe."
+      },
+      {
+        "sense": "Forgive",
+        "note": "Release someone from sin or offense."
+      },
+      {
+        "sense": "Permit",
+        "note": "Allow or let."
+      }
+    ],
+    "translations": [
+      "forgive",
+      "release",
+      "leave",
+      "let go",
+      "allow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:20",
+        "note": "They left their nets."
+      },
+      {
+        "ref": "Mark 2:5",
+        "note": "\"Your sins are forgiven.\""
+      },
+      {
+        "ref": "Luke 11:4",
+        "note": "\"Forgive us our sins.\""
+      },
+      {
+        "ref": "John 20:23",
+        "note": "\"If you forgive anyone's sins, they are forgiven.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "talanton",
+    "transliteration": "talanton",
+    "original": "τάλαντον",
+    "pronunciation": "TAH-lahn-ton",
+    "gloss": "talent",
+    "notes": "Originally a weight, then the largest unit of money in the ancient world: roughly 6,000 denarii, or about 6,000 days' wages. Ten thousand (a \"myriad,\" the biggest single number word in Greek) talents is deliberately beyond anything repayable. Matthew is the only New Testament writer who uses the word, here and in the parable of the talents (chapter 25). English \"talent\" for ability comes from that later parable, not from the word's original meaning.",
+    "range": [
+      {
+        "sense": "A weight",
+        "note": "A large measure of weight, roughly 60 to 75 pounds."
+      },
+      {
+        "sense": "A sum of money",
+        "note": "The largest unit of currency."
+      }
+    ],
+    "translations": [
+      "talent",
+      "bag of gold",
+      "large sum"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 25:15",
+        "note": "Five, two, and one talent in the parable."
+      },
+      {
+        "ref": "Matthew 25:25",
+        "note": "The servant hid his talent in the ground."
+      },
+      {
+        "ref": "Matthew 25:28",
+        "note": "\"Take the talent from him.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

@@ -1,0 +1,78 @@
+{
+  "number": 18,
+  "sceneHappening": "Teaching the disciples about life together",
+  "summary": "The disciples ask who is greatest in the kingdom of heaven. Jesus calls over a child and says unless they turn and become like children they will never enter it; whoever humbles themselves like this child is the greatest, and whoever welcomes one such child welcomes him. Anyone who causes one of these little ones who believe in him to stumble would be better off with a great millstone hung around their neck and drowned in the sea. Woe to the world for stumbling blocks; if a hand or foot or eye causes you to stumble, cut it off or pull it out, for it's better to enter life maimed than to be thrown into the fire of Gehenna. Don't despise one of these little ones, for their angels always see the Father's face. A man with a hundred sheep who loses one leaves the ninety-nine to look for it, and rejoices more over it than the others; it isn't the Father's will that one of these little ones should perish. If a brother or sister sins against you, go and point out the fault privately; if they listen, you've won them over. If not, take one or two others along, since every matter should be confirmed by two or three witnesses; if they still refuse, tell it to the church, and if they refuse even the church, treat them as you would a Gentile or a tax collector. Whatever you bind on earth will be bound in heaven, and whatever you loose will be loosed. If two of you agree about anything, it will be done for you, \"for where two or three are gathered in my name, there I am among them.\" Peter asks how often to forgive: up to seven times? Jesus answers: \"not seven times, but seventy-seven times.\" He tells the story of a servant who owed the king ten thousand talents and couldn't pay. The servant begged for time, and the king, moved with compassion, forgave the entire debt. That servant then found a fellow servant who owed him a hundred denarii, grabbed him by the throat, and had him thrown into prison. When the king heard, he called the first servant wicked and handed him over to the torturers until he could pay all he owed. \"So my heavenly Father will also do to every one of you, if you don't each forgive your brother or sister from your heart.\"",
+  "whySettingMatters": "Children had no legal standing and depended entirely on others, so a child is a picture of humility and dependence, not innocence; Matthew says to \"humble yourself like this child\" (18:4). The millstone here is literally a \"donkey's millstone,\" the large upper stone of a mill turned by an animal, far heavier than a household hand mill. Gehenna is the Valley of Hinnom just south of Jerusalem, where some of Judah's kings had sacrificed children (2 Kings 23:10; Jeremiah 7:31), and it became a picture of judgment. Shepherds regularly left a flock grazing in the hills to find a stray, and Ezekiel 34 pictures God as the shepherd who seeks his scattered sheep. The steps in verses 15-17 build on the law's rule of two or three witnesses (Deuteronomy 19:15). Peter's \"seven\" was already generous; some later rabbinic teaching spoke of forgiving a repeat offender only three times. \"Seventy-seven times\" (some translations read 490) probably echoes Lamech's boast of vengeance seventy-seven-fold in Genesis 4:24, now turned upside down. A talent was about 6,000 denarii, and a denarius was a day's wage, so ten thousand talents is roughly 60 million days' wages, more than anyone could earn in many lifetimes; the fellow servant's hundred denarii is about three months' pay. Debtors could be jailed and punished until their families paid.",
+  "people": [
+    {
+      "id": "the-disciples",
+      "note": "Ask who is greatest, and are told to become like children."
+    },
+    {
+      "id": "the-child",
+      "note": "Unnamed in Matthew. Jesus sets the child among them as a picture of humility."
+    },
+    {
+      "id": "peter",
+      "note": "Asks how often he must forgive, offering a generous seven."
+    },
+    {
+      "id": "jesus",
+      "note": "Teaches the disciples how to treat the weak, the wandering, and those who wrong them."
+    }
+  ],
+  "questions": [
+    "The disciples ask who is greatest, and Jesus puts a child in front of them. What did a child stand for in that world, and why might that be a good picture of the kingdom?",
+    "The shepherd leaves ninety-nine to look for one. What does that say about how much the \"little ones\" matter?",
+    "Jesus gives steps for a wrong between believers: privately, then with a witness or two, then the church. What might that order protect?",
+    "The first servant is forgiven far more than he could ever repay, then refuses to forgive a small debt. What is Jesus saying about forgiveness given and forgiveness received?"
+  ],
+  "words": [
+    {
+      "id": "paidion",
+      "note": "Jesus sets a child among them (18:2-5)."
+    },
+    {
+      "id": "skandalon",
+      "note": "Causing a little one to stumble, and stumbling blocks in the world (18:6-9, the related verb and noun)."
+    },
+    {
+      "id": "geenna",
+      "note": "The fire of Gehenna (18:9)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"Tell it to the church\" (18:17), the second and last time Matthew uses the word."
+    },
+    {
+      "id": "aphiemi",
+      "note": "Seventy-seven times; the king forgives the debt (18:21-35)."
+    },
+    {
+      "id": "talanton",
+      "note": "A debt of ten thousand talents (18:24)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Ezekiel 34:12",
+      "note": "God, the shepherd, looks for his scattered sheep"
+    },
+    {
+      "ref": "Deuteronomy 19:15",
+      "note": "two or three witnesses"
+    },
+    {
+      "ref": "Leviticus 19:17",
+      "note": "rebuke your neighbor honestly, without hatred"
+    },
+    {
+      "ref": "Psalm 131:2",
+      "note": "a quieted child at its mother's breast"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

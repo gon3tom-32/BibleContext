@@ -1498,7 +1498,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Ezekiel 34:12",
+          "inDataset": true,
+          "votes": 24
+        },
+        {
+          "ref": "Deuteronomy 19:15",
+          "inDataset": true,
+          "votes": 19
+        },
+        {
+          "ref": "Leviticus 19:17",
+          "inDataset": true,
+          "votes": 31
+        },
+        {
+          "ref": "Psalm 131:2",
+          "inDataset": true,
+          "votes": 25
+        }
+      ]
     },
     {
       "number": 19,

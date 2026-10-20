@@ -223,5 +223,10 @@
     "id": "temple-tax-collectors",
     "name": "The temple-tax collectors",
     "note": "Men in Capernaum who collected the annual half-shekel for the temple."
+  },
+  {
+    "id": "the-child",
+    "name": "A child",
+    "note": "Unnamed in Matthew. Jesus calls the child over and sets the child among the disciples."
   }
 ]

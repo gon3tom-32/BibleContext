@@ -2220,6 +2220,367 @@
         "fetched": "2026-10-19",
         "item": "G4625"
       }
+    },
+    {
+      "id": "paidion",
+      "strongs": [
+        "G3813"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3813",
+          "original": "παιδίον",
+          "transliteration": "paidion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "child",
+          "meaning": "παιδίον, -ου, τό dimin, of παῖς,\n[in LXX chiefly for יֶלֶד, also for נַעַר, בֵּן, etc., frequently in To in ref. to full-grown youth ;]\na young child, a little one: Mat.2:8-9, 11, ff., Luk.1:59, 66 1:76, 80 2:17, 27 2:40, Jhn.16:21, Heb.11:23; of older children, Mat.18:2, 4-5, Mrk.5:39-41 7:30 9:24, 36, Luk.9:47-48 18:17, Jhn.4:49; in pl., Mat.11:16 14:21 15:38 18:3 19:13-14, Mrk.7:28 10:13 ff., Luk.7:32 11:7 18:16, Heb.2:13-14 Metaphorical, 1Co.14:20. Colloq. in familiar address (as Eng. colloq., \"lads \"-see M, Pr., 170n and Irish use of \"boys\"): Jhn.21:5, 1Jn.2:13 Jn 2:18 Jn 3:7 † …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παιδίου",
+          "translit": "paidiou",
+          "gloss": "child"
+        },
+        {
+          "original": "παιδίον",
+          "translit": "paidion",
+          "gloss": "child"
+        },
+        {
+          "original": "παιδίοις",
+          "translit": "paidiois",
+          "gloss": "child"
+        },
+        {
+          "original": "παιδίων",
+          "translit": "paidiōn",
+          "gloss": "child"
+        },
+        {
+          "original": "παιδία",
+          "translit": "paidia",
+          "gloss": "child"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 2:8",
+        "Matthew 2:9",
+        "Matthew 2:11",
+        "Matthew 2:13",
+        "Matthew 2:14",
+        "Matthew 2:20",
+        "Matthew 2:21",
+        "Matthew 11:16",
+        "Matthew 14:21",
+        "Matthew 15:38",
+        "Matthew 18:2",
+        "Matthew 18:3",
+        "Matthew 18:4",
+        "Matthew 18:5",
+        "Matthew 19:13",
+        "Matthew 19:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 49,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 19:14",
+          "found": true
+        },
+        {
+          "ref": "Mark 10:14",
+          "found": true
+        },
+        {
+          "ref": "Luke 18:16",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 14:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3813"
+      }
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1067",
+          "original": "γέεννα",
+          "transliteration": "geenna",
+          "partOfSpeech": "N:N--T",
+          "gloss": "hell: Gehenna",
+          "meaning": "γέεννα (γέενα, Mrk.9:45, Rec.), -ης, ἡ (perh. through Aram. גֵּיהִנָּם, from Heb. גֵּי הִנֹּם, Neh.11:30; גֵּי בֶּן־הִנֹּם, Jhn.18:16; גֵּי בּנֵי־הִנֹּם, 4Ki.23:10; valley of (the son, sons of) lamentation);\n[in LXX the nearest approach to γ. is γαίεννα, Jos.18:16 (Γαὶ Ὀννόμ, A), elsewhere φάραγξ Ὀνόμ (Jos.15:8, al.), V. Swete on Mrk.9:43 ;] …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "γέενναν",
+          "translit": "geennan",
+          "gloss": "Gehenna"
+        },
+        {
+          "original": "γεέννῃ",
+          "translit": "geennē",
+          "gloss": "Gehenna"
+        },
+        {
+          "original": "γεέννης",
+          "translit": "geennēs",
+          "gloss": "Gehenna"
+        },
+        {
+          "original": "γεέννης;",
+          "translit": "geennēs",
+          "gloss": "Gehenna"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 5:22",
+        "Matthew 5:29",
+        "Matthew 5:30",
+        "Matthew 10:28",
+        "Matthew 18:9",
+        "Matthew 23:15",
+        "Matthew 23:33"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 12,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:22",
+          "found": true
+        },
+        {
+          "ref": "Matthew 10:28",
+          "found": true
+        },
+        {
+          "ref": "Mark 9:43",
+          "found": true
+        },
+        {
+          "ref": "James 3:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1067"
+      }
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0863G",
+          "original": "ἀφίημι",
+          "transliteration": "aphiēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to release: leave",
+          "meaning": "ἀφ-ίημι,\n[in LXX for נשׂא, נוח hi., נתן, סלח ni., עזב, etc. ;]\n1. to send forth, send away, let go: of divorce (DB, iii, 274a), τ. γυναῖκα (Hdt.), 1Co.7:11-13; of death, τ. πνεῦμα (Gen.35:18, Hdt., al.), Mat.27:50; (φωνήν, to utter a cry, Mrk.15:37; of debts, to remit, forgive (cl.), τ. δανεῖον, Mat.18:27; τ. ὀφειλήν, Mat.18:32; esp. of sins (Cremer 296f.), τ. ἁμαρτίας, ἁμαρτήματα, ἀνομίας, Mat.9:2, Rom.4:7\" (LXX), 1Jn.1:9, al.; punctiliar and iterative present (M, Pr., 119), Mrk.2:5, Luk.11:4; Ion. pf., ἀφέωνται (M, Pr., 38), Luk.5:23. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἄφες",
+          "translit": "aphes",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφίησιν",
+          "translit": "aphiēsin",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφέντες",
+          "translit": "aphentes",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφήκαμεν",
+          "translit": "aphēkamen",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφῆτε",
+          "translit": "aphēte",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφήσει",
+          "translit": "aphēsei",
+          "gloss": "to release"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 3:15",
+        "Matthew 4:11",
+        "Matthew 4:20",
+        "Matthew 4:22",
+        "Matthew 5:24",
+        "Matthew 5:40",
+        "Matthew 6:12",
+        "Matthew 6:14",
+        "Matthew 6:15",
+        "Matthew 7:4",
+        "Matthew 8:15",
+        "Matthew 8:22",
+        "Matthew 9:2",
+        "Matthew 9:5",
+        "Matthew 9:6",
+        "Matthew 12:31",
+        "Matthew 12:32",
+        "Matthew 13:30",
+        "Matthew 13:36",
+        "Matthew 15:14",
+        "Matthew 18:12",
+        "Matthew 18:21",
+        "Matthew 18:27",
+        "Matthew 18:32",
+        "Matthew 18:35",
+        "Matthew 19:14",
+        "Matthew 19:27",
+        "Matthew 19:29",
+        "Matthew 22:22",
+        "Matthew 22:25",
+        "Matthew 23:13",
+        "Matthew 23:23",
+        "Matthew 23:38",
+        "Matthew 24:2",
+        "Matthew 24:40",
+        "Matthew 24:41",
+        "Matthew 26:44",
+        "Matthew 26:56",
+        "Matthew 27:49",
+        "Matthew 27:50"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 133,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:20",
+          "found": true
+        },
+        {
+          "ref": "Mark 2:5",
+          "found": true
+        },
+        {
+          "ref": "Luke 11:4",
+          "found": true
+        },
+        {
+          "ref": "John 20:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0863G, G0863H, G0863I"
+      }
+    },
+    {
+      "id": "talanton",
+      "strongs": [
+        "G5007"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5007",
+          "original": "τάλαντον",
+          "transliteration": "talanton",
+          "partOfSpeech": "G:N-N",
+          "gloss": "talent",
+          "meaning": "τάλαντομ, -ον, τ\n[in LXX for כִּכָּר ;]\n1. a balance (Hom.).\n2. that which is weighed, a talent;\n(a) a talent in weight (in Horn. always of gold);\n(b) a sum of money, whether gold or silver, equivalent to a talent in weight (see DB, iii, 418 ff.): Mat.18:24 25:15 ff.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ταλάντων",
+          "translit": "talantōn",
+          "gloss": "talent"
+        },
+        {
+          "original": "τάλαντα",
+          "translit": "talanta",
+          "gloss": "talent"
+        },
+        {
+          "original": "τάλαντά",
+          "translit": "talanta",
+          "gloss": "talent"
+        },
+        {
+          "original": "τάλαντον",
+          "translit": "talanton",
+          "gloss": "talent"
+        },
+        {
+          "original": "τάλαντόν",
+          "translit": "talanton",
+          "gloss": "talent"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 18:24",
+        "Matthew 25:15",
+        "Matthew 25:16",
+        "Matthew 25:20",
+        "Matthew 25:22",
+        "Matthew 25:24",
+        "Matthew 25:25",
+        "Matthew 25:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 25:15",
+          "found": true
+        },
+        {
+          "ref": "Matthew 25:25",
+          "found": true
+        },
+        {
+          "ref": "Matthew 25:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5007"
+      }
     }
   ]
 }
