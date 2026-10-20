@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Peter explains himself, and the church at Antioch grows",
+  "summary": "The apostles and the brothers in Judea hear that the Gentiles have also received the word of God, and when Peter goes up to Jerusalem, those of the circumcision contend with him: \"You went in to uncircumcised men, and ate with them!\" Peter begins and explains in order: he was praying in Joppa and in a trance saw a vision, a great sheet let down from the sky, and was told to kill and eat, and answered, \"Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.\" The voice answered, \"What God has cleansed, don't you call unclean.\" Three men sent from Caesarea came to the house, and the Spirit told him to go with them, doubting nothing; six brothers accompanied him, and they entered the man's house. The man told them how he had seen the angel who said, \"Send to Joppa, and get Simon, who is surnamed Peter, who will speak words to you by which you will be saved, you and all your house.\" \"As I began to speak, the Holy Spirit fell on them, even as on us at the beginning. I remembered the word of the Lord, how he said, 'John indeed baptized in water, but you will be baptized in the Holy Spirit.' If then God gave to them the same gift as us, when we believed in the Lord Jesus Christ, who was I, that I could withstand God?\" When they hear these things, they hold their peace and glorify God: \"Then God has also granted to the Gentiles repentance to life!\" Now those who were scattered by the persecution that arose over Stephen travel as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except Jews. But some of them, men of Cyprus and Cyrene, come to Antioch and speak to the Hellenists also, preaching the Lord Jesus. The hand of the Lord is with them, and a great number believe and turn to the Lord. The report about them comes to the church in Jerusalem, and they send out Barnabas to go as far as Antioch. When he comes and sees the grace of God, he is glad and exhorts them all to continue with the Lord with purpose of heart, for he is a good man, full of the Holy Spirit and of faith, and many people are added to the Lord. Barnabas goes to Tarsus to look for Saul, and when he finds him, brings him to Antioch. For a whole year they meet with the church and teach many people, and the disciples are first called Christians in Antioch. In these days prophets come down from Jerusalem to Antioch. One of them named Agabus stands up and signifies by the Spirit that there will be a great famine all over the world, which happens in the days of Claudius. The disciples determine, each according to his ability, to send relief to the brothers who live in Judea, and they do so, sending it to the elders by the hand of Barnabas and Saul.",
+  "whySettingMatters": "Peter's retelling shows how seriously the church took the question, and the repetition of the story from 10:1-48 is deliberate; Luke tells it a third time at the Jerusalem Council. The \"circumcision party\" objection is not to the preaching but to table fellowship with Gentiles. The scattered believers who spoke to Greeks in Antioch were unnamed men of Cyprus and Cyrene. Antioch on the Orontes was the third-largest city in the Roman Empire after Rome and Alexandria, with a large Jewish community, and became the base of the Gentile mission. The name \"Christians\" (Christianoi) is a Greek-Latin hybrid like \"Herodians,\" and was probably first given by outsiders; it occurs only three times in the New Testament (here, 26:28, and 1 Peter 4:16). Barnabas, who had vouched for Saul in Jerusalem, goes to Tarsus to find him, and they teach together for a year. Agabus' prophecy is the famine under Claudius (AD 41 to 54), which Josephus and other writers record, especially in Judea around AD 46 to 48. The famine relief from Antioch to Jerusalem shows the Gentile church supporting the Jewish church. The \"elders\" appear here for the first time as leaders of the Jerusalem church. How this visit relates to Paul's visits in Galatians 1 and 2 is debated.",
+  "people": [
+    {
+      "id": "peter",
+      "note": "Explains to the Jerusalem church what he saw."
+    },
+    {
+      "id": "the-circumcised-believers",
+      "note": "Object, then glorify God."
+    },
+    {
+      "id": "the-scattered-believers",
+      "note": "Men of Cyprus and Cyrene who preach to Greeks at Antioch."
+    },
+    {
+      "id": "barnabas",
+      "note": "A good man full of the Holy Spirit and faith, who goes to find Saul."
+    },
+    {
+      "id": "saul",
+      "note": "Brought from Tarsus to Antioch."
+    },
+    {
+      "id": "agabus",
+      "note": "A prophet who foretells a great famine."
+    },
+    {
+      "id": "the-disciples-at-antioch",
+      "note": "First called Christians, and send relief to Judea."
+    },
+    {
+      "id": "claudius",
+      "note": "The emperor in whose days the famine comes."
+    }
+  ],
+  "questions": [
+    "Peter defends himself by telling the story in order. Why does that work better than an argument?",
+    "The men from Cyprus and Cyrene spoke to Greeks, though they weren't told to. What does that say about how the church grows?",
+    "Barnabas \"saw the grace of God\" and was glad. What does that suggest about how he led?",
+    "The church at Antioch, mostly Gentile, sends money to Judea. What is that gift saying?"
+  ],
+  "words": [
+    {
+      "id": "christianos",
+      "note": "\"The disciples were first called Christians in Antioch\" (11:26)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "Barnabas \"exhorted them all\" (11:23)."
+    },
+    {
+      "id": "metanoia",
+      "note": "\"God has also granted to the Gentiles repentance to life\" (11:18)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Holy Spirit fell on them\" (11:12, 11:15-16, 11:24, 11:28)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"Relief to the brothers who live in Judea\" (11:29)."
+    },
+    {
+      "id": "presbyteros",
+      "note": "\"To the elders by the hand of Barnabas and Saul\" (11:30)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 10:1-48",
+      "note": "the story Peter retells"
+    },
+    {
+      "ref": "Luke 3:16",
+      "note": "John baptized with water; he will baptize with the Holy Spirit"
+    },
+    {
+      "ref": "Galatians 2:1-10",
+      "note": "Paul's account of a visit with Barnabas"
+    },
+    {
+      "ref": "Isaiah 49:6",
+      "note": "a light for the nations"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

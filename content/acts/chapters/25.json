@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Paul appeals to Caesar, and Festus consults King Agrippa",
+  "summary": "Festus, having come into the province, goes up to Jerusalem from Caesarea after three days. The chief priests and principal men of the Jews inform him against Paul, and ask him as a favor to have him sent to Jerusalem, lying in wait to kill him on the way. Festus answers that Paul is being kept in Caesarea and that he himself is going there shortly: \"Let them therefore who are in power among you go down with me, and if there is anything wrong in the man, let them accuse him.\" When he has stayed among them not more than eight or ten days, he goes down to Caesarea, and the next day, sitting on the judgment seat, commands Paul to be brought. When he has come, the Jews who have come down from Jerusalem stand around him, bringing against him many and grievous charges which they cannot prove, while Paul says in his defense, \"Neither against the law of the Jews, nor against the temple, nor against Caesar, have I sinned at all.\" But Festus, desiring to gain favor with the Jews, answers Paul, \"Are you willing to go up to Jerusalem, and there be judged by me concerning these things?\" But Paul says, \"I am standing before Caesar's judgment seat, where I ought to be tried. I have done no wrong to the Jews, as you also know very well. For if I am a wrongdoer, and have committed anything worthy of death, I don't refuse to die; but if none of those things is true that they accuse me of, no one can give me up to them. I appeal to Caesar!\" Then Festus, when he has conferred with the council, answers, \"You have appealed to Caesar. To Caesar you shall go.\" After some days King Agrippa and Bernice arrive at Caesarea and greet Festus. As they stay there many days, Festus lays Paul's case before the king, saying, \"There is a certain man left a prisoner by Felix, about whom the chief priests and the elders of the Jews informed me, when I was in Jerusalem, asking for a sentence against him. I answered them that it is not the custom of the Romans to give up any man to destruction before the accused has met the accusers face to face, and has had opportunity to make his defense concerning the matter laid against him. When therefore they had come together here, I didn't delay, but on the next day sat on the judgment seat, and commanded the man to be brought. Concerning whom, when the accusers stood up, they brought no charge of such things as I supposed, but had certain questions against him about their own religion, and about one Jesus, who was dead, whom Paul affirmed to be alive. Being perplexed how to inquire concerning these things, I asked whether he would go to Jerusalem and there be judged concerning them. But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept until I could send him to Caesar.\" Agrippa says to Festus, \"I also would like to hear the man myself.\" \"Tomorrow,\" he says, \"you shall hear him.\" So on the next day, when Agrippa and Bernice have come with great pomp, and have entered into the place of hearing with the commanding officers and the principal men of the city, Festus gives the order, and Paul is brought. Festus says, \"King Agrippa, and all men who are here present with us, you see this man about whom all the multitude of the Jews petitioned me, both at Jerusalem and here, crying that he ought not to live any longer. But I found that he had committed nothing worthy of death, and as he himself appealed to the emperor, I determined to send him. Of whom I have no certain thing to write to my lord. Therefore I have brought him out before you, and especially before you, King Agrippa, that, after examination, I may have something to write. For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.\"",
+  "whySettingMatters": "Festus governed Judea from about AD 59 to 62 and, unlike Felix, seems to have tried to resolve the backlog, though he too wanted to please the leaders. The chief priests renew the plan for an ambush, two years on. Paul's appeal to Caesar is a legal right of Roman citizens: it moved the case out of the provincial court and into the emperor's own court in Rome. Paul probably appeals here because he sees that in Jerusalem he would not get a fair trial, and Festus accepts, after a consultation, so Paul's journey to Rome will be at state expense. Agrippa II ruled territories to the north and east and was the last of the Herodian kings; he had the right to appoint the high priest and care of the temple, which made him a competent judge of Jewish matters. Bernice was his sister, and Josephus says there were rumors of an improper relationship between them. Festus' summary of the case is candid: he did not understand the dispute, which concerned \"one Jesus who was dead, whom Paul affirmed to be alive.\" That sentence is also Luke's concise summary of the whole Christian message. The emperor at this time was Nero, though Luke does not name him; \"my lord\" (kyrios) was a title that emperors began to accept, and the word \"Augustus\" (Sebastos) is the Greek of the emperor's title. The scene sets up the longest speech in the book, in the next chapter.",
+  "people": [
+    {
+      "id": "festus",
+      "note": "The new governor; wants to please the Jews, and consults Agrippa."
+    },
+    {
+      "id": "paul",
+      "note": "Appeals to Caesar."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Ask for Paul to be sent to Jerusalem, planning an ambush."
+    },
+    {
+      "id": "the-jews-from-jerusalem",
+      "note": "Bring serious charges they can't prove."
+    },
+    {
+      "id": "agrippa-ii",
+      "note": "King Agrippa, who wants to hear Paul."
+    },
+    {
+      "id": "bernice",
+      "note": "Agrippa's sister, who accompanies him."
+    },
+    {
+      "id": "the-emperor",
+      "note": "The Caesar to whom Paul appeals."
+    }
+  ],
+  "questions": [
+    "Paul appeals to Caesar rather than go to Jerusalem. What does that tell you about how he saw the choices?",
+    "Festus says the dispute was about \"one Jesus, who was dead, whom Paul affirmed to be alive.\" Why is that a good summary of the gospel?",
+    "Festus wants to do the Jews a favor and Paul will not allow it. How do you weigh using one's rights against trusting God?",
+    "Agrippa wants to hear Paul. What do you think he hopes to learn?"
+  ],
+  "words": [
+    {
+      "id": "epikaleo",
+      "note": "\"I appeal to Caesar!\" (25:11-12, 25:21, 25:25)."
+    },
+    {
+      "id": "sebastos",
+      "note": "\"Kept for the decision of the emperor\" (25:21, 25:25)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"I have no certain thing to write to my lord\" (25:26)."
+    },
+    {
+      "id": "phantasia",
+      "note": "\"With great pomp\" (25:23)."
+    },
+    {
+      "id": "anistemi",
+      "note": "\"One Jesus, who was dead, whom Paul affirmed to be alive\" (25:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 23:11",
+      "note": "\"You must testify also at Rome\""
+    },
+    {
+      "ref": "Luke 21:12-13",
+      "note": "before kings and governors, this will be your opportunity to bear witness"
+    },
+    {
+      "ref": "Acts 9:15",
+      "note": "to carry my name before the Gentiles and kings"
+    },
+    {
+      "ref": "Philippians 1:12-14",
+      "note": "my imprisonment has served to advance the gospel"
+    }
+  ],
+  "number": 25,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

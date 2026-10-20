@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Arrested before the council: \"There is no other name,\" and a church that prays for boldness",
+  "summary": "While Peter and John are speaking to the people, the priests, the captain of the temple, and the Sadducees come upon them, greatly annoyed that they are teaching the people and proclaiming in Jesus the resurrection from the dead. They arrest them and put them in custody until the next day, since it is already evening. But many of those who heard the word believed, and the number of the men came to be about five thousand. The next day their rulers, elders, and scribes gather in Jerusalem with Annas the high priest, Caiaphas, John, and Alexander, and as many as were of the high priest's family. They set Peter and John in the middle and ask, \"By what power, or in what name, have you done this?\" Then Peter, filled with the Holy Spirit, says, \"If we are examined today concerning a good deed done to a crippled man, by what means this man has been healed, may it be known to you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead, this man stands here before you whole. He is 'the stone which was rejected by you, the builders, which has become the head of the corner.' There is salvation in no one else, for there is no other name under heaven, that is given among men, by which we must be saved.\" Seeing the boldness of Peter and John, and perceiving that they are unlettered and ordinary men, they marvel, and recognize that they had been with Jesus. Seeing the man who was healed standing with them, they have nothing to say against it. They send them out of the council and confer: \"What shall we do to these men? For indeed, that a notable miracle has been done by them is evident to all who dwell in Jerusalem, and we can't deny it. But so that it spreads no further among the people, let's threaten them.\" They call them in and order them not to speak or teach in the name of Jesus. Peter and John answer, \"Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves, for we can't help telling the things which we saw and heard.\" After further threats they let them go, finding no way to punish them, because of the people, for all men glorified God for what was done. When they are released, they go to their own friends and report what the chief priests and elders have said. They lift their voice to God with one accord, quoting Psalm 2: \"Why do the nations rage, and the peoples plot a vain thing?\" and pray, \"Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness.\" When they have prayed, the place where they are gathered is shaken, and they are all filled with the Holy Spirit and speak the word of God with boldness. The multitude of those who believe are of one heart and soul. Not one of them claims anything of the things he possesses as his own, but all things are common among them. With great power the apostles give their testimony of the resurrection, and great grace is on them all. There is no needy person among them, as those who own lands or houses sell them and bring the proceeds to the apostles' feet, and it is distributed to each according to need. Joseph, a Levite from Cyprus, surnamed by the apostles Barnabas (which is, being interpreted, Son of Encouragement), sells a field he owns and brings the money and lays it at the apostles' feet.",
+  "whySettingMatters": "The Sadducees, who controlled the priesthood and the temple, denied the resurrection, so a message about Jesus' resurrection threatened their teaching and their authority; they are the ones who act first. \"Annas the high priest\" and \"Caiaphas\" both appear because Annas, though no longer in office, was still called high priest and kept power; Caiaphas held the office. Peter's boldness (parrēsia) means free and open speech, and the council is surprised because Peter and John had no formal rabbinic training. Peter's quotation from Psalm 118:22, \"the stone that the builders rejected,\" is the same verse Jesus cited in the parable of the tenants (Luke 20:17). \"No other name\" is spoken to the council in the context of a healing, and is about \"salvation\" which also means healing in Greek (sōzō). The apostles' answer, \"judge for yourselves, whether it is right to listen to you rather than to God,\" echoes Socrates, and is the first of several times Acts has believers obey God over human authority. The prayer in 4:24-30 quotes Psalm 2 and reads the opposition of the authorities as what the Psalm described. The description of shared possessions here and in chapter 2 is Luke's idealized picture; Barnabas, who sold a field, appears here as an example, and becomes a central figure later.",
+  "people": [
+    {
+      "id": "peter",
+      "note": "Speaks boldly before the council."
+    },
+    {
+      "id": "john-apostle",
+      "note": "With Peter before the council."
+    },
+    {
+      "id": "the-lame-man",
+      "note": "Standing with them as the proof."
+    },
+    {
+      "id": "annas",
+      "note": "Named as high priest."
+    },
+    {
+      "id": "caiaphas",
+      "note": "The current high priest."
+    },
+    {
+      "id": "the-sadducees",
+      "note": "Annoyed that they preach resurrection."
+    },
+    {
+      "id": "the-council",
+      "note": "Rulers, elders, and scribes who confer privately."
+    },
+    {
+      "id": "the-believers",
+      "note": "Pray together for boldness."
+    },
+    {
+      "id": "barnabas",
+      "note": "Sells a field and gives the money to the apostles."
+    }
+  ],
+  "questions": [
+    "The council sees that Peter and John are ordinary and recognizes that they had been with Jesus. What does that say about how courage comes?",
+    "\"There is no other name.\" How do you hear it in the setting of a healing and a courtroom?",
+    "They pray for boldness, not safety. What does that tell you about what they most wanted?",
+    "Barnabas is introduced by his nickname. What does \"Son of Encouragement\" suggest about who he is?"
+  ],
+  "words": [
+    {
+      "id": "parresia",
+      "note": "\"Seeing the boldness of Peter and John\" (4:13, 4:29, 4:31)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"There is salvation in no one else\" (4:12)."
+    },
+    {
+      "id": "onoma",
+      "note": "\"There is no other name under heaven\" (4:7, 4:10, 4:12, 4:17-18)."
+    },
+    {
+      "id": "homothymadon",
+      "note": "\"They lifted up their voice to God with one accord\" (4:24)."
+    },
+    {
+      "id": "martys",
+      "note": "\"With great power the apostles gave their testimony\" (4:33)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 118:22",
+      "note": "the stone the builders rejected"
+    },
+    {
+      "ref": "Psalm 2:1-2",
+      "note": "why do the nations rage"
+    },
+    {
+      "ref": "Isaiah 28:16",
+      "note": "a precious cornerstone"
+    },
+    {
+      "ref": "Luke 21:12-15",
+      "note": "I will give you a mouth and wisdom"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

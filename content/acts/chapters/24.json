@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Paul before the governor Felix",
+  "summary": "After five days the high priest Ananias comes down with some elders and an orator, one Tertullus, who gives evidence against Paul to the governor. When Paul is called, Tertullus begins to accuse him: \"Seeing that by you we enjoy much peace, and that prosperity is coming to this nation by your foresight, we accept it in all ways and in all places, most excellent Felix, with all thankfulness. But, that I don't weary you, I entreat you to bear with us and hear a few words.\" He charges that they have found this man a plague, a stirrer-up of riots among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes, who also tried to profane the temple, and whom they seized. The Jews also join in the attack, affirming that these things are so. When the governor beckons to him to speak, Paul answers, \"Because I know that you have been a judge of this nation for many years, I cheerfully make my defense, seeing that you can verify that it is not more than twelve days since I went up to worship at Jerusalem. In the temple they didn't find me disputing with anyone or stirring up a crowd, either in the synagogues or around the city. They can't prove the things of which they now accuse me. But this I confess to you, that after the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets, having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust. In this I also practice always having a conscience void of offense toward God and men.\" He says that after some years he came to bring gifts for the needy to his nation, and offerings; in the temple they found him purified, with no crowd or uproar, but some Jews from Asia, who ought to be there before the governor to make accusation if they had anything against him. Or let these men themselves say what injustice they found in him when he stood before the council, unless it is about this one cry he made: \"Concerning the resurrection of the dead I am being judged before you today.\" But Felix, having more exact knowledge about the Way, adjourns the case: \"When Lysias the commanding officer comes down, I will decide your case.\" He orders the centurion that Paul be kept in custody but have some liberty, and not forbid any of his friends to serve him. After some days Felix comes with Drusilla, his wife, who is a Jewess, and sends for Paul and hears him concerning the faith in Christ Jesus. As Paul reasons about righteousness, self-control, and the judgment to come, Felix, becoming afraid, answers, \"Go your way for this time, and when it is convenient for me, I will summon you.\" Meanwhile he also hopes that money will be given to him by Paul, so he sends for him more often and talks with him. But when two years are fulfilled, Felix is succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix leaves Paul in bonds.",
+  "whySettingMatters": "Tertullus is a professional advocate, probably a Roman-trained lawyer in the Jewish delegation, and he opens with flattery, as was the custom; Felix' reputation was not so good, as the historian Tacitus said he \"exercised the power of a king with the spirit of a slave.\" Felix, a freedman of the emperor's family, governed Judea from about AD 52 to 59, during which unrest increased. The charges are three: that Paul is a troublemaker, a ringleader of the \"sect of the Nazarenes,\" and an attempted profaner of the temple. Paul answers each. He calls the church \"the Way,\" which the accusers call a sect (hairesis, used also of the Pharisees and Sadducees); he claims the church as a part of Judaism, believing the Law and the Prophets, and the resurrection of both the just and the unjust. Paul says he came to bring gifts for his nation, a reference to the collection described in his letters. Felix \"having more exact knowledge of the Way\" delays, hoping for a bribe, a common practice. Drusilla was Felix's wife, a daughter of Herod Agrippa I and still in her teens or early twenties; she had left her first husband for Felix. Paul speaks of righteousness, self-control, and judgment, topics that hit close to home. Two years in custody (about AD 57 to 59) pass without a verdict, and Paul's prison letters may belong to later imprisonment in Rome.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Defends himself and speaks to Felix about judgment."
+    },
+    {
+      "id": "ananias-the-high-priest",
+      "note": "Comes down with elders to accuse Paul."
+    },
+    {
+      "id": "tertullus",
+      "note": "The advocate who flatters Felix and accuses Paul."
+    },
+    {
+      "id": "felix",
+      "note": "Knows about the Way, delays, and hopes for a bribe."
+    },
+    {
+      "id": "drusilla",
+      "note": "Felix's Jewish wife."
+    },
+    {
+      "id": "festus",
+      "note": "Succeeds Felix after two years."
+    },
+    {
+      "id": "the-jews-from-asia",
+      "note": "The accusers who should have come."
+    }
+  ],
+  "questions": [
+    "Tertullus flatters the governor. What does Paul's reply do differently?",
+    "Paul says he serves the God of his fathers \"after the Way, which they call a sect.\" Why is he insistent on that connection?",
+    "Felix is afraid when Paul speaks of judgment and self-control, and he sends him away. What stops people from responding?",
+    "Paul stays in custody for two years. What do you do with a story that has no resolution?"
+  ],
+  "words": [
+    {
+      "id": "hairesis",
+      "note": "\"The sect of the Nazarenes\" and \"the Way, which they call a sect\" (24:5, 24:14)."
+    },
+    {
+      "id": "enkrateia",
+      "note": "\"As he reasoned about righteousness, self-control, and the judgment to come\" (24:25)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"Righteousness\" (24:25)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"A conscience void of offense toward God and men\" (24:16)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"Having hope toward God\" (24:15)."
+    },
+    {
+      "id": "anastasis",
+      "note": "\"A resurrection of the dead, both of the just and unjust\" (24:15, 24:21)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Daniel 12:2",
+      "note": "many who sleep in the dust will awake"
+    },
+    {
+      "ref": "Romans 15:25-27",
+      "note": "Paul's collection for the poor among the saints"
+    },
+    {
+      "ref": "Acts 23:6",
+      "note": "\"I am a Pharisee\""
+    },
+    {
+      "ref": "1 Peter 3:15",
+      "note": "always be prepared to make a defense"
+    },
+    {
+      "ref": "1 Timothy 1:5",
+      "note": "love from a pure heart and a good conscience"
+    }
+  ],
+  "number": 24,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

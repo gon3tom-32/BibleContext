@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "James killed, Peter rescued from prison, and Herod struck down",
+  "summary": "About that time Herod the king stretches out his hands to harm some of the church, and kills James, the brother of John, with a sword. Seeing that it pleases the Jews, he proceeds to seize Peter also, during the days of Unleavened Bread. He puts him in prison, delivering him to four squads of four soldiers each to guard him, intending to bring him out to the people after the Passover. Peter is kept in the prison, but constant prayer is made by the church to God for him. The same night before Herod is going to bring him out, Peter is sleeping between two soldiers, bound with two chains, and guards before the door are keeping the prison. Behold, an angel of the Lord stands by him, and a light shines in the cell. He strikes Peter on the side and wakes him: \"Rise up quickly!\" His chains fall off from his hands. \"Get dressed and put on your sandals ... Put on your cloak, and follow me.\" He goes out and follows, not knowing that what is done by the angel is real, but thinking he sees a vision. When they have passed the first and the second guard, they come to the iron gate that leads into the city, which opens by itself, and they go out and walk down one street, and immediately the angel departs from him. When Peter comes to himself, he says, \"Now I know for sure that the Lord has sent out his angel and delivered me out of the hand of Herod, and from all the expectation of the Jewish people.\" Considering this, he comes to the house of Mary, the mother of John who is also called Mark, where many are gathered together praying. When he knocks at the door of the gate, a maid named Rhoda comes to answer; recognizing Peter's voice, in her joy she doesn't open the gate, but runs in and tells that Peter is standing in front of the gate. They tell her, \"You are crazy!\" But she insists that it is so, and they say, \"It is his angel.\" But Peter continues knocking, and when they open and see him, they are amazed. He motions to them with his hand to keep quiet, tells how the Lord brought him out of the prison, and says, \"Tell these things to James, and to the brothers.\" Then he departs and goes to another place. Now when it is day, there is no small stir among the soldiers about what has become of Peter. When Herod searches for him and doesn't find him, he examines the guards and commands that they be put to death, and goes down from Judea to Caesarea and stays there. Now Herod is very angry with the people of Tyre and Sidon, and they come with one accord to him, and having made Blastus the king's chamberlain their friend, they ask for peace, because their country depends on the king's country for food. On an appointed day, Herod, dressed in royal clothing, sits on the throne and gives a speech to them. The people shout, \"The voice of a god, and not of a man!\" Immediately an angel of the Lord strikes him, because he doesn't give God the glory, and he is eaten by worms and dies. But the word of the Lord grows and multiplies. Barnabas and Saul return from Jerusalem when they have fulfilled their service, also taking with them John, whose surname is Mark.",
+  "whySettingMatters": "This Herod is Herod Agrippa I, a grandson of Herod the Great, whom the emperor Claudius made king over Judea in AD 41; he died in AD 44, which gives a firm date for this chapter. He tried to win Jewish favor by acting as a pious king, and killing James (son of Zebedee, one of the twelve) is the first death of an apostle recorded in Acts. Four squads of four soldiers meant a four-man unit on each of the four night watches, with two chained to the prisoner. The Passover week is the same time as Jesus' own arrest, which Luke may be signalling. The church's \"constant prayer\" and then its disbelief when Rhoda says Peter is at the door is Luke's honest, almost comic note. \"It is his angel\" reflects a Jewish belief in guardian angels. Mary's house, with a gate and a servant, was large enough for a gathering; her son John Mark appears again in 13:5 and as the writer of the second Gospel by tradition. \"James\" here is Jesus' brother, who now leads the Jerusalem church. Josephus gives a parallel account of Agrippa's death in Caesarea at a festival, when he appeared in a shimmering silver robe and the crowd hailed him as a god. The food dependence of Tyre and Sidon on Galilee and Judea is a regular feature of the region's economy, and it explains why they sought peace.",
+  "people": [
+    {
+      "id": "herod-agrippa",
+      "note": "The king who kills James, imprisons Peter, and is struck down."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "John's brother, killed with a sword."
+    },
+    {
+      "id": "peter",
+      "note": "Imprisoned and freed by an angel."
+    },
+    {
+      "id": "the-angel",
+      "note": "Frees Peter, and later strikes Herod."
+    },
+    {
+      "id": "the-church-in-prayer",
+      "note": "Praying for Peter in Mary's house."
+    },
+    {
+      "id": "mary-mother-of-john-mark",
+      "note": "Her house is where the church is praying."
+    },
+    {
+      "id": "rhoda",
+      "note": "A servant girl who recognizes Peter's voice."
+    },
+    {
+      "id": "james-brother-of-jesus",
+      "note": "Told of Peter's escape."
+    },
+    {
+      "id": "the-delegation-from-tyre-and-sidon",
+      "note": "Flatter Herod, who is struck down."
+    },
+    {
+      "id": "barnabas",
+      "note": "Returns from Jerusalem with Saul and John Mark."
+    },
+    {
+      "id": "saul",
+      "note": "Returns to Antioch."
+    },
+    {
+      "id": "john-mark",
+      "note": "Goes with Barnabas and Saul."
+    }
+  ],
+  "questions": [
+    "The church prays for Peter and doesn't believe it when he arrives. What does Luke want us to see about them?",
+    "James is killed and Peter is rescued. What does the chapter say about how God acts, and how it doesn't resolve?",
+    "Herod accepts praise as a god and dies. What is the contrast with Peter and the apostles?",
+    "\"The word of the Lord grew and multiplied.\" Why does the chapter end there?"
+  ],
+  "words": [
+    {
+      "id": "aggelos",
+      "note": "\"An angel of the Lord stands by him\" (12:7-11, 12:15, 12:23)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"Constant prayer was made by the church\" (12:5, 12:12)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"Because he didn't give God the glory\" (12:23)."
+    },
+    {
+      "id": "logos",
+      "note": "\"The word of the Lord grew and multiplied\" (12:24)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 34:7",
+      "note": "the angel of the Lord encamps around those who fear him"
+    },
+    {
+      "ref": "Daniel 6:22",
+      "note": "God sent his angel and shut the lions' mouths"
+    },
+    {
+      "ref": "Ezekiel 28:2",
+      "note": "you say, \"I am a god\""
+    },
+    {
+      "ref": "James 5:16",
+      "note": "the prayer of a righteous person has great power"
+    }
+  ],
+  "number": 12,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

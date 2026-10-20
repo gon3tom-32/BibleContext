@@ -1,0 +1,115 @@
+{
+  "title": "Where Acts fits",
+  "eras": [
+    {
+      "id": "herod",
+      "label": "Rome and Herod",
+      "order": 1
+    },
+    {
+      "id": "ministry",
+      "label": "Jesus' ministry",
+      "order": 2
+    },
+    {
+      "id": "church",
+      "label": "The early church",
+      "order": 3
+    },
+    {
+      "id": "war",
+      "label": "The Jewish war and after",
+      "order": 4
+    }
+  ],
+  "focusEraId": "church",
+  "lanes": [
+    {
+      "id": "israel",
+      "label": "Judea and Galilee"
+    },
+    {
+      "id": "neighbors",
+      "label": "The empire"
+    },
+    {
+      "id": "book",
+      "label": "This book"
+    }
+  ],
+  "events": [
+    {
+      "lane": "israel",
+      "eraId": "herod",
+      "text": "Herod the Great rules for Rome and rebuilds the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "ministry",
+      "text": "A Roman governor rules Judea; Jesus is crucified and rises (about AD 30)."
+    },
+    {
+      "lane": "israel",
+      "eraId": "church",
+      "text": "The church begins in Jerusalem; Herod Agrippa I rules Judea (AD 41-44), then Roman governors again."
+    },
+    {
+      "lane": "israel",
+      "eraId": "war",
+      "text": "Revolt against Rome from AD 66; the temple destroyed in AD 70."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "herod",
+      "text": "Augustus becomes emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "ministry",
+      "text": "Tiberius is emperor; Pilate governs Judea."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "church",
+      "text": "Claudius (AD 41-54), then Nero (AD 54-68); Jews expelled from Rome under Claudius."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "war",
+      "text": "A year of civil war, then Vespasian."
+    },
+    {
+      "lane": "book",
+      "eraId": "church",
+      "text": "The story takes place (about AD 30-62)",
+      "highlight": true
+    },
+    {
+      "lane": "book",
+      "eraId": "war",
+      "text": "Probably written, perhaps between the 60s and 90s AD (date debated)",
+      "highlight": true
+    }
+  ],
+  "teaser": [
+    {
+      "title": "The church begins",
+      "text": "Pentecost is usually placed around AD 30.",
+      "tone": "green"
+    },
+    {
+      "title": "Acts is written",
+      "text": "Most scholars say the 60s to 90s AD. The date is debated.",
+      "tone": "gold"
+    },
+    {
+      "title": "Paul reaches Rome",
+      "text": "Acts ends with Paul under house arrest in Rome, perhaps about AD 60 to 62.",
+      "tone": "ink"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

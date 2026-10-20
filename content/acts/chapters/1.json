@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Forty days with the risen Jesus, the ascension, and a twelfth apostle chosen",
+  "summary": "Luke addresses Theophilus again: his first book told all that Jesus began to do and teach until the day he was taken up, after giving instructions through the Holy Spirit to the apostles he had chosen. To them he presented himself alive after his suffering by many proofs, appearing to them for forty days and speaking about the Kingdom of God. Staying with them, he commands them not to leave Jerusalem but to wait for the promise of the Father: \"John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.\" They ask, \"Lord, are you at this time restoring the kingdom to Israel?\" He says, \"It isn't for you to know times or seasons which the Father has set within his own authority. But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, and in all Judea and Samaria, and to the uttermost parts of the earth.\" As he says this, he is lifted up and a cloud takes him out of their sight. While they look intently into the sky, two men in white clothing stand beside them: \"Why do you stand looking into the sky? This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.\" They return from the Mount of Olives, a Sabbath day's journey away, to Jerusalem, and go to the upper room where they are staying: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James. All these continue with one accord in prayer with the women, Mary the mother of Jesus, and his brothers. In those days Peter stands up among the believers, about one hundred twenty gathered, and says that the Scripture had to be fulfilled about Judas, who guided those who arrested Jesus, was numbered with them, and obtained a share in this ministry. Judas bought a field with the reward of his wickedness, and falling headlong, burst open in the middle, and all his intestines gushed out; the field was called Akeldama, \"field of blood.\" Peter cites Psalms 69:25 and 109:8: \"Let another take his office.\" It is necessary to choose one of the men who accompanied them all the time from John's baptism until the day he was received up, to become a witness of the resurrection. They put forward two, Joseph called Barsabbas, who was also called Justus, and Matthias, pray, \"You, Lord, who know the hearts of all men, show which one of these two you have chosen,\" and cast lots, and the lot falls on Matthias, who is numbered with the eleven apostles.",
+  "whySettingMatters": "Acts is the second part of a two-volume work, and this opening picks up where Luke's Gospel ends, with some of the same scenes told again from a different angle. The forty days recall Israel's forty years and Jesus' forty days in the wilderness. The disciples' question about the kingdom shows they still expected a political restoration of Israel, and Jesus does not say no; he redirects them. The verse about \"Jerusalem, Judea and Samaria, and the ends of the earth\" is often taken as the outline of the book. The ascension is told twice by Luke, at the end of the Gospel and here. A Sabbath day's journey was about three-quarters of a mile. The upper room and the list of the eleven repeat the names in Luke 6, and the believers include women and Jesus' brothers, who did not believe in him earlier (John 7:5). Judas' death is told differently from Matthew 27:3-10, where he hangs himself and the priests buy the field; the two accounts are usually harmonized, but how is debated. The choice of Matthias by lot recalls how priests and others were chosen in the Old Testament, and the twelve is restored because it stands for the twelve tribes. Matthias is not mentioned again in Acts.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Risen; teaches for forty days and ascends."
+    },
+    {
+      "id": "peter",
+      "note": "Leads the group in choosing a replacement for Judas."
+    },
+    {
+      "id": "the-eleven",
+      "note": "The apostles, waiting in Jerusalem."
+    },
+    {
+      "id": "mary",
+      "note": "Named with the women in the upper room."
+    },
+    {
+      "id": "jesus-brothers",
+      "note": "His brothers, now among the believers."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "His death is told, and his place is filled."
+    },
+    {
+      "id": "matthias",
+      "note": "Chosen by lot to be numbered with the eleven."
+    },
+    {
+      "id": "the-two-men-in-white",
+      "note": "Appear at the ascension."
+    }
+  ],
+  "questions": [
+    "The disciples ask about the kingdom, and Jesus talks about the Spirit and witnessing. What is he doing with their question?",
+    "\"This Jesus ... will come back in the same way.\" What would that promise have meant to people who had just watched him leave?",
+    "The group prays and then chooses by lot. What does that tell you about how they made decisions?",
+    "The believers in the upper room include women and Jesus' own brothers. What does that say about who the church was made of?"
+  ],
+  "words": [
+    {
+      "id": "martys",
+      "note": "\"You will be witnesses to me\" (1:8, 1:22)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"You will receive power when the Holy Spirit has come upon you\" (1:8)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"You will be baptized in the Holy Spirit\" (1:2, 1:5, 1:8, 1:16)."
+    },
+    {
+      "id": "proskartereo",
+      "note": "\"All these continued with one accord in prayer\" (1:14)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"Numbered with the eleven apostles\" (1:2, 1:25-26)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"John indeed baptized in water, but you will be baptized in the Holy Spirit\" (1:5)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Luke 24:44-53",
+      "note": "the end of Luke's Gospel, the same scene"
+    },
+    {
+      "ref": "Psalm 69:25",
+      "note": "\"Let their habitation be desolate\""
+    },
+    {
+      "ref": "Psalm 109:8",
+      "note": "\"Let another take his office\""
+    },
+    {
+      "ref": "Isaiah 49:6",
+      "note": "a light to the nations, my salvation to the end of the earth"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

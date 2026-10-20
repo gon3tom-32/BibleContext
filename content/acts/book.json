@@ -1,0 +1,45 @@
+{
+  "slug": "acts",
+  "title": "Acts",
+  "order": 44,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 28,
+  "tagline": "The story of the first Christians: the risen Jesus' good news travels from Jerusalem to Rome, carried by the Spirit and by people like Peter and Paul.",
+  "author": "Traditionally Luke, a doctor and companion of Paul",
+  "authorNote": "The book doesn't name its author, but it is the second volume of Luke's work, addressed to the same Theophilus (Luke 1:1-4, Acts 1:1). Early church tradition says Luke the doctor wrote both. In some sections the narrator says \"we,\" which many take as the author traveling with Paul; others see it as a literary device.",
+  "authorDebated": true,
+  "audience": "Theophilus, and through him Jewish and Gentile followers of Jesus",
+  "audienceNote": "Like Luke's Gospel, Acts opens with a dedication to \"most excellent Theophilus\" (1:1). Whether he was a real patron, a new believer, or a symbolic reader is debated. The book is concerned with how Gentiles came to belong to a community that began among Jews.",
+  "setting": "The Roman Empire, about AD 30 to 62",
+  "settingNote": "The story runs from the resurrection and Pentecost (about AD 30) to Paul under house arrest in Rome (about AD 60 to 62), across Judea, Syria, Asia Minor, Greece, and Italy. Rulers named include Herod Agrippa I, the governors Felix and Festus, and the emperors Claudius and Nero (implied). Most scholars date the writing to the 60s to 90s AD; the date is debated.",
+  "genre": "Historical narrative",
+  "genreNote": "A narrative of the early church, full of speeches, journeys, trials, and shipwrecks. Luke uses careful travel details and sometimes writes in the first person plural. It stops abruptly with Paul still in Rome, and why it ends there is debated.",
+  "bigIdea": "The risen Jesus, through the Holy Spirit, carries the good news from Jerusalem to the ends of the earth, to Jews and Gentiles alike.",
+  "themes": [
+    "The Holy Spirit and power",
+    "Witnesses to the ends of the earth",
+    "Jews and Gentiles together",
+    "Suffering and joy",
+    "Prayer and community"
+  ],
+  "mapTitle": "Map: from Jerusalem to Rome",
+  "mapSummary": "The good news moves out from Jerusalem to Judea and Samaria, then to Antioch, across Asia Minor and Greece, and finally by sea to Rome.",
+  "scene": {
+    "author": "Traditionally Luke, a doctor and companion of Paul",
+    "audience": "Theophilus and other followers of Jesus",
+    "happening": "The Roman Empire, about AD 30 to 62"
+  },
+  "overviewPeople": [
+    "peter",
+    "paul",
+    "stephen",
+    "barnabas",
+    "cornelius",
+    "lydia"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "Thessalonica, Berea, and Paul's speech in Athens",
+  "summary": "Passing through Amphipolis and Apollonia, they come to Thessalonica, where there is a Jewish synagogue. Paul, as is his custom, goes in and for three Sabbaths reasons with them from the Scriptures, explaining and proving that the Christ had to suffer and rise from the dead: \"This Jesus, whom I proclaim to you, is the Christ.\" Some of them are persuaded and join Paul and Silas, along with a great multitude of the devout Greeks and not a few of the leading women. But the jealous Jews take some wicked men from the marketplace, gather a crowd, set the city in an uproar, attack Jason's house, and seek to bring them out to the people. Not finding them, they drag Jason and some brothers before the city authorities: \"These who have turned the world upside down have come here also, whom Jason has received. These all act contrary to the decrees of Caesar, saying that there is another king, Jesus.\" The brothers immediately send Paul and Silas away by night to Beroea, where they go into the Jewish synagogue. These are more noble than those in Thessalonica, in that they receive the word with all readiness of the mind, examining the Scriptures daily to see whether these things are so. Many of them believe, along with prominent Greek women and men. But when the Jews of Thessalonica learn that the word of God is proclaimed by Paul at Beroea, they come there also, agitating the multitudes. The brothers send Paul to the sea, while Silas and Timothy remain, and those who escort Paul bring him to Athens. While Paul waits for them at Athens, his spirit is provoked within him as he sees the city full of idols. He reasons in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happen to be there. Some of the Epicurean and Stoic philosophers also dispute with him, and some say, \"What does this babbler want to say?\" Others, \"He seems to be advocating foreign deities,\" because he preaches Jesus and the resurrection. They take him to the Areopagus: \"May we know what this new teaching is?\" Paul stands in the middle of the Areopagus: \"You men of Athens, I perceive that you are very religious in all things. For as I passed along and observed the objects of your worship, I found also an altar with this inscription: 'TO AN UNKNOWN GOD.' What therefore you worship in ignorance, this I announce to you. The God who made the world and all things in it, he, being Lord of heaven and earth, doesn't dwell in temples made with hands, neither is he served by men's hands, as though he needed anything, seeing he himself gives to all life and breath and all things. He made from one every nation of men to dwell on all the surface of the earth, having determined appointed seasons and the boundaries of their dwellings, that they should seek the Lord, if perhaps they might reach out for him and find him, though he is not far from each one of us. 'For in him we live, and move, and have our being.' As some of your own poets have said, 'For we are also his offspring.' Being then the offspring of God, we ought not to think that the Divine Nature is like gold, or silver, or stone, engraved by art and device of man. The times of ignorance therefore God overlooked. But now he commands that all men everywhere should repent, because he has appointed a day in which he will judge the world in righteousness by the man whom he has ordained; of which he has given assurance to all men, in that he has raised him from the dead.\" When they hear of the resurrection of the dead, some mock, but others say, \"We want to hear you again about this.\" So Paul departs from among them. But certain men join with him and believe, among whom are Dionysius the Areopagite, a woman named Damaris, and others with them.",
+  "whySettingMatters": "Thessalonica was the capital of Macedonia on the Via Egnatia, the great east-west road; the city authorities are called \"politarchs,\" a title that appears in inscriptions found there, which confirms Luke's accuracy. The charge, \"another king, Jesus,\" is a political twist on the message of the kingdom. The Bereans' \"nobility\" lies in testing what they hear against Scripture. Athens, though past its political peak, was still the intellectual capital of the Greek world, with the Epicureans (who held that the gods did not intervene and that pleasure was the aim of life) and the Stoics (who believed in a rational order and divine reason). \"Babbler\" translates a word for a bird that picks up seeds, so a person who picks up scraps of ideas. The Areopagus was the council that met on the hill of Ares, or in the agora, and examined new teachers. Paul's speech is a model of speaking to Gentiles with no Jewish background. He starts from their religion, uses an altar to an unknown god (altars like this are reported by ancient writers), and quotes Greek poets: \"in him we live and move and have our being\" is attributed to Epimenides, and \"we are his offspring\" to Aratus or Cleanthes. He moves from creation to judgment and resurrection, which is the point where the audience splits. How many believed is modest, but one is a member of the council. Some read this speech as a model for cultural engagement; others note that Paul left Athens soon after for Corinth, where he says he resolved to know only Christ crucified (1 Corinthians 2:2); how to relate the two is debated.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Reasons in synagogues, marketplace, and the Areopagus."
+    },
+    {
+      "id": "silas",
+      "note": "Left behind at Berea with Timothy."
+    },
+    {
+      "id": "timothy",
+      "note": "Stays at Berea with Silas."
+    },
+    {
+      "id": "jason",
+      "note": "Hosts Paul in Thessalonica and is dragged before the authorities."
+    },
+    {
+      "id": "the-bereans",
+      "note": "More noble: they examine the Scriptures daily."
+    },
+    {
+      "id": "the-philosophers",
+      "note": "Epicureans and Stoics who call Paul a babbler."
+    },
+    {
+      "id": "the-areopagus",
+      "note": "The council that hears his speech."
+    },
+    {
+      "id": "dionysius-the-areopagite",
+      "note": "A council member who believes."
+    },
+    {
+      "id": "damaris",
+      "note": "A woman who believes."
+    }
+  ],
+  "questions": [
+    "The Bereans check Paul's words against Scripture. What does Luke praise about that?",
+    "Paul starts from an altar to an unknown god, not from the Bible. What does that tell you about how he speaks to people who don't share his story?",
+    "The speech turns at the resurrection, and the audience splits. What makes that the point of division?",
+    "\"We want to hear you again.\" Is that a rejection or an opening?"
+  ],
+  "words": [
+    {
+      "id": "agnostos",
+      "note": "\"To an unknown god\" (17:23)."
+    },
+    {
+      "id": "deisidaimon",
+      "note": "\"You are very religious\" (17:22)."
+    },
+    {
+      "id": "zeteo",
+      "note": "\"That they should seek the Lord\" (17:27)."
+    },
+    {
+      "id": "anastasis",
+      "note": "\"Jesus and the resurrection\" (17:18, 17:31-32)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"He commands that all men everywhere should repent\" (17:30)."
+    },
+    {
+      "id": "graphe",
+      "note": "\"Examining the Scriptures daily\" (17:2, 17:11)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 42:5",
+      "note": "God who gives breath to the people on it"
+    },
+    {
+      "ref": "Psalm 139:7-12",
+      "note": "where shall I flee from your presence?"
+    },
+    {
+      "ref": "Isaiah 40:18-20",
+      "note": "to whom will you liken God?"
+    },
+    {
+      "ref": "Psalm 96:13",
+      "note": "he will judge the world in righteousness"
+    }
+  ],
+  "number": 17,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "A centurion's vision, Peter's sheet, and the Spirit poured out on the Gentiles",
+  "summary": "At Caesarea there is a man named Cornelius, a centurion of what is called the Italian Cohort, a devout man who fears God with all his household, gives much alms to the people, and prays to God always. About the ninth hour of the day he sees clearly in a vision an angel of God coming in and saying, \"Cornelius!\" Fearful, he asks, \"What is it, Lord?\" \"Your prayers and your gifts to the needy have gone up for a memorial before God. Now send men to Joppa, and get Simon, who is surnamed Peter. He lodges with Simon, a tanner, whose house is by the seaside.\" He sends two servants and a devout soldier. The next day, as they draw near to the city, Peter goes up on the housetop about the sixth hour to pray. He becomes hungry and wants to eat, and while they are preparing, he falls into a trance and sees the sky opened and something like a great sheet descending, let down by four corners on the earth, in which are all kinds of four-footed animals, creeping things, and birds of the sky. A voice says, \"Rise, Peter, kill and eat!\" But Peter says, \"Not so, Lord, for I have never eaten anything that is common and unclean.\" The voice comes again a second time, \"What God has cleansed, you must not call unclean.\" This happens three times, and immediately the thing is taken up into heaven. While Peter is perplexed, the men sent by Cornelius stand at the gate, and the Spirit says, \"Behold, three men seek you. But arise, get down, and go with them, doubting nothing; for I have sent them.\" Peter goes down and says, \"Behold, I am he whom you seek. For what reason have you come?\" They tell him; he invites them in and lodges them. The next day he arises and goes with them, and some of the brothers from Joppa accompany him. The following day they enter Caesarea, where Cornelius is waiting, having called together his relatives and close friends. As Peter enters, Cornelius meets him, falls down at his feet, and worships him. But Peter lifts him up, saying, \"Stand up. I myself am also a man.\" He says, \"You know how it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation, but God has shown me that I shouldn't call any man unholy or unclean. Therefore I came without complaint when I was sent for.\" Cornelius tells his story, and Peter opens his mouth: \"Truly I perceive that God doesn't show favoritism, but in every nation he who fears him and works righteousness is acceptable to him.\" He announces the word that God sent to the children of Israel, preaching good news of peace by Jesus Christ, \"he is Lord of all,\" \"how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with him.\" \"We are witnesses of everything he did both in the country of the Jews and in Jerusalem; whom they also killed, hanging him on a tree. God raised him up the third day, and gave him to be revealed, not to all the people, but to witnesses who were chosen before by God, to us, who ate and drank with him after he rose from the dead. He commanded us to preach to the people, and to testify that this is he who is appointed by God as the Judge of the living and the dead. All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.\" While Peter is still speaking these words, the Holy Spirit falls on all those who hear the word. The believers from among the circumcision who came with Peter are amazed, because the gift of the Holy Spirit has been poured out on the Gentiles also, for they hear them speak with other languages and magnify God. Then Peter answers, \"Can anyone forbid water, that these who have received the Holy Spirit as well as we should not be baptized?\" He commands them to be baptized in the name of Jesus Christ, and they ask him to stay some days.",
+  "whySettingMatters": "This is the turning point of Acts: for the first time a Gentile household is welcomed into the church without first becoming Jewish, and Luke tells the story at length, then retells it in chapter 11 and again in chapter 15. Caesarea was the Roman administrative capital of Judea, so a centurion there is an occupying officer. Cornelius is a \"God-fearer,\" a Gentile who worshiped the God of Israel and gave to the poor but had not been circumcised. The Italian Cohort was an auxiliary unit recruited in Italy. Under Jewish food laws (Leviticus 11), Jews avoided certain animals, and sharing meals with Gentiles was restricted for fear of impurity, so Peter's vision is about both food and people: he draws the conclusion that he should not call any person unclean (10:28). Peter's \"God shows no partiality\" is the key sentence, and the sermon summarizes Jesus' life and death as the Gospels tell it; it is likely a model of the apostolic message. The Spirit falls on the Gentiles before they are baptized, in the opposite order from Samaria and Ephesus, and Peter says it was \"just as on us at the beginning\" (11:15); this is the evidence that settles the matter. Cornelius' bowing to Peter is refused, as the angel will later refuse worship from John.",
+  "people": [
+    {
+      "id": "cornelius",
+      "note": "A Roman centurion in Caesarea who fears God and prays."
+    },
+    {
+      "id": "peter",
+      "note": "Sees the vision, goes to a Gentile's house, and preaches."
+    },
+    {
+      "id": "the-angel-who-appeared-to-cornelius",
+      "note": "Tells Cornelius to send for Peter."
+    },
+    {
+      "id": "the-brothers-from-joppa",
+      "note": "Go with Peter to Caesarea."
+    },
+    {
+      "id": "cornelius-household",
+      "note": "Relatives and friends who receive the Spirit."
+    },
+    {
+      "id": "the-circumcised-believers",
+      "note": "Amazed that the Spirit was given to Gentiles."
+    }
+  ],
+  "questions": [
+    "Peter says, \"God has shown me that I shouldn't call any man unholy or unclean.\" How does a vision about food lead him there?",
+    "Cornelius is already devout and generous. What does Peter's sermon add?",
+    "The Spirit comes while Peter is still speaking. What does that do to Peter's plan?",
+    "The circumcised believers are amazed. What would you have thought if you were one of them?"
+  ],
+  "words": [
+    {
+      "id": "katharizo",
+      "note": "\"What God has cleansed, you must not call unclean\" (10:15, 10:28)."
+    },
+    {
+      "id": "koinos",
+      "note": "\"I have never eaten anything that is common and unclean\" (10:14-15, 10:28)."
+    },
+    {
+      "id": "prosopolemptes",
+      "note": "\"God doesn't show favoritism\" (10:34)."
+    },
+    {
+      "id": "phobeo",
+      "note": "\"A devout man who fears God\" (10:2, 10:22, 10:35)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Holy Spirit fell on all those who heard\" (10:19, 10:38, 10:44-47)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"Can anyone forbid water ... that these should not be baptized?\" (10:47-48)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 11:1-47",
+      "note": "the clean and unclean animals"
+    },
+    {
+      "ref": "Deuteronomy 10:17",
+      "note": "God is not partial"
+    },
+    {
+      "ref": "Isaiah 56:6-7",
+      "note": "foreigners who join themselves to the Lord"
+    },
+    {
+      "ref": "Luke 24:47",
+      "note": "preached to all nations"
+    }
+  ],
+  "number": 10,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

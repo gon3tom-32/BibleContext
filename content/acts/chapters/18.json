@@ -1,0 +1,106 @@
+{
+  "sceneHappening": "A year and a half in Corinth, Gallio's judgment, and Apollos",
+  "summary": "After these things Paul departs from Athens and comes to Corinth. He finds a certain Jew named Aquila, a man of Pontus by race, who has recently come from Italy with his wife Priscilla, because Claudius has commanded all the Jews to depart from Rome. Paul goes to them, and because he practices the same trade, he stays with them and they work, for by trade they are tentmakers. He reasons in the synagogue every Sabbath and persuades Jews and Greeks. When Silas and Timothy come down from Macedonia, Paul is compelled by the Spirit, testifying to the Jews that Jesus is the Christ. When they oppose and blaspheme, he shakes out his clothing and says to them, \"Your blood be on your own heads! I am clean. From now on, I will go to the Gentiles.\" He departs and goes into the house of a certain man named Titius Justus, one who worships God, whose house is next door to the synagogue. Crispus, the ruler of the synagogue, believes in the Lord with all his household, and many of the Corinthians, hearing, believe and are baptized. The Lord says to Paul in the night by a vision, \"Don't be afraid, but speak and don't be silent; for I am with you, and no one will attack you to harm you, for I have many people in this city.\" He lives there a year and six months, teaching the word of God among them. But when Gallio is proconsul of Achaia, the Jews with one accord rise up against Paul and bring him to the judgment seat, saying, \"This man persuades men to worship God contrary to the law.\" As Paul is about to open his mouth, Gallio says, \"If it were a matter of wrong or of wicked crime, you Jews, it would be reasonable that I should bear with you; but if they are questions about words and names and your own law, look to it yourselves. For I don't want to be a judge of these matters.\" He drives them from the judgment seat. Then they all seize Sosthenes, the ruler of the synagogue, and beat him before the judgment seat, and Gallio takes no notice of these things. Paul, having stayed after this many more days, takes his leave of the brothers and sails away to Syria, together with Priscilla and Aquila, having cut his hair at Cenchreae, for he has a vow. They come to Ephesus, and he leaves them there, but he himself enters into the synagogue and reasons with the Jews. When they ask him to stay a longer time, he declines, but taking his leave of them and saying, \"I will return again to you if God wills,\" he sails from Ephesus. When he has landed at Caesarea, he goes up and greets the assembly, and goes down to Antioch. After he has spent some time there, he departs and goes through the region of Galatia and Phrygia, in order, establishing all the disciples. Now a certain Jew named Apollos, an Alexandrian by race, an eloquent man, comes to Ephesus. He is mighty in the Scriptures, has been instructed in the way of the Lord, and being fervent in spirit, speaks and teaches accurately the things concerning Jesus, though he knows only the baptism of John. He begins to speak boldly in the synagogue, but when Priscilla and Aquila hear him, they take him aside and explain to him the way of God more accurately. When he wishes to cross over into Achaia, the brothers encourage him and write to the disciples to receive him, and when he arrives he greatly helps those who have believed through grace; for he powerfully refutes the Jews publicly, showing by the Scriptures that Jesus is the Christ.",
+  "whySettingMatters": "Corinth was a Roman colony and a wealthy port city on the isthmus with two harbors, with a reputation for trade and immorality; its church becomes the subject of two of Paul's letters. Claudius' expulsion of Jews from Rome is probably the one the Roman historian Suetonius dates to about AD 49, saying it was over disturbances \"at the instigation of Chrestus,\" possibly a reference to disputes over Christ. Aquila and Priscilla (called Prisca in Paul's letters) were tentmakers or leatherworkers, and they appear throughout Paul's work; Priscilla is named first several times, which suggests her prominence. Paul worked at his trade to support himself (1 Thessalonians 2:9). An inscription at Delphi dates Gallio's time as proconsul of Achaia to about AD 51-52, which gives one of the firmest anchors for dating Paul's ministry. The \"judgment seat\" (bēma) was the platform in Corinth's forum from which the governor judged cases; its remains can still be seen. Gallio's decision, that this was an internal Jewish dispute and not a crime against Rome, was an important precedent for the church. The vow at Cenchreae may have been a Nazirite vow, though the Greek does not say whether it was Paul's or Aquila's. Apollos, from Alexandria, knew the Scriptures but only John's baptism; Priscilla and Aquila, a married couple, taught him further, and Paul later refers to Apollos' work in Corinth (1 Corinthians 3:4-6).",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Works as a tentmaker, preaches in Corinth, and is brought before Gallio."
+    },
+    {
+      "id": "aquila",
+      "note": "A Jew from Pontus; tentmaker; Paul's host in Corinth."
+    },
+    {
+      "id": "priscilla",
+      "note": "Aquila's wife; they teach Apollos."
+    },
+    {
+      "id": "silas",
+      "note": "Rejoins Paul in Corinth."
+    },
+    {
+      "id": "timothy",
+      "note": "Rejoins Paul in Corinth."
+    },
+    {
+      "id": "titius-justus",
+      "note": "A God-fearer whose house is next to the synagogue."
+    },
+    {
+      "id": "crispus",
+      "note": "The synagogue ruler who believes with his household."
+    },
+    {
+      "id": "gallio",
+      "note": "The proconsul who refuses to judge."
+    },
+    {
+      "id": "sosthenes",
+      "note": "A synagogue ruler who is beaten."
+    },
+    {
+      "id": "apollos",
+      "note": "An eloquent Alexandrian Jew who is taught more accurately."
+    },
+    {
+      "id": "claudius",
+      "note": "The emperor who expelled the Jews from Rome."
+    }
+  ],
+  "questions": [
+    "Paul worked with his hands in Corinth. What does that tell you about how he saw his work?",
+    "The Lord says, \"I have many people in this city.\" What would that have meant to Paul after Athens?",
+    "Gallio refuses to judge. Why was that outcome good for the church, and what did it cost?",
+    "Priscilla and Aquila take Apollos aside rather than correct him in public. What is Luke showing about how teaching and correcting work?"
+  ],
+  "words": [
+    {
+      "id": "skenopoios",
+      "note": "\"By trade they were tentmakers\" (18:3)."
+    },
+    {
+      "id": "bema",
+      "note": "\"They brought him to the judgment seat\" (18:12-17)."
+    },
+    {
+      "id": "akribos",
+      "note": "\"Explained to him the way of God more accurately\" (18:25-26)."
+    },
+    {
+      "id": "martyreo",
+      "note": "\"Testifying to the Jews that Jesus is the Christ\" (18:5)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"Many of the Corinthians ... were baptized\" (18:8), and \"the baptism of John\" (18:25)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Those who have believed through grace\" (18:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Corinthians 1:12-17",
+      "note": "Paul on baptizing in Corinth"
+    },
+    {
+      "ref": "1 Thessalonians 2:9",
+      "note": "working night and day so as not to burden you"
+    },
+    {
+      "ref": "Isaiah 41:10",
+      "note": "fear not, for I am with you"
+    },
+    {
+      "ref": "1 Corinthians 3:4-6",
+      "note": "Paul planted, Apollos watered"
+    }
+  ],
+  "number": 18,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

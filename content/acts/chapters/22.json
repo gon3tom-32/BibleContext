@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Paul's defense to the crowd on the temple steps, and his Roman citizenship",
+  "summary": "Paul, standing on the steps of the barracks, addresses the crowd in Hebrew: \"Brothers and fathers, listen to the defense which I now make to you.\" Hearing him speak in their own language, they become even more quiet. He says, \"I am a Jew, born in Tarsus of Cilicia, but brought up in this city at the feet of Gamaliel, instructed according to the strict manner of the law of our fathers, being zealous for God, even as you all are this day.\" He tells how he persecuted this Way to the death, binding and delivering into prisons both men and women, as the high priest and all the council of elders can testify, and from them received letters to the brothers in Damascus. About noon, as he travels and draws near to Damascus, a great light from heaven shines around him. He falls to the ground and hears a voice saying, \"Saul, Saul, why are you persecuting me?\" \"Who are you, Lord?\" \"I am Jesus of Nazareth, whom you persecute.\" Those with him see the light but do not hear the voice of the one speaking. \"What shall I do, Lord?\" The Lord says, \"Arise, and go into Damascus. There you will be told about all things which are appointed for you to do.\" Unable to see for the glory of that light, he is led by the hand into Damascus. There Ananias, a devout man according to the law, well spoken of by all the Jews who live there, comes to him, stands by him, and says, \"Brother Saul, receive your sight!\" In that very hour he looks up at him. Ananias says, \"The God of our fathers has appointed you to know his will, and to see the Righteous One, and to hear a voice from his mouth. For you will be a witness for him to all men of what you have seen and heard. Now why do you wait? Arise, be baptized, and wash away your sins, calling on the name of the Lord.\" Paul tells how, when he returned to Jerusalem and was praying in the temple, he fell into a trance and saw the Lord saying to him, \"Hurry and get out of Jerusalem quickly, for they will not receive testimony about me from you.\" He had answered, \"Lord, they themselves know that I imprisoned and beat in every synagogue those who believed in you. When the blood of Stephen, your witness, was shed, I also was standing by, and consenting to his death, and guarding the cloaks of those who killed him.\" But the Lord said, \"Depart, for I will send you out far from here to the Gentiles.\" They listen to him until he says this, and then they lift up their voice: \"Rid the earth of this fellow, for he isn't fit to live!\" As they shout, throw off their cloaks, and throw dust into the air, the commanding officer orders him brought into the barracks, and commands that he be examined by scourging, that he may know why they shout against him so. As they tie him up with thongs, Paul says to the centurion who stands by, \"Is it lawful for you to scourge a man who is a Roman, and not found guilty?\" When the centurion hears it, he goes to the commanding officer and tells him: \"Watch what you are about to do, for this man is a Roman!\" The commanding officer comes and asks Paul, \"Tell me, are you a Roman?\" \"Yes.\" The commanding officer answers, \"I bought this citizenship for a great price.\" Paul says, \"But I was born a Roman.\" Immediately those who are about to examine him withdraw, and the commanding officer is also afraid when he realizes that Paul is a Roman and that he has bound him. On the next day, desiring to know the truth about why he is accused by the Jews, he releases him from the bonds and commands the chief priests and all the council to come together, and brings Paul down and sets him before them.",
+  "whySettingMatters": "This is the second of Luke's three accounts of Paul's conversion (9:1-19 and 26:9-18), and each is adapted to its audience: here, to a Jewish crowd, Paul stresses his Jewish credentials, his zeal, and Ananias as a law-abiding Jew, and he does not mention the Gentile commission until the end. That the crowd listened until he said \"Gentiles\" shows what the real offense was. \"At the feet of Gamaliel\" is the posture of a student; Gamaliel was one of the most respected teachers of the time. Paul speaks in \"the Hebrew language,\" probably Aramaic, the common speech of Judea. In 22:9 the companions \"saw the light but did not hear the voice,\" while 9:7 says they heard the voice but saw no one; the discrepancy is often explained by the Greek word for \"hear,\" which can mean to understand, but is debated. Roman citizenship could be inherited or purchased; citizens could not be scourged without trial and had the right to appeal. Paul keeps the card until the last moment, as at Philippi (16:37). The tribune's comment that he \"bought\" citizenship suggests it could be gained by bribery under Claudius, and Paul's reply, \"I was born a citizen,\" shows that his family had held it for at least a generation. \"Wash away your sins, calling on the name of the Lord\" is the only place in Acts where baptism is spoken of as washing away sins, alongside 2:38.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Gives his testimony in Hebrew, and declares his citizenship."
+    },
+    {
+      "id": "the-crowd-in-jerusalem",
+      "note": "Listen until he says Gentiles, then shout for his death."
+    },
+    {
+      "id": "ananias-of-damascus",
+      "note": "Described as a devout, law-keeping man."
+    },
+    {
+      "id": "the-centurion",
+      "note": "Warns the tribune that Paul is a Roman."
+    },
+    {
+      "id": "the-tribune",
+      "note": "Bought his citizenship; is afraid when he learns Paul was born a citizen."
+    },
+    {
+      "id": "stephen",
+      "note": "Remembered by Paul as \"your witness.\""
+    },
+    {
+      "id": "gamaliel",
+      "note": "Paul's teacher."
+    }
+  ],
+  "questions": [
+    "Paul tells his story to people who want him dead. Why does he begin with his Jewish credentials?",
+    "The crowd listens until he says \"Gentiles.\" What does that tell you about what was really at stake?",
+    "Paul reveals his citizenship just as the whips are ready. Why wait?",
+    "Ananias is described as a respected, law-keeping Jew. What does Paul want his hearers to see through him?"
+  ],
+  "words": [
+    {
+      "id": "politeia",
+      "note": "\"I bought this citizenship for a great price\" (22:28)."
+    },
+    {
+      "id": "apolouo",
+      "note": "\"Be baptized, and wash away your sins\" (22:16)."
+    },
+    {
+      "id": "epikaleo",
+      "note": "\"Calling on the name of the Lord\" (22:16)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"Arise, be baptized\" (22:16)."
+    },
+    {
+      "id": "martys",
+      "note": "\"You will be a witness for him to all men\" (22:15, 22:20)."
+    },
+    {
+      "id": "phos",
+      "note": "\"A great light from heaven\" (22:6, 22:9, 22:11)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 9:1-19",
+      "note": "the first account of Paul's conversion"
+    },
+    {
+      "ref": "Acts 26:9-18",
+      "note": "the third account"
+    },
+    {
+      "ref": "Acts 16:37",
+      "note": "Paul tells the magistrates in Philippi he is a Roman"
+    },
+    {
+      "ref": "1 Corinthians 6:11",
+      "note": "but you were washed, you were sanctified, you were justified"
+    },
+    {
+      "ref": "Philippians 3:5-6",
+      "note": "Paul's own account of his zeal and credentials"
+    }
+  ],
+  "number": 22,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

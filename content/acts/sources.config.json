@@ -1,0 +1,1141 @@
+{
+  "osis": "Acts",
+  "stepBook": "Act",
+  "webFile": "acts.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "damascus",
+      "ancientId": "a69c1d4"
+    },
+    {
+      "id": "antioch",
+      "ancientId": "ae41ab4"
+    },
+    {
+      "id": "caesarea",
+      "ancientId": "a58735e"
+    },
+    {
+      "id": "joppa",
+      "ancientId": "ae023a9"
+    },
+    {
+      "id": "tarsus",
+      "ancientId": "a666ea0"
+    },
+    {
+      "id": "philippi",
+      "ancientId": "a49e1d0"
+    },
+    {
+      "id": "thessalonica",
+      "ancientId": "afa9d8e"
+    },
+    {
+      "id": "berea",
+      "ancientId": "a62fe31"
+    },
+    {
+      "id": "athens",
+      "ancientId": "a1fe6e7"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "ephesus",
+      "ancientId": "a5feb15"
+    },
+    {
+      "id": "troas",
+      "ancientId": "a91c509"
+    },
+    {
+      "id": "miletus",
+      "ancientId": "a55027d"
+    },
+    {
+      "id": "rome",
+      "ancientId": "afc8e7a"
+    },
+    {
+      "id": "lystra",
+      "ancientId": "af0719d"
+    },
+    {
+      "id": "derbe",
+      "ancientId": "aa401a9"
+    },
+    {
+      "id": "iconium",
+      "ancientId": "ae425aa"
+    },
+    {
+      "id": "perga",
+      "ancientId": "aff04b8"
+    },
+    {
+      "id": "paphos",
+      "ancientId": "a314765"
+    },
+    {
+      "id": "salamis",
+      "ancientId": "afa863b"
+    },
+    {
+      "id": "cyprus",
+      "ancientId": "a2e7601"
+    },
+    {
+      "id": "crete",
+      "ancientId": "a26aa94"
+    },
+    {
+      "id": "malta",
+      "ancientId": "a57835d"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "galatia",
+      "ancientId": "a0f440a"
+    },
+    {
+      "id": "syria",
+      "ancientId": "a890adf"
+    },
+    {
+      "id": "cilicia",
+      "ancientId": "ad63819"
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce"
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "phoenicia",
+      "ancientId": "a33d53e"
+    },
+    {
+      "id": "puteoli",
+      "ancientId": "a4488e9"
+    },
+    {
+      "id": "myra",
+      "ancientId": "aa4b3e2"
+    },
+    {
+      "id": "fair-havens",
+      "ancientId": "aae626a"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
+    },
+    {
+      "id": "alexandria",
+      "ancientId": "aee7248"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "john-apostle",
+      "theographic": "john_1677"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "matthias",
+      "theographic": "matthias_1972"
+    },
+    {
+      "id": "annas",
+      "theographic": "annas_269"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "barnabas",
+      "theographic": "barnabas_1722"
+    },
+    {
+      "id": "gamaliel",
+      "theographic": "gamaliel_1277"
+    },
+    {
+      "id": "stephen",
+      "theographic": "stephen_2802"
+    },
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "philip",
+      "theographic": "philip_2347"
+    },
+    {
+      "id": "candace",
+      "theographic": "candace_916"
+    },
+    {
+      "id": "simon-the-magician",
+      "theographic": "simon_2752"
+    },
+    {
+      "id": "ananias-of-damascus",
+      "theographic": "ananias_259"
+    },
+    {
+      "id": "aeneas",
+      "theographic": "aeneas_106"
+    },
+    {
+      "id": "tabitha",
+      "theographic": "dorcas_2810"
+    },
+    {
+      "id": "cornelius",
+      "theographic": "cornelius_956"
+    },
+    {
+      "id": "agabus",
+      "theographic": "agabus_107"
+    },
+    {
+      "id": "herod-agrippa",
+      "theographic": "herod_1506"
+    },
+    {
+      "id": "james-zebedee",
+      "theographic": "james_717"
+    },
+    {
+      "id": "mary-mother-of-john-mark",
+      "theographic": "mary_1941"
+    },
+    {
+      "id": "rhoda",
+      "theographic": "rhoda_2439"
+    },
+    {
+      "id": "james-brother-of-jesus",
+      "theographic": "james_719"
+    },
+    {
+      "id": "john-mark",
+      "theographic": "mark_1679"
+    },
+    {
+      "id": "claudius",
+      "theographic": "claudius_947"
+    },
+    {
+      "id": "simeon-niger",
+      "theographic": "simeon_2744"
+    },
+    {
+      "id": "lucius-of-cyrene",
+      "theographic": "lucius_1833"
+    },
+    {
+      "id": "manaen",
+      "theographic": "manaen_1926"
+    },
+    {
+      "id": "elymas",
+      "theographic": "elymas_403"
+    },
+    {
+      "id": "silas",
+      "theographic": "silas_2740"
+    },
+    {
+      "id": "lydia",
+      "theographic": "lydia_1837"
+    },
+    {
+      "id": "jason",
+      "theographic": "jason_742"
+    },
+    {
+      "id": "damaris",
+      "theographic": "damaris_972"
+    },
+    {
+      "id": "dionysius-the-areopagite",
+      "theographic": "dionysius_1013"
+    },
+    {
+      "id": "aquila",
+      "theographic": "aquila_279"
+    },
+    {
+      "id": "priscilla",
+      "theographic": "priscilla_2370"
+    },
+    {
+      "id": "crispus",
+      "theographic": "crispus_961"
+    },
+    {
+      "id": "gallio",
+      "theographic": "gallio_1275"
+    },
+    {
+      "id": "sosthenes",
+      "theographic": "sosthenes_2772"
+    },
+    {
+      "id": "apollos",
+      "theographic": "apollos_276"
+    },
+    {
+      "id": "erastus",
+      "theographic": "erastus_1213"
+    },
+    {
+      "id": "demetrius",
+      "theographic": "demetrius_1007"
+    },
+    {
+      "id": "aristarchus",
+      "theographic": "aristarchus_306"
+    },
+    {
+      "id": "eutychus",
+      "theographic": "eutychus_1230"
+    },
+    {
+      "id": "trophimus",
+      "theographic": "trophimus_2880"
+    },
+    {
+      "id": "judas-barsabbas",
+      "theographic": "judas_1759"
+    },
+    {
+      "id": "felix",
+      "theographic": "felix_1257"
+    },
+    {
+      "id": "drusilla",
+      "theographic": "drusilla_1024"
+    },
+    {
+      "id": "agrippa-ii",
+      "theographic": "agrippa_111"
+    },
+    {
+      "id": "bernice",
+      "theographic": "bernice_482"
+    },
+    {
+      "id": "julius",
+      "theographic": "julius_1763"
+    },
+    {
+      "id": "publius",
+      "theographic": "publius_2374"
+    },
+    {
+      "id": "tertullus",
+      "theographic": "tertullus_2844"
+    },
+    {
+      "id": "ananias-the-high-priest",
+      "theographic": "ananias_260"
+    }
+  ],
+  "words": [
+    {
+      "id": "martys",
+      "strongs": [
+        "G3144"
+      ],
+      "foundAt": "Acts 1:8"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "Acts 1:8"
+    },
+    {
+      "id": "proskartereo",
+      "strongs": [
+        "G4342"
+      ],
+      "foundAt": "Acts 1:14"
+    },
+    {
+      "id": "glossa",
+      "strongs": [
+        "G1100"
+      ],
+      "foundAt": "Acts 2:3"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Acts 2:42"
+    },
+    {
+      "id": "archegos",
+      "strongs": [
+        "G0747"
+      ],
+      "foundAt": "Acts 3:15"
+    },
+    {
+      "id": "epistrepho",
+      "strongs": [
+        "G1994"
+      ],
+      "foundAt": "Acts 3:19"
+    },
+    {
+      "id": "onoma",
+      "strongs": [
+        "G3686"
+      ],
+      "foundAt": "Acts 3:6"
+    },
+    {
+      "id": "parresia",
+      "strongs": [
+        "G3954"
+      ],
+      "foundAt": "Acts 4:13"
+    },
+    {
+      "id": "soteria",
+      "strongs": [
+        "G4991"
+      ],
+      "foundAt": "Acts 4:12"
+    },
+    {
+      "id": "homothymadon",
+      "strongs": [
+        "G3661"
+      ],
+      "foundAt": "Acts 4:24"
+    },
+    {
+      "id": "phobos",
+      "strongs": [
+        "G5401"
+      ],
+      "foundAt": "Acts 5:5"
+    },
+    {
+      "id": "peitharcheo",
+      "strongs": [
+        "G3980"
+      ],
+      "foundAt": "Acts 5:29"
+    },
+    {
+      "id": "hellenistes",
+      "strongs": [
+        "G1675"
+      ],
+      "foundAt": "Acts 6:1"
+    },
+    {
+      "id": "lithoboleo",
+      "strongs": [
+        "G3036"
+      ],
+      "foundAt": "Acts 7:58"
+    },
+    {
+      "id": "skleratrachelos",
+      "strongs": [
+        "G4644"
+      ],
+      "foundAt": "Acts 7:51"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Acts 1:5"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Acts 1:2"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Acts 1:5"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Acts 2:38"
+    },
+    {
+      "id": "koinos",
+      "strongs": [
+        "G2839G",
+        "G2839H"
+      ],
+      "foundAt": "Acts 2:44"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "Acts 5:11"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "Acts 6:1"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Acts 6:2"
+    },
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "Acts 6:2"
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "foundAt": "Acts 7:60"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "Acts 5:31"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Acts 7:2"
+    },
+    {
+      "id": "mageuo",
+      "strongs": [
+        "G3096"
+      ],
+      "foundAt": "Acts 8:9"
+    },
+    {
+      "id": "eunouchos",
+      "strongs": [
+        "G2135"
+      ],
+      "foundAt": "Acts 8:27"
+    },
+    {
+      "id": "hodegeo",
+      "strongs": [
+        "G3594"
+      ],
+      "foundAt": "Acts 8:31"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "Acts 9:13"
+    },
+    {
+      "id": "skeuos",
+      "strongs": [
+        "G4632"
+      ],
+      "foundAt": "Acts 9:15"
+    },
+    {
+      "id": "anistemi",
+      "strongs": [
+        "G0450"
+      ],
+      "foundAt": "Acts 9:6"
+    },
+    {
+      "id": "katharizo",
+      "strongs": [
+        "G2511"
+      ],
+      "foundAt": "Acts 10:15"
+    },
+    {
+      "id": "prosopolemptes",
+      "strongs": [
+        "G4381"
+      ],
+      "foundAt": "Acts 10:34"
+    },
+    {
+      "id": "christianos",
+      "strongs": [
+        "G5546"
+      ],
+      "foundAt": "Acts 11:26"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "Acts 11:23"
+    },
+    {
+      "id": "presbyteros",
+      "strongs": [
+        "G4245G",
+        "G4245H"
+      ],
+      "foundAt": "Acts 11:30"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "Acts 12:7"
+    },
+    {
+      "id": "proseuche",
+      "strongs": [
+        "G4335"
+      ],
+      "foundAt": "Acts 12:5"
+    },
+    {
+      "id": "aphorizo",
+      "strongs": [
+        "G0873"
+      ],
+      "foundAt": "Acts 13:2"
+    },
+    {
+      "id": "leitourgeo",
+      "strongs": [
+        "G3008"
+      ],
+      "foundAt": "Acts 13:2"
+    },
+    {
+      "id": "tasso",
+      "strongs": [
+        "G5021"
+      ],
+      "foundAt": "Acts 13:48"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "Acts 14:15"
+    },
+    {
+      "id": "hodos",
+      "strongs": [
+        "G3598"
+      ],
+      "foundAt": "Acts 9:2"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "Acts 8:4"
+    },
+    {
+      "id": "metanoia",
+      "strongs": [
+        "G3341"
+      ],
+      "foundAt": "Acts 11:18"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "Acts 13:47"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Acts 14:22"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Acts 14:22"
+    },
+    {
+      "id": "aphesis",
+      "strongs": [
+        "G0859"
+      ],
+      "foundAt": "Acts 13:38"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Acts 15:1"
+    },
+    {
+      "id": "paroxysmos",
+      "strongs": [
+        "G3948"
+      ],
+      "foundAt": "Acts 15:39"
+    },
+    {
+      "id": "python",
+      "strongs": [
+        "G4436"
+      ],
+      "foundAt": "Acts 16:16"
+    },
+    {
+      "id": "porphyropolis",
+      "strongs": [
+        "G4211"
+      ],
+      "foundAt": "Acts 16:14"
+    },
+    {
+      "id": "oikos",
+      "strongs": [
+        "G3624G",
+        "G3624H"
+      ],
+      "foundAt": "Acts 16:15"
+    },
+    {
+      "id": "agnostos",
+      "strongs": [
+        "G0057"
+      ],
+      "foundAt": "Acts 17:23"
+    },
+    {
+      "id": "deisidaimon",
+      "strongs": [
+        "G1174"
+      ],
+      "foundAt": "Acts 17:22"
+    },
+    {
+      "id": "zeteo",
+      "strongs": [
+        "G2212"
+      ],
+      "foundAt": "Acts 17:27"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "Acts 17:18"
+    },
+    {
+      "id": "skenopoios",
+      "strongs": [
+        "G4635"
+      ],
+      "foundAt": "Acts 18:3"
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "foundAt": "Acts 18:12"
+    },
+    {
+      "id": "akribos",
+      "strongs": [
+        "G0199"
+      ],
+      "foundAt": "Acts 18:25"
+    },
+    {
+      "id": "perierga",
+      "strongs": [
+        "G4021"
+      ],
+      "foundAt": "Acts 19:19"
+    },
+    {
+      "id": "biblos",
+      "strongs": [
+        "G0976"
+      ],
+      "foundAt": "Acts 19:19"
+    },
+    {
+      "id": "asiarches",
+      "strongs": [
+        "G0775"
+      ],
+      "foundAt": "Acts 19:31"
+    },
+    {
+      "id": "episkopos",
+      "strongs": [
+        "G1985"
+      ],
+      "foundAt": "Acts 20:28"
+    },
+    {
+      "id": "diamartyromai",
+      "strongs": [
+        "G1263"
+      ],
+      "foundAt": "Acts 20:21"
+    },
+    {
+      "id": "oikodomeo",
+      "strongs": [
+        "G3618"
+      ],
+      "foundAt": "Acts 20:32"
+    },
+    {
+      "id": "euche",
+      "strongs": [
+        "G2171"
+      ],
+      "foundAt": "Acts 21:23"
+    },
+    {
+      "id": "hagnizo",
+      "strongs": [
+        "G0048"
+      ],
+      "foundAt": "Acts 21:24"
+    },
+    {
+      "id": "zelotes",
+      "strongs": [
+        "G2207"
+      ],
+      "foundAt": "Acts 21:20"
+    },
+    {
+      "id": "chiliarchos",
+      "strongs": [
+        "G5506"
+      ],
+      "foundAt": "Acts 21:31"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Acts 15:11"
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "foundAt": "Acts 15:10"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Acts 15:1"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "Acts 16:31"
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "foundAt": "Acts 17:2"
+    },
+    {
+      "id": "martyreo",
+      "strongs": [
+        "G3140"
+      ],
+      "foundAt": "Acts 18:5"
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "foundAt": "Acts 20:28"
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "foundAt": "Acts 20:35"
+    },
+    {
+      "id": "koinoo",
+      "strongs": [
+        "G2840"
+      ],
+      "foundAt": "Acts 21:28"
+    },
+    {
+      "id": "politeia",
+      "strongs": [
+        "G4174"
+      ],
+      "foundAt": "Acts 22:28"
+    },
+    {
+      "id": "apolouo",
+      "strongs": [
+        "G0628"
+      ],
+      "foundAt": "Acts 22:16"
+    },
+    {
+      "id": "epikaleo",
+      "strongs": [
+        "G1941"
+      ],
+      "foundAt": "Acts 22:16"
+    },
+    {
+      "id": "syneidesis",
+      "strongs": [
+        "G4893"
+      ],
+      "foundAt": "Acts 23:1"
+    },
+    {
+      "id": "anathematizo",
+      "strongs": [
+        "G0332"
+      ],
+      "foundAt": "Acts 23:12"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "Acts 23:6"
+    },
+    {
+      "id": "hairesis",
+      "strongs": [
+        "G0139"
+      ],
+      "foundAt": "Acts 24:5"
+    },
+    {
+      "id": "enkrateia",
+      "strongs": [
+        "G1466"
+      ],
+      "foundAt": "Acts 24:25"
+    },
+    {
+      "id": "sebastos",
+      "strongs": [
+        "G4575"
+      ],
+      "foundAt": "Acts 25:21"
+    },
+    {
+      "id": "phantasia",
+      "strongs": [
+        "G5325"
+      ],
+      "foundAt": "Acts 25:23"
+    },
+    {
+      "id": "mainomai",
+      "strongs": [
+        "G3105"
+      ],
+      "foundAt": "Acts 26:24"
+    },
+    {
+      "id": "apeithes",
+      "strongs": [
+        "G0545"
+      ],
+      "foundAt": "Acts 26:19"
+    },
+    {
+      "id": "kentron",
+      "strongs": [
+        "G2759"
+      ],
+      "foundAt": "Acts 26:14"
+    },
+    {
+      "id": "diasozo",
+      "strongs": [
+        "G1295"
+      ],
+      "foundAt": "Acts 27:43"
+    },
+    {
+      "id": "typhonikos",
+      "strongs": [
+        "G5189"
+      ],
+      "foundAt": "Acts 27:14"
+    },
+    {
+      "id": "akolytos",
+      "strongs": [
+        "G0209"
+      ],
+      "foundAt": "Acts 28:31"
+    },
+    {
+      "id": "philanthropia",
+      "strongs": [
+        "G5363"
+      ],
+      "foundAt": "Acts 28:2"
+    },
+    {
+      "id": "barbaros",
+      "strongs": [
+        "G0915"
+      ],
+      "foundAt": "Acts 28:2"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Acts 24:25"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "Acts 25:26"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Acts 27:35"
+    },
+    {
+      "id": "phobeo",
+      "strongs": [
+        "G5399"
+      ],
+      "foundAt": "Acts 10:2"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "The map shows nine of the many places in Acts; the Context page lists them all."
+    }
+  ]
+}

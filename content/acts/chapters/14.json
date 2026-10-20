@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Iconium, Lystra, and Derbe: healed, worshiped as gods, and stoned",
+  "summary": "At Iconium, Paul and Barnabas go together into the synagogue of the Jews and speak so that a great multitude both of Jews and of Greeks believe. But the unbelieving Jews stir up the minds of the Gentiles and make them hostile against the brothers. They stay a long time speaking boldly in the Lord, who bears witness to the word of his grace by granting signs and wonders to be done by their hands. The multitude of the city is divided, part with the Jews and part with the apostles. When there is a plot among both the Gentiles and the Jews, with their rulers, to mistreat them and stone them, they become aware of it and flee to the cities of Lycaonia, Lystra and Derbe, and the surrounding region, and there they preach the gospel. At Lystra a man sits who has no use of his feet, lame from his mother's womb, who has never walked. He listens to Paul speaking, who, looking at him and seeing that he has faith to be healed, says with a loud voice, \"Stand upright on your feet!\" He leaps up and walks. When the crowds see what Paul has done, they lift up their voices, saying in the Lycaonian language, \"The gods have come down to us in the likeness of men!\" They call Barnabas Zeus and Paul Hermes, because he is the chief speaker. The priest of Zeus, whose temple is in front of the city, brings oxen and garlands to the gates and wants to offer sacrifice with the multitudes. But when the apostles Barnabas and Paul hear of it, they tear their clothes and rush out among the multitude, crying out, \"Sirs, why are you doing these things? We also are men of the same nature as you, and bring you good news, that you should turn from these vain things to the living God, who made the sky, the earth, the sea, and all that is in them; who in the generations gone by allowed all the nations to walk in their own ways. Yet he didn't leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.\" Even with these words they hardly restrain the multitudes from offering sacrifice to them. But Jews come from Antioch and Iconium, and having persuaded the multitudes, they stone Paul and drag him out of the city, supposing that he is dead. But as the disciples stand around him, he rises up and enters into the city. The next day he goes out with Barnabas to Derbe. When they have preached the gospel to that city and made many disciples, they return to Lystra, Iconium, and Antioch, confirming the souls of the disciples, exhorting them to continue in the faith, and saying, \"Through many afflictions we must enter into the Kingdom of God.\" When they have appointed for them elders in every assembly, and have prayed with fasting, they commend them to the Lord on whom they have believed. They pass through Pisidia and come to Pamphylia, speak the word in Perga, go down to Attalia, and from there sail to Antioch, where they had been committed to the grace of God for the work which they had fulfilled. When they arrive and gather the assembly together, they report all the things that God had done with them, and that he had opened a door of faith to the nations. They stay no little time with the disciples.",
+  "whySettingMatters": "Lystra and Derbe were in the region of Lycaonia, a rural area in central Asia Minor with its own language, and they were away from the synagogue culture of the earlier towns. The crowd's reaction, that Zeus and Hermes had come down, fits a local legend, retold by the Roman poet Ovid, in which the two gods visited the nearby region and were turned away by everyone except an old couple, Philemon and Baucis; the Lystrans did not want to make the same mistake again. Hermes was the messenger and spokesman of the gods, which is why Paul gets that name. Paul's speech to a pagan crowd, with no Scripture quotation, is the first of its kind in Acts and is a close forerunner of the Areopagus speech in chapter 17: God as creator, giver of rain and food, and one who has not been without witness. The stoning of Paul is the \"once I was stoned\" of 2 Corinthians 11:25; later tradition links his survival to Timothy, a Lystran, whom Paul meets in 16:1. \"Through many tribulations we must enter the kingdom\" is the only statement of this kind in Acts and sums up the chapter. \"Elders\" appointed in every church (14:23) are a pattern of local leadership, borrowed from synagogue practice. The \"door of faith\" opened to the Gentiles is Luke's summary of the whole journey.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Heals, is mistaken for a god, is stoned, and gets up."
+    },
+    {
+      "id": "barnabas",
+      "note": "Taken for Zeus."
+    },
+    {
+      "id": "the-lame-man-of-lystra",
+      "note": "Lame from birth, he leaps up."
+    },
+    {
+      "id": "the-crowds-of-lystra",
+      "note": "Call them gods in the Lycaonian language."
+    },
+    {
+      "id": "the-priest-of-zeus",
+      "note": "Brings oxen and garlands to the gates."
+    },
+    {
+      "id": "the-jews-from-antioch-and-iconium",
+      "note": "Win over the crowd and stone Paul."
+    },
+    {
+      "id": "the-disciples-at-lystra",
+      "note": "Stand around Paul and see him rise."
+    },
+    {
+      "id": "the-elders",
+      "note": "Appointed in every church."
+    }
+  ],
+  "questions": [
+    "The crowds see a miracle and decide Paul and Barnabas are gods. What do Paul and Barnabas do with the praise?",
+    "Paul's speech here quotes no Scripture. How does he speak to people who haven't heard of the God of Israel?",
+    "Paul is stoned and left for dead, and then gets up and goes back into the city. What do you see in that?",
+    "\"Through many tribulations we must enter the kingdom of God.\" How would new believers hear that?"
+  ],
+  "words": [
+    {
+      "id": "presbyteros",
+      "note": "\"They had appointed for them elders in every assembly\" (14:23)."
+    },
+    {
+      "id": "zao",
+      "note": "\"Turn from these vain things to the living God\" (14:15)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"Through many afflictions we must enter into the Kingdom of God\" (14:22)."
+    },
+    {
+      "id": "epistrepho",
+      "note": "\"That you should turn from these vain things\" (14:15)."
+    },
+    {
+      "id": "euangelizo",
+      "note": "\"Bring you good news,\" and \"preached the gospel\" (14:7, 14:15, 14:21)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"Enter into the Kingdom of God\" (14:22)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 146:6",
+      "note": "who made heaven and earth, the sea, and all that is in them"
+    },
+    {
+      "ref": "Exodus 20:11",
+      "note": "in six days the Lord made heaven and earth and the sea"
+    },
+    {
+      "ref": "2 Corinthians 11:25",
+      "note": "\"Once I was stoned\""
+    },
+    {
+      "ref": "Jeremiah 10:10",
+      "note": "the Lord is the true God; he is the living God"
+    }
+  ],
+  "number": 14,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

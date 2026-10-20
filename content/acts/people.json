@@ -1,0 +1,712 @@
+[
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The risen Lord whose story Luke's Gospel tells."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "A fisherman, the leader of the apostles in the early chapters."
+  },
+  {
+    "id": "john-apostle",
+    "name": "John",
+    "note": "An apostle and a fisherman, with Peter at the temple."
+  },
+  {
+    "id": "the-eleven",
+    "name": "The eleven",
+    "note": "The apostles after Judas' death."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "The apostles, with Matthias."
+  },
+  {
+    "id": "the-apostles",
+    "name": "The apostles",
+    "note": "The twelve, sent by Jesus."
+  },
+  {
+    "id": "mary",
+    "name": "Mary",
+    "note": "The mother of Jesus."
+  },
+  {
+    "id": "jesus-brothers",
+    "name": "Jesus' brothers",
+    "note": "They did not believe in him earlier but are among the believers now."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "The apostle who betrayed Jesus."
+  },
+  {
+    "id": "matthias",
+    "name": "Matthias",
+    "note": "Chosen to take Judas' place."
+  },
+  {
+    "id": "the-two-men-in-white",
+    "name": "Two men in white",
+    "note": "They appear at the ascension."
+  },
+  {
+    "id": "the-believers",
+    "name": "The believers",
+    "note": "The first followers of Jesus in Jerusalem."
+  },
+  {
+    "id": "the-pilgrims-in-jerusalem",
+    "name": "The pilgrims",
+    "note": "Jews from many nations in Jerusalem for Pentecost."
+  },
+  {
+    "id": "the-lame-man",
+    "name": "The lame man",
+    "note": "Healed at the Beautiful Gate."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people in Jerusalem."
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "note": "A former high priest, still very influential."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "High priest from about AD 18 to 36."
+  },
+  {
+    "id": "the-sadducees",
+    "name": "The Sadducees",
+    "note": "A priestly party that denied resurrection."
+  },
+  {
+    "id": "the-council",
+    "name": "The council",
+    "note": "The Sanhedrin."
+  },
+  {
+    "id": "barnabas",
+    "name": "Barnabas",
+    "note": "A Levite from Cyprus, named Joseph, nicknamed \"Son of Encouragement.\""
+  },
+  {
+    "id": "ananias-and-sapphira",
+    "name": "Ananias and Sapphira",
+    "note": "A husband and wife who lied about a gift."
+  },
+  {
+    "id": "the-high-priest",
+    "name": "The high priest",
+    "note": "The head of the temple and the council."
+  },
+  {
+    "id": "gamaliel",
+    "name": "Gamaliel",
+    "note": "A respected Pharisee and teacher of the law."
+  },
+  {
+    "id": "the-hellenist-widows",
+    "name": "The Hellenist widows",
+    "note": "Greek-speaking widows who were neglected."
+  },
+  {
+    "id": "stephen",
+    "name": "Stephen",
+    "note": "One of the seven; the first martyr."
+  },
+  {
+    "id": "philip",
+    "name": "Philip",
+    "note": "One of the seven, later called the evangelist."
+  },
+  {
+    "id": "nicolaus",
+    "name": "Nicolaus",
+    "note": "A proselyte of Antioch, one of the seven."
+  },
+  {
+    "id": "the-synagogue-of-the-freedmen",
+    "name": "The Synagogue of the Freedmen",
+    "note": "A group of Jews from North Africa and Asia Minor who argued with Stephen."
+  },
+  {
+    "id": "saul",
+    "name": "Saul",
+    "note": "A young man from Tarsus who approves of Stephen's death; later called Paul."
+  },
+  {
+    "id": "simon-the-magician",
+    "name": "Simon the magician",
+    "note": "A Samaritan magician who believed and then tried to buy the Spirit."
+  },
+  {
+    "id": "the-samaritans",
+    "name": "The Samaritans",
+    "note": "People of Samaria, long divided from the Jews."
+  },
+  {
+    "id": "the-ethiopian-eunuch",
+    "name": "The Ethiopian eunuch",
+    "note": "A treasurer of the queen of the Ethiopians."
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "note": "The title of the Ethiopian queen."
+  },
+  {
+    "id": "ananias-of-damascus",
+    "name": "Ananias of Damascus",
+    "note": "A disciple sent to Saul."
+  },
+  {
+    "id": "the-hellenists",
+    "name": "The Hellenists",
+    "note": "Greek-speaking Jews in Jerusalem."
+  },
+  {
+    "id": "aeneas",
+    "name": "Aeneas",
+    "note": "A paralyzed man at Lydda."
+  },
+  {
+    "id": "tabitha",
+    "name": "Tabitha (Dorcas)",
+    "note": "A disciple in Joppa, full of good works."
+  },
+  {
+    "id": "simon-the-tanner",
+    "name": "Simon the tanner",
+    "note": "Peter's host in Joppa."
+  },
+  {
+    "id": "cornelius",
+    "name": "Cornelius",
+    "note": "A centurion of the Italian Cohort in Caesarea."
+  },
+  {
+    "id": "the-angel-who-appeared-to-cornelius",
+    "name": "The angel",
+    "note": "Appeared to Cornelius at the ninth hour."
+  },
+  {
+    "id": "the-brothers-from-joppa",
+    "name": "The brothers from Joppa",
+    "note": "Six believers who go with Peter."
+  },
+  {
+    "id": "cornelius-household",
+    "name": "Cornelius' household",
+    "note": "Relatives and close friends."
+  },
+  {
+    "id": "the-circumcised-believers",
+    "name": "The circumcised believers",
+    "note": "Jewish believers who were with Peter or in Jerusalem."
+  },
+  {
+    "id": "the-scattered-believers",
+    "name": "The scattered believers",
+    "note": "Men of Cyprus and Cyrene who preached at Antioch."
+  },
+  {
+    "id": "agabus",
+    "name": "Agabus",
+    "note": "A prophet from Jerusalem."
+  },
+  {
+    "id": "the-disciples-at-antioch",
+    "name": "The disciples at Antioch",
+    "note": "The church first called Christians."
+  },
+  {
+    "id": "claudius",
+    "name": "Claudius",
+    "note": "Roman emperor from AD 41 to 54."
+  },
+  {
+    "id": "herod-agrippa",
+    "name": "Herod Agrippa I",
+    "note": "King over Judea from AD 41 to 44; grandson of Herod the Great."
+  },
+  {
+    "id": "james-zebedee",
+    "name": "James",
+    "note": "Brother of John and one of the twelve; killed by Herod."
+  },
+  {
+    "id": "the-angel",
+    "name": "The angel of the Lord",
+    "note": "Frees Peter and strikes Herod."
+  },
+  {
+    "id": "the-church-in-prayer",
+    "name": "The praying church",
+    "note": "Gathered in Mary's house."
+  },
+  {
+    "id": "mary-mother-of-john-mark",
+    "name": "Mary, mother of John Mark",
+    "note": "Her house is a meeting place."
+  },
+  {
+    "id": "rhoda",
+    "name": "Rhoda",
+    "note": "A servant girl at Mary's house."
+  },
+  {
+    "id": "james-brother-of-jesus",
+    "name": "James, the brother of Jesus",
+    "note": "Leader of the Jerusalem church."
+  },
+  {
+    "id": "the-delegation-from-tyre-and-sidon",
+    "name": "The delegation from Tyre and Sidon",
+    "note": "They depend on Herod's territory for food."
+  },
+  {
+    "id": "john-mark",
+    "name": "John Mark",
+    "note": "Barnabas' cousin; goes with Paul and Barnabas."
+  },
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "Also called Saul; a Pharisee from Tarsus, the apostle to the Gentiles."
+  },
+  {
+    "id": "simeon-niger",
+    "name": "Simeon called Niger",
+    "note": "A prophet and teacher at Antioch."
+  },
+  {
+    "id": "lucius-of-cyrene",
+    "name": "Lucius of Cyrene",
+    "note": "A prophet and teacher at Antioch."
+  },
+  {
+    "id": "manaen",
+    "name": "Manaen",
+    "note": "Raised with Herod Antipas."
+  },
+  {
+    "id": "elymas",
+    "name": "Elymas (Bar-Jesus)",
+    "note": "A Jewish magician in Paphos."
+  },
+  {
+    "id": "sergius-paulus",
+    "name": "Sergius Paulus",
+    "note": "The Roman proconsul of Cyprus."
+  },
+  {
+    "id": "the-synagogue-rulers",
+    "name": "The synagogue rulers",
+    "note": "They invite Paul to speak."
+  },
+  {
+    "id": "the-gentiles-of-pisidian-antioch",
+    "name": "The Gentiles of Pisidian Antioch",
+    "note": "They glorify the word of the Lord."
+  },
+  {
+    "id": "the-jews-of-pisidian-antioch",
+    "name": "The Jews of Pisidian Antioch",
+    "note": "Some stir up persecution."
+  },
+  {
+    "id": "the-lame-man-of-lystra",
+    "name": "The lame man at Lystra",
+    "note": "Lame from birth."
+  },
+  {
+    "id": "the-crowds-of-lystra",
+    "name": "The crowds at Lystra",
+    "note": "They take Paul and Barnabas for gods."
+  },
+  {
+    "id": "the-priest-of-zeus",
+    "name": "The priest of Zeus",
+    "note": "At the temple in front of the city."
+  },
+  {
+    "id": "the-jews-from-antioch-and-iconium",
+    "name": "Jews from Antioch and Iconium",
+    "note": "They stone Paul."
+  },
+  {
+    "id": "the-disciples-at-lystra",
+    "name": "The disciples at Lystra",
+    "note": "They stand around Paul after the stoning."
+  },
+  {
+    "id": "the-elders",
+    "name": "The elders",
+    "note": "Leaders appointed in each church."
+  },
+  {
+    "id": "the-judean-teachers",
+    "name": "Men from Judea",
+    "note": "They taught that Gentiles must be circumcised to be saved."
+  },
+  {
+    "id": "the-pharisee-believers",
+    "name": "Believers from the Pharisees",
+    "note": "Held that Gentile converts should keep the law of Moses."
+  },
+  {
+    "id": "the-apostles-and-elders",
+    "name": "The apostles and elders",
+    "note": "The leaders of the Jerusalem church."
+  },
+  {
+    "id": "judas-barsabbas",
+    "name": "Judas Barsabbas",
+    "note": "A leader and prophet sent to Antioch."
+  },
+  {
+    "id": "silas",
+    "name": "Silas",
+    "note": "A Jerusalem leader and prophet, Paul's partner from here."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "A young disciple from Lystra, with a Jewish mother and a Greek father."
+  },
+  {
+    "id": "luke",
+    "name": "Luke",
+    "note": "The narrator; traditionally a doctor and Paul's companion."
+  },
+  {
+    "id": "lydia",
+    "name": "Lydia",
+    "note": "A seller of purple from Thyatira, in Philippi."
+  },
+  {
+    "id": "the-slave-girl",
+    "name": "The slave girl",
+    "note": "Had a spirit of divination."
+  },
+  {
+    "id": "her-owners",
+    "name": "Her owners",
+    "note": "Lost their profit."
+  },
+  {
+    "id": "the-magistrates",
+    "name": "The magistrates",
+    "note": "The Roman officials of Philippi."
+  },
+  {
+    "id": "the-philippian-jailer",
+    "name": "The Philippian jailer",
+    "note": "Believed and was baptized with his household."
+  },
+  {
+    "id": "jason",
+    "name": "Jason",
+    "note": "Paul's host in Thessalonica."
+  },
+  {
+    "id": "the-bereans",
+    "name": "The Bereans",
+    "note": "Jews of Berea who examined the Scriptures daily."
+  },
+  {
+    "id": "the-philosophers",
+    "name": "The Epicurean and Stoic philosophers",
+    "note": "They called Paul a babbler."
+  },
+  {
+    "id": "the-areopagus",
+    "name": "The Areopagus",
+    "note": "The council of Athens."
+  },
+  {
+    "id": "dionysius-the-areopagite",
+    "name": "Dionysius the Areopagite",
+    "note": "A member of the council who believed."
+  },
+  {
+    "id": "damaris",
+    "name": "Damaris",
+    "note": "A woman of Athens who believed."
+  },
+  {
+    "id": "aquila",
+    "name": "Aquila",
+    "note": "A Jew from Pontus; a tentmaker."
+  },
+  {
+    "id": "priscilla",
+    "name": "Priscilla",
+    "note": "Aquila's wife; also called Prisca."
+  },
+  {
+    "id": "titius-justus",
+    "name": "Titius Justus",
+    "note": "A God-fearer in Corinth."
+  },
+  {
+    "id": "crispus",
+    "name": "Crispus",
+    "note": "The ruler of the synagogue in Corinth."
+  },
+  {
+    "id": "gallio",
+    "name": "Gallio",
+    "note": "Proconsul of Achaia."
+  },
+  {
+    "id": "sosthenes",
+    "name": "Sosthenes",
+    "note": "A synagogue ruler beaten in front of Gallio."
+  },
+  {
+    "id": "apollos",
+    "name": "Apollos",
+    "note": "An eloquent Jew of Alexandria."
+  },
+  {
+    "id": "the-twelve-disciples-of-john",
+    "name": "The twelve at Ephesus",
+    "note": "Knew only John's baptism."
+  },
+  {
+    "id": "the-sons-of-sceva",
+    "name": "The sons of Sceva",
+    "note": "Seven Jewish exorcists."
+  },
+  {
+    "id": "erastus",
+    "name": "Erastus",
+    "note": "A helper of Paul."
+  },
+  {
+    "id": "demetrius",
+    "name": "Demetrius",
+    "note": "A silversmith who made shrines of Artemis."
+  },
+  {
+    "id": "gaius-of-macedonia",
+    "name": "Gaius",
+    "note": "A Macedonian companion of Paul."
+  },
+  {
+    "id": "aristarchus",
+    "name": "Aristarchus",
+    "note": "A Macedonian from Thessalonica; Paul's companion."
+  },
+  {
+    "id": "the-asiarchs",
+    "name": "The Asiarchs",
+    "note": "Provincial officials of Asia."
+  },
+  {
+    "id": "alexander-of-ephesus",
+    "name": "Alexander",
+    "note": "A Jew put forward in the theater."
+  },
+  {
+    "id": "the-town-clerk",
+    "name": "The town clerk",
+    "note": "The chief civic official of Ephesus."
+  },
+  {
+    "id": "paul-companions",
+    "name": "Paul's companions",
+    "note": "Sopater, Aristarchus, Secundus, Gaius, Timothy, Tychicus, Trophimus."
+  },
+  {
+    "id": "eutychus",
+    "name": "Eutychus",
+    "note": "A young man at Troas; his name means \"fortunate.\""
+  },
+  {
+    "id": "the-ephesian-elders",
+    "name": "The Ephesian elders",
+    "note": "Leaders of the church at Ephesus."
+  },
+  {
+    "id": "the-disciples-at-troas",
+    "name": "The disciples at Troas",
+    "note": "They met on the first day of the week."
+  },
+  {
+    "id": "the-disciples-at-tyre",
+    "name": "The disciples at Tyre",
+    "note": "They urged Paul not to go to Jerusalem."
+  },
+  {
+    "id": "mnason",
+    "name": "Mnason",
+    "note": "An early disciple from Cyprus."
+  },
+  {
+    "id": "the-jerusalem-elders",
+    "name": "The Jerusalem elders",
+    "note": "They advise Paul about the vow."
+  },
+  {
+    "id": "the-jews-from-asia",
+    "name": "The Jews from Asia",
+    "note": "They accuse Paul in the temple."
+  },
+  {
+    "id": "trophimus",
+    "name": "Trophimus",
+    "note": "A Gentile from Ephesus."
+  },
+  {
+    "id": "the-tribune",
+    "name": "The tribune",
+    "note": "The Roman commander in Jerusalem; named Claudius Lysias later."
+  },
+  {
+    "id": "the-crowd-in-jerusalem",
+    "name": "The crowd in Jerusalem",
+    "note": "The people in the temple area who listen to Paul's defense."
+  },
+  {
+    "id": "the-centurion",
+    "name": "The centurion",
+    "note": "An officer who warns the tribune that Paul is a Roman."
+  },
+  {
+    "id": "ananias-the-high-priest",
+    "name": "Ananias the high priest",
+    "note": "High priest from about AD 47 to 59."
+  },
+  {
+    "id": "the-pharisees",
+    "name": "The Pharisees",
+    "note": "A movement devoted to holiness and the law, who believed in the resurrection."
+  },
+  {
+    "id": "the-forty-conspirators",
+    "name": "The forty conspirators",
+    "note": "Men who bound themselves to kill Paul."
+  },
+  {
+    "id": "pauls-nephew",
+    "name": "Paul's nephew",
+    "note": "His sister's son, who reveals the plot."
+  },
+  {
+    "id": "claudius-lysias",
+    "name": "Claudius Lysias",
+    "note": "The Roman tribune in Jerusalem."
+  },
+  {
+    "id": "felix",
+    "name": "Antonius Felix",
+    "note": "Roman governor of Judea from about AD 52 to 59."
+  },
+  {
+    "id": "tertullus",
+    "name": "Tertullus",
+    "note": "An advocate for the Jewish leaders."
+  },
+  {
+    "id": "drusilla",
+    "name": "Drusilla",
+    "note": "Felix's Jewish wife, daughter of Herod Agrippa I."
+  },
+  {
+    "id": "festus",
+    "name": "Porcius Festus",
+    "note": "Roman governor of Judea from about AD 59 to 62."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "Senior priests who sat on the council."
+  },
+  {
+    "id": "the-jews-from-jerusalem",
+    "name": "The Jews from Jerusalem",
+    "note": "They bring charges against Paul."
+  },
+  {
+    "id": "agrippa-ii",
+    "name": "King Agrippa",
+    "note": "Herod Agrippa II, the last Herodian king."
+  },
+  {
+    "id": "bernice",
+    "name": "Bernice",
+    "note": "Agrippa's sister."
+  },
+  {
+    "id": "the-emperor",
+    "name": "The emperor",
+    "note": "Nero, though Luke does not name him."
+  },
+  {
+    "id": "julius",
+    "name": "Julius",
+    "note": "A centurion of the Augustan Cohort."
+  },
+  {
+    "id": "the-pilot-and-the-owner",
+    "name": "The pilot and the owner",
+    "note": "The ship's officers."
+  },
+  {
+    "id": "the-sailors",
+    "name": "The sailors",
+    "note": "Try to flee the ship."
+  },
+  {
+    "id": "the-soldiers",
+    "name": "The soldiers",
+    "note": "Guarding the prisoners."
+  },
+  {
+    "id": "the-other-prisoners",
+    "name": "The other prisoners",
+    "note": "Also being taken to Rome."
+  },
+  {
+    "id": "the-maltese",
+    "name": "The people of Malta",
+    "note": "They show kindness to the survivors."
+  },
+  {
+    "id": "publius",
+    "name": "Publius",
+    "note": "The chief man of Malta."
+  },
+  {
+    "id": "the-brothers-at-puteoli",
+    "name": "The brothers at Puteoli",
+    "note": "Believers who hosted Paul."
+  },
+  {
+    "id": "the-brothers-from-rome",
+    "name": "The brothers from Rome",
+    "note": "Met Paul on the Appian Way."
+  },
+  {
+    "id": "the-soldier-guarding-paul",
+    "name": "The soldier guarding Paul",
+    "note": "Paul is chained to him."
+  },
+  {
+    "id": "the-jewish-leaders-in-rome",
+    "name": "The Jewish leaders in Rome",
+    "note": "They hear Paul."
+  }
+]

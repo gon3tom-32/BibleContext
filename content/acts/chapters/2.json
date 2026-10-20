@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "Pentecost: the Spirit comes, Peter preaches, and about three thousand believe",
+  "summary": "When the day of Pentecost has come, the believers are all together in one place. Suddenly a sound like a mighty rushing wind fills the house, and tongues like fire appear and rest on each of them. They are all filled with the Holy Spirit and begin to speak in other languages, as the Spirit gives them utterance. Devout Jews from every nation under heaven are staying in Jerusalem, and when they hear the sound they come together and are astonished, because each hears them speaking in his own language: Parthians, Medes, Elamites, people of Mesopotamia, Judea, Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Egypt, Libya, Rome, Cretans and Arabs. \"We hear them speaking in our languages the mighty works of God.\" Others mock: \"They are filled with new wine.\" Peter stands up with the eleven: \"These aren't drunken, as you suppose, seeing it is only the third hour of the day. But this is what was spoken through the prophet Joel: 'It will be in the last days, says God, that I will pour out my Spirit on all flesh. Your sons and your daughters will prophesy ... And whoever will call on the name of the Lord will be saved.'\" He speaks of Jesus of Nazareth, \"a man approved by God to you by mighty works and wonders and signs,\" delivered up by God's plan and foreknowledge, whom lawless people crucified, but God raised up, \"having freed him from the pains of death, because it was not possible that he should be held by it.\" He quotes David in Psalm 16 about not being abandoned to Hades and in Psalm 110: \"The Lord said to my Lord, 'Sit at my right hand, until I make your enemies the footstool of your feet.'\" \"Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified.\" Hearing it, they are cut to the heart: \"Brothers, what shall we do?\" Peter says, \"Repent, and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit. For to you is the promise, and to your children, and to all who are far off, even as many as the Lord our God will call to himself.\" About three thousand souls are added that day. They continue steadfastly in the apostles' teaching and fellowship, in the breaking of bread and prayer; fear comes on every soul, and many wonders and signs are done through the apostles. All who believe are together and have all things in common, selling their possessions and sharing with anyone in need. Day by day, attending the temple together and breaking bread at home, they eat with glad and generous hearts, praising God and having favor with all the people, and the Lord adds to them day by day those who are being saved.",
+  "whySettingMatters": "Pentecost (Shavuot, \"the fiftieth day\") was one of the three great pilgrim festivals, fifty days after Passover, when Jerusalem was full of Jews from across the Mediterranean world and the east; the list of nations shows how far the diaspora reached. Wind and fire are the same images that surround God at Sinai, which Jewish tradition connected to Pentecost as the day the Law was given. Speaking in other languages is the opposite of Babel (Genesis 11), where languages divided people; here they are heard and understood. The \"third hour\" is about 9 a.m., too early for drunkenness. Peter's sermon is built on Scripture: Joel 2:28-32, Psalm 16:8-11, and Psalm 110:1, in the way early Jewish teachers argued. The key claim, \"God has made him both Lord and Christ,\" is that the crucified man is now exalted. Baptism \"in the name of Jesus Christ\" and the gift of the Spirit mark the beginning of life in the new community. Luke's description of the first church's life (teaching, fellowship, breaking bread, prayer, shared goods) is the first of several summaries in Acts. How completely the believers held property in common, and whether it was a lasting practice, is debated.",
+  "people": [
+    {
+      "id": "peter",
+      "note": "Stands with the eleven and explains what the crowd is seeing."
+    },
+    {
+      "id": "the-eleven",
+      "note": "Speak in many languages."
+    },
+    {
+      "id": "the-believers",
+      "note": "About a hundred and twenty, filled with the Spirit."
+    },
+    {
+      "id": "the-pilgrims-in-jerusalem",
+      "note": "Devout Jews from every nation, some amazed and some mocking."
+    },
+    {
+      "id": "jesus",
+      "note": "Declared Lord and Christ."
+    }
+  ],
+  "questions": [
+    "The crowd hears the apostles in their own languages. What does Luke want us to notice about that, compared with Babel?",
+    "Peter says the prophet Joel is being fulfilled. Why does he start with Scripture?",
+    "\"What shall we do?\" Why do you think Peter's answer begins with repent and be baptized?",
+    "The first believers shared goods and meals. What parts of that picture are hardest to imagine now?"
+  ],
+  "words": [
+    {
+      "id": "glossa",
+      "note": "\"They began to speak with other tongues\" (2:3-4, 2:11)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"They continued steadfastly in the apostles' teaching and fellowship\" (2:42)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"Repent, and be baptized\" (2:38)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"Be baptized, every one of you, in the name of Jesus Christ\" (2:38, 2:41)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"I will pour out my Spirit on all flesh\" (2:4, 2:17-18, 2:33, 2:38)."
+    },
+    {
+      "id": "proskartereo",
+      "note": "\"They continued steadfastly\" (2:42, 2:46)."
+    },
+    {
+      "id": "koinos",
+      "note": "\"They had all things in common\" (2:44)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Joel 2:28-32",
+      "note": "I will pour out my Spirit on all flesh"
+    },
+    {
+      "ref": "Psalm 16:8-11",
+      "note": "you will not abandon my soul to Sheol"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "\"Sit at my right hand\""
+    },
+    {
+      "ref": "Genesis 11:1-9",
+      "note": "Babel, where languages were confused"
+    },
+    {
+      "ref": "Luke 24:47",
+      "note": "repentance and forgiveness preached in his name to all nations"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Paul's defense before King Agrippa",
+  "summary": "Agrippa says to Paul, \"You may speak for yourself.\" Then Paul stretches out his hand and makes his defense: \"I think myself happy, King Agrippa, that I am to make my defense before you today concerning all the things that I am accused by the Jews, especially because you are expert in all the customs and questions which are among the Jews.\" He says all the Jews know his way of life from his youth, that he lived as a Pharisee, the strictest sect of their religion, and now stands on trial \"for the hope of the promise made by God to our fathers, to which our twelve tribes, earnestly serving night and day, hope to attain. Concerning this hope I am accused by the Jews, king! Why is it judged incredible with you, if God raises the dead?\" He says he once thought he ought to do many things contrary to the name of Jesus of Nazareth, and shut up many of the saints in prison, and cast his vote against them when they were put to death, and tried to force them to blaspheme, being exceedingly enraged against them, persecuting them even to foreign cities. He tells of the road to Damascus: \"At midday, O king, I saw on the way a light from heaven, above the brightness of the sun, shining around me and those who traveled with me. When we had all fallen to the earth, I heard a voice saying to me in the Hebrew language, 'Saul, Saul, why do you persecute me? It's hard for you to kick against the goads.' I said, 'Who are you, Lord?' He said, 'I am Jesus, whom you persecute. But arise, and stand on your feet, for I have appeared to you for this purpose, to appoint you a servant and a witness both of the things which you have seen, and of the things which I will reveal to you; delivering you from the people, and from the Gentiles, to whom I send you, to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me.'\" \"Therefore, King Agrippa, I was not disobedient to the heavenly vision, but declared first to them of Damascus, at Jerusalem, and throughout all the country of Judea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance. For this reason the Jews seized me in the temple, and tried to kill me. Having therefore obtained the help that is from God, I stand to this day testifying both to small and great, saying nothing but what the prophets and Moses said would happen, how that the Christ must suffer, and how, by the resurrection of the dead, he would be first to proclaim light both to these people and to the Gentiles.\" As he thus makes his defense, Festus says with a loud voice, \"Paul, you are crazy! Your great learning is driving you insane!\" But Paul says, \"I am not crazy, most excellent Festus, but boldly declare words of truth and reasonableness. For the king knows of these things, to whom also I speak freely. For I am persuaded that none of these things is hidden from him, for this has not been done in a corner. King Agrippa, do you believe the prophets? I know that you believe.\" Agrippa says to Paul, \"With a little persuasion, are you trying to make me a Christian?\" Paul says, \"I pray to God, that whether with little or with much, not only you, but also all that hear me this day, might become such as I am, except for these bonds.\" The king rises up, with the governor and Bernice, and those who sit with them, and when they have withdrawn, they speak to one another, saying, \"This man does nothing worthy of death or of bonds.\" Agrippa says to Festus, \"This man might have been set free if he had not appealed to Caesar.\"",
+  "whySettingMatters": "This is Paul's last and longest defense and the third account of his conversion, now told to a king who knows Jewish customs. Agrippa II was well placed to understand the argument, since he was a Jew by religion and had Roman connections. Paul turns his defense into a message: he presents the resurrection of Jesus as the fulfillment of Israel's hope, and so claims that he is on trial for being faithful to it. The Hebrew phrase \"kick against the goads\" is a Greek proverb also found in Euripides, about an ox resisting the prod; this detail is found only here. The commission, to open eyes and turn people from darkness to light, echoes Isaiah 42:6-7 and 61:1, and Jeremiah 1:7-8. This version leaves out Ananias and gives the commission directly to Paul, which suits the setting; how the accounts fit together is debated. Paul says that he was \"not disobedient to the heavenly vision.\" Festus' response, \"You are mad,\" is the Roman reaction to talk of resurrection, as in Athens. Paul's reply is polite and sharp: he appeals to Agrippa's knowledge of the prophets. Agrippa's \"Do you think in such a short time you can persuade me to be a Christian?\" can be read as sincere, ironic, or deflecting; the tone is debated. Paul's wish, \"except for these chains,\" is one of the best known lines. Even Agrippa concludes Paul is innocent, though the appeal to Caesar closes that route.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Tells his story to the king, and calls for faith."
+    },
+    {
+      "id": "agrippa-ii",
+      "note": "Knows the Jewish customs; says, \"Almost you persuade me.\""
+    },
+    {
+      "id": "festus",
+      "note": "Says Paul is out of his mind."
+    },
+    {
+      "id": "bernice",
+      "note": "Present at the hearing."
+    },
+    {
+      "id": "jesus",
+      "note": "The voice on the Damascus road who gives Paul his commission."
+    }
+  ],
+  "questions": [
+    "Paul tells the conversion story again, with new details. How does he shape it for a king?",
+    "\"Why is it thought incredible by any of you that God raises the dead?\" What is Paul challenging?",
+    "Festus says Paul is mad and Paul says he speaks \"words of truth and reasonableness.\" How do you tell the difference?",
+    "Paul wishes his hearers were like him, \"except for these chains.\" What do you hear in that?"
+  ],
+  "words": [
+    {
+      "id": "mainomai",
+      "note": "\"Paul, you are crazy!\" (26:24-25)."
+    },
+    {
+      "id": "apeithes",
+      "note": "\"I was not disobedient to the heavenly vision\" (26:19)."
+    },
+    {
+      "id": "kentron",
+      "note": "\"It's hard for you to kick against the goads\" (26:14)."
+    },
+    {
+      "id": "christianos",
+      "note": "\"Are you trying to make me a Christian?\" (26:28)."
+    },
+    {
+      "id": "phos",
+      "note": "\"To turn from darkness to light\" (26:13, 26:18, 26:23)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"That they should repent and turn to God\" (26:20)."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"That they may receive remission of sins\" (26:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 42:6-7",
+      "note": "a light for the nations, to open the eyes that are blind"
+    },
+    {
+      "ref": "Jeremiah 1:7-8",
+      "note": "to all to whom I send you, you shall go"
+    },
+    {
+      "ref": "Acts 9:1-19",
+      "note": "the first account"
+    },
+    {
+      "ref": "Acts 22:1-21",
+      "note": "the second account"
+    }
+  ],
+  "number": 26,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
