@@ -10,6 +10,7 @@ export default function SiteHeader({ slug }: Props) {
   const pathname = usePathname() ?? "";
   const base = `/${slug}`;
   const items = [
+    { href: "/books/", label: "All books", short: "Books", match: () => false },
     { href: `${base}/`, label: "Overview", match: (p: string) => p === base || p === `${base}/` },
     { href: `${base}/context/`, label: "Context", match: (p: string) => p.startsWith(`${base}/context`) },
     { href: `${base}/1/`, label: "Chapters", match: (p: string) => /^\/[^/]+\/\d+\/?$/.test(p) },
