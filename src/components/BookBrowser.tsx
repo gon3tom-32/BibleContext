@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { GROUPS, type GroupId, type Testament } from "@/lib/canon";
 
 export type BrowserBook = {
@@ -15,131 +15,148 @@ export type BrowserBook = {
   words?: number;
 };
 
-type TestamentFilter = "all" | Testament;
+type Filter = "all" | Testament | GroupId;
+
+const TESTAMENT_CHIPS: { id: Filter; label: string }[] = [
+  { id: "all", label: "All" },
+  { id: "OT", label: "Old Testament" },
+  { id: "NT", label: "New Testament" },
+];
+
+function isFilter(v: string | null): v is Filter {
+  return v === "all" || v === "OT" || v === "NT" || GROUPS.some((g) => g.id === v);
+}
 
 export default function BookBrowser({ books }: { books: BrowserBook[] }) {
-  const [testament, setTestament] = useState<TestamentFilter>("all");
-  const [group, setGroup] = useState<"all" | GroupId>("all");
+  const [filter, setFilter] = useState<Filter>("all");
   const [query, setQuery] = useState("");
   const [readyOnly, setReadyOnly] = useState(false);
+  const [loaded, setLoaded] = useState(false);
+  const rowRef = useRef<HTMLDivElement>(null);
 
-  const groups = GROUPS.filter((g) => testament === "all" || g.testament === testament);
+  // Pick up a filter from the link that brought the reader here, e.g. /books/?filter=gospels
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const f = params.get("filter");
+    if (isFilter(f)) setFilter(f);
+    setQuery(params.get("q") ?? "");
+    setReadyOnly(params.get("ready") === "1");
+    setLoaded(true);
+  }, []);
+
+  // Keep the address in step with the filters so a view can be shared or bookmarked.
+  useEffect(() => {
+    if (!loaded) return;
+    const params = new URLSearchParams();
+    if (filter !== "all") params.set("filter", filter);
+    if (query.trim()) params.set("q", query.trim());
+    if (readyOnly) params.set("ready", "1");
+    const qs = params.toString();
+    window.history.replaceState(null, "", `${window.location.pathname}${qs ? `?${qs}` : ""}`);
+  }, [filter, query, readyOnly, loaded]);
+
+  // Bring the chosen chip into view in the scrolling row.
+  useEffect(() => {
+    rowRef.current?.querySelector<HTMLElement>('[aria-pressed="true"][data-chip="filter"]')?.scrollIntoView({
+      inline: "center",
+      block: "nearest",
+    });
+  }, [filter, loaded]);
 
   const visible = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return books.filter(
-      (b) =>
-        (testament === "all" || b.testament === testament) &&
-        (group === "all" || b.group === group) &&
-        (!readyOnly || b.ready) &&
-        (!q || b.title.toLowerCase().includes(q)),
-    );
-  }, [books, testament, group, query, readyOnly]);
+    return books.filter((b) => {
+      if (filter === "OT" || filter === "NT") {
+        if (b.testament !== filter) return false;
+      } else if (filter !== "all" && b.group !== filter) return false;
+      if (readyOnly && !b.ready) return false;
+      return !q || b.title.toLowerCase().includes(q);
+    });
+  }, [books, filter, query, readyOnly]);
 
-  const filtered = testament !== "all" || group !== "all" || query.trim() !== "" || readyOnly;
+  const filtered = filter !== "all" || query.trim() !== "" || readyOnly;
   const readyCount = visible.filter((b) => b.ready).length;
 
-  function pickTestament(t: TestamentFilter) {
-    setTestament(t);
-    setGroup("all");
-  }
   function clear() {
-    setTestament("all");
-    setGroup("all");
+    setFilter("all");
     setQuery("");
     setReadyOnly(false);
   }
 
+  const chip = (id: Filter, label: string) => (
+    <button key={id} type="button" data-chip="filter" className="filter-chip" aria-pressed={filter === id} onClick={() => setFilter(id)}>
+      {label}
+    </button>
+  );
+
   return (
-    <div className="browser">
-      <div className="browser-controls">
-        <div className="seg" role="group" aria-label="Testament">
-          {([["all", "Whole Bible"], ["OT", "Old Testament"], ["NT", "New Testament"]] as const).map(([id, label]) => (
-            <button key={id} type="button" aria-pressed={testament === id} onClick={() => pickTestament(id)}>
-              {label}
-            </button>
-          ))}
+    <div className="finder">
+      <div className="finder-bar">
+        <div className="finder-search">
+          <label className="sr-only" htmlFor="book-search">Search books</label>
+          <input
+            id="book-search"
+            type="search"
+            autoComplete="off"
+            placeholder="Search books, like “Romans”"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
         </div>
-
-        <div className="chip-row" role="group" aria-label="Category">
-          <button type="button" className="filter-chip" aria-pressed={group === "all"} onClick={() => setGroup("all")}>
-            All categories
+        <div className="chip-scroll" role="group" aria-label="Filter books" ref={rowRef}>
+          <button type="button" className="filter-chip filter-chip--ready" aria-pressed={readyOnly} onClick={() => setReadyOnly((v) => !v)}>
+            Ready to read
           </button>
-          {groups.map((g) => (
-            <button key={g.id} type="button" className="filter-chip" aria-pressed={group === g.id} onClick={() => setGroup(g.id)}>
-              {g.label}
-            </button>
-          ))}
-        </div>
-
-        <div className="browser-row">
-          <div className="search-field">
-            <label className="field-label" htmlFor="book-search">Search books</label>
-            <input
-              id="book-search"
-              type="text"
-              inputMode="search"
-              autoComplete="off"
-              placeholder="Try “Romans” or “John”"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-            />
-          </div>
-          <label className="check">
-            <input type="checkbox" checked={readyOnly} onChange={(e) => setReadyOnly(e.target.checked)} />
-            <span>Only books I can read now</span>
-          </label>
+          <span className="chip-divider" aria-hidden="true" />
+          {TESTAMENT_CHIPS.map((c) => chip(c.id, c.label))}
+          <span className="chip-divider" aria-hidden="true" />
+          {GROUPS.map((g) => chip(g.id, g.label))}
         </div>
       </div>
 
-      <p className="browser-count" role="status" aria-live="polite">
-        Showing {visible.length} of {books.length} books · {readyCount} ready to read
+      <p className="finder-count" role="status" aria-live="polite">
+        {filtered ? `Showing ${visible.length} of ${books.length} books` : `${books.length} books`} · {readyCount} ready to read
         {filtered && (
           <>
             {" "}
-            <button type="button" className="text-btn" onClick={clear}>Clear filters</button>
+            <button type="button" className="text-btn" onClick={clear}>Clear</button>
           </>
         )}
       </p>
 
       {visible.length === 0 ? (
         <div className="card">
-          <h3>No books match</h3>
+          <h2>No books match</h2>
           <p className="muted">Try a different search, or clear the filters to see the whole Bible.</p>
+          <div><button type="button" className="btn btn--ghost btn--sm" onClick={clear}>Clear filters</button></div>
         </div>
       ) : (
         GROUPS.filter((g) => visible.some((b) => b.group === g.id)).map((g) => {
           const inGroup = visible.filter((b) => b.group === g.id);
+          const ready = inGroup.filter((b) => b.ready).length;
           return (
             <section key={g.id} className="book-group" aria-labelledby={`group-${g.id}`}>
               <div className="book-group-head">
-                <h3 id={`group-${g.id}`}>{g.label}</h3>
-                <span className="label">{g.testament === "OT" ? "Old Testament" : "New Testament"}</span>
+                <h2 id={`group-${g.id}`}>{g.label}</h2>
+                <span className="label">{g.testament === "OT" ? "Old Testament" : "New Testament"} · {ready} of {inGroup.length} ready</span>
               </div>
-              <p className="small muted">{g.blurb}</p>
               <ul className="book-grid">
-                {inGroup.map((b) =>
-                  b.ready ? (
-                    <li key={b.slug}>
+                {inGroup.map((b) => (
+                  <li key={b.slug}>
+                    {b.ready ? (
                       <Link href={`/${b.slug}/`} className="book-card">
-                        <span className="label book-status book-status--ready">Ready to read</span>
                         <span className="book-title">{b.title}</span>
-                        {b.tagline && <span className="small muted">{b.tagline}</span>}
-                        <span className="smaller muted">
-                          {b.chapters} chapters{b.words ? ` · ${b.words} word studies` : ""}
-                        </span>
+                        <span className="book-meta">{b.chapters} chapters{b.words ? ` · ${b.words} word studies` : ""}</span>
+                        {b.tagline && <span className="book-tagline">{b.tagline}</span>}
                       </Link>
-                    </li>
-                  ) : (
-                    <li key={b.slug}>
+                    ) : (
                       <div className="book-card book-card--soon">
-                        <span className="label book-status">Coming soon</span>
                         <span className="book-title">{b.title}</span>
-                        <span className="smaller muted">{b.chapters} chapters</span>
+                        <span className="book-meta">Coming soon</span>
                       </div>
-                    </li>
-                  ),
-                )}
+                    )}
+                  </li>
+                ))}
               </ul>
             </section>
           );

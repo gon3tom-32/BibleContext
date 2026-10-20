@@ -1,8 +1,8 @@
 import Link from "next/link";
-import BookBrowser, { type BrowserBook } from "@/components/BookBrowser";
-import Logo from "@/components/Logo";
-import { CANON } from "@/lib/canon";
-import { getBook, getBookSlugs, getChapters, getWords } from "@/lib/content";
+import MainHeader from "@/components/MainHeader";
+import { getBrowserBooks, getReadyTotals } from "@/lib/books-index";
+import { getBook, getBookSlugs } from "@/lib/content";
+import { GROUPS } from "@/lib/canon";
 
 const START_HERE = ["ruth", "mark", "romans"];
 
@@ -72,29 +72,11 @@ function Icon({ name }: { name: (typeof FEATURES)[number]["icon"] }) {
 export default function Home() {
   const readyBooks = getBookSlugs().map((slug) => ({ slug, book: getBook(slug) }));
   const bySlug = new Map(readyBooks.map((r) => [r.slug, r.book]));
-
-  let chapterTotal = 0;
-  let wordTotal = 0;
-  const wordsBySlug = new Map<string, number>();
-  for (const { slug } of readyBooks) {
-    chapterTotal += getChapters(slug).length;
-    const n = getWords(slug).length;
-    wordTotal += n;
-    wordsBySlug.set(slug, n);
-  }
-
-  const browserBooks: BrowserBook[] = CANON.map((c) => {
-    const book = bySlug.get(c.slug);
-    return {
-      slug: c.slug,
-      title: c.title,
-      testament: c.testament,
-      group: c.group,
-      chapters: book ? book.chapterCount : c.chapters,
-      ready: Boolean(book),
-      tagline: book?.tagline,
-      words: wordsBySlug.get(c.slug),
-    };
+  const totals = getReadyTotals();
+  const all = getBrowserBooks();
+  const groupTiles = GROUPS.map((g) => {
+    const inGroup = all.filter((b) => b.group === g.id);
+    return { ...g, total: inGroup.length, ready: inGroup.filter((b) => b.ready).length };
   });
 
   const romans = bySlug.get("romans");
@@ -102,18 +84,15 @@ export default function Home() {
 
   return (
     <>
-      <header className="site-header">
-        <a className="skip" href="#main">Skip to content</a>
-        <div className="site-header-inner">
-          <Logo />
-          <nav className="site-nav" aria-label="Home sections">
-            <a href="#features">What you can do</a>
-            <a href="#start" className="hide-sm">Start here</a>
-            <a href="#books">All books</a>
-            <Link href="/sources/">Sources</Link>
-          </nav>
-        </div>
-      </header>
+      <MainHeader
+        label="Home sections"
+        items={[
+          { href: "#features", label: "What you can do" },
+          { href: "#start", label: "Start here", hideOnPhone: true },
+          { href: "/books/", label: "All books" },
+          { href: "/sources/", label: "Sources" },
+        ]}
+      />
 
       <main id="main" className="main landing">
         <section className="landing-hero" aria-labelledby="hero-title">
@@ -125,13 +104,13 @@ export default function Home() {
               word studies, and questions to talk about together.
             </p>
             <div className="hero-buttons">
-              <a className="btn btn--gold" href="#books">Browse the books</a>
+              <Link className="btn btn--gold" href="/books/">Browse the books</Link>
               <a className="btn btn--outline-light" href="#features">See what you can do</a>
             </div>
             <ul className="stat-row" aria-label="What is ready now">
-              <li><strong>{readyBooks.length}</strong><span>books ready</span></li>
-              <li><strong>{chapterTotal}</strong><span>chapters</span></li>
-              <li><strong>{wordTotal.toLocaleString("en-US")}</strong><span>word studies</span></li>
+              <li><strong>{totals.books}</strong><span>books ready</span></li>
+              <li><strong>{totals.chapters}</strong><span>chapters</span></li>
+              <li><strong>{totals.words.toLocaleString("en-US")}</strong><span>word studies</span></li>
             </ul>
           </div>
           {romans && (
@@ -188,13 +167,25 @@ export default function Home() {
         <section id="books" className="landing-section" aria-labelledby="books-title">
           <div className="section-head">
             <div className="eyebrow">The whole Bible</div>
-            <h2 id="books-title">Browse all 66 books</h2>
+            <h2 id="books-title">Find a book</h2>
             <p className="lede lede--sm muted">
-              Filter by Old or New Testament, or by kind of book. Books marked &ldquo;coming soon&rdquo; are on the way; we are
-              working through them one at a time.
+              All 66 books are listed. Jump straight to the kind of book you are after, or browse everything.
             </p>
           </div>
-          <BookBrowser books={browserBooks} />
+          <ul className="group-tiles">
+            {groupTiles.map((g) => (
+              <li key={g.id}>
+                <Link href={`/books/?filter=${g.id}`} className="group-tile">
+                  <span className="group-tile-name">{g.label}</span>
+                  <span className="smaller muted">{g.ready} of {g.total} ready</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+          <div className="hero-buttons">
+            <Link className="btn btn--solid" href="/books/">Browse all 66 books</Link>
+            <Link className="btn btn--ghost" href="/books/?ready=1">Only books ready to read</Link>
+          </div>
         </section>
 
         <section className="band honesty" aria-labelledby="honest-title">
