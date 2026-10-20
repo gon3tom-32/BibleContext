@@ -1,0 +1,279 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "bethlehem",
+      "title": "Born in Bethlehem",
+      "short": "Bethlehem",
+      "refs": "Luke 2:1-20",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Because of a census, Mary and Joseph travel from Nazareth to Bethlehem, where Jesus is born and shepherds hear the news."
+    },
+    {
+      "order": 2,
+      "placeId": "nazareth",
+      "title": "Growing up, then rejected, in Nazareth",
+      "short": "Nazareth",
+      "refs": "Luke 1:26-38; 4:16-30",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Mary is told she will bear a son in Nazareth, where Jesus grows up. Years later his townspeople try to throw him off a cliff."
+    },
+    {
+      "order": 3,
+      "placeId": "jordan",
+      "title": "Baptized in the Jordan",
+      "short": "Jordan River",
+      "refs": "Luke 3:1-22",
+      "chapter": 3,
+      "direction": "out",
+      "text": "John preaches by the Jordan, and Jesus is baptized while praying; the Spirit descends like a dove."
+    },
+    {
+      "order": 4,
+      "placeId": "capernaum",
+      "title": "Capernaum",
+      "short": "Capernaum",
+      "refs": "Luke 4:31-44",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Jesus teaches on the Sabbath, frees a man with an unclean spirit, and heals many by evening."
+    },
+    {
+      "order": 5,
+      "placeId": "nain",
+      "title": "A widow's son at Nain",
+      "short": "Nain",
+      "refs": "Luke 7:11-17",
+      "chapter": 7,
+      "direction": "out",
+      "text": "Jesus stops a funeral procession and raises a widow's only son."
+    },
+    {
+      "order": 6,
+      "placeId": "bethsaida",
+      "title": "Feeding the five thousand",
+      "short": "Bethsaida",
+      "refs": "Luke 9:10-17",
+      "chapter": 9,
+      "direction": "out",
+      "text": "Near Bethsaida, Jesus feeds the crowd with five loaves and two fish."
+    },
+    {
+      "order": 7,
+      "placeId": "samaria-border",
+      "title": "On the road, between Samaria and Galilee",
+      "short": "Samaria border",
+      "refs": "Luke 9:51-56; 17:11-19",
+      "chapter": 9,
+      "direction": "out",
+      "text": "Jesus sets his face toward Jerusalem, and later heals ten lepers, one of whom is a Samaritan."
+    },
+    {
+      "order": 8,
+      "placeId": "bethany",
+      "title": "Martha and Mary at Bethany",
+      "short": "Bethany",
+      "refs": "Luke 10:38-42",
+      "chapter": 10,
+      "direction": "out",
+      "text": "Martha serves while Mary sits at Jesus' feet to listen."
+    },
+    {
+      "order": 9,
+      "placeId": "jericho",
+      "title": "Zacchaeus at Jericho",
+      "short": "Jericho",
+      "refs": "Luke 18:35-19:10",
+      "chapter": 18,
+      "direction": "out",
+      "text": "Jesus heals a blind beggar and stays with the tax collector Zacchaeus."
+    },
+    {
+      "order": 10,
+      "placeId": "jerusalem",
+      "title": "The last days in Jerusalem",
+      "short": "Jerusalem",
+      "refs": "Luke 19:28-23:56",
+      "chapter": 19,
+      "direction": "out",
+      "text": "Jesus enters the city, teaches in the temple, is arrested, crucified, and buried."
+    },
+    {
+      "order": 11,
+      "placeId": "emmaus",
+      "title": "The road to Emmaus",
+      "short": "Emmaus",
+      "refs": "Luke 24:13-35",
+      "chapter": 24,
+      "direction": "out",
+      "text": "On the day of the resurrection, the risen Jesus walks with two disciples and is known in the breaking of bread."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 34.85,
+      "east": 36.2,
+      "south": 31.55,
+      "north": 33.0
+    },
+    "label": "Map of the land from Bethlehem in the south to Capernaum in the north, drawn from real coordinates. Numbered stops mark where Luke's story moves.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "bethlehem",
+        "label": "Bethlehem",
+        "labelSide": "left",
+        "offset": [
+          -4,
+          16
+        ]
+      },
+      {
+        "order": 2,
+        "at": "nazareth",
+        "label": "Nazareth",
+        "labelSide": "left",
+        "offset": [
+          0,
+          -4
+        ]
+      },
+      {
+        "order": 3,
+        "at": [
+          35.56,
+          32.12
+        ],
+        "label": "Jordan River",
+        "labelSide": "right",
+        "locationNote": "Luke doesn't say where on the Jordan this happened; the marker is placed for illustration."
+      },
+      {
+        "order": 4,
+        "at": "capernaum",
+        "label": "Capernaum",
+        "labelSide": "left",
+        "offset": [
+          -14,
+          8
+        ]
+      },
+      {
+        "order": 5,
+        "at": "nain",
+        "label": "Nain",
+        "labelSide": "right",
+        "offset": [
+          10,
+          8
+        ]
+      },
+      {
+        "order": 6,
+        "at": "bethsaida",
+        "label": "Bethsaida",
+        "labelSide": "right",
+        "offset": [
+          8,
+          -10
+        ]
+      },
+      {
+        "order": 7,
+        "at": [
+          35.3,
+          32.45
+        ],
+        "label": "Samaria",
+        "labelSide": "left",
+        "locationNote": "Luke says Jesus passed \"between Samaria and Galilee\" without naming a place, so the marker is illustrative."
+      },
+      {
+        "order": 8,
+        "at": "bethany",
+        "label": "Bethany",
+        "labelSide": "right",
+        "locationNote": "Luke says only \"a certain village\"; John 11:1 places Martha and Mary at Bethany, so the marker uses that.",
+        "offset": [
+          14,
+          2
+        ]
+      },
+      {
+        "order": 9,
+        "at": "jericho",
+        "label": "Jericho",
+        "labelSide": "right",
+        "offset": [
+          2,
+          0
+        ]
+      },
+      {
+        "order": 10,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left",
+        "offset": [
+          -6,
+          -2
+        ]
+      },
+      {
+        "order": 11,
+        "at": "emmaus",
+        "label": "Emmaus",
+        "labelSide": "left",
+        "locationNote": "Where Emmaus was is debated; the marker uses one proposed site.",
+        "offset": [
+          -22,
+          -22
+        ]
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "top-left",
+    "labelAt": {
+      "jordan": null,
+      "sea-of-galilee": null,
+      "great-sea": null,
+      "dead-sea": [
+        35.55,
+        31.6
+      ],
+      "galilee": [
+        35.3,
+        32.82
+      ],
+      "samaria": [
+        35.25,
+        32.22
+      ],
+      "judea": [
+        35.05,
+        31.62
+      ],
+      "decapolis": [
+        36.0,
+        32.3
+      ]
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Stop placements for the Jordan and the Samaria border are illustrative."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Stop placements for the Jordan and the Samaria border are illustrative."
+  }
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "zechariah",
+    "name": "Zechariah",
+    "note": "A priest of the division of Abijah, and John's father."
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "note": "From a priestly family; John's mother and Mary's relative."
+  },
+  {
+    "id": "gabriel",
+    "name": "Gabriel",
+    "note": "The angel who announces John's and Jesus' births."
+  },
+  {
+    "id": "mary",
+    "name": "Mary",
+    "note": "A young woman of Nazareth, mother of Jesus."
+  },
+  {
+    "id": "joseph",
+    "name": "Joseph",
+    "note": "Of David's house; engaged to Mary and living in Nazareth."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "Born in Bethlehem, raised in Nazareth, announced as Savior, Christ, and Son of God."
+  },
+  {
+    "id": "john-baptist",
+    "name": "John the Baptist",
+    "note": "Son of Zechariah and Elizabeth, who prepares the way."
+  },
+  {
+    "id": "the-shepherds",
+    "name": "The shepherds",
+    "note": "Told the news first, in the fields near Bethlehem."
+  },
+  {
+    "id": "simeon",
+    "name": "Simeon",
+    "note": "A righteous man in Jerusalem, waiting for the consolation of Israel."
+  },
+  {
+    "id": "anna",
+    "name": "Anna",
+    "note": "An elderly prophet, of the tribe of Asher, who lives in the temple."
+  },
+  {
+    "id": "augustus",
+    "name": "Caesar Augustus",
+    "note": "The first Roman emperor."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people who come to hear John and Jesus."
+  },
+  {
+    "id": "the-tax-collectors",
+    "name": "Tax collectors",
+    "note": "Jews who collected taxes for Rome and kept a margin, and were despised for it."
+  },
+  {
+    "id": "the-soldiers",
+    "name": "Soldiers",
+    "note": "Armed men who asked John what to do."
+  },
+  {
+    "id": "herod-antipas",
+    "name": "Herod Antipas",
+    "note": "Ruler of Galilee, son of Herod the Great."
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "note": "A former high priest who still held great influence."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "High priest in the time of Jesus' ministry."
+  },
+  {
+    "id": "the-devil",
+    "name": "The devil",
+    "note": "The adversary, who tests Jesus."
+  },
+  {
+    "id": "the-people-of-nazareth",
+    "name": "The people of Nazareth",
+    "note": "Jesus' hometown synagogue."
+  },
+  {
+    "id": "man-with-unclean-spirit",
+    "name": "A man with an unclean spirit",
+    "note": "In the Capernaum synagogue."
+  },
+  {
+    "id": "peters-mother-in-law",
+    "name": "Simon's mother-in-law",
+    "note": "Healed of a fever at Capernaum."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "A fisherman of Capernaum; first appears here by his earlier name, Simon."
+  },
+  {
+    "id": "james-zebedee",
+    "name": "James",
+    "note": "A fisherman, brother of John, and one of the twelve."
+  },
+  {
+    "id": "john-apostle",
+    "name": "John",
+    "note": "A fisherman, brother of James, and one of the twelve."
+  },
+  {
+    "id": "the-leper",
+    "name": "A man with leprosy",
+    "note": "Cut off from the community until a priest declared him clean."
+  },
+  {
+    "id": "the-paralyzed-man",
+    "name": "The paralyzed man",
+    "note": "Carried by friends."
+  },
+  {
+    "id": "religious-leaders",
+    "name": "Pharisees and scribes",
+    "note": "Teachers of the law and a Jewish movement devoted to holiness."
+  },
+  {
+    "id": "levi",
+    "name": "Levi",
+    "note": "A tax collector in Capernaum, also called Matthew in the other Gospels."
+  },
+  {
+    "id": "the-disciples",
+    "name": "The disciples",
+    "note": "Those who follow Jesus."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "The apostles Jesus chose."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "One of the twelve, \"who became a traitor.\""
+  },
+  {
+    "id": "the-man-with-the-withered-hand",
+    "name": "The man with the withered hand",
+    "note": "Healed in the synagogue."
+  },
+  {
+    "id": "the-centurion",
+    "name": "The centurion",
+    "note": "A Gentile officer in Capernaum."
+  },
+  {
+    "id": "the-widow-of-nain",
+    "name": "The widow of Nain",
+    "note": "Her only son dies."
+  },
+  {
+    "id": "simon-the-pharisee",
+    "name": "Simon the Pharisee",
+    "note": "A host who invites Jesus to dinner."
+  },
+  {
+    "id": "the-woman-who-anointed-jesus",
+    "name": "The woman who anointed Jesus",
+    "note": "Unnamed; known in her town as a sinner."
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "note": "From Magdala; freed from seven demons and a follower of Jesus."
+  },
+  {
+    "id": "joanna",
+    "name": "Joanna",
+    "note": "Wife of Chuza, Herod Antipas' steward."
+  },
+  {
+    "id": "susanna",
+    "name": "Susanna",
+    "note": "Mentioned only here."
+  },
+  {
+    "id": "jesus-family",
+    "name": "Jesus' mother and brothers",
+    "note": "His family."
+  },
+  {
+    "id": "gerasene-man",
+    "name": "The man from the tombs",
+    "note": "Freed from Legion."
+  },
+  {
+    "id": "jairus",
+    "name": "Jairus",
+    "note": "A synagogue leader."
+  },
+  {
+    "id": "jairus-daughter",
+    "name": "Jairus' daughter",
+    "note": "Aged about twelve."
+  },
+  {
+    "id": "woman-with-bleeding",
+    "name": "The woman with the flow of blood",
+    "note": "Ill for twelve years."
+  },
+  {
+    "id": "the-samaritans",
+    "name": "The Samaritans",
+    "note": "A people living between Judea and Galilee, regarded as outsiders by many Jews."
+  },
+  {
+    "id": "the-seventy",
+    "name": "The seventy",
+    "note": "Followers sent ahead of Jesus in pairs; some manuscripts say seventy-two."
+  },
+  {
+    "id": "the-lawyer",
+    "name": "A lawyer",
+    "note": "An expert in the Law of Moses."
+  },
+  {
+    "id": "the-lawyers",
+    "name": "The lawyers",
+    "note": "Experts in the Law of Moses."
+  },
+  {
+    "id": "the-samaritan",
+    "name": "The Samaritan",
+    "note": "The traveler who stops in the story."
+  },
+  {
+    "id": "the-priest-and-the-levite",
+    "name": "The priest and the Levite",
+    "note": "Two temple figures who pass the wounded man."
+  },
+  {
+    "id": "martha",
+    "name": "Martha",
+    "note": "Welcomes Jesus into her house."
+  },
+  {
+    "id": "mary-of-bethany",
+    "name": "Mary",
+    "note": "Martha's sister, who sits at Jesus' feet."
+  },
+  {
+    "id": "the-man-with-the-inheritance",
+    "name": "A man in the crowd",
+    "note": "Wants Jesus to settle a family dispute."
+  },
+  {
+    "id": "the-rich-fool",
+    "name": "The rich fool",
+    "note": "A man in a parable, who plans only for himself."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "Gave the Law; appears with Elijah on the mountain."
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "note": "The prophet, taken up in a whirlwind."
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "A Roman officer's servant, a widow's son at Nain, John's question, and a woman at Simon's table",
+  "summary": "In Capernaum a centurion has a servant he values highly who is sick and about to die. He sends some Jewish elders, who say, \"He is worthy for you to do this for him, for he loves our nation, and he built our synagogue for us.\" Jesus goes with them, but as he nears the house the centurion sends friends: \"Lord, don't trouble yourself, for I am not worthy for you to come under my roof ... but say the word, and my servant will be healed. For I also am a man placed under authority, having under myself soldiers.\" Jesus marvels: \"I have not found such great faith, no, not in Israel.\" The servant is found well. Next day, as Jesus enters the town of Nain, a dead man is being carried out, the only son of his mother, who is a widow, and a large crowd is with her. Seeing her, the Lord has compassion and says, \"Don't cry.\" He touches the bier and says, \"Young man, I tell you, arise!\" The dead man sits up and begins to speak, and Jesus gives him to his mother. Fear seizes all, and they glorify God: \"A great prophet has arisen among us,\" and \"God has visited his people.\" John the Baptist, in prison, hears of these things and sends two disciples to ask, \"Are you the one who is coming, or should we look for another?\" That hour Jesus cures many, then says, \"Go and tell John the things which you have seen and heard: that the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised up, the poor have good news preached to them. Blessed is he who finds no occasion for stumbling in me.\" He tells the crowds John is more than a prophet, the messenger of Malachi 3:1, and that none born of women is greater, yet the least in the kingdom of God is greater. Those who listened, including tax collectors, \"justified God,\" while the Pharisees and lawyers rejected God's purpose for themselves. He compares \"this generation\" to children in the marketplace who complain, \"We piped, and you did not dance; we wailed, and you did not weep.\" John came neither eating nor drinking and they said he had a demon; the Son of Man comes eating and drinking, and they say, \"a glutton and a drunkard, a friend of tax collectors and sinners!\" A Pharisee named Simon invites Jesus to dinner, and a woman of the city, a sinner, brings an alabaster jar of ointment, stands behind him weeping, wets his feet with her tears, wipes them with her hair, kisses them, and anoints them. Simon thinks, \"If this man were a prophet he would have known who and what kind of woman this is.\" Jesus tells of two debtors, one owing five hundred denarii and the other fifty, both forgiven, and asks which will love more. \"I entered into your house, and you gave me no water for my feet, but she has wet my feet with her tears ... Therefore I tell you, her sins, which are many, are forgiven, for she loved much; but to whom little is forgiven, the same loves little.\" He tells her, \"Your sins are forgiven,\" and \"Your faith has saved you. Go in peace.\"",
+  "whySettingMatters": "The centurion is a Gentile officer, most likely serving Herod Antipas, and the story's point is that he is respected by the Jewish elders and yet does not presume to come to Jesus. He understands authority as chain of command: a word from the right person is enough. Nain was a village a day's walk southwest of Capernaum, near Shunem, where Elisha raised a widow's son; Luke's line, \"he gave him to his mother,\" echoes Elijah and the widow of Zarephath (1 Kings 17:23). A widow with an only son had no one to provide for her, which is why the loss is so great; the bier was an open stretcher, and touching it would make a person ritually unclean. John's question comes from prison; he had expected a different kind of messiah, and Jesus answers with Isaiah 35:5-6 and 61:1, pointing to what he is doing. A denarius was a day's wage, so the debts are about a year and a half's wages versus fifty days'. Hospitality customs included water for the feet, a greeting kiss, and oil for the head; Simon omitted all three. A woman letting down her hair in public was scandalous. \"A sinner\" suggests a reputation, probably sexual, though Luke doesn't say. Jesus' last line puts forgiveness and love in the order that she lived it, forgiven first and then loving.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Heals a servant, raises a widow's son, answers John, and defends a woman."
+    },
+    {
+      "id": "the-centurion",
+      "note": "A Gentile officer who loves Israel and trusts Jesus' word."
+    },
+    {
+      "id": "the-widow-of-nain",
+      "note": "Has lost her only son."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Sends his disciples from prison to ask if Jesus is the one."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Praise God: \"God has visited his people.\""
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees and lawyers, who rejected God's purpose."
+    },
+    {
+      "id": "the-tax-collectors",
+      "note": "Who \"justified God\" by being baptized."
+    },
+    {
+      "id": "simon-the-pharisee",
+      "note": "The host at whose table the scene happens."
+    },
+    {
+      "id": "the-woman-who-anointed-jesus",
+      "note": "A \"sinner\" who weeps, anoints, and is forgiven."
+    }
+  ],
+  "questions": [
+    "The centurion says, \"Say the word.\" What does he understand that others in the story don't?",
+    "Jesus says, \"Don't cry,\" to the widow before he does anything. What does that tell us about what he sees?",
+    "John asks whether Jesus is the one after all. What does Jesus' answer say about what to expect from the kingdom?",
+    "Simon and the woman are at the same table. What does each see when they look at Jesus?"
+  ],
+  "words": [
+    {
+      "id": "pistis",
+      "note": "\"I have not found such great faith\" (7:9), and \"Your faith has saved you\" (7:50)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "The Lord \"had compassion\" on the widow (7:13)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"A friend of tax collectors and sinners\" (7:34), and \"a woman who was a sinner\" (7:37, 7:39)."
+    },
+    {
+      "id": "charizomai",
+      "note": "Both debtors are \"forgiven\" (7:42-43)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"She loved much\" (7:42-47)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Your faith has saved you\" (7:50)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Kings 17:17-24",
+      "note": "Elijah raises the widow's son"
+    },
+    {
+      "ref": "Isaiah 35:5-6",
+      "note": "the blind see, the deaf hear, the lame leap"
+    },
+    {
+      "ref": "Isaiah 61:1",
+      "note": "good news to the poor"
+    },
+    {
+      "ref": "Malachi 3:1",
+      "note": "the messenger sent ahead"
+    }
+  ],
+  "number": 7,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

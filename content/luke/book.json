@@ -1,0 +1,45 @@
+{
+  "slug": "luke",
+  "title": "Luke",
+  "order": 42,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 24,
+  "tagline": "The most orderly Gospel: Jesus as Savior for everyone, with a special eye on the poor, outsiders, women, and the lost.",
+  "author": "Traditionally Luke, a doctor and companion of Paul",
+  "authorNote": "The book doesn't name its author. Early church tradition says Luke, the doctor Paul mentions (Colossians 4:14), wrote it and Acts as a two-part work addressed to Theophilus. Many scholars accept that; some doubt that the author knew Paul personally.",
+  "authorDebated": true,
+  "audience": "Theophilus, and through him Gentile and Jewish followers of Jesus",
+  "audienceNote": "The opening names \"most excellent Theophilus,\" a title of a person of rank. Whether he was a real patron, a new believer, or a symbolic reader (\"lover of God\") is debated. The Gospel explains Jewish customs and places and stresses that salvation reaches all nations, which suggests a largely Gentile readership.",
+  "setting": "Under Roman rule, told with careful dates",
+  "settingNote": "Luke ties the story to Roman and local rulers: Augustus, Quirinius, Tiberius, Pontius Pilate, Herod, and the high priests Annas and Caiaphas. Most scholars date the book to the 70s or 80s AD, after the fall of Jerusalem; some argue for the early 60s. The date is debated.",
+  "genre": "Gospel",
+  "genreNote": "The first half of a two-volume work (Luke and Acts). It opens with a careful preface like an ancient history, and it includes stories found only in Luke, such as the good Samaritan, the prodigal son, and the road to Emmaus.",
+  "bigIdea": "God has visited his people in Jesus, and the good news of salvation is for everyone, beginning with the lowly and the lost.",
+  "themes": [
+    "Salvation for all",
+    "The poor and the outsider",
+    "Women and the overlooked",
+    "Prayer and the Holy Spirit",
+    "Joy and a journey to Jerusalem"
+  ],
+  "mapTitle": "Map: from Bethlehem to Jerusalem",
+  "mapSummary": "Jesus is born in Bethlehem, grows up in Nazareth, teaches in Galilee, journeys toward Jerusalem, and after his resurrection meets two disciples on the road to Emmaus.",
+  "scene": {
+    "author": "Traditionally Luke, a doctor and companion of Paul",
+    "audience": "Theophilus and other followers of Jesus",
+    "happening": "Roman rule in Judea and Galilee"
+  },
+  "overviewPeople": [
+    "jesus",
+    "mary",
+    "john-baptist",
+    "peter",
+    "zacchaeus",
+    "pilate"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Fear and hypocrisy, a rich man's barns, worry, and being ready",
+  "summary": "Thousands gather, so that people trample one another, and Jesus first says to his disciples, \"Beware of the yeast of the Pharisees, which is hypocrisy.\" Nothing is covered that will not be revealed. \"Don't be afraid of those who kill the body, and after that have no more that they can do ... Fear him who, after he has killed, has power to cast into Gehenna.\" Five sparrows sell for two pennies, and not one is forgotten by God; \"the very hairs of your head are all numbered. Therefore don't be afraid.\" Whoever acknowledges him before men, the Son of Man will acknowledge before the angels of God, and the Holy Spirit will teach them what to say when brought before synagogues and rulers. A man in the crowd says, \"Teacher, tell my brother to divide the inheritance with me.\" Jesus says, \"Man, who made me a judge or an arbitrator over you?\" and warns, \"Beware! Keep yourselves from covetousness, for a man's life doesn't consist of the abundance of the things which he possesses.\" He tells of a rich man whose land produced abundantly, who thinks, \"I will pull down my barns and build bigger ones ... and I will tell my soul, 'Soul, you have many goods laid up for many years. Take your ease, eat, drink, be merry.'\" God says, \"You foolish one, tonight your soul is required of you. The things which you have prepared, whose will they be?\" So is he who lays up treasure for himself and is not rich toward God. \"Therefore I tell you, don't be anxious for your life, what you will eat, nor yet for your body, what you will wear.\" Consider the ravens, which neither sow nor reap and yet God feeds them; consider the lilies, how they grow, and not even Solomon in all his glory was clothed like one of these. \"Don't seek what you will eat or what you will drink ... Your Father knows that you need these things. But seek God's Kingdom, and all these things will be added to you. Don't be afraid, little flock, for it is your Father's good pleasure to give you the Kingdom.\" \"Sell that which you have, and give gifts to the needy. Make for yourselves purses which don't grow old ... for where your treasure is, there will your heart be also.\" Servants are to be dressed for service with their lamps burning, like those waiting for their master from a wedding feast; blessed are those servants whom the master finds awake, for he will have them sit and will serve them. The thief would not have broken in had the owner known the hour: \"Be ready also, for the Son of Man is coming at an hour when you don't expect him.\" Peter asks if the parable is for them or for all; Jesus speaks of the faithful and wise steward, put in charge and found doing his job, and of the unfaithful one who beats the servants and gets drunk. \"To whom much is given, of him will much be required.\" He says, \"I came to throw fire on the earth. I wish it were already kindled. But I have a baptism to be baptized with, and how distressed I am until it is accomplished!\" He says he has not come to give peace but division, even within households, and rebukes the crowd for reading the sky but not \"this time.\" \"Why don't you judge for yourselves what is right?\" and urges settling with an opponent on the way to court.",
+  "whySettingMatters": "The chapter reads as a series of sayings on the one subject of what to trust: fear of people, possessions, worry about needs, readiness for the master's return. \"Yeast\" is a recurring picture of something small that spreads. \"Gehenna\" is the valley of Hinnom outside Jerusalem, used as an image of judgment. Sparrows were the cheapest food sold in the market, which is the point of the saying. Inheritance disputes were brought to teachers of the law, since the Torah set out the rules (Deuteronomy 21:16-17), which is why the man asks. The rich man in the parable is never called wicked, only a fool, because he plans entirely for himself and does not reckon with death; he also speaks only to himself and says \"my\" repeatedly. Ravens were unclean birds, and wildflowers were burned as fuel when they dried, so both are pictures of the smallest things in the world that God provides for. \"Little flock\" is a gentle title for the disciples. The servants who sit and are served by their master reverse the order of the household, and look back to what Jesus says at the Last Supper (22:27). The \"fire\" and the \"baptism\" are images for the judgment and suffering that Jesus must go through. Reading the weather is a skill farmers had; he asks them to read the times.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches his disciples what to trust."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Told not to fear or worry."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Gather by the thousands."
+    },
+    {
+      "id": "the-man-with-the-inheritance",
+      "note": "Asks Jesus to settle a family quarrel."
+    },
+    {
+      "id": "the-rich-fool",
+      "note": "A man who stores up for himself."
+    },
+    {
+      "id": "peter",
+      "note": "Asks who the parable is for."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Their yeast is called hypocrisy."
+    }
+  ],
+  "questions": [
+    "Jesus warns of covetousness before telling the story. What is the \"life\" that doesn't consist of possessions?",
+    "The rich man is not called wicked, only foolish. What exactly was his mistake?",
+    "\"Don't be anxious\" is easier said than done. What does Jesus give in place of anxiety?",
+    "\"To whom much is given, much is required.\" How does that fit with \"your Father's good pleasure to give you the kingdom\"?"
+  ],
+  "words": [
+    {
+      "id": "merimnao",
+      "note": "\"Don't be anxious for your life\" (12:22, 12:25-26)."
+    },
+    {
+      "id": "pleonexia",
+      "note": "\"Beware ... keep yourselves from covetousness\" (12:15)."
+    },
+    {
+      "id": "psyche",
+      "note": "\"Soul\" and \"life\": the rich man's \"soul\" (12:19-20, 12:22-23)."
+    },
+    {
+      "id": "geenna",
+      "note": "\"Fear him who has power to cast into Gehenna\" (12:5)."
+    },
+    {
+      "id": "gregoreo",
+      "note": "Servants found \"awake\" by the master are blessed (12:37, 12:39)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 49:16-20",
+      "note": "the rich who do not understand"
+    },
+    {
+      "ref": "Psalm 147:9",
+      "note": "God gives food to the ravens"
+    },
+    {
+      "ref": "Micah 7:6",
+      "note": "a man's enemies are the men of his own house"
+    },
+    {
+      "ref": "Ecclesiastes 5:15",
+      "note": "as he came, so he goes, taking nothing"
+    }
+  ],
+  "number": 12,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

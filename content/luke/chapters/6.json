@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Lord of the Sabbath, the twelve chosen, and the sermon on the plain",
+  "summary": "On a Sabbath, as Jesus' disciples pick and rub grain in their hands, some Pharisees say, \"Why do you do what is not lawful on the Sabbath?\" Jesus answers by recalling what David did when he and his men were hungry, entering the house of God and eating the bread of the Presence, and says, \"The Son of Man is Lord of the Sabbath.\" On another Sabbath, in the synagogue, there is a man whose right hand is withered, and the scribes and Pharisees watch to see if he will heal on the Sabbath. Knowing their thoughts, Jesus has the man stand in the middle: \"Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to destroy it?\" He tells the man to stretch out his hand, and it is restored. They are filled with fury and discuss what to do. Jesus goes to the mountain to pray, spending the whole night in prayer. In the morning he calls his disciples and chooses twelve whom he names apostles: Simon, whom he names Peter, Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon called the Zealot, Judas the son of James, and Judas Iscariot, who became a traitor. He comes down with them and stands on a level place, with a great crowd from all Judea, Jerusalem, and the coast of Tyre and Sidon, and power goes out from him and heals them all. Looking at his disciples, he says, \"Blessed are you who are poor, for yours is the Kingdom of God. Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.\" He blesses those who are hated and excluded for the Son of Man's sake, then gives four woes: to the rich, the full, those who laugh now, and those of whom everyone speaks well. \"But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you.\" He teaches turning the other cheek, giving to everyone who asks, the golden rule, lending expecting nothing back, and \"be merciful, even as your Father is also merciful.\" \"Don't judge, and you won't be judged ... Give, and it will be given to you.\" Can a blind man lead a blind man? Why look at the speck in your brother's eye and not the log in your own? A good tree bears good fruit, and out of the heart the mouth speaks. \"Why do you call me, 'Lord, Lord,' and don't do the things which I say?\" The one who hears and does is like a man who dug deep and built on rock; the flood beat on that house and could not shake it. The one who hears and does not do is like a man who built on the ground without a foundation, and the ruin of that house was great.",
+  "whySettingMatters": "Luke has the teaching on a \"level place,\" not on a mountain as in Matthew, which is why this is called the Sermon on the Plain. The two versions overlap and differ; whether they record one sermon, two, or the same teaching used on different occasions is debated. Picking grain as one walked through a field was allowed (Deuteronomy 23:25), but Pharisees counted rubbing it as work on the Sabbath. David and the bread of the Presence is the story in 1 Samuel 21:1-6. The twelve echo the twelve tribes; the names vary slightly between Gospel lists, and Luke gives \"Judas the son of James\" where Matthew and Mark have Thaddaeus. The Zealots were a movement committed to resisting Rome, and Simon is labeled with the name. Luke's beatitudes are blunt: \"Blessed are you who are poor,\" not \"poor in spirit,\" and they are paired with woes, so they address both the poor and the rich. \"Love your enemies\" would have been a radical break in a world that took revenge and honor for granted. Lending without expecting repayment meant giving away money. The final story about the two builders is about hearing and doing; a house on a rock beside a flood-prone wadi is a vivid image in the Judean landscape.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Lord of the Sabbath, who chooses twelve and teaches on a level place."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Pick grain, are named apostles, and are taught."
+    },
+    {
+      "id": "the-twelve",
+      "note": "Chosen after a night of prayer."
+    },
+    {
+      "id": "peter",
+      "note": "Named first, and renamed by Jesus."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Last on the list, \"who became a traitor.\""
+    },
+    {
+      "id": "the-man-with-the-withered-hand",
+      "note": "Restored on the Sabbath."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Scribes and Pharisees who watch him."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Come from Judea, Jerusalem, and the coast to be healed."
+    }
+  ],
+  "questions": [
+    "Jesus asks, \"Is it lawful on the Sabbath to do good or to do harm?\" How does that reframe the debate?",
+    "The blessings and woes in Luke are to those who are actually poor, hungry, and weeping. What do you hear in them?",
+    "\"Love your enemies\" is easy to say. What would it look like for the people Jesus was talking to?",
+    "Why call him \"Lord, Lord\" and not do what he says? What does Jesus want from those who say it?"
+  ],
+  "words": [
+    {
+      "id": "sabbaton",
+      "note": "\"The Son of Man is Lord of the Sabbath\" (6:1-11)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"Whom he also named apostles\" (6:13)."
+    },
+    {
+      "id": "makarios",
+      "note": "\"Blessed are you who are poor\" (6:20-22)."
+    },
+    {
+      "id": "ouai",
+      "note": "\"Woe to you who are rich\" (6:24-26)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"Love your enemies\" (6:27, 6:32-35)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"Why do you call me 'Lord, Lord'\" (6:46)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Samuel 21:1-6",
+      "note": "David eats the bread of the Presence"
+    },
+    {
+      "ref": "Deuteronomy 23:25",
+      "note": "plucking grain by hand from a neighbor's field"
+    },
+    {
+      "ref": "Proverbs 19:17",
+      "note": "whoever is kind to the poor lends to the Lord"
+    },
+    {
+      "ref": "Mark 4:24",
+      "note": "the measure you give will be the measure you get"
+    }
+  ],
+  "number": 6,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

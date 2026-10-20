@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "A census, a birth in Bethlehem, and a boy in the temple",
+  "summary": "In those days a decree goes out from Caesar Augustus that all the world should be registered, the first registration made while Quirinius was governor of Syria. Everyone goes to their own town, so Joseph goes from Nazareth up to Bethlehem, the city of David, because he is of David's house, with Mary, who is pregnant. While they are there she gives birth to her firstborn son, wraps him in strips of cloth, and lays him in a feeding trough, because there was no room for them in the guest room. In the same region shepherds are watching their flocks by night. An angel of the Lord stands before them, the glory of the Lord shines around them, and they are terrified. \"Don't be afraid, for behold, I bring you good news of great joy which will be to all the people. For there is born to you today, in David's city, a Savior, who is Christ the Lord.\" The sign is a baby wrapped in strips of cloth and lying in a feeding trough. A multitude of the heavenly host appears, saying, \"Glory to God in the highest, on earth peace among men with whom he is pleased.\" The shepherds hurry to Bethlehem, find the baby, and tell what they had heard, and all who hear it wonder, while Mary treasures these things in her heart. On the eighth day the child is circumcised and named Jesus. When the days of their purification are fulfilled, they bring him to Jerusalem to present him to the Lord, and offer a pair of turtledoves or two young pigeons. A righteous man named Simeon, who had been told by the Spirit that he would not see death before he had seen the Lord's Christ, takes the child in his arms: \"Now you are releasing your servant, Master, according to your word, in peace; for my eyes have seen your salvation ... a light for revelation to the Gentiles, and the glory of your people Israel.\" He tells Mary that this child is destined for the falling and rising of many in Israel, \"and a sword will pierce through your own soul.\" An eighty-four-year-old widow, Anna the prophetess, who never leaves the temple, gives thanks and speaks about the child to all who are looking for the redemption of Jerusalem. The family returns to Nazareth, and the child grows strong, filled with wisdom, and the favor of God is on him. Every year his parents go to Jerusalem for the Passover. When he is twelve, they begin the journey home and find, after a day, that he is not with the group. They return and find him after three days in the temple, sitting among the teachers, listening and asking them questions. His mother says, \"Son, why have you treated us this way? Behold, your father and I were anxiously looking for you.\" He says, \"Why were you looking for me? Didn't you know that I must be in my Father's house?\" They do not understand. He goes down with them to Nazareth and is subject to them, and Jesus grows in wisdom and stature, and in favor with God and men.",
+  "whySettingMatters": "Augustus was the first Roman emperor (27 BC to AD 14), and inscriptions of the time call him \"savior\" and praise the day of his birth as \"good news,\" which is the language Luke uses for Jesus. Roman registrations, for taxes and for counting people, are well known. The difficulty is the date: Josephus records a census under Quirinius in AD 6, while Luke places the birth in the days of Herod, who died in 4 BC. How to reconcile them (an earlier registration, a different reading of the Greek, or an error) is debated. Joseph's trip to Bethlehem was about six miles south of Jerusalem and roughly ninety miles from Nazareth. The word usually translated \"inn\" is the same word Luke uses for the upstairs guest room in 22:11, so the \"no room\" may be a crowded family house, where the animals' space was part of the home; this is debated. Shepherds were low in social standing, yet they are the first told. Purification after birth is set out in Leviticus 12, and a pair of birds was the offering of those who couldn't afford a lamb, which tells us the family's means. Simeon and Anna belong to the group in Israel \"waiting for the consolation\" of the nation, and Simeon's song includes the Gentiles from the start. The boy's question, \"Didn't you know I must be in my Father's house?\" is the first thing he says in Luke.",
+  "people": [
+    {
+      "id": "mary",
+      "note": "Gives birth and treasures what she hears."
+    },
+    {
+      "id": "joseph",
+      "note": "Travels with her to Bethlehem."
+    },
+    {
+      "id": "jesus",
+      "note": "Born in Bethlehem; found at twelve in the temple."
+    },
+    {
+      "id": "the-shepherds",
+      "note": "The first to hear the news and to tell it."
+    },
+    {
+      "id": "simeon",
+      "note": "A righteous man in the temple, who sees salvation."
+    },
+    {
+      "id": "anna",
+      "note": "An elderly prophet who speaks of the child to all."
+    },
+    {
+      "id": "augustus",
+      "note": "The emperor whose decree sets the journey in motion."
+    }
+  ],
+  "questions": [
+    "The first people told are shepherds, not the powerful. What is Luke saying about who the good news is for?",
+    "Simeon tells Mary a sword will pierce her own soul. Why might Luke put that into the birth story?",
+    "At twelve Jesus calls the temple \"my Father's house,\" and then goes home and obeys. How do these two things sit together?",
+    "Luke ties the birth to Augustus and Quirinius. What does it do for the story to set it in the big world?"
+  ],
+  "words": [
+    {
+      "id": "euangelizo",
+      "note": "\"I bring you good news of great joy\" (2:10)."
+    },
+    {
+      "id": "soter",
+      "note": "\"A Savior, who is Christ the Lord\" (2:11)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The favor of God was upon him\" (2:40, 2:52)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Micah 5:2",
+      "note": "a ruler from Bethlehem"
+    },
+    {
+      "ref": "Leviticus 12:2-8",
+      "note": "purification after childbirth"
+    },
+    {
+      "ref": "Isaiah 49:6",
+      "note": "a light to the nations"
+    },
+    {
+      "ref": "Exodus 13:2",
+      "note": "consecrate the firstborn to the Lord"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
