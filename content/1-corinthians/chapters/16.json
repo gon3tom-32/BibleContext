@@ -1,0 +1,126 @@
+{
+  "sceneHappening": "The collection for Jerusalem, travel plans, greetings, and a closing call to love",
+  "summary": "About the collection for the saints, Paul says to do as he directed the churches of Galatia: on the first day of every week each should set something aside as he prospers, so that no collections have to be made when he comes. When he arrives, he will send those whom they approve with letters to carry their gift to Jerusalem, and if it is suitable, he will go too. He plans to come to Corinth after passing through Macedonia, perhaps to stay or even winter with them, so they can send him on his way; for now he will stay in Ephesus until Pentecost, \"for a great and effective door has opened to me, and there are many adversaries.\" If Timothy comes, put him at ease, for he is doing the Lord's work as Paul is, and send him on in peace. As for Apollos, Paul strongly urged him to visit them with the brothers, but he was not at all willing to come now; he will come when he has opportunity. \"Watch, stand firm in the faith, be courageous, be strong. Let all that you do be done in love.\" Paul urges them to submit to the household of Stephanas, the first converts of Achaia, who have devoted themselves to the service of the saints, and to others like them. He rejoices at the coming of Stephanas, Fortunatus, and Achaicus. The churches of Asia send greetings, and Aquila and Prisca, with the church that meets in their house, send hearty greetings, and all the brothers greet them. \"Greet one another with a holy kiss.\" Paul writes the last greeting in his own hand: \"If anyone doesn't love the Lord, let him be accursed. Come, Lord! The grace of the Lord Jesus be with you. My love be with you all in Christ Jesus. Amen.\"",
+  "whySettingMatters": "The collection for the poor in Jerusalem was a major project of Paul's third journey (also Romans 15:25-31 and 2 Corinthians 8 and 9). It was a practical way to help believers in need, and it was also a sign of unity between Gentile churches and the Jewish believers in Jerusalem. The weekly pattern, \"the first day of the week,\" is the earliest hint in the New Testament that Christians met on Sunday, though it is mentioned only in passing. The sentence about Ephesus tells us where Paul is writing and why he stays: the city was a major center with strong opposition and with great opportunity (Acts 19). The names at the end are the real people who made up the network around Paul: Prisca and Aquila had moved from Corinth to Ephesus (Acts 18:18-19) and were hosting a house church there; Stephanas's household had been among the first converts in Achaia. The closing words \"Maranatha\" (16:22) are in Aramaic, \"Our Lord, come!\" or \"Our Lord has come,\" which suggests the early church used it as a prayer, and Paul keeps it untranslated for a Greek-speaking church.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Plans to come after Macedonia, adds a greeting in his own hand."
+    },
+    {
+      "id": "timothy",
+      "note": "May come to Corinth; they should receive him well."
+    },
+    {
+      "id": "apollos",
+      "note": "Not willing to come at present."
+    },
+    {
+      "id": "stephanas",
+      "note": "His household were the first converts in Achaia."
+    },
+    {
+      "id": "fortunatus",
+      "note": "Came to Paul with Stephanas, probably bringing the letter from Corinth."
+    },
+    {
+      "id": "achaicus",
+      "note": "Came with Stephanas and Fortunatus."
+    },
+    {
+      "id": "prisca-and-aquila",
+      "note": "Host a church in their house in Ephesus."
+    },
+    {
+      "id": "the-poor-in-jerusalem",
+      "note": "The recipients of the collection."
+    }
+  ],
+  "questions": [
+    "Paul asks for regular, planned giving, set aside \"as he prospers.\" What does that say about how he thinks giving should work?",
+    "\"A great and effective door has opened, and there are many adversaries.\" How are those two connected?",
+    "The letter ends with names of ordinary people who served. Why might Paul want them honored?",
+    "\"Let all that you do be done in love.\" How does that line sum up the letter?"
+  ],
+  "words": [
+    {
+      "id": "logeia",
+      "note": "\"Now concerning the collection for the saints\" (16:1-2)."
+    },
+    {
+      "id": "thyra",
+      "note": "\"A great and effective door has opened to me\" (16:9)."
+    },
+    {
+      "id": "andrizomai",
+      "note": "\"Be courageous\" (16:13)."
+    },
+    {
+      "id": "krataioo",
+      "note": "\"Be strong\" (16:13)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Let all that you do be done in love\" (16:14, 16:24)."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"That you also be in subjection to such\" (16:16)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"They have devoted themselves to serve the saints\" (16:15)."
+    },
+    {
+      "id": "hysterema",
+      "note": "\"They have supplied what was lacking on your part\" (16:17)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"The churches of Asia greet you\" (16:19-20)."
+    },
+    {
+      "id": "philema",
+      "note": "\"Greet one another with a holy kiss\" (16:20)."
+    },
+    {
+      "id": "anathema",
+      "note": "\"Let him be accursed\" (16:22)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"The collection for the saints\" (16:1, 16:15)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"The church that is in their house\" (16:1, 16:19)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The grace of the Lord Jesus Christ be with you\" (16:23)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Romans 15:25-27",
+      "note": "Paul takes the gift to Jerusalem"
+    },
+    {
+      "ref": "2 Corinthians 8:1-15",
+      "note": "the churches of Macedonia give generously"
+    },
+    {
+      "ref": "Acts 19:1-10",
+      "note": "Paul in Ephesus for two years"
+    },
+    {
+      "ref": "Acts 18:18-19",
+      "note": "Priscilla and Aquila go with Paul to Ephesus"
+    }
+  ],
+  "number": 16,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

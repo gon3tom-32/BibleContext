@@ -1,0 +1,1182 @@
+{
+  "osis": "1Cor",
+  "stepBook": "1Co",
+  "webFile": "1corinthians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "ephesus",
+      "ancientId": "a5feb15"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "galatia",
+      "ancientId": "a0f440a"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "apollos",
+      "theographic": "apollos_276"
+    },
+    {
+      "id": "cephas",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "crispus",
+      "theographic": "crispus_961"
+    },
+    {
+      "id": "gaius",
+      "theographic": "gaius_1271"
+    },
+    {
+      "id": "timothy",
+      "theographic": "timotheus_2863"
+    },
+    {
+      "id": "stephanas",
+      "theographic": "stephanas_2801"
+    },
+    {
+      "id": "sosthenes",
+      "theographic": "sosthenes_2772"
+    },
+    {
+      "id": "barnabas",
+      "theographic": "barnabas_1722"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "adam",
+      "theographic": "adam_78"
+    },
+    {
+      "id": "fortunatus",
+      "theographic": "fortunatus_1258"
+    },
+    {
+      "id": "achaicus",
+      "theographic": "achaicus_60"
+    },
+    {
+      "id": "james-the-lords-brother",
+      "theographic": "james_719"
+    },
+    {
+      "id": "prisca-and-aquila",
+      "theographic": "priscilla_2370"
+    }
+  ],
+  "words": [
+    {
+      "id": "sophia",
+      "strongs": [
+        "G4678"
+      ],
+      "foundAt": "1 Corinthians 1:17"
+    },
+    {
+      "id": "moria",
+      "strongs": [
+        "G3472"
+      ],
+      "foundAt": "1 Corinthians 1:18"
+    },
+    {
+      "id": "kauchaomai",
+      "strongs": [
+        "G2744"
+      ],
+      "foundAt": "1 Corinthians 1:29"
+    },
+    {
+      "id": "schisma",
+      "strongs": [
+        "G4978"
+      ],
+      "foundAt": "1 Corinthians 1:10"
+    },
+    {
+      "id": "kerygma",
+      "strongs": [
+        "G2782"
+      ],
+      "foundAt": "1 Corinthians 1:21"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "1 Corinthians 1:17"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "1 Corinthians 1:18"
+    },
+    {
+      "id": "kletos",
+      "strongs": [
+        "G2822"
+      ],
+      "foundAt": "1 Corinthians 1:1"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "1 Corinthians 1:23"
+    },
+    {
+      "id": "pneumatikos",
+      "strongs": [
+        "G4152"
+      ],
+      "foundAt": "1 Corinthians 2:13"
+    },
+    {
+      "id": "psychikos",
+      "strongs": [
+        "G5591"
+      ],
+      "foundAt": "1 Corinthians 2:14"
+    },
+    {
+      "id": "anakrino",
+      "strongs": [
+        "G0350"
+      ],
+      "foundAt": "1 Corinthians 2:14"
+    },
+    {
+      "id": "sarkikos",
+      "strongs": [
+        "G4559"
+      ],
+      "foundAt": "1 Corinthians 3:3"
+    },
+    {
+      "id": "nepios",
+      "strongs": [
+        "G3516"
+      ],
+      "foundAt": "1 Corinthians 3:1"
+    },
+    {
+      "id": "synergos",
+      "strongs": [
+        "G4904"
+      ],
+      "foundAt": "1 Corinthians 3:9"
+    },
+    {
+      "id": "themelios",
+      "strongs": [
+        "G2310"
+      ],
+      "foundAt": "1 Corinthians 3:10"
+    },
+    {
+      "id": "naos",
+      "strongs": [
+        "G3485"
+      ],
+      "foundAt": "1 Corinthians 3:16"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "1 Corinthians 3:13"
+    },
+    {
+      "id": "oikodome",
+      "strongs": [
+        "G3619"
+      ],
+      "foundAt": "1 Corinthians 3:9"
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "foundAt": "1 Corinthians 4:1"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "1 Corinthians 2:1"
+    },
+    {
+      "id": "apokalypto",
+      "strongs": [
+        "G0601"
+      ],
+      "foundAt": "1 Corinthians 2:10"
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "foundAt": "1 Corinthians 1:10"
+    },
+    {
+      "id": "physioo",
+      "strongs": [
+        "G5448"
+      ],
+      "foundAt": "1 Corinthians 4:6"
+    },
+    {
+      "id": "peripsema",
+      "strongs": [
+        "G4067"
+      ],
+      "foundAt": "1 Corinthians 4:13"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "1 Corinthians 4:20"
+    },
+    {
+      "id": "zyme",
+      "strongs": [
+        "G2219"
+      ],
+      "foundAt": "1 Corinthians 5:6"
+    },
+    {
+      "id": "ekkathairo",
+      "strongs": [
+        "G1571"
+      ],
+      "foundAt": "1 Corinthians 5:7"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "1 Corinthians 5:7"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "1 Corinthians 5:1"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "1 Corinthians 5:5"
+    },
+    {
+      "id": "kosmos",
+      "strongs": [
+        "G2889"
+      ],
+      "foundAt": "1 Corinthians 1:20"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "1 Corinthians 1:26"
+    },
+    {
+      "id": "kleronomeo",
+      "strongs": [
+        "G2816"
+      ],
+      "foundAt": "1 Corinthians 6:9"
+    },
+    {
+      "id": "malakos",
+      "strongs": [
+        "G3120"
+      ],
+      "foundAt": "1 Corinthians 6:9"
+    },
+    {
+      "id": "arsenokoites",
+      "strongs": [
+        "G0733"
+      ],
+      "foundAt": "1 Corinthians 6:9"
+    },
+    {
+      "id": "agorazo",
+      "strongs": [
+        "G0059"
+      ],
+      "foundAt": "1 Corinthians 6:20"
+    },
+    {
+      "id": "soma",
+      "strongs": [
+        "G4983"
+      ],
+      "foundAt": "1 Corinthians 5:3"
+    },
+    {
+      "id": "melos",
+      "strongs": [
+        "G3196"
+      ],
+      "foundAt": "1 Corinthians 6:15"
+    },
+    {
+      "id": "charisma",
+      "strongs": [
+        "G5486"
+      ],
+      "foundAt": "1 Corinthians 1:7"
+    },
+    {
+      "id": "syngnome",
+      "strongs": [
+        "G4774"
+      ],
+      "foundAt": "1 Corinthians 7:6"
+    },
+    {
+      "id": "agamos",
+      "strongs": [
+        "G0022"
+      ],
+      "foundAt": "1 Corinthians 7:8"
+    },
+    {
+      "id": "parthenos",
+      "strongs": [
+        "G3933"
+      ],
+      "foundAt": "1 Corinthians 7:25"
+    },
+    {
+      "id": "apistos",
+      "strongs": [
+        "G0571"
+      ],
+      "foundAt": "1 Corinthians 6:6"
+    },
+    {
+      "id": "eleutheros",
+      "strongs": [
+        "G1658"
+      ],
+      "foundAt": "1 Corinthians 7:21"
+    },
+    {
+      "id": "anagke",
+      "strongs": [
+        "G0318"
+      ],
+      "foundAt": "1 Corinthians 7:26"
+    },
+    {
+      "id": "schema",
+      "strongs": [
+        "G4976"
+      ],
+      "foundAt": "1 Corinthians 7:31"
+    },
+    {
+      "id": "gnosis",
+      "strongs": [
+        "G1108"
+      ],
+      "foundAt": "1 Corinthians 1:5"
+    },
+    {
+      "id": "eidolothyton",
+      "strongs": [
+        "G1494"
+      ],
+      "foundAt": "1 Corinthians 8:1"
+    },
+    {
+      "id": "eidolon",
+      "strongs": [
+        "G1497"
+      ],
+      "foundAt": "1 Corinthians 8:4"
+    },
+    {
+      "id": "astheneo",
+      "strongs": [
+        "G0770G"
+      ],
+      "foundAt": "1 Corinthians 8:11"
+    },
+    {
+      "id": "oikonomia",
+      "strongs": [
+        "G3622"
+      ],
+      "foundAt": "1 Corinthians 9:17"
+    },
+    {
+      "id": "kerdaino",
+      "strongs": [
+        "G2770"
+      ],
+      "foundAt": "1 Corinthians 9:19"
+    },
+    {
+      "id": "douloo",
+      "strongs": [
+        "G1402"
+      ],
+      "foundAt": "1 Corinthians 7:15"
+    },
+    {
+      "id": "agonizomai",
+      "strongs": [
+        "G0075"
+      ],
+      "foundAt": "1 Corinthians 9:25"
+    },
+    {
+      "id": "stephanos",
+      "strongs": [
+        "G4735"
+      ],
+      "foundAt": "1 Corinthians 9:25"
+    },
+    {
+      "id": "adokimos",
+      "strongs": [
+        "G0096"
+      ],
+      "foundAt": "1 Corinthians 9:27"
+    },
+    {
+      "id": "typos",
+      "strongs": [
+        "G5179"
+      ],
+      "foundAt": "1 Corinthians 10:6"
+    },
+    {
+      "id": "nouthesia",
+      "strongs": [
+        "G3559"
+      ],
+      "foundAt": "1 Corinthians 10:11"
+    },
+    {
+      "id": "ekbasis",
+      "strongs": [
+        "G1545"
+      ],
+      "foundAt": "1 Corinthians 10:13"
+    },
+    {
+      "id": "eulogia",
+      "strongs": [
+        "G2129"
+      ],
+      "foundAt": "1 Corinthians 10:16"
+    },
+    {
+      "id": "daimonion",
+      "strongs": [
+        "G1140"
+      ],
+      "foundAt": "1 Corinthians 10:20"
+    },
+    {
+      "id": "kephale",
+      "strongs": [
+        "G2776"
+      ],
+      "foundAt": "1 Corinthians 11:3"
+    },
+    {
+      "id": "katakalypto",
+      "strongs": [
+        "G2619"
+      ],
+      "foundAt": "1 Corinthians 11:6"
+    },
+    {
+      "id": "deipnon",
+      "strongs": [
+        "G1173"
+      ],
+      "foundAt": "1 Corinthians 11:20"
+    },
+    {
+      "id": "anaxios",
+      "strongs": [
+        "G0371"
+      ],
+      "foundAt": "1 Corinthians 11:27"
+    },
+    {
+      "id": "krima",
+      "strongs": [
+        "G2917"
+      ],
+      "foundAt": "1 Corinthians 6:7"
+    },
+    {
+      "id": "diairesis",
+      "strongs": [
+        "G1243"
+      ],
+      "foundAt": "1 Corinthians 12:4"
+    },
+    {
+      "id": "energeo",
+      "strongs": [
+        "G1754"
+      ],
+      "foundAt": "1 Corinthians 12:6"
+    },
+    {
+      "id": "phanerosis",
+      "strongs": [
+        "G5321"
+      ],
+      "foundAt": "1 Corinthians 12:7"
+    },
+    {
+      "id": "hermeneia",
+      "strongs": [
+        "G2058"
+      ],
+      "foundAt": "1 Corinthians 12:10"
+    },
+    {
+      "id": "kybernesis",
+      "strongs": [
+        "G2941"
+      ],
+      "foundAt": "1 Corinthians 12:28"
+    },
+    {
+      "id": "antilempsis",
+      "strongs": [
+        "G0484"
+      ],
+      "foundAt": "1 Corinthians 12:28"
+    },
+    {
+      "id": "prophetes",
+      "strongs": [
+        "G4396"
+      ],
+      "foundAt": "1 Corinthians 12:28"
+    },
+    {
+      "id": "anathema",
+      "strongs": [
+        "G0331"
+      ],
+      "foundAt": "1 Corinthians 12:3"
+    },
+    {
+      "id": "makrothymeo",
+      "strongs": [
+        "G3114"
+      ],
+      "foundAt": "1 Corinthians 13:4"
+    },
+    {
+      "id": "chresteuomai",
+      "strongs": [
+        "G5541"
+      ],
+      "foundAt": "1 Corinthians 13:4"
+    },
+    {
+      "id": "zeloo",
+      "strongs": [
+        "G2206"
+      ],
+      "foundAt": "1 Corinthians 12:31"
+    },
+    {
+      "id": "perpereuomai",
+      "strongs": [
+        "G4068"
+      ],
+      "foundAt": "1 Corinthians 13:4"
+    },
+    {
+      "id": "prophiteia",
+      "strongs": [
+        "G4394"
+      ],
+      "foundAt": "1 Corinthians 12:10"
+    },
+    {
+      "id": "esoptron",
+      "strongs": [
+        "G2072"
+      ],
+      "foundAt": "1 Corinthians 13:12"
+    },
+    {
+      "id": "ainigma",
+      "strongs": [
+        "G0135"
+      ],
+      "foundAt": "1 Corinthians 13:12"
+    },
+    {
+      "id": "epiginosko",
+      "strongs": [
+        "G1921"
+      ],
+      "foundAt": "1 Corinthians 13:12"
+    },
+    {
+      "id": "akatastasia",
+      "strongs": [
+        "G0181"
+      ],
+      "foundAt": "1 Corinthians 14:33"
+    },
+    {
+      "id": "idiotes",
+      "strongs": [
+        "G2399"
+      ],
+      "foundAt": "1 Corinthians 14:16"
+    },
+    {
+      "id": "taxis",
+      "strongs": [
+        "G5010"
+      ],
+      "foundAt": "1 Corinthians 14:40"
+    },
+    {
+      "id": "amen",
+      "strongs": [
+        "G0281"
+      ],
+      "foundAt": "1 Corinthians 14:16"
+    },
+    {
+      "id": "paralambano",
+      "strongs": [
+        "G3880"
+      ],
+      "foundAt": "1 Corinthians 11:23"
+    },
+    {
+      "id": "nekros",
+      "strongs": [
+        "G3498"
+      ],
+      "foundAt": "1 Corinthians 15:12"
+    },
+    {
+      "id": "aparche",
+      "strongs": [
+        "G0536"
+      ],
+      "foundAt": "1 Corinthians 15:20"
+    },
+    {
+      "id": "katargeo",
+      "strongs": [
+        "G2673"
+      ],
+      "foundAt": "1 Corinthians 1:28"
+    },
+    {
+      "id": "phthora",
+      "strongs": [
+        "G5356"
+      ],
+      "foundAt": "1 Corinthians 15:42"
+    },
+    {
+      "id": "aphtharsia",
+      "strongs": [
+        "G0861"
+      ],
+      "foundAt": "1 Corinthians 15:42"
+    },
+    {
+      "id": "athanasia",
+      "strongs": [
+        "G0110"
+      ],
+      "foundAt": "1 Corinthians 15:53"
+    },
+    {
+      "id": "atomos",
+      "strongs": [
+        "G0823"
+      ],
+      "foundAt": "1 Corinthians 15:52"
+    },
+    {
+      "id": "nikos",
+      "strongs": [
+        "G3534"
+      ],
+      "foundAt": "1 Corinthians 15:54"
+    },
+    {
+      "id": "logeia",
+      "strongs": [
+        "G3048"
+      ],
+      "foundAt": "1 Corinthians 16:1"
+    },
+    {
+      "id": "andrizomai",
+      "strongs": [
+        "G0407"
+      ],
+      "foundAt": "1 Corinthians 16:13"
+    },
+    {
+      "id": "krataioo",
+      "strongs": [
+        "G2901"
+      ],
+      "foundAt": "1 Corinthians 16:13"
+    },
+    {
+      "id": "hysterema",
+      "strongs": [
+        "G5303"
+      ],
+      "foundAt": "1 Corinthians 16:17"
+    },
+    {
+      "id": "philema",
+      "strongs": [
+        "G5370"
+      ],
+      "foundAt": "1 Corinthians 16:20"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "1 Corinthians 4:15"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "1 Corinthians 15:12"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "1 Corinthians 6:14"
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "foundAt": "1 Corinthians 7:39"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "1 Corinthians 15:3"
+    },
+    {
+      "id": "kentron",
+      "strongs": [
+        "G2759"
+      ],
+      "foundAt": "1 Corinthians 15:55"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "1 Corinthians 1:3"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "1 Corinthians 7:21"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "1 Corinthians 1:3"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "1 Corinthians 7:19"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "1 Corinthians 1:13"
+    },
+    {
+      "id": "petra",
+      "strongs": [
+        "G4073"
+      ],
+      "foundAt": "1 Corinthians 10:4"
+    },
+    {
+      "id": "peirasmos",
+      "strongs": [
+        "G3986G",
+        "G3986H"
+      ],
+      "foundAt": "1 Corinthians 10:13"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "1 Corinthians 1:9"
+    },
+    {
+      "id": "artos",
+      "strongs": [
+        "G0740"
+      ],
+      "foundAt": "1 Corinthians 10:16"
+    },
+    {
+      "id": "syneidesis",
+      "strongs": [
+        "G4893"
+      ],
+      "foundAt": "1 Corinthians 8:7"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "1 Corinthians 2:7"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "1 Corinthians 2:4"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "1 Corinthians 12:5"
+    },
+    {
+      "id": "glossa",
+      "strongs": [
+        "G1100"
+      ],
+      "foundAt": "1 Corinthians 12:10"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "1 Corinthians 1:1"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "1 Corinthians 1:2"
+    },
+    {
+      "id": "apolouo",
+      "strongs": [
+        "G0628"
+      ],
+      "foundAt": "1 Corinthians 6:11"
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "foundAt": "1 Corinthians 1:2"
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "foundAt": "1 Corinthians 4:4"
+    },
+    {
+      "id": "krino",
+      "strongs": [
+        "G2919"
+      ],
+      "foundAt": "1 Corinthians 2:2"
+    },
+    {
+      "id": "doxazo",
+      "strongs": [
+        "G1392"
+      ],
+      "foundAt": "1 Corinthians 6:20"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "1 Corinthians 4:21"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "1 Corinthians 2:6"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "1 Corinthians 2:5"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "1 Corinthians 9:10"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "1 Corinthians 7:37"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "1 Corinthians 1:17"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "1 Corinthians 14:3"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "1 Corinthians 1:2"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "1 Corinthians 16:9"
+    },
+    {
+      "id": "hypotasso",
+      "strongs": [
+        "G5293"
+      ],
+      "foundAt": "1 Corinthians 14:32"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "1 Corinthians 16:19"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "1 Corinthians 1:2"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "1 Corinthians 4:9"
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "foundAt": "1 Corinthians 11:2"
+    },
+    {
+      "id": "hairesis",
+      "strongs": [
+        "G0139"
+      ],
+      "foundAt": "1 Corinthians 11:19"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "1 Corinthians 1:4"
+    },
+    {
+      "id": "anamnesis",
+      "strongs": [
+        "G0364"
+      ],
+      "foundAt": "1 Corinthians 11:24"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "1 Corinthians 11:25"
+    },
+    {
+      "id": "oikodomeo",
+      "strongs": [
+        "G3618"
+      ],
+      "foundAt": "1 Corinthians 8:1"
+    },
+    {
+      "id": "proskomma",
+      "strongs": [
+        "G4348"
+      ],
+      "foundAt": "1 Corinthians 8:9"
+    },
+    {
+      "id": "skandalizo",
+      "strongs": [
+        "G4624"
+      ],
+      "foundAt": "1 Corinthians 8:13"
+    },
+    {
+      "id": "ginosko",
+      "strongs": [
+        "G1097"
+      ],
+      "foundAt": "1 Corinthians 1:21"
+    },
+    {
+      "id": "salpigx",
+      "strongs": [
+        "G4536"
+      ],
+      "foundAt": "1 Corinthians 14:8"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    }
+  ]
+}

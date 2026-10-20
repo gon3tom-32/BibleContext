@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "A serious case of sexual immorality the church tolerates, and a call to clean out the old leaven",
+  "summary": "Paul has heard a report of sexual immorality \"of a kind that is not even among the Gentiles,\" a man living with his father's wife. The church is proud rather than grieving. Paul, absent in body but present in spirit, has already judged the case: when they are gathered together with the power of the Lord Jesus, they are to hand the man over to Satan for the destruction of the flesh, \"that the spirit may be saved in the day of the Lord Jesus.\" Their boasting is not good, because \"a little yeast leavens the whole lump.\" They should clean out the old yeast and keep the feast, \"for our Passover also has been sacrificed for us, even Christ,\" with the unleavened bread of sincerity and truth. Paul clarifies an earlier letter: he did not mean to avoid the immoral people of this world, which would mean leaving the world, but to avoid anyone who calls himself a brother and lives in sexual immorality, greed, idolatry, abuse, drunkenness, or robbery, and not even to eat with such a person. God judges those outside; the church is to judge those inside. \"Put away the wicked man from among yourselves.\"",
+  "whySettingMatters": "Corinth was known across the Greek world for its reputation for loose behavior, and \"to act like a Corinthian\" was a proverb for immorality. Paul's case is about a man with his \"father's wife,\" almost certainly his stepmother, a relationship forbidden in Leviticus 18:8 and, Paul says, shocking even to pagans (Roman law also condemned it). What troubled Paul as much as the act was the church's pride, perhaps because the man was wealthy or influential, or because they treated freedom as something to boast about; the text does not say. \"Hand over to Satan\" is debated: most take it as putting the man out of the community, back to the world where Satan rules, in the hope of his restoration; it may also imply physical suffering. The yeast image ties to Passover, when Jewish households removed leaven from their homes (Exodus 12), and Paul uses it to say that Christ's death calls for a clean community.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Absent in body, present in spirit, judging the case."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Proud rather than grieving; told to deal with the matter."
+    },
+    {
+      "id": "the-man-in-chapter-5",
+      "note": "A believer living with his father's wife."
+    },
+    {
+      "id": "jesus",
+      "note": "\"Our Passover\" who has been sacrificed."
+    }
+  ],
+  "questions": [
+    "Paul is more upset by the church's pride than by the one man's sin. Why?",
+    "Paul says a little yeast spreads. When does one person's behavior shape a whole community?",
+    "He separates judging those outside from judging those inside. What does that distinction protect?",
+    "The aim of discipline is \"that the spirit may be saved.\" How does that aim change what discipline looks like?"
+  ],
+  "words": [
+    {
+      "id": "zyme",
+      "note": "\"A little yeast leavens the whole lump\" (5:6-8)."
+    },
+    {
+      "id": "ekkathairo",
+      "note": "\"Purge out the old yeast\" (5:7)."
+    },
+    {
+      "id": "pascha",
+      "note": "\"Our Passover has been sacrificed\" (5:7)."
+    },
+    {
+      "id": "porneia",
+      "note": "\"Sexual immorality... not even among the Gentiles\" (5:1, 5:9-11)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "\"Deliver such a one to Satan\" (5:5)."
+    },
+    {
+      "id": "kosmos",
+      "note": "\"You would have to leave the world\" (5:10)."
+    },
+    {
+      "id": "sarx",
+      "note": "\"The destruction of the flesh\" (5:5)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 18:8",
+      "note": "you shall not uncover the nakedness of your father's wife"
+    },
+    {
+      "ref": "Deuteronomy 17:7",
+      "note": "you shall purge the evil from your midst"
+    },
+    {
+      "ref": "Exodus 12:15",
+      "note": "on the first day you shall remove leaven from your houses"
+    },
+    {
+      "ref": "Galatians 5:9",
+      "note": "a little leaven leavens the whole lump"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

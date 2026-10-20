@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Paul gives up his rights as an apostle for the sake of the gospel",
+  "summary": "Paul asks, \"Am I not free? Am I not an apostle? Haven't I seen Jesus our Lord?\" The Corinthians are the seal of his apostleship. He has the right to eat and drink, to take a believing wife along as other apostles and Cephas do, and to be supported rather than work with his hands, as Barnabas does too. He argues from soldiers, farmers, and shepherds, and from the law (\"You shall not muzzle an ox when it treads out the grain\"), and from the temple, where those who serve share what is offered. The Lord commanded that those who proclaim the gospel get their living from it. Yet Paul has not used these rights, so as not to put an obstacle in the way of the gospel. Preaching is not a boast but a necessity laid on him: \"Woe is me, if I don't preach the Good News.\" His reward is to offer the gospel free of charge. Though free from all, he has made himself a slave to all, to win more: to the Jews, he became as a Jew; to those under the law, as under the law; to those outside the law, as outside the law; to the weak, weak; \"I have become all things to all men, that I may by all means save some.\" Then he points to athletes: in a race all run but one receives the prize, so run to win. Athletes discipline themselves for a perishable wreath, but we for an imperishable one. So he runs not aimlessly and fights not as one beating the air, but disciplines his body \"lest after proclaiming to others, I myself should be disqualified.\"",
+  "whySettingMatters": "Traveling teachers and philosophers in the Greek world usually charged fees or depended on rich patrons. Paul's decision to work with his hands (as a tentmaker, Acts 18:3) set him apart, and in a city that valued status it may have looked demeaning, or like a sign that he lacked the standing of a real teacher. Taking a patron's money could also bind him to that patron. So his refusal is a deliberate choice to keep the gospel free of obligation, not a claim that others must do the same. The chapter is placed in the middle of the argument about food offered to idols (chapters 8 and 10) as an example of giving up rights for others' good. Athletic images would have been natural near Corinth, which hosted the Isthmian Games every two years, with a victor's crown made of pine. His \"all things to all people\" is not shape-shifting but flexibility about customs; he does not change the message. Some of his phrases, such as \"outside the law,\" are tied to the law of Moses and not to a general disregard for morality (9:21).",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Gives up his rights to serve the gospel."
+    },
+    {
+      "id": "barnabas",
+      "note": "Paul's partner, who also worked for his living."
+    },
+    {
+      "id": "cephas",
+      "note": "A fellow apostle who traveled with a wife."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "The \"seal\" of Paul's apostleship."
+    }
+  ],
+  "questions": [
+    "Paul argues at length for his right to be paid and then does not use it. What is he teaching about rights?",
+    "\"I have become all things to all men.\" How can adapting to others stay faithful and not turn into compromise?",
+    "The race and the boxer picture self-discipline. What is Paul disciplining himself for?",
+    "Why might refusing support have made some in Corinth doubt Paul?"
+  ],
+  "words": [
+    {
+      "id": "exousia",
+      "note": "\"Don't we have the right to eat and drink?\" (9:4-6, 9:12, 9:18)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"Am I not an apostle?\" (9:1-2, 9:5)."
+    },
+    {
+      "id": "euangelizo",
+      "note": "\"Those who proclaim the Good News\" (9:14-18)."
+    },
+    {
+      "id": "oikonomia",
+      "note": "\"A stewardship is entrusted to me\" (9:17)."
+    },
+    {
+      "id": "anagke",
+      "note": "\"A necessity is laid on me\" (9:16)."
+    },
+    {
+      "id": "kerdaino",
+      "note": "\"That I might win the more\" (9:19-22)."
+    },
+    {
+      "id": "douloo",
+      "note": "\"I have made myself a servant to all\" (9:19)."
+    },
+    {
+      "id": "agonizomai",
+      "note": "\"Everyone who strives in the games exercises self-control\" (9:25)."
+    },
+    {
+      "id": "stephanos",
+      "note": "\"A perishable crown\" and \"an imperishable\" (9:25)."
+    },
+    {
+      "id": "adokimos",
+      "note": "\"Lest I myself should be disqualified\" (9:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 25:4",
+      "note": "you shall not muzzle an ox when it treads out the grain"
+    },
+    {
+      "ref": "Luke 10:7",
+      "note": "the laborer is worthy of his wages"
+    },
+    {
+      "ref": "Acts 18:1-4",
+      "note": "Paul works as a tentmaker in Corinth"
+    },
+    {
+      "ref": "Philippians 3:12-14",
+      "note": "I press on toward the goal"
+    }
+  ],
+  "number": 9,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
