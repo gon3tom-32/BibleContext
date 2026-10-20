@@ -1581,7 +1581,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 2:24",
+          "inDataset": true,
+          "votes": 40
+        },
+        {
+          "ref": "Deuteronomy 24:1-4",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Genesis 1:27",
+          "inDataset": true,
+          "votes": 23
+        },
+        {
+          "ref": "Jeremiah 32:27",
+          "inDataset": true,
+          "votes": 108
+        }
+      ]
     },
     {
       "number": 20,
@@ -1644,7 +1665,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 24:15",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Isaiah 53:10-11",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Isaiah 51:22",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Psalm 110:1",
+          "inDataset": true,
+          "votes": 6
+        }
+      ]
     },
     {
       "number": 21,
@@ -1706,7 +1748,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Zechariah 9:9",
+          "inDataset": true,
+          "votes": 107
+        },
+        {
+          "ref": "Psalm 118:22-23",
+          "inDataset": true,
+          "votes": 67
+        },
+        {
+          "ref": "Jeremiah 7:11",
+          "inDataset": true,
+          "votes": 39
+        },
+        {
+          "ref": "Isaiah 5:1-4",
+          "inDataset": true,
+          "votes": 29
+        }
+      ]
     },
     {
       "number": 22,

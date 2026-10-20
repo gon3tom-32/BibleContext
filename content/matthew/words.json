@@ -1667,5 +1667,354 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "porneia",
+    "transliteration": "porneia",
+    "original": "πορνεία",
+    "pronunciation": "por-NAY-ah",
+    "gloss": "sexual immorality",
+    "notes": "A broad word for sexual sin outside what God intends for marriage. It covers a range from prostitution to adultery, incest, and other unlawful unions. In Matthew's exception clause (5:32; 19:9) it's the one reason named for divorce.",
+    "uncertain": "Exactly what porneia covers in Jesus' exception (adultery, an unlawful marriage, or sexual sin more broadly) is debated, as is how the clause relates to Mark and Luke, which don't have it.",
+    "range": [
+      {
+        "sense": "Sexual immorality",
+        "note": "Sexual sin of any kind."
+      },
+      {
+        "sense": "Prostitution",
+        "note": "The earliest sense, from the word for a prostitute."
+      },
+      {
+        "sense": "Unlawful marriage",
+        "note": "As in Leviticus 18, which Acts 15 echoes."
+      }
+    ],
+    "translations": [
+      "sexual immorality",
+      "unchastity",
+      "fornication",
+      "marital unfaithfulness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:32",
+        "note": "The same exception in the Sermon on the Mount."
+      },
+      {
+        "ref": "Acts 15:20",
+        "note": "Gentile believers told to avoid it."
+      },
+      {
+        "ref": "1 Corinthians 5:1",
+        "note": "Immorality \"not even among the Gentiles.\""
+      },
+      {
+        "ref": "1 Corinthians 6:18",
+        "note": "\"Flee from sexual immorality.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "teleios",
+    "transliteration": "teleios",
+    "original": "τέλειος",
+    "pronunciation": "TEH-lay-os",
+    "gloss": "complete, mature, perfect",
+    "notes": "From telos, \"goal\" or \"end\": something that has reached its purpose. It means whole, mature, or fully grown more than flawless. When Jesus tells the young man \"if you want to be complete,\" he's talking about wholeness of devotion, not a score.",
+    "range": [
+      {
+        "sense": "Complete",
+        "note": "Lacking nothing, whole."
+      },
+      {
+        "sense": "Mature",
+        "note": "Fully grown, as opposed to a child."
+      },
+      {
+        "sense": "Perfect",
+        "note": "Without flaw, in the older English sense."
+      }
+    ],
+    "translations": [
+      "perfect",
+      "complete",
+      "mature",
+      "whole"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:48",
+        "note": "\"Be perfect, as your heavenly Father is perfect.\""
+      },
+      {
+        "ref": "1 Corinthians 2:6",
+        "note": "Wisdom among the mature."
+      },
+      {
+        "ref": "Hebrews 5:14",
+        "note": "Solid food is for the mature."
+      },
+      {
+        "ref": "James 1:4",
+        "note": "Let endurance finish its work, that you may be complete."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "palingenesia",
+    "transliteration": "palingenesia",
+    "original": "παλιγγενεσία",
+    "pronunciation": "pah-lin-geh-neh-SEE-ah",
+    "gloss": "renewal, new birth",
+    "notes": "\"Birth again,\" from palin (again) and genesis (beginning, birth). Greek writers could use it for a fresh start or a rebirth of the world. Matthew uses it for the renewal of all things when the Son of Man reigns. The only other New Testament use is Titus 3:5, \"the washing of regeneration.\"",
+    "range": [
+      {
+        "sense": "New beginning",
+        "note": "A fresh start for the world."
+      },
+      {
+        "sense": "New birth",
+        "note": "Spiritual rebirth, in Titus."
+      }
+    ],
+    "translations": [
+      "renewal",
+      "regeneration",
+      "new world",
+      "new birth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Titus 3:5",
+        "note": "\"The washing of regeneration and renewal by the Holy Spirit.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lytron",
+    "transliteration": "lytron",
+    "original": "λύτρον",
+    "pronunciation": "LOO-tron",
+    "gloss": "ransom",
+    "notes": "The price paid to free someone: a slave, a prisoner of war, or a debtor. It's rare in the New Testament, used only here and in Mark's matching saying (Mark 10:45). Jesus' wording may echo Isaiah 53, where the servant gives himself for many.",
+    "range": [
+      {
+        "sense": "Ransom price",
+        "note": "Payment that frees a captive."
+      },
+      {
+        "sense": "Release",
+        "note": "The freeing itself."
+      }
+    ],
+    "translations": [
+      "ransom"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 10:45",
+        "note": "The same saying in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakoneo",
+    "transliteration": "diakoneō",
+    "original": "διακονέω",
+    "pronunciation": "dee-ah-ko-NEH-oh",
+    "gloss": "to serve",
+    "notes": "To wait on someone, as at a table, or more generally to serve. It's the verb behind \"deacon\" and \"ministry.\" In Matthew it's what the angels do for Jesus (4:11), what Peter's mother-in-law does after being healed (8:15), and what Jesus says he came to do (20:28).",
+    "range": [
+      {
+        "sense": "Wait at table",
+        "note": "Serve food and drink."
+      },
+      {
+        "sense": "Provide for",
+        "note": "Look after someone's needs."
+      },
+      {
+        "sense": "Minister",
+        "note": "Serve in a role of care or leadership."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "wait on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:15",
+        "note": "She got up and served him."
+      },
+      {
+        "ref": "Mark 10:45",
+        "note": "\"Not to be served but to serve.\""
+      },
+      {
+        "ref": "Luke 22:27",
+        "note": "\"I am among you as one who serves.\""
+      },
+      {
+        "ref": "John 12:26",
+        "note": "\"Whoever serves me must follow me.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doulos",
+    "transliteration": "doulos",
+    "original": "δοῦλος",
+    "pronunciation": "DOO-los",
+    "gloss": "slave, servant",
+    "notes": "A person owned by someone else, with no rights of their own. English Bibles often soften it to \"servant,\" but the sense is slave. In the Roman world a slave was property and often the lowest rung of society, which is why Jesus' saying about the first becoming slave is so sharp.",
+    "range": [
+      {
+        "sense": "Slave",
+        "note": "Someone owned by another."
+      },
+      {
+        "sense": "Servant of God",
+        "note": "A title of honor for those who serve the Lord."
+      }
+    ],
+    "translations": [
+      "slave",
+      "servant",
+      "bondservant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 25:21",
+        "note": "\"Well done, good and faithful servant.\""
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, a servant of Christ Jesus."
+      },
+      {
+        "ref": "Galatians 3:28",
+        "note": "No longer slave or free."
+      },
+      {
+        "ref": "Philippians 2:7",
+        "note": "Taking the form of a slave."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hosanna",
+    "transliteration": "hōsanna",
+    "original": "ὡσαννά",
+    "pronunciation": "ho-sah-NAH",
+    "gloss": "Hosanna, save us",
+    "notes": "From the Hebrew words in Psalm 118:25, \"Save us, we pray.\" It began as a prayer for rescue and by Jesus' day had become a shout of praise used at festivals. The crowd's cry in 21:9 comes straight from Psalm 118:25-26.",
+    "range": [
+      {
+        "sense": "Prayer for help",
+        "note": "\"Save us.\""
+      },
+      {
+        "sense": "Shout of praise",
+        "note": "Used at festivals and processions."
+      }
+    ],
+    "translations": [
+      "Hosanna",
+      "save now"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:15",
+        "note": "Children shout it in the temple."
+      },
+      {
+        "ref": "Mark 11:9",
+        "note": "The same scene in Mark."
+      },
+      {
+        "ref": "John 12:13",
+        "note": "The same scene in John."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ethnos",
+    "transliteration": "ethnos",
+    "original": "ἔθνος",
+    "pronunciation": "ETH-nos",
+    "gloss": "nation, Gentiles",
+    "notes": "A people or nation. In the plural it often means \"the nations,\" the non-Jewish peoples, so translators choose between \"nations\" and \"Gentiles\" depending on context. It runs through Matthew from \"Galilee of the Gentiles\" (4:15) to the closing command to make disciples of all nations (28:19).",
+    "range": [
+      {
+        "sense": "A people",
+        "note": "A nation or ethnic group."
+      },
+      {
+        "sense": "The Gentiles",
+        "note": "Non-Jewish peoples."
+      },
+      {
+        "sense": "All nations",
+        "note": "The whole world's peoples, as in 28:19."
+      }
+    ],
+    "translations": [
+      "nation",
+      "Gentiles",
+      "peoples"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:14",
+        "note": "The gospel preached to all nations."
+      },
+      {
+        "ref": "Matthew 28:19",
+        "note": "\"Make disciples of all nations.\""
+      },
+      {
+        "ref": "Acts 10:45",
+        "note": "The Spirit poured out on the Gentiles."
+      },
+      {
+        "ref": "Romans 15:12",
+        "note": "The Gentiles hope in the root of Jesse."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

@@ -709,7 +709,8 @@
           "name": "Zebedee"
         },
         "mother": {
-          "name": "Mother of Zebedees children"
+          "name": "Mother of Zebedees children",
+          "id": "mother-of-zebedees-sons"
         },
         "spouses": [],
         "children": [],
@@ -750,7 +751,8 @@
           "name": "Zebedee"
         },
         "mother": {
-          "name": "Mother of Zebedees children"
+          "name": "Mother of Zebedees children",
+          "id": "mother-of-zebedees-sons"
         },
         "spouses": [],
         "children": [],
@@ -1332,6 +1334,42 @@
         "fetched": "2026-10-19",
         "item": "moses_2108",
         "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "name": "Mother of Zebedees children",
+      "alsoCalled": "mother",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [
+          {
+            "name": "James",
+            "id": "james-zebedee"
+          },
+          {
+            "name": "John",
+            "id": "john-apostle"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        20,
+        27
+      ],
+      "verses": [
+        "Matthew 20:20",
+        "Matthew 27:56"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mother_of_zebedees_children_2112",
+        "recordStatus": "wip"
       }
     }
   ]

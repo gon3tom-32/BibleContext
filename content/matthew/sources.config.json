@@ -124,6 +124,14 @@
     {
       "id": "magadan",
       "ancientId": "ad14067"
+    },
+    {
+      "id": "bethphage",
+      "ancientId": "abff59d"
+    },
+    {
+      "id": "zion",
+      "ancientId": "af20c46"
     }
   ],
   "people": [
@@ -226,6 +234,10 @@
     {
       "id": "moses",
       "theographic": "moses_2108"
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "theographic": "mother_of_zebedees_children_2112"
     }
   ],
   "words": [
@@ -483,6 +495,62 @@
         "G5007"
       ],
       "foundAt": "Matthew 18:24"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "Matthew 19:9"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "Matthew 19:21"
+    },
+    {
+      "id": "palingenesia",
+      "strongs": [
+        "G3824"
+      ],
+      "foundAt": "Matthew 19:28"
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "foundAt": "Matthew 20:28"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Matthew 20:28"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Matthew 20:27"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "Matthew 21:9"
+    },
+    {
+      "id": "ethnos",
+      "strongs": [
+        "G1484"
+      ],
+      "foundAt": "Matthew 20:19"
     }
   ],
   "crossRefs": {
@@ -500,7 +568,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 19 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 22 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

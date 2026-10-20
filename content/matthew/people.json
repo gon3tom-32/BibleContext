@@ -228,5 +228,35 @@
     "id": "the-child",
     "name": "A child",
     "note": "Unnamed in Matthew. Jesus calls the child over and sets the child among the disciples."
+  },
+  {
+    "id": "the-children",
+    "name": "The children",
+    "note": "Children brought to Jesus for a blessing."
+  },
+  {
+    "id": "the-rich-young-man",
+    "name": "The rich young man",
+    "note": "Unnamed in Matthew, who calls him a young man. He keeps the commandments and has great wealth."
+  },
+  {
+    "id": "mother-of-zebedees-sons",
+    "name": "The mother of Zebedee's sons",
+    "note": "Unnamed in Matthew; she is also among the women at the cross (27:56)."
+  },
+  {
+    "id": "the-blind-men",
+    "name": "Two blind men",
+    "note": "Two men by the road outside Jericho who cry out for mercy."
+  },
+  {
+    "id": "temple-merchants",
+    "name": "The temple merchants",
+    "note": "Sellers of animals for sacrifice and moneychangers working in the temple's outer court."
+  },
+  {
+    "id": "chief-priests",
+    "name": "The chief priests and elders",
+    "note": "The leading priests and community elders, members of the Sanhedrin, the ruling council in Jerusalem."
   }
 ]

@@ -2581,6 +2581,550 @@
         "fetched": "2026-10-19",
         "item": "G5007"
       }
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4202",
+          "original": "πορνεία",
+          "transliteration": "porneia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "sexual sin",
+          "meaning": "πορνεία, -ας, ἡ\n(πορνεύω), [in LXX for תַּזְנוּת and cogn. forms ;]\nfornication: Act.15:20, 29 21:25, 1Co.5:1 6:13 6:18, 2Co.12:21, Gal.5:19, Eph.5:3, Col.3:5, 1Th.4:3 (Lft., Notes, 53), Rev.9:21; pl. (see WM, 220; Bl., § 32, 6), 1Co.7:2; disting. from μοιχεία, Mat.15:19, Mrk.7:21; = μοιχεία (Amos 8:17 Sir.23:23, al.), Mat.5:32 19:9. Metaphorical (of idolatry: Deu.23:2, Hos.1:2): Jhn.8:41 (Westc., in l), and so perh. (Thayer-Grimm, see word; but see Swete, in 11.), Rev.2:21 14:18 17:2, 4 18:3 19:2.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πορνείας",
+          "translit": "porneias",
+          "gloss": "sexual sin"
+        },
+        {
+          "original": "πορνεῖαι",
+          "translit": "porneiai",
+          "gloss": "sexual sin"
+        },
+        {
+          "original": "πορνείᾳ",
+          "translit": "porneia",
+          "gloss": "sexual sin"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 5:32",
+        "Matthew 15:19",
+        "Matthew 19:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 25,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:32",
+          "found": true
+        },
+        {
+          "ref": "Acts 15:20",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 5:1",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 6:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4202"
+      }
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5046",
+          "original": "τέλειος",
+          "transliteration": "teleios",
+          "partOfSpeech": "G:A",
+          "gloss": "perfect",
+          "meaning": "τέλειος, -α, -ον\n(τέλος), [in LXX chiefly for שָׁלֵם, תָּמִים and cogn. forms ;]\nhaving reached its end, finished, mature, complete, perfect;\n1. of persons, primarily of physical development,\n(a) full-grown, mature: Heb.5:14; ethically: Php.3:15; opposite to νήπιος (-άζειν), 1Co.2:6 14:20, Eph.4:13; τ. καὶ πεπληροφορημένοι, Col.4:12; τ. ἐν Χριστῷ, Col.1:28;\n(b) complete, perfect (expressing the simple idea of complete goodness, without reference either to maturity or to the philosophical idea of a τέλος; see Hort on Jas.1:4): Mat.5:48 19:21, Jas.1:4 3:2; of God, Mat.5:48. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τέλειοι",
+          "translit": "teleioi",
+          "gloss": "perfect"
+        },
+        {
+          "original": "τέλειός",
+          "translit": "teleios",
+          "gloss": "perfect"
+        },
+        {
+          "original": "τέλειος",
+          "translit": "teleios",
+          "gloss": "perfect"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 5:48",
+        "Matthew 19:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 17,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:48",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 2:6",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 5:14",
+          "found": true
+        },
+        {
+          "ref": "James 1:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5046"
+      }
+    },
+    {
+      "id": "palingenesia",
+      "strongs": [
+        "G3824"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3824",
+          "original": "παλιγγενεσία",
+          "transliteration": "palingenesia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "regeneration",
+          "meaning": "παλινγενεσία (Rec. παλιγγ-), -ας, ἡ\n(πάλιν, γενεσις),\nnew birth, renewal, restoration, regeneration;\n(a) of persons (Plut., Phil., al.), of spiritual regeneration, διὰ λουτροῦ παλινγενεστίας (genitive attr., see Ellic., in l), Tit.3:5;\n(b) of the world, as in Stoics, Jewish Apocal., al. (see Dalman, Words, 177 ff.), Mat.19:28.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παλιγγενεσίᾳ",
+          "translit": "palingenesia",
+          "gloss": "regeneration"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 19:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Titus 3:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3824"
+      }
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3083",
+          "original": "λύτρον",
+          "transliteration": "lutron",
+          "partOfSpeech": "G:N-N",
+          "gloss": "ransom",
+          "meaning": "λύτρον, -ον, τό\n(λύω), [in LXX (Pent. .15 Pr .2, Isa .1) for פִּדְיוֹם and cogn. forms, גְּאֻלָּה, כֹּפֶר, מְחִיר ;]\na ransom (as for a life, Exo.21:30; for slaves, Lev.19:20; for captives, Isa.45:13): ἀντὶ πολλῶν, Mat.20:28, Mrk.10:45 (see Swete, in l, and for discussion of λ. and its cognates, Westc., He., 295 f.; Deiss., LAE, 331 f.; cf. also ἀντί-λύτρον).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λύτρον",
+          "translit": "lutron",
+          "gloss": "ransom"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 20:28"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 10:45",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3083"
+      }
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1247",
+          "original": "διακονέω",
+          "transliteration": "diakoneō",
+          "partOfSpeech": "G:V",
+          "gloss": "to serve",
+          "meaning": "διακονέω, ῶ\n(δίακονος);\n1. generally, to minister, serre, wait upon, especially at table, to do one a service, cure for one's needs: absol., Mat.20:28, Mrk.10:45, Luk.10:40 22:26, 27, Jhn.12:2, 1Pe.4:11; ὅσα διηκόνησεν, 2Ti.1:18; with dative of person(s), Mat.4:11 8:15 25:44 27:55, Mrk.1:13, 31 15:41, Luk.4:39 8:3 12:37 17:8, Jhn.12:26, Act.6:2 19:22, Rom.15:25, Phm 13, Heb.6:10.\n2. to serve as deacon: 1Ti.3:10, 3:13.\n3. C. accusative of thing(s), to minister, supply, supply by ministration: 1Pe.1:12 4:10; pass., 2Co.3:3 8:19, 20.†\nSYN.: λειτουργέω, which see (Cremer, 179). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "διηκόνουν",
+          "translit": "diēkonoun",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διηκόνει",
+          "translit": "diēkonei",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διακονηθῆναι",
+          "translit": "diakonēthēnai",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διακονῆσαι",
+          "translit": "diakonēsai",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διηκονήσαμέν",
+          "translit": "diēkonēsamen",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διακονοῦσαι",
+          "translit": "diakonousai",
+          "gloss": "to serve"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 4:11",
+        "Matthew 8:15",
+        "Matthew 20:28",
+        "Matthew 25:44",
+        "Matthew 27:55"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 32,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 8:15",
+          "found": true
+        },
+        {
+          "ref": "Mark 10:45",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:27",
+          "found": true
+        },
+        {
+          "ref": "John 12:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1247"
+      }
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1401",
+          "original": "δοῦλος",
+          "transliteration": "doulos",
+          "partOfSpeech": "G:N",
+          "gloss": "slave",
+          "meaning": "δοῦλος, -η, -ον,\n[in LXX, ὁ δ. nearly always for עֶבֶד; ὁ δ. chiefly for שִׁפְחָה ,אָמָה ;]\n1. in bondage to, subject to: Rom.6:19.\n2. As subst., ὁ, ἡ δ., a slave;\n(a) fem., ἡ δ., a female slave, bondmaid (Cremer, 702; DB, iii, 215): Luk.1:38, 48 Act.2:18\" (LXX) ; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "δούλῳ",
+          "translit": "doulō",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλος",
+          "translit": "doulos",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλοι",
+          "translit": "douloi",
+          "gloss": "slave"
+        },
+        {
+          "original": "δούλων",
+          "translit": "doulōn",
+          "gloss": "slave"
+        },
+        {
+          "original": "δούλου",
+          "translit": "doulou",
+          "gloss": "slave"
+        },
+        {
+          "original": "δοῦλε",
+          "translit": "doule",
+          "gloss": "slave"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 8:9",
+        "Matthew 10:24",
+        "Matthew 10:25",
+        "Matthew 13:27",
+        "Matthew 13:28",
+        "Matthew 18:23",
+        "Matthew 18:26",
+        "Matthew 18:27",
+        "Matthew 18:28",
+        "Matthew 18:32",
+        "Matthew 20:27",
+        "Matthew 21:34",
+        "Matthew 21:35",
+        "Matthew 21:36",
+        "Matthew 22:3",
+        "Matthew 22:4",
+        "Matthew 22:6",
+        "Matthew 22:8",
+        "Matthew 22:10",
+        "Matthew 24:45",
+        "Matthew 24:46",
+        "Matthew 24:48",
+        "Matthew 24:50",
+        "Matthew 25:14",
+        "Matthew 25:19",
+        "Matthew 25:21",
+        "Matthew 25:23",
+        "Matthew 25:26",
+        "Matthew 25:30",
+        "Matthew 26:51"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 121,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 25:21",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:1",
+          "found": true
+        },
+        {
+          "ref": "Galatians 3:28",
+          "found": true
+        },
+        {
+          "ref": "Philippians 2:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1401"
+      }
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5614",
+          "original": "ὡσαννά",
+          "transliteration": "hōsanna",
+          "partOfSpeech": "H:INJ",
+          "gloss": "Hosanna",
+          "meaning": "ὡσαννά (T, ὠσ-) (Heb נָא and הוֹשֵׁעַ; see Dalman, Words, 220 IL; Gr., 249),\nhosanna: Mat.21:9, Mrk.11:9-10, Jhn.12:13; τ. υἱῷ Δανείδ, Mat.21:9, 15.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὡσαννὰ",
+          "translit": "hōsanna",
+          "gloss": "Hosanna! "
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 21:9",
+        "Matthew 21:15"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:15",
+          "found": true
+        },
+        {
+          "ref": "Mark 11:9",
+          "found": true
+        },
+        {
+          "ref": "John 12:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5614"
+      }
+    },
+    {
+      "id": "ethnos",
+      "strongs": [
+        "G1484"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1484",
+          "original": "ἔθνος",
+          "transliteration": "ethnos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "Gentiles",
+          "meaning": "ἔθνος, -ους, τό,\n[in LXX chiefly for עַם ,גּוֹי ;]\n1. a multitude, a company, whether of beasts or men (Hom.).\n2. a nation, people: Mat.21:43 24:7, Mrk.13:8, Luk.22:25, Act.10:35, al.; in sing., of the Jewish people, Luk.7:5 23:2, Jhn.11:48, 50-53 18:35, Act.10:22 24:3, 10 26:4 28:19.\n3. In pl., as in OT, τὰ ἔ. (like Heb. הַגּוֹיִם), the nations, as distinct from Israel, Gentiles: Mat.4:15 6:32, Act.26:17, Rom.3:29 11:11 15:10, Gal.2:8, al.; of Gentile Christians, Rom.11:13 15:27 16:4, Gal.2:12, 14, Eph.3:1.\nSYN.: λαός (see DCG, ii, 229; Cremer, 226). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐθνῶν",
+          "translit": "ethnōn",
+          "gloss": "Gentile nation"
+        },
+        {
+          "original": "ἔθνη",
+          "translit": "ethnē",
+          "gloss": "Gentile nation"
+        },
+        {
+          "original": "ἔθνεσιν",
+          "translit": "ethnesin",
+          "gloss": "Gentile nation"
+        },
+        {
+          "original": "ἔθνει",
+          "translit": "ethnei",
+          "gloss": "Gentile nation"
+        },
+        {
+          "original": "ἔθνος",
+          "translit": "ethnos",
+          "gloss": "Gentile nation"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 4:15",
+        "Matthew 6:32",
+        "Matthew 10:5",
+        "Matthew 10:18",
+        "Matthew 12:18",
+        "Matthew 12:21",
+        "Matthew 20:19",
+        "Matthew 20:25",
+        "Matthew 21:43",
+        "Matthew 24:7",
+        "Matthew 24:9",
+        "Matthew 24:14",
+        "Matthew 25:32",
+        "Matthew 28:19"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 153,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:14",
+          "found": true
+        },
+        {
+          "ref": "Matthew 28:19",
+          "found": true
+        },
+        {
+          "ref": "Acts 10:45",
+          "found": true
+        },
+        {
+          "ref": "Romans 15:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1484"
+      }
     }
   ]
 }

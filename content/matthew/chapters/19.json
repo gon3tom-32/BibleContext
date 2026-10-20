@@ -1,0 +1,70 @@
+{
+  "number": 19,
+  "sceneHappening": "Teaching in Judea beyond the Jordan",
+  "summary": "Jesus leaves Galilee for the region of Judea beyond the Jordan, and large crowds follow and are healed. The Pharisees test him: \"Is it lawful for a man to divorce his wife for any cause?\" Jesus points back to creation: God made them male and female, and a man will join to his wife and the two become one flesh, so what God has joined, no one should separate. They ask why Moses then commanded a certificate of divorce. He says Moses allowed it because of their hard hearts, but from the beginning it wasn't so; whoever divorces his wife, except for sexual immorality, and marries another commits adultery. The disciples say that if that's the case it's better not to marry. Jesus says not everyone can accept this, and speaks of those who are eunuchs from birth, by others' hands, or for the sake of the kingdom. Children are brought to him for a blessing, and when the disciples rebuke the people, Jesus says, \"Let the little children come to me... for the kingdom of heaven belongs to such as these,\" and blesses them. A young man asks what good thing he must do to have eternal life. Jesus tells him to keep the commandments and lists several; the man says he has kept them and asks what he still lacks. \"If you want to be complete, go, sell what you own, give to the poor, and you will have treasure in heaven; then come, follow me.\" The young man goes away sad, because he had great wealth. Jesus says it's hard for a rich person to enter the kingdom, easier for a camel to go through a needle's eye. The disciples are astonished: \"Who then can be saved?\" \"With people this is impossible, but with God all things are possible.\" Peter asks what they'll get for leaving everything. Jesus promises that in the renewal, when the Son of Man sits on his glorious throne, the twelve will sit on twelve thrones judging the twelve tribes of Israel, and everyone who has left home or family for his name will receive a hundredfold and eternal life. \"But many who are first will be last, and the last first.\"",
+  "whySettingMatters": "The Pharisees' question reflects a live debate over Deuteronomy 24:1, usually linked with the schools of Shammai (a narrow reading) and Hillel (a broad one). Divorce was initiated by the husband, and the certificate protected a divorced woman's right to remarry. Jesus appeals to creation rather than to Moses. The exception clause (\"except for sexual immorality\") appears only in Matthew (also 5:32), and exactly what it covers is debated. In that world a eunuch was often stigmatized and was excluded from the assembly in Deuteronomy 23:1, though Isaiah 56:3-5 promises such people a place in God's house. Children had little status. Matthew calls the questioner a young man, not a ruler. Wealth was often read as a sign of God's blessing, which is why the disciples are astonished. The camel was the largest animal people knew in Palestine, so the saying is deliberate exaggeration; the story of a small Jerusalem gate called \"the needle's eye\" is a later tradition without early evidence. \"Renewal\" (palingenesia) means a fresh start, and the twelve thrones echo the twelve tribes.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Test Jesus with a question that divides their own schools."
+    },
+    {
+      "id": "the-children",
+      "note": "Brought to Jesus for a blessing, over the disciples' objection."
+    },
+    {
+      "id": "the-rich-young-man",
+      "note": "Keeps the commandments and still asks what he lacks, then leaves sad."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Astonished by what he says about marriage and about wealth."
+    },
+    {
+      "id": "peter",
+      "note": "Asks what they will get for leaving everything."
+    }
+  ],
+  "questions": [
+    "Jesus answers a question about divorce by pointing back to creation. What does that move do to the debate over \"any cause\"?",
+    "The disciples blurt out, \"then it's better not to marry.\" What does that show about how heavy Jesus' answer felt?",
+    "The young man has kept the commandments and still asks what he lacks. What do you make of Jesus' answer, and why did he go away sad?",
+    "\"With people this is impossible, but with God all things are possible.\" What impossible thing is Jesus talking about?"
+  ],
+  "words": [
+    {
+      "id": "porneia",
+      "note": "The exception Jesus names for divorce (19:9)."
+    },
+    {
+      "id": "teleios",
+      "note": "\"If you want to be complete\" (19:21)."
+    },
+    {
+      "id": "palingenesia",
+      "note": "\"In the renewal, when the Son of Man sits on his glorious throne\" (19:28)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 2:24",
+      "note": "a man leaves his parents and joins his wife"
+    },
+    {
+      "ref": "Deuteronomy 24:1-4",
+      "note": "the certificate of divorce"
+    },
+    {
+      "ref": "Genesis 1:27",
+      "note": "male and female he created them"
+    },
+    {
+      "ref": "Jeremiah 32:27",
+      "note": "\"Is anything too hard for me?\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

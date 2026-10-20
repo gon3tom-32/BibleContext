@@ -1,0 +1,74 @@
+{
+  "number": 21,
+  "sceneHappening": "Entering Jerusalem and confronting the temple leaders",
+  "summary": "As they near Jerusalem, at Bethphage on the Mount of Olives, Jesus sends two disciples to bring a donkey and a colt, saying, \"If anyone says anything, say, 'The Lord needs them.'\" Matthew says this fulfills Zechariah: \"Your king comes to you, humble, and riding on a donkey.\" The crowd spreads cloaks and branches on the road and shouts, \"Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!\" The whole city is stirred: \"Who is this?\" \"This is the prophet, Jesus, from Nazareth of Galilee.\" In the temple he drives out those buying and selling, overturns the tables of the moneychangers and the seats of the dove sellers, and says, \"My house shall be called a house of prayer, but you have made it a den of robbers.\" The blind and lame come to him and are healed; children cry \"Hosanna to the Son of David,\" and when the chief priests are indignant, he quotes Psalm 8, \"Out of the mouth of babies you have established praise.\" He spends the night in Bethany. The next morning, hungry, he finds a fig tree with leaves but no fruit and it withers. The disciples marvel; he says that with faith they could do this and even move a mountain, and whatever they ask in prayer they will receive. In the temple the chief priests and elders ask by what authority he does these things. He asks them whether John's baptism was from heaven or from people. They reason that either answer will hurt them, and say, \"We don't know.\" \"Neither will I tell you.\" He tells two parables. A father asks two sons to work in the vineyard; the first says no and later goes, the second says yes and doesn't. Tax collectors and prostitutes are entering the kingdom ahead of the leaders, because they believed John. A landowner plants a vineyard and leases it to tenants; when he sends servants for his share, they beat, kill, and stone them, and when he sends his son, saying \"They will respect my son,\" they kill him too. Asked what the owner will do, the leaders say he'll put the tenants to a miserable death and lease the vineyard to others. Jesus quotes Psalm 118: \"The stone which the builders rejected has become the head of the corner.\" The kingdom of God will be taken from them and given to a nation producing its fruit. The chief priests and Pharisees realize he is talking about them and want to arrest him, but fear the crowds, who consider him a prophet.",
+  "whySettingMatters": "Jerusalem swelled with pilgrims for Passover, so the city was many times its normal size. A donkey was a royal mount (Solomon rode David's mule, 1 Kings 1:33), and Zechariah 9:9 pictures a king who comes in peace rather than on a warhorse. \"Hosanna\" comes from Psalm 118:25, where it means \"Save us\"; by this time it was a pilgrim's shout of praise. The merchants worked in the temple's outer court, the Court of the Gentiles: animals for sacrifice were sold there, and moneychangers swapped everyday coins for the Tyrian coins accepted for the temple tax. \"Den of robbers\" quotes Jeremiah 7, where the prophet warned people who trusted the temple while mistreating the poor. The fig tree is usually read as an acted parable about leaders who showed leaves and no fruit; that reading is debated. The chief priests and elders were members of the Sanhedrin, the ruling council. The vineyard echoes Isaiah's song of Israel as God's vineyard (Isaiah 5:1-7). Who the \"nation producing its fruit\" is has been debated: a renewed Israel, the community of Jesus' followers, or both.",
+  "people": [
+    {
+      "id": "the-crowds",
+      "note": "Spread their cloaks and shout \"Hosanna\" as he enters."
+    },
+    {
+      "id": "temple-merchants",
+      "note": "Animal sellers and moneychangers working in the temple courts."
+    },
+    {
+      "id": "chief-priests",
+      "note": "Challenge his authority and realize the parables are aimed at them."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Fetch the donkey, and are told about faith and prayer."
+    },
+    {
+      "id": "john-baptist",
+      "note": "The question about his baptism traps the leaders."
+    }
+  ],
+  "questions": [
+    "Jesus enters on a donkey, not a warhorse. What kind of king does that picture, and what would the crowds have expected?",
+    "Why might the temple matter so much that Jesus acts this strongly there?",
+    "The leaders won't answer Jesus' question about John because they fear the crowd. What does that show about how they were deciding?",
+    "In the story of the two sons, who actually does the father's will? What does Jesus say that means for tax collectors and for the leaders?"
+  ],
+  "words": [
+    {
+      "id": "hosanna",
+      "note": "The crowd's cry as he enters (21:9, 21:15)."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"A nation producing its fruit\" (21:43)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"By what authority do you do these things?\" (21:23-27)."
+    },
+    {
+      "id": "christos",
+      "note": "The crowd calls him the Son of David (21:9), a royal title tied to the Christ."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Zechariah 9:9",
+      "note": "the king on a donkey"
+    },
+    {
+      "ref": "Psalm 118:22-23",
+      "note": "the stone the builders rejected"
+    },
+    {
+      "ref": "Jeremiah 7:11",
+      "note": "\"a den of robbers\""
+    },
+    {
+      "ref": "Isaiah 5:1-4",
+      "note": "God's vineyard and the fruit he looks for"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
