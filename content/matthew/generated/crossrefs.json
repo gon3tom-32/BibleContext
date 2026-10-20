@@ -1328,7 +1328,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 22:22",
+          "inDataset": true,
+          "votes": 34
+        },
+        {
+          "ref": "Isaiah 28:16",
+          "inDataset": true,
+          "votes": 45
+        },
+        {
+          "ref": "Psalm 49:7-8",
+          "inDataset": true,
+          "votes": 23
+        },
+        {
+          "ref": "Psalm 62:12",
+          "inDataset": true,
+          "votes": 30
+        }
+      ]
     },
     {
       "number": 17,
@@ -1390,7 +1411,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 18:15",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Malachi 4:5-6",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Exodus 30:13",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Numbers 14:27",
+          "inDataset": true,
+          "votes": 6
+        }
+      ]
     },
     {
       "number": 18,

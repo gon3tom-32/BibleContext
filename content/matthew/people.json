@@ -203,5 +203,25 @@
     "id": "canaanite-woman",
     "name": "The Canaanite woman",
     "note": "A Gentile mother from the region of Tyre and Sidon, whose daughter is tormented by a demon."
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "note": "A prophet of Israel, taken up to heaven, expected by many to return before the Lord's day."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "The lawgiver who led Israel out of Egypt and met God on Mount Sinai."
+  },
+  {
+    "id": "the-boy-and-father",
+    "name": "A boy with seizures and his father",
+    "note": "Unnamed in Matthew; the father kneels and begs for mercy."
+  },
+  {
+    "id": "temple-tax-collectors",
+    "name": "The temple-tax collectors",
+    "note": "Men in Capernaum who collected the annual half-shekel for the temple."
   }
 ]

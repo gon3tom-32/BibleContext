@@ -1,0 +1,78 @@
+{
+  "number": 16,
+  "sceneHappening": "Demands for a sign, then Peter's confession at Caesarea Philippi",
+  "summary": "The Pharisees and Sadducees, together for once, test Jesus by asking for a sign from heaven. He says they can read the sky for tomorrow's weather but not the signs of the times, and offers only the sign of Jonah. Crossing the lake, the disciples realize they've forgotten bread, and Jesus warns them about the yeast of the Pharisees and Sadducees. They think he means bread; he reminds them of the two feedings, and they finally understand he means their teaching. At Caesarea Philippi, he asks who people say the Son of Man is: John the Baptist, Elijah, Jeremiah, one of the prophets. \"But who do you say that I am?\" Peter answers, \"You are the Christ, the Son of the living God.\" Jesus blesses him: flesh and blood didn't reveal this, but his Father. \"You are Peter, and on this rock I will build my church, and the gates of Hades will not prevail against it. I will give you the keys of the kingdom of heaven,\" and whatever he binds or looses on earth will be bound or loosed in heaven. Then he tells the disciples not to tell anyone he is the Christ. From then on Jesus begins telling them that he must go to Jerusalem, suffer at the hands of the elders, chief priests, and scribes, be killed, and be raised on the third day. Peter takes him aside: \"Far be it from you, Lord! This shall never happen to you.\" Jesus turns: \"Get behind me, Satan! You are a stumbling block to me. You're not thinking God's thoughts but man's.\" He says whoever wants to follow him must deny themselves, take up their cross, and follow; whoever tries to save their life will lose it, and what good is gaining the whole world and losing your life? The Son of Man will come in his Father's glory and repay each person, and some standing there won't taste death before they see him coming in his kingdom.",
+  "whySettingMatters": "Caesarea Philippi lay at the foot of Mount Hermon, at a spring and rock face long linked with the Greek god Pan. Herod's son Philip rebuilt it and named it for the emperor and himself. It was a place of shrines to gods and rulers, so a question about who Jesus is lands in loud company. \"Rock\" is a word play: Peter's name Petros and the word petra for rock. In Aramaic, which Jesus likely spoke, the same word (kepha, the origin of \"Cephas\") would serve for both. What the rock is (Peter himself, his confession, or Christ) is debated across Christian traditions. \"Binding and loosing\" were terms for forbidding and permitting, and the \"keys\" echo Isaiah 22:22, where the key to David's house is given to a steward. \"Yeast\" was a picture of something small that spreads through the whole batch. For readers who knew Roman crucifixion, \"take up your cross\" was a plain way to describe public humiliation and execution.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees and Sadducees, rarely allies, join to test Jesus for a sign."
+    },
+    {
+      "id": "peter",
+      "note": "Declares Jesus the Christ, is blessed, then rebuked within minutes."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Slow to catch the warning about yeast, then asked who they say Jesus is."
+    },
+    {
+      "id": "john-baptist",
+      "note": "One of the answers the crowds give: \"John the Baptist.\""
+    },
+    {
+      "id": "elijah",
+      "note": "Another of the crowd's guesses, from the prophet expected to return before the Lord's day."
+    }
+  ],
+  "questions": [
+    "The crowds guessed John, Elijah, Jeremiah, or another prophet. What do those guesses show about what people expected?",
+    "Peter is blessed in 16:17-19 and rebuked in 16:23, within a few verses. How do you hold both together?",
+    "Jesus begins to predict his suffering right after Peter's confession. Why might he teach in that order?",
+    "\"What good will it do to gain the whole world and lose your life?\" How might that sound to someone living under Rome?"
+  ],
+  "words": [
+    {
+      "id": "christos",
+      "note": "\"You are the Christ, the Son of the living God\" (16:16)."
+    },
+    {
+      "id": "petra",
+      "note": "\"On this rock I will build my church\" (16:18)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "The first of only two times Matthew uses the word (16:18)."
+    },
+    {
+      "id": "skandalon",
+      "note": "Peter becomes a stumbling block to Jesus (16:23)."
+    },
+    {
+      "id": "oligopistos",
+      "note": "\"You of little faith,\" about the forgotten bread (16:8)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 22:22",
+      "note": "the key to the house of David"
+    },
+    {
+      "ref": "Isaiah 28:16",
+      "note": "the tested stone, a sure foundation"
+    },
+    {
+      "ref": "Psalm 49:7-8",
+      "note": "no one can ransom a life"
+    },
+    {
+      "ref": "Psalm 62:12",
+      "note": "God repays each person according to their deeds"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
