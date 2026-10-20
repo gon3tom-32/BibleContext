@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "On the mountain with three disciples, and at the foot of it",
+  "summary": "Six days later Jesus takes Peter, James, and John up a high mountain by themselves, and he is transfigured before them: his clothes become glistening, intensely white, as no launderer could make them. Elijah and Moses appear, talking with him. Peter says, \"Rabbi, it is good for us to be here. Let's make three tents,\" and Mark adds that he didn't know what to say, for they were very afraid. A cloud overshadows them, and a voice says, \"This is my beloved Son. Listen to him.\" Suddenly they see only Jesus. As they come down he tells them not to tell anyone until the Son of Man has risen from the dead, and they wonder what \"rising\" means. They ask about Elijah coming first, and he says Elijah has come, and they did to him whatever they wanted. At the foot of the mountain a crowd surrounds the disciples, and scribes are arguing with them. A father has brought his son, who has a spirit that makes him mute, throws him down, and makes him foam and grind his teeth. The disciples couldn't drive it out. \"Unbelieving generation, how long shall I be with you?\" Jesus says. The father says, \"If you can do anything, have compassion on us and help us.\" \"If you can? All things are possible to him who believes.\" The father cries out, \"I believe. Help my unbelief!\" Jesus rebukes the spirit, it comes out with a shriek, and the boy lies like a corpse until Jesus takes his hand and lifts him up. Later in private the disciples ask why they could not, and he says, \"This kind can come out by nothing, except by prayer.\" Passing through Galilee, Jesus again says the Son of Man will be handed over, killed, and rise after three days, but they don't understand and are afraid to ask. In Capernaum he asks what they were discussing on the road; they were silent, since they had argued about who was greatest. He sits and says, \"If anyone wants to be first, he must be last of all, and servant of all,\" and sets a child among them. John says they stopped someone casting out demons in Jesus' name, and Jesus says, \"He who is not against us is on our side.\" He warns against causing little ones to stumble, speaks of cutting off a hand or foot, and ends: \"Have salt in yourselves, and be at peace with one another.\"",
+  "whySettingMatters": "Mark doesn't name the mountain; Tabor is the traditional guess, but Hermon is closer to Caesarea Philippi, where Peter's confession took place, and the question is open. Moses and Elijah both met God on a mountain, and both stand for the Law and the Prophets. The \"tents\" may recall the Feast of Tabernacles, though what Mark means by Peter's words is not explained. The overshadowing cloud and the voice recall Sinai (Exodus 24:15-18) and echo what was said at Jesus' baptism (1:11), with the added command \"Listen to him.\" Jesus' answer about Elijah points to John the Baptist (Malachi 4:5-6). In the ancient world children had very little status, so welcoming one is a deliberate reversal. Gehenna is the valley of Hinnom south of Jerusalem, where children were once sacrificed (Jeremiah 7:31) and which became an image of judgment; the claim that it was a burning rubbish dump in Jesus' day has little early evidence. \"Their worm does not die\" quotes Isaiah 66:24. Cutting off a hand is hyperbole. The disciples' arguing about greatness comes right after Jesus has told them he will be killed, which is Mark's way of showing how little they understand.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Shown in glory, then back down among the sick and the argument."
+    },
+    {
+      "id": "peter",
+      "note": "Speaks without knowing what to say."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "One of the three on the mountain."
+    },
+    {
+      "id": "john-apostle",
+      "note": "One of the three, and the one who reports the stranger casting out demons."
+    },
+    {
+      "id": "elijah",
+      "note": "Appears with Moses, and stands behind the question about who comes first."
+    },
+    {
+      "id": "moses",
+      "note": "Appears with Elijah; the Law with the Prophets."
+    },
+    {
+      "id": "the-boy-with-a-spirit",
+      "note": "Thrown down by the spirit and lifted up by Jesus."
+    },
+    {
+      "id": "the-boys-father",
+      "note": "Asks for help and admits his unbelief."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Unable to heal, and arguing about who is greatest."
+    }
+  ],
+  "questions": [
+    "The voice says, \"Listen to him,\" right before Jesus tells them about suffering. What do the three disciples need to hear?",
+    "The father says, \"I believe. Help my unbelief.\" What does Jesus do with a prayer like that?",
+    "The disciples argue about greatness right after hearing Jesus talk about dying. What does that tell you about how they heard him?",
+    "Jesus says the one who is not against them is for them. How does that fit with what he says elsewhere about being with him or against him?"
+  ],
+  "words": [
+    {
+      "id": "metamorphoo",
+      "note": "\"He was transfigured before them\" (9:2)."
+    },
+    {
+      "id": "apistia",
+      "note": "\"Help my unbelief\" (9:24)."
+    },
+    {
+      "id": "skandalizo",
+      "note": "Causing little ones to stumble, and the hand, foot, and eye that cause it (9:42-47)."
+    },
+    {
+      "id": "geenna",
+      "note": "Where \"their worm does not die\" (9:43-48)."
+    },
+    {
+      "id": "epitimao",
+      "note": "Jesus rebukes the spirit (9:25)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 24:15-16",
+      "note": "the cloud covers the mountain"
+    },
+    {
+      "ref": "Malachi 4:5-6",
+      "note": "Elijah sent before the day of the Lord"
+    },
+    {
+      "ref": "Deuteronomy 18:15",
+      "note": "\"Listen to him,\" a prophet like Moses"
+    },
+    {
+      "ref": "Isaiah 66:24",
+      "note": "\"Their worm will not die\""
+    }
+  ],
+  "number": 9,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

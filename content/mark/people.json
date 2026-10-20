@@ -153,5 +153,55 @@
     "id": "the-blind-man-of-bethsaida",
     "name": "The blind man of Bethsaida",
     "note": "Healed in two stages."
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "note": "The prophet who was taken up in a whirlwind, expected to return before the day of the Lord."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "Gave the Law; died, and is shown here with Jesus."
+  },
+  {
+    "id": "the-boy-with-a-spirit",
+    "name": "The boy",
+    "note": "A son from childhood, struck down by a spirit."
+  },
+  {
+    "id": "the-boys-father",
+    "name": "His father",
+    "note": "\"I believe; help my unbelief.\""
+  },
+  {
+    "id": "the-rich-man",
+    "name": "The man who ran up",
+    "note": "Unnamed, good, and wealthy."
+  },
+  {
+    "id": "bartimaeus",
+    "name": "Bartimaeus",
+    "note": "A beggar at Jericho; the only person Mark names in a healing."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "The senior priests, with the scribes and elders making up the Sanhedrin."
+  },
+  {
+    "id": "the-sadducees",
+    "name": "The Sadducees",
+    "note": "A priestly aristocratic party that denied resurrection."
+  },
+  {
+    "id": "the-scribe",
+    "name": "A scribe",
+    "note": "A teacher of the Law who answers honestly."
+  },
+  {
+    "id": "the-widow",
+    "name": "The poor widow",
+    "note": "Gives two small coins at the treasury."
   }
 ]

@@ -602,6 +602,128 @@
         "item": "daughter_of_herodias_983",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "elijah",
+      "name": "Elijah",
+      "alsoCalled": "Elias",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        6,
+        8,
+        9,
+        15
+      ],
+      "verses": [
+        "Mark 6:15",
+        "Mark 8:28",
+        "Mark 9:4",
+        "Mark 9:5",
+        "Mark 9:11",
+        "Mark 9:12",
+        "Mark 9:13",
+        "Mark 15:35",
+        "Mark 15:36"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "elijah_1131",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Amram"
+        },
+        "mother": {
+          "name": "Jochebed"
+        },
+        "spouses": [
+          {
+            "name": "Zipporah"
+          }
+        ],
+        "children": [
+          {
+            "name": "Gershom"
+          },
+          {
+            "name": "Eliezer"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Aaron"
+          },
+          {
+            "name": "Miriam"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        7,
+        9,
+        10,
+        12
+      ],
+      "verses": [
+        "Mark 1:44",
+        "Mark 7:10",
+        "Mark 9:4",
+        "Mark 9:5",
+        "Mark 10:3",
+        "Mark 10:4",
+        "Mark 12:19",
+        "Mark 12:26"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "moses_2108",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "bartimaeus",
+      "name": "Bartimaeus",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Timaeus"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        10
+      ],
+      "verses": [
+        "Mark 10:46"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "bartimaeus_406",
+        "recordStatus": "wip"
+      }
     }
   ]
 }

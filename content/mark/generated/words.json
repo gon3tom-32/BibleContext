@@ -1709,6 +1709,680 @@
         "fetched": "2026-10-19",
         "item": "G4716"
       }
+    },
+    {
+      "id": "apistia",
+      "strongs": [
+        "G0570"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0570",
+          "original": "ἀπιστία",
+          "transliteration": "apistia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "unbelief",
+          "meaning": "ἀπιστία, -ας, ἡ\n(ἄπιστος), [in LXX: Wis.14:25, 4Ma.12:4 * ;]\nwant of faith, unbelief: Mat.13:58, Mrk.6:6 9:24 16:14, Rom.3:3 (but see: ἀπιστέω) Rom.4:20 11:20, 23, 1Ti.1:13, Heb.3:12, 19 (DCG, ii, 775a; Cremer, 492).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀπιστίαν",
+          "translit": "apistian",
+          "gloss": "unbelief"
+        },
+        {
+          "original": "ἀπιστίᾳ",
+          "translit": "apistia",
+          "gloss": "unbelief"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 6:6",
+        "Mark 9:24",
+        "Mark 16:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 13:58",
+          "found": true
+        },
+        {
+          "ref": "Romans 4:20",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 3:19",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0570"
+      }
+    },
+    {
+      "id": "skandalizo",
+      "strongs": [
+        "G4624"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4624",
+          "original": "σκανδαλίζω",
+          "transliteration": "skandalizō",
+          "partOfSpeech": "G:V",
+          "gloss": "to cause to stumble",
+          "meaning": "σκανδαλίζω\n(σκάνδαλον), [in LXX: Dan LXX 11:41 (כָּשַׁל ni.), Sir.9:5 (Sir.35:15 32:15) (יָקֹשׁ ho.) Sir.23:8 (also in Aq., Sm., Th., and in Psa Sol Psa.16:7; not elsewhere, except NT and eccl.)* ;]\nprop., to put a snare or stumbling-block in the way; in NT always metaphorically of that which hinders right conduct or thought, to cause to stumble: with accusative of person(s), Mat.5:29-30 17:27 18:6, 8-9 Mrk.9:42-43, 45 9:47 Luk.17:2, Jhn.6:61, 1Co.8:13. Pass., to be made to stumble, to stumble: Mat.11:6 13:21, 57 15:12 24:10 26:31, 33, Mrk.4:17 6:3 14:27, 29, Luk.7:23, Jhn.16:1, Rom.14:21 (WH, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκανδαλίζονται",
+          "translit": "skandalizontai",
+          "gloss": "to cause to stumble"
+        },
+        {
+          "original": "ἐσκανδαλίζοντο",
+          "translit": "eskandalizonto",
+          "gloss": "to cause to stumble"
+        },
+        {
+          "original": "σκανδαλίσῃ",
+          "translit": "skandalisē",
+          "gloss": "to cause to stumble"
+        },
+        {
+          "original": "σκανδαλίζῃ",
+          "translit": "skandalizē",
+          "gloss": "to cause to stumble"
+        },
+        {
+          "original": "σκανδαλισθήσεσθε",
+          "translit": "skandalisthēsesthe",
+          "gloss": "to cause to stumble"
+        },
+        {
+          "original": "σκανδαλισθήσονται",
+          "translit": "skandalisthēsontai",
+          "gloss": "to cause to stumble"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 4:17",
+        "Mark 6:3",
+        "Mark 9:42",
+        "Mark 9:43",
+        "Mark 9:45",
+        "Mark 9:47",
+        "Mark 14:27",
+        "Mark 14:29"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 28,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:29",
+          "found": true
+        },
+        {
+          "ref": "Matthew 18:6",
+          "found": true
+        },
+        {
+          "ref": "Luke 17:2",
+          "found": true
+        },
+        {
+          "ref": "John 6:61",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4624"
+      }
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1067",
+          "original": "γέεννα",
+          "transliteration": "geenna",
+          "partOfSpeech": "N:N--T",
+          "gloss": "hell: Gehenna",
+          "meaning": "γέεννα (γέενα, Mrk.9:45, Rec.), -ης, ἡ (perh. through Aram. גֵּיהִנָּם, from Heb. גֵּי הִנֹּם, Neh.11:30; גֵּי בֶּן־הִנֹּם, Jhn.18:16; גֵּי בּנֵי־הִנֹּם, 4Ki.23:10; valley of (the son, sons of) lamentation);\n[in LXX the nearest approach to γ. is γαίεννα, Jos.18:16 (Γαὶ Ὀννόμ, A), elsewhere φάραγξ Ὀνόμ (Jos.15:8, al.), V. Swete on Mrk.9:43 ;] …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "γέενναν",
+          "translit": "geennan",
+          "gloss": "Gehenna"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 9:43",
+        "Mark 9:45",
+        "Mark 9:47"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 12,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:22",
+          "found": true
+        },
+        {
+          "ref": "Matthew 18:9",
+          "found": true
+        },
+        {
+          "ref": "Luke 12:5",
+          "found": true
+        },
+        {
+          "ref": "James 3:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1067"
+      }
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3339",
+          "original": "μεταμορφόω",
+          "transliteration": "metamorphoō",
+          "partOfSpeech": "G:V",
+          "gloss": "to transform",
+          "meaning": "μετα-μορφόω, -ῶ\n[in Sm.: Psa.34:1 * ;]\nto transform, trans­figure: pass., of Christ's transfiguration, Mat.17:2, Mrk.9:2 (cf. Luk.9:29); of Christians, Rom.12:2, 2Co.3:18.†\nSYN.: μετασχηματίζω, to change in fashion or appearance, see: μορφή, and cf. Lft., Phi., 125 ff (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μετεμορφώθη",
+          "translit": "metemorphōthē",
+          "gloss": "to transform"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 9:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 17:2",
+          "found": true
+        },
+        {
+          "ref": "Romans 12:2",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 3:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3339"
+      }
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3083",
+          "original": "λύτρον",
+          "transliteration": "lutron",
+          "partOfSpeech": "G:N-N",
+          "gloss": "ransom",
+          "meaning": "λύτρον, -ον, τό\n(λύω), [in LXX (Pent. .15 Pr .2, Isa .1) for פִּדְיוֹם and cogn. forms, גְּאֻלָּה, כֹּפֶר, מְחִיר ;]\na ransom (as for a life, Exo.21:30; for slaves, Lev.19:20; for captives, Isa.45:13): ἀντὶ πολλῶν, Mat.20:28, Mrk.10:45 (see Swete, in l, and for discussion of λ. and its cognates, Westc., He., 295 f.; Deiss., LAE, 331 f.; cf. also ἀντί-λύτρον).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λύτρον",
+          "translit": "lutron",
+          "gloss": "ransom"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 10:45"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 20:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3083"
+      }
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1247",
+          "original": "διακονέω",
+          "transliteration": "diakoneō",
+          "partOfSpeech": "G:V",
+          "gloss": "to serve",
+          "meaning": "διακονέω, ῶ\n(δίακονος);\n1. generally, to minister, serre, wait upon, especially at table, to do one a service, cure for one's needs: absol., Mat.20:28, Mrk.10:45, Luk.10:40 22:26, 27, Jhn.12:2, 1Pe.4:11; ὅσα διηκόνησεν, 2Ti.1:18; with dative of person(s), Mat.4:11 8:15 25:44 27:55, Mrk.1:13, 31 15:41, Luk.4:39 8:3 12:37 17:8, Jhn.12:26, Act.6:2 19:22, Rom.15:25, Phm 13, Heb.6:10.\n2. to serve as deacon: 1Ti.3:10, 3:13.\n3. C. accusative of thing(s), to minister, supply, supply by ministration: 1Pe.1:12 4:10; pass., 2Co.3:3 8:19, 20.†\nSYN.: λειτουργέω, which see (Cremer, 179). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "διηκόνουν",
+          "translit": "diēkonoun",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διηκόνει",
+          "translit": "diēkonei",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διακονηθῆναι",
+          "translit": "diakonēthēnai",
+          "gloss": "to serve"
+        },
+        {
+          "original": "διακονῆσαι",
+          "translit": "diakonēsai",
+          "gloss": "to serve"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 1:13",
+        "Mark 1:31",
+        "Mark 10:45",
+        "Mark 15:41"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 32,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 20:28",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:27",
+          "found": true
+        },
+        {
+          "ref": "John 12:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1247"
+      }
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4462",
+          "original": "ῥαββονί",
+          "transliteration": "rhabboni",
+          "partOfSpeech": "A:N",
+          "gloss": "Rabboni",
+          "meaning": "ῥαββουνεί (Rec. -βονί, see: ῥαββεί) (Aram. רַבּוֺנִי, later, רִבּוֺנִי my master; on the Greek vocalization and the relation of the word to ῥαββεί, see Dalman, Words, 324, 340; Gr., 140; DB, iv, 190)\nRabboni: Mrk.10:51 (WH, mg., κύριε ῥαββεί), Jhn.20:16.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ραββουνι",
+          "translit": "rabbouni",
+          "gloss": "Rabboni"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 10:51"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "John 20:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4462"
+      }
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5614",
+          "original": "ὡσαννά",
+          "transliteration": "hōsanna",
+          "partOfSpeech": "H:INJ",
+          "gloss": "Hosanna",
+          "meaning": "ὡσαννά (T, ὠσ-) (Heb נָא and הוֹשֵׁעַ; see Dalman, Words, 220 IL; Gr., 249),\nhosanna: Mat.21:9, Mrk.11:9-10, Jhn.12:13; τ. υἱῷ Δανείδ, Mat.21:9, 15.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὡσαννά",
+          "translit": "hōsanna",
+          "gloss": "Hosanna! "
+        },
+        {
+          "original": "ὡσαννὰ",
+          "translit": "hōsanna",
+          "gloss": "Hosanna! "
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 11:9",
+        "Mark 11:10"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:9",
+          "found": true
+        },
+        {
+          "ref": "John 12:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5614"
+      }
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3027",
+          "original": "λῃστής",
+          "transliteration": "lēstēs",
+          "partOfSpeech": "G:N-M",
+          "gloss": "robber/rebel",
+          "meaning": "λῃστής, -οῦ, ὁ\n(Ep. ληίς = λεία, booty), [in LXX for גְּדוּד, etc. ;]\na robber, brigand: Mat.21:13 (LXX) Mat.26:55 27:38, 44, Mrk.11:17 14:48 15:27, Luk.10:30, 36 19:46 22:52, Jhn.10:1, 8 18:40, 2Co.11:26.†\nSYN.: κλέπτης, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λῃστῶν",
+          "translit": "lēstōn",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃστὴν",
+          "translit": "lēstēn",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃστάς",
+          "translit": "lēstas",
+          "gloss": "robber/rebel"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 11:17",
+        "Mark 14:48",
+        "Mark 15:27"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 15,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:13",
+          "found": true
+        },
+        {
+          "ref": "Luke 10:30",
+          "found": true
+        },
+        {
+          "ref": "John 10:1",
+          "found": true
+        },
+        {
+          "ref": "John 18:40",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3027"
+      }
+    },
+    {
+      "id": "kensos",
+      "strongs": [
+        "G2778"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2778",
+          "original": "κῆνσος",
+          "transliteration": "kēnsos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "tax",
+          "meaning": "κῆνσος, -ου, ὁ (Lat. census),\na poll-tax: Mat.17:25 22:17, Mrk.12:14 (WH, mg., ἐπικεφάλαιον); τ. νόμισμα τοῦ κ., Mat.22:19 (see MM, Exp., xv).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κῆνσον",
+          "translit": "kēnson",
+          "gloss": "tax"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 12:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 22:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2778"
+      }
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0025",
+          "original": "ἀγαπάω",
+          "transliteration": "agapaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to love",
+          "meaning": "ἀγαπάω, -ῶ,\n[in LXX chiefly for אהב ;]\nto love, to feel and exhibit esteem and goodwill to a person, to prize and delight in a thing.\n1. Of human affection, to men: τ. πλησίον, Mat.5:43; τ. ἐχθρούς, ib. 44; to Christ, Jhn.8:42; to God, Mat.22:37; with accusative of thing(s), Luk.11:43, Jhn.12:43, Eph.5:25, II Tim 4:8, 10, Heb.1:9, 1Pe.2:17, 3:10, 2Pe.2:15, 1Jn.2:15, Rev.12:11.\n2. Of divine love;\n(a) God's love: to men, Rom.8:37; to Christ, Jhn.3:35;\n(b) Christ's love: to men, Mrk.10:21; to God, Jhn.14:31; with cogn. accusative, Jhn.17:26, Eph.2:4. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἠγάπησεν",
+          "translit": "ēgapēsen",
+          "gloss": "to love"
+        },
+        {
+          "original": "ἀγαπήσεις",
+          "translit": "agapēseis",
+          "gloss": "to love"
+        },
+        {
+          "original": "ἀγαπᾶν",
+          "translit": "agapan",
+          "gloss": "to love"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 10:21",
+        "Mark 12:30",
+        "Mark 12:31",
+        "Mark 12:33"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 110,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 22:37",
+          "found": true
+        },
+        {
+          "ref": "Luke 10:27",
+          "found": true
+        },
+        {
+          "ref": "John 13:34",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:19",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0025"
+      }
+    },
+    {
+      "id": "lepton",
+      "strongs": [
+        "G3016"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3016",
+          "original": "λεπτός",
+          "transliteration": "leptos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "coin",
+          "meaning": "λεπτός, -ή, -όν\n(λέπω, to peel),\n1. peeled.\n2. fine, thin, small, light; hence, in late Gk., as subst. τὸ λ., a small coin (one-eighth of an as, AV, mite): Mrk.12:42, Luk.12:59 21:2.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λεπτὰ",
+          "translit": "lepta",
+          "gloss": "coin"
+        }
+      ],
+      "occurrencesInBook": [
+        "Mark 12:42"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 12:59",
+          "found": true
+        },
+        {
+          "ref": "Luke 21:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3016"
+      }
     }
   ]
 }

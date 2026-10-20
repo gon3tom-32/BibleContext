@@ -1068,5 +1068,479 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "apistia",
+    "transliteration": "apistia",
+    "original": "ἀπιστία",
+    "pronunciation": "ap-is-TEE-ah",
+    "gloss": "unbelief, lack of faith",
+    "notes": "The opposite of pistis. Jesus is amazed at it in his hometown (6:6). The boy's father says in the same breath, \"I believe; help my unbelief\" (9:24), which shows that faith and unbelief can sit side by side in one person, and that Jesus responds to a prayer even then.",
+    "range": [
+      {
+        "sense": "Unbelief",
+        "note": "Lack of trust."
+      },
+      {
+        "sense": "Unfaithfulness",
+        "note": "A broken trust."
+      }
+    ],
+    "translations": [
+      "unbelief",
+      "lack of faith"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:58",
+        "note": "He did not do many works there because of their unbelief."
+      },
+      {
+        "ref": "Romans 4:20",
+        "note": "Abraham did not waver through unbelief."
+      },
+      {
+        "ref": "Hebrews 3:19",
+        "note": "They could not enter because of unbelief."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skandalizo",
+    "transliteration": "skandalizō",
+    "original": "σκανδαλίζω",
+    "pronunciation": "skan-dal-ID-zo",
+    "gloss": "to cause to stumble",
+    "notes": "To trip someone up, or to cause them to fall away. In Mark 9:42-47 Jesus warns against making \"little ones\" stumble, and uses the hand, foot, and eye as pictures of whatever causes it. People of Nazareth \"took offense\" at him (6:3). In Mark 14:27 he says all the disciples will stumble.",
+    "range": [
+      {
+        "sense": "Trip",
+        "note": "Cause to fall."
+      },
+      {
+        "sense": "Take offense",
+        "note": "Be put off by someone."
+      },
+      {
+        "sense": "Fall away",
+        "note": "Abandon the faith."
+      }
+    ],
+    "translations": [
+      "cause to stumble",
+      "offend",
+      "take offense"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:29",
+        "note": "\"If your right eye causes you to stumble.\""
+      },
+      {
+        "ref": "Matthew 18:6",
+        "note": "A millstone around the neck."
+      },
+      {
+        "ref": "Luke 17:2",
+        "note": "Better a millstone than to make one stumble."
+      },
+      {
+        "ref": "John 6:61",
+        "note": "\"Does this cause you to stumble?\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rabbouni",
+    "transliteration": "rhabbouni",
+    "original": "ῥαββουνί",
+    "pronunciation": "rab-boo-NEE",
+    "gloss": "my teacher (Aramaic)",
+    "notes": "A more personal form of \"Rabbi,\" meaning roughly \"my teacher\" or \"my master.\" Bartimaeus uses it (10:51). Mary Magdalene uses it in John 20:16.",
+    "range": [
+      {
+        "sense": "Teacher",
+        "note": "A respectful address."
+      },
+      {
+        "sense": "Master",
+        "note": "A personal, honoring title."
+      }
+    ],
+    "translations": [
+      "Rabboni",
+      "my teacher"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 20:16",
+        "note": "Mary says, \"Rabboni!\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lestes",
+    "transliteration": "lēstēs",
+    "original": "λῃστής",
+    "pronunciation": "lace-TACE",
+    "gloss": "robber, bandit",
+    "notes": "A highway robber or bandit, sometimes a violent rebel. Jesus calls the temple a \"den of robbers\" (11:17), quoting Jeremiah 7:11; a den is where robbers retreat to feel safe after robbing. The word returns when Jesus is arrested (14:48) and when he is crucified between two robbers (15:27).",
+    "range": [
+      {
+        "sense": "Robber",
+        "note": "A bandit."
+      },
+      {
+        "sense": "Revolutionary",
+        "note": "A violent insurgent."
+      }
+    ],
+    "translations": [
+      "robber",
+      "bandit",
+      "revolutionary"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:13",
+        "note": "\"A den of robbers.\""
+      },
+      {
+        "ref": "Luke 10:30",
+        "note": "The man fell among robbers."
+      },
+      {
+        "ref": "John 10:1",
+        "note": "A thief and a robber climbs in another way."
+      },
+      {
+        "ref": "John 18:40",
+        "note": "Barabbas was a robber."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lepton",
+    "transliteration": "lepton",
+    "original": "λεπτόν",
+    "pronunciation": "lep-TON",
+    "gloss": "small coin, a mite",
+    "notes": "The smallest bronze coin in use, worth a fraction of a day's wage. The widow gives two of them (12:42). Mark explains their value in Roman terms as a quadrans, which suggests he is writing for Roman readers.",
+    "range": [
+      {
+        "sense": "Small coin",
+        "note": "The least valuable coin."
+      }
+    ],
+    "translations": [
+      "mite",
+      "small coin",
+      "penny"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 12:59",
+        "note": "Until you pay the very last lepton."
+      },
+      {
+        "ref": "Luke 21:2",
+        "note": "The widow's two lepta, in Luke."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metamorphoo",
+    "transliteration": "metamorphoō",
+    "original": "μεταμορφόω",
+    "pronunciation": "meh-tah-mor-FOH-oh",
+    "gloss": "to transform",
+    "notes": "To change form. Mark says Jesus was \"transfigured\" before Peter, James, and John (9:2), shown for a moment as he really is. It is the word from which \"metamorphosis\" comes.",
+    "range": [
+      {
+        "sense": "Change outward form",
+        "note": "As on the mountain."
+      },
+      {
+        "sense": "Be transformed inwardly",
+        "note": "As in Paul's letters."
+      }
+    ],
+    "translations": [
+      "transfigured",
+      "transformed",
+      "changed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 17:2",
+        "note": "The same event in Matthew."
+      },
+      {
+        "ref": "Romans 12:2",
+        "note": "Be transformed by the renewing of your mind."
+      },
+      {
+        "ref": "2 Corinthians 3:18",
+        "note": "Being transformed into the same image."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "geenna",
+    "transliteration": "geenna",
+    "original": "γέεννα",
+    "pronunciation": "GEH-en-nah",
+    "gloss": "Gehenna",
+    "notes": "Named for the valley of Hinnom outside Jerusalem. Jesus uses it for final judgment (9:43-48). Mark has it only in this chapter.",
+    "uncertain": "A popular claim says Gehenna was Jerusalem's burning garbage dump. Scholars debate this: the idea isn't found in sources before the Middle Ages, and the Old Testament links the valley with child sacrifice.",
+    "range": [
+      {
+        "sense": "A valley",
+        "note": "The Valley of Hinnom near Jerusalem."
+      },
+      {
+        "sense": "Judgment",
+        "note": "A picture of final judgment by fire."
+      }
+    ],
+    "translations": [
+      "hell",
+      "Gehenna",
+      "the fire of hell"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "Whoever says \"You fool\" is liable to Gehenna."
+      },
+      {
+        "ref": "Matthew 18:9",
+        "note": "Better to enter life with one eye."
+      },
+      {
+        "ref": "Luke 12:5",
+        "note": "Fear him who has authority to cast into Gehenna."
+      },
+      {
+        "ref": "James 3:6",
+        "note": "The tongue is set on fire by Gehenna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lytron",
+    "transliteration": "lytron",
+    "original": "λύτρον",
+    "pronunciation": "LOO-tron",
+    "gloss": "ransom",
+    "notes": "The price paid to free a slave or a prisoner of war. Jesus says the Son of Man came \"to give his life as a ransom for many\" (10:45), at the end of his teaching on serving.",
+    "range": [
+      {
+        "sense": "Ransom price",
+        "note": "Payment that frees a captive."
+      },
+      {
+        "sense": "Release",
+        "note": "The freeing itself."
+      }
+    ],
+    "translations": [
+      "ransom"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:28",
+        "note": "The same saying, in Matthew."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakoneo",
+    "transliteration": "diakoneō",
+    "original": "διακονέω",
+    "pronunciation": "dee-ah-ko-NEH-oh",
+    "gloss": "to serve",
+    "notes": "To wait on someone, as at a table, and the root of \"deacon.\" Peter's mother-in-law \"served\" them (1:31), and Jesus says he came not to be served but to serve (10:45), turning the logic of who is great upside down.",
+    "range": [
+      {
+        "sense": "Wait at table",
+        "note": "Serve food and drink."
+      },
+      {
+        "sense": "Provide for",
+        "note": "Look after someone's needs."
+      },
+      {
+        "sense": "Minister",
+        "note": "Serve in a role of care or leadership."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "wait on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:28",
+        "note": "The same saying, in Matthew."
+      },
+      {
+        "ref": "Luke 22:27",
+        "note": "\"I am among you as one who serves.\""
+      },
+      {
+        "ref": "John 12:26",
+        "note": "\"If anyone serves me, he must follow me.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hosanna",
+    "transliteration": "hōsanna",
+    "original": "ὡσαννά",
+    "pronunciation": "ho-sah-NAH",
+    "gloss": "Hosanna, save us",
+    "notes": "From a Hebrew cry in Psalm 118:25 meaning \"save, please.\" By Jesus' time it had become a shout of praise. The crowd shouts it as he enters Jerusalem (11:9-10).",
+    "range": [
+      {
+        "sense": "Prayer for help",
+        "note": "\"Save us.\""
+      },
+      {
+        "sense": "Shout of praise",
+        "note": "Used at festivals and processions."
+      }
+    ],
+    "translations": [
+      "Hosanna",
+      "save now"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:9",
+        "note": "The same shout in Matthew."
+      },
+      {
+        "ref": "John 12:13",
+        "note": "The crowd takes palm branches and shouts Hosanna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kensos",
+    "transliteration": "kēnsos",
+    "original": "κῆνσος",
+    "pronunciation": "KAIN-soss",
+    "gloss": "poll tax",
+    "notes": "A Latin loan word (census) for the poll tax paid to Rome. The question \"Is it lawful to pay it?\" (12:14) was a trap: yes could anger patriots, no could be treason.",
+    "range": [
+      {
+        "sense": "Census",
+        "note": "The registration used to assess the tax."
+      },
+      {
+        "sense": "Poll tax",
+        "note": "The tax assessed on each person."
+      }
+    ],
+    "translations": [
+      "poll tax",
+      "tax",
+      "census tax"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:17",
+        "note": "The same question, in Matthew."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapao",
+    "transliteration": "agapaō",
+    "original": "ἀγαπάω",
+    "pronunciation": "ah-gah-PAH-oh",
+    "gloss": "to love",
+    "notes": "The verb of self-giving love. Jesus quotes both Deuteronomy 6 and Leviticus 19 with it as the two greatest commandments (12:30-31), and the scribe agrees.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Care for another that shows itself in action."
+      },
+      {
+        "sense": "Prefer",
+        "note": "Choose one over another."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:37",
+        "note": "The same teaching, in Matthew."
+      },
+      {
+        "ref": "Luke 10:27",
+        "note": "The lawyer gives the same two commands."
+      },
+      {
+        "ref": "John 13:34",
+        "note": "\"Love one another as I have loved you.\""
+      },
+      {
+        "ref": "1 John 4:19",
+        "note": "We love because he first loved us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

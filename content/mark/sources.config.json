@@ -172,6 +172,18 @@
     {
       "id": "herodias-daughter",
       "theographic": "daughter_of_herodias_983"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "bartimaeus",
+      "theographic": "bartimaeus_406"
     }
   ],
   "words": [
@@ -337,6 +349,90 @@
         "G4716"
       ],
       "foundAt": "Mark 8:34"
+    },
+    {
+      "id": "apistia",
+      "strongs": [
+        "G0570"
+      ],
+      "foundAt": "Mark 9:24"
+    },
+    {
+      "id": "skandalizo",
+      "strongs": [
+        "G4624"
+      ],
+      "foundAt": "Mark 9:42"
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "foundAt": "Mark 9:43"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "Mark 9:2"
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "foundAt": "Mark 10:45"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Mark 10:45"
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "foundAt": "Mark 10:51"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "Mark 11:9"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "Mark 11:17"
+    },
+    {
+      "id": "kensos",
+      "strongs": [
+        "G2778"
+      ],
+      "foundAt": "Mark 12:14"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Mark 12:30"
+    },
+    {
+      "id": "lepton",
+      "strongs": [
+        "G3016"
+      ],
+      "foundAt": "Mark 12:42"
     }
   ],
   "crossRefs": {
@@ -354,7 +450,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 9 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 13 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

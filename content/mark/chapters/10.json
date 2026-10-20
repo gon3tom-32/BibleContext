@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "On the road up to Jerusalem: marriage, money, and a blind beggar",
+  "summary": "Jesus leaves Galilee for Judea and the other side of the Jordan, and crowds follow again. Pharisees test him: is it lawful for a man to divorce his wife? He asks what Moses commanded; they say Moses allowed a certificate of divorce. He answers that Moses wrote that because of their hardness of heart, but from the beginning of creation God made them male and female, and the two become one flesh. \"What therefore God has joined together, let no man separate.\" Privately he tells the disciples that whoever divorces and marries another commits adultery, whether man or woman. People bring little children, and the disciples rebuke them; Jesus is indignant: \"Allow the little children to come to me. Don't forbid them, for the kingdom of God belongs to such as these.\" He takes them in his arms and blesses them. A man runs up, kneels, and asks, \"Good Teacher, what shall I do that I may inherit eternal life?\" Jesus names the commandments; the man says he has kept them all from his youth. Jesus, looking at him, loves him, and says, \"One thing you lack: go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me.\" He goes away sad, for he has great possessions. Jesus says it is hard for the rich to enter the kingdom, easier for a camel to go through the eye of a needle. The disciples are astonished: \"Then who can be saved?\" \"With men it is impossible, but not with God.\" Peter says, \"We have left everything,\" and Jesus promises a hundredfold in this life, with persecutions, and eternal life to come; \"many who are first will be last.\" On the road up to Jerusalem, with the disciples amazed and others afraid, he tells them a third time: he will be mocked, spat on, flogged, killed, and rise. James and John ask for the seats at his right and left in his glory. \"Are you able to drink the cup that I drink, and to be baptized with the baptism that I am baptized with?\" The other ten are angry. Jesus says rulers among the Gentiles lord it over people, \"But it shall not be so among you ... For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many.\" At Jericho a blind beggar, Bartimaeus, cries out, \"Jesus, Son of David, have mercy on me!\" Many tell him to be quiet; he cries louder. Jesus stops, they call him, he throws off his cloak and comes. \"What do you want me to do?\" \"Rabboni, that I may see again.\" \"Go your way. Your faith has made you well.\" At once he sees and follows Jesus on the road.",
+  "whySettingMatters": "The route runs down the Jordan valley on the east side, the way pilgrims often took to avoid Samaria, and then up from Jericho, a climb of about 3,300 feet (1,000 m) over some fifteen miles to Jerusalem. The divorce question was a live one: Deuteronomy 24:1-4 allowed it but was read differently by different teachers, and Herod Antipas had killed John the Baptist over a marriage, so the Pharisees' question was dangerous. Mark, unlike Matthew, says a wife can also divorce, which fits Roman law and not Jewish practice, another hint at his Gentile readers. Children had no standing, so receiving them is a reversal like the one in chapter 9. The saying about the camel and the needle is deliberate exaggeration; the idea that a small gate in Jerusalem was called \"the needle's eye\" has no early evidence. Wealth was commonly read as a sign of God's favor, which is why the disciples are astonished. \"Cup\" and \"baptism\" are images for suffering, and James and John will share in it. \"Ransom\" is the price paid to free a slave or prisoner. Bartimaeus is Aramaic for \"son of Timaeus,\" and Mark names him, unusually for a healing. \"Son of David\" is a royal title, the first time anyone publicly uses it of Jesus in Mark, just before Jerusalem.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches on marriage, wealth, and greatness on the way up to Jerusalem."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees who test him about divorce."
+    },
+    {
+      "id": "the-rich-man",
+      "note": "Earnest and law-keeping; Jesus loves him, and he goes away grieving."
+    },
+    {
+      "id": "peter",
+      "note": "Says they have left everything."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "Asks with John for the seats of honor."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Asks with James for the seats of honor."
+    },
+    {
+      "id": "the-twelve",
+      "note": "Amazed, afraid, and indignant on the road."
+    },
+    {
+      "id": "bartimaeus",
+      "note": "A blind beggar who will not be quiet."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Tell Bartimaeus to be quiet, then call him."
+    }
+  ],
+  "questions": [
+    "Jesus points back to creation, not just to Moses, on marriage. What does going back to the beginning change?",
+    "\"Jesus, looking at him, loved him,\" and then asked for everything. How do the love and the demand go together?",
+    "James and John ask for glory right after the third prediction of suffering. What do they miss?",
+    "Bartimaeus is the last person healed in Mark. What does the story show about what following looks like?"
+  ],
+  "words": [
+    {
+      "id": "lytron",
+      "note": "\"A ransom for many\" (10:45)."
+    },
+    {
+      "id": "diakoneo",
+      "note": "\"The Son of Man came not to be served but to serve\" (10:45)."
+    },
+    {
+      "id": "rabbouni",
+      "note": "Bartimaeus calls him \"Rabboni\" (10:51)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Your faith has made you well\" (10:52); \"Who then can be saved?\" (10:26)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Your faith has made you well\" (10:52)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 1:27",
+      "note": "male and female he created them"
+    },
+    {
+      "ref": "Genesis 2:24",
+      "note": "the two shall become one flesh"
+    },
+    {
+      "ref": "Deuteronomy 24:1-4",
+      "note": "the certificate of divorce"
+    },
+    {
+      "ref": "Exodus 20:12-16",
+      "note": "the commandments Jesus lists"
+    },
+    {
+      "ref": "Isaiah 53:10-12",
+      "note": "a life given for many"
+    }
+  ],
+  "number": 10,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
