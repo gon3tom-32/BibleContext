@@ -1,0 +1,848 @@
+{
+  "osis": "John",
+  "stepBook": "Jhn",
+  "webFile": "john.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9"
+    },
+    {
+      "id": "galilee",
+      "ancientId": "a9cf1e8"
+    },
+    {
+      "id": "sea-of-galilee",
+      "ancientId": "a562fcc",
+      "mapOnly": true
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "capernaum",
+      "ancientId": "af2161c"
+    },
+    {
+      "id": "nazareth",
+      "ancientId": "af5884f"
+    },
+    {
+      "id": "cana",
+      "ancientId": "a031bda"
+    },
+    {
+      "id": "sychar",
+      "ancientId": "a27b472"
+    },
+    {
+      "id": "tiberias",
+      "ancientId": "ac9adc9"
+    },
+    {
+      "id": "bethany",
+      "ancientId": "a4f35bc"
+    },
+    {
+      "id": "bethany-beyond-jordan",
+      "ancientId": "a6e060d",
+      "map": "none"
+    },
+    {
+      "id": "aenon",
+      "ancientId": "a112fe3",
+      "map": "none"
+    },
+    {
+      "id": "salim",
+      "ancientId": "a86e0b0",
+      "map": "none"
+    },
+    {
+      "id": "bethesda",
+      "ancientId": "a0aa8cf",
+      "map": "none"
+    },
+    {
+      "id": "siloam",
+      "ancientId": "a294859",
+      "map": "none"
+    },
+    {
+      "id": "kidron",
+      "ancientId": "a553110",
+      "map": "none"
+    },
+    {
+      "id": "mount-gerizim",
+      "ancientId": "a30e967",
+      "map": "none"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "ephraim",
+      "ancientId": "ad14500",
+      "map": "none"
+    },
+    {
+      "id": "golgotha",
+      "ancientId": "a631d35",
+      "map": "none"
+    },
+    {
+      "id": "arimathea",
+      "ancientId": "af3d9fc",
+      "map": "none"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "john-baptist",
+      "theographic": "john_1676"
+    },
+    {
+      "id": "andrew",
+      "theographic": "andrew_264"
+    },
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "philip",
+      "theographic": "philip_2344"
+    },
+    {
+      "id": "nathanael",
+      "theographic": "nathanael_2158"
+    },
+    {
+      "id": "mary",
+      "theographic": "mary_1938"
+    },
+    {
+      "id": "nicodemus",
+      "theographic": "nicodemus_2204"
+    },
+    {
+      "id": "judas-iscariot",
+      "theographic": "judas_1760"
+    },
+    {
+      "id": "lazarus",
+      "theographic": "lazarus_1811"
+    },
+    {
+      "id": "martha",
+      "theographic": "martha_1937"
+    },
+    {
+      "id": "mary-of-bethany",
+      "theographic": "mary_1939"
+    },
+    {
+      "id": "thomas",
+      "theographic": "thomas_2851"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "annas",
+      "theographic": "annas_269"
+    },
+    {
+      "id": "malchus",
+      "theographic": "malchus_1916"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
+    }
+  ],
+  "words": [
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "John 1:1"
+    },
+    {
+      "id": "skenoo",
+      "strongs": [
+        "G4637"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "monogenes",
+      "strongs": [
+        "G3439"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "John 1:4"
+    },
+    {
+      "id": "amnos",
+      "strongs": [
+        "G0286"
+      ],
+      "foundAt": "John 1:29"
+    },
+    {
+      "id": "martyreo",
+      "strongs": [
+        "G3140"
+      ],
+      "foundAt": "John 1:7"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "John 1:4"
+    },
+    {
+      "id": "aletheia",
+      "strongs": [
+        "G0225"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "John 1:7"
+    },
+    {
+      "id": "anothen",
+      "strongs": [
+        "G0509"
+      ],
+      "foundAt": "John 3:3"
+    },
+    {
+      "id": "hypsoo",
+      "strongs": [
+        "G5312"
+      ],
+      "foundAt": "John 3:14"
+    },
+    {
+      "id": "krisis",
+      "strongs": [
+        "G2920"
+      ],
+      "foundAt": "John 3:19"
+    },
+    {
+      "id": "hydor",
+      "strongs": [
+        "G5204"
+      ],
+      "foundAt": "John 2:7"
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "foundAt": "John 2:11"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "John 3:5"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "John 3:15"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "John 3:16"
+    },
+    {
+      "id": "proskuneo",
+      "strongs": [
+        "G4352"
+      ],
+      "foundAt": "John 4:20"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "John 4:42"
+    },
+    {
+      "id": "hygies",
+      "strongs": [
+        "G5199"
+      ],
+      "foundAt": "John 5:6"
+    },
+    {
+      "id": "ergon",
+      "strongs": [
+        "G2041"
+      ],
+      "foundAt": "John 5:17"
+    },
+    {
+      "id": "zoopoieo",
+      "strongs": [
+        "G2227"
+      ],
+      "foundAt": "John 5:21"
+    },
+    {
+      "id": "graphe",
+      "strongs": [
+        "G1124"
+      ],
+      "foundAt": "John 5:39"
+    },
+    {
+      "id": "manna",
+      "strongs": [
+        "G3131"
+      ],
+      "foundAt": "John 6:31"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "John 6:51"
+    },
+    {
+      "id": "helkyo",
+      "strongs": [
+        "G1670"
+      ],
+      "foundAt": "John 6:44"
+    },
+    {
+      "id": "heorte",
+      "strongs": [
+        "G1859"
+      ],
+      "foundAt": "John 7:2"
+    },
+    {
+      "id": "dipsao",
+      "strongs": [
+        "G1372"
+      ],
+      "foundAt": "John 7:37"
+    },
+    {
+      "id": "eleutheroo",
+      "strongs": [
+        "G1659"
+      ],
+      "foundAt": "John 8:32"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "John 8:21"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "John 8:34"
+    },
+    {
+      "id": "artos",
+      "strongs": [
+        "G0740"
+      ],
+      "foundAt": "John 6:5"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "John 5:8"
+    },
+    {
+      "id": "diabolos",
+      "strongs": [
+        "G1228"
+      ],
+      "foundAt": "John 8:44"
+    },
+    {
+      "id": "typhlos",
+      "strongs": [
+        "G5185"
+      ],
+      "foundAt": "John 9:1"
+    },
+    {
+      "id": "aposynagogos",
+      "strongs": [
+        "G0656"
+      ],
+      "foundAt": "John 9:22"
+    },
+    {
+      "id": "poimen",
+      "strongs": [
+        "G4166"
+      ],
+      "foundAt": "John 10:2"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "John 10:1"
+    },
+    {
+      "id": "phone",
+      "strongs": [
+        "G5456G",
+        "G5456H"
+      ],
+      "foundAt": "John 10:3"
+    },
+    {
+      "id": "embrimaomai",
+      "strongs": [
+        "G1690"
+      ],
+      "foundAt": "John 11:33"
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "foundAt": "John 11:11"
+    },
+    {
+      "id": "nardos",
+      "strongs": [
+        "G3487"
+      ],
+      "foundAt": "John 12:3"
+    },
+    {
+      "id": "kokkos",
+      "strongs": [
+        "G2848"
+      ],
+      "foundAt": "John 12:24"
+    },
+    {
+      "id": "archon",
+      "strongs": [
+        "G0758"
+      ],
+      "foundAt": "John 12:31"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "John 10:18"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "John 11:24"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "John 11:47"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "John 12:13"
+    },
+    {
+      "id": "nipto",
+      "strongs": [
+        "G3538"
+      ],
+      "foundAt": "John 13:5"
+    },
+    {
+      "id": "hypodeigma",
+      "strongs": [
+        "G5262"
+      ],
+      "foundAt": "John 13:15"
+    },
+    {
+      "id": "telos",
+      "strongs": [
+        "G5056"
+      ],
+      "foundAt": "John 13:1"
+    },
+    {
+      "id": "kainos",
+      "strongs": [
+        "G2537"
+      ],
+      "foundAt": "John 13:34"
+    },
+    {
+      "id": "hodos",
+      "strongs": [
+        "G3598"
+      ],
+      "foundAt": "John 14:4"
+    },
+    {
+      "id": "mone",
+      "strongs": [
+        "G3438"
+      ],
+      "foundAt": "John 14:2"
+    },
+    {
+      "id": "parakletos",
+      "strongs": [
+        "G3875"
+      ],
+      "foundAt": "John 14:16"
+    },
+    {
+      "id": "tereo",
+      "strongs": [
+        "G5083G",
+        "G5083H"
+      ],
+      "foundAt": "John 14:15"
+    },
+    {
+      "id": "ampelos",
+      "strongs": [
+        "G0288"
+      ],
+      "foundAt": "John 15:1"
+    },
+    {
+      "id": "meno",
+      "strongs": [
+        "G3306"
+      ],
+      "foundAt": "John 15:4"
+    },
+    {
+      "id": "philos",
+      "strongs": [
+        "G5384"
+      ],
+      "foundAt": "John 15:13"
+    },
+    {
+      "id": "elencho",
+      "strongs": [
+        "G1651"
+      ],
+      "foundAt": "John 16:8"
+    },
+    {
+      "id": "lype",
+      "strongs": [
+        "G3077"
+      ],
+      "foundAt": "John 16:6"
+    },
+    {
+      "id": "nikao",
+      "strongs": [
+        "G3528"
+      ],
+      "foundAt": "John 16:33"
+    },
+    {
+      "id": "doxazo",
+      "strongs": [
+        "G1392"
+      ],
+      "foundAt": "John 17:1"
+    },
+    {
+      "id": "ginosko",
+      "strongs": [
+        "G1097"
+      ],
+      "foundAt": "John 17:3"
+    },
+    {
+      "id": "kosmos",
+      "strongs": [
+        "G2889"
+      ],
+      "foundAt": "John 17:5"
+    },
+    {
+      "id": "heis",
+      "strongs": [
+        "G1520"
+      ],
+      "foundAt": "John 17:11"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "John 13:2"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "John 14:27"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "John 15:2"
+    },
+    {
+      "id": "miseo",
+      "strongs": [
+        "G3404"
+      ],
+      "foundAt": "John 15:18"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "John 16:33"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "John 15:11"
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "foundAt": "John 17:17"
+    },
+    {
+      "id": "speira",
+      "strongs": [
+        "G4686"
+      ],
+      "foundAt": "John 18:3"
+    },
+    {
+      "id": "praitorion",
+      "strongs": [
+        "G4232"
+      ],
+      "foundAt": "John 18:28"
+    },
+    {
+      "id": "basileus",
+      "strongs": [
+        "G0935"
+      ],
+      "foundAt": "John 18:33"
+    },
+    {
+      "id": "teleo",
+      "strongs": [
+        "G5055"
+      ],
+      "foundAt": "John 19:28"
+    },
+    {
+      "id": "ekkenteo",
+      "strongs": [
+        "G1574"
+      ],
+      "foundAt": "John 19:37"
+    },
+    {
+      "id": "emphysao",
+      "strongs": [
+        "G1720"
+      ],
+      "foundAt": "John 20:22"
+    },
+    {
+      "id": "apostello",
+      "strongs": [
+        "G0649"
+      ],
+      "foundAt": "John 20:21"
+    },
+    {
+      "id": "phileo",
+      "strongs": [
+        "G5368"
+      ],
+      "foundAt": "John 21:15"
+    },
+    {
+      "id": "bosko",
+      "strongs": [
+        "G1006"
+      ],
+      "foundAt": "John 21:15"
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "foundAt": "John 21:16"
+    },
+    {
+      "id": "anthrakia",
+      "strongs": [
+        "G0439"
+      ],
+      "foundAt": "John 18:18"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "John 18:40"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "John 19:6"
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "foundAt": "John 20:16"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "John 20:23"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "John 20:2"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean, the Dead Sea, and Samaria aren't central to John's story; they're pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Where \"Bethany beyond the Jordan\" (1:28), Aenon, and Salim were is debated; they are listed on the Context page but not drawn on the map."
+    }
+  ]
+}

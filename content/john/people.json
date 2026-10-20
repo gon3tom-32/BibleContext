@@ -1,0 +1,277 @@
+[
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The Word made flesh, the Son of God."
+  },
+  {
+    "id": "john-baptist",
+    "name": "John the Baptist",
+    "note": "The witness sent before him."
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "note": "A disciple of John, then of Jesus, and brother of Simon Peter."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "Simon son of John, renamed Cephas (Peter)."
+  },
+  {
+    "id": "philip",
+    "name": "Philip",
+    "note": "From Bethsaida; one of the first called."
+  },
+  {
+    "id": "nathanael",
+    "name": "Nathanael",
+    "note": "From Cana of Galilee; \"an Israelite in whom is no deceit.\""
+  },
+  {
+    "id": "priests-and-levites",
+    "name": "Priests and Levites",
+    "note": "Sent from Jerusalem to question John."
+  },
+  {
+    "id": "mary",
+    "name": "Mary, the mother of Jesus",
+    "note": "Never named in John; she appears at Cana and at the cross."
+  },
+  {
+    "id": "the-disciples",
+    "name": "The disciples",
+    "note": "Those who follow Jesus."
+  },
+  {
+    "id": "the-servants",
+    "name": "The servants at Cana",
+    "note": "They fill the jars and know where the wine came from."
+  },
+  {
+    "id": "the-ruler-of-the-feast",
+    "name": "The ruler of the feast",
+    "note": "The master of the banquet."
+  },
+  {
+    "id": "the-jews",
+    "name": "The Jews",
+    "note": "In John, usually the Jerusalem authorities, not the Jewish people as a whole."
+  },
+  {
+    "id": "nicodemus",
+    "name": "Nicodemus",
+    "note": "A Pharisee and member of the council."
+  },
+  {
+    "id": "johns-disciples",
+    "name": "John's disciples",
+    "note": "Followers of John the Baptist."
+  },
+  {
+    "id": "the-samaritan-woman",
+    "name": "The Samaritan woman",
+    "note": "Unnamed, from Sychar."
+  },
+  {
+    "id": "the-samaritans-of-sychar",
+    "name": "The Samaritans of Sychar",
+    "note": "A town that believed."
+  },
+  {
+    "id": "the-royal-official",
+    "name": "The royal official",
+    "note": "A man in Herod Antipas's service whose son was sick at Capernaum."
+  },
+  {
+    "id": "the-man-at-bethesda",
+    "name": "The man at the pool",
+    "note": "Sick for thirty-eight years."
+  },
+  {
+    "id": "the-boy-with-the-loaves",
+    "name": "The boy",
+    "note": "Gives five barley loaves and two fish."
+  },
+  {
+    "id": "the-disciples-who-left",
+    "name": "The disciples who left",
+    "note": "Followers who found the bread of life teaching too hard."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "The inner circle of apostles."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "One of the twelve."
+  },
+  {
+    "id": "jesus-family",
+    "name": "Jesus' brothers",
+    "note": "They did not believe in him at this stage."
+  },
+  {
+    "id": "the-pharisees",
+    "name": "The Pharisees",
+    "note": "A Jewish movement devoted to holiness and the law."
+  },
+  {
+    "id": "the-officers",
+    "name": "The officers",
+    "note": "Temple police sent to arrest him."
+  },
+  {
+    "id": "the-woman-caught-in-adultery",
+    "name": "The woman caught in adultery",
+    "note": "In a passage missing from the oldest manuscripts of John."
+  },
+  {
+    "id": "the-jews-who-believed",
+    "name": "The Jews who believed",
+    "note": "People who believed him, then argued."
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "note": "The ancestor of Israel."
+  },
+  {
+    "id": "the-man-born-blind",
+    "name": "The man born blind",
+    "note": "Unnamed; healed at Siloam."
+  },
+  {
+    "id": "the-parents-of-the-blind-man",
+    "name": "The man's parents",
+    "note": "Afraid to say more."
+  },
+  {
+    "id": "the-crowds-beyond-the-jordan",
+    "name": "The people beyond the Jordan",
+    "note": "Many believed there."
+  },
+  {
+    "id": "lazarus",
+    "name": "Lazarus",
+    "note": "Brother of Martha and Mary, from Bethany."
+  },
+  {
+    "id": "martha",
+    "name": "Martha",
+    "note": "Sister of Lazarus and Mary."
+  },
+  {
+    "id": "mary-of-bethany",
+    "name": "Mary",
+    "note": "Sister of Lazarus and Martha."
+  },
+  {
+    "id": "thomas",
+    "name": "Thomas",
+    "note": "One of the twelve, called Didymus (\"twin\")."
+  },
+  {
+    "id": "the-jews-of-bethany",
+    "name": "The mourners at Bethany",
+    "note": "People who came to console the sisters."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "High priest from about AD 18 to 36."
+  },
+  {
+    "id": "the-council",
+    "name": "The council",
+    "note": "The Sanhedrin, led by the chief priests and Pharisees."
+  },
+  {
+    "id": "the-greeks",
+    "name": "Some Greeks",
+    "note": "Gentile worshipers at the feast."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "Senior priests who sat on the council."
+  },
+  {
+    "id": "the-beloved-disciple",
+    "name": "The disciple whom Jesus loved",
+    "note": "Unnamed in John; later tradition identifies him with the apostle John."
+  },
+  {
+    "id": "judas-not-iscariot",
+    "name": "Judas (not Iscariot)",
+    "note": "One of the twelve, listed in Luke as Judas son of James."
+  },
+  {
+    "id": "malchus",
+    "name": "Malchus",
+    "note": "The high priest's servant, named only in John."
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "note": "A former high priest and Caiaphas' father-in-law."
+  },
+  {
+    "id": "the-other-disciple",
+    "name": "The other disciple",
+    "note": "Known to the high priest; often thought to be the beloved disciple."
+  },
+  {
+    "id": "the-servant-girl",
+    "name": "The doorkeeper",
+    "note": "The girl who asks Peter if he is a disciple."
+  },
+  {
+    "id": "pilate",
+    "name": "Pontius Pilate",
+    "note": "Roman prefect of Judea from about AD 26 to 36."
+  },
+  {
+    "id": "barabbas",
+    "name": "Barabbas",
+    "note": "A robber, released instead of Jesus."
+  },
+  {
+    "id": "the-soldiers",
+    "name": "The soldiers",
+    "note": "Roman soldiers who crucify him."
+  },
+  {
+    "id": "mary-wife-of-clopas",
+    "name": "Mary, the wife of Clopas",
+    "note": "Stands at the cross."
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "note": "From Magdala; first at the tomb and first to see him."
+  },
+  {
+    "id": "joseph-of-arimathea",
+    "name": "Joseph of Arimathea",
+    "note": "A secret disciple who buries him."
+  },
+  {
+    "id": "the-two-angels",
+    "name": "Two angels in white",
+    "note": "Sitting in the tomb."
+  },
+  {
+    "id": "the-sons-of-zebedee",
+    "name": "The sons of Zebedee",
+    "note": "James and John."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people, many of them pilgrims, who follow and question Jesus."
+  }
+]

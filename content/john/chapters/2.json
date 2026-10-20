@@ -1,0 +1,74 @@
+{
+  "sceneHappening": "The first sign at a wedding in Cana, and the temple cleared at Passover",
+  "summary": "On the third day there is a wedding at Cana in Galilee, and the mother of Jesus is there; Jesus and his disciples are also invited. When the wine runs out, his mother says to him, \"They have no wine.\" Jesus says, \"Woman, what does that have to do with you and me? My hour has not yet come.\" His mother tells the servants, \"Whatever he says to you, do it.\" There are six stone water pots there, set for the Jewish rites of purification, each holding two or three metretes. Jesus says, \"Fill the water pots with water,\" and they fill them to the brim. \"Now draw some out, and take it to the ruler of the feast.\" The ruler tastes the water now become wine, not knowing where it came from, though the servants know, and calls the bridegroom: \"Everyone serves the good wine first, and when the guests have drunk freely, then the inferior. You have kept the good wine until now!\" This beginning of his signs Jesus does in Cana of Galilee, \"and revealed his glory, and his disciples believed in him.\" After this he goes down to Capernaum with his mother, brothers, and disciples, and they stay a few days. The Passover of the Jews is near, and Jesus goes up to Jerusalem. In the temple he finds those selling oxen, sheep, and doves, and the changers of money sitting. Making a whip of cords, he drives them all out of the temple, with the sheep and oxen, pours out the changers' money, overthrows their tables, and tells the dove sellers, \"Take these things out of here! Don't make my Father's house a marketplace!\" His disciples remember that it is written, \"Zeal for your house will eat me up.\" The Jews ask, \"What sign do you show us, seeing that you do these things?\" Jesus answers, \"Destroy this temple, and in three days I will raise it up.\" They say, \"It has taken forty-six years to build this temple! Will you raise it up in three days?\" But he is speaking of the temple of his body; when he is raised from the dead, his disciples remember that he said this, and they believe the Scripture and the word he had said. While he is in Jerusalem at the Passover, many believe in his name when they see the signs he does, but Jesus does not entrust himself to them, because he knows all people and needs no one to testify about man, for he himself knows what is in man.",
+  "whySettingMatters": "John calls Jesus' miracles \"signs,\" acts that point beyond themselves to who he is, and says the wedding at Cana is the first. A Jewish wedding was a village-wide celebration lasting several days, and running out of wine would have been a serious social embarrassment for the host. \"Woman\" is a respectful form of address, not harsh, but it is unusual for a son to use it of his mother; \"my hour\" is John's term for the time of Jesus' death and glorification. The six stone jars were used for the washings of Jewish purity, and a metrete was about nine or ten gallons, so the total is some 120 to 180 gallons; stone was used because it didn't become unclean, and the water becomes wine, which is a sign of abundance and of the messianic feast in Isaiah 25. John puts the temple cleansing at the beginning of Jesus' ministry, while Matthew, Mark, and Luke put it in the last week; whether there were two cleansings or John has moved the event for his own purposes is debated. The money changers and animal sellers served pilgrims, who needed to exchange coins for the temple tax and buy sacrifices. The forty-six years refers to Herod's rebuilding of the temple, which began about 20 or 19 BC and would put this Passover around AD 27 or 28. \"Zeal for your house\" quotes Psalm 69:9. John adds the explanation that Jesus meant the temple of his body, which his disciples understood only after the resurrection.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Turns water into wine and drives out the sellers."
+    },
+    {
+      "id": "mary",
+      "note": "Notices the wine has run out, and tells the servants to obey him."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Believe after the sign, and remember later."
+    },
+    {
+      "id": "the-servants",
+      "note": "Fill the jars and know where the wine came from."
+    },
+    {
+      "id": "the-ruler-of-the-feast",
+      "note": "Tastes the wine, and praises the bridegroom."
+    },
+    {
+      "id": "the-jews",
+      "note": "The temple authorities who ask for a sign."
+    }
+  ],
+  "questions": [
+    "Jesus says his \"hour has not yet come\" and then acts. What is happening in that exchange with his mother?",
+    "John calls the miracle a \"sign.\" What does the wine point to?",
+    "Why might John have put the temple cleansing at the start instead of at the end?",
+    "\"Jesus did not entrust himself to them.\" How is he different from the people who believe because of the signs?"
+  ],
+  "words": [
+    {
+      "id": "semeion",
+      "note": "\"This beginning of his signs\" (2:11, 2:18, 2:23)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"He revealed his glory\" (2:11)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"His disciples believed in him\" (2:11, 2:22-24)."
+    },
+    {
+      "id": "hydor",
+      "note": "The water pots and the water made wine (2:7-9)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 69:9",
+      "note": "\"Zeal for your house will consume me\""
+    },
+    {
+      "ref": "Malachi 3:1",
+      "note": "the Lord suddenly comes to his temple"
+    },
+    {
+      "ref": "Mark 11:17",
+      "note": "\"My house shall be called a house of prayer\""
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

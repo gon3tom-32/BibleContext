@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "Breakfast on the beach, and Peter restored",
+  "summary": "After these things, Jesus revealed himself again to the disciples at the Sea of Tiberias. Simon Peter, Thomas called Didymus, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples are together. Simon Peter says, \"I'm going fishing,\" and they say, \"We are also coming with you.\" They go out and get into the boat, and that night they catch nothing. But when day is breaking, Jesus stands on the beach, though the disciples don't know that it is Jesus. He says, \"Children, have you anything to eat?\" \"No.\" \"Cast the net on the right side of the boat, and you will find some.\" They cast it, and now they are not able to draw it in for the multitude of fish. That disciple whom Jesus loved says to Peter, \"It's the Lord!\" When Simon Peter hears that it is the Lord, he wraps his coat around him, for he is naked, and throws himself into the sea. The other disciples come in the little boat, dragging the net full of fish, for they aren't far from the land, only about a hundred yards. When they get out on the land, they see a fire of coals there, with fish laid on it, and bread. Jesus says, \"Bring some of the fish which you have just caught.\" Simon Peter goes up and drags the net to land, full of one hundred fifty-three large fish, and though there are so many, the net isn't torn. Jesus says to them, \"Come and eat breakfast.\" None of the disciples dares to ask, \"Who are you?\" knowing it is the Lord. Jesus comes and takes the bread, gives it to them, and the fish likewise. This is now the third time that Jesus was revealed to his disciples after he had risen from the dead. When they have eaten, Jesus says to Simon Peter, \"Simon, son of Jonah, do you love me more than these?\" He says to him, \"Yes, Lord; you know that I have affection for you.\" He says to him, \"Feed my lambs.\" He says to him again a second time, \"Simon, son of Jonah, do you love me?\" \"Yes, Lord; you know that I have affection for you.\" \"Tend my sheep.\" He says to him the third time, \"Simon, son of Jonah, do you have affection for me?\" Peter is grieved because he asks him the third time, \"Do you have affection for me?\" and he says to him, \"Lord, you know everything. You know that I have affection for you.\" Jesus says to him, \"Feed my sheep. Most certainly I tell you, when you were young, you dressed yourself, and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you, and carry you where you don't want to go.\" Now he says this, signifying by what kind of death he would glorify God. When he has said this, he says to him, \"Follow me.\" Peter, turning around, sees the disciple whom Jesus loved following, who also had leaned on Jesus' breast at the supper and asked, \"Lord, who is it who betrays you?\" Seeing him, Peter says to Jesus, \"Lord, what about this man?\" Jesus says to him, \"If I desire that he stay until I come, what is that to you? You follow me.\" This saying therefore went out among the brothers that this disciple wouldn't die; yet Jesus didn't say to him that he wouldn't die, but, \"If I desire that he stay until I come, what is that to you?\" This is the disciple who testifies about these things, and wrote these things. \"We know that his witness is true.\" There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn't have room for the books that would be written.",
+  "whySettingMatters": "Chapter 21 reads as an epilogue added after the original ending at 20:30-31; the style and vocabulary match the rest of John, but the \"we know that his witness is true\" in verse 24 points to a community voice speaking about the beloved disciple. The Sea of Tiberias is the Sea of Galilee, named for the city Herod Antipas built. The catch of fish recalls the call of the first disciples in Luke 5, and the number, 153, has attracted many explanations (for example, the number of known species of fish, or a symbolic total); none is certain. The charcoal fire (Greek anthrakia) appears in the New Testament only here and in 18:18, in the courtyard where Peter denied Jesus; the three questions answer the three denials. Jesus calls Peter \"Simon, son of John\" (or Jonah in some manuscripts), the name he had before he was renamed. In Greek the first two questions use agapaō and Peter answers with phileō; some readers find a meaning in that difference, but many scholars take the two as synonyms used for variety in John. \"Feed my lambs,\" \"tend my sheep\" use three verbs and recall chapter 10 and Ezekiel 34. The prediction of Peter's old age is read as a reference to his martyrdom, which early tradition places in Rome. The story of the beloved disciple not dying shows a rumor in the early church that John clears up.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Risen, makes breakfast, and restores Peter."
+    },
+    {
+      "id": "peter",
+      "note": "Jumps into the sea and is asked three times, \"Do you love me?\""
+    },
+    {
+      "id": "thomas",
+      "note": "One of the seven fishing."
+    },
+    {
+      "id": "nathanael",
+      "note": "From Cana, one of the seven."
+    },
+    {
+      "id": "the-sons-of-zebedee",
+      "note": "James and John, in the boat."
+    },
+    {
+      "id": "the-beloved-disciple",
+      "note": "Recognizes the Lord and is the one who testified to these things."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Fishing, and then eating with him."
+    }
+  ],
+  "questions": [
+    "The disciples return to fishing after the resurrection. What do you make of that?",
+    "Jesus asks Peter three times, and each time gives him a task. What is being repaired?",
+    "\"What is that to you? You follow me.\" What does Peter have to learn about comparing himself?",
+    "John ends by saying the world couldn't hold all the books. What does that suggest about what a Gospel is?"
+  ],
+  "words": [
+    {
+      "id": "phileo",
+      "note": "\"You know that I have affection for you\" (21:15-17)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"Do you love me more than these?\" (21:15-16)."
+    },
+    {
+      "id": "bosko",
+      "note": "\"Feed my lambs\" (21:15, 21:17)."
+    },
+    {
+      "id": "poimaino",
+      "note": "\"Tend my sheep\" (21:16)."
+    },
+    {
+      "id": "anthrakia",
+      "note": "\"A fire of coals\" on the beach (21:9)."
+    },
+    {
+      "id": "martyreo",
+      "note": "\"The disciple who testifies about these things\" (21:24)."
+    },
+    {
+      "id": "doxazo",
+      "note": "\"By what kind of death he would glorify God\" (21:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Ezekiel 34:23",
+      "note": "I will set up one shepherd over them"
+    },
+    {
+      "ref": "Psalm 78:70-72",
+      "note": "David shepherded them with upright heart"
+    },
+    {
+      "ref": "Isaiah 40:11",
+      "note": "he will tend his flock like a shepherd"
+    },
+    {
+      "ref": "Luke 5:4-7",
+      "note": "an earlier catch so great the nets began to break"
+    },
+    {
+      "ref": "Acts 20:28",
+      "note": "care for the church of God"
+    }
+  ],
+  "number": 21,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

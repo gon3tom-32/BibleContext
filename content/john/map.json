@@ -1,0 +1,206 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "bethany-beyond-jordan",
+      "title": "John's witness beyond the Jordan",
+      "short": "Bethany beyond Jordan",
+      "refs": "John 1:19-51",
+      "chapter": 1,
+      "direction": "out",
+      "text": "John says he is not the Christ and points to Jesus as the Lamb of God; the first disciples follow."
+    },
+    {
+      "order": 2,
+      "placeId": "cana",
+      "title": "A wedding at Cana",
+      "short": "Cana",
+      "refs": "John 2:1-12; 4:46-54",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Jesus turns water into wine, and later heals an official's son from a distance."
+    },
+    {
+      "order": 3,
+      "placeId": "jerusalem",
+      "title": "First days in Jerusalem",
+      "short": "Jerusalem",
+      "refs": "John 2:13-3:21; 5:1-47",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Jesus clears the temple, speaks with Nicodemus by night, and heals at the pool."
+    },
+    {
+      "order": 4,
+      "placeId": "sychar",
+      "title": "A woman at Jacob's well",
+      "short": "Sychar",
+      "refs": "John 4:1-42",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Jesus talks with a Samaritan woman, and a town believes."
+    },
+    {
+      "order": 5,
+      "placeId": "capernaum",
+      "title": "The bread of life",
+      "short": "Capernaum",
+      "refs": "John 6",
+      "chapter": 6,
+      "direction": "out",
+      "text": "Near the Sea of Galilee, Jesus feeds five thousand, walks on the water, and teaches in the synagogue at Capernaum."
+    },
+    {
+      "order": 6,
+      "placeId": "bethany",
+      "title": "Lazarus at Bethany",
+      "short": "Bethany",
+      "refs": "John 11:1-12:11",
+      "chapter": 11,
+      "direction": "out",
+      "text": "Jesus raises Lazarus, and Mary anoints his feet."
+    },
+    {
+      "order": 7,
+      "placeId": "jerusalem",
+      "title": "The last days in Jerusalem",
+      "short": "Jerusalem",
+      "refs": "John 12:12-20:31",
+      "chapter": 12,
+      "direction": "out",
+      "text": "Jesus enters the city, washes the disciples' feet, is arrested, crucified, and buried; the tomb is found empty."
+    },
+    {
+      "order": 8,
+      "placeId": "tiberias",
+      "title": "By the Sea of Tiberias",
+      "short": "Sea of Tiberias",
+      "refs": "John 21",
+      "chapter": 21,
+      "direction": "out",
+      "text": "The risen Jesus meets the disciples at the lake, and restores Peter."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 34.9,
+      "east": 36.15,
+      "south": 31.55,
+      "north": 33.0
+    },
+    "label": "Map of the land from Bethany and Jerusalem in the south to Capernaum in the north, drawn from real coordinates. Numbered stops mark where John's story moves.",
+    "stops": [
+      {
+        "order": 1,
+        "at": [
+          35.54,
+          31.84
+        ],
+        "label": "Beyond Jordan",
+        "labelSide": "right",
+        "locationNote": "Where \"Bethany beyond the Jordan\" was is debated, so the marker is placed east of the river for illustration."
+      },
+      {
+        "order": 2,
+        "at": "cana",
+        "label": "Cana",
+        "labelSide": "left"
+      },
+      {
+        "order": 3,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left",
+        "offset": [
+          -10,
+          -28
+        ]
+      },
+      {
+        "order": 4,
+        "at": "sychar",
+        "label": "Sychar",
+        "labelSide": "left"
+      },
+      {
+        "order": 5,
+        "at": "capernaum",
+        "label": "Capernaum",
+        "labelSide": "left",
+        "offset": [
+          -8,
+          -4
+        ]
+      },
+      {
+        "order": 6,
+        "at": "bethany",
+        "label": "Bethany",
+        "labelSide": "right",
+        "offset": [
+          18,
+          -2
+        ]
+      },
+      {
+        "order": 7,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left",
+        "offset": [
+          -10,
+          14
+        ],
+        "locationNote": "The same city as stop 3; the marker is offset to show it twice."
+      },
+      {
+        "order": 8,
+        "at": "tiberias",
+        "label": "Tiberias",
+        "labelSide": "right",
+        "offset": [
+          8,
+          6
+        ]
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "top-left",
+    "labelAt": {
+      "jordan": null,
+      "sea-of-galilee": null,
+      "great-sea": null,
+      "dead-sea": [
+        35.55,
+        31.6
+      ],
+      "galilee": [
+        35.35,
+        32.72
+      ],
+      "samaria": [
+        35.25,
+        32.15
+      ],
+      "judea": [
+        35.05,
+        31.62
+      ]
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Stop placements for Bethany beyond the Jordan are illustrative."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Stop placements for Bethany beyond the Jordan are illustrative."
+  }
+}

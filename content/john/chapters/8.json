@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "Light of the world, freedom, and a claim to be before Abraham",
+  "summary": "Some manuscripts place here the story of a woman caught in adultery, though it is missing from the oldest copies of John: at dawn Jesus teaches in the temple, and the scribes and Pharisees bring a woman caught in the act and say that the law of Moses commands that such a woman be stoned. \"What then do you say about her?\" Jesus stoops and writes on the ground with his finger. When they continue asking, he stands up and says, \"He who is without sin among you, let him throw the first stone at her.\" Beginning with the oldest, they go out one by one. Jesus asks, \"Woman, where are they? Did no one condemn you?\" \"No one, Lord.\" \"Neither do I condemn you. Go your way. From now on, sin no more.\" Then Jesus speaks to the people again: \"I am the light of the world. He who follows me will not walk in the darkness, but will have the light of life.\" The Pharisees say, \"You testify about yourself. Your testimony is not valid.\" He answers that even if he testifies about himself his testimony is true, for he knows where he came from and where he goes; and that in their law the testimony of two people is valid, and he is one who testifies about himself, and the Father who sent him testifies about him. \"You know neither me, nor my Father. If you knew me, you would know my Father also.\" No one seizes him, because his hour has not yet come. He tells them, \"I am going away, and you will seek me, and you will die in your sins. Where I go, you can't come.\" They ask, \"Who are you?\" and he says, \"Just what I have been saying to you from the beginning. ... When you have lifted up the Son of Man, then you will know that I am he, and I do nothing of myself, but as my Father taught me, I say these things.\" As he speaks, many believe in him. To the Jews who have believed him he says, \"If you remain in my word, then you are truly my disciples. You will know the truth, and the truth will make you free.\" They answer, \"We are Abraham's seed, and have never been in bondage to anyone. How do you say, 'You will be made free'?\" Jesus says, \"Most certainly I tell you, everyone who commits sin is the bondservant of sin. A bondservant doesn't live in the house forever. A son remains forever. If therefore the Son makes you free, you will be free indeed.\" He says they seek to kill him because his word has no place in them, and that they are doing what they have heard from their father. They insist, \"Our father is Abraham,\" and he says, \"If you were Abraham's children, you would do the works of Abraham.\" They say, \"We were not born of sexual immorality. We have one Father, God.\" Jesus replies that if God were their Father they would love him, \"for I proceeded and came out from God. ... You are of your father, the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn't stand in the truth, because there is no truth in him. ... Which of you convicts me of sin? If I tell the truth, why do you not believe me?\" They say, \"Don't we say well that you are a Samaritan and have a demon?\" Jesus answers, \"I don't have a demon, but I honor my Father. ... Most certainly, I tell you, if a person keeps my word, he will never see death.\" They answer, \"Now we know that you have a demon. Abraham died, and the prophets; and you say, 'If a man keeps my word, he will never taste of death.' Are you greater than our father Abraham, who died?\" Jesus says, \"Your father Abraham rejoiced to see my day. He saw it, and was glad.\" \"You are not yet fifty years old, and have you seen Abraham?\" \"Most certainly, I tell you, before Abraham came into being, I am.\" So they pick up stones to throw at him, but Jesus hides himself and goes out of the temple.",
+  "whySettingMatters": "The story of the woman caught in adultery (7:53 to 8:11) is not in the earliest and best manuscripts of John; it appears in different places in later copies, and some put it in Luke. Many scholars believe it is an authentic early tradition about Jesus that was added to John later, and whether to treat it as Scripture is debated; this site marks that. The \"I am the light of the world\" saying follows the Feast of Booths, when the temple was lit up at night by great lamps, according to later Jewish sources. The \"two witnesses\" argument draws on Deuteronomy 19:15. The claim \"the truth will make you free\" is answered with the claim of never having been slaves, which ignores Egypt and Babylon and Rome; Jesus talks about slavery to sin. Chapter 8 contains one of the most misused passages in the New Testament, the saying about \"your father, the devil\" (8:44). It has been used to justify hatred and violence against Jews. Most scholars read it as sharp polemic within a Jewish family quarrel, aimed at particular people who, John says, were seeking to kill Jesus, written in a time when John's community was in conflict with the synagogue; Jesus, the disciples, and the writer were all Jewish, and the passage is not about the Jewish people as a whole. \"Before Abraham was, I am\" uses the divine name, which is why they pick up stones to execute him for blasphemy.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Declares himself the light of the world and claims to be before Abraham."
+    },
+    {
+      "id": "the-woman-caught-in-adultery",
+      "note": "Brought before Jesus in the temple, and sent away free (in the passage some manuscripts include)."
+    },
+    {
+      "id": "the-pharisees",
+      "note": "Question his testimony."
+    },
+    {
+      "id": "the-jews-who-believed",
+      "note": "People who believed him, and then argued about Abraham."
+    },
+    {
+      "id": "abraham",
+      "note": "The ancestor of whom Jesus says \"he saw my day.\""
+    }
+  ],
+  "questions": [
+    "The passage about the woman is a debated text. What do you hear in it, and why do you think it was kept?",
+    "\"The truth will set you free.\" Free from what, in their conversation?",
+    "Jesus says \"before Abraham was, I am.\" Why did that provoke stones?",
+    "John 8:44 has been misused against Jewish people. How do we read it honestly in its setting?"
+  ],
+  "words": [
+    {
+      "id": "phos",
+      "note": "\"I am the light of the world\" (8:12)."
+    },
+    {
+      "id": "eleutheroo",
+      "note": "\"The truth will make you free\" (8:32-36)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Everyone who commits sin is the bondservant of sin\" (8:21, 8:24, 8:34, 8:46)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"A bondservant doesn't live in the house forever\" (8:33-35)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"You will know the truth\" (8:32, 8:40, 8:44-46)."
+    },
+    {
+      "id": "diabolos",
+      "note": "\"You are of your father, the devil\" (8:44)."
+    },
+    {
+      "id": "martyreo",
+      "note": "\"The Father who sent me testifies about me\" (8:13-18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 19:15",
+      "note": "two or three witnesses establish a matter"
+    },
+    {
+      "ref": "Exodus 3:14",
+      "note": "\"I AM WHO I AM\""
+    },
+    {
+      "ref": "Leviticus 20:10",
+      "note": "the penalty for adultery"
+    },
+    {
+      "ref": "Galatians 5:1",
+      "note": "for freedom Christ has set us free"
+    },
+    {
+      "ref": "Romans 8:2",
+      "note": "the law of the Spirit has set you free"
+    }
+  ],
+  "number": 8,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

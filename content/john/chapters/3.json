@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "A Pharisee comes by night, and John the Baptist steps back",
+  "summary": "There is a man of the Pharisees named Nicodemus, a ruler of the Jews, who comes to Jesus by night: \"Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.\" Jesus answers, \"Most certainly I tell you, unless one is born anew, he can't see the Kingdom of God.\" The Greek word can mean \"again\" or \"from above.\" Nicodemus says, \"How can a man be born when he is old? Can he enter a second time into his mother's womb, and be born?\" Jesus says, \"Unless one is born of water and spirit, he can't enter into the Kingdom of God. That which is born of the flesh is flesh. That which is born of the Spirit is spirit. Don't marvel that I said to you, 'You must be born anew.' The wind blows where it wants to, and you hear its sound, but don't know where it comes from and where it is going. So is everyone who is born of the Spirit.\" Nicodemus asks, \"How can these things be?\" and Jesus says, \"Are you the teacher of Israel, and don't understand these things?\" He speaks of earthly things and heavenly things, of the one who descended from heaven, the Son of Man, and says, \"As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life. For God so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life. For God didn't send his Son into the world to judge the world, but that the world should be saved through him. ... This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil. For everyone who does evil hates the light, and doesn't come to the light, lest his works would be exposed. But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.\" After this Jesus and his disciples go into the land of Judea and baptize, and John is also baptizing at Aenon near Salim because there is much water there, for John has not yet been thrown into prison. A dispute arises between John's disciples and a Jew about purification, and they come to John: \"Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.\" John answers, \"A man can receive nothing, unless it has been given him from heaven. ... He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom's voice. This, my joy, therefore is made full. He must increase, but I must decrease.\" Then follows a passage about the one who comes from above and is above all; he whom God has sent speaks God's words, for God gives the Spirit without measure. \"The Father loves the Son, and has given all things into his hand. One who believes in the Son has eternal life, but one who disobeys the Son won't see life, but the wrath of God remains on him.\"",
+  "whySettingMatters": "Nicodemus is a Pharisee and a member of the Sanhedrin (\"ruler of the Jews\"), a teacher who knows the Scriptures, and he comes at night, which may mean discretion, or darkness in John's symbolic sense; it is a matter of interpretation, and John uses \"night\" again when Judas leaves (13:30). The word \"anothen\" in 3:3 means both \"again\" and \"from above\"; Nicodemus hears one meaning and Jesus intends at least the other. This kind of double meaning, and misunderstanding, is a regular feature of John. \"Born of water and spirit\" has been read as natural birth and spiritual birth, as baptism and Spirit, or as a single phrase for cleansing and renewal as in Ezekiel 36:25-27; it is debated. Wind and spirit are the same word in Greek and Hebrew. \"Lifted up\" takes up Numbers 21:4-9 and also points to the cross, since John uses the verb for crucifixion and exaltation together. John 3:16-21 may be Jesus speaking or John's own comment; the original Greek has no quotation marks, and scholars are divided. Aenon near Salim is not certain; John's baptizing there \"because there was much water\" implies immersion. The \"friend of the bridegroom\" is the groom's best man, whose job is to bring the couple together and then step aside.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches a Pharisee about new birth and the love of God."
+    },
+    {
+      "id": "nicodemus",
+      "note": "A Pharisee and member of the council, who comes at night."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Baptizing near Salim, and glad to step aside."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Baptize in Judea with Jesus."
+    },
+    {
+      "id": "johns-disciples",
+      "note": "Worried that everyone is going to Jesus."
+    }
+  ],
+  "questions": [
+    "Nicodemus comes at night and leaves without an answer. What do you make of that?",
+    "\"Born anew\" or \"born from above.\" What is Jesus asking Nicodemus to give up?",
+    "John 3:16 sits inside a conversation about judgment and light. What does that context add?",
+    "John says, \"He must increase, but I must decrease.\" What does he see that his disciples don't?"
+  ],
+  "words": [
+    {
+      "id": "anothen",
+      "note": "\"Born anew\" or \"born from above\" (3:3, 3:7, 3:31)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"Born of the Spirit,\" and the wind blowing where it wants (3:5-8)."
+    },
+    {
+      "id": "hypsoo",
+      "note": "\"The Son of Man must be lifted up\" (3:14)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"Eternal life\" (3:15-16, 3:36)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"God so loved the world\" (3:16, 3:19, 3:35)."
+    },
+    {
+      "id": "krisis",
+      "note": "\"This is the judgment\" (3:19)."
+    },
+    {
+      "id": "monogenes",
+      "note": "\"His only born Son\" (3:16, 3:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Numbers 21:4-9",
+      "note": "Moses lifts up the bronze serpent"
+    },
+    {
+      "ref": "Ezekiel 36:25-27",
+      "note": "clean water and a new spirit"
+    },
+    {
+      "ref": "Romans 5:8",
+      "note": "God shows his love for us"
+    },
+    {
+      "ref": "1 John 4:9-10",
+      "note": "God sent his only Son into the world"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

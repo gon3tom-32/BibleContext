@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "The empty tomb, Mary in the garden, and Thomas",
+  "summary": "On the first day of the week, Mary Magdalene comes early, while it is still dark, to the tomb and sees the stone taken away. She runs to Simon Peter and the other disciple, whom Jesus loved: \"They have taken away the Lord out of the tomb, and we don't know where they have laid him!\" Peter and the other disciple go toward the tomb, both running together. The other disciple outruns Peter and arrives first, stoops to look in, and sees the linen cloths lying there, but doesn't go in. Simon Peter follows and goes into the tomb, and sees the linen cloths lying, and the cloth that was around Jesus' head not lying with the linen cloths but rolled up in a place by itself. Then the other disciple also goes in, and sees and believes. For as yet they didn't know the Scripture, that he must rise from the dead. The disciples go back to their homes. But Mary stands outside at the tomb weeping, and as she weeps she stoops to look in and sees two angels in white sitting, one at the head and the other at the feet, where the body of Jesus had lain. \"Woman, why are you weeping?\" \"Because they have taken away my Lord, and I don't know where they have laid him.\" Having said this, she turns around and sees Jesus standing there, and doesn't know that it is Jesus. \"Woman, why are you weeping? Who are you looking for?\" Supposing him to be the gardener, she says, \"Sir, if you have carried him away, tell me where you have laid him, and I will take him away.\" Jesus says to her, \"Mary.\" She turns and says to him, \"Rabboni!\" (which is to say, \"Teacher\"). Jesus says to her, \"Don't touch me, for I haven't yet ascended to my Father; but go to my brothers, and tell them, 'I am ascending to my Father and your Father, to my God and your God.'\" Mary Magdalene comes and tells the disciples, \"I have seen the Lord,\" and that he had said these things to her. When it is evening on that day, the first day of the week, and the doors are locked where the disciples were, for fear of the Jews, Jesus comes and stands in the middle, and says to them, \"Peace be to you.\" When he has said this, he shows them his hands and his side. The disciples are glad when they see the Lord. Jesus says again, \"Peace be to you. As the Father has sent me, even so I send you.\" When he has said this, he breathes on them and says, \"Receive the Holy Spirit! If you forgive anyone's sins, they are forgiven them. If you retain anyone's sins, they have been retained.\" But Thomas, one of the twelve, called Didymus, isn't with them when Jesus comes. The other disciples tell him, \"We have seen the Lord!\" But he says, \"Unless I see in his hands the print of the nails, and put my finger into the print of the nails, and put my hand into his side, I will not believe.\" After eight days again his disciples are inside, and Thomas is with them. Jesus comes, the doors being locked, and stands in the middle: \"Peace be to you.\" Then he says to Thomas, \"Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don't be unbelieving, but believing.\" Thomas answers him, \"My Lord and my God!\" Jesus says to him, \"Thomas, because you have seen me, you have believed. Blessed are those who have not seen, and have believed.\" Then John says that Jesus did many other signs in the presence of his disciples which are not written in this book, \"but these are written, that you may believe that Jesus is the Christ, the Son of God; and that believing you may have life in his name.\"",
+  "whySettingMatters": "John's resurrection narrative is more personal than the others: it is told through Mary, Peter, the beloved disciple, and Thomas. \"The first day of the week\" is Sunday, and the \"still dark\" is both time and tone. The linen strips and the face cloth, neatly left, suggest that the body was not stolen by anyone in a hurry; the beloved disciple \"saw and believed,\" though John adds that they had not yet understood the Scripture. Mary sees two angels without being impressed, and takes Jesus for a gardener, and recognizes him only when he says her name, which fits John 10:3 (\"he calls his own sheep by name\"). \"Don't touch me\" is literally \"stop clinging to me\" (the form suggests continuing action), and the reason, \"for I haven't yet ascended,\" is debated. Jesus calls the disciples \"my brothers,\" and says \"my Father and your Father,\" which is new in John. The doors locked \"for fear of the Jews\" shows the state of the disciples, and \"Peace be to you\" is both the common greeting and a gift. The sending, \"as the Father has sent me, so I send you,\" is John's commission. His breathing on them recalls God breathing life into Adam (Genesis 2:7) and the breath in Ezekiel 37:9; this is John's Pentecost. How to read the authority to forgive or retain sins is debated across traditions. Thomas' confession, \"My Lord and my God,\" is the high point of the Gospel; it answers the opening claim that the Word was God. Verses 30 and 31 read as the book's original ending, and chapter 21 is an addition.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Risen; calls Mary by name, breathes on the disciples, and meets Thomas."
+    },
+    {
+      "id": "mary-magdalene",
+      "note": "The first to find the tomb and the first to see him."
+    },
+    {
+      "id": "peter",
+      "note": "Runs to the tomb and goes in first."
+    },
+    {
+      "id": "the-beloved-disciple",
+      "note": "Gets there first, and sees and believes."
+    },
+    {
+      "id": "the-two-angels",
+      "note": "Sitting where the body had been."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Behind locked doors, then glad."
+    },
+    {
+      "id": "thomas",
+      "note": "Won't believe unless he sees, and then confesses, \"My Lord and my God!\""
+    }
+  ],
+  "questions": [
+    "Mary didn't recognize Jesus until he said her name. What does that say about how we know him?",
+    "\"As the Father has sent me, I send you.\" What does that sending look like for the disciples in the room?",
+    "Thomas wants to see and touch. Is Jesus' response a rebuke, an accommodation, or both?",
+    "John says he wrote \"that you may believe\" and \"have life in his name.\" How does that purpose shape the whole book?"
+  ],
+  "words": [
+    {
+      "id": "egeiro",
+      "note": "The tomb, and the Scripture that he must \"rise\" (20:9)."
+    },
+    {
+      "id": "rabbouni",
+      "note": "\"Rabboni!\" (20:16)."
+    },
+    {
+      "id": "apostello",
+      "note": "\"As the Father has sent me, even so I send you\" (20:21)."
+    },
+    {
+      "id": "emphysao",
+      "note": "\"He breathed on them\" (20:22)."
+    },
+    {
+      "id": "aphiemi",
+      "note": "\"If you forgive anyone's sins\" (20:23)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"My Lord and my God!\" (20:2, 20:13-28)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"Blessed are those who have not seen, and have believed,\" and \"that you may believe\" (20:8, 20:25-31)."
+    },
+    {
+      "id": "semeion",
+      "note": "\"Many other signs\" (20:30)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Peace be to you\" (20:19-26)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 2:7",
+      "note": "God breathed into his nostrils the breath of life"
+    },
+    {
+      "ref": "Psalm 16:10",
+      "note": "you will not abandon my soul to Sheol"
+    },
+    {
+      "ref": "Ezekiel 37:9",
+      "note": "come from the four winds, O breath"
+    },
+    {
+      "ref": "Psalm 22:22",
+      "note": "I will tell of your name to my brothers"
+    }
+  ],
+  "number": 20,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

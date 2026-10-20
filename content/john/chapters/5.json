@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "A man healed at a pool on the Sabbath, and Jesus speaks of his work with the Father",
+  "summary": "After this there is a feast of the Jews, and Jesus goes up to Jerusalem. By the sheep gate is a pool called Bethesda in Hebrew, with five porches, in which a crowd of sick, blind, lame, and paralyzed people lie. One man has been sick for thirty-eight years. Jesus sees him lying there, knows he has been there a long time, and asks, \"Do you want to be made well?\" The man answers, \"Sir, I have no one to put me into the pool when the water is stirred up, but while I'm coming, another steps down before me.\" Jesus says, \"Arise, take up your mat, and walk.\" At once the man is made well and takes up his mat and walks. Now it is the Sabbath, and the Jews say to the man who was cured, \"It is the Sabbath. It is not lawful for you to carry the mat.\" He answers, \"He who made me well, the same said to me, 'Take up your mat, and walk.'\" They ask who it was, but the man doesn't know, for Jesus has slipped away. Later Jesus finds him in the temple: \"Behold, you are made well. Sin no more, so that nothing worse happens to you.\" The man tells the Jews it was Jesus, and they begin persecuting Jesus because he did these things on the Sabbath. He answers, \"My Father is still working, so I am working, too.\" For this the Jews seek all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, making himself equal with God. Jesus says, \"Most certainly I tell you, the Son can do nothing of himself, but what he sees the Father doing. For whatever things he does, these the Son also does likewise. For the Father loves the Son, and shows him all things that he himself does. ... For as the Father raises the dead and gives them life, even so the Son also gives life to whom he desires. For the Father judges no one, but he has given all judgment to the Son.\" \"Most certainly I tell you, he who hears my word, and believes him who sent me, has eternal life, and doesn't come into judgment, but has passed out of death into life. ... The hour comes, and now is, when the dead will hear the Son of God's voice, and those who hear will live.\" He says that all who are in the tombs will hear his voice and come out, \"those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.\" He speaks of the witnesses to him: John, who bore witness to the truth; the works that the Father gave him to accomplish; the Father himself; and the Scriptures. \"You search the Scriptures, because you think that in them you have eternal life; these are they which testify about me. Yet you will not come to me, that you may have life.\" \"Don't think that I will accuse you to the Father. There is one who accuses you, even Moses, in whom you have set your hope. For if you believed Moses, you would believe me; for he wrote about me.\"",
+  "whySettingMatters": "The feast is not named; some manuscripts read \"the feast,\" and scholars debate which one it was. Bethesda (also written Bethzatha) was a pair of pools near the Sheep Gate, north of the temple, and excavations have found the remains of a pool with porticoes. Some manuscripts add that an angel stirred the water and the first in was healed (verse 4, with part of verse 3); most scholars think this was a later explanation, since the oldest manuscripts leave it out. Carrying a mat on the Sabbath counted as work under the rules developed from Jeremiah 17:21-22, and the argument starts there. In John, \"the Jews\" most often means the Jerusalem authorities, not the Jewish people as a whole, since Jesus, his disciples, and the crowds are themselves Jewish. Jesus' defense is that God works even on the Sabbath, as the world goes on and children are born, and by calling God \"my Father\" he claims a unique relationship, which his hearers rightly take as a claim to equality. The speech that follows is about authority: the Son does what he sees the Father do, gives life, and judges. Jewish law required two or three witnesses to establish a matter (Deuteronomy 19:15), and Jesus lists four. \"Search the Scriptures\" could be a command or a statement; either way, he says they point to him. Moses \"accuses\" them because they have set their hope on him as lawgiver.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Heals a man on the Sabbath and speaks of the Father and the Son."
+    },
+    {
+      "id": "the-man-at-bethesda",
+      "note": "Sick for thirty-eight years; made well, he reports Jesus to the authorities."
+    },
+    {
+      "id": "the-jews",
+      "note": "The authorities who persecute Jesus for what he does on the Sabbath."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Named as a witness to the truth."
+    }
+  ],
+  "questions": [
+    "\"Do you want to be made well?\" seems an odd question to ask. What is Jesus doing by asking it?",
+    "The man reports Jesus to the authorities. How do you read that, and what does Jesus say when he finds him?",
+    "Jesus says the Son does what he sees the Father doing. What does that say about who he is?",
+    "He says the Scriptures testify about him and people won't come. How can someone know the Bible and still miss the point?"
+  ],
+  "words": [
+    {
+      "id": "hygies",
+      "note": "\"Do you want to be made well?\" (5:6, 5:9, 5:11, 5:14-15)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"My Father is still working, so I am working, too,\" and the works that testify (5:17, 5:20, 5:36)."
+    },
+    {
+      "id": "zoopoieo",
+      "note": "\"The Son also gives life to whom he desires\" (5:21)."
+    },
+    {
+      "id": "graphe",
+      "note": "\"You search the Scriptures\" (5:39)."
+    },
+    {
+      "id": "krisis",
+      "note": "\"The Father has given all judgment to the Son\" (5:22, 5:24, 5:27-30)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"Arise, take up your mat\" (5:8), and \"raises the dead\" (5:21)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 17:21-22",
+      "note": "do not carry a burden on the Sabbath"
+    },
+    {
+      "ref": "Daniel 12:2",
+      "note": "those who sleep in the dust will awake"
+    },
+    {
+      "ref": "Deuteronomy 18:15",
+      "note": "a prophet like Moses"
+    },
+    {
+      "ref": "Luke 24:27",
+      "note": "beginning with Moses, he explained the Scriptures about himself"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

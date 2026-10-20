@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "A woman at Jacob's well in Samaria, and an official's son healed",
+  "summary": "When Jesus learns that the Pharisees have heard he is making and baptizing more disciples than John, he leaves Judea and goes again to Galilee, and he \"must pass through Samaria.\" He comes to a city of Samaria called Sychar, near the parcel of ground Jacob gave to his son Joseph, where Jacob's well is. Jesus, being tired from his journey, sits by the well. It is about the sixth hour, around noon. A woman of Samaria comes to draw water, and Jesus says, \"Give me a drink.\" His disciples have gone away into the city to buy food. The woman says, \"How is it that you, being a Jew, ask for a drink from me, a Samaritan woman?\" (For Jews have no dealings with Samaritans.) Jesus says, \"If you knew the gift of God, and who it is who says to you, 'Give me a drink,' you would have asked him, and he would have given you living water.\" \"Sir, you have nothing to draw with, and the well is deep. From where then have you that living water? Are you greater than our father Jacob?\" Jesus answers, \"Everyone who drinks of this water will thirst again, but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.\" \"Sir, give me this water, that I may not thirst.\" \"Go, call your husband.\" \"I have no husband.\" \"You said well, 'I have no husband,' for you have had five husbands; and he whom you now have is not your husband.\" \"Sir, I perceive that you are a prophet. Our fathers worshiped in this mountain, and you say that in Jerusalem is the place where people ought to worship.\" Jesus says, \"Woman, believe me, the hour comes, when neither in this mountain, nor in Jerusalem, will you worship the Father. You worship that which you don't know. We worship that which we know; for salvation is from the Jews. But the hour comes, and now is, when the true worshippers will worship the Father in spirit and truth, for the Father seeks such to be his worshippers. God is spirit, and those who worship him must worship in spirit and truth.\" The woman says, \"I know that Messiah comes, he who is called Christ. When he has come, he will declare to us all things.\" Jesus says, \"I am he, the one who speaks to you.\" The disciples return and marvel that he is speaking with a woman, but no one asks why. The woman leaves her water pot, goes into the city, and says, \"Come, see a man who told me everything that I did. Can this be the Christ?\" They go out to him. Meanwhile the disciples urge him to eat, and he says, \"I have food to eat that you don't know about ... My food is to do the will of him who sent me, and to accomplish his work. ... Behold, I tell you, lift up your eyes, and look at the fields, that they are white for harvest.\" Many of the Samaritans from that city believe because of the woman's testimony, and when they come they ask him to stay, and he stays two days. Many more believe because of his word, and they tell the woman, \"Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Savior of the world.\" After two days he goes to Galilee, where the Galileans welcome him, having seen all he did at the feast. He comes again to Cana, where he had made the water wine, and a certain royal official whose son is sick at Capernaum goes to him and begs him to come and heal his son. Jesus says, \"Unless you see signs and wonders, you will in no way believe.\" \"Sir, come down before my child dies.\" \"Go your way. Your son lives.\" The man believes the word that Jesus spoke to him and goes. On the way his servants meet him: \"Your child lives!\" He asks what hour he began to get better, and they say, \"Yesterday at the seventh hour the fever left him,\" and the father knows it was the very hour Jesus had said, \"Your son lives.\" He believes, and all his household. This is again the second sign that Jesus did, having come out of Judea into Galilee.",
+  "whySettingMatters": "Samaria lay between Judea and Galilee, and Jews often avoided it by going around, but John says Jesus \"had to\" go through, which signals purpose. Samaritans were descended from the northern kingdom and the peoples resettled there by Assyria, and they accepted only the five books of Moses and worshiped on Mount Gerizim; the Jews had destroyed their temple there around 128 BC. The disciples' surprise, and the woman's, reflect both the ethnic and gender barriers. Jacob's well near Sychar (near ancient Shechem) is a real site, still shown today, and about a hundred feet deep. The sixth hour is noon; many have read the woman's coming at that hour as avoiding other women, though John gives no reason. The five husbands have been read literally, or as standing for the five foreign gods the Samaritans' ancestors brought (2 Kings 17:24-34); it is debated. \"Living water\" meant fresh flowing water, as against still well water, and also prepares for the Spirit (7:37-39). Jesus' \"I am he\" is the first of John's \"I am\" statements, and to the woman, a Samaritan, he declares himself Messiah. \"Savior of the world\" in 4:42 is a title that also was used for the Roman emperor, and John applies it to Jesus through the words of Samaritans. The royal official was in the service of Herod Antipas, and this is the second Cana sign, a healing at a distance by a word.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Tired and thirsty, he speaks with a Samaritan woman and heals an official's son."
+    },
+    {
+      "id": "the-samaritan-woman",
+      "note": "Comes to the well at noon, and leaves her water jar to tell her town."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Return with food, surprised he is talking to a woman."
+    },
+    {
+      "id": "the-samaritans-of-sychar",
+      "note": "Ask him to stay and say he is the Savior of the world."
+    },
+    {
+      "id": "the-royal-official",
+      "note": "Takes Jesus at his word, and goes home to find his son alive."
+    }
+  ],
+  "questions": [
+    "Jesus asks a Samaritan woman for a drink. What does he cross by doing that?",
+    "The woman asks about where to worship, and Jesus answers about how. What does worship in spirit and truth ask of us?",
+    "She leaves her jar and goes to tell the town. What does that say about what happened to her?",
+    "The official believes Jesus' word before he sees anything. How is that different from Nicodemus or the crowd in Jerusalem?"
+  ],
+  "words": [
+    {
+      "id": "hydor",
+      "note": "\"Living water\" (4:10-15)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "\"The true worshippers will worship the Father in spirit and truth\" (4:20-24)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"In spirit and truth\" (4:23-24)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"God is spirit\" (4:23-24)."
+    },
+    {
+      "id": "soter",
+      "note": "\"The Savior of the world\" (4:42)."
+    },
+    {
+      "id": "semeion",
+      "note": "\"The second sign that Jesus did\" (4:48, 4:54)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "The woman's town believes, and the official \"believed the word\" (4:39-42, 4:50-53)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 33:19",
+      "note": "Jacob buys the parcel of ground at Shechem"
+    },
+    {
+      "ref": "Jeremiah 2:13",
+      "note": "the fountain of living waters"
+    },
+    {
+      "ref": "Isaiah 12:3",
+      "note": "drawing water from the wells of salvation"
+    },
+    {
+      "ref": "Deuteronomy 11:29",
+      "note": "the blessing set on Mount Gerizim"
+    },
+    {
+      "ref": "2 Kings 17:24-34",
+      "note": "peoples settled in Samaria worship their own gods"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
