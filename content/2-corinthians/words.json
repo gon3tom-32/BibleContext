@@ -3637,5 +3637,1494 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "perisseia",
+    "transliteration": "perisseía",
+    "original": "περισσεία",
+    "pronunciation": "per-is-SAY-ah",
+    "gloss": "abundance, overflow",
+    "notes": "Overflowing amount, more than enough. In 8:2 \"the abundance of their joy\" overflowed in poverty into generosity; in 10:15 Paul hopes his area will be enlarged \"abundantly.\"",
+    "range": [
+      {
+        "sense": "Abundance",
+        "note": "More than enough."
+      },
+      {
+        "sense": "Excess",
+        "note": "Overflow."
+      }
+    ],
+    "translations": [
+      "abundance",
+      "overflow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 5:17",
+        "note": "Those who receive the abundance of grace."
+      },
+      {
+        "ref": "James 1:21",
+        "note": "Putting away all filthiness and overflow of wickedness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ptocheia",
+    "transliteration": "ptōcheía",
+    "original": "πτωχεία",
+    "pronunciation": "pto-KHAY-ah",
+    "gloss": "poverty",
+    "notes": "Extreme poverty, being a beggar (not just \"having little\"). In 8:2 the Macedonians' \"deep poverty\" overflowed in generosity, and in 8:9 Christ \"became poor.\"",
+    "range": [
+      {
+        "sense": "Poverty",
+        "note": "Having nothing."
+      },
+      {
+        "sense": "Destitution",
+        "note": "Lacking basic needs."
+      }
+    ],
+    "translations": [
+      "poverty"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Revelation 2:9",
+        "note": "I know your works, your oppression, and your poverty."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ptocheuo",
+    "transliteration": "ptōcheúō",
+    "original": "πτωχεύω",
+    "pronunciation": "pto-KHYOO-oh",
+    "gloss": "to become poor",
+    "notes": "To become a beggar, to be poor. In 8:9, \"though he was rich, yet for your sakes he became poor.\" It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Become poor",
+        "note": "Lose wealth."
+      },
+      {
+        "sense": "Give up status",
+        "note": "Take a lower place."
+      }
+    ],
+    "translations": [
+      "become poor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 8:9",
+        "note": "Though he was rich, yet for your sakes he became poor."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "plousios",
+    "transliteration": "ploúsios",
+    "original": "πλούσιος",
+    "pronunciation": "PLOO-see-os",
+    "gloss": "rich",
+    "notes": "Wealthy. In 8:9, \"though he was rich\" refers to Christ's heavenly standing before becoming human, in a verse about giving.",
+    "range": [
+      {
+        "sense": "Rich",
+        "note": "Having wealth."
+      },
+      {
+        "sense": "Abundant",
+        "note": "Lacking nothing."
+      }
+    ],
+    "translations": [
+      "rich"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 12:16",
+        "note": "The ground of a certain rich man brought forth abundantly."
+      },
+      {
+        "ref": "James 2:5",
+        "note": "Has not God chosen those who are poor to the world to be rich in faith?"
+      },
+      {
+        "ref": "Revelation 3:17",
+        "note": "You say, I am rich."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epiteleo",
+    "transliteration": "epiteléō",
+    "original": "ἐπιτελέω",
+    "pronunciation": "ep-ee-tel-EH-oh",
+    "gloss": "to complete, to finish",
+    "notes": "To finish what has been started. Paul urges Titus to \"complete\" the collection (8:6) and the Corinthians to \"finish the doing\" (8:11), and in 7:1 to be \"perfecting holiness.\"",
+    "range": [
+      {
+        "sense": "Complete",
+        "note": "Bring to an end."
+      },
+      {
+        "sense": "Perfect",
+        "note": "Bring to completion."
+      }
+    ],
+    "translations": [
+      "complete",
+      "finish",
+      "perfect"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:28",
+        "note": "When I have completed this, and have sealed to them this fruit."
+      },
+      {
+        "ref": "Philippians 1:6",
+        "note": "He who began a good work will complete it."
+      },
+      {
+        "ref": "Hebrews 8:5",
+        "note": "They serve a copy."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prothymia",
+    "transliteration": "prothymía",
+    "original": "προθυμία",
+    "pronunciation": "proth-oo-MEE-ah",
+    "gloss": "readiness, eagerness",
+    "notes": "Willingness, a ready mind. In 8:11-12, the readiness to want to give, which Paul says is as important as the gift itself: \"if the readiness is there, it is acceptable according to what one has.\"",
+    "range": [
+      {
+        "sense": "Readiness",
+        "note": "Eagerness to act."
+      },
+      {
+        "sense": "Willingness",
+        "note": "Good will."
+      }
+    ],
+    "translations": [
+      "readiness",
+      "eagerness",
+      "willingness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 17:11",
+        "note": "They received the word with all readiness of mind."
+      },
+      {
+        "ref": "2 Corinthians 9:2",
+        "note": "I know your readiness."
+      },
+      {
+        "ref": "2 Corinthians 8:19",
+        "note": "To show our readiness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "authairetos",
+    "transliteration": "authaíretos",
+    "original": "αὐθαίρετος",
+    "pronunciation": "ow-THAH-ee-reh-tos",
+    "gloss": "of one's own accord",
+    "notes": "Acting freely, by one's own choice (autos \"self\" plus haireomai \"to choose\"). In 8:3 the Macedonians gave of their own accord; in 8:17 Titus goes to Corinth the same way.",
+    "range": [
+      {
+        "sense": "Voluntary",
+        "note": "Chosen freely."
+      },
+      {
+        "sense": "Of one's own accord",
+        "note": "Without being asked."
+      }
+    ],
+    "translations": [
+      "of their own accord",
+      "willing of themselves"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 8:3",
+        "note": "They gave of their own accord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dokime",
+    "transliteration": "dokimḗ",
+    "original": "δοκιμή",
+    "pronunciation": "dok-ee-MAY",
+    "gloss": "proof, tested character",
+    "notes": "The result of testing, proven character or a proof. Paul says the Macedonians gave under \"a severe test\" (8:2), writes to test them (2:9; 8:8), and says the Corinthians seek \"proof\" that Christ speaks in him (13:3).",
+    "range": [
+      {
+        "sense": "Proof",
+        "note": "Evidence from testing."
+      },
+      {
+        "sense": "Tested character",
+        "note": "What is shown by a trial."
+      }
+    ],
+    "translations": [
+      "proof",
+      "test",
+      "approved character"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 5:4",
+        "note": "Perseverance produces proven character."
+      },
+      {
+        "ref": "Philippians 2:22",
+        "note": "You know the proof of him."
+      },
+      {
+        "ref": "2 Corinthians 13:3",
+        "note": "You seek proof that Christ speaks in me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hadrotes",
+    "transliteration": "hadrótēs",
+    "original": "ἁδρότης",
+    "pronunciation": "had-ROT-ace",
+    "gloss": "abundance, lavishness",
+    "notes": "Fullness or lavishness. In 8:20, Paul speaks of \"this abundance\" of the gift, which he is careful to handle honorably. It appears only here.",
+    "range": [
+      {
+        "sense": "Lavishness",
+        "note": "Great amount."
+      },
+      {
+        "sense": "Fullness",
+        "note": "Abundance."
+      }
+    ],
+    "translations": [
+      "abundance",
+      "liberal gift"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 8:20",
+        "note": "This abundance which is administered by us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "isotes",
+    "transliteration": "isótēs",
+    "original": "ἰσότης",
+    "pronunciation": "ee-SOT-ace",
+    "gloss": "equality, fairness",
+    "notes": "Equality or fairness. In 8:13-14 Paul says the aim of the collection is \"equality,\" so that each one's abundance supplies another's need, quoting the manna story where everyone had enough. The word appears in Colossians 4:1 for fair treatment of slaves.",
+    "range": [
+      {
+        "sense": "Equality",
+        "note": "Being on the same level."
+      },
+      {
+        "sense": "Fairness",
+        "note": "Equal treatment."
+      }
+    ],
+    "translations": [
+      "equality",
+      "fairness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Colossians 4:1",
+        "note": "Give to your servants that which is just and equal."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "speiro",
+    "transliteration": "speírō",
+    "original": "σπείρω",
+    "pronunciation": "SPY-ro",
+    "gloss": "to sow",
+    "notes": "To scatter seed. In 9:6-10 it is the picture for giving: \"he who sows sparingly will also reap sparingly.\" Jesus used the same image in the parable of the sower.",
+    "range": [
+      {
+        "sense": "Sow",
+        "note": "Scatter seed."
+      },
+      {
+        "sense": "Give",
+        "note": "Invest freely."
+      }
+    ],
+    "translations": [
+      "sow",
+      "sowing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:3",
+        "note": "A sower went out to sow."
+      },
+      {
+        "ref": "Galatians 6:7",
+        "note": "Whatever a man sows, that he will also reap."
+      },
+      {
+        "ref": "1 Corinthians 9:11",
+        "note": "If we sowed to you spiritual things."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "therizo",
+    "transliteration": "therízō",
+    "original": "θερίζω",
+    "pronunciation": "ther-ID-zo",
+    "gloss": "to reap, to harvest",
+    "notes": "To harvest crops. In 9:6, \"he who sows sparingly will also reap sparingly,\" a general principle of giving and receiving.",
+    "range": [
+      {
+        "sense": "Reap",
+        "note": "Harvest."
+      },
+      {
+        "sense": "Gather",
+        "note": "Collect results."
+      }
+    ],
+    "translations": [
+      "reap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:26",
+        "note": "They don't sow, nor reap."
+      },
+      {
+        "ref": "Galatians 6:7",
+        "note": "He will also reap."
+      },
+      {
+        "ref": "John 4:36",
+        "note": "He who reaps receives wages."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sporos",
+    "transliteration": "spóros",
+    "original": "σπόρος",
+    "pronunciation": "SPOR-os",
+    "gloss": "seed for sowing",
+    "notes": "Seed, the grain set aside for sowing. In 9:10, God \"supplies seed to the sower\" and will multiply \"your seed for sowing.\"",
+    "range": [
+      {
+        "sense": "Seed",
+        "note": "Grain for planting."
+      },
+      {
+        "sense": "Resources",
+        "note": "What is provided to give."
+      }
+    ],
+    "translations": [
+      "seed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 4:26",
+        "note": "As if a man should cast seed on the earth."
+      },
+      {
+        "ref": "Luke 8:5",
+        "note": "A farmer went out to sow his seed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epichoregeo",
+    "transliteration": "epichorēgéō",
+    "original": "ἐπιχορηγέω",
+    "pronunciation": "ep-ee-khor-ay-GEH-oh",
+    "gloss": "to supply, to provide generously",
+    "notes": "To furnish abundantly, from the old word for paying the costs of a chorus. In 9:10, God \"supplies seed to the sower\" and \"will supply and multiply\" the Corinthians' seed.",
+    "range": [
+      {
+        "sense": "Supply",
+        "note": "Furnish in full."
+      },
+      {
+        "sense": "Provide generously",
+        "note": "Give lavishly."
+      }
+    ],
+    "translations": [
+      "supply",
+      "provide"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:5",
+        "note": "Supplies the Spirit to you."
+      },
+      {
+        "ref": "Colossians 2:19",
+        "note": "The body, being supplied and knit together."
+      },
+      {
+        "ref": "2 Peter 1:5",
+        "note": "Supply moral excellence."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hilaros",
+    "transliteration": "hilarós",
+    "original": "ἱλαρός",
+    "pronunciation": "hil-ar-OS",
+    "gloss": "cheerful",
+    "notes": "Cheerful, joyful, glad, from which we get \"hilarious.\" In 9:7, \"God loves a cheerful giver,\" reflecting a Greek version of Proverbs 22:8.",
+    "range": [
+      {
+        "sense": "Cheerful",
+        "note": "Glad."
+      },
+      {
+        "sense": "Joyful",
+        "note": "Full of good humor."
+      }
+    ],
+    "translations": [
+      "cheerful"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 9:7",
+        "note": "God loves a cheerful giver."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "autarkeia",
+    "transliteration": "autárkeia",
+    "original": "αὐτάρκεια",
+    "pronunciation": "ow-TAR-kay-ah",
+    "gloss": "sufficiency, contentment",
+    "notes": "Self-sufficiency in the sense of having enough. In 9:8, \"always having all sufficiency in everything,\" God makes it possible. In Greek philosophy it meant being independent; Paul roots it in God's supply.",
+    "range": [
+      {
+        "sense": "Sufficiency",
+        "note": "Having enough."
+      },
+      {
+        "sense": "Contentment",
+        "note": "Satisfaction with what one has."
+      }
+    ],
+    "translations": [
+      "sufficiency",
+      "contentment"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Timothy 6:6",
+        "note": "Godliness with contentment is great gain."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "leitourgia",
+    "transliteration": "leitourgía",
+    "original": "λειτουργία",
+    "pronunciation": "lye-toor-GEE-ah",
+    "gloss": "service, public service",
+    "notes": "Public service, often at one's own expense, and religious service in the temple. It gives us \"liturgy.\" Paul calls the collection \"the service of this ministry\" (9:12), a priestly image of the gift.",
+    "range": [
+      {
+        "sense": "Public service",
+        "note": "Work for the community."
+      },
+      {
+        "sense": "Priestly service",
+        "note": "Temple ministry."
+      }
+    ],
+    "translations": [
+      "service",
+      "ministry"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:23",
+        "note": "When the days of his service were fulfilled."
+      },
+      {
+        "ref": "Philippians 2:30",
+        "note": "To supply what was lacking in your service."
+      },
+      {
+        "ref": "Hebrews 8:6",
+        "note": "He has obtained a more excellent ministry."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "homologia",
+    "transliteration": "homología",
+    "original": "ὁμολογία",
+    "pronunciation": "hom-ol-og-EE-ah",
+    "gloss": "confession, agreement",
+    "notes": "A statement of faith, a public confession (from homologeō, \"to say the same\"). In 9:13, the Corinthians' generosity is a sign of their \"obedience to the confession of the Good News of Christ.\"",
+    "range": [
+      {
+        "sense": "Confession",
+        "note": "What is publicly declared."
+      },
+      {
+        "sense": "Agreement",
+        "note": "Saying the same thing."
+      }
+    ],
+    "translations": [
+      "confession",
+      "profession"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Timothy 6:12",
+        "note": "You confessed the good confession."
+      },
+      {
+        "ref": "Hebrews 3:1",
+        "note": "The Apostle and High Priest of our confession."
+      },
+      {
+        "ref": "Hebrews 4:14",
+        "note": "Let's hold tightly to our confession."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "noema",
+    "transliteration": "nóēma",
+    "original": "νόημα",
+    "pronunciation": "NO-ay-mah",
+    "gloss": "thought, scheme",
+    "notes": "A thought, purpose, or scheme, the product of the mind (nous). In 10:5, Paul takes \"every thought\" captive to Christ; in 2:11 he says \"we are not ignorant of his schemes.\"",
+    "range": [
+      {
+        "sense": "Thought",
+        "note": "What the mind produces."
+      },
+      {
+        "sense": "Scheme",
+        "note": "A plan, often devious."
+      }
+    ],
+    "translations": [
+      "thought",
+      "scheme",
+      "mind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Philippians 4:7",
+        "note": "The peace of God will guard your hearts and your thoughts."
+      },
+      {
+        "ref": "2 Corinthians 3:14",
+        "note": "Their minds were hardened."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekphobeo",
+    "transliteration": "ekphobéō",
+    "original": "ἐκφοβέω",
+    "pronunciation": "ek-fob-EH-oh",
+    "gloss": "to frighten, to terrify",
+    "notes": "To scare someone, from phobos, \"fear.\" In 10:9 Paul says he does not want to \"terrify\" the Corinthians by his letters, answering a charge that he is bold only on paper.",
+    "range": [
+      {
+        "sense": "Terrify",
+        "note": "Cause great fear."
+      },
+      {
+        "sense": "Intimidate",
+        "note": "Scare into obedience."
+      }
+    ],
+    "translations": [
+      "terrify",
+      "frighten"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 10:9",
+        "note": "That I may not seem as if I would terrify you by my letters."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kanon",
+    "transliteration": "kanṓn",
+    "original": "κανών",
+    "pronunciation": "kan-OWN",
+    "gloss": "measuring rod, limit, sphere",
+    "notes": "A straight rod used for measuring, then a rule or standard (we get \"canon\"), and a limit or assigned area. In 10:13-16, Paul speaks of the \"field\" or limit God assigned to his mission.",
+    "range": [
+      {
+        "sense": "Measuring rod",
+        "note": "A ruler."
+      },
+      {
+        "sense": "Rule",
+        "note": "A standard."
+      },
+      {
+        "sense": "Sphere",
+        "note": "An assigned area."
+      }
+    ],
+    "translations": [
+      "field",
+      "sphere",
+      "limit",
+      "rule"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 6:16",
+        "note": "As many as walk by this rule, peace be on them."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metron",
+    "transliteration": "métron",
+    "original": "μέτρον",
+    "pronunciation": "MET-ron",
+    "gloss": "measure",
+    "notes": "A measure, an amount or limit (we get \"meter\"). In 10:13, Paul says he will not boast \"beyond our measure,\" meaning outside the limits God has given him.",
+    "range": [
+      {
+        "sense": "Measure",
+        "note": "An amount."
+      },
+      {
+        "sense": "Limit",
+        "note": "A boundary."
+      }
+    ],
+    "translations": [
+      "measure",
+      "limit"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:2",
+        "note": "With whatever measure you measure, it will be measured to you."
+      },
+      {
+        "ref": "Ephesians 4:7",
+        "note": "According to the measure of the gift of Christ."
+      },
+      {
+        "ref": "Revelation 21:15",
+        "note": "A golden reed to measure the city."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epistole",
+    "transliteration": "epistolḗ",
+    "original": "ἐπιστολή",
+    "pronunciation": "ep-is-tol-AY",
+    "gloss": "letter",
+    "notes": "A letter, a written message (we get \"epistle\"). In 2 Corinthians it appears often: letters of recommendation (3:1-3), the severe letter (7:8), and Paul's letters, which his critics call \"weighty and strong\" (10:9-11).",
+    "range": [
+      {
+        "sense": "Letter",
+        "note": "A written message."
+      },
+      {
+        "sense": "Epistle",
+        "note": "A formal letter."
+      }
+    ],
+    "translations": [
+      "letter",
+      "epistle"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:22",
+        "note": "I, Tertius, who write the letter."
+      },
+      {
+        "ref": "Acts 15:30",
+        "note": "They delivered the letter."
+      },
+      {
+        "ref": "Colossians 4:16",
+        "note": "When this letter has been read among you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "barys",
+    "transliteration": "barýs",
+    "original": "βαρύς",
+    "pronunciation": "bar-OOS",
+    "gloss": "heavy, weighty",
+    "notes": "Heavy, weighty, burdensome. In 10:10 Paul's critics say his letters are \"weighty and strong,\" even if he is weak in person.",
+    "range": [
+      {
+        "sense": "Heavy",
+        "note": "Having weight."
+      },
+      {
+        "sense": "Weighty",
+        "note": "Having impact."
+      }
+    ],
+    "translations": [
+      "weighty",
+      "heavy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 23:4",
+        "note": "They bind heavy burdens."
+      },
+      {
+        "ref": "Acts 20:29",
+        "note": "Fierce wolves will come in among you."
+      },
+      {
+        "ref": "1 John 5:3",
+        "note": "His commandments are not heavy."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exoutheneo",
+    "transliteration": "exoutheneō",
+    "original": "ἐξουθενέω",
+    "pronunciation": "ex-oo-then-EH-oh",
+    "gloss": "to despise, to treat as nothing",
+    "notes": "To treat as of no account, to look down on. In 10:10 Paul's critics say his speech is \"despised\" or \"of no account.\"",
+    "range": [
+      {
+        "sense": "Despise",
+        "note": "Hold in contempt."
+      },
+      {
+        "sense": "Disregard",
+        "note": "Treat as nothing."
+      }
+    ],
+    "translations": [
+      "despise",
+      "ignored",
+      "count as nothing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 18:9",
+        "note": "Some who trusted in themselves and despised others."
+      },
+      {
+        "ref": "Romans 14:3",
+        "note": "Don't let him who eats not despise him who eats."
+      },
+      {
+        "ref": "1 Corinthians 1:28",
+        "note": "God chose the things that are despised."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kathairesis",
+    "transliteration": "kathaíresis",
+    "original": "καθαίρεσις",
+    "pronunciation": "kath-AH-ee-reh-sis",
+    "gloss": "tearing down, demolition",
+    "notes": "The act of pulling down, as of a building. In 10:4 the weapons of warfare are \"mighty for the demolition of strongholds,\" and in 10:8 Paul says his authority is for building up, \"not for tearing down\" (also 13:10).",
+    "range": [
+      {
+        "sense": "Demolition",
+        "note": "Pulling down."
+      },
+      {
+        "sense": "Destruction",
+        "note": "Overthrow."
+      }
+    ],
+    "translations": [
+      "tearing down",
+      "demolition",
+      "destruction"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 13:10",
+        "note": "The authority which the Lord gave me for building up, and not for tearing down."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "praytes",
+    "transliteration": "prautēs",
+    "original": "πραΰτης",
+    "pronunciation": "prah-OO-tace",
+    "gloss": "gentleness, meekness",
+    "notes": "Gentleness, a strength under control. In 10:1 Paul appeals \"by the gentleness and graciousness of Christ,\" a point that stands against the way his critics saw him.",
+    "range": [
+      {
+        "sense": "Gentleness",
+        "note": "Strength under control."
+      },
+      {
+        "sense": "Meekness",
+        "note": "Humility before God."
+      }
+    ],
+    "translations": [
+      "gentleness",
+      "meekness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Colossians 3:12",
+        "note": "Put on kindness, humility, gentleness, and patience."
+      },
+      {
+        "ref": "Ephesians 4:2",
+        "note": "With all humility and gentleness."
+      },
+      {
+        "ref": "James 1:21",
+        "note": "Receive with gentleness the implanted word."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epieikeia",
+    "transliteration": "epieíkeia",
+    "original": "ἐπιείκεια",
+    "pronunciation": "ep-ee-I-kee-ah",
+    "gloss": "graciousness, gentleness",
+    "notes": "Graciousness, a willingness to yield for the sake of mercy or fairness. In 10:1 it is paired with praytes in the appeal \"by the meekness and gentleness of Christ.\"",
+    "range": [
+      {
+        "sense": "Graciousness",
+        "note": "Kindness beyond what is strictly required."
+      },
+      {
+        "sense": "Fairness",
+        "note": "Reasonableness."
+      }
+    ],
+    "translations": [
+      "gentleness",
+      "graciousness",
+      "forbearance"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 24:4",
+        "note": "That you would hear us briefly in your kindness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "strateia",
+    "transliteration": "strateía",
+    "original": "στρατεία",
+    "pronunciation": "strat-I-ah",
+    "gloss": "warfare, campaign",
+    "notes": "A military campaign, warfare. In 10:4, \"the weapons of our warfare are not of the flesh.\" Paul uses the picture to speak of spiritual conflict.",
+    "range": [
+      {
+        "sense": "Warfare",
+        "note": "A campaign."
+      },
+      {
+        "sense": "Military service",
+        "note": "Soldiering."
+      }
+    ],
+    "translations": [
+      "warfare",
+      "campaign"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Timothy 1:18",
+        "note": "That by them you may wage the good warfare."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ochyroma",
+    "transliteration": "ochýrōma",
+    "original": "ὀχύρωμα",
+    "pronunciation": "okh-OO-ro-mah",
+    "gloss": "stronghold, fortress",
+    "notes": "A fortified place, a stronghold. In 10:4, the weapons of Paul's warfare are \"mighty to destroy strongholds,\" a picture for arguments and attitudes that resist the knowledge of God. It appears only here.",
+    "range": [
+      {
+        "sense": "Fortress",
+        "note": "A place built to resist."
+      },
+      {
+        "sense": "Stronghold",
+        "note": "A firm defense."
+      }
+    ],
+    "translations": [
+      "stronghold",
+      "fortress"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 10:4",
+        "note": "Mighty before God to the throwing down of strongholds."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aichmalotizo",
+    "transliteration": "aichmalōtízō",
+    "original": "αἰχμαλωτίζω",
+    "pronunciation": "aik-mal-o-TID-zo",
+    "gloss": "to take captive",
+    "notes": "To capture in war, to take prisoner. In 10:5 Paul says \"we take every thought captive to the obedience of Christ.\"",
+    "range": [
+      {
+        "sense": "Take captive",
+        "note": "Capture."
+      },
+      {
+        "sense": "Subdue",
+        "note": "Bring under control."
+      }
+    ],
+    "translations": [
+      "take captive",
+      "captivate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 21:24",
+        "note": "They will be led captive into all the nations."
+      },
+      {
+        "ref": "Romans 7:23",
+        "note": "Bringing me into captivity to the law of sin."
+      },
+      {
+        "ref": "2 Timothy 3:6",
+        "note": "They captivate weak women."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apostolos",
+    "transliteration": "apostolos",
+    "original": "ἀπόστολος",
+    "pronunciation": "ah-POSS-toh-loss",
+    "gloss": "apostle, one sent",
+    "notes": "One sent out, an apostle. The brothers who travel with Titus are \"messengers of the churches\" (8:23); Paul says opponents are \"false apostles\" (11:13) and compares himself with the \"super-apostles\" (11:5; 12:11).",
+    "range": [
+      {
+        "sense": "Messenger",
+        "note": "Someone sent with a message."
+      },
+      {
+        "sense": "Envoy",
+        "note": "Someone sent to act with the sender's authority."
+      },
+      {
+        "sense": "The apostles",
+        "note": "The twelve, and later others such as Paul."
+      }
+    ],
+    "translations": [
+      "apostle",
+      "messenger",
+      "one who is sent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 6:13",
+        "note": "Whom he also named apostles."
+      },
+      {
+        "ref": "Acts 1:26",
+        "note": "Numbered with the eleven apostles."
+      },
+      {
+        "ref": "1 Corinthians 15:7",
+        "note": "Then to all the apostles."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eulogia",
+    "transliteration": "eulogía",
+    "original": "εὐλογία",
+    "pronunciation": "yoo-log-EE-ah",
+    "gloss": "blessing",
+    "notes": "A blessing, a generous gift. Paul says the Corinthians' gift should be ready \"as a matter of generosity, not as an extortion\" (9:5), and \"he who sows bountifully\" (9:6) literally means \"with blessings.\"",
+    "range": [
+      {
+        "sense": "Blessing",
+        "note": "A good word spoken."
+      },
+      {
+        "sense": "Praise",
+        "note": "Words of thanks."
+      }
+    ],
+    "translations": [
+      "blessing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:29",
+        "note": "In the fullness of the blessing of Christ."
+      },
+      {
+        "ref": "Ephesians 1:3",
+        "note": "Blessed us with every spiritual blessing."
+      },
+      {
+        "ref": "Revelation 5:12",
+        "note": "Worthy is the Lamb... to receive blessing."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hysterema",
+    "transliteration": "hystérēma",
+    "original": "ὑστέρημα",
+    "pronunciation": "hoo-STAIR-ay-mah",
+    "gloss": "what is lacking, deficiency",
+    "notes": "What is lacking, a deficiency. The collection \"supplies the lack of the saints\" (9:12), and Paul says the Macedonians \"supplied the lack\" for him (11:9).",
+    "range": [
+      {
+        "sense": "Lack",
+        "note": "What is missing."
+      },
+      {
+        "sense": "Need",
+        "note": "What someone requires."
+      }
+    ],
+    "translations": [
+      "what was lacking",
+      "deficiency",
+      "need"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 21:4",
+        "note": "Out of her poverty she put in all that she had."
+      },
+      {
+        "ref": "2 Corinthians 8:14",
+        "note": "Your abundance at this present time supplies their lack."
+      },
+      {
+        "ref": "Philippians 2:30",
+        "note": "To supply what was lacking in your service toward me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarx",
+    "transliteration": "sarx",
+    "original": "σάρξ",
+    "pronunciation": "SARKS",
+    "gloss": "flesh",
+    "notes": "Flesh, human nature. \"Though we walk in the flesh, we don't wage war according to the flesh\" (10:2-4); \"I do not plan according to the flesh\" (1:17).",
+    "range": [
+      {
+        "sense": "Flesh",
+        "note": "The body."
+      },
+      {
+        "sense": "Humanity",
+        "note": "Human nature."
+      },
+      {
+        "sense": "Weakness",
+        "note": "Mortal life."
+      }
+    ],
+    "translations": [
+      "flesh",
+      "body",
+      "human nature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:5",
+        "note": "Those who live according to the flesh."
+      },
+      {
+        "ref": "Galatians 5:17",
+        "note": "The flesh lusts against the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hypakoe",
+    "transliteration": "hypakoē",
+    "original": "ὑπακοή",
+    "pronunciation": "hoop-ak-o-AY",
+    "gloss": "obedience",
+    "notes": "Obedience. \"Bringing every thought into captivity to the obedience of Christ\" (10:5-6) and the Corinthians' obedience (7:15).",
+    "range": [
+      {
+        "sense": "Obedience",
+        "note": "Listening and doing."
+      },
+      {
+        "sense": "Submission",
+        "note": "Yielding to authority."
+      }
+    ],
+    "translations": [
+      "obedience"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 10:5",
+        "note": "Take every thought captive to obey Christ."
+      },
+      {
+        "ref": "Hebrews 5:8",
+        "note": "He learned obedience through what he suffered."
+      },
+      {
+        "ref": "1 Peter 1:2",
+        "note": "For obedience to Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "Authority. \"The authority which the Lord gave me for building up\" (10:8; 13:10).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "All authority has been given to me."
+      },
+      {
+        "ref": "Colossians 1:13",
+        "note": "Delivered from the power of darkness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikodome",
+    "transliteration": "oikodomē",
+    "original": "οἰκοδομή",
+    "pronunciation": "oy-kod-om-AY",
+    "gloss": "building up, edification",
+    "notes": "Building up. Paul's authority is \"for building up, and not for tearing down\" (10:8; 12:19; 13:10).",
+    "range": [
+      {
+        "sense": "Building up",
+        "note": "Strengthening."
+      },
+      {
+        "sense": "Edification",
+        "note": "Spiritual growth."
+      },
+      {
+        "sense": "Building",
+        "note": "A structure."
+      }
+    ],
+    "translations": [
+      "build up",
+      "edification",
+      "building"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 14:19",
+        "note": "Pursue the things that build up one another."
+      },
+      {
+        "ref": "Ephesians 2:21",
+        "note": "The whole building, fitted together."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dorea",
+    "transliteration": "dōreá",
+    "original": "δωρεά",
+    "pronunciation": "do-reh-AH",
+    "gloss": "gift, free gift",
+    "notes": "A gift freely given, with nothing asked in return. In 9:15, \"thanks be to God for his indescribable gift!\" Elsewhere it is used for the gift of the Spirit (Acts 2:38) and of righteousness (Romans 5:17).",
+    "range": [
+      {
+        "sense": "Free gift",
+        "note": "Given without payment."
+      },
+      {
+        "sense": "Grace-gift",
+        "note": "A gift from God."
+      }
+    ],
+    "translations": [
+      "gift"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 2:38",
+        "note": "You will receive the gift of the Holy Spirit."
+      },
+      {
+        "ref": "Romans 5:17",
+        "note": "The gift of righteousness."
+      },
+      {
+        "ref": "Ephesians 4:7",
+        "note": "According to the measure of the gift of Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anekdiegetos",
+    "transliteration": "anekdiḗgētos",
+    "original": "ἀνεκδιήγητος",
+    "pronunciation": "an-ek-dee-AY-gay-tos",
+    "gloss": "indescribable",
+    "notes": "Too great to describe (an- \"not\" plus ek-diēgeomai \"to tell in full\"). In 9:15, Paul ends his appeal with thanks \"for his indescribable gift,\" generally taken to mean Christ or God's grace. It appears only here.",
+    "range": [
+      {
+        "sense": "Indescribable",
+        "note": "Beyond words."
+      },
+      {
+        "sense": "Unspeakable",
+        "note": "Too great to tell."
+      }
+    ],
+    "translations": [
+      "indescribable",
+      "unspeakable"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 9:15",
+        "note": "Thanks be to God for his indescribable gift."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

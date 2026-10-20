@@ -1,0 +1,130 @@
+{
+  "sceneHappening": "Sowing generously and giving cheerfully: the purpose of the collection",
+  "summary": "Paul says it is superfluous to write about the service to the saints, since he knows their readiness and has boasted about it to the Macedonians, saying that Achaia was ready a year ago, and their zeal has stirred up most of them. Yet he sends the brothers so that their boasting may not be empty and so that, if Macedonians come with him and find them unprepared, they would be ashamed. He wants their gift to be ready as a willing gift, not as an extortion. \"Now this I say: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully. Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver.\" God is able to make all grace abound to them, so that always having all sufficiency in everything, they may abound to every good work, as it is written, \"He has scattered abroad. He has given to the needy. His righteousness remains forever.\" He who supplies seed to the sower and bread for food will supply and multiply their seed for sowing, and increase the fruits of their righteousness, so that they are enriched in everything to all generosity, which produces thanksgiving to God through Paul and his companions. The service not only supplies the needs of the saints but overflows in many thanksgivings to God, and through the proof of this service they will glorify God for their obedience to the confession of Christ's Good News and for the generosity of their sharing with them and with all, while the saints long for them and pray for them because of the surpassing grace of God in them. \"Now thanks be to God for his unspeakable gift!\"",
+  "whySettingMatters": "In the ancient world, a gift usually carried the expectation of something returned, and the giver gained honor from the one who received. Paul turns that around: the aim of the gift is not honor for the Corinthians but \"thanksgiving to God\" and the unity of Jewish and Gentile believers, who will pray for each other. His agricultural pictures (sowing and reaping, seed and bread) draw on Proverbs 11:24-25 and Psalm 112:9. It is worth noticing what the passage does not teach: it does not promise wealth to givers, but promises that God will supply what they need so that they may keep giving. \"God loves a cheerful giver\" draws on Proverbs 22:8 in the Greek translation. Paul is also candid about social pressure: he mentions that his boasting to the Macedonians about Corinth could embarrass them. The \"indescribable gift\" in 9:15 is not defined but is generally taken to mean Christ, or God's grace as a whole.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Encourages cheerful, planned giving."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Their readiness had been a boast to others."
+    },
+    {
+      "id": "the-macedonian-churches",
+      "note": "Stirred by Corinth's zeal, now might visit with Paul."
+    },
+    {
+      "id": "the-poor-in-jerusalem",
+      "note": "Would pray for the givers and give thanks to God."
+    }
+  ],
+  "questions": [
+    "\"Not reluctantly or under compulsion.\" How does Paul make room for giving that is both planned and free?",
+    "Paul links giving to thanksgiving. How could giving be an act of worship?",
+    "The promise is that God will provide what is needed to keep giving, not riches. How does that change how you read the passage?",
+    "What is the \"indescribable gift\" Paul thanks God for at the end?"
+  ],
+  "words": [
+    {
+      "id": "speiro",
+      "note": "\"He who sows sparingly will also reap sparingly\" (9:6, 9:10)."
+    },
+    {
+      "id": "therizo",
+      "note": "\"Will also reap sparingly\" and \"bountifully\" (9:6)."
+    },
+    {
+      "id": "sporos",
+      "note": "\"He who supplies seed to the sower\" (9:10)."
+    },
+    {
+      "id": "epichoregeo",
+      "note": "\"Supplies seed to the sower\" (9:10)."
+    },
+    {
+      "id": "eulogia",
+      "note": "\"Sow bountifully\" (literally \"with blessings\") and \"a willing gift\" (9:5-6)."
+    },
+    {
+      "id": "hilaros",
+      "note": "\"God loves a cheerful giver\" (9:7)."
+    },
+    {
+      "id": "lype",
+      "note": "\"Not grudgingly\" (9:7)."
+    },
+    {
+      "id": "anagke",
+      "note": "\"Or under compulsion\" (9:7)."
+    },
+    {
+      "id": "autarkeia",
+      "note": "\"Always having all sufficiency in everything\" (9:8)."
+    },
+    {
+      "id": "perisseuo",
+      "note": "\"God is able to make all grace abound to you\" (9:8, 9:12)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The surpassing grace of God in you\" (9:8, 9:14-15)."
+    },
+    {
+      "id": "haplotes",
+      "note": "\"Enriched in everything to all generosity\" (9:11, 9:13)."
+    },
+    {
+      "id": "ploutizo",
+      "note": "\"Being enriched in everything\" (9:11)."
+    },
+    {
+      "id": "leitourgia",
+      "note": "\"The service of this ministry\" (9:12)."
+    },
+    {
+      "id": "hysterema",
+      "note": "\"Supplies the lack of the saints\" (9:12)."
+    },
+    {
+      "id": "homologia",
+      "note": "\"Your obedience to your confession\" (9:13)."
+    },
+    {
+      "id": "dorea",
+      "note": "\"His unspeakable gift\" (9:15)."
+    },
+    {
+      "id": "anekdiegetos",
+      "note": "\"Unspeakable\" or \"indescribable\" (9:15)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"The generosity of your sharing\" (9:13)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 11:24-25",
+      "note": "one gives freely, yet grows all the richer"
+    },
+    {
+      "ref": "Psalm 112:9",
+      "note": "he has distributed freely, he has given to the poor"
+    },
+    {
+      "ref": "Luke 6:38",
+      "note": "give, and it will be given to you"
+    },
+    {
+      "ref": "Philippians 4:15-19",
+      "note": "my God will supply every need of yours"
+    }
+  ],
+  "number": 9,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

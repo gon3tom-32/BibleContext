@@ -651,7 +651,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 16:18",
+          "inDataset": true,
+          "votes": 25
+        },
+        {
+          "ref": "Acts 11:27-30",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Romans 15:25-27",
+          "inDataset": true,
+          "votes": 8
+        },
+        {
+          "ref": "Philippians 2:5-8",
+          "inDataset": true,
+          "votes": 36
+        }
+      ]
     },
     {
       "number": 9,
@@ -715,7 +736,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Proverbs 11:24-25",
+          "inDataset": true,
+          "votes": 92
+        },
+        {
+          "ref": "Psalm 112:9",
+          "inDataset": true,
+          "votes": 49
+        },
+        {
+          "ref": "Luke 6:38",
+          "inDataset": true,
+          "votes": 44
+        },
+        {
+          "ref": "Philippians 4:15-19",
+          "inDataset": true,
+          "votes": 95
+        }
+      ]
     },
     {
       "number": 10,
@@ -777,7 +819,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Ephesians 6:10-17",
+          "inDataset": true,
+          "votes": 52
+        },
+        {
+          "ref": "Jeremiah 9:23-24",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Galatians 2:7-9",
+          "inDataset": true,
+          "votes": 2
+        },
+        {
+          "ref": "1 Corinthians 2:1-5",
+          "inDataset": true,
+          "votes": 48
+        }
+      ]
     },
     {
       "number": 11,
