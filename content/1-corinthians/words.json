@@ -1015,5 +1015,967 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "zyme",
+    "transliteration": "zýmē",
+    "original": "ζύμη",
+    "pronunciation": "ZOO-may",
+    "gloss": "yeast, leaven",
+    "notes": "Yeast or sourdough starter, a bit of old dough that makes new dough rise. Because a small amount spreads through the whole lump, it became a picture for something small that spreads, usually evil in the New Testament. At Passover, Jews removed all leaven from their homes (Exodus 12). Paul uses the picture in 5:6-8 and Galatians 5:9.",
+    "range": [
+      {
+        "sense": "Yeast",
+        "note": "Fermenting dough."
+      },
+      {
+        "sense": "Corrupting influence",
+        "note": "Something that spreads."
+      }
+    ],
+    "translations": [
+      "yeast",
+      "leaven"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:6",
+        "note": "Beware of the yeast of the Pharisees."
+      },
+      {
+        "ref": "Luke 13:21",
+        "note": "The kingdom is like yeast a woman hid in flour."
+      },
+      {
+        "ref": "Galatians 5:9",
+        "note": "A little yeast leavens the whole lump."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekkathairo",
+    "transliteration": "ekkathaírō",
+    "original": "ἐκκαθαίρω",
+    "pronunciation": "ek-kath-AH-ee-ro",
+    "gloss": "to clean out",
+    "notes": "To clean out thoroughly. Paul says \"clean out the old yeast\" (5:7) as Jewish households searched their homes to remove leaven before Passover.",
+    "range": [
+      {
+        "sense": "Clean out",
+        "note": "Remove completely."
+      },
+      {
+        "sense": "Purge",
+        "note": "Clear away."
+      }
+    ],
+    "translations": [
+      "purge out",
+      "clean out"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Timothy 2:21",
+        "note": "If anyone cleanses himself from these, he will be a vessel for honor."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "\"Christ, our Passover, has been sacrificed\" (5:7).",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:7",
+        "note": "The day of Unleavened Bread came, when the Passover lamb must be sacrificed."
+      },
+      {
+        "ref": "Matthew 26:17",
+        "note": "The disciples ask where to prepare the Passover."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "porneia",
+    "transliteration": "porneia",
+    "original": "πορνεία",
+    "pronunciation": "por-NAY-ah",
+    "gloss": "sexual immorality",
+    "notes": "Paul begins with a case of porneia \"not even among the Gentiles\" (5:1), and tells them to \"flee porneia\" (6:18).",
+    "uncertain": "Exactly what porneia covers in Jesus' exception (adultery, an unlawful marriage, or sexual sin more broadly) is debated, as is how the clause relates to Mark and Luke, which don't have it.",
+    "range": [
+      {
+        "sense": "Sexual immorality",
+        "note": "Sexual sin of any kind."
+      },
+      {
+        "sense": "Prostitution",
+        "note": "The earliest sense, from the word for a prostitute."
+      },
+      {
+        "sense": "Unlawful marriage",
+        "note": "As in Leviticus 18, which Acts 15 echoes."
+      }
+    ],
+    "translations": [
+      "sexual immorality",
+      "unchastity",
+      "fornication",
+      "marital unfaithfulness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:19",
+        "note": "From the heart come sexual immorality."
+      },
+      {
+        "ref": "Acts 15:20",
+        "note": "Abstain from sexual immorality."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradidomi",
+    "transliteration": "paradidōmi",
+    "original": "παραδίδωμι",
+    "pronunciation": "pah-rah-DEE-doh-mee",
+    "gloss": "to hand over, betray",
+    "notes": "\"Deliver such a one to Satan\" (5:5).",
+    "range": [
+      {
+        "sense": "Hand over",
+        "note": "Give someone into another's custody."
+      },
+      {
+        "sense": "Betray",
+        "note": "Hand over by treachery."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Pass something on, as a teaching."
+      }
+    ],
+    "translations": [
+      "betray",
+      "hand over",
+      "deliver",
+      "give over"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:24",
+        "note": "God gave them up to uncleanness."
+      },
+      {
+        "ref": "1 Timothy 1:20",
+        "note": "Whom I delivered to Satan, that they might learn not to blaspheme."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kosmos",
+    "transliteration": "kosmos",
+    "original": "κόσμος",
+    "pronunciation": "KOS-mos",
+    "gloss": "world, order",
+    "notes": "\"You would have to leave the world\" (5:10); \"the saints will judge the world\" (6:2).",
+    "range": [
+      {
+        "sense": "World",
+        "note": "The created universe."
+      },
+      {
+        "sense": "Humanity",
+        "note": "The human world."
+      },
+      {
+        "sense": "The world system",
+        "note": "Human society opposed to God."
+      }
+    ],
+    "translations": [
+      "world",
+      "universe",
+      "humanity"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 3:16",
+        "note": "God so loved the world."
+      },
+      {
+        "ref": "John 1:10",
+        "note": "He was in the world, and the world was made through him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sarx",
+    "transliteration": "sarx",
+    "original": "σάρξ",
+    "pronunciation": "SARKS",
+    "gloss": "flesh",
+    "notes": "\"The destruction of the flesh\" (5:5).",
+    "range": [
+      {
+        "sense": "Flesh",
+        "note": "The body."
+      },
+      {
+        "sense": "Humanity",
+        "note": "Human nature."
+      },
+      {
+        "sense": "Weakness",
+        "note": "Mortal life."
+      }
+    ],
+    "translations": [
+      "flesh",
+      "body",
+      "human nature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:5",
+        "note": "Those who live according to the flesh."
+      },
+      {
+        "ref": "Galatians 5:17",
+        "note": "The flesh lusts against the Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kleronomeo",
+    "transliteration": "klēronoméō",
+    "original": "κληρονομέω",
+    "pronunciation": "klay-ron-om-EH-oh",
+    "gloss": "to inherit",
+    "notes": "To inherit, to receive as an heir. Used in the Old Testament for inheriting the land, and in the New Testament for inheriting the Kingdom or eternal life. Paul says the unrighteous \"will not inherit the Kingdom of God\" (6:9-10).",
+    "range": [
+      {
+        "sense": "Inherit",
+        "note": "Receive as an heir."
+      },
+      {
+        "sense": "Possess",
+        "note": "Come into ownership of."
+      }
+    ],
+    "translations": [
+      "inherit"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:5",
+        "note": "The meek will inherit the earth."
+      },
+      {
+        "ref": "Matthew 25:34",
+        "note": "Inherit the kingdom prepared for you."
+      },
+      {
+        "ref": "Galatians 5:21",
+        "note": "Those who do such things will not inherit the kingdom of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "malakos",
+    "transliteration": "malakós",
+    "original": "μαλακός",
+    "pronunciation": "mah-lah-KOS",
+    "gloss": "soft",
+    "notes": "Soft, as in soft clothing (Matthew 11:8). In 6:9 it is one of the words in the list of wrongdoers, where its meaning is debated: commentators have taken it to mean morally weak, effeminate, or a passive partner in a same-sex relationship. Read this verse alongside commentaries on the word.",
+    "range": [
+      {
+        "sense": "Soft",
+        "note": "Of cloth or touch."
+      },
+      {
+        "sense": "Debated in 6:9",
+        "note": "Meaning unclear."
+      }
+    ],
+    "translations": [
+      "soft",
+      "effeminate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:8",
+        "note": "A man dressed in soft clothing."
+      },
+      {
+        "ref": "Luke 7:25",
+        "note": "A man dressed in soft clothing."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "arsenokoites",
+    "transliteration": "arsenokoítēs",
+    "original": "ἀρσενοκοίτης",
+    "pronunciation": "ar-sen-ok-OY-tace",
+    "gloss": "one who lies with a male (debated)",
+    "notes": "A rare word that appears first in the New Testament, in 1 Corinthians 6:9 and 1 Timothy 1:10. It is made of two words, \"male\" and \"bed.\" Its precise meaning is debated: some take it to refer to male same-sex intercourse, perhaps echoing Leviticus 18:22 and 20:13 in Greek, and others to some form of exploitation. Look at the discussion in commentaries.",
+    "range": [
+      {
+        "sense": "Male-bed",
+        "note": "Literal parts of the word."
+      },
+      {
+        "sense": "Debated",
+        "note": "Exact meaning is disputed."
+      }
+    ],
+    "translations": [
+      "homosexuals",
+      "men who practice homosexuality"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Timothy 1:10",
+        "note": "Also in a list of wrongdoers."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agorazo",
+    "transliteration": "agorázō",
+    "original": "ἀγοράζω",
+    "pronunciation": "ag-or-AD-zo",
+    "gloss": "to buy",
+    "notes": "To buy in the marketplace (agora). Paul uses it for being \"bought with a price\" (6:20; 7:23), a picture of redemption that would be easily understood in a city with a slave market.",
+    "range": [
+      {
+        "sense": "Buy",
+        "note": "Purchase in the market."
+      },
+      {
+        "sense": "Redeem",
+        "note": "Buy out of slavery."
+      }
+    ],
+    "translations": [
+      "buy",
+      "bought",
+      "purchase"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 6:36",
+        "note": "Send them away to buy themselves something to eat."
+      },
+      {
+        "ref": "2 Peter 2:1",
+        "note": "Denying the Master who bought them."
+      },
+      {
+        "ref": "Revelation 5:9",
+        "note": "You purchased people for God with your blood."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "soma",
+    "transliteration": "sôma",
+    "original": "σῶμα",
+    "pronunciation": "SOH-mah",
+    "gloss": "body",
+    "notes": "The body, a person as a physical being. In this letter it is a major word (47 times): Paul argues that the body belongs to the Lord (6:13-20), that the church is Christ's body (12), and that the body will be raised (15). It is not just a shell but the person.",
+    "range": [
+      {
+        "sense": "Body",
+        "note": "The physical body."
+      },
+      {
+        "sense": "Self",
+        "note": "The whole person."
+      },
+      {
+        "sense": "The church",
+        "note": "The body of Christ."
+      }
+    ],
+    "translations": [
+      "body"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:1",
+        "note": "Present your bodies a living sacrifice."
+      },
+      {
+        "ref": "Luke 22:19",
+        "note": "This is my body."
+      },
+      {
+        "ref": "Ephesians 4:12",
+        "note": "The building up of the body of Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "melos",
+    "transliteration": "mélos",
+    "original": "μέλος",
+    "pronunciation": "MEH-los",
+    "gloss": "member, limb",
+    "notes": "A limb or part of the body. Paul says the Corinthians' bodies are \"members of Christ\" (6:15), and in chapter 12 each believer is a member of one body.",
+    "range": [
+      {
+        "sense": "Limb",
+        "note": "A part of the body."
+      },
+      {
+        "sense": "Member",
+        "note": "A part of the whole."
+      }
+    ],
+    "translations": [
+      "members",
+      "parts",
+      "limb"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:4",
+        "note": "As in one body we have many members."
+      },
+      {
+        "ref": "James 3:5",
+        "note": "The tongue is a small member."
+      },
+      {
+        "ref": "Ephesians 4:25",
+        "note": "We are members of one another."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "charisma",
+    "transliteration": "chárisma",
+    "original": "χάρισμα",
+    "pronunciation": "KHAH-ris-mah",
+    "gloss": "gift of grace",
+    "notes": "A gift freely given (from charis, \"grace\"). In 1 Corinthians it names the abilities God gives for the good of the church (1:7; 7:7; 12:4-31), and Paul stresses that the gifts are given, not earned.",
+    "range": [
+      {
+        "sense": "Gift",
+        "note": "What is freely given."
+      },
+      {
+        "sense": "Spiritual gift",
+        "note": "A Spirit-given ability to serve."
+      }
+    ],
+    "translations": [
+      "gift",
+      "gifts"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:6",
+        "note": "Having gifts that differ according to the grace given to us."
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The free gift of God is eternal life."
+      },
+      {
+        "ref": "1 Timothy 4:14",
+        "note": "Don't neglect the gift that is in you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "syngnome",
+    "transliteration": "syngnṓmē",
+    "original": "συγγνώμη",
+    "pronunciation": "soong-NO-may",
+    "gloss": "concession, allowance",
+    "notes": "A concession, allowance, or pardon. In 7:6 Paul says that what he has just said about marital relations is a concession, not a command.",
+    "range": [
+      {
+        "sense": "Concession",
+        "note": "Something allowed."
+      },
+      {
+        "sense": "Pardon",
+        "note": "Forgiveness."
+      }
+    ],
+    "translations": [
+      "concession",
+      "allowance"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 7:6",
+        "note": "This I say by way of concession."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agamos",
+    "transliteration": "ágamos",
+    "original": "ἄγαμος",
+    "pronunciation": "AH-gah-mos",
+    "gloss": "unmarried",
+    "notes": "Not married (a- \"not\" plus gamos \"marriage\"). Paul uses it for single people, probably including widowers and divorced persons, in his advice about marriage and singleness (7:8, 7:11, 7:32-34).",
+    "range": [
+      {
+        "sense": "Unmarried",
+        "note": "Not currently married."
+      },
+      {
+        "sense": "Single",
+        "note": "Living without a spouse."
+      }
+    ],
+    "translations": [
+      "unmarried",
+      "single"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 7:34",
+        "note": "The unmarried woman is concerned about the Lord's things."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parthenos",
+    "transliteration": "parthénos",
+    "original": "παρθένος",
+    "pronunciation": "par-THEH-nos",
+    "gloss": "virgin, young woman",
+    "notes": "A young unmarried woman, usually understood to be a virgin. Chapter 7:25-38 is Paul's advice on \"virgins,\" and scholars debate whether he means daughters under a father's care, or engaged couples, or unmarried people in general; the Greek of 7:36-38 is unclear.",
+    "range": [
+      {
+        "sense": "Virgin",
+        "note": "A woman who has not had sexual relations."
+      },
+      {
+        "sense": "Unmarried young woman",
+        "note": "One of marriageable age."
+      }
+    ],
+    "translations": [
+      "virgin",
+      "virgins"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:23",
+        "note": "The virgin will be with child."
+      },
+      {
+        "ref": "Luke 1:27",
+        "note": "A virgin pledged to be married."
+      },
+      {
+        "ref": "Matthew 25:1",
+        "note": "Ten virgins took their lamps."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apistos",
+    "transliteration": "ápistos",
+    "original": "ἄπιστος",
+    "pronunciation": "AH-pis-tos",
+    "gloss": "unbelieving, unbeliever",
+    "notes": "One without faith (a- \"not\" plus pistis \"faith\"), an unbeliever, a person outside the faith. The word appears often in this letter for neighbors and spouses (6:6; 7:12-15; 10:27; 14:22-24).",
+    "range": [
+      {
+        "sense": "Unbelieving",
+        "note": "Not trusting in Christ."
+      },
+      {
+        "sense": "Outsider",
+        "note": "Not in the church."
+      }
+    ],
+    "translations": [
+      "unbeliever",
+      "unbelieving"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 20:27",
+        "note": "Do not be unbelieving, but believing."
+      },
+      {
+        "ref": "2 Corinthians 6:14",
+        "note": "Don't be unequally yoked with unbelievers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleutheros",
+    "transliteration": "eleútheros",
+    "original": "ἐλεύθερος",
+    "pronunciation": "el-YOO-theh-ros",
+    "gloss": "free, free person",
+    "notes": "Free, not a slave. Paul says a slave who has been called in the Lord is the Lord's \"free person,\" and that those who were free are Christ's slaves (7:21-22).",
+    "range": [
+      {
+        "sense": "Free",
+        "note": "Not enslaved."
+      },
+      {
+        "sense": "Free person",
+        "note": "Someone with legal freedom."
+      }
+    ],
+    "translations": [
+      "free",
+      "free person"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:28",
+        "note": "There is neither slave nor free."
+      },
+      {
+        "ref": "Galatians 4:26",
+        "note": "The Jerusalem above is free."
+      },
+      {
+        "ref": "Revelation 19:18",
+        "note": "Free and slave, small and great."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anagke",
+    "transliteration": "anágkē",
+    "original": "ἀνάγκη",
+    "pronunciation": "ah-NAG-kay",
+    "gloss": "necessity, distress",
+    "notes": "Necessity, compulsion, or pressure. In 7:26 it appears with \"present\" to describe the \"present distress,\" and in 7:37 it describes a man who is not under any compulsion. The exact crisis Paul means is unknown.",
+    "range": [
+      {
+        "sense": "Necessity",
+        "note": "What must be."
+      },
+      {
+        "sense": "Distress",
+        "note": "Pressure and hardship."
+      }
+    ],
+    "translations": [
+      "necessity",
+      "distress"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 21:23",
+        "note": "Great distress on the land."
+      },
+      {
+        "ref": "2 Corinthians 6:4",
+        "note": "In great endurance, in afflictions, in hardships."
+      },
+      {
+        "ref": "Philemon 1:14",
+        "note": "Not by compulsion but of your own accord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "schema",
+    "transliteration": "schêma",
+    "original": "σχῆμα",
+    "pronunciation": "SKHAY-mah",
+    "gloss": "form, outward shape",
+    "notes": "The outward form or appearance of something. Paul says the \"form of this world\" is passing away (7:31), perhaps as a stage set is taken down at the end of a play. The English word \"scheme\" comes from it.",
+    "range": [
+      {
+        "sense": "Form",
+        "note": "Outward shape."
+      },
+      {
+        "sense": "Fashion",
+        "note": "The way things appear."
+      }
+    ],
+    "translations": [
+      "form",
+      "fashion"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 7:31",
+        "note": "The form of this world is passing away."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "gnosis",
+    "transliteration": "gnôsis",
+    "original": "γνῶσις",
+    "pronunciation": "GNO-sis",
+    "gloss": "knowledge",
+    "notes": "Knowledge, from the verb ginōskō, \"to know.\" In this letter it is something the Corinthians prize and sometimes boast about (1:5; 8:1-11; 12:8; 13:2, 13:8). Paul says knowledge by itself puffs up, but love builds up.",
+    "range": [
+      {
+        "sense": "Knowledge",
+        "note": "Understanding."
+      },
+      {
+        "sense": "Insight",
+        "note": "Knowing something deeply."
+      }
+    ],
+    "translations": [
+      "knowledge"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 11:33",
+        "note": "The depth of the riches both of the wisdom and knowledge of God."
+      },
+      {
+        "ref": "2 Corinthians 4:6",
+        "note": "The light of the knowledge of God's glory."
+      },
+      {
+        "ref": "Colossians 2:3",
+        "note": "All the treasures of wisdom and knowledge."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eidolothyton",
+    "transliteration": "eidōlóthyton",
+    "original": "εἰδωλόθυτον",
+    "pronunciation": "eye-do-LOH-thoo-ton",
+    "gloss": "food offered to an idol",
+    "notes": "A compound word, \"idol-sacrifice,\" meaning meat that had been offered in a pagan temple. In Corinth, such meat was served in temple dining rooms, sold in the market, and served at private dinners. Chapters 8 through 10 deal with it.",
+    "range": [
+      {
+        "sense": "Idol-sacrifice",
+        "note": "Offered to an idol."
+      },
+      {
+        "sense": "Temple meat",
+        "note": "Sold or served afterward."
+      }
+    ],
+    "translations": [
+      "food offered to idols",
+      "things sacrificed to idols"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 15:29",
+        "note": "Abstain from things sacrificed to idols."
+      },
+      {
+        "ref": "Revelation 2:14",
+        "note": "To eat things sacrificed to idols and commit sexual immorality."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eidolon",
+    "transliteration": "eídōlon",
+    "original": "εἴδωλον",
+    "pronunciation": "EYE-doh-lon",
+    "gloss": "idol, image",
+    "notes": "An image of a god. Paul agrees with the Corinthians that \"an idol is nothing in the world\" (8:4), meaning there is no real god behind it, but in chapter 10 warns that demons are active behind pagan worship.",
+    "range": [
+      {
+        "sense": "Image",
+        "note": "A statue or picture."
+      },
+      {
+        "sense": "False god",
+        "note": "A false object of worship."
+      }
+    ],
+    "translations": [
+      "idol",
+      "idols"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 7:41",
+        "note": "They offered a sacrifice to the idol."
+      },
+      {
+        "ref": "1 Thessalonians 1:9",
+        "note": "You turned to God from idols."
+      },
+      {
+        "ref": "1 John 5:21",
+        "note": "Little children, keep yourselves from idols."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "astheneo",
+    "transliteration": "astheneō",
+    "original": "ἀσθενέω",
+    "pronunciation": "as-then-EH-oh",
+    "gloss": "to be weak, to be sick",
+    "notes": "To be weak or ill. In chapter 8 it describes the conscience of those who are not confident that eating idol food is harmless (8:7-12).",
+    "range": [
+      {
+        "sense": "Be weak",
+        "note": "Lack strength."
+      },
+      {
+        "sense": "Be sick",
+        "note": "Be unwell."
+      }
+    ],
+    "translations": [
+      "weak",
+      "sick"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 14:1",
+        "note": "Accept him who is weak in faith."
+      },
+      {
+        "ref": "2 Corinthians 12:10",
+        "note": "When I am weak, then am I strong."
+      },
+      {
+        "ref": "Mark 6:56",
+        "note": "The sick were healed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

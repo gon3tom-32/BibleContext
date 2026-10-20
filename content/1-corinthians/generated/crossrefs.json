@@ -411,7 +411,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Leviticus 18:8",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Deuteronomy 17:7",
+          "inDataset": true,
+          "votes": 19
+        },
+        {
+          "ref": "Exodus 12:15",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Galatians 5:9",
+          "inDataset": true,
+          "votes": 9
+        }
+      ]
     },
     {
       "number": 6,
@@ -473,7 +494,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 2:24",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Daniel 7:22",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Romans 6:16-18",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Titus 3:3-7",
+          "inDataset": true,
+          "votes": 14
+        }
+      ]
     },
     {
       "number": 7,
@@ -538,7 +580,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "1 Peter 3:7",
+          "inDataset": true,
+          "votes": 44
+        },
+        {
+          "ref": "Matthew 19:3-9",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "Malachi 2:14-16",
+          "inDataset": true,
+          "votes": 23
+        },
+        {
+          "ref": "Galatians 3:28",
+          "inDataset": true,
+          "votes": 4
+        }
+      ]
     },
     {
       "number": 8,
@@ -600,7 +663,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 6:4",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Romans 14:13-21",
+          "inDataset": true,
+          "votes": 66
+        },
+        {
+          "ref": "Acts 15:28-29",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "1 Corinthians 10:23-33",
+          "inDataset": true,
+          "votes": 26
+        }
+      ]
     },
     {
       "number": 9,

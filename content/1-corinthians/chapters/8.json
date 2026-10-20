@@ -1,0 +1,106 @@
+{
+  "sceneHappening": "Food offered to idols: knowledge puffs up, but love builds up",
+  "summary": "Now Paul turns to food offered to idols. \"We know that we all have knowledge,\" he says, and \"knowledge puffs up, but love builds up.\" If anyone thinks he knows something, he doesn't yet know as he ought; but if anyone loves God, he is known by him. About eating food offered to idols, we know that an idol is nothing in the world and that there is no God but one, for us there is one God, the Father, from whom are all things, and we exist for him, and one Lord, Jesus Christ, through whom are all things and through whom we exist. But not all have this knowledge. Some, accustomed to idols until now, eat the food as something offered to an idol, and their conscience, being weak, is defiled. \"But food will not commend us to God. We are no worse if we don't eat, and no better if we do.\" Yet Paul warns that this liberty may become a stumbling block to the weak: if someone sees you, who have knowledge, eating in an idol's temple, won't his conscience be emboldened to eat what was offered to idols? So by your knowledge the weak brother, for whom Christ died, perishes. When you sin against the brothers and wound their weak conscience, you sin against Christ. \"Therefore, if food causes my brother to stumble, I will eat no meat forevermore, so that I won't cause my brother to stumble.\"",
+  "whySettingMatters": "Meat in a Greek city mostly came from animals sacrificed at temples; what was not burned or eaten at the temple was sold in the market (the macellum), and invitations to dinner might happen in a temple dining room. Archaeology at Corinth has found such rooms, including dining rooms connected with the shrine of Asclepius. For a new believer from a pagan background, eating such meat could feel like still sharing in the god's worship; for others it was just food. \"We know that we all have knowledge\" and \"an idol is nothing\" are probably Corinthian slogans, which Paul partly agrees with and partly corrects. He accepts that there is one God and one Lord (a Christian reworking of the great Jewish confession in Deuteronomy 6:4), but insists that knowledge must be shaped by love. The \"weak\" are not weak in intelligence but in having a conscience still attached to idols. Chapters 9 and 10 continue the argument.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Agrees with the knowledgeable in principle but asks them to limit their freedom."
+    },
+    {
+      "id": "the-knowledgeable-in-corinth",
+      "note": "Those confident that idols are nothing, so food offered to them is just food."
+    },
+    {
+      "id": "the-weak-in-corinth",
+      "note": "Believers whose conscience is still tied to idols."
+    },
+    {
+      "id": "jesus",
+      "note": "The one Lord; Christ died for the weak brother."
+    }
+  ],
+  "questions": [
+    "\"Knowledge puffs up, but love builds up.\" Why do those two so often pull in different directions?",
+    "Paul agrees an idol is nothing, and still says some should not eat. What is he protecting?",
+    "How does the one God and one Lord confession give the strong their confidence?",
+    "\"For whom Christ died.\" How does that change how we treat a person whose conscience is weaker than ours?"
+  ],
+  "words": [
+    {
+      "id": "gnosis",
+      "note": "\"Knowledge puffs up, but love builds up\" (8:1, 8:7, 8:10-11)."
+    },
+    {
+      "id": "physioo",
+      "note": "\"Knowledge puffs up\" (8:1)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Love builds up\" (8:1)."
+    },
+    {
+      "id": "oikodomeo",
+      "note": "\"Love builds up\" (8:1, 8:10)."
+    },
+    {
+      "id": "eidolothyton",
+      "note": "\"Food offered to idols\" (8:1, 8:4, 8:7, 8:10)."
+    },
+    {
+      "id": "eidolon",
+      "note": "\"An idol is nothing in the world\" (8:4, 8:7)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"Their conscience, being weak, is defiled\" (8:7, 8:10, 8:12)."
+    },
+    {
+      "id": "astheneo",
+      "note": "\"The weak brother\" and \"wounding their weak conscience\" (8:9-12)."
+    },
+    {
+      "id": "proskomma",
+      "note": "\"This liberty of yours might become a stumbling block\" (8:9)."
+    },
+    {
+      "id": "skandalizo",
+      "note": "\"If food causes my brother to stumble\" (8:13)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"One Lord, Jesus Christ\" (8:6)."
+    },
+    {
+      "id": "ginosko",
+      "note": "\"We know... he is known by God\" (8:2-3)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"This right of yours\" (8:9)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 6:4",
+      "note": "the LORD our God, the LORD is one"
+    },
+    {
+      "ref": "Romans 14:13-21",
+      "note": "don't destroy with your food the one for whom Christ died"
+    },
+    {
+      "ref": "Acts 15:28-29",
+      "note": "abstain from things sacrificed to idols"
+    },
+    {
+      "ref": "1 Corinthians 10:23-33",
+      "note": "Paul continues on food and conscience"
+    }
+  ],
+  "number": 8,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "sceneHappening": "Paul answers the Corinthians' written questions about marriage, singleness, and staying as you are",
+  "summary": "Now Paul begins to answer \"the things about which you wrote\": \"It is good for a man not to touch a woman.\" Because of sexual immorality, each man should have his own wife and each woman her own husband, and husband and wife owe each other their conjugal rights: the wife does not have authority over her own body, but the husband does, and likewise the husband. They should not deprive one another except by agreement for a time of prayer. Paul wishes everyone were as he is, but each has a gift from God, one this and one that. To the unmarried and widows, it is good to remain as he is, but if they cannot control themselves, they should marry. To the married he gives the Lord's command: the wife should not leave her husband, and the husband should not divorce his wife. To others he says, not the Lord, that if a believer has an unbelieving spouse who is willing to stay, they should not divorce, for the unbeliever is made holy through the spouse; but if the unbeliever leaves, the believer is not bound. \"Each one should remain in the calling in which he was called,\" circumcised or uncircumcised, slave or free. A slave who can gain freedom should use it, \"for he who was called in the Lord as a slave is the Lord's freed person.\" \"You were bought with a price. Don't become bondservants of men.\" About virgins, Paul gives his opinion: in view of the present distress, it is good to remain as one is. Time is short, so those with wives should live as though they had none, and those who buy as though they had no goods, for the form of this world is passing away. The unmarried person is anxious about the Lord's things, the married about the world's, and Paul wants them free of anxiety. A widow is free to marry anyone she wishes, \"only in the Lord.\"",
+  "whySettingMatters": "This chapter is hard to read because we only hear one side of a conversation. \"It is good for a man not to touch a woman\" in 7:1 is probably a slogan from the Corinthians, perhaps from those who wanted sexual self-denial in marriage, and Paul qualifies rather than simply agrees. The \"present distress\" (7:26) may refer to a local crisis such as the famine in the reign of Claudius, or to the general sense that the age was ending; Paul does not say. His advice is not a general ban on marriage but a response to circumstances and to his belief that \"the time is short.\" Notice how evenly he treats husbands and wives: each has authority over the other's body, a mutual claim that was unusual in ancient writing. In 7:21, \"use it rather\" may mean take freedom if it is offered or may mean stay a slave; the Greek is unclear and scholars are divided. Paul distinguishes his own judgment from the Lord's command, and he is careful about which is which.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Answers questions and distinguishes his own view from the Lord's command."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Asked about marriage, divorce, singleness, and status."
+    },
+    {
+      "id": "jesus",
+      "note": "Gave the command about not divorcing."
+    }
+  ],
+  "questions": [
+    "Paul gives husbands and wives equal claims on each other. How does that compare to the ancient world around them?",
+    "He says clearly when he speaks from the Lord and when he gives his own judgment. Why does that distinction matter?",
+    "\"Remain in the calling in which you were called.\" What is Paul affirming, and what is he not saying?",
+    "\"The time is short.\" How does that shape his advice, and how might it shape ours?"
+  ],
+  "words": [
+    {
+      "id": "charisma",
+      "note": "\"Each has his own gift from God\" (7:7)."
+    },
+    {
+      "id": "syngnome",
+      "note": "\"I say this by concession\" (7:6)."
+    },
+    {
+      "id": "agamos",
+      "note": "\"To the unmarried and to widows\" (7:8, 7:11, 7:32-34)."
+    },
+    {
+      "id": "parthenos",
+      "note": "\"Now concerning virgins\" (7:25-38)."
+    },
+    {
+      "id": "apistos",
+      "note": "\"If any brother has an unbelieving wife\" (7:12-15)."
+    },
+    {
+      "id": "eleutheros",
+      "note": "\"The called slave is the Lord's free person\" (7:21-22)."
+    },
+    {
+      "id": "eleutheroo",
+      "note": "Related: freedom in Christ."
+    },
+    {
+      "id": "anagke",
+      "note": "\"Because of the present distress/necessity\" (7:26, 7:37)."
+    },
+    {
+      "id": "schema",
+      "note": "\"The form of this world is passing away\" (7:31)."
+    },
+    {
+      "id": "agorazo",
+      "note": "\"You were bought with a price\" (7:23)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"Were you called as a slave? Don't let that bother you\" (7:21-23)."
+    },
+    {
+      "id": "kletos",
+      "note": "\"Remain in the calling in which you were called\" (7:20)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"God has called us in peace\" (7:15)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"Was anyone called being circumcised?\" (7:18-19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Peter 3:7",
+      "note": "husbands, live with your wives in an understanding way"
+    },
+    {
+      "ref": "Matthew 19:3-9",
+      "note": "Jesus on divorce and the beginning"
+    },
+    {
+      "ref": "Malachi 2:14-16",
+      "note": "the LORD was witness between you and the wife of your youth"
+    },
+    {
+      "ref": "Galatians 3:28",
+      "note": "there is neither slave nor free, male nor female"
+    }
+  ],
+  "number": 7,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

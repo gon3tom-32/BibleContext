@@ -53,5 +53,20 @@
     "id": "jesus",
     "name": "Jesus",
     "note": "The crucified and risen Lord, the foundation of the church."
+  },
+  {
+    "id": "the-man-in-chapter-5",
+    "name": "The man in chapter 5",
+    "note": "A believer living with his father's wife; Paul does not name him."
+  },
+  {
+    "id": "the-knowledgeable-in-corinth",
+    "name": "The knowledgeable",
+    "note": "Believers confident that idols are nothing and so food offered to them is only food."
+  },
+  {
+    "id": "the-weak-in-corinth",
+    "name": "The weak",
+    "note": "Believers whose conscience is still tied to idols."
   }
 ]
