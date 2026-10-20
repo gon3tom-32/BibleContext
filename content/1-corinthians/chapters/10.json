@@ -1,0 +1,114 @@
+{
+  "sceneHappening": "Warnings from Israel's wilderness years, flee idolatry, and do everything for God's glory",
+  "summary": "Paul does not want the Corinthians to be unaware that their ancestors were all under the cloud and passed through the sea, all baptized into Moses, all ate the same spiritual food and drank the same spiritual drink, for they drank from the spiritual rock that followed them, and the rock was Christ. Yet with most of them God was not pleased, and they fell in the wilderness. \"Now these things were our examples, to the intent we wouldn't lust after evil things as they also lusted.\" Don't become idolaters, as some of them did, don't commit sexual immorality, don't test Christ, don't grumble, all of which brought judgment. \"Let him who thinks he stands be careful that he doesn't fall.\" No temptation has taken them but what is common to man, and God is faithful: he will not let them be tempted beyond what they can bear, but with the temptation will provide the way of escape. So \"flee from idolatry.\" The cup of blessing is a sharing in the blood of Christ, the bread a sharing in his body, and they are one body because they share one loaf. Israel's sacrifices make worshippers sharers in the altar, and pagan sacrifices are offered to demons. They cannot drink the Lord's cup and the cup of demons or share in the Lord's table and the table of demons. \"All things are lawful, but not all things are profitable.\" Seek the other person's good. Eat whatever is sold in the market without raising questions of conscience, \"for the earth is the Lord's, and its fullness.\" If an unbeliever invites you and you want to go, eat what is set before you; but if someone says, \"This was offered to idols,\" don't eat, for the sake of the informant's conscience. \"Whether you eat or drink, or whatever you do, do all to the glory of God.\" Give no offense to Jews, Greeks, or the church of God, just as Paul seeks to please all in all things, not seeking his own profit, but that of the many, that they may be saved.",
+  "whySettingMatters": "Paul reads Israel's wilderness story as a warning to a church that thinks it is safe. He reads it in a Jewish way: the Rock that followed Israel appears in Jewish tradition, and Paul's statement that the rock was Christ means he sees Christ present in the story; how literally that is meant is debated. The \"baptism into Moses\" parallels the Corinthians' own baptism, to show that having the sacraments does not guarantee anything. Where he says 23,000 died in one day (10:8), Numbers 25:9 says 24,000, a difference commentators explain in several ways, such as the number died in a single day versus overall, or a different tradition. The passage 10:14-22 is about temple banquets: eating in a pagan temple was not just a meal but a fellowship, so Paul treats it as incompatible with the Lord's Supper, while allowing meat sold in the market (the macellum) and meals in private houses, as long as no one's conscience is hurt. The statement that \"the earth is the Lord's\" quotes Psalm 24:1, and 10:23-33 returns to the principle of 8:1-13: freedom is guided by love and by what builds up.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Warns from Israel's history and gives guidance on food and conscience."
+    },
+    {
+      "id": "moses",
+      "note": "Israel was \"baptized into Moses.\""
+    },
+    {
+      "id": "the-israelites-in-the-wilderness",
+      "note": "The generation that failed despite great privileges."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Warned not to be overconfident."
+    },
+    {
+      "id": "jesus",
+      "note": "The spiritual rock; Lord of the table."
+    }
+  ],
+  "questions": [
+    "The Israelites had the cloud, the sea, and the rock, and still fell. What does that say about relying on privileges?",
+    "\"God is faithful, and will provide the way of escape.\" What does that promise cover, and what does it leave open?",
+    "Paul says the Lord's table cannot be shared with the table of demons. What does sharing a meal say about who you belong to?",
+    "\"Whatever you do, do all to the glory of God.\" How does that line sum up the argument of chapters 8 to 10?"
+  ],
+  "words": [
+    {
+      "id": "typos",
+      "note": "\"These things were our examples\" (10:6, 10:11)."
+    },
+    {
+      "id": "nouthesia",
+      "note": "\"Written for our admonition\" (10:11)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"All were baptized into Moses\" (10:2)."
+    },
+    {
+      "id": "petra",
+      "note": "\"The spiritual rock that followed them... was Christ\" (10:4)."
+    },
+    {
+      "id": "pneumatikos",
+      "note": "\"Spiritual food\" and \"spiritual drink\" (10:3-4)."
+    },
+    {
+      "id": "peirasmos",
+      "note": "\"No temptation has taken you but such as man can bear\" (10:13)."
+    },
+    {
+      "id": "ekbasis",
+      "note": "\"The way of escape\" (10:13)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"A sharing in the blood of Christ\" (10:16)."
+    },
+    {
+      "id": "eulogia",
+      "note": "\"The cup of blessing which we bless\" (10:16)."
+    },
+    {
+      "id": "artos",
+      "note": "\"The bread which we break\" (10:16-17)."
+    },
+    {
+      "id": "daimonion",
+      "note": "\"They sacrifice to demons\" (10:20-21)."
+    },
+    {
+      "id": "eidolothyton",
+      "note": "\"This was offered to idols\" (10:19, 10:28)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"For conscience's sake\" (10:25-29)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"Do all to the glory of God\" (10:31)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 32:6",
+      "note": "the people sat down to eat and drink and rose up to play"
+    },
+    {
+      "ref": "Numbers 25:1-9",
+      "note": "Israel's idolatry and sexual immorality at Baal of Peor"
+    },
+    {
+      "ref": "Psalm 24:1",
+      "note": "the earth is the LORD's and the fullness thereof"
+    },
+    {
+      "ref": "Deuteronomy 32:17",
+      "note": "they sacrificed to demons that were no gods"
+    }
+  ],
+  "number": 10,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

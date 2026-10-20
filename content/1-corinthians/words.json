@@ -1977,5 +1977,905 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "oikonomia",
+    "transliteration": "oikonomía",
+    "original": "οἰκονομία",
+    "pronunciation": "oy-kon-om-EE-ah",
+    "gloss": "stewardship, management",
+    "notes": "Management of a household, from oikos, \"house,\" and nomos, \"law.\" The English word \"economy\" comes from it. Paul says he has been entrusted with a \"stewardship\" of the gospel (9:17), as a household manager is entrusted with a master's goods.",
+    "range": [
+      {
+        "sense": "Stewardship",
+        "note": "A trust to manage."
+      },
+      {
+        "sense": "Plan",
+        "note": "An arrangement of things."
+      }
+    ],
+    "translations": [
+      "stewardship",
+      "administration",
+      "plan"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 3:2",
+        "note": "The stewardship of God's grace given to me."
+      },
+      {
+        "ref": "Colossians 1:25",
+        "note": "The stewardship from God given to me."
+      },
+      {
+        "ref": "Luke 16:2",
+        "note": "You can no longer be manager."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kerdaino",
+    "transliteration": "kerdaínō",
+    "original": "κερδαίνω",
+    "pronunciation": "ker-DAH-ee-no",
+    "gloss": "to gain, to win",
+    "notes": "To gain, profit, or win. Paul uses it for winning people for Christ (9:19-22), as one might win a profit in trade.",
+    "range": [
+      {
+        "sense": "Gain",
+        "note": "Receive a profit."
+      },
+      {
+        "sense": "Win over",
+        "note": "Bring someone into the faith."
+      }
+    ],
+    "translations": [
+      "win",
+      "gain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 18:15",
+        "note": "If he listens to you, you have gained your brother."
+      },
+      {
+        "ref": "1 Peter 3:1",
+        "note": "They may be won without a word by the behavior of their wives."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "douloo",
+    "transliteration": "douloō",
+    "original": "δουλόω",
+    "pronunciation": "doo-LO-oh",
+    "gloss": "to enslave, to make a slave",
+    "notes": "\"Though I am free... I have made myself a servant to all\" (9:19).",
+    "range": [
+      {
+        "sense": "Enslave",
+        "note": "Bring under bondage."
+      },
+      {
+        "sense": "Serve",
+        "note": "Be a slave to."
+      }
+    ],
+    "translations": [
+      "become slaves",
+      "be enslaved",
+      "enslave"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 6:18",
+        "note": "You became bondservants of righteousness."
+      },
+      {
+        "ref": "Romans 6:22",
+        "note": "Set free from sin and enslaved to God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agonizomai",
+    "transliteration": "agōnizomai",
+    "original": "ἀγωνίζομαι",
+    "pronunciation": "ag-on-ID-zom-eye",
+    "gloss": "to strive, to struggle",
+    "notes": "\"Everyone who strives in the games exercises self-control in all things\" (9:25).",
+    "range": [
+      {
+        "sense": "Strive",
+        "note": "Make a great effort."
+      },
+      {
+        "sense": "Compete",
+        "note": "Take part in a contest."
+      },
+      {
+        "sense": "Fight",
+        "note": "Struggle against opposition."
+      }
+    ],
+    "translations": [
+      "strive",
+      "struggle",
+      "fight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 13:24",
+        "note": "Strive to enter in by the narrow door."
+      },
+      {
+        "ref": "2 Timothy 4:7",
+        "note": "I have fought the good fight."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stephanos",
+    "transliteration": "stéphanos",
+    "original": "στέφανος",
+    "pronunciation": "STEF-ah-nos",
+    "gloss": "crown, wreath",
+    "notes": "A wreath or crown, especially the victor's wreath in the games (a different word from the king's diadem). At the Isthmian Games near Corinth it was made of pine. Paul says athletes compete for a perishable wreath, but believers for an imperishable one (9:25).",
+    "range": [
+      {
+        "sense": "Victor's wreath",
+        "note": "The athlete's prize."
+      },
+      {
+        "sense": "Reward",
+        "note": "What awaits the faithful."
+      }
+    ],
+    "translations": [
+      "crown",
+      "wreath"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Timothy 4:8",
+        "note": "The crown of righteousness is laid up for me."
+      },
+      {
+        "ref": "James 1:12",
+        "note": "He will receive the crown of life."
+      },
+      {
+        "ref": "Revelation 2:10",
+        "note": "I will give you the crown of life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "adokimos",
+    "transliteration": "adókimos",
+    "original": "ἀδόκιμος",
+    "pronunciation": "ah-DOK-ee-mos",
+    "gloss": "disqualified, failing the test",
+    "notes": "Not passing the test, rejected or disqualified (a- \"not\" plus the root of dokimazō, \"to test\"). Paul fears he might preach to others and be \"disqualified\" himself (9:27), using the athlete's picture of being disqualified from the games.",
+    "range": [
+      {
+        "sense": "Disqualified",
+        "note": "Not passing the test."
+      },
+      {
+        "sense": "Rejected",
+        "note": "Not approved."
+      }
+    ],
+    "translations": [
+      "disqualified",
+      "rejected",
+      "failing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:28",
+        "note": "God gave them up to a debased mind."
+      },
+      {
+        "ref": "2 Timothy 3:8",
+        "note": "Opposed to the truth, corrupt in mind."
+      },
+      {
+        "ref": "Titus 1:16",
+        "note": "Unfit for any good work."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "typos",
+    "transliteration": "týpos",
+    "original": "τύπος",
+    "pronunciation": "TOO-pos",
+    "gloss": "pattern, example",
+    "notes": "A mark left by a blow, and so an image, a pattern, or an example. The English word \"type\" comes from it. In 10:6 and 10:11 Israel's experiences are \"examples\" or \"types\" for the church.",
+    "range": [
+      {
+        "sense": "Mark",
+        "note": "An impression."
+      },
+      {
+        "sense": "Pattern",
+        "note": "A model to follow."
+      },
+      {
+        "sense": "Example",
+        "note": "A warning or an illustration."
+      }
+    ],
+    "translations": [
+      "example",
+      "pattern",
+      "type"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 5:14",
+        "note": "Adam, who is a type of him who was to come."
+      },
+      {
+        "ref": "Philippians 3:17",
+        "note": "As you have us for a pattern."
+      },
+      {
+        "ref": "Hebrews 8:5",
+        "note": "See that you make everything according to the pattern."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nouthesia",
+    "transliteration": "nouthesía",
+    "original": "νουθεσία",
+    "pronunciation": "noo-theh-SEE-ah",
+    "gloss": "instruction, warning",
+    "notes": "Instruction, especially that which warns or corrects (literally, \"putting in mind\"). Paul says Israel's story was written for \"our admonition\" (10:11).",
+    "range": [
+      {
+        "sense": "Warning",
+        "note": "A caution given."
+      },
+      {
+        "sense": "Instruction",
+        "note": "Teaching meant to correct."
+      }
+    ],
+    "translations": [
+      "admonition",
+      "instruction",
+      "warning"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 6:4",
+        "note": "Bring them up in the discipline and instruction of the Lord."
+      },
+      {
+        "ref": "Titus 3:10",
+        "note": "After a first and second warning, have nothing more to do with him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekbasis",
+    "transliteration": "ékbasis",
+    "original": "ἔκβασις",
+    "pronunciation": "EK-bah-sis",
+    "gloss": "way out, exit",
+    "notes": "A way out, an exit, as from a narrow place. Paul says that with every temptation God \"will also provide the way of escape, that you may be able to endure\" (10:13).",
+    "range": [
+      {
+        "sense": "Exit",
+        "note": "A way out."
+      },
+      {
+        "sense": "Outcome",
+        "note": "How something ends."
+      }
+    ],
+    "translations": [
+      "way of escape",
+      "way out"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 13:7",
+        "note": "Considering the outcome of their way of life."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eulogia",
+    "transliteration": "eulogía",
+    "original": "εὐλογία",
+    "pronunciation": "yoo-log-EE-ah",
+    "gloss": "blessing",
+    "notes": "A blessing, from eu, \"good,\" and logos, \"word.\" Paul calls the Lord's Supper cup \"the cup of blessing\" (10:16), which echoes the third cup of the Jewish Passover meal.",
+    "range": [
+      {
+        "sense": "Blessing",
+        "note": "A good word spoken."
+      },
+      {
+        "sense": "Praise",
+        "note": "Words of thanks."
+      }
+    ],
+    "translations": [
+      "blessing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:29",
+        "note": "In the fullness of the blessing of Christ."
+      },
+      {
+        "ref": "Ephesians 1:3",
+        "note": "Blessed us with every spiritual blessing."
+      },
+      {
+        "ref": "Revelation 5:12",
+        "note": "Worthy is the Lamb... to receive blessing."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "daimonion",
+    "transliteration": "daimónion",
+    "original": "δαιμόνιον",
+    "pronunciation": "dye-MOH-nee-on",
+    "gloss": "demon, evil spirit",
+    "notes": "A demon or evil spirit. Paul says that what pagans sacrifice, they sacrifice \"to demons, and not to God\" (10:20-21), so the table of demons cannot be shared with the Lord's table.",
+    "range": [
+      {
+        "sense": "Demon",
+        "note": "An evil spirit."
+      },
+      {
+        "sense": "Spirit",
+        "note": "A being not seen."
+      }
+    ],
+    "translations": [
+      "demons",
+      "evil spirits"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 4:33",
+        "note": "A man who had a spirit of an unclean demon."
+      },
+      {
+        "ref": "James 2:19",
+        "note": "Even the demons believe, and shudder."
+      },
+      {
+        "ref": "Revelation 9:20",
+        "note": "They did not repent of worshiping demons."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kephale",
+    "transliteration": "kephalḗ",
+    "original": "κεφαλή",
+    "pronunciation": "kef-al-AY",
+    "gloss": "head",
+    "notes": "The head, the upper part of the body. Used literally and as a picture of someone or something prominent or leading. In 11:3 Paul says Christ is head of every man, the husband is head of his wife, and God is head of Christ; whether \"head\" there means authority, source, or both is debated, and discussions of this passage turn on that question.",
+    "range": [
+      {
+        "sense": "Head",
+        "note": "The body part."
+      },
+      {
+        "sense": "Authority",
+        "note": "One who leads."
+      },
+      {
+        "sense": "Source",
+        "note": "Origin, as of a river."
+      }
+    ],
+    "translations": [
+      "head"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 5:23",
+        "note": "The husband is the head of the wife, as Christ also is the head of the assembly."
+      },
+      {
+        "ref": "Colossians 1:18",
+        "note": "He is the head of the body, the assembly."
+      },
+      {
+        "ref": "Ephesians 4:15",
+        "note": "Grow up into him in all things, who is the head, Christ."
+      }
+    ],
+    "uncertain": true,
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katakalypto",
+    "transliteration": "katakalýptō",
+    "original": "κατακαλύπτω",
+    "pronunciation": "kah-tah-kah-LOOP-to",
+    "gloss": "to cover, to veil",
+    "notes": "To cover completely (kata, \"down,\" plus kalyptō, \"to cover\"). In 11:6-7 Paul speaks of covering the head, in a passage where it is not fully clear whether he means a veil or the way hair was worn.",
+    "range": [
+      {
+        "sense": "Cover",
+        "note": "Hide from view."
+      },
+      {
+        "sense": "Veil",
+        "note": "Put over the head."
+      }
+    ],
+    "translations": [
+      "cover",
+      "veil"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 11:7",
+        "note": "A man ought not to have his head covered."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "deipnon",
+    "transliteration": "deîpnon",
+    "original": "δεῖπνον",
+    "pronunciation": "DAYP-non",
+    "gloss": "dinner, main meal",
+    "notes": "The main meal of the day, usually in the evening, or a formal dinner. In 11:20 it is \"the Lord's supper\" (kyriakon deipnon), which in Corinth was a real meal eaten together before the bread and cup.",
+    "range": [
+      {
+        "sense": "Supper",
+        "note": "The evening meal."
+      },
+      {
+        "sense": "Banquet",
+        "note": "A formal dinner."
+      }
+    ],
+    "translations": [
+      "supper",
+      "dinner",
+      "banquet"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 14:12",
+        "note": "When you make a dinner or supper."
+      },
+      {
+        "ref": "John 13:2",
+        "note": "During supper, the devil having already put it into the heart of Judas."
+      },
+      {
+        "ref": "Revelation 19:9",
+        "note": "Blessed are those who are invited to the wedding supper of the Lamb."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anaxios",
+    "transliteration": "anaxíōs",
+    "original": "ἀναξίως",
+    "pronunciation": "an-ax-EE-oce",
+    "gloss": "in an unworthy manner",
+    "notes": "Unworthily. Paul warns that anyone who eats the bread or drinks the cup \"in an unworthy manner\" is guilty of the body and blood of the Lord (11:27-29). In context the problem is how they eat, with contempt for those who have nothing.",
+    "range": [
+      {
+        "sense": "Unworthily",
+        "note": "Without due regard."
+      },
+      {
+        "sense": "Carelessly",
+        "note": "Without discernment."
+      }
+    ],
+    "translations": [
+      "in an unworthy manner",
+      "unworthily"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 11:29",
+        "note": "Eats and drinks judgment to himself if he doesn't discern the body."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "krima",
+    "transliteration": "kríma",
+    "original": "κρίμα",
+    "pronunciation": "KREE-mah",
+    "gloss": "judgment, verdict",
+    "notes": "A judgment, verdict, or sentence. In 11:29-34 Paul says unworthy eating brings judgment, and that God's discipline is meant to keep believers from being condemned along with the world. In 6:7 the same word means \"lawsuits.\"",
+    "range": [
+      {
+        "sense": "Verdict",
+        "note": "A decision of a judge."
+      },
+      {
+        "sense": "Judgment",
+        "note": "A sentence."
+      },
+      {
+        "sense": "Lawsuit",
+        "note": "A case at court."
+      }
+    ],
+    "translations": [
+      "judgment",
+      "lawsuits",
+      "condemnation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 2:2",
+        "note": "The judgment of God is according to truth."
+      },
+      {
+        "ref": "Romans 5:16",
+        "note": "The judgment came from one trespass to condemnation."
+      },
+      {
+        "ref": "Matthew 7:2",
+        "note": "With what judgment you judge, you will be judged."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diairesis",
+    "transliteration": "diaíresis",
+    "original": "διαίρεσις",
+    "pronunciation": "dee-AH-ee-reh-sis",
+    "gloss": "division, variety",
+    "notes": "A distribution or division. In 12:4-6 it describes the varieties of gifts, service, and working that come from the one Spirit, one Lord, and one God.",
+    "range": [
+      {
+        "sense": "Division",
+        "note": "Something shared out."
+      },
+      {
+        "sense": "Variety",
+        "note": "Different kinds."
+      }
+    ],
+    "translations": [
+      "varieties",
+      "distribution"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 12:4",
+        "note": "There are various kinds of gifts, but the same Spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "energeo",
+    "transliteration": "energéō",
+    "original": "ἐνεργέω",
+    "pronunciation": "en-er-GEH-oh",
+    "gloss": "to work, to be at work",
+    "notes": "To work, to be active or effective, from which we get \"energy.\" In 12:6-11 it describes God working all things in all people and the one Spirit working in every gift.",
+    "range": [
+      {
+        "sense": "Work",
+        "note": "Put forth effort."
+      },
+      {
+        "sense": "Be effective",
+        "note": "Bring results."
+      }
+    ],
+    "translations": [
+      "work",
+      "be at work",
+      "produce"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:5",
+        "note": "He who supplies the Spirit and works miracles among you."
+      },
+      {
+        "ref": "Philippians 2:13",
+        "note": "It is God who works in you."
+      },
+      {
+        "ref": "Ephesians 1:11",
+        "note": "Him who works all things after the counsel of his will."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phanerosis",
+    "transliteration": "phanérōsis",
+    "original": "φανέρωσις",
+    "pronunciation": "fan-EH-ro-sis",
+    "gloss": "manifestation, showing",
+    "notes": "A making visible or plain. In 12:7, \"to each one is given the manifestation of the Spirit for the common good.\" The gift is the Spirit made evident in the life of the church.",
+    "range": [
+      {
+        "sense": "Manifestation",
+        "note": "A making clear."
+      },
+      {
+        "sense": "Display",
+        "note": "A showing."
+      }
+    ],
+    "translations": [
+      "manifestation",
+      "display"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 4:2",
+        "note": "By the manifestation of the truth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hermeneia",
+    "transliteration": "hermēneía",
+    "original": "ἑρμηνεία",
+    "pronunciation": "her-may-NAY-ah",
+    "gloss": "interpretation",
+    "notes": "Explanation or translation, from which we get \"hermeneutics.\" In this letter it names the gift of interpreting tongues (12:10; 14:26), which Paul says should accompany tongues in the assembly.",
+    "range": [
+      {
+        "sense": "Interpretation",
+        "note": "Explaining what is said."
+      },
+      {
+        "sense": "Translation",
+        "note": "Putting into another language."
+      }
+    ],
+    "translations": [
+      "interpretation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 14:26",
+        "note": "Each one has a psalm, a teaching, a revelation, a tongue, an interpretation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kybernesis",
+    "transliteration": "kybérnēsis",
+    "original": "κυβέρνησις",
+    "pronunciation": "koo-BER-nay-sis",
+    "gloss": "guidance, steering",
+    "notes": "The act of steering a ship (from which we get \"govern\"). In 12:28 it is one of the gifts in the church's life, often translated \"administration\" or \"guidance.\"",
+    "range": [
+      {
+        "sense": "Steering",
+        "note": "Piloting a ship."
+      },
+      {
+        "sense": "Administration",
+        "note": "Guidance of a community."
+      }
+    ],
+    "translations": [
+      "administration",
+      "guidance",
+      "leadership"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 12:28",
+        "note": "Administrations, among the gifts God has appointed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "antilempsis",
+    "transliteration": "antílēmpsis",
+    "original": "ἀντίληψις",
+    "pronunciation": "an-TEEL-ape-sis",
+    "gloss": "helping, support",
+    "notes": "A taking hold of someone to help them. In 12:28 it is a gift of \"helps,\" acts of assistance and support, which Paul places in the list of gifts God has appointed in the church.",
+    "range": [
+      {
+        "sense": "Help",
+        "note": "Giving assistance."
+      },
+      {
+        "sense": "Support",
+        "note": "Lifting a burden."
+      }
+    ],
+    "translations": [
+      "helps",
+      "help"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 12:28",
+        "note": "God has appointed in the assembly helps."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prophetes",
+    "transliteration": "prophḗtēs",
+    "original": "προφήτης",
+    "pronunciation": "prof-AY-tace",
+    "gloss": "prophet",
+    "notes": "One who speaks for God, in the Old Testament and in the church. In 1 Corinthians, prophets are listed second after apostles (12:28), and prophecy is valued above tongues because it builds up (chapter 14).",
+    "range": [
+      {
+        "sense": "Prophet",
+        "note": "A spokesperson for God."
+      },
+      {
+        "sense": "Speaker",
+        "note": "One who declares God's word."
+      }
+    ],
+    "translations": [
+      "prophet",
+      "prophets"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 2:20",
+        "note": "Built on the foundation of the apostles and prophets."
+      },
+      {
+        "ref": "Acts 13:1",
+        "note": "In Antioch there were prophets and teachers."
+      },
+      {
+        "ref": "Luke 7:16",
+        "note": "A great prophet has arisen among us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anathema",
+    "transliteration": "anáthema",
+    "original": "ἀνάθεμα",
+    "pronunciation": "an-ATH-eh-mah",
+    "gloss": "accursed, cursed",
+    "notes": "Something set aside for destruction or under a curse, from \"set up\" or \"devoted.\" In 12:3 no one speaking by the Spirit can say \"Jesus is anathema\" (accursed), and in 16:22 Paul says that anyone who does not love the Lord is \"accursed.\"",
+    "range": [
+      {
+        "sense": "Cursed",
+        "note": "Under a curse."
+      },
+      {
+        "sense": "Devoted to destruction",
+        "note": "Set apart for judgment."
+      }
+    ],
+    "translations": [
+      "accursed",
+      "cursed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 9:3",
+        "note": "I would wish to be accursed and cut off from Christ."
+      },
+      {
+        "ref": "Galatians 1:8",
+        "note": "Let him be accursed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

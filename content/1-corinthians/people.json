@@ -68,5 +68,25 @@
     "id": "the-weak-in-corinth",
     "name": "The weak",
     "note": "Believers whose conscience is still tied to idols."
+  },
+  {
+    "id": "barnabas",
+    "name": "Barnabas",
+    "note": "Paul's partner on the first journey, who like Paul worked for his living."
+  },
+  {
+    "id": "the-israelites-in-the-wilderness",
+    "name": "Israel in the wilderness",
+    "note": "The generation that left Egypt and fell in the desert despite God's gifts."
+  },
+  {
+    "id": "the-poor-in-corinth",
+    "name": "The poor in Corinth",
+    "note": "Those with little, who arrived late at the meal and went hungry."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "The prophet into whom Israel was \"baptized\" in the cloud and sea."
   }
 ]

@@ -748,7 +748,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 25:4",
+          "inDataset": true,
+          "votes": 20
+        },
+        {
+          "ref": "Luke 10:7",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Acts 18:1-4",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Philippians 3:12-14",
+          "inDataset": true,
+          "votes": 63
+        }
+      ]
     },
     {
       "number": 10,
@@ -810,7 +831,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 32:6",
+          "inDataset": true,
+          "votes": 34
+        },
+        {
+          "ref": "Numbers 25:1-9",
+          "inDataset": true,
+          "votes": 33
+        },
+        {
+          "ref": "Psalm 24:1",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Deuteronomy 32:17",
+          "inDataset": true,
+          "votes": 9
+        }
+      ]
     },
     {
       "number": 11,
@@ -872,7 +914,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Luke 22:19-20",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Genesis 2:21-23",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Matthew 26:26-29",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Philippians 3:17",
+          "inDataset": true,
+          "votes": 31
+        }
+      ]
     },
     {
       "number": 12,
@@ -936,7 +999,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Romans 12:4-8",
+          "inDataset": true,
+          "votes": 93
+        },
+        {
+          "ref": "Ephesians 4:4-16",
+          "inDataset": true,
+          "votes": 111
+        },
+        {
+          "ref": "Joel 2:28",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Acts 2:1-4",
+          "inDataset": true,
+          "votes": 2
+        }
+      ]
     },
     {
       "number": 13,

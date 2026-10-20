@@ -1,0 +1,122 @@
+{
+  "sceneHappening": "Spiritual gifts: one Spirit, one body, many members",
+  "summary": "About spiritual gifts, Paul does not want the Corinthians to be uninformed: when they were Gentiles they were led astray to mute idols, so no one speaking by God's Spirit says \"Jesus is accursed,\" and no one can say \"Jesus is Lord\" except by the Holy Spirit. There are different kinds of gifts, but the same Spirit; different kinds of service, but the same Lord; different kinds of working, but the same God who works all in all. To each is given the manifestation of the Spirit for the common good: wisdom, knowledge, faith, healing, miracles, prophecy, discernment of spirits, tongues, and interpretation of tongues, all empowered by one and the same Spirit, who distributes as he wills. Then the picture of the body: just as the body is one and has many members, so also is Christ. In one Spirit all were baptized into one body, Jews or Greeks, slaves or free, and all were made to drink of one Spirit. The body is not one member but many. If the foot says \"Because I'm not a hand, I'm not part of the body,\" it is not for that reason any less part of the body. The eye can't say to the hand, \"I have no need of you.\" The parts that seem weaker are indispensable, and the less honorable parts get greater honor, so there is no division. If one member suffers, all suffer, and if one is honored, all rejoice. \"Now you are Christ's body, and members individually.\" God has appointed in the church first apostles, second prophets, third teachers, then miracles, gifts of healings, helps, administrations, and varieties of tongues. Not all are apostles or prophets or teachers or speak in tongues. \"But earnestly desire the best gifts. Yet I show you a most excellent way.\"",
+  "whySettingMatters": "Corinth was a city of many religions, including ecstatic cults, and some of the Corinthians seem to have prized the more dramatic gifts, especially speaking in tongues, as marks of spiritual superiority. Paul's response is that the Spirit is given to everyone, for the good of all, and no gift is a sign of rank. Notice that his lists are not identical (12:8-10, 12:28-30; compare Romans 12:6-8 and Ephesians 4:11), which suggests they are examples and not a complete catalog. The \"body\" image had a long history in Greek writing, where it was used to urge the lower classes to accept their place under the rulers; Paul reverses it, giving special honor to the \"weaker\" parts. His phrase \"baptized in one Spirit\" in 12:13 is understood in different ways: as the Spirit's work at conversion by which all believers are joined to one body, which is the most common reading, or as a later experience. The passage leads straight into chapter 13: gifts are to be used with love.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Teaches about gifts, unity, and diversity."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Gifted, and tempted to rank their gifts."
+    },
+    {
+      "id": "jesus",
+      "note": "The Lord confessed by the Spirit; the head whose body is the church."
+    }
+  ],
+  "questions": [
+    "Paul begins with \"Jesus is Lord\" as the sign of the Spirit. Why start there when the question is about gifts?",
+    "The body image gives special honor to the weaker parts. Who might those be in a church today?",
+    "Paul says gifts are given \"for the common good.\" How does that change how we think of our own?",
+    "Why does Paul stress that not everyone has the same gift?"
+  ],
+  "words": [
+    {
+      "id": "pneuma",
+      "note": "\"There are various kinds of gifts, but the same Spirit\" (12:3-13)."
+    },
+    {
+      "id": "charisma",
+      "note": "\"Now there are various kinds of gifts\" (12:4, 12:9, 12:28-31)."
+    },
+    {
+      "id": "diairesis",
+      "note": "\"Varieties of gifts, services, and workings\" (12:4-6)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"Varieties of service\" (12:5)."
+    },
+    {
+      "id": "energeo",
+      "note": "\"The same God who works all in all\" (12:6, 12:11)."
+    },
+    {
+      "id": "phanerosis",
+      "note": "\"The manifestation of the Spirit\" (12:7)."
+    },
+    {
+      "id": "glossa",
+      "note": "\"Different kinds of tongues\" (12:10, 12:28)."
+    },
+    {
+      "id": "hermeneia",
+      "note": "\"The interpretation of tongues\" (12:10)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"In one Spirit we were all baptized into one body\" (12:13)."
+    },
+    {
+      "id": "soma",
+      "note": "\"The body is one and has many members\" (12:12-27)."
+    },
+    {
+      "id": "melos",
+      "note": "\"God has set the members\" (12:12-27)."
+    },
+    {
+      "id": "prophetes",
+      "note": "\"Second prophets\" (12:28-29)."
+    },
+    {
+      "id": "kybernesis",
+      "note": "\"Administrations\" (12:28)."
+    },
+    {
+      "id": "antilempsis",
+      "note": "\"Helps\" (12:28)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"First apostles\" (12:28-29)."
+    },
+    {
+      "id": "anathema",
+      "note": "\"No one speaking by God's Spirit says, Jesus is accursed\" (12:3)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"No one can say, Jesus is Lord, but by the Holy Spirit\" (12:3)."
+    },
+    {
+      "id": "pneumatikos",
+      "note": "\"Now concerning spiritual gifts\" (12:1)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Romans 12:4-8",
+      "note": "one body with many members and gifts that differ"
+    },
+    {
+      "ref": "Ephesians 4:4-16",
+      "note": "one body, one Spirit, and gifts for building up"
+    },
+    {
+      "ref": "Joel 2:28",
+      "note": "I will pour out my Spirit on all flesh"
+    },
+    {
+      "ref": "Acts 2:1-4",
+      "note": "the Spirit comes and they speak in other tongues"
+    }
+  ],
+  "number": 12,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

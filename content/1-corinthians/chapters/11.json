@@ -1,0 +1,118 @@
+{
+  "sceneHappening": "Head coverings in worship, and a Lord's Supper where the rich ate first and the poor went hungry",
+  "summary": "Paul praises the Corinthians for remembering him and holding the traditions, then raises a matter about men and women praying or prophesying. He says that the head of every man is Christ, the head of the woman is the man, and the head of Christ is God; a man who prays with his head covered dishonors his head, and a woman who prays or prophesies with her head uncovered dishonors her head, for it is the same as having it shaved. A woman should have authority on her head, because of the angels. Yet \"neither is the woman independent of the man, nor the man independent of the woman, in the Lord,\" for as the woman came from the man, so the man comes through the woman, and all things are from God. He appeals to nature and to the custom of the churches. Then Paul says he cannot praise them: when they come together it is for the worse. There are divisions among them, and when they meet it is not the Lord's supper they eat, for each goes ahead with his own meal, and one is hungry, another drunk. \"Don't you have houses to eat and to drink in? Or do you despise the assembly of God, and put them to shame who don't have?\" Paul recalls the tradition he received: on the night he was betrayed, the Lord Jesus took bread, gave thanks, broke it, and said, \"This is my body, which is broken for you. Do this in memory of me.\" The cup is the new covenant in his blood. Whoever eats or drinks in an unworthy manner is guilty of the body and blood of the Lord. Let a person examine himself. Because some do not discern the body, many are weak and sick and some have died. \"Wait for one another\"; if anyone is hungry, let him eat at home.",
+  "whySettingMatters": "Two very different problems share this chapter. The first, head coverings, is one of the hardest passages in the letter: we do not know exactly what the Corinthian custom was (a veil, or the way hair was worn), what the \"authority\" on the head means, or what \"because of the angels\" refers to. The Greek word for \"head\" (kephalē) is also debated, with some reading it as authority and others as source or origin. Paul affirms both the interdependence of men and women and some ordering of the roles, and readers disagree on how far his instructions are tied to the customs of first-century Corinth. The second problem is clearer: the early church met in homes, and the meal that went with the Lord's Supper was shared by people of unequal wealth. Wealthy hosts could eat early with their friends, leaving slaves and workers, who arrived late, hungry. Paul treats that as a betrayal of the table, which proclaims the Lord's death. The words of institution in 11:23-26 are the earliest written account of the Last Supper, written before the Gospels.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Passes on what he received about the Lord's Supper."
+    },
+    {
+      "id": "jesus",
+      "note": "Took bread and cup on the night he was betrayed."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Divided at the table; the rich ate before the poor."
+    },
+    {
+      "id": "the-poor-in-corinth",
+      "note": "Put to shame by those who ate first."
+    }
+  ],
+  "questions": [
+    "Paul praises them first, then corrects them. What does he affirm in the Corinthians before addressing the problems?",
+    "The head-covering passage depends on customs we can't fully reconstruct. How should we handle a text like that with care?",
+    "What made the Corinthian Lord's Supper \"not the Lord's supper\"?",
+    "\"Discerning the body\" can mean the bread or the church. How might both be meant?"
+  ],
+  "words": [
+    {
+      "id": "kephale",
+      "note": "\"The head of every man is Christ\" (11:3)."
+    },
+    {
+      "id": "katakalypto",
+      "note": "\"Covers her head\" (11:6-7)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"Authority on her head\" (11:10)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"Because of the angels\" (11:10)."
+    },
+    {
+      "id": "paradosis",
+      "note": "\"I praise you... that you hold the traditions\" (11:2)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "\"What I also delivered to you\" and \"the night he was betrayed\" (11:23)."
+    },
+    {
+      "id": "hairesis",
+      "note": "\"There must be factions among you\" (11:19)."
+    },
+    {
+      "id": "schisma",
+      "note": "\"I hear that divisions exist among you\" (11:18)."
+    },
+    {
+      "id": "deipnon",
+      "note": "\"It isn't possible to eat the Lord's supper\" (11:20-21)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "\"When he had given thanks, he broke it\" (11:24)."
+    },
+    {
+      "id": "anamnesis",
+      "note": "\"Do this in memory of me\" (11:24-25)."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"This cup is the new covenant in my blood\" (11:25)."
+    },
+    {
+      "id": "dokimazo",
+      "note": "\"Let a man examine himself\" (11:28)."
+    },
+    {
+      "id": "anaxios",
+      "note": "\"Eats or drinks in an unworthy manner\" (11:27)."
+    },
+    {
+      "id": "krima",
+      "note": "\"Eats and drinks judgment to himself\" (11:29)."
+    },
+    {
+      "id": "koimao",
+      "note": "\"Many sleep\" (11:30)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Luke 22:19-20",
+      "note": "this is my body... this cup is the new covenant in my blood"
+    },
+    {
+      "ref": "Genesis 2:21-23",
+      "note": "the woman was made from the man"
+    },
+    {
+      "ref": "Matthew 26:26-29",
+      "note": "the Last Supper"
+    },
+    {
+      "ref": "Philippians 3:17",
+      "note": "join in following my example"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
