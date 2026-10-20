@@ -1,0 +1,122 @@
+{
+  "sceneHappening": "Now is the day of salvation, Paul's catalogue of hardships, and a call to be wholly the Lord's",
+  "summary": "As God's fellow workers, Paul urges them not to receive the grace of God in vain, for he says, \"At an acceptable time I listened to you, in a day of salvation I helped you,\" and \"Now is the acceptable time. Now is the day of salvation.\" They give no cause for offense so that no fault is found with the ministry, but in everything commend themselves as servants of God: in great endurance, in afflictions, hardships, calamities, beatings, imprisonments, riots, labors, sleepless nights, hunger; in purity, knowledge, patience, kindness, the Holy Spirit, sincere love, truthful speech, the power of God; with weapons of righteousness on the right hand and the left; through honor and dishonor, ill repute and good repute. They are \"as deceivers, and yet true; as unknown, and yet well known; as dying, and behold, we live; as punished, and not killed; as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.\" Paul's heart is wide open to the Corinthians; the restriction is in their own affections, so \"open wide your hearts also.\" Then comes a challenge: \"Don't be unequally yoked with unbelievers, for what fellowship have righteousness and iniquity? Or what communion has light with darkness? What agreement has Christ with Belial?\" The church is \"the temple of the living God,\" as God said, \"I will dwell in them and walk in them; and I will be their God, and they will be my people.\" So, \"Come out from among them, and be separate,\" and God will be their Father.",
+  "whySettingMatters": "Paul's quotation of Isaiah 49:8 describes the servant's mission, which Paul applies to the present: \"now\" is the time of salvation. His long list of hardships follows the form of ancient lists of a wise man's trials but turns it around: each hardship is a proof of ministry, not a sign of failure. The pairs in 6:8-10 (\"as unknown, yet well known\") are statements of paradox, not contradiction. The paragraph 6:14 to 7:1 is often discussed because it seems to interrupt the flow between 6:13 and 7:2; some scholars think it was a piece written at another time, while others find it fits, as a call to undivided loyalty. \"Unequally yoked\" echoes Deuteronomy 22:10 (not plowing with an ox and donkey together). What kind of association Paul has in mind is not made explicit: idol feasts, business partnerships, marriages, or following false teachers have all been suggested. \"Belial\" is a Jewish name for a figure of wickedness. The strong Old Testament quotations, from Leviticus 26, Isaiah 52, Ezekiel 37, and 2 Samuel 7, all describe God dwelling with a holy people.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Appeals for open hearts and describes his hardships."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Urged to open their hearts and live as God's temple."
+    }
+  ],
+  "questions": [
+    "\"Now is the day of salvation.\" What difference does the word \"now\" make?",
+    "Paul lists his hardships and then his virtues. How do they belong together?",
+    "Paul's opposites, such as \"sorrowful yet always rejoicing,\" describe one life. What would that look like in practice?",
+    "Why might Paul place a call for separation right after a call for open hearts?"
+  ],
+  "words": [
+    {
+      "id": "euprosdektos",
+      "note": "\"Now is the acceptable time\" (6:2)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"Now is the day of salvation\" (6:2)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"In great endurance\" (6:4)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"In afflictions\" (6:4)."
+    },
+    {
+      "id": "anagke",
+      "note": "\"In hardships\" (6:4)."
+    },
+    {
+      "id": "kopos",
+      "note": "\"In labors\" (6:5)."
+    },
+    {
+      "id": "agrypnia",
+      "note": "\"In sleepless nights\" (6:5)."
+    },
+    {
+      "id": "nesteia",
+      "note": "\"In hunger\" or \"fastings\" (6:5)."
+    },
+    {
+      "id": "hagnotes",
+      "note": "\"In purity\" (6:6)."
+    },
+    {
+      "id": "ptochos",
+      "note": "\"As poor, yet making many rich\" (6:10)."
+    },
+    {
+      "id": "ploutizo",
+      "note": "\"Making many rich\" (6:10)."
+    },
+    {
+      "id": "platynomai",
+      "note": "\"Open wide your hearts\" (6:11, 6:13)."
+    },
+    {
+      "id": "splanchnon",
+      "note": "\"Restricted in your own affections\" (6:12)."
+    },
+    {
+      "id": "heterozygeo",
+      "note": "\"Don't be unequally yoked with unbelievers\" (6:14)."
+    },
+    {
+      "id": "belial",
+      "note": "\"What agreement has Christ with Belial?\" (6:15)."
+    },
+    {
+      "id": "naos",
+      "note": "\"We are a temple of the living God\" (6:16)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"What fellowship has light with darkness?\" (6:14)."
+    },
+    {
+      "id": "apistos",
+      "note": "\"Unequally yoked with unbelievers\" (6:14-15)."
+    },
+    {
+      "id": "chara",
+      "note": "\"As sorrowful, yet always rejoicing\" (6:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 49:8",
+      "note": "in a time of favor I have answered you"
+    },
+    {
+      "ref": "Leviticus 26:12",
+      "note": "I will walk among you and will be your God"
+    },
+    {
+      "ref": "Isaiah 52:11",
+      "note": "touch no unclean thing; go out from there"
+    },
+    {
+      "ref": "Deuteronomy 22:10",
+      "note": "you shall not plow with an ox and a donkey together"
+    }
+  ],
+  "number": 6,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
