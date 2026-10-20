@@ -1,0 +1,109 @@
+{
+  "title": "Where 1 Thessalonians fits",
+  "eras": [
+    {
+      "id": "herod",
+      "label": "Rome and Herod",
+      "order": 1
+    },
+    {
+      "id": "ministry",
+      "label": "Jesus' ministry",
+      "order": 2
+    },
+    {
+      "id": "church",
+      "label": "The early church",
+      "order": 3
+    },
+    {
+      "id": "war",
+      "label": "The Jewish war and after",
+      "order": 4
+    }
+  ],
+  "focusEraId": "church",
+  "lanes": [
+    {
+      "id": "israel",
+      "label": "Judea and Galilee"
+    },
+    {
+      "id": "neighbors",
+      "label": "The empire"
+    },
+    {
+      "id": "book",
+      "label": "This book"
+    }
+  ],
+  "events": [
+    {
+      "lane": "israel",
+      "eraId": "herod",
+      "text": "Herod the Great rules for Rome and rebuilds the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "ministry",
+      "text": "Jesus is crucified and rises (about AD 30)."
+    },
+    {
+      "lane": "israel",
+      "eraId": "church",
+      "text": "The church spreads from Jerusalem; the Jerusalem meeting about Gentile believers is about AD 49."
+    },
+    {
+      "lane": "israel",
+      "eraId": "war",
+      "text": "Revolt against Rome from AD 66; the temple destroyed in AD 70."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "herod",
+      "text": "Augustus becomes emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "ministry",
+      "text": "Tiberius is emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "church",
+      "text": "Claudius is emperor (AD 41 to 54); Thessalonica is the capital of Macedonia; Gallio governs Achaia."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "war",
+      "text": "A year of civil war, then Vespasian."
+    },
+    {
+      "lane": "book",
+      "eraId": "church",
+      "text": "Written from Corinth, about AD 50 to 51",
+      "highlight": true
+    }
+  ],
+  "teaser": [
+    {
+      "title": "Paul founds the church",
+      "text": "Paul preaches in Thessalonica for a short time and is forced out, about AD 49 to 50 (Acts 17:1-9).",
+      "tone": "green"
+    },
+    {
+      "title": "1 Thessalonians is written",
+      "text": "Paul writes from Corinth, about AD 50 to 51, among the earliest of his surviving letters.",
+      "tone": "gold"
+    },
+    {
+      "title": "A second letter follows",
+      "text": "Paul soon writes again to correct a misunderstanding about the Lord's coming (2 Thessalonians).",
+      "tone": "ink"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

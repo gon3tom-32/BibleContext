@@ -1,0 +1,652 @@
+{
+  "osis": "1Thess",
+  "stepBook": "1Th",
+  "webFile": "1thessalonians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "philippi",
+      "ancientId": "a49e1d0"
+    },
+    {
+      "id": "thessalonica",
+      "ancientId": "afa9d8e"
+    },
+    {
+      "id": "athens",
+      "ancientId": "a1fe6e7"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a",
+      "mapOnly": true
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [
+    {
+      "id": "ekecheomai",
+      "strongs": [
+        "G1837"
+      ],
+      "foundAt": "1 Thessalonians 1:8"
+    },
+    {
+      "id": "eisodos",
+      "strongs": [
+        "G1529"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "alethinos",
+      "strongs": [
+        "G0228"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "anameno",
+      "strongs": [
+        "G0362"
+      ],
+      "foundAt": "1 Thessalonians 1:10"
+    },
+    {
+      "id": "rhuomai",
+      "strongs": [
+        "G4506"
+      ],
+      "foundAt": "1 Thessalonians 1:10"
+    },
+    {
+      "id": "hybrizo",
+      "strongs": [
+        "G5195"
+      ],
+      "foundAt": "1 Thessalonians 2:2"
+    },
+    {
+      "id": "parresiazomai",
+      "strongs": [
+        "G3955"
+      ],
+      "foundAt": "1 Thessalonians 2:2"
+    },
+    {
+      "id": "dolos",
+      "strongs": [
+        "G1388"
+      ],
+      "foundAt": "1 Thessalonians 2:3"
+    },
+    {
+      "id": "aresko",
+      "strongs": [
+        "G0700"
+      ],
+      "foundAt": "1 Thessalonians 2:4"
+    },
+    {
+      "id": "kolakeia",
+      "strongs": [
+        "G2850"
+      ],
+      "foundAt": "1 Thessalonians 2:5"
+    },
+    {
+      "id": "trophos",
+      "strongs": [
+        "G5162"
+      ],
+      "foundAt": "1 Thessalonians 2:7"
+    },
+    {
+      "id": "mochthos",
+      "strongs": [
+        "G3449"
+      ],
+      "foundAt": "1 Thessalonians 2:9"
+    },
+    {
+      "id": "nyx",
+      "strongs": [
+        "G3571"
+      ],
+      "foundAt": "1 Thessalonians 2:9"
+    },
+    {
+      "id": "hemera",
+      "strongs": [
+        "G2250"
+      ],
+      "foundAt": "1 Thessalonians 2:9"
+    },
+    {
+      "id": "epibareo",
+      "strongs": [
+        "G1912"
+      ],
+      "foundAt": "1 Thessalonians 2:9"
+    },
+    {
+      "id": "hosios",
+      "strongs": [
+        "G3743"
+      ],
+      "foundAt": "1 Thessalonians 2:10"
+    },
+    {
+      "id": "amemptos",
+      "strongs": [
+        "G0274"
+      ],
+      "foundAt": "1 Thessalonians 2:10"
+    },
+    {
+      "id": "paramytheomai",
+      "strongs": [
+        "G3888"
+      ],
+      "foundAt": "1 Thessalonians 2:12"
+    },
+    {
+      "id": "apokteino",
+      "strongs": [
+        "G0615"
+      ],
+      "foundAt": "1 Thessalonians 2:15"
+    },
+    {
+      "id": "koluo",
+      "strongs": [
+        "G2967"
+      ],
+      "foundAt": "1 Thessalonians 2:16"
+    },
+    {
+      "id": "phthano",
+      "strongs": [
+        "G5348"
+      ],
+      "foundAt": "1 Thessalonians 2:16"
+    },
+    {
+      "id": "aporphanizo",
+      "strongs": [
+        "G0642"
+      ],
+      "foundAt": "1 Thessalonians 2:17"
+    },
+    {
+      "id": "kauchesis",
+      "strongs": [
+        "G2746"
+      ],
+      "foundAt": "1 Thessalonians 2:19"
+    },
+    {
+      "id": "stego",
+      "strongs": [
+        "G4722"
+      ],
+      "foundAt": "1 Thessalonians 3:1"
+    },
+    {
+      "id": "sterizo",
+      "strongs": [
+        "G4741"
+      ],
+      "foundAt": "1 Thessalonians 3:2"
+    },
+    {
+      "id": "saino",
+      "strongs": [
+        "G4525"
+      ],
+      "foundAt": "1 Thessalonians 3:3"
+    },
+    {
+      "id": "proereo",
+      "strongs": [
+        "G4302"
+      ],
+      "foundAt": "1 Thessalonians 3:4"
+    },
+    {
+      "id": "mneia",
+      "strongs": [
+        "G3417"
+      ],
+      "foundAt": "1 Thessalonians 1:2"
+    },
+    {
+      "id": "steko",
+      "strongs": [
+        "G4739"
+      ],
+      "foundAt": "1 Thessalonians 3:8"
+    },
+    {
+      "id": "prosopon",
+      "strongs": [
+        "G4383"
+      ],
+      "foundAt": "1 Thessalonians 2:17"
+    },
+    {
+      "id": "kateuthyno",
+      "strongs": [
+        "G2720"
+      ],
+      "foundAt": "1 Thessalonians 3:11"
+    },
+    {
+      "id": "pleonazo",
+      "strongs": [
+        "G4121"
+      ],
+      "foundAt": "1 Thessalonians 3:12"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "1 Thessalonians 1:2"
+    },
+    {
+      "id": "ergon",
+      "strongs": [
+        "G2041"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "kopos",
+      "strongs": [
+        "G2873"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "1 Thessalonians 1:3"
+    },
+    {
+      "id": "ekloge",
+      "strongs": [
+        "G1589"
+      ],
+      "foundAt": "1 Thessalonians 1:4"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "1 Thessalonians 1:5"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "1 Thessalonians 1:5"
+    },
+    {
+      "id": "plerophoria",
+      "strongs": [
+        "G4136"
+      ],
+      "foundAt": "1 Thessalonians 1:5"
+    },
+    {
+      "id": "mimetes",
+      "strongs": [
+        "G3402"
+      ],
+      "foundAt": "1 Thessalonians 1:6"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "1 Thessalonians 1:6"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "1 Thessalonians 1:6"
+    },
+    {
+      "id": "typos",
+      "strongs": [
+        "G5179"
+      ],
+      "foundAt": "1 Thessalonians 1:7"
+    },
+    {
+      "id": "epistrepho",
+      "strongs": [
+        "G1994"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "eidolon",
+      "strongs": [
+        "G1497"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "douleuo",
+      "strongs": [
+        "G1398"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "1 Thessalonians 1:9"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "1 Thessalonians 1:10"
+    },
+    {
+      "id": "orge",
+      "strongs": [
+        "G3709"
+      ],
+      "foundAt": "1 Thessalonians 1:10"
+    },
+    {
+      "id": "kenos",
+      "strongs": [
+        "G2756"
+      ],
+      "foundAt": "1 Thessalonians 2:1"
+    },
+    {
+      "id": "agon",
+      "strongs": [
+        "G0073"
+      ],
+      "foundAt": "1 Thessalonians 2:2"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "1 Thessalonians 2:3"
+    },
+    {
+      "id": "plane",
+      "strongs": [
+        "G4106"
+      ],
+      "foundAt": "1 Thessalonians 2:3"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "1 Thessalonians 2:3"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "1 Thessalonians 2:4"
+    },
+    {
+      "id": "pleonexia",
+      "strongs": [
+        "G4124"
+      ],
+      "foundAt": "1 Thessalonians 2:5"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "1 Thessalonians 2:6"
+    },
+    {
+      "id": "nepios",
+      "strongs": [
+        "G3516"
+      ],
+      "foundAt": "1 Thessalonians 2:7"
+    },
+    {
+      "id": "thalpo",
+      "strongs": [
+        "G2282"
+      ],
+      "foundAt": "1 Thessalonians 2:7"
+    },
+    {
+      "id": "psyche",
+      "strongs": [
+        "G5590G",
+        "G5590H",
+        "G5590I",
+        "G5590J"
+      ],
+      "foundAt": "1 Thessalonians 2:8"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "1 Thessalonians 2:12"
+    },
+    {
+      "id": "peripateo",
+      "strongs": [
+        "G4043"
+      ],
+      "foundAt": "1 Thessalonians 2:12"
+    },
+    {
+      "id": "axios",
+      "strongs": [
+        "G0516"
+      ],
+      "foundAt": "1 Thessalonians 2:12"
+    },
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "1 Thessalonians 1:5"
+    },
+    {
+      "id": "energeo",
+      "strongs": [
+        "G1754"
+      ],
+      "foundAt": "1 Thessalonians 2:13"
+    },
+    {
+      "id": "dioko",
+      "strongs": [
+        "G1377"
+      ],
+      "foundAt": "1 Thessalonians 5:15"
+    },
+    {
+      "id": "satanas",
+      "strongs": [
+        "G4567"
+      ],
+      "foundAt": "1 Thessalonians 2:18"
+    },
+    {
+      "id": "stephanos",
+      "strongs": [
+        "G4735"
+      ],
+      "foundAt": "1 Thessalonians 2:19"
+    },
+    {
+      "id": "parousia",
+      "strongs": [
+        "G3952"
+      ],
+      "foundAt": "1 Thessalonians 2:19"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "1 Thessalonians 3:6"
+    },
+    {
+      "id": "peirazo",
+      "strongs": [
+        "G3985G"
+      ],
+      "foundAt": "1 Thessalonians 3:5"
+    },
+    {
+      "id": "mello",
+      "strongs": [
+        "G3195"
+      ],
+      "foundAt": "1 Thessalonians 3:4"
+    },
+    {
+      "id": "epipotheo",
+      "strongs": [
+        "G1971"
+      ],
+      "foundAt": "1 Thessalonians 3:6"
+    },
+    {
+      "id": "eucharistia",
+      "strongs": [
+        "G2169"
+      ],
+      "foundAt": "1 Thessalonians 3:9"
+    },
+    {
+      "id": "hyperekperissou",
+      "strongs": [
+        "G5228"
+      ],
+      "foundAt": "1 Thessalonians 3:2"
+    },
+    {
+      "id": "katartizo",
+      "strongs": [
+        "G2675"
+      ],
+      "foundAt": "1 Thessalonians 3:10"
+    },
+    {
+      "id": "hysterema",
+      "strongs": [
+        "G5303"
+      ],
+      "foundAt": "1 Thessalonians 3:10"
+    },
+    {
+      "id": "perisseuo",
+      "strongs": [
+        "G4052"
+      ],
+      "foundAt": "1 Thessalonians 3:12"
+    },
+    {
+      "id": "hagiosyne",
+      "strongs": [
+        "G0042"
+      ],
+      "foundAt": "1 Thessalonians 3:13"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "1 Thessalonians 1:5"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Corinth isn't named in 1 Thessalonians; it is shown because Acts places Paul there when Timothy returned (Acts 18:1-5)."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

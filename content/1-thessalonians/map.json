@@ -1,0 +1,105 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "philippi",
+      "title": "Beaten and jailed",
+      "short": "Philippi",
+      "refs": "1 Thessalonians 2:2; Acts 16:11-40",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Paul and Silas had been \"shamefully treated\" in Philippi, a Roman colony, before coming to Thessalonica."
+    },
+    {
+      "order": 2,
+      "placeId": "thessalonica",
+      "title": "The church addressed",
+      "short": "Thessalonica",
+      "refs": "1 Thessalonians 1:1; Acts 17:1-9",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A busy port and the capital of Macedonia, where Paul founded the church and had to leave in haste."
+    },
+    {
+      "order": 3,
+      "placeId": "athens",
+      "title": "Where Paul sends Timothy",
+      "short": "Athens",
+      "refs": "1 Thessalonians 3:1-2; Acts 17:16-34",
+      "chapter": 3,
+      "direction": "out",
+      "text": "Left alone in Athens, Paul sends Timothy back to strengthen the Thessalonians."
+    },
+    {
+      "order": 4,
+      "placeId": "corinth",
+      "title": "Where Paul writes",
+      "short": "Corinth",
+      "refs": "Acts 18:1-11",
+      "chapter": 3,
+      "direction": "out",
+      "text": "Timothy rejoins Paul with good news, and Paul writes. Corinth isn't named in the letter; it is inferred from Acts."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 20.2,
+      "east": 26.2,
+      "south": 36.8,
+      "north": 41.8
+    },
+    "label": "Map of northern Greece and the Aegean, drawn from real coordinates. Numbered stops mark Philippi, Thessalonica, Athens, and Corinth.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "philippi",
+        "label": "Philippi",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "thessalonica",
+        "label": "Thessalonica",
+        "labelSide": "left"
+      },
+      {
+        "order": 3,
+        "at": "athens",
+        "label": "Athens",
+        "labelSide": "right"
+      },
+      {
+        "order": 4,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left",
+        "offset": [
+          -2,
+          6
+        ]
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null,
+      "macedonia": null,
+      "achaia": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
