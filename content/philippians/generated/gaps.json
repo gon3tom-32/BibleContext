@@ -2,6 +2,14 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
+      "area": "words",
+      "text": "\"Matthew 7:24\" (listed under oikia): STEPBible tags the same word there as G3614G, a different sense (\"home\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"John 14:2\" (listed under oikia): STEPBible tags the same word there as G3614G, a different sense (\"home\"). Fine to keep if the note says so."
+    },
+    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -24,10 +32,6 @@
     {
       "area": "places",
       "text": "Rome isn't named in Philippians. It is shown as the traditional place of Paul's imprisonment; Ephesus and Caesarea have also been suggested."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }

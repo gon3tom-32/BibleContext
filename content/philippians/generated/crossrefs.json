@@ -235,7 +235,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Galatians 2:16-21",
+          "inDataset": true,
+          "votes": 89
+        },
+        {
+          "ref": "Romans 8:17-23",
+          "inDataset": true,
+          "votes": 59
+        },
+        {
+          "ref": "1 Corinthians 9:24-27",
+          "inDataset": true,
+          "votes": 132
+        },
+        {
+          "ref": "1 Corinthians 15:42-53",
+          "inDataset": true,
+          "votes": 21
+        }
+      ]
     },
     {
       "number": 4,
@@ -298,7 +319,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Matthew 6:25-34",
+          "inDataset": true,
+          "votes": 368
+        },
+        {
+          "ref": "1 Peter 5:7",
+          "inDataset": true,
+          "votes": 325
+        },
+        {
+          "ref": "2 Corinthians 11:9",
+          "inDataset": true,
+          "votes": 28
+        },
+        {
+          "ref": "Acts 17:1-9",
+          "inDataset": true,
+          "votes": 3
+        }
+      ]
     }
   ]
 }
