@@ -1,0 +1,157 @@
+[
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "From Nazareth in Galilee. Mark opens by calling him Christ, the Son of God, and spends the rest of the book on what that means."
+  },
+  {
+    "id": "john-baptist",
+    "name": "John the Baptist",
+    "note": "A prophet in the wilderness who calls people to repent and baptizes them in the Jordan."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "A fisherman from Capernaum, the first disciple called and the most prominent of the twelve."
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "note": "Peter's brother, also a fisherman."
+  },
+  {
+    "id": "james-zebedee",
+    "name": "James",
+    "note": "Son of Zebedee, called with his brother John from their father's boat."
+  },
+  {
+    "id": "john-apostle",
+    "name": "John",
+    "note": "Son of Zebedee and brother of James."
+  },
+  {
+    "id": "man-with-unclean-spirit",
+    "name": "A man in the synagogue",
+    "note": "Unnamed in Mark; the first person Jesus frees from an unclean spirit."
+  },
+  {
+    "id": "peters-mother-in-law",
+    "name": "Peter's mother-in-law",
+    "note": "Lived in Peter's house in Capernaum."
+  },
+  {
+    "id": "the-leper",
+    "name": "A man with a skin disease",
+    "note": "Cut off from the community by the purity laws until a priest declared him clean."
+  },
+  {
+    "id": "the-paralyzed-man",
+    "name": "A paralyzed man",
+    "note": "Brought to Jesus on a mat by his friends."
+  },
+  {
+    "id": "the-four-friends",
+    "name": "The four friends",
+    "note": "The men who carried the paralyzed man and dug through the roof."
+  },
+  {
+    "id": "religious-leaders",
+    "name": "Scribes and Pharisees",
+    "note": "Scribes were experts in the law, and Pharisees taught careful keeping of it. They are Jesus' main opponents in Galilee."
+  },
+  {
+    "id": "levi",
+    "name": "Levi",
+    "note": "A tax collector, the son of Alphaeus, who becomes a follower of Jesus; traditionally the same man as Matthew."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "Israel's great king, from whose line the Christ was expected."
+  },
+  {
+    "id": "the-disciples",
+    "name": "The disciples",
+    "note": "Jesus' followers, starting with the four fishermen. Later, the twelve."
+  },
+  {
+    "id": "the-man-with-the-withered-hand",
+    "name": "A man with a withered hand",
+    "note": "Healed in a synagogue on the Sabbath."
+  },
+  {
+    "id": "herodians",
+    "name": "The Herodians",
+    "note": "Supporters of the Herod family and its Rome-backed rule."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people from Galilee, Judea, and beyond who follow Jesus to listen and be healed."
+  },
+  {
+    "id": "the-twelve",
+    "name": "The twelve",
+    "note": "Peter, Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot."
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "One of the twelve, who later betrays Jesus."
+  },
+  {
+    "id": "jesus-family",
+    "name": "Jesus' mother and brothers",
+    "note": "His family in Nazareth. His brothers are named in 6:3."
+  },
+  {
+    "id": "gerasene-man",
+    "name": "The man from the tombs",
+    "note": "Violent and isolated, he becomes the first Gentile missionary in Mark."
+  },
+  {
+    "id": "jairus",
+    "name": "Jairus",
+    "note": "A leader of the synagogue, in Galilee."
+  },
+  {
+    "id": "jairus-daughter",
+    "name": "Jairus' daughter",
+    "note": "A girl of twelve."
+  },
+  {
+    "id": "woman-with-bleeding",
+    "name": "The woman with the flow of blood",
+    "note": "Unnamed; ill and, by the purity laws, cut off for twelve years."
+  },
+  {
+    "id": "herod-antipas",
+    "name": "Herod Antipas",
+    "note": "Son of Herod the Great; ruled Galilee and Perea as tetrarch."
+  },
+  {
+    "id": "herodias",
+    "name": "Herodias",
+    "note": "Antipas' wife, formerly married to his brother."
+  },
+  {
+    "id": "herodias-daughter",
+    "name": "Herodias' daughter",
+    "note": "Unnamed in Mark; Josephus calls her Salome."
+  },
+  {
+    "id": "the-syrophoenician-woman",
+    "name": "The Syrophoenician woman",
+    "note": "A Greek woman from the region of Tyre."
+  },
+  {
+    "id": "the-deaf-man",
+    "name": "The deaf man",
+    "note": "Brought by friends in the Decapolis."
+  },
+  {
+    "id": "the-blind-man-of-bethsaida",
+    "name": "The blind man of Bethsaida",
+    "note": "Healed in two stages."
+  }
+]

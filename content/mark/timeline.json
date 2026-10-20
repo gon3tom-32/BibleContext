@@ -1,0 +1,130 @@
+{
+  "title": "Where Mark fits",
+  "eras": [
+    {
+      "id": "exile",
+      "label": "Exile and return",
+      "order": 1
+    },
+    {
+      "id": "greek",
+      "label": "Greek rule",
+      "order": 2
+    },
+    {
+      "id": "herod",
+      "label": "Rome and Herod",
+      "order": 3
+    },
+    {
+      "id": "ministry",
+      "label": "Jesus' ministry",
+      "order": 4
+    },
+    {
+      "id": "war",
+      "label": "The Jewish war and after",
+      "order": 5
+    }
+  ],
+  "focusEraId": "ministry",
+  "lanes": [
+    {
+      "id": "israel",
+      "label": "Judea and Galilee"
+    },
+    {
+      "id": "neighbors",
+      "label": "Empires"
+    },
+    {
+      "id": "book",
+      "label": "This book"
+    }
+  ],
+  "events": [
+    {
+      "lane": "israel",
+      "eraId": "exile",
+      "text": "Judah taken to Babylon; some return and rebuild the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "greek",
+      "text": "The Maccabean revolt; a brief Jewish kingdom."
+    },
+    {
+      "lane": "israel",
+      "eraId": "herod",
+      "text": "Herod the Great rules for Rome and rebuilds the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "ministry",
+      "text": "Herod's sons rule Galilee; a Roman governor rules Judea."
+    },
+    {
+      "lane": "israel",
+      "eraId": "war",
+      "text": "Revolt against Rome from AD 66; the temple destroyed in AD 70."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "exile",
+      "text": "Babylon, then Persia."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "greek",
+      "text": "Alexander the Great and the kingdoms that follow him."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "herod",
+      "text": "Rome takes control (63 BC); Augustus becomes emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "ministry",
+      "text": "Tiberius is emperor; Pilate governs Judea."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "war",
+      "text": "Nero, then a year of civil war, then Vespasian."
+    },
+    {
+      "lane": "book",
+      "eraId": "ministry",
+      "text": "The story takes place (about AD 27-30)",
+      "highlight": true
+    },
+    {
+      "lane": "book",
+      "eraId": "war",
+      "text": "Probably written, perhaps near AD 70 (date debated)",
+      "highlight": true
+    }
+  ],
+  "teaser": [
+    {
+      "title": "Jesus' ministry",
+      "text": "Usually placed around AD 27-30, in Galilee and then Jerusalem.",
+      "tone": "green"
+    },
+    {
+      "title": "Mark is written",
+      "text": "Most scholars say the 60s or around AD 70. The date is debated.",
+      "tone": "gold"
+    },
+    {
+      "title": "The temple falls",
+      "text": "Rome destroys Jerusalem's temple in AD 70.",
+      "tone": "ink"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

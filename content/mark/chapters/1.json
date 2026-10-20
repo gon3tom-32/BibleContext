@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "The wilderness, the Jordan, and a first week of work in Capernaum",
+  "summary": "Mark opens, \"The beginning of the good news of Jesus Christ, the Son of God.\" (Some early manuscripts leave out \"the Son of God.\") As written in the prophet, a messenger prepares the way, a voice in the wilderness. John the baptizer appears there, preaching a baptism of repentance for the forgiveness of sins; people from all Judea and Jerusalem come out to be baptized in the Jordan. He wears camel's hair with a leather belt and eats locusts and wild honey, and says that someone stronger is coming who will baptize with the Holy Spirit. Jesus comes from Nazareth and is baptized, and as he comes up, he sees the heavens torn open and the Spirit descending like a dove, and a voice says, \"You are my beloved Son, in whom I am well pleased.\" Immediately the Spirit drives him into the wilderness, where he is tested by Satan for forty days among wild animals, and angels serve him. After John is arrested, Jesus goes into Galilee proclaiming the good news: \"The time is fulfilled, and the kingdom of God is at hand. Repent, and believe in the good news.\" Walking by the sea, he calls Simon and Andrew, who are casting a net, and James and John, who are mending theirs; they leave their nets, and James and John leave their father Zebedee in the boat with the hired servants. On the Sabbath in Capernaum, he teaches in the synagogue, and they are astonished because he teaches with authority and not like the scribes. A man with an unclean spirit cries out, \"What do we have to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God.\" Jesus rebukes the spirit, \"Be silent, and come out of him,\" and it convulses the man and comes out. The crowd is amazed, and his fame spreads through Galilee. At Simon's house he lifts up Simon's mother-in-law, who has a fever, and she begins to serve them. That evening, when the sun has set, the whole town gathers at the door, and he heals many and casts out many demons, not allowing them to speak, because they know who he is. Before dawn he goes to a deserted place to pray. When Simon and the others find him and say everyone is looking for him, he says, \"Let's go elsewhere into the next towns, that I may preach there also, because for this reason I came out.\" He preaches in the synagogues all over Galilee. A man with a skin disease kneels and says, \"If you are willing, you can make me clean.\" Moved with compassion (some manuscripts say anger), Jesus reaches out and touches him: \"I am willing. Be made clean.\" He sternly warns the man to say nothing but to show himself to the priest and offer what Moses commanded, but the man goes out and spreads the news so widely that Jesus can no longer enter a town openly and stays in deserted places, where people come to him from everywhere.",
+  "whySettingMatters": "Mark's \"good news\" (euangelion) was a word for announcing a victory or a ruler's accession, and Isaiah 40 and 52 use the same idea for God's coming rule; the opening may be a title for the whole book. The quotation \"in Isaiah the prophet\" blends Malachi 3:1 with Isaiah 40:3. The wilderness was where Israel was formed after the exodus and where Elijah met God; John's clothing echoes Elijah (2 Kings 1:8), and locusts were permitted food (Leviticus 11:22). Mark's verb \"torn open\" for the heavens returns when the temple curtain is \"torn in two\" at the cross (15:38). Mark's first scenes are fast: the word \"immediately\" appears dozens of times. A Sabbath ran from Friday sunset to Saturday sunset, which is why the sick are brought only \"when the sun had set.\" Fishing was a family business: Zebedee had hired servants, so James and John leave something real. \"Unclean spirit\" means a spirit that makes a person ritually impure. The law about skin diseases (Leviticus 13-14) kept the afflicted apart, so touching the man crosses a boundary. Jesus' repeated orders to keep quiet about who he is, called the \"messianic secret,\" are a pattern in Mark whose purpose is debated.",
+  "people": [
+    {
+      "id": "john-baptist",
+      "note": "Preaches in the wilderness and baptizes Jesus; arrested soon after."
+    },
+    {
+      "id": "peter",
+      "note": "Called while casting a net; his house becomes Jesus' base."
+    },
+    {
+      "id": "andrew",
+      "note": "Peter's brother, called with him."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "Leaves his father's boat to follow Jesus."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Called with his brother James."
+    },
+    {
+      "id": "man-with-unclean-spirit",
+      "note": "The first person Jesus frees in the synagogue; the spirit names Jesus the Holy One of God."
+    },
+    {
+      "id": "peters-mother-in-law",
+      "note": "Lifted up by Jesus and begins to serve."
+    },
+    {
+      "id": "the-leper",
+      "note": "A man with a skin disease who kneels and asks to be made clean."
+    }
+  ],
+  "questions": [
+    "Mark starts with \"the good news\" and almost no preamble. What does that do to how you read the rest?",
+    "The voice at the baptism calls Jesus \"my beloved Son,\" and immediately the Spirit drives him into the wilderness. How do those two fit together?",
+    "Jesus silences the unclean spirit even though it speaks the truth about him. Why might he do that?",
+    "Jesus is moved to touch a man the law says to avoid. What is Mark showing about how Jesus treats boundaries?"
+  ],
+  "words": [
+    {
+      "id": "euangelion",
+      "note": "\"The beginning of the good news\" (1:1), and \"believe in the good news\" (1:15)."
+    },
+    {
+      "id": "eremos",
+      "note": "John in the wilderness, the temptation, and Jesus praying in deserted places (1:3-4, 1:12-13, 1:35, 1:45)."
+    },
+    {
+      "id": "euthys",
+      "note": "\"Immediately\" runs through the chapter (1:10, 1:12, 1:18, 1:20)."
+    },
+    {
+      "id": "metanoeo",
+      "note": "\"Repent, and believe in the good news\" (1:15)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"The kingdom of God is at hand\" (1:15)."
+    },
+    {
+      "id": "exousia",
+      "note": "He teaches \"as one having authority\" (1:22, 1:27)."
+    },
+    {
+      "id": "akathartos",
+      "note": "The man with an unclean spirit (1:23, 1:26-27)."
+    },
+    {
+      "id": "epitimao",
+      "note": "Jesus rebukes the spirit: \"Be silent\" (1:25)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Malachi 3:1",
+      "note": "the messenger sent ahead"
+    },
+    {
+      "ref": "Isaiah 40:3",
+      "note": "a voice in the wilderness"
+    },
+    {
+      "ref": "2 Kings 1:8",
+      "note": "Elijah's hair garment and leather belt"
+    },
+    {
+      "ref": "Leviticus 14:1-32",
+      "note": "the cleansing of a person with a skin disease"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

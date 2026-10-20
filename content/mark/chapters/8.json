@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Four thousand fed, then a blind man healed and Peter's confession",
+  "summary": "In those days another large crowd has nothing to eat. Jesus says, \"I have compassion on the multitude,\" since some have come a long way. The disciples ask where anyone could get bread in a deserted place. Jesus asks what they have: seven loaves and a few small fish. He blesses, breaks, and gives, and about four thousand eat and are filled; seven baskets of broken pieces are left. He then goes to the region of Dalmanutha, where the Pharisees ask him for a sign from heaven, and he sighs deeply and says, \"Why does this generation seek a sign? ... No sign will be given.\" In the boat the disciples have forgotten bread, and Jesus warns, \"Beware of the yeast of the Pharisees and the yeast of Herod.\" They talk among themselves about having no bread, and he asks, \"Do you not yet perceive, neither understand? Is your heart still hardened? Having eyes, don't you see? Having ears, don't you hear?\" He reminds them how many baskets were left after the five thousand and after the four thousand, and asks, \"Don't you understand yet?\" At Bethsaida, people bring a blind man; Jesus leads him outside the village, spits on his eyes, lays his hands on him, and asks, \"Do you see anything?\" The man says, \"I see men, as trees, walking.\" Jesus lays hands on him again, and he sees everything clearly. He is sent home, not into the village. On the way to the villages of Caesarea Philippi, Jesus asks, \"Who do men say that I am?\" Some say John the Baptist, others Elijah, others one of the prophets. \"But who do you say that I am?\" Peter answers, \"You are the Christ.\" Jesus warns them to tell no one. Then for the first time he teaches plainly that the Son of Man must suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and after three days rise again. Peter takes him aside and rebukes him; Jesus turns, looks at the disciples, and rebukes Peter: \"Get behind me, Satan! For you have in mind not the things of God, but the things of men.\" Calling the crowd and the disciples, he says, \"Whoever wants to come after me, let him deny himself, and take up his cross, and follow me. For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the gospel's will save it.\"",
+  "whySettingMatters": "This chapter is the hinge of Mark. Before it, people ask who Jesus is; from here, he starts to say what kind of Christ he is. The healing of the blind man comes right before Peter's confession and right after the disciples' failure to see, and it is the only miracle in the Gospels done in two stages, which many readers take as a picture of how the disciples are slowly coming to see. Caesarea Philippi lay at the foot of Mount Hermon beside a spring and a cave long associated with the Greek god Pan; Herod Philip had rebuilt it and named it in honor of Caesar. Asking about the identity of the Christ there, under a city named for the emperor, makes the question pointed. \"Christ\" translates the Hebrew \"Messiah,\" the anointed king, and the expectations people had of what that would mean varied. \"Son of Man\" is the title Jesus uses for himself; it draws on Daniel 7:13-14 and can also simply mean \"a man.\" \"Take up his cross\" would have been shocking: the cross was a Roman instrument of public execution, and a condemned man carried his own crossbeam. Dalmanutha is mentioned only here, and where it was is unknown. Yeast is a regular biblical picture of something small that spreads.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Asks who people say he is, and tells the disciples what lies ahead."
+    },
+    {
+      "id": "peter",
+      "note": "Confesses him as the Christ, then is sharply rebuked for resisting the cross."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Slow to understand the loaves and the warning about yeast."
+    },
+    {
+      "id": "the-blind-man-of-bethsaida",
+      "note": "Healed in two stages, outside the village."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Ask for a sign from heaven."
+    },
+    {
+      "id": "herod-antipas",
+      "note": "His \"yeast\" is mentioned in the warning (8:15)."
+    },
+    {
+      "id": "john-baptist",
+      "note": "One of the guesses about who Jesus is."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Fed in the wilderness; called with the disciples to hear about the cross."
+    }
+  ],
+  "questions": [
+    "The disciples ask where bread could be found even after the first feeding. What does Jesus' reaction say about what he hopes they would see?",
+    "Why might Mark have placed a two-stage healing of blindness right next to Peter's confession?",
+    "Peter is right that Jesus is the Christ and wrong about what that will mean. How do we separate the two in our own picture of Jesus?",
+    "\"Take up his cross\" meant something specific to the first hearers. What does it mean to you, and what does it not mean?"
+  ],
+  "words": [
+    {
+      "id": "artos",
+      "note": "The disciples have only one loaf (8:14) and are rebuked for \"no bread\" talk (8:16-19)."
+    },
+    {
+      "id": "epitimao",
+      "note": "Jesus tells them not to tell anyone (8:30) and Peter and Jesus rebuke each other (8:32-33)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Whoever wants to save his life will lose it; and whoever will lose his life ... will save it\" (8:35)."
+    },
+    {
+      "id": "stauros",
+      "note": "\"Take up his cross\" (8:34)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "\"I have compassion on the multitude\" (8:2)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 5:21",
+      "note": "\"who have eyes, and don't see\""
+    },
+    {
+      "ref": "Daniel 7:13-14",
+      "note": "one like a son of man receives the kingdom"
+    },
+    {
+      "ref": "Psalm 118:22",
+      "note": "the stone the builders rejected"
+    },
+    {
+      "ref": "Isaiah 53:3",
+      "note": "despised and rejected by men"
+    },
+    {
+      "ref": "Ezekiel 12:2",
+      "note": "a rebellious house with eyes that don't see"
+    }
+  ],
+  "number": 8,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

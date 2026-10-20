@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Opposition grows, and Jesus names the twelve",
+  "summary": "In the synagogue a man with a withered hand is there, and people watch to see whether Jesus will heal on the Sabbath so they can accuse him. He tells the man to stand in the middle and asks, \"Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?\" They are silent. Jesus looks around at them with anger, grieved at their hardness of heart, and tells the man to stretch out his hand, and it is restored. The Pharisees go out and immediately begin plotting with the Herodians how to destroy him. Jesus withdraws to the sea with his disciples, and crowds come from Galilee, Judea, Jerusalem, Idumea, beyond the Jordan, and around Tyre and Sidon. He has a boat ready so the crowd won't crush him. Whenever the unclean spirits see him they fall down and cry out, \"You are the Son of God!\" and he sternly orders them not to make him known. He goes up the mountain and calls those he wants, appoints twelve \"to be with him and to be sent out to preach and have authority to cast out demons.\" The names are Simon (whom he names Peter), James and John the sons of Zebedee (whom he names Boanerges, \"sons of thunder\"), Andrew, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, who betrayed him. At home the crowd gathers again so that they can't even eat. When his family hears, they go out to seize him, saying, \"He is out of his mind.\" Scribes who came down from Jerusalem say, \"He has Beelzebul,\" and that he casts out demons by the prince of demons. Jesus answers in parables: a kingdom or a house divided against itself can't stand, and no one can plunder a strong man's house without first tying up the strong man. Then he says all sins will be forgiven, but whoever blasphemes against the Holy Spirit has no forgiveness, because they said, \"He has an unclean spirit.\" His mother and brothers arrive and stand outside, and he asks, \"Who are my mother and my brothers?\" Looking at those seated around him, he says, \"Here are my mother and my brothers! For whoever does the will of God is my brother, my sister, and mother.\"",
+  "whySettingMatters": "The Herodians supported Herod's family and its Roman-backed rule, so their plot with the Pharisees joins two groups that normally disagreed. Idumea was the region south of Judea (the old Edom), the homeland of Herod's family, and Tyre and Sidon were Gentile coastal cities, so the crowd reaches well beyond the Jewish heartland. Twelve apostles echo the twelve tribes of Israel, and the group includes a tax collector and a Zealot (the name may mean zealous for the law or opposed to Rome; that is debated). \"Boanerges\" is an Aramaic-sounding nickname, and its exact meaning is uncertain. Mark often wraps one story around another, as here: the family's arrival (3:20-21) frames the scribes' charge, and it resumes at 3:31-35. \"Beelzebul\" was a name for the prince of demons. What \"blaspheming the Holy Spirit\" means is debated, but in this passage it is calling the Spirit's work evil. Family was the center of identity and honor in that world, so Jesus' answer about who his family is would have been striking.",
+  "people": [
+    {
+      "id": "the-man-with-the-withered-hand",
+      "note": "Called to stand in the middle and healed."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees who watch him, and scribes from Jerusalem who say he works by Beelzebul."
+    },
+    {
+      "id": "herodians",
+      "note": "Join the Pharisees in a plot to destroy him."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Come from as far as Tyre and Sidon."
+    },
+    {
+      "id": "the-twelve",
+      "note": "Appointed to be with him, to preach, and to have authority over demons."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Named last, as the one who betrayed him."
+    },
+    {
+      "id": "jesus-family",
+      "note": "Come to take charge of him, thinking he is out of his mind."
+    }
+  ],
+  "questions": [
+    "Jesus asks, \"Is it lawful to do good or to do harm on the Sabbath?\" and no one answers. What do you make of their silence?",
+    "He appoints twelve \"to be with him\" before being \"sent out.\" Why might that order matter?",
+    "His family thinks he is out of his mind and the scribes say he is possessed. How do the two accusations compare?",
+    "\"Whoever does the will of God is my brother and sister and mother.\" What does that do to how we define family?"
+  ],
+  "words": [
+    {
+      "id": "epitimao",
+      "note": "Jesus \"sternly orders\" the spirits not to make him known (3:12)."
+    },
+    {
+      "id": "blasphemeo",
+      "note": "Blasphemy against the Holy Spirit (3:28-29)."
+    },
+    {
+      "id": "exousia",
+      "note": "The twelve are given authority to cast out demons (3:15)."
+    },
+    {
+      "id": "akathartos",
+      "note": "\"He has an unclean spirit\" (3:30)."
+    },
+    {
+      "id": "sabbaton",
+      "note": "The healing on the Sabbath (3:2, 3:4)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 49:24-26",
+      "note": "the prey taken from the strong man"
+    },
+    {
+      "ref": "Isaiah 61:1",
+      "note": "freedom for the captives"
+    },
+    {
+      "ref": "Psalm 133:1",
+      "note": "how good it is when kindred live together in unity"
+    },
+    {
+      "ref": "Deuteronomy 33:9",
+      "note": "Levi puts God's word above family"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sceneHappening": "Teaching in parables from a boat, then a storm on the lake",
+  "summary": "Jesus teaches by the sea, and so many people gather that he gets into a boat and sits in it while they stand on the shore. He teaches in parables: a sower goes out to sow, and some seed falls on the path and the birds eat it, some on rocky ground where it springs up quickly and withers in the sun, some among thorns that choke it, and some on good soil, which bears fruit thirty, sixty, and a hundredfold. \"He who has ears to hear, let him hear.\" When he is alone with the twelve and others, they ask about the parables, and he says, \"To you is given the mystery of the kingdom of God, but to those who are outside, all things are done in parables, that 'seeing they may see and not perceive,'\" quoting Isaiah. He asks, \"Don't you understand this parable? How will you understand all the parables?\" and explains the sower: the seed is the word, and the soils are the different ways people receive it. He adds that a lamp is put on a stand, not under a basket, that nothing hidden won't be revealed, and that the measure you give will be the measure you get. Only in Mark he tells the parable of the seed that grows by itself: a man scatters seed and sleeps and rises, and the seed sprouts and grows, he doesn't know how, and when the grain is ripe he puts in the sickle for the harvest. The kingdom is also like a mustard seed, the smallest of seeds, which grows into the largest of garden plants so that birds can nest in its shade. With many such parables he speaks the word \"as they were able to hear it,\" and in private he explains everything to his disciples. That evening he says, \"Let's go over to the other side.\" They take him in the boat, just as he was, and other boats go with them. A great windstorm arises, and the waves beat into the boat so that it is already filling, and Jesus is in the stern, asleep on the cushion. They wake him: \"Teacher, don't you care that we are dying?\" He rebukes the wind and says to the sea, \"Peace! Be still!\" and the wind ceases and there is a great calm. \"Why are you so afraid? Don't you have faith yet?\" They are very afraid and say to one another, \"Who then is this, that even the wind and the sea obey him?\"",
+  "whySettingMatters": "Farmers in Galilee scattered seed by hand and plowed it in afterward, so some inevitably fell on the paths between fields, on thin soil over limestone, or among thorn roots. A good harvest might yield several times the seed sown, so a hundredfold is extraordinary. The mustard plant is a shrub that can grow several feet tall. The quotation from Isaiah 6:9-10 describes people who hear and do not understand; how to read Jesus' purpose in using parables is debated. \"The mystery of the kingdom\" means something hidden that has now been revealed. The Sea of Galilee lies below sea level, ringed by hills, and violent storms can blow up without warning. The \"cushion\" (proskephalaion) was a pillow or rower's cushion. \"The other side\" is the east shore, mostly Gentile territory, which sets up chapter 5. The verb Jesus uses to still the storm, \"Peace! Be still!\" (literally \"Be muzzled\"), is the same one he used to silence the unclean spirit in 1:25.",
+  "people": [
+    {
+      "id": "the-crowds",
+      "note": "Hear the parables from the shore."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Are given explanations, and are terrified in the storm."
+    }
+  ],
+  "questions": [
+    "The sower scatters seed generously, even on poor ground. What might that say about how the kingdom comes?",
+    "Jesus says the parables hide as well as reveal. Why might he teach this way, and who is \"outside\"?",
+    "Only Mark tells the story of the seed that grows by itself. What is it saying about who does the growing?",
+    "The disciples ask, \"Teacher, don't you care?\" and then are more afraid of Jesus than of the storm. What do you make of that?"
+  ],
+  "words": [
+    {
+      "id": "parabole",
+      "note": "Jesus teaches \"in parables\" (4:2, 4:10-13, 4:33-34)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"To you is given the mystery of the kingdom of God\" (4:11)."
+    },
+    {
+      "id": "basileia",
+      "note": "Three parables of what the kingdom is like (4:11, 4:26, 4:30)."
+    },
+    {
+      "id": "epitimao",
+      "note": "He rebukes the wind (4:39)."
+    },
+    {
+      "id": "phobeo",
+      "note": "\"Why are you so afraid?\" and \"they feared exceedingly\" (4:40-41)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 6:9-10",
+      "note": "hearing but not understanding"
+    },
+    {
+      "ref": "Daniel 4:20-22",
+      "note": "a great tree sheltering the birds"
+    },
+    {
+      "ref": "Psalm 107:29",
+      "note": "God stills the storm"
+    },
+    {
+      "ref": "Isaiah 43:2",
+      "note": "\"When you pass through the waters, I will be with you\""
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

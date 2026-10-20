@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "euangelion",
+    "transliteration": "euangelion",
+    "original": "εὐαγγέλιον",
+    "pronunciation": "you-ahng-GEH-lee-on",
+    "gloss": "good news, gospel",
+    "notes": "From \"good\" and \"message.\" In the Greek world it was the announcement of a victory or of a ruler's accession; Isaiah 40 and 52 use the verb for the news of God's coming reign. Mark's first line, \"the beginning of the good news of Jesus Christ,\" may serve as a title for the whole book, and Jesus' own first words are about believing it (1:15). English \"gospel\" comes from Old English \"good news.\"",
+    "range": [
+      {
+        "sense": "Good news",
+        "note": "An announcement of something joyful."
+      },
+      {
+        "sense": "Announcement of victory",
+        "note": "News of a king's triumph or accession."
+      },
+      {
+        "sense": "The gospel",
+        "note": "The message about Jesus, later also a name for books like Mark."
+      }
+    ],
+    "translations": [
+      "good news",
+      "gospel"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:16",
+        "note": "\"I am not ashamed of the gospel.\""
+      },
+      {
+        "ref": "1 Corinthians 15:1",
+        "note": "The gospel Paul preached."
+      },
+      {
+        "ref": "Galatians 1:11",
+        "note": "The gospel not of human origin."
+      },
+      {
+        "ref": "Revelation 14:6",
+        "note": "An angel with an eternal gospel."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euthys",
+    "transliteration": "euthys",
+    "original": "εὐθύς",
+    "pronunciation": "yoo-THOOS",
+    "gloss": "immediately, at once",
+    "notes": "An adverb meaning \"right away\" or \"straightaway,\" and the signature word of Mark's style. It's used dozens of times in the book, as a connector that keeps the story moving at speed: Jesus is baptized and \"immediately\" the Spirit drives him into the wilderness (1:10, 1:12). Sometimes it means exactly that, and sometimes it is more a storyteller's \"then.\" The same Greek root also means \"straight\" (1:3).",
+    "range": [
+      {
+        "sense": "Immediately",
+        "note": "Right away, with no delay."
+      },
+      {
+        "sense": "Then",
+        "note": "A storyteller's connecting word."
+      },
+      {
+        "sense": "Straight",
+        "note": "As in \"make his paths straight.\""
+      }
+    ],
+    "translations": [
+      "immediately",
+      "at once",
+      "straightaway",
+      "just then"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:16",
+        "note": "Jesus comes up immediately from the water."
+      },
+      {
+        "ref": "Luke 5:13",
+        "note": "The leprosy left him at once."
+      },
+      {
+        "ref": "John 5:9",
+        "note": "The man was healed at once."
+      },
+      {
+        "ref": "Acts 9:18",
+        "note": "Saul's sight is restored at once."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eremos",
+    "transliteration": "erēmos",
+    "original": "ἔρημος",
+    "pronunciation": "EH-ray-moss",
+    "gloss": "wilderness, deserted",
+    "notes": "Empty, uninhabited, wild: the open country away from towns. In Scripture the wilderness is where Israel was formed after the exodus and tested for forty years, and where prophets like Elijah met God. In Mark it's where John preaches (1:3-4), where Jesus is tested (1:12-13), and where he goes to pray and to be alone (1:35, 1:45, 6:31-32).",
+    "range": [
+      {
+        "sense": "Deserted",
+        "note": "Empty of people."
+      },
+      {
+        "sense": "Wilderness",
+        "note": "Wild, open country."
+      },
+      {
+        "sense": "A lonely place",
+        "note": "Where someone goes to be alone."
+      }
+    ],
+    "translations": [
+      "wilderness",
+      "desert",
+      "lonely place",
+      "deserted place"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:1",
+        "note": "John preaches in the wilderness of Judea."
+      },
+      {
+        "ref": "Luke 15:4",
+        "note": "The shepherd leaves the ninety-nine in the open country."
+      },
+      {
+        "ref": "John 6:31",
+        "note": "\"Our fathers ate the manna in the wilderness.\""
+      },
+      {
+        "ref": "Acts 7:30",
+        "note": "The angel appears to Moses in the wilderness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epitimao",
+    "transliteration": "epitimaō",
+    "original": "ἐπιτιμάω",
+    "pronunciation": "eh-pee-tee-MAH-oh",
+    "gloss": "to rebuke, to command sternly",
+    "notes": "To rebuke or to order sharply. Mark uses it for what Jesus says to unclean spirits (1:25), the wind (4:39), and, with the same sternness, his own disciples when they begin to say who he is (8:30). It's also the word for what Peter does to Jesus in 8:32, and what Jesus does to Peter in 8:33.",
+    "range": [
+      {
+        "sense": "Rebuke",
+        "note": "Speak sharply against."
+      },
+      {
+        "sense": "Command sternly",
+        "note": "Give a strict order, often to silence."
+      },
+      {
+        "sense": "Warn",
+        "note": "Charge someone strongly."
+      }
+    ],
+    "translations": [
+      "rebuke",
+      "sternly order",
+      "warn",
+      "command"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:26",
+        "note": "He rebuked the winds and the sea."
+      },
+      {
+        "ref": "Luke 4:39",
+        "note": "He rebuked the fever."
+      },
+      {
+        "ref": "Luke 23:40",
+        "note": "The one robber rebuked the other."
+      },
+      {
+        "ref": "Jude 1:9",
+        "note": "\"The Lord rebuke you.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "akathartos",
+    "transliteration": "akathartos",
+    "original": "ἀκάθαρτος",
+    "pronunciation": "ah-KAH-thar-tos",
+    "gloss": "unclean, impure",
+    "notes": "Not purified: ritually unclean, unfit to come near what is holy. In Mark it is the usual label for evil spirits (\"unclean spirit\"), which shows how Mark pictures them: forces that defile and cut a person off from God's people. People also become unclean through disease, death, and certain foods, and much of Mark's story crosses those boundaries.",
+    "range": [
+      {
+        "sense": "Ritually unclean",
+        "note": "Impure under the law."
+      },
+      {
+        "sense": "Evil spirit",
+        "note": "As in \"unclean spirit.\""
+      },
+      {
+        "sense": "Morally impure",
+        "note": "Defiled in a deeper sense."
+      }
+    ],
+    "translations": [
+      "unclean",
+      "impure",
+      "unclean spirit"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:1",
+        "note": "Authority over unclean spirits."
+      },
+      {
+        "ref": "Luke 4:33",
+        "note": "The man in the synagogue with an unclean demon."
+      },
+      {
+        "ref": "Acts 10:14",
+        "note": "Peter: \"I have never eaten anything unclean.\""
+      },
+      {
+        "ref": "Revelation 18:2",
+        "note": "Babylon, a haunt of every unclean spirit."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hamartolos",
+    "transliteration": "hamartōlos",
+    "original": "ἁμαρτωλός",
+    "pronunciation": "ha-mar-toh-LOSS",
+    "gloss": "sinner, sinful",
+    "notes": "Someone who has missed the mark: a sinner. In the Gospels it often labels people thought to live outside faithful observance of the law, such as tax collectors, so \"tax collectors and sinners\" is a phrase for the outcast. Jesus' meals with them are among the clearest signs of what he came to do.",
+    "range": [
+      {
+        "sense": "Sinner",
+        "note": "One who has sinned."
+      },
+      {
+        "sense": "Outcast",
+        "note": "Someone seen as outside the faithful community."
+      }
+    ],
+    "translations": [
+      "sinner",
+      "sinful",
+      "outcast"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:10",
+        "note": "Many tax collectors and sinners came and sat with him."
+      },
+      {
+        "ref": "Luke 7:37",
+        "note": "A woman who was a sinner anoints him."
+      },
+      {
+        "ref": "Luke 18:13",
+        "note": "\"God, be merciful to me, a sinner.\""
+      },
+      {
+        "ref": "Romans 5:8",
+        "note": "\"While we were yet sinners, Christ died for us.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "blasphemeo",
+    "transliteration": "blasphēmeō",
+    "original": "βλασφημέω",
+    "pronunciation": "blas-fay-MEH-oh",
+    "gloss": "to blaspheme, to speak against",
+    "notes": "To speak abusively, and especially to speak against God or what is holy. Jesus is accused of it when he forgives sins (2:7) and again at his trial (14:64). When Jesus warns about blaspheming the Holy Spirit (3:29), the context is people who call the Spirit's work evil.",
+    "uncertain": "Exactly what \"blasphemy against the Holy Spirit\" covers has been debated through church history; in Mark 3 it follows the charge that Jesus works by an unclean spirit.",
+    "range": [
+      {
+        "sense": "Slander",
+        "note": "Speak abusively of someone."
+      },
+      {
+        "sense": "Blaspheme",
+        "note": "Speak against God."
+      }
+    ],
+    "translations": [
+      "blaspheme",
+      "speak blasphemies",
+      "slander",
+      "insult"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:3",
+        "note": "The scribes: \"This man blasphemes.\""
+      },
+      {
+        "ref": "Matthew 26:65",
+        "note": "The high priest tears his robes."
+      },
+      {
+        "ref": "John 10:36",
+        "note": "\"You say, 'You blaspheme.'\""
+      },
+      {
+        "ref": "1 Timothy 1:20",
+        "note": "Handed over so they might learn not to blaspheme."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phobeo",
+    "transliteration": "phobeō",
+    "original": "φοβέω",
+    "pronunciation": "fo-BEH-oh",
+    "gloss": "to fear, to be afraid",
+    "notes": "To be afraid, and also to revere or stand in awe. Mark is full of fear: in the storm (4:41), among the Gerasenes (5:15), at the empty tomb (16:8, the last word of the book in the earliest manuscripts). The word can mean ordinary terror or the awe due to God, and Mark often lets both meanings sit together.",
+    "range": [
+      {
+        "sense": "Be afraid",
+        "note": "Feel terror or alarm."
+      },
+      {
+        "sense": "Revere",
+        "note": "Stand in awe, as before God."
+      }
+    ],
+    "translations": [
+      "fear",
+      "be afraid",
+      "revere"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:28",
+        "note": "\"Don't be afraid of those who kill the body.\""
+      },
+      {
+        "ref": "Luke 1:30",
+        "note": "\"Don't be afraid, Mary.\""
+      },
+      {
+        "ref": "Acts 10:2",
+        "note": "Cornelius, a man who feared God."
+      },
+      {
+        "ref": "Revelation 14:7",
+        "note": "\"Fear God, and give him glory.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoeo",
+    "transliteration": "metanoeō",
+    "original": "μετανοέω",
+    "pronunciation": "meh-tah-no-EH-oh",
+    "gloss": "to repent",
+    "notes": "Literally \"to change one's mind,\" but in the Bible it means turning around: a change of heart and direction toward God. Behind it stands the Hebrew prophets' call to \"turn\" (shuv). It's the first word of John's preaching of a \"baptism of repentance\" (1:4, the related noun) and of Jesus' own first words in Mark (1:15).",
+    "range": [
+      {
+        "sense": "Change one's mind",
+        "note": "Think again about something."
+      },
+      {
+        "sense": "Turn from wrongdoing",
+        "note": "Regret and leave behind what was wrong."
+      },
+      {
+        "sense": "Turn toward God",
+        "note": "A new direction for the whole life."
+      }
+    ],
+    "translations": [
+      "repent",
+      "turn back",
+      "change your hearts and lives"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:2",
+        "note": "John: \"Repent, for the kingdom of heaven is at hand.\""
+      },
+      {
+        "ref": "Luke 15:7",
+        "note": "Joy in heaven over one who repents."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Peter's call at Pentecost."
+      },
+      {
+        "ref": "Revelation 2:5",
+        "note": "A call to a church to return."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "Kingship or reign: God's rule, not mainly a territory. Mark says \"kingdom of God,\" and it's the theme of Jesus' preaching from his first words: \"The kingdom of God is at hand\" (1:15). The parables in chapter 4 are all about what that rule is like as it arrives.",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:17",
+        "note": "\"Repent, for the kingdom of heaven is at hand.\""
+      },
+      {
+        "ref": "Luke 17:21",
+        "note": "\"The kingdom of God is within you\" (or among you)."
+      },
+      {
+        "ref": "Romans 14:17",
+        "note": "Righteousness, peace, and joy."
+      },
+      {
+        "ref": "Revelation 11:15",
+        "note": "\"The kingdom of the world has become the kingdom of our Lord.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "The right or power to act, often given by someone higher. Mark makes it the first thing the crowd notices: Jesus teaches \"as one having authority\" (1:22), commands unclean spirits (1:27), forgives sins (2:10), and gives authority to the twelve (3:15).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "\"All authority has been given to me.\""
+      },
+      {
+        "ref": "Luke 4:32",
+        "note": "His word was with authority."
+      },
+      {
+        "ref": "John 1:12",
+        "note": "The right to become children of God."
+      },
+      {
+        "ref": "Romans 13:1",
+        "note": "Governing authorities."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sabbaton",
+    "transliteration": "sabbaton",
+    "original": "σάββατον",
+    "pronunciation": "SAB-bah-ton",
+    "gloss": "Sabbath",
+    "notes": "The Greek form of the Hebrew shabbat, the seventh day of rest from Friday evening to Saturday evening. Keeping it was one of the clearest marks of Jewish identity, and it's the setting of three early conflicts in Mark (2:23-3:6) and of Jesus' first healings in Capernaum (1:21).",
+    "range": [
+      {
+        "sense": "The Sabbath day",
+        "note": "The seventh day, set apart for rest."
+      },
+      {
+        "sense": "A week",
+        "note": "As in \"the first day of the week\" (28:1)."
+      }
+    ],
+    "translations": [
+      "Sabbath",
+      "week"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:8",
+        "note": "\"The Son of Man is lord of the Sabbath.\""
+      },
+      {
+        "ref": "Luke 13:14",
+        "note": "A synagogue leader objects to a Sabbath healing."
+      },
+      {
+        "ref": "John 5:9",
+        "note": "A healing on the Sabbath at the pool."
+      },
+      {
+        "ref": "Acts 13:14",
+        "note": "Paul in the synagogue on the Sabbath."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parabole",
+    "transliteration": "parabolē",
+    "original": "παραβολή",
+    "pronunciation": "pah-rah-bo-LAY",
+    "gloss": "parable, comparison",
+    "notes": "From a verb meaning \"to set side by side\": a comparison that lays one thing next to another. It translates the Hebrew mashal, which covers proverbs, riddles, and illustrative stories. Mark gathers a group of parables in chapter 4 and says Jesus \"did not speak to them without a parable\" (4:34).",
+    "range": [
+      {
+        "sense": "Comparison",
+        "note": "One thing set beside another to explain it."
+      },
+      {
+        "sense": "Story",
+        "note": "A short story with a point, like the sower."
+      },
+      {
+        "sense": "Proverb or riddle",
+        "note": "A saying that needs thinking about."
+      }
+    ],
+    "translations": [
+      "parable",
+      "illustration",
+      "comparison",
+      "analogy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:3",
+        "note": "Matthew's collection of parables."
+      },
+      {
+        "ref": "Luke 8:11",
+        "note": "\"Now the parable is this.\""
+      },
+      {
+        "ref": "Luke 15:3",
+        "note": "The lost sheep."
+      },
+      {
+        "ref": "Hebrews 11:19",
+        "note": "Isaac received back \"as a figure.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "mysterion",
+    "transliteration": "mystērion",
+    "original": "μυστήριον",
+    "pronunciation": "moos-TAY-ree-on",
+    "gloss": "mystery, secret",
+    "notes": "A secret that has to be revealed, not a puzzle to solve. In the New Testament it usually means something God has kept hidden and now makes known. In Mark 4:11, \"the mystery of the kingdom of God\" is given to the disciples, though what makes them \"insiders\" is that they ask and listen.",
+    "range": [
+      {
+        "sense": "Secret",
+        "note": "Something hidden until it is disclosed."
+      },
+      {
+        "sense": "Revealed truth",
+        "note": "God's plan, now made known."
+      },
+      {
+        "sense": "Religious rite",
+        "note": "In wider Greek, the secret rites of a cult."
+      }
+    ],
+    "translations": [
+      "secrets",
+      "mysteries",
+      "hidden truth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:25",
+        "note": "The mystery kept secret for long ages."
+      },
+      {
+        "ref": "Ephesians 3:3",
+        "note": "The mystery made known by revelation."
+      },
+      {
+        "ref": "1 Corinthians 15:51",
+        "note": "\"Listen, I tell you a mystery.\""
+      },
+      {
+        "ref": "Colossians 1:26",
+        "note": "The mystery hidden for ages."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "legion",
+    "transliteration": "legiōn",
+    "original": "λεγιών",
+    "pronunciation": "leg-ee-OWN",
+    "gloss": "legion",
+    "notes": "A Latin loan word. A Roman legion was a unit of several thousand soldiers (often about 5,000 to 6,000). The spirits use it to say there are many of them (5:9, 5:15). Mark's readers lived under Roman rule, so the name would have carried the sound of an occupying force.",
+    "range": [
+      {
+        "sense": "Military unit",
+        "note": "A Roman legion."
+      },
+      {
+        "sense": "A great number",
+        "note": "Used loosely for \"a vast host.\""
+      }
+    ],
+    "translations": [
+      "Legion"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:53",
+        "note": "More than twelve legions of angels."
+      },
+      {
+        "ref": "Luke 8:30",
+        "note": "The same name in Luke's telling."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sozo",
+    "transliteration": "sōzō",
+    "original": "σῴζω",
+    "pronunciation": "SODE-zo",
+    "gloss": "to save, to heal, to make well",
+    "notes": "A word that covers rescue, healing, and salvation. In Mark 5 it is used of the woman (\"your faith has made you well,\" 5:34) and of Jairus' hope that his daughter will \"live\" (5:23), and in 8:35 of saving one's life. English cannot show that one Greek word runs through all of these, so the nuance can be lost.",
+    "range": [
+      {
+        "sense": "Heal",
+        "note": "To make well."
+      },
+      {
+        "sense": "Rescue",
+        "note": "To save from danger or death."
+      },
+      {
+        "sense": "Save",
+        "note": "To save in the fullest sense."
+      }
+    ],
+    "translations": [
+      "save",
+      "heal",
+      "make well",
+      "rescue"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "Luke 7:50",
+        "note": "\"Your faith has saved you.\""
+      },
+      {
+        "ref": "John 3:17",
+        "note": "The world might be saved through him."
+      },
+      {
+        "ref": "Acts 2:21",
+        "note": "Everyone who calls will be saved."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinos",
+    "transliteration": "koinos",
+    "original": "κοινός",
+    "pronunciation": "koy-NOCE",
+    "gloss": "common, unclean",
+    "notes": "Literally \"common,\" what is shared by all. In Jewish usage it came to mean ordinary or ritually unclean, as opposed to holy. In Mark 7:2 the disciples eat with \"common\" (unwashed) hands. Jesus' point in 7:15-23 is that what makes a person truly unclean is what comes from the heart.",
+    "range": [
+      {
+        "sense": "Shared",
+        "note": "Held in common."
+      },
+      {
+        "sense": "Ordinary or unclean",
+        "note": "Not set apart as holy."
+      }
+    ],
+    "translations": [
+      "common",
+      "unclean",
+      "defiled",
+      "unwashed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 2:44",
+        "note": "They held all things in common."
+      },
+      {
+        "ref": "Acts 10:14",
+        "note": "Peter: \"I have never eaten anything that is common or unclean.\""
+      },
+      {
+        "ref": "Romans 14:14",
+        "note": "Nothing is unclean in itself."
+      },
+      {
+        "ref": "Titus 1:4",
+        "note": "A \"common faith.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "artos",
+    "transliteration": "artos",
+    "original": "ἄρτος",
+    "pronunciation": "AR-tos",
+    "gloss": "bread, loaf",
+    "notes": "Bread, and by extension food. In Mark 6 to 8 bread runs like a thread: the five loaves, the Syrophoenician woman's crumbs, the seven loaves, and the disciples' worry about having no bread in the boat. Jesus' last question to them, \"Don't you understand yet?\" (8:21), is about the loaves.",
+    "range": [
+      {
+        "sense": "Loaf",
+        "note": "A round flat loaf."
+      },
+      {
+        "sense": "Food",
+        "note": "A meal in general."
+      }
+    ],
+    "translations": [
+      "bread",
+      "loaf",
+      "loaves",
+      "food"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:3",
+        "note": "\"Command that these stones become bread.\""
+      },
+      {
+        "ref": "Matthew 6:11",
+        "note": "\"Give us today our daily bread.\""
+      },
+      {
+        "ref": "Luke 22:19",
+        "note": "He took bread, broke it, and gave it."
+      },
+      {
+        "ref": "John 6:35",
+        "note": "\"I am the bread of life.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ephphatha",
+    "transliteration": "ephphatha",
+    "original": "ἐφφαθά",
+    "pronunciation": "ef-fa-THA",
+    "gloss": "be opened (Aramaic)",
+    "notes": "An Aramaic word that Mark leaves in the original and then translates (7:34). Preserving the sound of the word as spoken is a mark of an eyewitness tradition in the Gospel. It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Be opened",
+        "note": "A command to the ears and the tongue."
+      }
+    ],
+    "translations": [
+      "Be opened"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Isaiah 35:5-6",
+        "note": "The ears of the deaf unstopped, the tongue of the mute singing."
+      },
+      {
+        "ref": "Isaiah 29:18",
+        "note": "The deaf will hear."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pistis",
+    "transliteration": "pistis",
+    "original": "πίστις",
+    "pronunciation": "PISS-tiss",
+    "gloss": "faith, trust",
+    "notes": "Trust, faithfulness, and belief. In Mark it is most often what Jesus asks for or recognizes in a person who comes to him: the paralytic's friends (2:5), the woman who touched his cloak (5:34), Jairus (5:36). The disciples are asked, \"Do you not have faith yet?\" in the storm (4:40).",
+    "range": [
+      {
+        "sense": "Trust",
+        "note": "Confidence in a person or what they can do."
+      },
+      {
+        "sense": "Faithfulness",
+        "note": "Being trustworthy and loyal (STEPBible tags this sense separately)."
+      },
+      {
+        "sense": "The faith",
+        "note": "Later, what Christians believe."
+      }
+    ],
+    "translations": [
+      "faith",
+      "trust",
+      "faithfulness",
+      "belief"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:22",
+        "note": "\"Your faith has made you well.\""
+      },
+      {
+        "ref": "Luke 17:6",
+        "note": "Faith like a mustard seed."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "\"The righteous will live by faith.\""
+      },
+      {
+        "ref": "Hebrews 11:1",
+        "note": "Faith is the assurance of things hoped for."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "splanchnizomai",
+    "transliteration": "splanchnizomai",
+    "original": "σπλαγχνίζομαι",
+    "pronunciation": "splangkh-NID-zoh-my",
+    "gloss": "to have compassion",
+    "notes": "To be moved in the gut. In Mark it is mostly Jesus who is moved (and once a father asks for it, 9:22): by the leper (1:41), by the crowd like sheep without a shepherd (6:34), and by the hungry crowd of four thousand (8:2). It leads to action each time.",
+    "range": [
+      {
+        "sense": "Be moved inside",
+        "note": "A gut-level feeling of pity."
+      },
+      {
+        "sense": "Act with compassion",
+        "note": "The feeling that leads to help."
+      }
+    ],
+    "translations": [
+      "had compassion",
+      "was moved with pity",
+      "felt sorry for"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 14:14",
+        "note": "Compassion before feeding the crowd."
+      },
+      {
+        "ref": "Luke 7:13",
+        "note": "Moved at the widow of Nain."
+      },
+      {
+        "ref": "Luke 10:33",
+        "note": "The Samaritan had compassion."
+      },
+      {
+        "ref": "Luke 15:20",
+        "note": "The father runs to his son."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradosis",
+    "transliteration": "paradosis",
+    "original": "παράδοσις",
+    "pronunciation": "pah-RAH-doh-sis",
+    "gloss": "tradition",
+    "notes": "What is handed down. In Mark 7 it is the \"tradition of the elders,\" the oral rules that grew up around the Torah. Jesus does not reject all tradition; he rejects tradition that cancels God's commandment (7:8-13).",
+    "range": [
+      {
+        "sense": "What is handed on",
+        "note": "Teaching or custom passed down."
+      },
+      {
+        "sense": "The tradition of the elders",
+        "note": "The Pharisees' accumulated rulings on living out the law."
+      }
+    ],
+    "translations": [
+      "tradition",
+      "teaching",
+      "custom"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:2",
+        "note": "The same dispute, in Matthew."
+      },
+      {
+        "ref": "Galatians 1:14",
+        "note": "Paul, zealous for the traditions of his ancestors."
+      },
+      {
+        "ref": "1 Corinthians 11:2",
+        "note": "Paul praises them for holding to the traditions."
+      },
+      {
+        "ref": "2 Thessalonians 2:15",
+        "note": "\"Hold to the traditions you were taught.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauros",
+    "transliteration": "stauros",
+    "original": "σταυρός",
+    "pronunciation": "stow-ROSS",
+    "gloss": "cross",
+    "notes": "A stake or cross, the Roman instrument of execution. In Mark it first appears in Jesus' call to \"take up his cross\" (8:34), before the crucifixion itself (15:21-32).",
+    "range": [
+      {
+        "sense": "Stake or cross",
+        "note": "The wooden frame used for crucifixion."
+      },
+      {
+        "sense": "Crucifixion",
+        "note": "The execution itself."
+      },
+      {
+        "sense": "The cost of following",
+        "note": "A picture of giving up one's life."
+      }
+    ],
+    "translations": [
+      "cross"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:24",
+        "note": "The same call in Matthew."
+      },
+      {
+        "ref": "Luke 9:23",
+        "note": "\"Take up his cross daily.\""
+      },
+      {
+        "ref": "1 Corinthians 1:18",
+        "note": "The word of the cross."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "note": "Boasting only in the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]

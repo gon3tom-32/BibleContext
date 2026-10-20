@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Crossing to the Gentile side of the lake, then a girl and a woman made well",
+  "summary": "Jesus and his disciples cross the lake to the country of the Gerasenes. A man with an unclean spirit meets him from the tombs, where he lives. No one can bind him, even with chains; he cries out night and day and cuts himself with stones. He runs and bows down, shouting, \"What have I to do with you, Jesus, you Son of the Most High God? Don't torment me.\" Jesus asks his name: \"My name is Legion, for we are many.\" They beg not to be sent out of the country, and ask to go into a great herd of pigs feeding nearby, about two thousand of them. Jesus allows it, and the herd rushes down the cliff into the sea and drowns. The herdsmen run to tell it in the town and the countryside. People come and see the man sitting there, clothed and in his right mind, and they are afraid, and they begin to beg Jesus to leave. The healed man asks to go with him, but Jesus says, \"Go home to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.\" He goes and proclaims it in the Decapolis, and everyone marvels. Back on the other shore, Jairus, a leader of the synagogue, falls at Jesus' feet: his little daughter is at the point of death. On the way, a crowd presses around, and a woman who has bled for twelve years, and spent all she had on physicians without being better, touches his cloak from behind, thinking, \"If I just touch his clothes, I will be made well.\" She feels in her body that she is healed, and Jesus feels that power has gone out of him. \"Who touched my clothes?\" She comes trembling and tells him the whole truth. \"Daughter, your faith has made you well. Go in peace.\" Then people come from Jairus' house: \"Your daughter is dead. Why trouble the Teacher any more?\" Jesus says, \"Don't be afraid, only believe,\" and lets only Peter, James, and John follow. At the house he puts the mourners out, takes the child's hand, and says, \"Talitha cumi,\" \"Little girl, I tell you, get up.\" She gets up and walks, she is twelve years old, and he tells them to give her something to eat and to tell no one.",
+  "whySettingMatters": "The east side of the lake is Gentile country, and the pigs are the clue: Jews counted pigs as unclean, so a herd that size suggests a mostly non-Jewish area, and Mark has just brought Jesus across into it. The man lives among tombs, which were themselves unclean for Jews. Where this happened is uncertain: manuscripts read Gerasenes, Gadarenes, or Gergesenes, and Gerasa itself was about thirty miles from the lake, so the name probably covers a wider district or a town nearer the shore. \"Legion\" was a unit of several thousand Roman soldiers, so the name carries the sound of the occupying army. A synagogue leader like Jairus was a respected local figure who arranged the services. Under the purity laws a woman with a flow of blood was ritually unclean and anything she touched could be made unclean (Leviticus 15:25-27), so her touch is a bold act, and Jesus does not rebuke her. Mark gives the girl's words in Aramaic, \"Talitha cumi,\" which is probably what Jesus actually said. Mark often records the original sound. Jesus' command to silence is part of what scholars call the messianic secret.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Crosses into Gentile territory, then restores a girl and a woman."
+    },
+    {
+      "id": "gerasene-man",
+      "note": "Freed from the unclean spirits, and sent home to tell it."
+    },
+    {
+      "id": "jairus",
+      "note": "A synagogue leader who begs Jesus to come for his daughter."
+    },
+    {
+      "id": "jairus-daughter",
+      "note": "Twelve years old; Jesus takes her hand and she rises."
+    },
+    {
+      "id": "woman-with-bleeding",
+      "note": "Ill for twelve years; touches his cloak and is healed."
+    },
+    {
+      "id": "peter",
+      "note": "One of the three allowed into the house."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "The second of the three."
+    },
+    {
+      "id": "john-apostle",
+      "note": "The third of the three."
+    }
+  ],
+  "questions": [
+    "The people of the region were afraid and asked Jesus to leave, while the healed man asked to go with him. What is Jesus doing in sending him home instead?",
+    "The woman is healed but Jesus still stops and searches for her. What is he giving her that the healing alone did not?",
+    "Jairus is told not to trouble the Teacher any more, and Jesus says, \"Only believe.\" What would that have been like to hear?",
+    "Both stories come with the number twelve and with uncleanness. What might Mark be pointing at by pairing them?"
+  ],
+  "words": [
+    {
+      "id": "legion",
+      "note": "The name the spirits give (5:9, 5:15)."
+    },
+    {
+      "id": "phobeo",
+      "note": "The region is afraid; the woman comes trembling; Jairus is told not to fear (5:15, 5:33, 5:36)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Your faith has made you well\" (5:34); the same word is used of Jairus' hopes for his daughter (5:23)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Your faith has made you well\" (5:34)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 15:25-27",
+      "note": "purity rules for a long-term flow of blood"
+    },
+    {
+      "ref": "Isaiah 65:3-4",
+      "note": "people dwelling in tombs and eating swine's flesh"
+    },
+    {
+      "ref": "2 Kings 4:32-37",
+      "note": "Elisha raises a child"
+    },
+    {
+      "ref": "Matthew 9:22",
+      "note": "\"Your faith has made you well,\" in Matthew's telling"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

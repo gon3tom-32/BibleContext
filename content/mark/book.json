@@ -1,0 +1,45 @@
+{
+  "slug": "mark",
+  "title": "Mark",
+  "order": 41,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 16,
+  "tagline": "The shortest Gospel, told at a run: Jesus as the Son of God who serves and suffers, and the disciples who struggle to follow.",
+  "author": "Traditionally John Mark",
+  "authorNote": "The book doesn't name its author. Early church tradition, reported in the early second century, says Mark wrote down Peter's preaching. Many scholars accept that an early Christian named Mark wrote it; others doubt the link to Peter.",
+  "authorDebated": true,
+  "audience": "Followers of Jesus, likely mostly Gentiles",
+  "audienceNote": "Mark explains Jewish customs (7:3-4), translates Aramaic phrases (5:41; 15:34), and uses Latin loanwords, which suggests readers who weren't Jewish. Church tradition places the book in Rome; that is debated.",
+  "setting": "Under Roman rule, in a time of strain",
+  "settingNote": "Tiberius was emperor and Pilate governed Judea during the story. The book was probably written in the 60s or 70s AD, around the time of the Jewish war with Rome, when followers of Jesus faced pressure. The date is debated.",
+  "genre": "Gospel",
+  "genreNote": "A fast, spare account that moves from one scene to the next, often with the word \"immediately.\" Watch what Jesus does more than what he says, and what the disciples fail to understand.",
+  "bigIdea": "Jesus is the Son of God, and he is most fully revealed not in power but at the cross, so following him means walking the same road.",
+  "themes": [
+    "Son of God",
+    "The Messianic secret",
+    "Servant and suffering",
+    "Discipleship",
+    "Faith and fear"
+  ],
+  "mapTitle": "Map: from the Jordan to Jerusalem",
+  "mapSummary": "Jesus is baptized in the Jordan, works around the Sea of Galilee, travels north to Tyre and Caesarea Philippi, then goes up through Jericho to Jerusalem.",
+  "scene": {
+    "author": "Traditionally John Mark",
+    "audience": "Followers of Jesus, likely mostly Gentiles",
+    "happening": "Roman rule in Judea and Galilee"
+  },
+  "overviewPeople": [
+    "jesus",
+    "peter",
+    "john-baptist",
+    "judas-iscariot",
+    "pilate",
+    "mary-magdalene"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
