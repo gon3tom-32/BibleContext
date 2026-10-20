@@ -514,6 +514,182 @@
         "G5614"
       ],
       "foundAt": "John 12:13"
+    },
+    {
+      "id": "nipto",
+      "strongs": [
+        "G3538"
+      ],
+      "foundAt": "John 13:5"
+    },
+    {
+      "id": "hypodeigma",
+      "strongs": [
+        "G5262"
+      ],
+      "foundAt": "John 13:15"
+    },
+    {
+      "id": "telos",
+      "strongs": [
+        "G5056"
+      ],
+      "foundAt": "John 13:1"
+    },
+    {
+      "id": "kainos",
+      "strongs": [
+        "G2537"
+      ],
+      "foundAt": "John 13:34"
+    },
+    {
+      "id": "hodos",
+      "strongs": [
+        "G3598"
+      ],
+      "foundAt": "John 14:4"
+    },
+    {
+      "id": "mone",
+      "strongs": [
+        "G3438"
+      ],
+      "foundAt": "John 14:2"
+    },
+    {
+      "id": "parakletos",
+      "strongs": [
+        "G3875"
+      ],
+      "foundAt": "John 14:16"
+    },
+    {
+      "id": "tereo",
+      "strongs": [
+        "G5083G",
+        "G5083H"
+      ],
+      "foundAt": "John 14:15"
+    },
+    {
+      "id": "ampelos",
+      "strongs": [
+        "G0288"
+      ],
+      "foundAt": "John 15:1"
+    },
+    {
+      "id": "meno",
+      "strongs": [
+        "G3306"
+      ],
+      "foundAt": "John 15:4"
+    },
+    {
+      "id": "philos",
+      "strongs": [
+        "G5384"
+      ],
+      "foundAt": "John 15:13"
+    },
+    {
+      "id": "elencho",
+      "strongs": [
+        "G1651"
+      ],
+      "foundAt": "John 16:8"
+    },
+    {
+      "id": "lype",
+      "strongs": [
+        "G3077"
+      ],
+      "foundAt": "John 16:6"
+    },
+    {
+      "id": "nikao",
+      "strongs": [
+        "G3528"
+      ],
+      "foundAt": "John 16:33"
+    },
+    {
+      "id": "doxazo",
+      "strongs": [
+        "G1392"
+      ],
+      "foundAt": "John 17:1"
+    },
+    {
+      "id": "ginosko",
+      "strongs": [
+        "G1097"
+      ],
+      "foundAt": "John 17:3"
+    },
+    {
+      "id": "kosmos",
+      "strongs": [
+        "G2889"
+      ],
+      "foundAt": "John 17:5"
+    },
+    {
+      "id": "heis",
+      "strongs": [
+        "G1520"
+      ],
+      "foundAt": "John 17:11"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "John 13:2"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "John 14:27"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "John 15:2"
+    },
+    {
+      "id": "miseo",
+      "strongs": [
+        "G3404"
+      ],
+      "foundAt": "John 15:18"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "John 16:33"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "John 15:11"
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "foundAt": "John 17:17"
     }
   ],
   "crossRefs": {
@@ -531,7 +707,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 13 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 18 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

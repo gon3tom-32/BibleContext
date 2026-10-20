@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "Jesus' prayer for himself, for his disciples, and for all who will believe",
+  "summary": "Jesus lifts up his eyes to heaven and says, \"Father, the time has come. Glorify your Son, that your Son may also glorify you; even as you gave him authority over all flesh, that to all whom you have given him, he will give eternal life. This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ. I glorified you on the earth. I have accomplished the work which you have given me to do. Now, Father, glorify me with your own self with the glory which I had with you before the world existed.\" He prays for those given to him: \"I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word. ... I pray for them. I don't pray for the world, but for those whom you have given me, for they are yours. ... Holy Father, keep them through your name which you have given me, that they may be one, even as we are. ... I kept them in your name. Those whom you have given me I have kept. None of them is lost, except the son of destruction, that the Scripture might be fulfilled.\" \"I have given them your word. The world hated them, because they are not of the world, even as I am not of the world. I pray not that you would take them from the world, but that you would keep them from the evil one. They are not of the world even as I am not of the world. Sanctify them in your truth. Your word is truth. As you sent me into the world, even so I have sent them into the world. For their sakes I sanctify myself, that they themselves also may be sanctified in truth.\" Then: \"Not for these only do I pray, but for those also who believe in me through their word, that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me. The glory which you have given me, I have given to them; that they may be one, even as we are one; I in them, and you in me, that they may be perfected into one; that the world may know that you sent me, and loved them, even as you loved me.\" \"Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me, for you loved me before the foundation of the world. Righteous Father, the world hasn't known you, but I knew you; and these knew that you sent me. I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.\"",
+  "whySettingMatters": "This prayer, often called the High Priestly Prayer since the sixteenth century, closes the Farewell Discourse. It has three parts: for himself, for the eleven, and for all future believers. The word \"glory\" (doxa) and \"glorify\" (doxazō) appear repeatedly, and in John glorification means both the cross and the return to the Father, so \"the hour has come\" points to his death. \"Eternal life\" is defined here not by length but by relationship: \"that they should know you,\" and the Hebrew idea of knowing is a personal and active one. \"The world\" (kosmos) is John's most flexible term: it is the world God loves (3:16), the world that doesn't know him, and the world Jesus doesn't pray for in this verse, which has to be read with the other uses. \"Sanctify\" means to set apart for God's purposes, and Jesus uses it of himself and the disciples. \"The son of destruction\" is Judas, with an echo of Psalm 41:9 and 109. Unity is the heart of the request: that they would be one as the Father and Son are one, not for its own sake, but \"that the world may believe.\" It was often cited in modern movements for church unity. Many commentators see the prayer as resembling the farewell speech of a patriarch (Genesis 49, Deuteronomy 33), which fits its setting.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Prays to the Father for himself, his disciples, and future believers."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Those given to him out of the world."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "The \"son of destruction.\""
+    }
+  ],
+  "questions": [
+    "Eternal life is defined as knowing God. What is the difference between knowing about and knowing?",
+    "Jesus does not ask that his disciples be taken out of the world. Why not?",
+    "The prayer for unity is \"that the world may believe.\" How does the unity of Christians affect what the world sees?",
+    "What does it say that he prays for \"those who will believe through their word,\" including readers who weren't there?"
+  ],
+  "words": [
+    {
+      "id": "doxazo",
+      "note": "\"Glorify your Son, that your Son may also glorify you\" (17:1-5, 17:10, 17:22-24)."
+    },
+    {
+      "id": "ginosko",
+      "note": "\"This is eternal life, that they should know you\" (17:3, 17:7-8, 17:23-26)."
+    },
+    {
+      "id": "kosmos",
+      "note": "\"They are not of the world, even as I am not of the world\" (17:5-25)."
+    },
+    {
+      "id": "heis",
+      "note": "\"That they may be one, even as we are one\" (17:11, 17:21-23)."
+    },
+    {
+      "id": "hagiazo",
+      "note": "\"Sanctify them in your truth\" (17:17-19)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"This is eternal life\" (17:2-3)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"Your word is truth\" (17:17-19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 31:34",
+      "note": "they shall all know me"
+    },
+    {
+      "ref": "1 John 5:20",
+      "note": "we may know him who is true"
+    },
+    {
+      "ref": "Jeremiah 9:23-24",
+      "note": "let him who boasts boast in knowing me"
+    },
+    {
+      "ref": "Psalm 119:160",
+      "note": "the sum of your word is truth"
+    }
+  ],
+  "number": 17,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

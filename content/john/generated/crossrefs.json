@@ -1119,7 +1119,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 41:9",
+          "inDataset": true,
+          "votes": 57
+        },
+        {
+          "ref": "Leviticus 19:18",
+          "inDataset": true,
+          "votes": 57
+        },
+        {
+          "ref": "Isaiah 53:11-12",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Ephesians 5:2",
+          "inDataset": true,
+          "votes": 76
+        }
+      ]
     },
     {
       "number": 14,
@@ -1182,7 +1203,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 26:3",
+          "inDataset": true,
+          "votes": 112
+        },
+        {
+          "ref": "Ezekiel 36:27",
+          "inDataset": true,
+          "votes": 49
+        },
+        {
+          "ref": "Acts 4:12",
+          "inDataset": true,
+          "votes": 356
+        },
+        {
+          "ref": "1 John 5:2-3",
+          "inDataset": true,
+          "votes": 369
+        }
+      ]
     },
     {
       "number": 15,
@@ -1244,7 +1286,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 5:1-7",
+          "inDataset": true,
+          "votes": 24
+        },
+        {
+          "ref": "Psalm 80:8-16",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Psalm 69:4",
+          "inDataset": true,
+          "votes": 25
+        },
+        {
+          "ref": "Jeremiah 2:21",
+          "inDataset": true,
+          "votes": 69
+        }
+      ]
     },
     {
       "number": 16,
@@ -1306,7 +1369,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 26:17-19",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Zechariah 13:7",
+          "inDataset": true,
+          "votes": 24
+        },
+        {
+          "ref": "Isaiah 66:7-14",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Psalm 30:5",
+          "inDataset": true,
+          "votes": 5
+        }
+      ]
     },
     {
       "number": 17,
@@ -1370,7 +1454,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Jeremiah 31:34",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "1 John 5:20",
+          "inDataset": true,
+          "votes": 113
+        },
+        {
+          "ref": "Jeremiah 9:23-24",
+          "inDataset": true,
+          "votes": 42
+        },
+        {
+          "ref": "Psalm 119:160",
+          "inDataset": true,
+          "votes": 43
+        }
+      ]
     },
     {
       "number": 18,

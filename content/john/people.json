@@ -198,5 +198,15 @@
     "id": "the-chief-priests",
     "name": "The chief priests",
     "note": "Senior priests who sat on the council."
+  },
+  {
+    "id": "the-beloved-disciple",
+    "name": "The disciple whom Jesus loved",
+    "note": "Unnamed in John; later tradition identifies him with the apostle John."
+  },
+  {
+    "id": "judas-not-iscariot",
+    "name": "Judas (not Iscariot)",
+    "note": "One of the twelve, listed in Luke as Judas son of James."
   }
 ]

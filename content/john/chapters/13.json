@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "The last supper in John: a towel, a basin, and a new commandment",
+  "summary": "Before the feast of the Passover, Jesus, knowing that his hour has come to depart out of this world to the Father, having loved his own who were in the world, loved them to the end. During supper, the devil having already put into the heart of Judas Iscariot to betray him, and Jesus knowing that the Father has given all things into his hands and that he came from God and is going to God, he gets up from supper, lays aside his outer garments, takes a towel, and wraps himself. Then he pours water into the basin and begins to wash the disciples' feet and to wipe them with the towel. When he comes to Simon Peter, Peter says, \"Lord, do you wash my feet?\" Jesus answers, \"What I am doing, you don't know now, but you will understand later.\" \"You will never wash my feet!\" \"If I don't wash you, you have no part with me.\" \"Lord, not my feet only, but also my hands and my head!\" Jesus says, \"He who has bathed only needs to have his feet washed, but is completely clean. You are clean, but not all of you.\" For he knows who would betray him. After washing their feet, he puts on his garments and sits down again: \"Do you know what I have done to you? You call me 'Teacher' and 'Lord.' You say so correctly, for so I am. If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that you also should do as I have done to you. ... A servant is not greater than his lord, neither one who is sent greater than he who sent him. If you know these things, blessed are you if you do them.\" Troubled in spirit, he testifies, \"One of you will betray me.\" The disciples look at one another, wondering of whom he speaks. One of them, whom Jesus loved, is reclining on Jesus' breast, and Simon Peter motions to him to ask who it is. He leans back and asks, and Jesus answers, \"It is he to whom I will give this piece of bread when I have dipped it.\" He dips it and gives it to Judas, and after the piece of bread, Satan enters into him. Jesus says, \"What you do, do quickly.\" No one at the table knows why he said this; some think, because Judas has the money box, that Jesus is telling him to buy what is needed for the feast or to give something to the poor. Having received the piece of bread, Judas goes out immediately, \"and it was night.\" When he has gone out, Jesus says, \"Now the Son of Man is glorified, and God is glorified in him. ... Little children, I am with you a little while longer. You will seek me, and as I said to the Jews, 'Where I am going, you can't come,' so now I tell you. A new commandment I give to you, that you love one another. Just as I have loved you, you also are to love one another. By this everyone will know that you are my disciples, if you have love for one another.\" Simon Peter asks, \"Lord, where are you going?\" \"Where I am going, you can't follow now, but you will follow afterwards.\" \"Lord, why can't I follow you now? I will lay down my life for you.\" Jesus answers, \"Will you lay down your life for me? Most certainly I tell you, the rooster won't crow, till you have denied me three times.\"",
+  "whySettingMatters": "In John the Last Supper takes place \"before the feast of the Passover,\" and Jesus dies as the Passover lambs are being slaughtered (18:28, 19:14), while the other Gospels describe the supper as the Passover meal itself; how to reconcile the two timings has been debated for centuries. Washing a guest's feet was a task for a servant, usually a non-Jewish slave, since feet were dusty from walking in sandals, and a Jewish servant could not be required to do it, so Jesus is taking the lowest place. Peter's refusal and then his overcorrection are typical. The \"one whom Jesus loved\" is never named, appears only in John, and is usually identified in later tradition with the apostle John, though that is debated; he lies beside Jesus at the table, which was the place of honor in the Greco-Roman style of reclining on couches. \"Dipping the piece\" was a host's gesture of honor, which makes Judas' betrayal more painful, and echoes Psalm 41:9, which John quotes at 13:18. \"It was night\" is both a time and a symbol, as in 3:2. The \"new commandment\" is new in its standard, \"as I have loved you,\" since love of neighbor was already commanded in Leviticus 19:18. John gives \"Mandatum\" its name in Latin from this verse; \"Maundy Thursday\" comes from it.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Washes the disciples' feet, names his betrayer, and gives a new commandment."
+    },
+    {
+      "id": "peter",
+      "note": "Refuses, then asks for more, then promises to die for him."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Takes the bread and goes out into the night."
+    },
+    {
+      "id": "the-beloved-disciple",
+      "note": "Reclining next to Jesus, asks who the betrayer is."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Don't understand what Judas is sent to do."
+    }
+  ],
+  "questions": [
+    "Jesus has all authority and takes a towel. What does that say about what authority is for?",
+    "Peter says no, then asks for a full bath. What does he get wrong each time?",
+    "Jesus gives Judas the bread and still lets him go. How do you read that?",
+    "\"A new commandment.\" What is new about it?"
+  ],
+  "words": [
+    {
+      "id": "nipto",
+      "note": "\"He began to wash the disciples' feet\" (13:5-14)."
+    },
+    {
+      "id": "hypodeigma",
+      "note": "\"I have given you an example\" (13:15)."
+    },
+    {
+      "id": "telos",
+      "note": "\"He loved them to the end\" (13:1)."
+    },
+    {
+      "id": "kainos",
+      "note": "\"A new commandment I give to you\" (13:34)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"Love one another. Just as I have loved you\" (13:1, 13:23, 13:34-35)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "\"One of you will betray me\" (13:2, 13:11, 13:21)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 41:9",
+      "note": "\"He who ate my bread has lifted up his heel against me\""
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor as yourself"
+    },
+    {
+      "ref": "Isaiah 53:11-12",
+      "note": "the servant who bears the sins of many"
+    },
+    {
+      "ref": "Ephesians 5:2",
+      "note": "walk in love, as Christ loved us and gave himself up for us"
+    }
+  ],
+  "number": 13,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
