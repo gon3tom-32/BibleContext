@@ -4533,6 +4533,4551 @@
         "fetched": "2026-10-19",
         "item": "G0040G, G0040H"
       }
+    },
+    {
+      "id": "erotao",
+      "strongs": [
+        "G2065"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2065",
+          "original": "ἐρωτάω",
+          "transliteration": "erōtaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to ask",
+          "meaning": "ἐρωτάω, -ῶ\n[in LXX chiefly for שָׁאַל ;]\n1. to ask, question (cl.): absol., Luk.19:31 22:68, Jhn.8:7 with accusative of person(s), Jhn.9:21 16:19, 30 8:21; before λέγων, Mat.16:13, Luk.23:3, Jhn.1:19, 21 5:12 9:19 16:5; with dupl. accusative (WM, § 32, 4a), Mat.21:24, Mrk.4:10, Luk.20:3, Jhn.16:23 (M, Pr., 66„); with accusative of person(s), before περί, Luk.9:45, Jhn.18:19. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐρωτῶμεν",
+          "translit": "erōtōmen",
+          "gloss": "to ask"
+        },
+        {
+          "original": "Ἐρωτῶμεν",
+          "translit": "Erōtōmen",
+          "gloss": "to ask"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:1",
+        "1 Thessalonians 5:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 61,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 15:23",
+          "found": true
+        },
+        {
+          "ref": "Mark 4:10",
+          "found": true
+        },
+        {
+          "ref": "Luke 4:38",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2065"
+      }
+    },
+    {
+      "id": "parangelia",
+      "strongs": [
+        "G3852"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3852",
+          "original": "παραγγελία",
+          "transliteration": "parangelia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "order",
+          "meaning": "παρ-αγγελία, -ας, ἡ\n(παραγγέλλω),\nan instruction, charge, com­mand: Act.5:28 16:24, 1Th.4:2, 1Ti.1:5 1:18. (In Xen., Polyb., of a military order.)†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παραγγελίας",
+          "translit": "parangelias",
+          "gloss": "order"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 5:28",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:2",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 1:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3852"
+      }
+    },
+    {
+      "id": "hagiasmos",
+      "strongs": [
+        "G0038"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0038",
+          "original": "ἁγιασμός",
+          "transliteration": "hagiasmos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "holiness",
+          "meaning": "ἁγιασμός, -οῦ, ὁ\n(ἁγιάζω), [in LXX: Eze.45:4 (מִקְדָּשׁ), Sir.7:31, etc. ;]\nas an active verbal noun in -μός, it signifies properly the process τὸ ἁγιάζειν, rather than the resultant state, ἁγιωσύνη, hence,\n1. consecration;\n2. sanctification: so strictly in Rom.6:19,22 (but see Meyer), 1Co.1:30, 1Th.4:3,7, 2Th.2:13, Heb.12:14, 1Pe.1:2. Elsewhere it perhaps (Ellic.; but see Milligan, Th., 48) inclines to the resultant state: 1Th.4:4, 1Ti.2:15 (Cremer, 55, 602).\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἁγιασμὸς",
+          "translit": "hagiasmos",
+          "gloss": "holiness"
+        },
+        {
+          "original": "ἁγιασμῷ",
+          "translit": "hagiasmō",
+          "gloss": "holiness"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:3",
+        "1 Thessalonians 4:4",
+        "1 Thessalonians 4:7"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 10,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 6:19",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:30",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0038"
+      }
+    },
+    {
+      "id": "ktaomai",
+      "strongs": [
+        "G2932"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2932",
+          "original": "κτάομαι",
+          "transliteration": "ktaomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to posses",
+          "meaning": "κτάομαι, -ῶμαι\n[in LXX chiefly for קָנָה ;]\nin pres., impf., fut. and aor., to procure for oneself, get, gain, acquire (the pf. and plpf., to have acquired, hence to possess, do not occur in NT): with accusative of thing(s), Mat.10:9, Luk.18:12, Act.8:20; with genitive pret., Act.22:28; ἐκ with genitive pret., Act.1:18; τ,ψυχὰς ὑμῶν (MM, xvi), Luk.21:19; τ. ἑαυτοῦ σκεῦος κτᾶσθαι, 1Th.4:4 (where if σ. = body, κ. must = pf., κέκτημαι; see MM, xvi; M, Th., in l; Field, Notes, 72 f. But σ. is most frequently taken as = wife; see Thayer, see word; Lft., Notes, 53 ff.; ICC, in l).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κτᾶσθαι",
+          "translit": "ktasthai",
+          "gloss": "to posses"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:4"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:9",
+          "found": true
+        },
+        {
+          "ref": "Luke 18:12",
+          "found": true
+        },
+        {
+          "ref": "Acts 1:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2932"
+      }
+    },
+    {
+      "id": "hyperbaino",
+      "strongs": [
+        "G5233"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5233",
+          "original": "ὑπερβαίνω",
+          "transliteration": "huperbainō",
+          "partOfSpeech": "G:V",
+          "gloss": "to wrong",
+          "meaning": "ὑπερ-βαίνω\n[in LXX for עָבַר, etc. ;]\n1. trans., to step over, trans­gress (R, overreach: 1Th.4:6).\n2. Intrans., to transgress: metaphorically, 1Th.4:6 (R, txt.; see M, Th., in l).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὑπερβαίνειν",
+          "translit": "huperbainein",
+          "gloss": "to wrong"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:6"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 4:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5233"
+      }
+    },
+    {
+      "id": "pleonekteo",
+      "strongs": [
+        "G4122"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4122",
+          "original": "πλεονεκτέω",
+          "transliteration": "pleonekteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to exploit",
+          "meaning": "πλεονεκτέω, -ῶ\n(πλεονέκτης, which see), [in LXX: Hab.2:9, Eze.22:27 (בָּצַע), Jdg.4:11 B* ;]\n1. intrans., to have more, to have an advantage (cl., with genitive of person(s)).\n2. Trans., in late writers (see M, Pr., 65), to over­reach, defraud: with accusative of person(s), 2Co.7:2 12:17-18; ἐν τ. πράγματιι, 1Th.4:6 (see M, Th., in l); pass., 2Co.2:11 (as also in cl.; see LS, see word).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πλεονεκτεῖν",
+          "translit": "pleonektein",
+          "gloss": "to exploit"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:6"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "2 Corinthians 2:11",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:6",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 7:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4122"
+      }
+    },
+    {
+      "id": "ekdikos",
+      "strongs": [
+        "G1558"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1558",
+          "original": "ἔκδικος",
+          "transliteration": "ekdikos",
+          "partOfSpeech": "G:A",
+          "gloss": "avenging",
+          "meaning": "ἔκδικος, -ον\n(δίκη), [in LXX: Wis.12:12, Sir.30:6, 4Ma.15:29 * ;]\n1. without law, unjust.\n2. exacting penalty from; as subst., an avenger: Rom.13:4; before περί, 1Th.4:6 (in π., a legal representative; Milligan, Th., l.with).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἔκδικος",
+          "translit": "ekdikos",
+          "gloss": "avenging"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:6"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 13:4",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1558"
+      }
+    },
+    {
+      "id": "kaleo",
+      "strongs": [
+        "G2564G"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2564G",
+          "original": "καλέω",
+          "transliteration": "kaleō",
+          "partOfSpeech": "G:V",
+          "gloss": "to call: call",
+          "meaning": "καλέω, -ῶ,\n[in LXX chiefly for קרא ;]\n1. to call, summon: with accusative of person(s), Mat.20:8 25:14, Mrk.3:31, Luk.19:13, Act.4:18; before ἐκ, Mat.2:15 (LXX); metaphorically, 1Pe.2:9.\n2. to call to one's house, invite: Luk.14:16, 1Co.10:27, Rev.19:9; εἰς τ. γάμους, Mat.22:3, 9 Luk.14:8, 9 Jhn.2:2; ὁ καλέσας, Luk.7:39; οἱ κεκλημένοι, Mat.22:8; metaphorically, of inviting to partake of the blessings of the kingdom of God (Dalman, Words, 118f.): Rom.8:30 9:24, 25 1Co.7:17, 18; before εἰς, 1Co.1:9, 1Th.2:12, 1Ti.6:12; ὁ καλῶν (καλέσας), of God, Gal.1:6 5:8, 1Th.5:24, 1Pe.1:15, 2Pe.1:3; οἱ κεκλκ …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "καλοῦντος",
+          "translit": "kalountos",
+          "gloss": "to call"
+        },
+        {
+          "original": "ἐκάλεσεν",
+          "translit": "ekalesen",
+          "gloss": "to call"
+        },
+        {
+          "original": "καλῶν",
+          "translit": "kalōn",
+          "gloss": "to call"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:12",
+        "1 Thessalonians 4:7",
+        "1 Thessalonians 5:24"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 132,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:21",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:20",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2564G"
+      }
+    },
+    {
+      "id": "athetheo",
+      "strongs": [
+        "G0114"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0114",
+          "original": "ἀθετέω",
+          "transliteration": "atheteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to reject",
+          "meaning": "ἀθετέω, -ῶ (τίθημι), [in LXX for seventeen different words, פּשׁע, מרד, בּגד, מעל, etc., often meaning, as 1Ki.13:3 (Heb., al.), to revolt; properly, to make ἄθετον , or do away with what has been laid down (see DCG, i, 453 f.)].\n1. to set aside, disregard (in Gramm., to reject as spurious): διαθήκην , Gal.3:16; ἐντολήν , Mrk.7:9; νόμον . Heb.10:28; πίστιν , 1Ti.5:12.\n2. to nullify, make void: Luk.7:30 (see Field, Notes, 59), 1Co.1:19, Gal.2:21.\n3. to reject: Mrk.6:26 (Field, op. cit., 30), Lk 10:16, Jhn.12:48, I Th 48, Ju 8 (for exx. in π., see MM, VGT, see word).\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀθετῶν",
+          "translit": "athetōn",
+          "gloss": "to reject"
+        },
+        {
+          "original": "ἀθετεῖ",
+          "translit": "athetei",
+          "gloss": "to reject"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 12,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 6:26",
+          "found": true
+        },
+        {
+          "ref": "Luke 7:30",
+          "found": true
+        },
+        {
+          "ref": "John 12:48",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0114"
+      }
+    },
+    {
+      "id": "theodidaktos",
+      "strongs": [
+        "G2312"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2312",
+          "original": "θεοδίδακτος",
+          "transliteration": "theodidaktos",
+          "partOfSpeech": "G:A",
+          "gloss": "divinely instructed",
+          "meaning": "θεο-δίδακτος, -ον\ntaught of God (cf. διδακτοὶ θεοῦ, Jhn.6:45): 1Th.4:9.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "θεοδίδακτοί",
+          "translit": "theodidaktoi",
+          "gloss": "divinely instructed"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 4:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2312"
+      }
+    },
+    {
+      "id": "philadelphia",
+      "strongs": [
+        "G5360"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5360",
+          "original": "φιλαδελφία",
+          "transliteration": "philadelphia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "brotherly love",
+          "meaning": "φιλαδελφία, -ας, ἡ\n(φιλάδελφος), [in LXX: 4Ma.13:23 4Mac 13:26 4Mac 14:1 * ;]\nthe love of brothers, brotherly love: of Christians' mutual love as brethren (see: ἀδελφός), Rom.12:10, 1Th.4:9, Heb.13:1, 1Pe.1:22, 2Pe.1:7.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φιλαδελφίας",
+          "translit": "philadelphias",
+          "gloss": "brotherly love"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 12:10",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:9",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 1:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5360"
+      }
+    },
+    {
+      "id": "philotimeomai",
+      "strongs": [
+        "G5389"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5389",
+          "original": "φιλοτιμέομαι",
+          "transliteration": "philotimeomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to aspire",
+          "meaning": "φιλοτιμέομαι, -οῦμαι\n(φίλος, τιμή), [in LXX: 4Ma.1:35 A ;]\nto love or seek after honour, hence, to be ambitious, emulous (Plat., Plut., al.): with inf., Rom.15:20, 2Co.5:9, 1Th.4:11.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φιλοτιμεῖσθαι",
+          "translit": "philotimeisthai",
+          "gloss": "to aspire"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 15:20",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 5:9",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5389"
+      }
+    },
+    {
+      "id": "hesychazo",
+      "strongs": [
+        "G2270"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2270",
+          "original": "ἡσυχάζω",
+          "transliteration": "hēsuchazō",
+          "partOfSpeech": "G:V",
+          "gloss": "be quiet/give up",
+          "meaning": "ἡσυχάζω\n[in LXX chiefly for שָׁקַט ;]\nto be still;\n(a) to rest from labour: Luk.23:56;\n(b) to live quietly: 1Th.4:11;\n(with) to be silent: Luk.14:3, Act.11:18 21:14 (cf. Job.32:7, Neh.5:8).†\nSYN.: σιγάω (which see), σιωπάω (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἡσυχάζειν",
+          "translit": "hēsuchazein",
+          "gloss": "be quiet/give up"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 23:56",
+          "found": true
+        },
+        {
+          "ref": "Acts 11:18",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2270"
+      }
+    },
+    {
+      "id": "idios",
+      "strongs": [
+        "G2398"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2398",
+          "original": "ἴδιος",
+          "transliteration": "idios",
+          "partOfSpeech": "G:A",
+          "gloss": "one's own/private",
+          "meaning": "ἴδιος, -α, -ον (in Attic usually -ος, -ον),\n[in LXX chiefly for of person(s) suff., also for לָהֶם, etc.; (τὰ ἴ.) בֵּיתוֹ ;]\n1. one's own;\n(a) of that which is private and personal (in cl. opposite to κοινός, δημόσιος; cf. infr. 3); …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἰδίων",
+          "translit": "idiōn",
+          "gloss": "one's own/private"
+        },
+        {
+          "original": "ἰδίους",
+          "translit": "idious",
+          "gloss": "one's own/private"
+        },
+        {
+          "original": "ἴδια",
+          "translit": "idia",
+          "gloss": "one's own/private"
+        },
+        {
+          "original": "ἰδίαις",
+          "translit": "idiais",
+          "gloss": "one's own/private"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:14",
+        "1 Thessalonians 2:15",
+        "1 Thessalonians 4:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 111,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:1",
+          "found": true
+        },
+        {
+          "ref": "Mark 4:34",
+          "found": true
+        },
+        {
+          "ref": "Luke 6:41",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2398"
+      }
+    },
+    {
+      "id": "cheir",
+      "strongs": [
+        "G5495"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5495",
+          "original": "χείρ",
+          "transliteration": "cheir",
+          "partOfSpeech": "G:N-F",
+          "gloss": "hand",
+          "meaning": "χείρ, genitive, χειρος (accusative, χεῖραν, 1Pe.5:6 T), ἡ,\n[in LXX chiefly for יָד ;]\nthe hand: Mat.3:12, Mrk.3:1, Luk.6:6, al. mult.; ἡ χ., acting subject, Luk.22:21; pl., Act.17:25 20:34, 1Jn.1:1; τ. ἔργα τῶν χ., Act.7:41, Rev.9:20; ὁ ἀσπασμὸς τ. ἐμῇ χ., 1Co.16:21, Col.4:18, 2Th.3:17; prepositional phrases, esp. those without art., similar to Heb. constructions (Bl., §32, 4; 40, 9; 46, 9), ἐν χ.; with genitive (Lft., in l.), Gal.3:19; σὺν χ. ἀγγέλου, Act.7:35; διὰ (τῶν) χειρῶν (διὰ χειρός), Mrk.6:2, Act.5:12 7:25, al.; ἐπὶ χειρῶν, Mat.4:6, Luk.4:11; ellipse of χ. (ἡ δεξία, ἀριστερα; Bl., §44 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χερσὶν",
+          "translit": "chersin",
+          "gloss": "hand"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 171,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 3:12",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:31",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:66",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5495"
+      }
+    },
+    {
+      "id": "euschemonos",
+      "strongs": [
+        "G2156"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2156",
+          "original": "εὐσχημόνως",
+          "transliteration": "euschēmonōs",
+          "partOfSpeech": "G:ADV",
+          "gloss": "properly",
+          "meaning": "εὐσχημόνως\nadv. (εὐσχήμων),\ndecorously, becomingly: 1Co.14:40; περιπατεῖν, Rom.13:13, 1Th.4:12.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εὐσχημόνως",
+          "translit": "euschēmonōs",
+          "gloss": "properly"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 13:13",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 14:40",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2156"
+      }
+    },
+    {
+      "id": "agnoeo",
+      "strongs": [
+        "G0050"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0050",
+          "original": "ἀγνοέω",
+          "transliteration": "agnoeō",
+          "partOfSpeech": "G:V",
+          "gloss": "be ignorant",
+          "meaning": "ἀγνοέω, -ῶ (&gt; ἁγνίζω),\n[in LXX for שָׁגָה, שָׁגַג, אָשַׁם, etc. ;]\n1. to be ignorant, not to know: absol., Ι Ti 1:13, Heb.5:2; with accusative, Act.13:27 17:23, Rom.10:3, 2Co.2:11; ἐν οἷς, 2Pe.2:12; before ὅτι, Rom.2:4 6:3 7:1, 1Co.14:38; οὐ θέλω ὑμᾶς ἀγνοεῖν, a Pauline phrase: with accusative, Rom.11:25; before ὑπέρ, 2Co.1:8; περί, 1Co.12:1, 1Th.4:13. ὅτι, Rom.1:13, 1Co.10:1 (for similar usage in π., V. MM, VGT, see word). Pass.: 1Co.14:38, 2Co.6:9, Gal.1:22.\n2. not to understand: with accusative, Mrk.9:32, Luk.9:45.\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀγνοεῖν",
+          "translit": "agnoein",
+          "gloss": "be ignorant"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 21,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 9:32",
+          "found": true
+        },
+        {
+          "ref": "Luke 9:45",
+          "found": true
+        },
+        {
+          "ref": "Acts 13:27",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0050"
+      }
+    },
+    {
+      "id": "lypeo",
+      "strongs": [
+        "G3076"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3076",
+          "original": "λυπέω",
+          "transliteration": "lupeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to grieve",
+          "meaning": "λυπέω, -ῶ\n(λύπη), [in LXX for חָרָה, etc. ;]\nto distress, grieve, cause pain or grief: with accusative of person(s), 2Co.2:2 2:5 7:8; pass., Mat.14:9 17:23 18:31 19:22 26:22, Mrk.10:22 14:19, Jhn.16:20 21:17, Rom.14:15, 2Co.2:4, 1Th.4:13, 1Pe.1:6; λ. καὶ ἀδημονεῖν, Mat.26:37; opposite to χαίρειν, 2Co.6:10; κατὰ θεόν, 2Co.7:9 7:11; τ. πνεῦμα τ. ἅγιον, Eph.4:30 (cf. συν-λνπέω),†\nSYN.: see: θρηνέω (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λυπῆσθε",
+          "translit": "lupēsthe",
+          "gloss": "to grieve"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 21,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 14:9",
+          "found": true
+        },
+        {
+          "ref": "Mark 10:22",
+          "found": true
+        },
+        {
+          "ref": "John 16:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3076"
+      }
+    },
+    {
+      "id": "keleusma",
+      "strongs": [
+        "G2752"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2752",
+          "original": "κέλευσμα",
+          "transliteration": "keleusma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "command",
+          "meaning": "κέλευσμα, -τος, τό\n(κελεύω), [in LXX: Pro.30:27 * ;]\na call, summons, shout of command: 1Th.4:16 (see M, Th., in l).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κελεύσματι",
+          "translit": "keleusmati",
+          "gloss": "command"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 4:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2752"
+      }
+    },
+    {
+      "id": "archangelos",
+      "strongs": [
+        "G0743"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0743",
+          "original": "ἀρχάγγελος",
+          "transliteration": "archangelos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "archangel",
+          "meaning": "ἀρχ-άγγελος, -ου, ὁ\n(ἄρχι-, ἄγγελος),\narchangel, a chief angel: 1Th.4:16, Ju 9 (Cremer, 24; MM, see word).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀρχαγγέλου",
+          "translit": "archangelou",
+          "gloss": "archangel"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 4:16",
+          "found": true
+        },
+        {
+          "ref": "Jude 1:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0743"
+      }
+    },
+    {
+      "id": "nephele",
+      "strongs": [
+        "G3507"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3507",
+          "original": "νεφέλη",
+          "transliteration": "nephelē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "cloud",
+          "meaning": "νεφέλη, -ης, ἡ\n(νέφος), [in LXX chiefly for עָנָן, also for עָב, etc. ;]\na cloud (single and specific as opposite to νεφος, a great indefinite mass of vapour): Mat.17:5 24:30 26:64, Mrk.9:7 13:26 14:62, Luk.9:34-35 12:54 21:37, Act.1:9, 1Th.4:17, Ju 12, Rev.1:7 10:1 11:12 14:14-16; of the pillar of cloud in the wilderness (Exo.14:19-20, Psa.105:39, al.): 1Co.10:1-2.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νεφέλαις",
+          "translit": "nephelais",
+          "gloss": "cloud"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 21,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 17:5",
+          "found": true
+        },
+        {
+          "ref": "Mark 9:7",
+          "found": true
+        },
+        {
+          "ref": "Luke 9:34",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3507"
+      }
+    },
+    {
+      "id": "apantesis",
+      "strongs": [
+        "G0529"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0529",
+          "original": "ἀπάντησις",
+          "transliteration": "apantēsis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "meeting",
+          "meaning": "ἀπάντησις, -εως, ἡ\n(ἀπαντάω), [in LXX chiefly for קָרָא ;]\nusually with seel., ὑπ-; a meeting; εἰς ἀ., with genitive or dative, to meet: Mat.25:6 27:32 (WH, txt., omits), Act.28:15, 1Th.4:17 (see M, Th., in l; M, Pr., 14, 242; MM, VGT, see word; Lft., Notes, 69).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀπάντησιν",
+          "translit": "apantēsin",
+          "gloss": "meeting"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 25:6",
+          "found": true
+        },
+        {
+          "ref": "Acts 28:15",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0529"
+      }
+    },
+    {
+      "id": "aer",
+      "strongs": [
+        "G0109"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0109",
+          "original": "ἀήρ",
+          "transliteration": "aēr",
+          "partOfSpeech": "G:N-M",
+          "gloss": "air",
+          "meaning": "ἀήρ, ἀέρος, ὁ,\n[in LXX: 2Ki.22:12 (= Psa.17(18):11 שׁחק), Wi .8 ;]\nin Hom., Hes., the lower air which surrounds the earth, as opposite to the purer αἰθήρ of the higher regions; generally, air (MM, VGT, see word): Act.22:23, 1Th.4:17, Rev.9:2 16:17; of the air as the realm of demons, Eph.2:2; ἀ. δέρειν, of striving to no purpose, 1Co.9:26; εἰς ἀ. λαλεῖν, of speaking without effect, not being understood, 1Co.14:9.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀέρα",
+          "translit": "aera",
+          "gloss": "air"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 22:23",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 9:26",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0109"
+      }
+    },
+    {
+      "id": "chronos",
+      "strongs": [
+        "G5550"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5550",
+          "original": "χρόνος",
+          "transliteration": "chronos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "time",
+          "meaning": "χρόνος, -ου, ὁ\n[in LXX chiefly for יוֹם, also for עֵת, etc. ;]\ntime (a space of time, whether long or short; cf. Lft., Notes, 70): Mat.2:7, Mrk.9:21, Luk.1:57, Act.3:21 7:17, 23 13:18 17:30 27:9, Heb.11:32, 1Pe.1:17 4:3, Rev.10:6; στιγμὴ χρόνου, Luk.4:5; πλήρωμα τοῦ χ., Gal.4:4; ποιεῖν χ., Act.15:33 18:23; βιῶσαι, 1Pe.4:2; διδόναι, Rev.2:21; pl., χ. καὶ (ἢ) καιροί (Lft., l.with), Act.1:7, 1Th.5:1; ἐπ᾽ ἐσχάτου τῶν χ. (χρόνου), 1Pe.1:20, Ju 18; with prep., ἄχρι, Act.3:21; διὰ τὸν χ., Heb.5:12; ἐν χ., Act.1:6, 21; ἐπὶ (πλείονα) χ., Luk.18:4, Act.18:20; ἐφ᾽ ὅσον χ., Rom.7:1, 1Co.7:39, Gal.4:1; κατ …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χρόνων",
+          "translit": "chronōn",
+          "gloss": "time"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 54,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:7",
+          "found": true
+        },
+        {
+          "ref": "Mark 2:19",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:57",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5550"
+      }
+    },
+    {
+      "id": "kleptes",
+      "strongs": [
+        "G2812"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2812",
+          "original": "κλέπτης",
+          "transliteration": "kleptēs",
+          "partOfSpeech": "G:N-M",
+          "gloss": "thief",
+          "meaning": "κλέπτης, -ου, ὁ\n[in LXX for גַּנָּב ;]\na thief: Mat.6:19-20 24:43, Luk.12:33, 39, Jhn.10:1, 10 12:6, 1Co.6:10, 1Pe.4:15. Fig., ὡς κ. ἐν νυκτί, 1Th.5:2 5:4 (κλέπτας, WH, txt., R, mg.; see Lft., Notes, 73; but cf. also M, Th., l.with), 2Pe.3:10, Rev.3:3 16:15. Metaphorical, of false teachers, Jhn.10:8.†\nSYN.: λῃστής, a robber, a brigand who plunders, openly, with violence; κ. is a thief who steals in secret, by fraud and cunning (Tr., Syn., § xliv) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κλέπτης",
+          "translit": "kleptēs",
+          "gloss": "thief"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:2",
+        "1 Thessalonians 5:4"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 16,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:19",
+          "found": true
+        },
+        {
+          "ref": "Luke 12:33",
+          "found": true
+        },
+        {
+          "ref": "John 10:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2812"
+      }
+    },
+    {
+      "id": "asphaleia",
+      "strongs": [
+        "G0803"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0803",
+          "original": "ἀσφάλεια",
+          "transliteration": "asphaleia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "security",
+          "meaning": "ἀσφάλεια, -ας, ἡ\n(ἀσφαλής), [in LXX for בָּטַח, etc. ;]\n1. firmness.\n2. certainty: Luk.1:4.\n3. security: Act.5:23, 1Th.5:3.\n(In π. it is used as a law-term, proof, security; see MM, see word; M, Th., l.with)†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀσφάλεια",
+          "translit": "asphaleia",
+          "gloss": "security"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 1:4",
+          "found": true
+        },
+        {
+          "ref": "Acts 5:23",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0803"
+      }
+    },
+    {
+      "id": "aiphnidios",
+      "strongs": [
+        "G0160"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0160",
+          "original": "αἰφνίδιος",
+          "transliteration": "aiphnidios",
+          "partOfSpeech": "G:A",
+          "gloss": "sudden",
+          "meaning": "αἰφνίδιος (in Lk, l.with, ἐφν- WH; see M, Pr., 35), -ον\n(αἴφνης = ἄφνως, suddenly), [in LXX: Wis.17:15, 2Ma.14:17, 3Ma.3:24 * ;]\nsudden, unexpected: Luk.21:34, 1Th.5:3.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "αἰφνίδιος",
+          "translit": "aiphnidios",
+          "gloss": "sudden"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 21:34",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0160"
+      }
+    },
+    {
+      "id": "olethros",
+      "strongs": [
+        "G3639"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3639",
+          "original": "ὄλεθρος",
+          "transliteration": "olethros",
+          "partOfSpeech": "G:N-M",
+          "gloss": "destructive",
+          "meaning": "ὄλεθρος, -ον\n(ὄλλυμι, to destroy), [in LXX for שֹׁד. שָׁדַד, etc. ;]\nruin, destruction, death: 1Th.5:3, 1Ti.6:9; αἰώνιος, 2Th.1:9 (L, txt., ὀλέθριος, which see); εἰς ὄ. τῆς σαρκός, for physical discipline, to destroy carnal lusts, 1Co.5:5.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὄλεθρος",
+          "translit": "olethros",
+          "gloss": "destructive"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Corinthians 5:5",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:3",
+          "found": true
+        },
+        {
+          "ref": "2 Thessalonians 1:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3639"
+      }
+    },
+    {
+      "id": "odin",
+      "strongs": [
+        "G5604"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5604",
+          "original": "ὠδίν",
+          "transliteration": "ōdin",
+          "partOfSpeech": "G:N-F",
+          "gloss": "labor",
+          "meaning": "ὠδίν\n(late form of ὠδίς), -ῖνος, ἡ [in LXX for חֵבֶל חֶבֶל (and wrongly for חֶבֶל חֶבֶל, cf. Ac, l.with), חִיל, etc. ;]\na birth pang, travail pain: 1Th.5:3; metaphorically, of extreme suffering, Mat.24:8, Mrk.13:8; ὠδῖνες θανάτου (Psa.18:4 מָוֶת חֶבֶל), Act.2:24.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὠδὶν",
+          "translit": "ōdin",
+          "gloss": "labor"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:8",
+          "found": true
+        },
+        {
+          "ref": "Mark 13:8",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:24",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5604"
+      }
+    },
+    {
+      "id": "ekpheugo",
+      "strongs": [
+        "G1628"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1628",
+          "original": "ἐκφεύγω",
+          "transliteration": "ekpheugō",
+          "partOfSpeech": "G:V",
+          "gloss": "to escape",
+          "meaning": "ἐκ-φεύγω\n[in LXX for נוּס, etc. ;]\nto flee away, escape: absol., Act.16:27, 1Th.5:3, Heb.2:3; before ἐκ, Act.19:10; with accusative of person(s), Heb.12:25; with accusative of thing(s), Luk.21:36, Rom.2:3; τ. χεῖρας αὐτοῦ, 2Co.11:33.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐκφύγωσιν",
+          "translit": "ekphugōsin",
+          "gloss": "to escape"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 21:36",
+          "found": true
+        },
+        {
+          "ref": "Acts 16:27",
+          "found": true
+        },
+        {
+          "ref": "Romans 2:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1628"
+      }
+    },
+    {
+      "id": "nepho",
+      "strongs": [
+        "G3525"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3525",
+          "original": "νήφω",
+          "transliteration": "nēphō",
+          "partOfSpeech": "G:V",
+          "gloss": "be sober",
+          "meaning": "νήφω\nto be sober, abstain from wine; metaphorically, of moral alertness, to be sober, calm, circumspect: 1Th.5:6 5:8, 2Ti.4:5 (see Ellic., in l), 1Pe.1:13 4:7 5:8 (cf. ἐκ-, ἐκ-νήφω, and see MM, xvii).†\nSYN.: ἀγρυπνέω, γρηγορέω (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νήφωμεν",
+          "translit": "nēphōmen",
+          "gloss": "be sober"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:6",
+        "1 Thessalonians 5:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:6",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 4:5",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 1:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3525"
+      }
+    },
+    {
+      "id": "katheudo",
+      "strongs": [
+        "G2518"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2518",
+          "original": "καθεύδω",
+          "transliteration": "katheudō",
+          "partOfSpeech": "G:V",
+          "gloss": "to sleep",
+          "meaning": "καθεύδω\n[in LXX chiefly for שָׁכַב, Gen.28:13, Psa.88:5, al.; also for יָשֵׁן, Sng.5:2, Dan LXX TH Dan.12:2, al.; for יָשַׁב, 1Ki.19:9 ;]\nto sleep: Mat.8:24 9:24 13:25 25:5 26:46, 43 26:45, Mrk.4:27, 38 5:39 14:37, 40-41, Luk.8:52 22:46, 1Th.5:7. Metaphorical,\n(a) of death (as Ps, Da, ll. with): 1Th.5:10 (cf. Mat.9:24, Mrk.5:39, Luk.8:52, and see Swete, Mk., l.with);\n(b) of moral and spiritual insensibility: Mrk.13:36, Eph.5:14, 1Th.5:6.†\nSYN.: (κοιμάω.) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "καθεύδωμεν",
+          "translit": "katheudōmen",
+          "gloss": "to sleep"
+        },
+        {
+          "original": "καθεύδοντες",
+          "translit": "katheudontes",
+          "gloss": "to sleep"
+        },
+        {
+          "original": "καθεύδουσιν",
+          "translit": "katheudousin",
+          "gloss": "to sleep"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:6",
+        "1 Thessalonians 5:7",
+        "1 Thessalonians 5:10"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 20,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 8:24",
+          "found": true
+        },
+        {
+          "ref": "Mark 4:27",
+          "found": true
+        },
+        {
+          "ref": "Luke 8:52",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2518"
+      }
+    },
+    {
+      "id": "methyo",
+      "strongs": [
+        "G3184"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3184",
+          "original": "μεθύω",
+          "transliteration": "methuō",
+          "partOfSpeech": "G:V",
+          "gloss": "to get drunk",
+          "meaning": "μεθύω\n(μέθυ, wine, cf. μέθη), [in LXX chiefly for שָׁכַר, רָוָה ;]\nto be drunken: Mat.24:49, Jhn.2:10, Act.2:15, 1Co.11:21, 1Th.5:7; metaphorically, Rev.17:2, 6.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μεθύουσιν",
+          "translit": "methuousin",
+          "gloss": "to get drunk"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:7"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:49",
+          "found": true
+        },
+        {
+          "ref": "John 2:10",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3184"
+      }
+    },
+    {
+      "id": "peripoiesis",
+      "strongs": [
+        "G4047"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4047",
+          "original": "περιποίησις",
+          "transliteration": "peripoiēsis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "acquiring",
+          "meaning": "περι-ποίησις, -εως, ἡ\n(περιποιέω), [in LXX: 2Ch.4:13 (12) (מִחְיָה) Mal.3:17 (סְגֻלָּה), Hag.2:10 (9) * ;]\n1. preservation: Heb.10:39 (2 Ch, l.with).\n2. acquisition, obtaining: 1Th.5:9, 2Th.2:14 (and so perh. Eph.1:14, see infr.).\n3. a possession: Eph.1:14 (but see supr., and cf. ICC, in l), 1Pe.2:9 (LXX).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "περιποίησιν",
+          "translit": "peripoiēsin",
+          "gloss": "acquiring"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Ephesians 1:14",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:9",
+          "found": true
+        },
+        {
+          "ref": "2 Thessalonians 2:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4047"
+      }
+    },
+    {
+      "id": "proistemi",
+      "strongs": [
+        "G4291"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4291",
+          "original": "προΐστημι",
+          "transliteration": "proistēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to set before",
+          "meaning": "προ-ΐστημι\n[in LXX: 2Ki.13:17, Pro.23:5 26:17, Isa.43:24, Amo.6:10 (no proper Heb. equiv.), Dan LXX Bel 1:7, 1Ma.5:19, 4Ma.11:27 * ;]\n1. trans. in fut., 1 aor., and mid. 1 aor., to put before, set over (Plat., al.).\n2. Intrans., in pf., plpf., 2 aor. and mid. Pres. and impf.;\n(a) to preside, rule, govern: Rom.12:8, 1Ti.5:17; with genitive, 1Th.5:12, 1Ti.3:4-5 3:12;\n(b) to direct, maintain: with genitive of thing(s), καλῶν ἔργων, Tit.3:8, 14 (on R, mg., profess honest occupations, see CGT, in l; Field, Notes, 223 f.).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "προϊσταμένους",
+          "translit": "proistamenous",
+          "gloss": "to set before"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 12:8",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:12",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 3:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4291"
+      }
+    },
+    {
+      "id": "hegeomai",
+      "strongs": [
+        "G2233"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2233",
+          "original": "ἡγέομαι",
+          "transliteration": "hēgeomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to govern",
+          "meaning": "ἡγέομαι, -οῦμαι depon. mid.,\n[in LXX (chiefly Pres. ptcp.) for נָגִיד, רֹאשׁ, שַׂר, etc. ;]\n1. to lead;\n(a) to guide, go before;\n(b) to rule, be leader: present ptcp., ἡγούενος, a ruler, leader (MM, Exp., xiv), Mat.2:6 (LXX), Luk.22:26, Act.7:10 14:12 15:22, Heb.13:7, 17 13:24. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἡγεῖσθαι",
+          "translit": "hēgeisthai",
+          "gloss": "to govern"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 27,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 22:26",
+          "found": true
+        },
+        {
+          "ref": "Acts 7:10",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 9:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2233"
+      }
+    },
+    {
+      "id": "ataktos",
+      "strongs": [
+        "G0813"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0813",
+          "original": "ἄτακτος",
+          "transliteration": "ataktos",
+          "partOfSpeech": "G:A",
+          "gloss": "disorderly",
+          "meaning": "ἀ-τακτος, -ον\n(τάσσω), [in LXX: 3Ma.1:19 * ;]\nout of order, out of place (Lat. inordinatus), frequently of soldiers not keeping the ranks, or an army in disarray (cf. 3Ma.1:19); hence, metaphorically, irregular, disorderly (see previous word): 1Th.5:14.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀτάκτους",
+          "translit": "ataktous",
+          "gloss": "disorderly"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0813"
+      }
+    },
+    {
+      "id": "oligopsychos",
+      "strongs": [
+        "G3642"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3642",
+          "original": "ὀλιγόψυχος",
+          "transliteration": "oligopsuchos",
+          "partOfSpeech": "G:A",
+          "gloss": "fainthearted",
+          "meaning": "ὀλιγόφυχος, -ον\n[in LXX: Isa.35:4 (מָהַר ni.), etc. ;]\nfaint-hearted: 1Th.5:14.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὀλιγοψύχους",
+          "translit": "oligopsuchous",
+          "gloss": "fainthearted"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3642"
+      }
+    },
+    {
+      "id": "antechomai",
+      "strongs": [
+        "G0472"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0472",
+          "original": "ἀντέχω",
+          "transliteration": "antechō",
+          "partOfSpeech": "G:V",
+          "gloss": "to cling to",
+          "meaning": "ἀντ-ὲχω\n(ἀντί, ἔχω), [in LXX for חָזַק hi., etc. ;]\n1. trans., to hold against.\n2. Intrans., to withstand. Mid. 1. in cl., to hold out against.\n3. (cf. MM, VGT, see word), to hold firmly to, cleave to: with genitive (see Bl., § 36, 2), Mat.6:24, Luk.16:13, 1Th.5:14 (see M, Th., in l), Tit.1:9.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀντέχεσθε",
+          "translit": "antechesthe",
+          "gloss": "to cling to"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:24",
+          "found": true
+        },
+        {
+          "ref": "Luke 16:13",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0472"
+      }
+    },
+    {
+      "id": "antapodidomi",
+      "strongs": [
+        "G0467"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0467",
+          "original": "ἀνταποδίδωμι",
+          "transliteration": "antapodidōmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to repay",
+          "meaning": "ἀντ-απο-δίδωμι\n(ἀντί ἀποδίδωμι), [in LXX for שָׁלַם pi., גָּמַל, שׁוּב hi., etc. ;]\nto give back as an equivalent, recompense, requital (the ἀντί ex­pressing the idea of full, complete return; see Lft., Notes, 46);\n(a) in favourable sense: Luk.14:14, Rom.11:35, 1Th.3:9;\n(b) in unfavourable sense: Rom.12:19, 2Th.1:6, Heb.10:30.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀνταποδοῦναι",
+          "translit": "antapodounai",
+          "gloss": "to repay"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 3:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 14:14",
+          "found": true
+        },
+        {
+          "ref": "Romans 11:35",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 3:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0467"
+      }
+    },
+    {
+      "id": "adialeiptos",
+      "strongs": [
+        "G0089"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0089",
+          "original": "ἀδιαλείπτως",
+          "transliteration": "adialeiptōs",
+          "partOfSpeech": "G:ADV",
+          "gloss": "unceasingly",
+          "meaning": "ἀδιαλείπτως (see supr.), adv.,\n[in LXX: 1Ma.12:11, II Mac .4, 3Ma.6:33 * ;]\nunremittingly, incessantly: Rom.1:9, 1Th.1:3 2:13 5:17.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀδιαλείπτως",
+          "translit": "adialeiptōs",
+          "gloss": "unceasingly"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:13",
+        "1 Thessalonians 5:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 1:9",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 2:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0089"
+      }
+    },
+    {
+      "id": "thelema",
+      "strongs": [
+        "G2307"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2307",
+          "original": "θέλημα",
+          "transliteration": "thelēma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "will/desire",
+          "meaning": "θέλημα, -τος, τό\n(θέλω), [in LXX chiefly for חָפֵץ, also for רָצוֹן, etc. ;]\nwill,\n(a) objectively = that which is willed: Mat.18:14, Luk.12:47, Jhn.5:30, 1Co.7:37, 1Th.5:18, 2Ti.2:26, Heb.10:10, Rev.4:11; θ. τ. θεοῦ, Act.22:14, Rom.2:18 12:2, Eph.1:9, Col.1:9 4:12, 1Pe.4:2; τ. κυρίου, Eph.5:17; pl., of precepts, Mrk.3:35, WH, mg., Act.13:22 (LXX); ἐστιν τὸ θ., with genitive of person(s), before ἵνα, Jhn.6:39-40, 1Co.16:12; with inf., 1Pe.2:15; with accusative and inf., 1Th.4:3 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "θέλημα",
+          "translit": "thelēma",
+          "gloss": "will/desire"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:3",
+        "1 Thessalonians 5:18"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 59,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:10",
+          "found": true
+        },
+        {
+          "ref": "Mark 3:35",
+          "found": true
+        },
+        {
+          "ref": "Luke 11:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2307"
+      }
+    },
+    {
+      "id": "sbennymi",
+      "strongs": [
+        "G4570"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4570",
+          "original": "σβέννυμι",
+          "transliteration": "sbennumi",
+          "partOfSpeech": "G:V",
+          "gloss": "to extinguish",
+          "meaning": "σβέννυμι\n[in LXX chiefly for כָּבָה ;]\nof fire or things on fire, to quench: with accusative, Mat.12:20, Eph.6:16, Heb.11:34; pass., Mat.25:8, Mrk.9:48, [44, 46]. Metaphorical (cf. Sng.8:7, 4Ma.16:4): τὸ πνεῦμα, 1Th.5:19.†\nζβέννυμι, for σβ-, 1Th.5:19 T (see WH, Notes, 148).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σβέννυτε",
+          "translit": "sbennute",
+          "gloss": "to extinguish"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:19"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 12:20",
+          "found": true
+        },
+        {
+          "ref": "Mark 9:44",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 6:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4570"
+      }
+    },
+    {
+      "id": "katecho",
+      "strongs": [
+        "G2722"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2722",
+          "original": "κατέχω",
+          "transliteration": "katechō",
+          "partOfSpeech": "G:V",
+          "gloss": "to hold back/fast",
+          "meaning": "κατ-έχω\n[in LXX for אָחַז, חָזַק hi., etc. ;]\n1. perfective of ἔχω (M, Pr., 116; M, Th., 155),\n(a) to possess, hold fast: Luk.8:15, Jhn.5:4, Rom.1:18 (Lft., Notes, 251), 1Co.7:30 11:2, 2Co.6:10, 1Th.5:21, Heb.3:6, 14 10:23;\n(b) to lay hold of, get possession of: Luk.14:9.\n2. to hold back, detain, restrain (M, Th., 156 f.): with accusative before τοῦ μή with inf., Luk.4:42; before πρός, with accusative, Phm 13; absol., τὸ κατέχον (ὁ κ.), 2Th.2:6-7.\n3. Intrans., as nautical term, to put in, make for (LS, see word): Act.27:40.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κατέχετε",
+          "translit": "katechete",
+          "gloss": "to hold back/fast"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 18,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 4:42",
+          "found": true
+        },
+        {
+          "ref": "John 5:4",
+          "found": true
+        },
+        {
+          "ref": "Acts 27:40",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2722"
+      }
+    },
+    {
+      "id": "holoteles",
+      "strongs": [
+        "G3651"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3651",
+          "original": "ὁλοτελής",
+          "transliteration": "holotelēs",
+          "partOfSpeech": "G:A",
+          "gloss": "wholly",
+          "meaning": "ὁλοτελής, -ές\n(ὅλος, τίλος),\ncomplete, perfect.. 1Th.5:23.†\nSYN.: ὁλόκληρος (which see), τέλειος. \"As regards meaning, ὁλόκληρος can hardly be distinguished from ὁλοτελής though, in accordance with its derivation, it draws more special attention to the several parts to which the wholeness spoken of extends, no part being wanting or lacking in completeness\" (M, Th., 78) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὁλοτελεῖς",
+          "translit": "holoteleis",
+          "gloss": "wholly"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3651"
+      }
+    },
+    {
+      "id": "holokleros",
+      "strongs": [
+        "G3648"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3648",
+          "original": "ὁλόκληρος",
+          "transliteration": "holoklēros",
+          "partOfSpeech": "G:A",
+          "gloss": "whole",
+          "meaning": "ὁλό-κληρος, -ον\n(ὅλος, κλῆρος, i.e. with all that has fallen by lot), [in LXX: Lev.23:15, Eze.15:5 (תָּמִים), Deu.27:6, Jos.8:31 (9:2) (שָׁלֵם), Zec.11:16 (נָצַב ni.), Wis.15:3, 1Ma.4:47, 4Ma.15:17 * ;]\ncomplete, entire; in NT in ethical sense (as Wis, 4Mac, ll. with), 1Th.5:23; ὁ. καὶ τέλειοι, Jas.1:4.†\nSYN.: ὁλοτελής (which see), τελειος (Tr., Syn., § xxii) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὁλόκληρον",
+          "translit": "holoklēron",
+          "gloss": "whole"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:23",
+          "found": true
+        },
+        {
+          "ref": "James 1:4",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3648"
+      }
+    },
+    {
+      "id": "anagnosko",
+      "strongs": [
+        "G0314"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0314",
+          "original": "ἀναγινώσκω",
+          "transliteration": "anaginōskō",
+          "partOfSpeech": "G:V",
+          "gloss": "to read",
+          "meaning": "ἀνα-γινώσκω\n(Attic ἀναγιγν-), [in LXX chiefly for קָרָא ;]\n1. to know certainly, know again, recognize.\n2. Of written characters, to read: Mat.24:15, Mrk.13:14, Act.15:31 23:34, Eph.3:4; with accusative of thing(s), Mat.22:31, Mrk.12:10 Luk.6:3, Jhn.19:20, Act.8:30, 32, 2Co.1:13, Rev.1:3; with accusative of person(s), Ἠσαίαν τ. προφήτην, Act.8:28, 30; before ἐν, Mat.12:5 21:42, Mrk.12:26 (so. ἐν τ. νόμῳ), Luk.10:26; before ὅτι, Mat.19:4 21:16; τί ἐποίησε, Mat.12:3, Mrk.2:25; pass. 2Co.3:2; of reading aloud (MM, VGT, see word), Luk.4:16, Act.13:27 15:21, 2Co.3:15, Col.4:16, 1Th.5:27 (M, Th., in …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀναγνωσθῆναι",
+          "translit": "anagnōsthēnai",
+          "gloss": "to read"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:27"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 30,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 12:3",
+          "found": true
+        },
+        {
+          "ref": "Mark 2:25",
+          "found": true
+        },
+        {
+          "ref": "Luke 4:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0314"
+      }
+    },
+    {
+      "id": "adelphos",
+      "strongs": [
+        "G0080"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0080",
+          "original": "ἀδελφός",
+          "transliteration": "adelphos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "brother",
+          "meaning": "ἀδελφός, -οῦ, ὁ\n(ἀ- copul., δελφύς, womb),\nin cl., a brother, born of the same parent or parents. [In LXX (Hort, Ja., 102f.), for אָח ;]\n1. lit. of a brother (Gen.4:2, al.).\n2. Of a neighbour (Lev.19:17).\n3. Of a member of the same nation (Exo.2:14, Deu.15:3). In NT in each of these senses (1. Mat.1:2, al.; 2. Mat.7:3; 3. Rom.9:3) and also, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀδελφοὶ",
+          "translit": "adelphoi",
+          "gloss": "brother"
+        },
+        {
+          "original": "ἀδελφοί",
+          "translit": "adelphoi",
+          "gloss": "brother"
+        },
+        {
+          "original": "ἀδελφὸν",
+          "translit": "adelphon",
+          "gloss": "brother"
+        },
+        {
+          "original": "ἀδελφοὺς",
+          "translit": "adelphous",
+          "gloss": "brother"
+        },
+        {
+          "original": "Ἀδελφοί",
+          "translit": "Adelphoi",
+          "gloss": "brother"
+        },
+        {
+          "original": "ἀδελφοῖς",
+          "translit": "adelphois",
+          "gloss": "brother"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:4",
+        "1 Thessalonians 2:1",
+        "1 Thessalonians 2:9",
+        "1 Thessalonians 2:14",
+        "1 Thessalonians 2:17",
+        "1 Thessalonians 3:2",
+        "1 Thessalonians 3:7",
+        "1 Thessalonians 4:1",
+        "1 Thessalonians 4:6",
+        "1 Thessalonians 4:10",
+        "1 Thessalonians 4:13",
+        "1 Thessalonians 5:1",
+        "1 Thessalonians 5:4",
+        "1 Thessalonians 5:12",
+        "1 Thessalonians 5:14",
+        "1 Thessalonians 5:25",
+        "1 Thessalonians 5:26",
+        "1 Thessalonians 5:27"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 321,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 1:2",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:16",
+          "found": true
+        },
+        {
+          "ref": "Luke 3:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0080"
+      }
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4202",
+          "original": "πορνεία",
+          "transliteration": "porneia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "sexual sin",
+          "meaning": "πορνεία, -ας, ἡ\n(πορνεύω), [in LXX for תַּזְנוּת and cogn. forms ;]\nfornication: Act.15:20, 29 21:25, 1Co.5:1 6:13 6:18, 2Co.12:21, Gal.5:19, Eph.5:3, Col.3:5, 1Th.4:3 (Lft., Notes, 53), Rev.9:21; pl. (see WM, 220; Bl., § 32, 6), 1Co.7:2; disting. from μοιχεία, Mat.15:19, Mrk.7:21; = μοιχεία (Amos 8:17 Sir.23:23, al.), Mat.5:32 19:9. Metaphorical (of idolatry: Deu.23:2, Hos.1:2): Jhn.8:41 (Westc., in l), and so perh. (Thayer-Grimm, see word; but see Swete, in 11.), Rev.2:21 14:18 17:2, 4 18:3 19:2.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πορνείας",
+          "translit": "porneias",
+          "gloss": "sexual sin"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 25,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 15:19",
+          "found": true
+        },
+        {
+          "ref": "Acts 15:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4202"
+      }
+    },
+    {
+      "id": "skeuos",
+      "strongs": [
+        "G4632"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4632",
+          "original": "σκεῦος",
+          "transliteration": "skeuos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "vessel",
+          "meaning": "σκεῦος, -ους, τό\n[in LXX chiefly for כְּלִי ;]\na vessel, implement (for exx. in various senses, see MM, xxii): Mrk.11:16, Luk.8:16, Jhn.19:29, Act.10:11, 16 11:5, Rom.9:21, Rev.18:12; pl., 2Ti.2:20, Rev.2:27; τὰ σ. τῆς λειτουργίας, Heb.9:21; pl., τὰ σ., utensils, goods, Mat.12:29, Mrk.3:27, Luk.17:31; id. of the tackle or gear of a ship (Xen., Polyb., al.); so in sing., τὸ σ., Act.27:17. Metaphorical, of persons: σ. ἐκλογῆς, Act.9:15; ὀργῆς, Rom.9:22; ἐλέους, Rom.9:23; σ. εἰς τιμήν (cf. Rom.9:21), 2Ti.2:21; of woman, ἀσθενέστερον σ., 1Pe.3:7; so perh. τ. ἑαυτοῦ σ., 1Th.4:4 (but see infr.); of …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκεῦος",
+          "translit": "skeuos",
+          "gloss": "vessel"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:4"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 22,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 8:16",
+          "found": true
+        },
+        {
+          "ref": "Romans 9:21",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 4:7",
+          "found": true
+        },
+        {
+          "ref": "2 Timothy 2:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4632"
+      }
+    },
+    {
+      "id": "pathos",
+      "strongs": [
+        "G3806"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3806",
+          "original": "πάθος",
+          "transliteration": "pathos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "passion",
+          "meaning": "πάθος, -ους, τό\n(πάιτχω), [in LXX: Job.30:31 (אֵבֶל), Pro.25:20, and very frequently in (4Ma.1:1 n, al.)* ;]\nlike πάθημα;\n1. that which befalls one, that which one suffers\n2. a passive emotion or affection (esp. of violent emotion), a passion, passionate desire; in NT always in bad sense: Col.3:5; π. ἀτιμίας, Rom.1:26; π. ἐπιθυμίας, 1Th.4:5.† …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πάθει",
+          "translit": "pathei",
+          "gloss": "passion"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 1:26",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3806"
+      }
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1939",
+          "original": "ἐπιθυμία",
+          "transliteration": "epithumia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "desire",
+          "meaning": "ἐπιθυμία, -ας, ἡ\n(έπιθυμέω), [in LXX chiefly for תַּאֲוָה, אָוָה; also for חֶמֶד, etc. ;]\ndesire, longing: Luk.22:15 (see: ἐπιθυμέω), Php.1:23, 1Th.2:17, Rev.18:14; p1., Mrk.4:19; esp. with ref. to forbidden things, desire, lust (Vg., concupiscentia): Rom.7:7-8, Jas.1:14-15, 2Pe.1:4; pl., Gal.5:24, 1Ti.6:9, 2Ti.2:22 4:3, 1Pe.1:14 4:2; πάθος ἐπιθυμίας, 1Th.4:5; ἐ. κακή, Col.3:5; with genitive, μιασμοῦ, 2Pe.2:10 (see Mayor, in l); τ. καρδιῶν, Rom.1:24; τ. κόσμου (aroused by the world), 1Jn.2:17; τ. σώματος, Rom.6:12; τ. ἀπάτης, Eph.4:22 (see ICC, in l); τ. σαρκός, 1Jn.2:16, 2Pe.2:18 (without art …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐπιθυμίᾳ",
+          "translit": "epithumia",
+          "gloss": "desire"
+        },
+        {
+          "original": "ἐπιθυμίας",
+          "translit": "epithumias",
+          "gloss": "desire"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:17",
+        "1 Thessalonians 4:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 37,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 4:19",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:15",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:16",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 1:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1939"
+      }
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4151G",
+          "original": "πνεῦμα",
+          "transliteration": "pneuma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "spirit/breath: spirit",
+          "meaning": "πνεῦμα, -τος, τό,\n[in LXX chiefly and very frequently for רוּחַ ;]\n1. of air in motion;\n(a) wind: Jhn.3:8; pl., Heb.1:7 (LXX);\n(b) breath: π. ζωῆς, Rev.11:11; π. τοῦ στόματος, figuratively, 2Th.2:8 (cf. Ps 32 (33)6). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πνεύματι",
+          "translit": "pneumati",
+          "gloss": "spirit/breath"
+        },
+        {
+          "original": "πνεύματος",
+          "translit": "pneumatos",
+          "gloss": "spirit/breath"
+        },
+        {
+          "original": "πνεῦμα",
+          "translit": "pneuma",
+          "gloss": "spirit/breath"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:5",
+        "1 Thessalonians 1:6",
+        "1 Thessalonians 4:8",
+        "1 Thessalonians 5:19",
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 350,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 1:35",
+          "found": true
+        },
+        {
+          "ref": "John 20:22",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4151G, G4151H"
+      }
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0025",
+          "original": "ἀγαπάω",
+          "transliteration": "agapaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to love",
+          "meaning": "ἀγαπάω, -ῶ,\n[in LXX chiefly for אהב ;]\nto love, to feel and exhibit esteem and goodwill to a person, to prize and delight in a thing.\n1. Of human affection, to men: τ. πλησίον, Mat.5:43; τ. ἐχθρούς, ib. 44; to Christ, Jhn.8:42; to God, Mat.22:37; with accusative of thing(s), Luk.11:43, Jhn.12:43, Eph.5:25, II Tim 4:8, 10, Heb.1:9, 1Pe.2:17, 3:10, 2Pe.2:15, 1Jn.2:15, Rev.12:11.\n2. Of divine love;\n(a) God's love: to men, Rom.8:37; to Christ, Jhn.3:35;\n(b) Christ's love: to men, Mrk.10:21; to God, Jhn.14:31; with cogn. accusative, Jhn.17:26, Eph.2:4. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἠγαπημένοι",
+          "translit": "ēgapēmenoi",
+          "gloss": "to love"
+        },
+        {
+          "original": "ἀγαπᾶν",
+          "translit": "agapan",
+          "gloss": "to love"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:4",
+        "1 Thessalonians 4:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 110,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:44",
+          "found": true
+        },
+        {
+          "ref": "John 13:34",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:19",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0025"
+      }
+    },
+    {
+      "id": "ergazomai",
+      "strongs": [
+        "G2038"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2038",
+          "original": "ἐργάζομαι",
+          "transliteration": "ergazomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to work",
+          "meaning": "ἐργάζομαι\n(ἔργον), [in LXX for עָבַד, פָּעַל, עָשָׂה, etc. ;]\n1. intrans.,\n(a) to work, labour: Mat.21:28, Luk.13:14, Jhn.5:17 9:4 b, Act.18:3, 1Co.9:6, 2Th.3:10-12; τ. χερσίν, 1Co.4:12, 1Th.4:11; νυκτὸς κ. ἡαέρας, 1Th.2:9, 2Th.3:8; of working for pay, Mat.21:28; for reward, Rom.4:4-5;\n(b) to work at a trade or business, to trade: before Iv (Dem.), Mat.25:16.\n2. Trans., …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐργαζόμενοι",
+          "translit": "ergazomenoi",
+          "gloss": "to work"
+        },
+        {
+          "original": "ἐργάζεσθαι",
+          "translit": "ergazesthai",
+          "gloss": "to work"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:9",
+        "1 Thessalonians 4:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 39,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:28",
+          "found": true
+        },
+        {
+          "ref": "John 6:28",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 4:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2038"
+      }
+    },
+    {
+      "id": "chreia",
+      "strongs": [
+        "G5532"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5532",
+          "original": "χρεία",
+          "transliteration": "chreia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "need",
+          "meaning": "χρεία, -ας, ἡ\n[in LXX: 2Ch.2:16 (15) (צֹרֶךְ), Est.7:20 (חַשְׁחוּת) frequently in Sir.1:1-30 -2 Mac ;]\n1. need, necessity: Act.28:10, Tit.3:14; πρὸς οἰκοδομὴν τῆς χ. (RV, txt., for edifying as the need may be; but see Field, Notes, 192), Eph.4:29; ἕστι χ., Luk.10:42, Heb.7:11; χ. ἔχειν, with genitive, Mat.6:8 21:3, Mrk.11:3, Luk.9:11 15:7 19:31, 34 22:71, Jhn.13:29, 1Co.12:21 12:24, 1Th.4:12, Heb.10:36, Rev.21:23 22:5; before τοῦ, with inf. (Bl., § 71, 3), Heb.5:12; absol. (sc. genitive), Act.2:45 4:35; with genitive of person(s), Mat.9:12 26:65, Mrk.2:17 14:63, Luk.5:31; with inf. (Bl., § 69, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χρείαν",
+          "translit": "chreian",
+          "gloss": "need"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:8",
+        "1 Thessalonians 4:9",
+        "1 Thessalonians 4:12",
+        "1 Thessalonians 5:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 47,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:8",
+          "found": true
+        },
+        {
+          "ref": "Acts 4:35",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 4:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5532"
+      }
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2837",
+          "original": "κοιμάω",
+          "transliteration": "koimaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to sleep",
+          "meaning": "κοιμάω, -ῶ\n[in LXX chiefly for שָׁכַב ;]\nto lull to sleep, put to sleep. Mid and pass., to fall asleep (M, Pr., 162; M, Th., 1, 4, 13): Mat.28:13, Luk.22:45, Jhn.11:12, Act.12:6. Metaph, of death: Mat.27:52, Jhn.11:11 Act.7:60 13:36, 1Co.7:39 11:30 15:6 15:18 15:20 15:51, 1Th.4:13-15, 2Pe.3:4 (cf. Isa.14:8 43:17, 2Ma.12:45).†\nSYN.: καθεύδω (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κοιμωμένων",
+          "translit": "koimōmenōn",
+          "gloss": "to sleep"
+        },
+        {
+          "original": "κοιμηθέντας",
+          "translit": "koimēthentas",
+          "gloss": "to sleep"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:13",
+        "1 Thessalonians 4:14",
+        "1 Thessalonians 4:15"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 18,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:52",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:6",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2837"
+      }
+    },
+    {
+      "id": "anistemi",
+      "strongs": [
+        "G0450"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0450",
+          "original": "ἀνίστημι",
+          "transliteration": "anistēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to arise",
+          "meaning": "ἀνίστημι (ἀνά, ἵστημι),\n[in LXX chiefly for קוּם ;]\n1. causal, in fut. and 1 aor. act., with accusative, to raise up: Act.9:41; from death, Jhn.6:39, Act.2:32; to raise up, cause to be born or appear: Mat.22:24, Act.3:22, 26.\n2. Intrans., in mid. and 2 aor act.;\n(a) to rise: from lying, Mrk.1:35; from sitting, Luk.4:16; to leave a place, Mat.9:9; pleonastically, as Heb. קוּם, before verbs of going, Mrk.10:1, al. (see Dalman, Words, 23; M, Pr., 14); of the dead, Mat.17:23, Mrk.8:31; before ἐκ νεκρῶν, Mat.17:9, Mrk.9:9; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀνέστη",
+          "translit": "anestē",
+          "gloss": "to arise"
+        },
+        {
+          "original": "ἀναστήσονται",
+          "translit": "anastēsontai",
+          "gloss": "to arise"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:14",
+        "1 Thessalonians 4:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 109,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 12:41",
+          "found": true
+        },
+        {
+          "ref": "Mark 5:42",
+          "found": true
+        },
+        {
+          "ref": "Luke 24:7",
+          "found": true
+        },
+        {
+          "ref": "John 11:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0450"
+      }
+    },
+    {
+      "id": "salpigx",
+      "strongs": [
+        "G4536"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4536",
+          "original": "σάλπιγξ",
+          "transliteration": "salpigx",
+          "partOfSpeech": "G:N-F",
+          "gloss": "trumpet",
+          "meaning": "σάλπιγξ, -ιγγος, ἡ\n[in LXX chiefly for שׁוֹפָר, חֲצֹצְרָה ;]\na trumpet, used in war and in religious ceremonies: 1Co.14:8, Heb.12:19, Rev.1:10 4:1 8:2, 6 8:11 9:14 By meton., a trumpet blast: μετὰ σ. μεγάλης, Mat.24:31; ἐν σ. θεοῦ, 1Th.4:16; ἐν τ. ἐσχάτῃ σ., 1Co.15:52.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σάλπιγγι",
+          "translit": "salpingi",
+          "gloss": "trumpet"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:31",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:16",
+          "found": true
+        },
+        {
+          "ref": "Revelation 8:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4536"
+      }
+    },
+    {
+      "id": "nekros",
+      "strongs": [
+        "G3498"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3498",
+          "original": "νεκρός",
+          "transliteration": "nekros",
+          "partOfSpeech": "G:A",
+          "gloss": "dead",
+          "meaning": "νεκρός, -α, -ον,\n[in LXX chiefly for מֵת ;]\ndead,\nI. as adj.,\n1. prop.: Act.5:10 20:9, Jas.2:26, Rev.1:18, al.; ὡσεὶ ν., Mat.28:4, Mrk.9:26, Rev.1:17; of that which is subject to death, Rom.8:10.\n2. Metaphorical,\n(a) of persons: Luk.15:24, 32; of those immersed in worldly cares, Mat.8:22, Luk.9:60; of spiritual death, Jhn.5:25, Rom.6:13, Eph.5:14, Rev.3:1; τ. παραπτώμασιν, Eph.2:1, 5 Col.2:13; of the opposite condition, ν. τῇ ἁμαρτίᾳ, Rom.6:11;\n(b) of things regarded as inoperative, devoid of power: ἁμαρτία, Rom.7:8; πίστις, Jas.2:17, 26; ἔργα, Heb.6:1 9:14. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νεκρῶν",
+          "translit": "nekrōn",
+          "gloss": "dead "
+        },
+        {
+          "original": "νεκροὶ",
+          "translit": "nekroi",
+          "gloss": "dead "
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:10",
+        "1 Thessalonians 4:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 124,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 6:4",
+          "found": true
+        },
+        {
+          "ref": "Luke 20:38",
+          "found": true
+        },
+        {
+          "ref": "Colossians 1:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3498"
+      }
+    },
+    {
+      "id": "harpazo",
+      "strongs": [
+        "G0726"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0726",
+          "original": "ἁρπάζω",
+          "transliteration": "harpazō",
+          "partOfSpeech": "G:V",
+          "gloss": "to seize",
+          "meaning": "ἁρπάζω\n[in LXX chiefly for גָּזַל, טָרַף ;]\nto seize, catch up, snatch away, carry off by force: with accusative of thing(s), Mat.12:29 13:19, Jhn.10:12, 28-29; τ. βασιλείαν τ. θεοῦ, Mat.11:12; with accusative of person(s), Jhn.6:15, Act.8:39 23:10, Ju 23; pass., before ἕως, 2Co.12:2; εἰς, 2Co.12:4, 1Th.4:17; πρός, Rev.12:5 (cf. δι-, συν-αρπάζω, and see MM, see word).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἁρπαγησόμεθα",
+          "translit": "harpagēsometha",
+          "gloss": "to seize "
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 4:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 14,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 11:12",
+          "found": true
+        },
+        {
+          "ref": "Acts 8:39",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0726"
+      }
+    },
+    {
+      "id": "kairos",
+      "strongs": [
+        "G2540"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2540",
+          "original": "καιρός",
+          "transliteration": "kairos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "time/right time",
+          "meaning": "καιρός, -οῦ, ὁ\n[in LXX chiefly for עֵת, also for מוֹעֵד, etc. ;]\n1. due measure, fitness, proportion (Eur., Xen., al.).\n2. Of Time (cl. also) in the sense of a fixed and definite period, time, season (Kennedy, Sources, 153): Mat.11:25, Mrk.1:15, Luk.21:8, Rom.13:11, Eph.6:18, Heb.11:15, 1Pe.1:5 1:11 Rev.1:3, al.; with genitive, πειρασμοῦ Luk.8:13; τ. καρπῶν, Mat.21:34; σύκων, Mrk.11:13; pl., Mat.21:41; χρόνοι ἢ (καὶ) κ., Act.1:7, 1Th.5:1; ἐθνῶν, Luk.21:24; of opportune or seasonable time, Act.24:25, Gal.6:10, Eph.5:16, Col.4:5; with inf., Heb.11:15; ὁ κ. οὗτος, Mrk.10:30, Luk.18:30; ὁ νῦν κ. ( …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "καιρὸν",
+          "translit": "kairon",
+          "gloss": "time/right time"
+        },
+        {
+          "original": "καιρῶν",
+          "translit": "kairōn",
+          "gloss": "time/right time"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 2:17",
+        "1 Thessalonians 5:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 80,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 1:15",
+          "found": true
+        },
+        {
+          "ref": "Romans 13:11",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 5:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2540"
+      }
+    },
+    {
+      "id": "akribos",
+      "strongs": [
+        "G0199"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0199",
+          "original": "ἀκριβῶς",
+          "transliteration": "akribōs",
+          "partOfSpeech": "G:ADV",
+          "gloss": "exactly",
+          "meaning": "ἀκριβῶς\nadv. (ἀκριβής), [in LXX: Deu.19:18 (יָטַב), Da TH 7:19 (יְצֵב), Eze.39:14, Wis.19:18, Sir.18:29 ;]\nwith exactness, carefully: Mat.2:8, Luk.1:3, Act.18:25, Eph.5:15, 1Th.5:2 (M, Th., in l). Compar., ἀκριβέστερον (Milligan, NTD, 111; MM, VGT, see word), Act.18:26 23:15, 20 24:22.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀκριβῶς",
+          "translit": "akribōs",
+          "gloss": "exactly"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:8",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:3",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 5:15",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0199"
+      }
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1515",
+          "original": "εἰρήνη",
+          "transliteration": "eirēnē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "peace",
+          "meaning": "εἰρήνη, -ης, ἡ,\n[in LXX chiefly for שָׁלוֹם ;]\npeace;\n1. of public peace, freedom from war: Luk.14:32, Act.12:20 24:2; of the church, Ac 9:31.\n2. Of peace between persons, concord, agreement : Mat.10:34, Luk.12:51, Rom.14:17, 1Co.7:15, Gal.5:22, Jas.3:18; ζητεῖν εἰ., 1Pe.3:11; διώκειν, 2Ti.2:22; ib. before μετὰ πάντων, Heb.12:14; by meton., of him who brings peace, Eph.2:14. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εἰρήνη",
+          "translit": "eirēnē",
+          "gloss": "peace"
+        },
+        {
+          "original": "εἰρήνης",
+          "translit": "eirēnēs",
+          "gloss": "peace"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:1",
+        "1 Thessalonians 5:3",
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 85,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 24:36",
+          "found": true
+        },
+        {
+          "ref": "John 14:27",
+          "found": true
+        },
+        {
+          "ref": "Philippians 4:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1515"
+      }
+    },
+    {
+      "id": "skotos",
+      "strongs": [
+        "G4655"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4655",
+          "original": "σκότος",
+          "transliteration": "skotos",
+          "partOfSpeech": "G:N-M/N",
+          "gloss": "darkness",
+          "meaning": "σκότος, -ου, ὁ the more usual cl. form (cf.σ., τό),\ndarkness: Heb.12:18, Rec.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σκότει",
+          "translit": "skotei",
+          "gloss": "darkness"
+        },
+        {
+          "original": "σκότους",
+          "translit": "skotous",
+          "gloss": "darkness"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:4",
+        "1 Thessalonians 5:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 30,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:16",
+          "found": true
+        },
+        {
+          "ref": "Acts 26:18",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 2:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4655"
+      }
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5457",
+          "original": "φῶς",
+          "transliteration": "phōs",
+          "partOfSpeech": "G:N-N",
+          "gloss": "light",
+          "meaning": "φῶς (Att.. contr. from φάος; φάω), genitive, φωτός, τό,\n[in LXX chiefly for אוֹר ;]\nlight (opposite to τὸ σκότος, ἡ σκοτία): Mat.17:2, 5, Jhn.11:9-10, 2Co.4:6; ἡλίου, Rev.22:5; of a lamp, Luk.8:16 11:33, Jhn.5:35, Rev.18:23; of a supernatural heavenly light, Act.9:3 12:7 22:6, 9 22:11 26:13; hence, ἄγγελος φωτός, 2Co.11:14; ὁ κλήρος τ. ἁγίων ἐν τ. φ., Col.1:12; of the divine glory, Rev.21:24; by meton., of that which gives light: of fire, Mrk.14:54, Luk.22:56 (cl.; 1Ma.12:29; cf. DCG, i, 595; pl., of a lamp or torch, Act.16:29; of heavenly bodies, Jas.1:17.\nMetaphorical, …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φωτός",
+          "translit": "phōtos",
+          "gloss": "light"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 61,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:14",
+          "found": true
+        },
+        {
+          "ref": "John 8:12",
+          "found": true
+        },
+        {
+          "ref": "1 John 1:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5457"
+      }
+    },
+    {
+      "id": "huios",
+      "strongs": [
+        "G5207"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5207",
+          "original": "υἱός",
+          "transliteration": "uhios",
+          "partOfSpeech": "G:N-M",
+          "gloss": "son",
+          "meaning": "υἱός, -οῦ, ὁ, [in LXX very frequently and nearly always for בֵּן, Gen.4:17, al.; for בַּר, Dan LXX TH 7:13, al.; etc. ;],\na son;\n1. in the ordinary sense: Mat.10:37, Mrk.9:17, Luk.1:13, al. mult.; omitted with the art. of origin (WM, §30, 3; Bl., §35, 2), τὸν τοῦ Ἰεσσαί, Act.13:22 (LXX); also with genitive anarth. (cl.), Σώπατρος Πύρρου Βεροιαῖος, Act.20:4; with adj., προτότοκος, Luk.2:7; μονογένης, Luk.7:12; opposite to νόθος, Heb.12:8; in a wider sense, of posterity: ὁ υἱ. Δαυΐδ, of the Messiah (cf. Dalman, Words, 316ff.; DCG, ii, 653f.), Mat.22:42, 45 Mrk.12:35, 37 Luk.20:41, 44 al.; υἱοὶ Ἰ …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "υἱὸν",
+          "translit": "huion",
+          "gloss": "son"
+        },
+        {
+          "original": "υἱοὶ",
+          "translit": "huioi",
+          "gloss": "son"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:10",
+        "1 Thessalonians 5:5"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 348,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 8:14",
+          "found": true
+        },
+        {
+          "ref": "Matthew 3:17",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 1:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5207"
+      }
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1127",
+          "original": "γρηγορέω",
+          "transliteration": "grēgoreō",
+          "partOfSpeech": "G:V",
+          "gloss": "to keep watch",
+          "meaning": "γρηγορέω, -ῶ, = Attic ἐργήγορα, pf. of ἐγείρω, which see,\n[in LXX (later bks. only) chiefly for שׁקד ;]\n1. to be awake; metaphorically, of being alive, 1Th.5:10.\n2. to watch: Mat.24:43 26:38, 40 Mrk.13:34 14:34, 37 Luk.12:37, 39; metaphorically, Mat.24:42 25:13 26:41, Mrk.13:35, 37 14:38, Act.20:31, 1Co.16:13, 1Th.5:6, 1Pe.5:8, Rev.3:2, 3 16:15; before ἐν, Col.4:2. (Cf. δια-γρηγορέω).†\nSYN.: see: ἀγρθπνέω. (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "γρηγορῶμεν",
+          "translit": "grēgorōmen",
+          "gloss": "to keep watch"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:6",
+        "1 Thessalonians 5:10"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 23,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:42",
+          "found": true
+        },
+        {
+          "ref": "Matthew 26:41",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:6",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 5:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1127"
+      }
+    },
+    {
+      "id": "thorax",
+      "strongs": [
+        "G2382"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2382",
+          "original": "θώραξ",
+          "transliteration": "thōrax",
+          "partOfSpeech": "G:N-M",
+          "gloss": "breastplate",
+          "meaning": "θώραξ, -ακσς, ὁ\n[in LXX chiefly for שִׁרְיוֹן and cogn. forms ;]\na breastplate: Rev.9:9, 17; θ. τ. δικαιοσύνης, Eph.6:14 (cf. Isa.59:17, Wis.5:18-19); θ. πίστεως, 1Th.5:8.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "θώρακα",
+          "translit": "thōraka",
+          "gloss": "breastplate"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:8",
+          "found": true
+        },
+        {
+          "ref": "Revelation 9:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2382"
+      }
+    },
+    {
+      "id": "perikephalaia",
+      "strongs": [
+        "G4030"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4030",
+          "original": "περικεφαλαία",
+          "transliteration": "perikephalaia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "helmet",
+          "meaning": "περι-κεφαλαία, -ας, ἡ\n[in LXX for כּוֹבַע, קוֹבַע ;]\na helmet: figuratively, 1Th.5:8; with genitive explic., π. τ. σωτηρίου, Eph.6:17 (cf. Isa.59:17).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "περικεφαλαίαν",
+          "translit": "perikephalaian",
+          "gloss": "helmet"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Thessalonians 5:8",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4030"
+      }
+    },
+    {
+      "id": "soteria",
+      "strongs": [
+        "G4991"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4991",
+          "original": "σωτηρία",
+          "transliteration": "sōtēria",
+          "partOfSpeech": "G:N-F",
+          "gloss": "salvation",
+          "meaning": "σωτηρία, -ας, ἡ\n(σωτήρ), [in LXX for יֶשַׁע, יְשׁוּעָה, תְּשׁוּעָה, פְּלֵיטָה, etc. ;]\ndeliverance, preservation, salvation, safety (Lat. salus): Act.7:25 27:34, Heb.11:7; ἐξ ἐχθρῶν, Luk.1:71. In NT esp. of Messianic and spiritual salvation (see: σώζω): Luk.19:9, Jhn.4:22, Act.4:12 13:47, Rom.11:11, 2Th.2:13, 2Ti.3:15, Heb.2:3 6:9, 2Pe.3:15, Ju 3; opposite to ἀπηώλεια, Php.1:28; αἰώνιος-., Heb.5:9; ὁ λόγος (τὸ εὐαγγέλιον) τῆς σ., Act.13:26, Eph.1:13; ὁδὸς σωτηρίας, Act.16:17; κέρας σωτηρίας, Luk.1:69; ἡμέρα σωτηρίας, 2Co.6:2 (LXX); κατεργάζεσθαι τὴν ἑαυτοῦ σ., Php.2:12; κληρονομεῖν σ., Heb.1:1 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σωτηρίας",
+          "translit": "sōtērias",
+          "gloss": "salvation"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:8",
+        "1 Thessalonians 5:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 49,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 1:69",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:16",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 1:13",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 2:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4991"
+      }
+    },
+    {
+      "id": "oikodomeo",
+      "strongs": [
+        "G3618"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3618",
+          "original": "οἰκοδομέω",
+          "transliteration": "oikodomeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to build",
+          "meaning": "οἰκοδομέω, -ῶ\n(οἰκοδόμος), [in LXX chiefly for בָּנָה ;]\nto build a house, to build: absol., Luk.11:48 14:30 17:28; οἱ οἰκοδομοῦντες, the builders (as Psa.118:22, בָּנָה), Mat.21:42, Mrk.12:10, Luk.20:17, 1Pe.2:7\" (LXX) ; ἐ π ̓ ἀλλότριον θεμέλιον οἰ., proverb., Rom.15:20; with accusative of thing(s), Gal.2:18; πύργον), Mat.21:33, Mrk.12:1, Luk.14:28; ἀποθήκας, Luk.12:18; ναόν, Mrk.14:58; pass., Jhn.2:20; οἰκία, Luk.6:48; with accusative of thing(s) before dative of person(s) (cf. Gen.8:20, Eze.16:24), Luk.7:5, Act.7:47, 49; accusative before ἐπί, Mat.7:24, 26 Luk.6:49; πόλιν ἐπ ̓ ὄρους, Luk.4: …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "οἰκοδομεῖτε",
+          "translit": "oikodomeite",
+          "gloss": "to build"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 38,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:18",
+          "found": true
+        },
+        {
+          "ref": "Romans 15:20",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 8:1",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3618"
+      }
+    },
+    {
+      "id": "kopiao",
+      "strongs": [
+        "G2872"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2872",
+          "original": "κοπιάω",
+          "transliteration": "kopiaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to labor",
+          "meaning": "κοπιάω, -ῶ\n(κόπος), [in LXX chiefly for יָגַע ;]\n1. (as in cl.) to grow weary: Mat.11:28, Jhn.4:6, Rev.2:3 (cf. Isa.40:31).\n2. Hence, in LXX and NT, to work with effort, to toil: absol., Mat.6:23, Luk.5:5 12:27, Jhn.4:38, Act.20:35, 1Co.4:12, Eph.4:28, 2Ti.2:5; with accusative of thing(s), Jhn.4:38; frequently in Paul. Epp., of ministerial labour: 1Co.15:10 16:16; before ἐν, Rom.16:12, 1Th.5:12 (see M, Th., in l), 1Ti.5:17; εἰς, Rom.16:6, Gal.4:11, Php.2:16, Col.1:29, 1Ti.4:10.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κοπιῶντας",
+          "translit": "kopiōntas",
+          "gloss": "to labor"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 21,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 11:28",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:10",
+          "found": true
+        },
+        {
+          "ref": "Philippians 2:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2872"
+      }
+    },
+    {
+      "id": "noutheteo",
+      "strongs": [
+        "G3560"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3560",
+          "original": "νουθετέω",
+          "transliteration": "noutheteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to admonish",
+          "meaning": "νουθετέω, -ῶ\n(νοῦς, τίθημι, hence, put in mind), [in LXX: 1Ki.3:13 (כָּהָה pi.), Job.8:1-22 (יָסַר pi., בִּין), Wis.11:10 12:2, 26 * ;]\nto admonish, exhort: with accusative of person(s), Act.20:31, Rom.15:14, 1Co.4:14, Col.1:28 3:16, 1Th.5:12 5:14, 2Th.3:15.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νουθετοῦντας",
+          "translit": "nouthetountas",
+          "gloss": "to admonish"
+        },
+        {
+          "original": "νουθετεῖτε",
+          "translit": "noutheteite",
+          "gloss": "to admonish"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:12",
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 20:31",
+          "found": true
+        },
+        {
+          "ref": "Romans 15:14",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 4:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3560"
+      }
+    },
+    {
+      "id": "asthenes",
+      "strongs": [
+        "G0772G"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0772G",
+          "original": "ἀσθενής",
+          "transliteration": "asthenēs",
+          "partOfSpeech": "G:A",
+          "gloss": "weak",
+          "meaning": "ἀσθενής -ές\n(ἀ- neg., σθένος, strength), [in LXX for עָנִי, etc. ;]\nwithout strength, weak, feeble: 1Co.1:27 4:10 12:22, 2Co.10:10, Gal.4:9, 1Th.5:14, Heb.7:18, 1Pe.3:7. Rhetorically, τό ἀ. τ. θεοῦ, God's action of apparent weakness: 1Co.1:25; of bodily debility, sick, sickly: Mat.25:39 (Rec.) Mat.25:43-44, Luk.9:2 (Rec.) Luk.10:9, Act.4:9 5:15-16 In moral and spiritual sense (MM, see word; Cremer, 526), Mat.26:41, Mrk.14:38, Rom.5:6, 1Co.8:7 8:9-10 9:22 11:30.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀσθενῶν",
+          "translit": "asthenōn",
+          "gloss": "weak"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 18,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 26:41",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:27",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 7:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0772G"
+      }
+    },
+    {
+      "id": "makrothymeo",
+      "strongs": [
+        "G3114"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3114",
+          "original": "μακροθυμέω",
+          "transliteration": "makrothumeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to have patience",
+          "meaning": "μακροθυμέω, -ῶ\n(μακρό-θυμος, long-tempered; see: -ία), [in LXX: Ecc.8:12 א2, Pro.19:11 (אָרַךְ, אַף אָרַךְ), Job.7:16, Sir.2:4, al. ;]\n1. actively = καρτερέω, to persevere (Plut., 2, 593 F).\n2. Passively, to be patient, long-suffering: absol., 1Co.13:4, Heb.6:15, Jas.5:8; before ἕως, with genitive, Jas.5:7; ἐπί, with dative, ib. (Sir.2:4); πρός, with accusative, 1Th.5:14; ἐπί, with dative, Mat.18:26, 29, Luk.18:7; εἰς, 2Pe.3:9.†\nSYN.: ὑπομένω, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μακροθυμεῖτε",
+          "translit": "makrothumeite",
+          "gloss": "to have patience"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 9,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 18:26",
+          "found": true
+        },
+        {
+          "ref": "2 Peter 3:9",
+          "found": true
+        },
+        {
+          "ref": "James 5:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3114"
+      }
+    },
+    {
+      "id": "proseuche",
+      "strongs": [
+        "G4335"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4335",
+          "original": "προσευχή",
+          "transliteration": "proseuchē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "prayer",
+          "meaning": "προσ-ευχή, -ῆς, ἡ\n(προσεύχομαι), [in LXX chiefly for תְּפִלָּה ;]\n1. prayer to God: Mat.17:21 (WH, R, txt., om.) Mat.21:22, Mrk.9:29, Luk.22:45, Act.3:1 6:4 10:31, Rom.12:12, 1Co.7:5, Col.4:2; pl., Act.2:42 10:4, Rom.1:10, Eph.1:16 Col.4:12, 1Th.1:2, Phm 4 22, 1Pe.3:7 4:7, Rev.5:8 8:3-4; οἶκος προσευχῆς, Mat.21:13, Mrk.11:17, Luk.19:46\" (LXX) ; π. καὶ δέησις, Eph.6:18, Php.4:6; pl., 1Ti.2:1 5:5; ἡ π. τοῦ θεοῦ, prayer to God (ef. Wis.16:28), Luk.6:12; πρὸς τ. θεόν, before ὑπέρ, Act.12:5; pl., Rom.15:30; Hebraistically (B1., § 38, 3), προσευχῇ προσεύχεσθαι, Jas.5:17 (EV, prayed fervently). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "προσευχῶν",
+          "translit": "proseuchōn",
+          "gloss": "prayer"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 1:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 36,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:13",
+          "found": true
+        },
+        {
+          "ref": "Luke 6:12",
+          "found": true
+        },
+        {
+          "ref": "Romans 12:12",
+          "found": true
+        },
+        {
+          "ref": "Philippians 4:6",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4335"
+      }
+    },
+    {
+      "id": "exoutheneo",
+      "strongs": [
+        "G1848"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1848",
+          "original": "ἐξουθενέω",
+          "transliteration": "exoutheneō",
+          "partOfSpeech": "G:V",
+          "gloss": "to reject",
+          "meaning": "ἐξ-ουθενέω, -ῶ\n(οὐθείς, which see), [in LXX (see: ἐξουθενέω): 1Ki.2:30, al., and as seel. for -δενέω, -όω, -θενόω* ;]\nto set at nought, despise utterly, treat with contempt: with accusative of person(s), Luk.18:9 23:11, Rom.14:3, 10, 1Co.16:11; with accusative of thing(s), Gal.4:14, 1Th.5:20; pass., of persons: Mrk.9:12 (T, -όω), 1Co.6:4; of things λίθος, Act.4:11 (LXX ἀπεδοκίμασαν); λόγος, 2Co.10:10; τὰ ἐξουθενημένα, 1Co.1:28.†\nSYN.: ἀθετέω, καταφρονέω (see DCG, i, 453b) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐξουθενεῖτε",
+          "translit": "exoutheneite",
+          "gloss": "to reject"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:20"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 18:9",
+          "found": true
+        },
+        {
+          "ref": "Romans 14:3",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1848"
+      }
+    },
+    {
+      "id": "prophiteia",
+      "strongs": [
+        "G4394"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4394",
+          "original": "προφητεία",
+          "transliteration": "prophēteia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "prophecy",
+          "meaning": "προφητεία, -ας, ἡ\n(προψητεύω) [in LXX for נְבוּאָה, חָזוֹן ;]\nthe gift (and its exercise) of interpreting the Divine will and purpose, prophecy, prophesying: of OT prophecy, Mat.13:14, 2Pe.1:20-21; of NT prophecy, Rom.12:6, 1Co.12:10 13:2 14:6 14:22, 1Ti.4:14, Rev.11:6 22:19; pl., 1Co.13:8, 1Th.5:20, 1Ti.1:18; οἱ λόγοι τῆς π., Rev.1:3 22:7, 10 22:18; τ. πνεῦμα τῆς π., Rev.19:10 (Luc., FlJ, LXX, π.; see Deiss., BS, 235 f.; MM, xxii).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "προφητείας",
+          "translit": "prophēteias",
+          "gloss": "prophecy"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:20"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 19,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 12:6",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:20",
+          "found": true
+        },
+        {
+          "ref": "Revelation 1:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4394"
+      }
+    },
+    {
+      "id": "eidos",
+      "strongs": [
+        "G1491"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1491",
+          "original": "εἶδος",
+          "transliteration": "eidos",
+          "partOfSpeech": "G:N-N",
+          "gloss": "appearance",
+          "meaning": "εἶδος, -ους, τό,\n[in LXX for מַרְאֶה,, etc. ;]\n1. that which is seen, appearance, external form: Luk.3:22 9:29, Jhn.5:37, 2Co.5:7 (ICC in l.).\n2. form, sort, kind: 1Th.5:22.\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εἴδους",
+          "translit": "eidous",
+          "gloss": "appearance"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:22"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 3:22",
+          "found": true
+        },
+        {
+          "ref": "Luke 9:29",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1491"
+      }
+    },
+    {
+      "id": "poneros",
+      "strongs": [
+        "G4190"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4190",
+          "original": "πονηρός",
+          "transliteration": "ponēros",
+          "partOfSpeech": "G:A",
+          "gloss": "evil/bad",
+          "meaning": "πονηρός, -ά, -όν\n(πονέω, to toil), [in LXX chiefly for רַע ;]\n1.\n(a) of persons, oppressed by toils (Hes.);\n(b) of things, toilsome, painful (καιρός, Sir.51:12): Eph.5:16 6:13 Rev.16:2.\n2. bad, worthless;\n(a) in physical sense: καρπός, Mat.7:17-18;\n(b) in ethical sense, bad, evil, wicked; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πονηροῦ",
+          "translit": "ponērou",
+          "gloss": "evil/bad"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:22"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 73,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:45",
+          "found": true
+        },
+        {
+          "ref": "Matthew 6:13",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 6:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4190"
+      }
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0037",
+          "original": "ἁγιάζω",
+          "transliteration": "hagiazō",
+          "partOfSpeech": "G:V",
+          "gloss": "to sanctify",
+          "meaning": "ἁγιάζω, Hellenistic form of ἁγίζω\n(ἅγιος),\nto make holy, consecrate, sanctify; [in LXX chiefly for קדשׁ pi., hi. ;]\n1. to dedicate, separate, set apart for God; of things: Mat.23:17,19, 2Ti.2:21; of persons: Christ, Jhn.10:36, 17:19.\n2. to purify, make conformable in character to such dedication: forensically, to free from guilt, 1Co.6:11, Eph.5:26, Heb.2:11, 10:10, 14, 29, 13:12; internally, by actual sanctification of life, Jhn.17:17, 19, Act.20:32, 26:18, Rom.15:16, 1Co.1:2, 7:14, 1Th.5:23, Rev.22:11; of a nonbeliever influenced by marriage with a Christian, 1Co.7:14. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἁγιάσαι",
+          "translit": "hagiasai",
+          "gloss": "to sanctify"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 25,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:9",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 2:11",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 3:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0037"
+      }
+    },
+    {
+      "id": "soma",
+      "strongs": [
+        "G4983"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4983",
+          "original": "σῶμα",
+          "transliteration": "sōma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "body",
+          "meaning": "σῶμα, -τος, τό,\n[in LXX for גְּוִיָּה ,בָּשָׂר, etc., and for Aram. נְבֵלָה ;]\na body.\n1. Prop., of the human body,\n(a) as always in Hom. (opposite to δέμας), of the dead body: Mat.27:58, 59 Mrk.15:43, al.; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σῶμα",
+          "translit": "sōma",
+          "gloss": "body"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 120,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 12:1",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:19",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 4:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4983"
+      }
+    },
+    {
+      "id": "tereo",
+      "strongs": [
+        "G5083I"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5083I",
+          "original": "τηρέω",
+          "transliteration": "tēreō",
+          "partOfSpeech": "G:V",
+          "gloss": "to keep: protect",
+          "meaning": "τηρέω, -ῶ\n[in LXX for שָׁמַר, נָצַר, etc. ;]\n1. to watch over, guard, keep, preserve: Mat.27:36, Act.16:23, al.; ἑαυτόν, 2Co.11:9, 1Ti.5:22, Jas.1:27, Ju 21; before εἰς, Jhn.12:7, Act.25:21, 1Pe.1:4, 2Pe.2:4 2:9 3:7, Ju 6; ἐν, Jhn.17:11-12, Ju 21; ἐκ, Jhn.17:15, Rev.3:10; τ. πίστιν, 2Ti.4:7, Rev.14:12; τ. ἑνότητα τ. πνεύματος, Eph.4:3. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τηρηθείη",
+          "translit": "tērētheiē",
+          "gloss": "to keep"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 17,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 19:17",
+          "found": false
+        },
+        {
+          "ref": "Acts 12:5",
+          "found": false
+        },
+        {
+          "ref": "1 John 2:3",
+          "found": false
+        },
+        {
+          "ref": "Revelation 1:3",
+          "found": false
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5083I"
+      }
+    },
+    {
+      "id": "pistos",
+      "strongs": [
+        "G4103"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4103",
+          "original": "πιστός",
+          "transliteration": "pistos",
+          "partOfSpeech": "G:A / G:ADV",
+          "gloss": "faithful",
+          "meaning": "πιστός, -ή, -όν\n(πείθω), [in LXX chiefly for אָמַן ;]\nI. Pass., to be trusted or believed;\n1. of persons, trusty, faithful : Mat.24:45 25:21, 23 Luk.12:42, Act.16:15, 1Co.4:2 4:17 7:25, Eph.1:1 6:21, Col.1:2, 7 4:7, 9, 1Ti.1:12, 2Ti.2:2, Heb.2:17 3:2, 5, 1Pe.5:12, Rev.2:13 19:11; of God, 1Co.1:9 10:13, 2Co.1:18, 1Th.5:24, 2Th.3:3, Heb.10:23 11:11, 2Ti.2:13, 1Jn.1:9, 1Pe.4:19; before ἐν, Luk.16:10-12 19:17, 1Ti.3:11; ἐπί, with accusative, Mat.25:23; ἄχρι θανάτου, Rev.2:10; ὁ μάρτυς ὁ π., Rev.1:5; id. καὶ ἀληθινός, Rev.3:14. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πιστὸς",
+          "translit": "pistos",
+          "gloss": "faithful"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:24"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 63,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 24:45",
+          "found": true
+        },
+        {
+          "ref": "Luke 12:42",
+          "found": true
+        },
+        {
+          "ref": "John 20:27",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4103"
+      }
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0782",
+          "original": "ἀσπάζομαι",
+          "transliteration": "aspazomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to pay respects to",
+          "meaning": "ἀσπάζομαι depon.,\n[in LXX: Eze.18:7, Jdg.18:15 (שָׁלוֹם שָׁאַל), Est.5:2, 1Ma.7:29, al. ;]\nto welcome, greet, salute: with accusative of person(s), Mat.5:47, Mrk.9:15, Act.21:7, al.; id. before ἐν φιλήματι, Rom.16:16, 1Co.16:20, 2Co.13:12, 1Th.5:26, 1Pe.5:14; τ. ἐκκλησίαν (Deiss., BS, 257), Act.18:22; as term. tech. for conveying greetings at the end of a letter (MM, see word), used by an amanuensis (Milligan, NTD, 23), Rom.16:22 (on the aoristic Pres., here and elsewhere, see M, Pr., 119; Bl., § 56, 4); κατήντησαν . . . ἀσπασάμενοι (on this constr., see El., § 58, 4; M, Pr., 132, 238), Act.25 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "Ἀσπάσασθε",
+          "translit": "Aspasasthe",
+          "gloss": "to pay respects to"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:26"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 47,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 5:47",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:40",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 16:19",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 13:24",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0782"
+      }
+    },
+    {
+      "id": "philema",
+      "strongs": [
+        "G5370"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5370",
+          "original": "φίλημα",
+          "transliteration": "philēma",
+          "partOfSpeech": "G:N-N",
+          "gloss": "kiss",
+          "meaning": "φίλημα, -τος, τό\n(φιλέω), [in LXX: Pro.27:6, Sng.1:2 (נְשִׁיקָה) * ;]\na kiss: Luk.7:45 22:48; as a token of Christian brotherhood, φ. ἅγιον, Rom.16:16, 1Co.16:20, 2Co.13:12, 1Th.5:26; φ. ἀγάπης, 1Pe.5:14 (see Lft., Notes, 90; DB, DCA, see word \"Kiss\").†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φιλήματι",
+          "translit": "philēmati",
+          "gloss": "kiss"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:26"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 7:45",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:48",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 5:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5370"
+      }
+    },
+    {
+      "id": "epistole",
+      "strongs": [
+        "G1992"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1992",
+          "original": "ἐπιστολή",
+          "transliteration": "epistolē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "epistle",
+          "meaning": "ἐπι-στολή, -ῆς, ἡ\n(ἐπιατέλλω), [in LXX for אִגֶּרֶת, etc.; frequently in Mac ;]\n1. a message.\n2. a letter, an epistle: Act.9:2, 1Co.5:9, al.; pl., Act.22:5, 1Co.16:3, al.; ἐ. σνστατικαί, 2Co.3:1 (cf. Milligan, NTD, 254 f.). (On the NT ἐπιστολαί, cf. Milligan, Th., 121 ff.; NTD, 85 ff.; Deiss., BS, 3 ff.; St. Paul, 8 ff.)\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐπιστολὴν",
+          "translit": "epistolēn",
+          "gloss": "epistle"
+        }
+      ],
+      "occurrencesInBook": [
+        "1 Thessalonians 5:27"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 23,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 16:22",
+          "found": true
+        },
+        {
+          "ref": "Acts 15:30",
+          "found": true
+        },
+        {
+          "ref": "Colossians 4:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1992"
+      }
     }
   ]
 }

@@ -10,6 +10,22 @@
       "text": "\"Hebrews 11:17\" (listed under peirazo): STEPBible tags the same word there as G3985H, a different sense (\"to test/tempt\"). Fine to keep if the note says so."
     },
     {
+      "area": "words",
+      "text": "\"Matthew 19:17\" (listed under tereo): STEPBible tags the same word there as G5083G, a different sense (\"to keep\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Acts 12:5\" (listed under tereo): STEPBible tags the same word there as G5083H, a different sense (\"to keep\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"1 John 2:3\" (listed under tereo): STEPBible tags the same word there as G5083G, a different sense (\"to keep\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Revelation 1:3\" (listed under tereo): STEPBible tags the same word there as G5083G, a different sense (\"to keep\"). Fine to keep if the note says so."
+    },
+    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -32,10 +48,6 @@
     {
       "area": "places",
       "text": "Corinth isn't named in 1 Thessalonians; it is shown because Acts places Paul there when Timothy returned (Acts 18:1-5)."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }

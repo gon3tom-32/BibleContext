@@ -320,7 +320,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "1 Corinthians 15:51-57",
+          "inDataset": true,
+          "votes": 109
+        },
+        {
+          "ref": "1 Corinthians 6:18-20",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "2 Thessalonians 3:6-12",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Matthew 24:30-31",
+          "inDataset": true,
+          "votes": 40
+        }
+      ]
     },
     {
       "number": 5,
@@ -384,7 +405,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Matthew 24:42-44",
+          "inDataset": true,
+          "votes": 31
+        },
+        {
+          "ref": "Ephesians 6:10-17",
+          "inDataset": true,
+          "votes": 27
+        },
+        {
+          "ref": "Romans 12:9-21",
+          "inDataset": true,
+          "votes": 229
+        },
+        {
+          "ref": "Isaiah 59:17",
+          "inDataset": true,
+          "votes": 10
+        }
+      ]
     }
   ]
 }
