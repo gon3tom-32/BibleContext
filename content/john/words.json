@@ -3236,5 +3236,654 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "speira",
+    "transliteration": "speira",
+    "original": "σπεῖρα",
+    "pronunciation": "SPY-rah",
+    "gloss": "cohort, detachment",
+    "notes": "A Roman military unit, nominally of 600 soldiers, a tenth of a legion. John says Judas came with \"the detachment\" and officers (18:3, 18:12), though the real number may have been smaller. The same word is used of the soldiers who mock Jesus (Mark 15:16) and of Cornelius' cohort (Acts 10:1).",
+    "range": [
+      {
+        "sense": "Cohort",
+        "note": "A Roman military unit."
+      },
+      {
+        "sense": "Detachment",
+        "note": "A group of soldiers."
+      }
+    ],
+    "translations": [
+      "cohort",
+      "detachment",
+      "band of soldiers"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:27",
+        "note": "The whole cohort gathered around him."
+      },
+      {
+        "ref": "Mark 15:16",
+        "note": "The whole battalion."
+      },
+      {
+        "ref": "Acts 10:1",
+        "note": "Cornelius, a centurion of the Italian Cohort."
+      },
+      {
+        "ref": "Acts 21:31",
+        "note": "The tribune of the cohort."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "praitorion",
+    "transliteration": "praitōrion",
+    "original": "πραιτώριον",
+    "pronunciation": "pry-TOR-ee-on",
+    "gloss": "Praetorium, governor's residence",
+    "notes": "A Latin loan word for the headquarters of a Roman commander or governor. In Jerusalem it may have been Herod's palace or the Antonia fortress. The Jewish leaders would not enter it so as to stay clean for the Passover (18:28). It is also used for the palace guard in Philippians 1:13.",
+    "range": [
+      {
+        "sense": "Headquarters",
+        "note": "The governor's residence."
+      },
+      {
+        "sense": "Palace",
+        "note": "A large official building."
+      }
+    ],
+    "translations": [
+      "Praetorium",
+      "governor's headquarters",
+      "palace"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:27",
+        "note": "The soldiers of the governor took Jesus into the Praetorium."
+      },
+      {
+        "ref": "Mark 15:16",
+        "note": "Inside the courtyard, that is, the Praetorium."
+      },
+      {
+        "ref": "Acts 23:35",
+        "note": "To be guarded in Herod's praetorium."
+      },
+      {
+        "ref": "Philippians 1:13",
+        "note": "My imprisonment has become known throughout the whole imperial guard."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileus",
+    "transliteration": "basileus",
+    "original": "βασιλεύς",
+    "pronunciation": "bas-il-YOOS",
+    "gloss": "king",
+    "notes": "A king. John's trial scenes turn on the title: \"Are you the King of the Jews?\" (18:33), \"Behold, your King!\" (19:14), the inscription (19:19-21), and the chief priests' \"We have no king but Caesar\" (19:15).",
+    "range": [
+      {
+        "sense": "King",
+        "note": "A ruler."
+      },
+      {
+        "sense": "Emperor",
+        "note": "The ruler of Rome."
+      }
+    ],
+    "translations": [
+      "king"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 2:2",
+        "note": "Where is he who has been born king of the Jews?"
+      },
+      {
+        "ref": "Luke 1:5",
+        "note": "In the days of Herod, king of Judea."
+      },
+      {
+        "ref": "Acts 17:7",
+        "note": "Saying that there is another king, Jesus."
+      },
+      {
+        "ref": "Revelation 19:16",
+        "note": "King of kings and Lord of lords."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "teleo",
+    "transliteration": "teleō",
+    "original": "τελέω",
+    "pronunciation": "tel-EH-oh",
+    "gloss": "to finish, to complete",
+    "notes": "To bring to an end, to complete, to fulfill. Jesus' last words in John are \"It is finished\" (19:30), using the form tetelestai, which was also written on receipts to mean \"paid in full.\" It is the verb of the same root as telos (\"end, goal\").",
+    "range": [
+      {
+        "sense": "Finish",
+        "note": "Complete."
+      },
+      {
+        "sense": "Fulfill",
+        "note": "Bring to completion."
+      },
+      {
+        "sense": "Pay",
+        "note": "Settle a debt."
+      }
+    ],
+    "translations": [
+      "finish",
+      "complete",
+      "fulfill",
+      "accomplish"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:28",
+        "note": "When Jesus finished these sayings."
+      },
+      {
+        "ref": "Luke 12:50",
+        "note": "How I am constrained until it is accomplished."
+      },
+      {
+        "ref": "Acts 13:29",
+        "note": "When they had carried out all that was written of him."
+      },
+      {
+        "ref": "Revelation 20:3",
+        "note": "Until the thousand years were finished."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekkenteo",
+    "transliteration": "ekkenteō",
+    "original": "ἐκκεντέω",
+    "pronunciation": "ek-ken-TEH-oh",
+    "gloss": "to pierce",
+    "notes": "To pierce through with a spear or sharp object. John says that when the soldier pierced Jesus' side, it fulfilled the words \"They will look on him whom they pierced\" (19:37, quoting Zechariah 12:10). It appears in the New Testament only here and in Revelation 1:7.",
+    "range": [
+      {
+        "sense": "Pierce",
+        "note": "Stab through."
+      }
+    ],
+    "translations": [
+      "pierce"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Revelation 1:7",
+        "note": "Every eye will see him, even those who pierced him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "emphysao",
+    "transliteration": "emphysaō",
+    "original": "ἐμφυσάω",
+    "pronunciation": "em-foo-SAH-oh",
+    "gloss": "to breathe on",
+    "notes": "To breathe into or on. John says Jesus \"breathed on them and said, 'Receive the Holy Spirit'\" (20:22). It is the verb used in the Greek Old Testament for God breathing the breath of life into Adam (Genesis 2:7) and in Ezekiel 37:9. It appears only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Breathe on",
+        "note": "Blow breath onto."
+      },
+      {
+        "sense": "Breathe into",
+        "note": "Impart life."
+      }
+    ],
+    "translations": [
+      "breathe on",
+      "breathe into"
+    ],
+    "elsewhere": [],
+    "uncertain": "How John 20:22 relates to Pentecost in Acts 2, and what it means to forgive or retain sins in 20:23, are debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apostello",
+    "transliteration": "apostellō",
+    "original": "ἀποστέλλω",
+    "pronunciation": "ap-os-TEL-lo",
+    "gloss": "to send, to send out",
+    "notes": "To send someone with a mission. John uses it with pempō for the sending of the Son by the Father, and of the disciples by Jesus: \"As the Father has sent me, even so I send you\" (20:21). It is the root of \"apostle,\" one who is sent.",
+    "range": [
+      {
+        "sense": "Send",
+        "note": "Send someone out."
+      },
+      {
+        "sense": "Commission",
+        "note": "Send with authority."
+      }
+    ],
+    "translations": [
+      "send",
+      "send out"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:5",
+        "note": "These twelve Jesus sent out."
+      },
+      {
+        "ref": "Luke 4:18",
+        "note": "He has sent me to proclaim liberty to the captives."
+      },
+      {
+        "ref": "Acts 26:17",
+        "note": "I am sending you to open their eyes."
+      },
+      {
+        "ref": "1 John 4:10",
+        "note": "God sent his Son to be the propitiation for our sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phileo",
+    "transliteration": "phileō",
+    "original": "φιλέω",
+    "pronunciation": "fil-EH-oh",
+    "gloss": "to love, to have affection for",
+    "notes": "To love as a friend, to have affection for, to like, and also to kiss. In John 21:15-17 Jesus asks Peter \"Do you love (agapaō) me?\" twice, and then \"Do you love (phileō) me?\" while Peter always answers with phileō. Many scholars think the two verbs are interchangeable in John, but some read the shift as meaningful.",
+    "range": [
+      {
+        "sense": "Love as a friend",
+        "note": "Have affection."
+      },
+      {
+        "sense": "Kiss",
+        "note": "Greet with a kiss."
+      }
+    ],
+    "translations": [
+      "love",
+      "have affection for",
+      "kiss"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:37",
+        "note": "Whoever loves father or mother more than me."
+      },
+      {
+        "ref": "Matthew 23:6",
+        "note": "They love the place of honor at feasts."
+      },
+      {
+        "ref": "Luke 20:46",
+        "note": "Beware of the scribes who love to walk in long robes."
+      },
+      {
+        "ref": "Revelation 3:19",
+        "note": "Those whom I love, I reprove and discipline."
+      }
+    ],
+    "uncertain": "Whether the change between agapaō and phileō in John 21 carries a meaning is debated; many scholars read them as synonyms.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "bosko",
+    "transliteration": "boskō",
+    "original": "βόσκω",
+    "pronunciation": "BOS-ko",
+    "gloss": "to feed, to graze",
+    "notes": "To feed or pasture animals, especially sheep and pigs. Jesus tells Peter, \"Feed my lambs\" and \"Feed my sheep\" (21:15, 21:17). In the Gospels it more often refers to herding pigs.",
+    "range": [
+      {
+        "sense": "Feed",
+        "note": "Provide food."
+      },
+      {
+        "sense": "Pasture",
+        "note": "Graze animals."
+      }
+    ],
+    "translations": [
+      "feed",
+      "pasture"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:33",
+        "note": "The herdsmen fled."
+      },
+      {
+        "ref": "Mark 5:14",
+        "note": "The herdsmen fled and told it."
+      },
+      {
+        "ref": "Luke 8:34",
+        "note": "The herdsmen saw what had happened."
+      },
+      {
+        "ref": "Luke 15:15",
+        "note": "He sent him into his fields to feed pigs."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "poimaino",
+    "transliteration": "poimainō",
+    "original": "ποιμαίνω",
+    "pronunciation": "poy-MY-no",
+    "gloss": "to shepherd, to tend",
+    "notes": "To tend a flock, lead and care for it, and so to lead people. Jesus tells Peter, \"Tend my sheep\" (21:16). Paul uses it for church leaders (Acts 20:28), and Revelation speaks of the Lamb as shepherd (7:17).",
+    "range": [
+      {
+        "sense": "Shepherd",
+        "note": "Care for sheep."
+      },
+      {
+        "sense": "Lead",
+        "note": "Guide a people."
+      }
+    ],
+    "translations": [
+      "shepherd",
+      "tend",
+      "care for"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 2:6",
+        "note": "A ruler who will shepherd my people Israel."
+      },
+      {
+        "ref": "Acts 20:28",
+        "note": "Care for the church of God."
+      },
+      {
+        "ref": "1 Peter 5:2",
+        "note": "Shepherd the flock of God that is among you."
+      },
+      {
+        "ref": "Revelation 7:17",
+        "note": "The Lamb will be their shepherd."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anthrakia",
+    "transliteration": "anthrakia",
+    "original": "ἀνθρακιά",
+    "pronunciation": "anth-rak-ee-AH",
+    "gloss": "fire of coals",
+    "notes": "A charcoal fire. John mentions it only twice: in the courtyard where Peter denied Jesus (18:18), and on the beach where Jesus cooks breakfast and restores him (21:9). The echo is deliberate.",
+    "range": [
+      {
+        "sense": "Charcoal fire",
+        "note": "A fire of burning coals."
+      }
+    ],
+    "translations": [
+      "fire of coals",
+      "charcoal fire"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lestes",
+    "transliteration": "lēstēs",
+    "original": "λῃστής",
+    "pronunciation": "lace-TACE",
+    "gloss": "robber, bandit",
+    "notes": "A robber or bandit, sometimes a rebel. John says \"Now Barabbas was a robber\" (18:40).",
+    "range": [
+      {
+        "sense": "Robber",
+        "note": "A bandit."
+      },
+      {
+        "sense": "Revolutionary",
+        "note": "A violent insurgent."
+      }
+    ],
+    "translations": [
+      "robber",
+      "bandit",
+      "revolutionary"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:13",
+        "note": "\"A den of robbers.\""
+      },
+      {
+        "ref": "Luke 10:30",
+        "note": "The man fell among robbers."
+      },
+      {
+        "ref": "2 Corinthians 11:26",
+        "note": "Danger from robbers."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "To crucify. The chief priests shout \"Crucify! Crucify!\" (19:6, 19:15), and John says they crucified him (19:18, 19:23).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:22",
+        "note": "\"Let him be crucified!\""
+      },
+      {
+        "ref": "Luke 23:21",
+        "note": "\"Crucify, crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "This Jesus whom you crucified."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rabbouni",
+    "transliteration": "rhabbouni",
+    "original": "ῥαββουνί",
+    "pronunciation": "rab-boo-NEE",
+    "gloss": "my teacher (Aramaic)",
+    "notes": "\"My teacher,\" an Aramaic address. Mary says \"Rabboni!\" when she recognizes him (20:16).",
+    "range": [
+      {
+        "sense": "Teacher",
+        "note": "A respectful address."
+      },
+      {
+        "sense": "Master",
+        "note": "A personal, honoring title."
+      }
+    ],
+    "translations": [
+      "Rabboni",
+      "my teacher"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 10:51",
+        "note": "Bartimaeus says, \"Rabboni, let me recover my sight.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphiemi",
+    "transliteration": "aphiēmi",
+    "original": "ἀφίημι",
+    "pronunciation": "ah-FEE-ay-mee",
+    "gloss": "to forgive, release, leave",
+    "notes": "To let go, to send away, to forgive. Jesus says, \"If you forgive anyone's sins, they are forgiven them\" (20:23).",
+    "range": [
+      {
+        "sense": "Leave",
+        "note": "Leave something or someone behind."
+      },
+      {
+        "sense": "Release a debt",
+        "note": "Let someone off what they owe."
+      },
+      {
+        "sense": "Forgive",
+        "note": "Release someone from sin or offense."
+      },
+      {
+        "sense": "Permit",
+        "note": "Allow or let."
+      }
+    ],
+    "translations": [
+      "forgive",
+      "release",
+      "leave",
+      "let go",
+      "allow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:12",
+        "note": "Forgive us our debts."
+      },
+      {
+        "ref": "Luke 23:34",
+        "note": "Father, forgive them."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "If we confess our sins, he forgives us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kyrios",
+    "transliteration": "kyrios",
+    "original": "κύριος",
+    "pronunciation": "KOO-ree-os",
+    "gloss": "lord, master",
+    "notes": "Lord, master, or sir. Thomas says, \"My Lord and my God!\" (20:28), and Mary says, \"They have taken away my Lord\" (20:13).",
+    "range": [
+      {
+        "sense": "Sir",
+        "note": "A polite address."
+      },
+      {
+        "sense": "Master",
+        "note": "An owner or ruler."
+      },
+      {
+        "sense": "Lord",
+        "note": "The title for God and for Jesus."
+      }
+    ],
+    "translations": [
+      "Lord",
+      "lord",
+      "master",
+      "sir"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:21",
+        "note": "\"Not everyone who says to me, 'Lord, Lord.'\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "God has made him both Lord and Christ."
+      },
+      {
+        "ref": "Philippians 2:11",
+        "note": "Every tongue will confess that Jesus Christ is Lord."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

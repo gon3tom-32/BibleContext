@@ -5630,6 +5630,1072 @@
         "fetched": "2026-10-19",
         "item": "G0037"
       }
+    },
+    {
+      "id": "speira",
+      "strongs": [
+        "G4686"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4686",
+          "original": "σπεῖρα",
+          "transliteration": "speira",
+          "partOfSpeech": "G:N-F",
+          "gloss": "band",
+          "meaning": "σπείρα, -ης\n(on this form of genitive, see M, Pr., 38, 48; Bl., § 7, 1; Mayser, 12; Deiss., BS, 186), [in LXX: Jdth.14:11, 2Ma.8:23 2Mac 12:20 2Mac 12:22 * ;]\n1. (= Lat. spira) anything wound or rolled up, a coil.\n2. As a military term used (by Polyb. and later writers) of a body of soldiers, a maniple (third part of a cohort) or cohort (see Swete, Mk., 375; Westc., Jo., 251 f.): Mat.27:27, Mrk.15:16, Jhn.18:3, 12, Act.10:1 21:31 27:1.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σπεῖραν",
+          "translit": "speiran",
+          "gloss": "band"
+        },
+        {
+          "original": "σπεῖρα",
+          "translit": "speira",
+          "gloss": "band"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 18:3",
+        "John 18:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:27",
+          "found": true
+        },
+        {
+          "ref": "Mark 15:16",
+          "found": true
+        },
+        {
+          "ref": "Acts 10:1",
+          "found": true
+        },
+        {
+          "ref": "Acts 21:31",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4686"
+      }
+    },
+    {
+      "id": "praitorion",
+      "strongs": [
+        "G4232"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4232",
+          "original": "πραιτώριον",
+          "transliteration": "praitōrion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "praetorium",
+          "meaning": "πραιτώριον, -ου, τό (Lat. prætorium)\n1. headquarters in a Roman camp,\n2. The palace or official residence of the Governor of a province: Mat.27:27, Mrk.15:16 (see Swete, in l), Jhn.18:28, 33 19:9; τ. π. τ. Ἡρώδου, Act.23:35.\n3. the Prætorian Guard: Php.1:13 (see Lft., in l; ICC, 51 f.).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πραιτώριον",
+          "translit": "praitōrion",
+          "gloss": "praetorium"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 18:28",
+        "John 18:33",
+        "John 19:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:27",
+          "found": true
+        },
+        {
+          "ref": "Mark 15:16",
+          "found": true
+        },
+        {
+          "ref": "Acts 23:35",
+          "found": true
+        },
+        {
+          "ref": "Philippians 1:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4232"
+      }
+    },
+    {
+      "id": "basileus",
+      "strongs": [
+        "G0935"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0935",
+          "original": "βασιλεύς",
+          "transliteration": "basileus",
+          "partOfSpeech": "G:N-M",
+          "gloss": "king",
+          "meaning": "βασιλεύς, -έως, ὁ,\n[in LXX chiefly for מֶלֶךְ ;]\na king: Mat.1:6 2:1; used by courtesy of Herod the Tetrarch, Mat.14:9; of the Roman Emperor, as frequently in κοινή (Deiss., LAE, p. 367), 1Pe.2:13, 17; of the Christ, in the phrase ὁ β. τ. Ἰουδαίων, Mat.2:2, al.; τοῦ Ἰσραήλ, Mrk.15:32, Jhn.1:50 12:13; of God, Mat.5:35, 1Ti.1:17, Rev.15:3; β. βασιλέων, Rev.17:14 19:16; β. τ. βασιλευόντων, 1Ti.6:15 (on the associations of the word to Jewish Hellenists, see Cl. Rev., i, 7).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "βασιλεὺς",
+          "translit": "basileus",
+          "gloss": "king"
+        },
+        {
+          "original": "βασιλέα",
+          "translit": "basilea",
+          "gloss": "king"
+        },
+        {
+          "original": "βασιλεύς",
+          "translit": "basileus",
+          "gloss": "king"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:49",
+        "John 6:15",
+        "John 12:13",
+        "John 12:15",
+        "John 18:33",
+        "John 18:37",
+        "John 18:39",
+        "John 19:3",
+        "John 19:12",
+        "John 19:14",
+        "John 19:15",
+        "John 19:19",
+        "John 19:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 104,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:2",
+          "found": true
+        },
+        {
+          "ref": "Luke 1:5",
+          "found": true
+        },
+        {
+          "ref": "Acts 17:7",
+          "found": true
+        },
+        {
+          "ref": "Revelation 19:16",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0935"
+      }
+    },
+    {
+      "id": "teleo",
+      "strongs": [
+        "G5055"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5055",
+          "original": "τελέω",
+          "transliteration": "teleō",
+          "partOfSpeech": "G:V",
+          "gloss": "to finish",
+          "meaning": "τελέω, -ῶ\n(τέλος), [in LXX for כָּלָה, pi., etc. ;]\n1. to bring to an end, complete, finish: τ. δρόμον, 2Ti.4:7; τ. λόγους, Mat.7:28 19:1 26:1; τ. παραβολάς, Mat.13:53; τ. πόλεις, Mat.10:23; pass., Rev.15:8 20:3, 5 20:7; with ptcp., Mat.11:1.\n2. to execute, perform, complete, fulfil: Luk.2:39, Act.13:29, Rom.2:27, 2Co.12:9, Gal.5:16, Jas.2:8, Rev.11:7; pass., Luk.12:50 18:31 22:37, Jhn.19:28, 30, Rev.10:7 15:1 17:17.\n3. to pay (frequently in cl.): Mat.17:24, Rom.13:6\n(cf. ἀπο-, δια-, ἐκ-, ἐπι-, συν-τελέω).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τετέλεσται",
+          "translit": "tetelestai",
+          "gloss": "to finish"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 19:28",
+        "John 19:30"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 28,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 7:28",
+          "found": true
+        },
+        {
+          "ref": "Luke 12:50",
+          "found": true
+        },
+        {
+          "ref": "Acts 13:29",
+          "found": true
+        },
+        {
+          "ref": "Revelation 20:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5055"
+      }
+    },
+    {
+      "id": "ekkenteo",
+      "strongs": [
+        "G1574"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1574",
+          "original": "ἐκκεντέω",
+          "transliteration": "ekkenteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to pierce",
+          "meaning": "ἐκ-κεντέω, -ῶ\n[in LXX chiefly for דָּקַר ;]\n1. to prick out, put out (Arist.).\n2. to pierce (Polyb., LXX): with accusative of person(s), Jhn.19:37 (LXX), Rev.1:7.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐξεκέντησαν",
+          "translit": "exekentēsan",
+          "gloss": "to pierce"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 19:37"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Revelation 1:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1574"
+      }
+    },
+    {
+      "id": "emphysao",
+      "strongs": [
+        "G1720"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1720",
+          "original": "ἐμφυσάω",
+          "transliteration": "emphusaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to breathe into",
+          "meaning": "ἐμ-φυσάω, -ῶ\n(φυσάω, to blow), [in LXX for נָפַח, etc. ;]\nto breathe into (cf. Gen.2:7, Wis.15:11, a1.), breathe upon: Jhn.20:22.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐνεφύσησεν",
+          "translit": "enephusēsen",
+          "gloss": "to breathe into"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 20:22"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 1,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1720"
+      }
+    },
+    {
+      "id": "apostello",
+      "strongs": [
+        "G0649"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0649",
+          "original": "ἀποστέλλω",
+          "transliteration": "apostellō",
+          "partOfSpeech": "G:V",
+          "gloss": "to send",
+          "meaning": "ἀπο-στέλλω,\n[in LXX very freq., almost always for שׁלח ;]\nprop., to send away, to dispatch on service;\n1. to send with a commission, or on service;\n(a) of persons: Christ, Mat.10:40; the apostles, 10:16; servants, Mrk.12:2; angels, 13:27; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀπεσταλμένος",
+          "translit": "apestalmenos",
+          "gloss": "to send"
+        },
+        {
+          "original": "ἀπέστειλαν",
+          "translit": "apesteilan",
+          "gloss": "to send"
+        },
+        {
+          "original": "ἀπεσταλμένοι",
+          "translit": "apestalmenoi",
+          "gloss": "to send"
+        },
+        {
+          "original": "ἀπέστειλεν",
+          "translit": "apesteilen",
+          "gloss": "to send"
+        },
+        {
+          "original": "ἀπέστειλα",
+          "translit": "apesteila",
+          "gloss": "to send"
+        },
+        {
+          "original": "ἀπεστάλκατε",
+          "translit": "apestalkate",
+          "gloss": "to send"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:6",
+        "John 1:19",
+        "John 1:24",
+        "John 3:17",
+        "John 3:28",
+        "John 3:34",
+        "John 4:38",
+        "John 5:33",
+        "John 5:36",
+        "John 5:38",
+        "John 6:29",
+        "John 6:57",
+        "John 7:29",
+        "John 7:32",
+        "John 8:42",
+        "John 9:7",
+        "John 10:36",
+        "John 11:3",
+        "John 11:42",
+        "John 17:3",
+        "John 17:8",
+        "John 17:18",
+        "John 17:21",
+        "John 17:23",
+        "John 17:25",
+        "John 18:24",
+        "John 20:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 131,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:5",
+          "found": true
+        },
+        {
+          "ref": "Luke 4:18",
+          "found": true
+        },
+        {
+          "ref": "Acts 26:17",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:10",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0649"
+      }
+    },
+    {
+      "id": "phileo",
+      "strongs": [
+        "G5368"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5368",
+          "original": "φιλέω",
+          "transliteration": "phileō",
+          "partOfSpeech": "G:V",
+          "gloss": "to love",
+          "meaning": "φιλέω, -ῶ\n(φίλος), [in LXX: Gen.27:4, 9, al. (אָהַב), Gen.27:27, al. (נָשַׁק), La 1:2 (רֵעַ) Wis.8:2, al. ;]\n1. to love (with the love of emotion and friendship, Lat, amare; v, SYN.): with accusative of person(s), Mat.10:37, Jhn.5:20; Jhn.11:3, 36 15:19 16:27 20:2 21:15-17, 1Co.16:22, Rev.3:19; ἐν πίστει, Tit.3:15; with accusative of thing(s), Mat.23:6, Luk.20:46, Jhn.12:25, Rev.22:15; with inf. (Isa.56:10; cf. Bl., § 69, 4), Mat.6:5.\n2. to kiss: with accusative of person(s), Mat.26:48, Mrk.14:44, Luk.22:47 (cf. κατα-φιλέω).†\nSYN.: ἀγαπάω ω (which see), the love of duty and respect (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φιλεῖ",
+          "translit": "philei",
+          "gloss": "to love"
+        },
+        {
+          "original": "φιλεῖς",
+          "translit": "phileis",
+          "gloss": "to love"
+        },
+        {
+          "original": "ἐφίλει",
+          "translit": "ephilei",
+          "gloss": "to love"
+        },
+        {
+          "original": "φιλῶν",
+          "translit": "philōn",
+          "gloss": "to love"
+        },
+        {
+          "original": "πεφιλήκατε",
+          "translit": "pephilēkate",
+          "gloss": "to love"
+        },
+        {
+          "original": "φιλῶ",
+          "translit": "philō",
+          "gloss": "to love"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 5:20",
+        "John 11:3",
+        "John 11:36",
+        "John 12:25",
+        "John 15:19",
+        "John 16:27",
+        "John 20:2",
+        "John 21:15",
+        "John 21:16",
+        "John 21:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 21,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:37",
+          "found": true
+        },
+        {
+          "ref": "Matthew 23:6",
+          "found": true
+        },
+        {
+          "ref": "Luke 20:46",
+          "found": true
+        },
+        {
+          "ref": "Revelation 3:19",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5368"
+      }
+    },
+    {
+      "id": "bosko",
+      "strongs": [
+        "G1006"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1006",
+          "original": "βόσκω",
+          "transliteration": "boskō",
+          "partOfSpeech": "G:V",
+          "gloss": "to feed",
+          "meaning": "βόσκω,\n[in LXX for רעה ;]\nprop., of a herdsman, to feed: Mat.8:33, Mrk.5:14, Luk.8:34 15:15; metaphorically, of Christian pastoral care, Jhn.21:15, 17. Pass., of cattle, to feed, graze: Mat.8:30, Mrk.5:11, Luk.8:32.†\nSYN.: ποιμαίνειν, to tend, shepherd, a wider term, including oversight as well as feeding (see Tr., Syn., §xxv). (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "βόσκε",
+          "translit": "boske",
+          "gloss": "to feed"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 21:15",
+        "John 21:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 9,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 8:33",
+          "found": true
+        },
+        {
+          "ref": "Mark 5:14",
+          "found": true
+        },
+        {
+          "ref": "Luke 8:34",
+          "found": true
+        },
+        {
+          "ref": "Luke 15:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1006"
+      }
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4165",
+          "original": "ποιμαίνω",
+          "transliteration": "poimainō",
+          "partOfSpeech": "G:V",
+          "gloss": "to shepherd",
+          "meaning": "ποιμαίνω\n(ποιμήν), [in LXX chiefly for רָעָה ;]\nto act as shepherd, tend flocks: Luk.17:7; with accusative, ποιμνην, 1Co.9:7. Metaphorical, to tend, shepherd, govern: with accusative, Mat.2:6 (LXX), Jhn.21:16, Act.20:28, 1Pe.5:2, Ju 12, Rev.2:27 7:17 12:5 19:15.†\nSYN.: βόσκω, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ποίμαινε",
+          "translit": "poimaine",
+          "gloss": "to shepherd"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 21:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:6",
+          "found": true
+        },
+        {
+          "ref": "Acts 20:28",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 5:2",
+          "found": true
+        },
+        {
+          "ref": "Revelation 7:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4165"
+      }
+    },
+    {
+      "id": "anthrakia",
+      "strongs": [
+        "G0439"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0439",
+          "original": "ἀνθρακιά",
+          "transliteration": "anthrakia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "charcoal fire",
+          "meaning": "ἀνθρακιά, -ᾶς, ἡ\n(ἄνθραξ), [in LXX: Sir.11:32, 4Ma.9:20 * ;]\na heap of burning coals: Jhn.18:18 21:9.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀνθρακιὰν",
+          "translit": "anthrakian",
+          "gloss": "charcoal fire"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 18:18",
+        "John 21:9"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0439"
+      }
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3027",
+          "original": "λῃστής",
+          "transliteration": "lēstēs",
+          "partOfSpeech": "G:N-M",
+          "gloss": "robber/rebel",
+          "meaning": "λῃστής, -οῦ, ὁ\n(Ep. ληίς = λεία, booty), [in LXX for גְּדוּד, etc. ;]\na robber, brigand: Mat.21:13 (LXX) Mat.26:55 27:38, 44, Mrk.11:17 14:48 15:27, Luk.10:30, 36 19:46 22:52, Jhn.10:1, 8 18:40, 2Co.11:26.†\nSYN.: κλέπτης, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λῃστής",
+          "translit": "lēstēs",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃσταί",
+          "translit": "lēstai",
+          "gloss": "robber/rebel"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 10:1",
+        "John 10:8",
+        "John 18:40"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 15,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:13",
+          "found": true
+        },
+        {
+          "ref": "Luke 10:30",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 11:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3027"
+      }
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4717",
+          "original": "σταυρόω",
+          "transliteration": "stauroō",
+          "partOfSpeech": "G:V",
+          "gloss": "to crucify",
+          "meaning": "σταυρόω, -ῶ\n(σταυρός), [in LXX: Est.7:9 (תָּלָה), Est.8:13 * ;]\n1. to fence with pales, impalisade (Thuc.).\n2. In late writers (Polyb., FlJ; but ἀνασταυρόω is more common) to crucify: with accusative of person(s), Mat.20:19 23:34 26:2 27:22 ff. Mat.28:5, Mrk.15:16 ff. Mrk.16:6, Luk.23:21, 23 23:33 24:7, 20, Jhn.19:6 ff., Act.2:36 4:10, 1Co.1:13 1:23 2:2 2:8, 2Co.13:4, Gal.3:1, Rev.11:8; metaphorically, Gal.5:24 6:14.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σταύρωσον",
+          "translit": "staurōson",
+          "gloss": "to crucify"
+        },
+        {
+          "original": "σταυρώσατε",
+          "translit": "staurōsate",
+          "gloss": "to crucify"
+        },
+        {
+          "original": "σταυρῶσαί",
+          "translit": "staurōsai",
+          "gloss": "to crucify"
+        },
+        {
+          "original": "σταυρώσω;",
+          "translit": "staurōsō",
+          "gloss": "to crucify"
+        },
+        {
+          "original": "σταυρωθῇ",
+          "translit": "staurōthēa",
+          "gloss": "to crucify"
+        },
+        {
+          "original": "ἐσταύρωσαν",
+          "translit": "estaurōsan",
+          "gloss": "to crucify"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 19:6",
+        "John 19:10",
+        "John 19:15",
+        "John 19:16",
+        "John 19:18",
+        "John 19:20",
+        "John 19:23",
+        "John 19:41"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 42,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:22",
+          "found": true
+        },
+        {
+          "ref": "Luke 23:21",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:36",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4717"
+      }
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4462",
+          "original": "ῥαββονί",
+          "transliteration": "rhabboni",
+          "partOfSpeech": "A:N",
+          "gloss": "Rabboni",
+          "meaning": "ῥαββουνεί (Rec. -βονί, see: ῥαββεί) (Aram. רַבּוֺנִי, later, רִבּוֺנִי my master; on the Greek vocalization and the relation of the word to ῥαββεί, see Dalman, Words, 324, 340; Gr., 140; DB, iv, 190)\nRabboni: Mrk.10:51 (WH, mg., κύριε ῥαββεί), Jhn.20:16.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ραββουνι",
+          "translit": "rabbouni",
+          "gloss": "Rabboni"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 20:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 10:51",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4462"
+      }
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0863G",
+          "original": "ἀφίημι",
+          "transliteration": "aphiēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to release: leave",
+          "meaning": "ἀφ-ίημι,\n[in LXX for נשׂא, נוח hi., נתן, סלח ni., עזב, etc. ;]\n1. to send forth, send away, let go: of divorce (DB, iii, 274a), τ. γυναῖκα (Hdt.), 1Co.7:11-13; of death, τ. πνεῦμα (Gen.35:18, Hdt., al.), Mat.27:50; (φωνήν, to utter a cry, Mrk.15:37; of debts, to remit, forgive (cl.), τ. δανεῖον, Mat.18:27; τ. ὀφειλήν, Mat.18:32; esp. of sins (Cremer 296f.), τ. ἁμαρτίας, ἁμαρτήματα, ἀνομίας, Mat.9:2, Rom.4:7\" (LXX), 1Jn.1:9, al.; punctiliar and iterative present (M, Pr., 119), Mrk.2:5, Luk.11:4; Ion. pf., ἀφέωνται (M, Pr., 38), Luk.5:23. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀφῆκεν",
+          "translit": "aphēken",
+          "gloss": "to release"
+        },
+        {
+          "original": "Ἀφῆκεν",
+          "translit": "Aphēken",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφῆκέν",
+          "translit": "aphēken",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφίησιν",
+          "translit": "aphiēsin",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἄφετε",
+          "translit": "aphete",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφῶμεν",
+          "translit": "aphōmen",
+          "gloss": "to release"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 4:3",
+        "John 4:28",
+        "John 4:52",
+        "John 8:29",
+        "John 10:12",
+        "John 11:44",
+        "John 11:48",
+        "John 12:7",
+        "John 14:18",
+        "John 14:27",
+        "John 16:28",
+        "John 16:32",
+        "John 18:8",
+        "John 20:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 133,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:12",
+          "found": true
+        },
+        {
+          "ref": "Luke 23:34",
+          "found": true
+        },
+        {
+          "ref": "1 John 1:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0863G, G0863H, G0863I"
+      }
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2962G",
+          "original": "κύριος",
+          "transliteration": "kurios",
+          "partOfSpeech": "G:N-M",
+          "gloss": "lord: God",
+          "meaning": "κύριος, -α, -ον (also -ος, -ον),\n[in LXX (subst.) chiefly for יהוה, also for בַּעַל ,אָדוֹן, etc. ;]\nhaving power (κῦρος) or authority; as subst., ὁ κ., lord, master;\n1. in general: with genitive of thing(s), Mat.9:38 20:8, Mrk.12:9 13:35, Luk.19:33; τ. σαββάτου, Mat.12:8, Mrk.2:28, Luk.6:5; with genitive of person(s), δούλου, etc., Mat.10:24, Luk.14:21, Act.16:16, al.; absol, opposite to οἱ δοῦλοι, Eph.6:5, 9 al.; of the Emperor (Deiss., LAE, 161), Act.25:26; θεοὶ πολλοὶ καὶ κ. πολλοί, 1Co.8:5; of a husband, 1Pe.3:6; in voc, as a title of respect to masters, teachers, magistrates, etc., Mat.1 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κυρίου",
+          "translit": "kuriou",
+          "gloss": "lord"
+        },
+        {
+          "original": "κύριε",
+          "translit": "kurie",
+          "gloss": "lord"
+        },
+        {
+          "original": "κύριον",
+          "translit": "kurion",
+          "gloss": "lord"
+        },
+        {
+          "original": "κύριος",
+          "translit": "kurios",
+          "gloss": "lord"
+        },
+        {
+          "original": "κύριόν",
+          "translit": "kurion",
+          "gloss": "lord"
+        },
+        {
+          "original": "κύριός",
+          "translit": "kurios",
+          "gloss": "lord"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:23",
+        "John 4:11",
+        "John 4:15",
+        "John 4:19",
+        "John 4:49",
+        "John 5:7",
+        "John 6:23",
+        "John 6:34",
+        "John 6:68",
+        "John 8:11",
+        "John 9:36",
+        "John 9:38",
+        "John 11:2",
+        "John 11:3",
+        "John 11:12",
+        "John 11:21",
+        "John 11:27",
+        "John 11:32",
+        "John 11:34",
+        "John 11:39",
+        "John 12:13",
+        "John 12:21",
+        "John 12:38",
+        "John 13:6",
+        "John 13:9",
+        "John 13:13",
+        "John 13:14",
+        "John 13:16",
+        "John 13:25",
+        "John 13:36",
+        "John 13:37",
+        "John 14:5",
+        "John 14:8",
+        "John 14:22",
+        "John 15:15",
+        "John 15:20",
+        "John 20:2",
+        "John 20:13",
+        "John 20:15",
+        "John 20:18",
+        "John 20:20",
+        "John 20:25",
+        "John 20:28",
+        "John 21:7",
+        "John 21:12",
+        "John 21:15",
+        "John 21:16",
+        "John 21:17",
+        "John 21:20",
+        "John 21:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 688,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 7:21",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:36",
+          "found": true
+        },
+        {
+          "ref": "Philippians 2:11",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2962G, G2962H"
+      }
     }
   ]
 }

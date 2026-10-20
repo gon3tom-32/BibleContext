@@ -1539,7 +1539,23 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "2 Samuel 15:23",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "1 Timothy 6:13",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Luke 17:20-21",
+          "inDataset": true,
+          "votes": 17
+        }
+      ]
     },
     {
       "number": 19,
@@ -1603,7 +1619,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 22:18",
+          "inDataset": true,
+          "votes": 49
+        },
+        {
+          "ref": "Psalm 69:21",
+          "inDataset": true,
+          "votes": 101
+        },
+        {
+          "ref": "Exodus 12:46",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Zechariah 12:10",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Isaiah 53:9",
+          "inDataset": true,
+          "votes": 3
+        }
+      ]
     },
     {
       "number": 20,
@@ -1666,7 +1708,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 2:7",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Psalm 16:10",
+          "inDataset": true,
+          "votes": 20
+        },
+        {
+          "ref": "Ezekiel 37:9",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Psalm 22:22",
+          "inDataset": true,
+          "votes": 6
+        }
+      ]
     },
     {
       "number": 21,
@@ -1729,7 +1792,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Ezekiel 34:23",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Psalm 78:70-72",
+          "inDataset": true,
+          "votes": 1
+        },
+        {
+          "ref": "Isaiah 40:11",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Luke 5:4-7",
+          "inDataset": true,
+          "votes": 33
+        },
+        {
+          "ref": "Acts 20:28",
+          "inDataset": true,
+          "votes": 22
+        }
+      ]
     }
   ]
 }

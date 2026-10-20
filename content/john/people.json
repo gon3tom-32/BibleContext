@@ -208,5 +208,70 @@
     "id": "judas-not-iscariot",
     "name": "Judas (not Iscariot)",
     "note": "One of the twelve, listed in Luke as Judas son of James."
+  },
+  {
+    "id": "malchus",
+    "name": "Malchus",
+    "note": "The high priest's servant, named only in John."
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "note": "A former high priest and Caiaphas' father-in-law."
+  },
+  {
+    "id": "the-other-disciple",
+    "name": "The other disciple",
+    "note": "Known to the high priest; often thought to be the beloved disciple."
+  },
+  {
+    "id": "the-servant-girl",
+    "name": "The doorkeeper",
+    "note": "The girl who asks Peter if he is a disciple."
+  },
+  {
+    "id": "pilate",
+    "name": "Pontius Pilate",
+    "note": "Roman prefect of Judea from about AD 26 to 36."
+  },
+  {
+    "id": "barabbas",
+    "name": "Barabbas",
+    "note": "A robber, released instead of Jesus."
+  },
+  {
+    "id": "the-soldiers",
+    "name": "The soldiers",
+    "note": "Roman soldiers who crucify him."
+  },
+  {
+    "id": "mary-wife-of-clopas",
+    "name": "Mary, the wife of Clopas",
+    "note": "Stands at the cross."
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "note": "From Magdala; first at the tomb and first to see him."
+  },
+  {
+    "id": "joseph-of-arimathea",
+    "name": "Joseph of Arimathea",
+    "note": "A secret disciple who buries him."
+  },
+  {
+    "id": "the-two-angels",
+    "name": "Two angels in white",
+    "note": "Sitting in the tomb."
+  },
+  {
+    "id": "the-sons-of-zebedee",
+    "name": "The sons of Zebedee",
+    "note": "James and John."
+  },
+  {
+    "id": "the-crowds",
+    "name": "The crowds",
+    "note": "Ordinary people, many of them pilgrims, who follow and question Jesus."
   }
 ]

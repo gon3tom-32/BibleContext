@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "The arrest in a garden, Peter's denials, and Jesus before Pilate",
+  "summary": "When Jesus has spoken these words, he goes out with his disciples across the Kidron valley to a garden, which he and the disciples enter. Judas, who betrays him, also knows the place, for Jesus often met there with his disciples. So Judas, receiving the detachment of soldiers and officers from the chief priests and the Pharisees, comes there with lanterns, torches, and weapons. Jesus, knowing all that is going to happen to him, goes out and asks, \"Who are you looking for?\" \"Jesus of Nazareth.\" \"I am he.\" When he says this, they go backward and fall to the ground. He asks again, and they say, \"Jesus of Nazareth.\" \"I told you that I am he. If therefore you seek me, let these go their way,\" that the word might be fulfilled that he spoke, \"Of those whom you have given me, I have lost none.\" Simon Peter, having a sword, draws it, strikes the high priest's servant, and cuts off his right ear; the servant's name is Malchus. Jesus says to Peter, \"Put your sword into its sheath. The cup which the Father has given me, shall I not surely drink it?\" The soldiers, the commanding officer, and the officers of the Jews seize Jesus, bind him, and lead him first to Annas, father-in-law of Caiaphas, who was high priest that year, who had advised the Jews that it was expedient for one man to perish for the people. Simon Peter and another disciple follow Jesus; that disciple is known to the high priest and goes in with Jesus into the court, but Peter stands outside at the door. The other disciple speaks to the doorkeeper and brings Peter in. The girl who keeps the door asks Peter, \"Are you also one of this man's disciples?\" \"I am not.\" The servants and officers stand by a charcoal fire they've made, for it is cold, and Peter stands with them, warming himself. The high priest asks Jesus about his disciples and his teaching. Jesus answers, \"I spoke openly to the world. I always taught in synagogues, and in the temple, where the Jews always meet. I said nothing in secret. Why do you ask me? Ask those who have heard me what I said to them.\" One of the officers standing by strikes him: \"Is that the way you answer the high priest?\" Jesus says, \"If I have spoken evil, testify of the evil; but if well, why do you beat me?\" Annas sends him bound to Caiaphas the high priest. Meanwhile Simon Peter is standing and warming himself, and they ask, \"You aren't also one of his disciples, are you?\" He denies it: \"I am not.\" One of the servants of the high priest, a relative of the man whose ear Peter cut off, says, \"Didn't I see you in the garden with him?\" Peter denies it again, and immediately a rooster crows. Then they lead Jesus from Caiaphas into the Praetorium, and it is early. They themselves don't enter into the Praetorium, that they might not be defiled, but might eat the Passover. Pilate goes out to them: \"What accusation do you bring against this man?\" \"If this man weren't an evildoer, we wouldn't have delivered him up to you.\" \"Take him yourselves, and judge him according to your law.\" \"It is not lawful for us to put anyone to death.\" Pilate enters the Praetorium again, calls Jesus, and asks, \"Are you the King of the Jews?\" Jesus answers, \"Do you say this by yourself, or did others tell you about me?\" \"Am I a Jew? Your own nation and the chief priests delivered you to me. What have you done?\" Jesus answers, \"My Kingdom is not of this world. If my Kingdom were of this world, then my servants would fight, that I wouldn't be delivered to the Jews. But now my Kingdom is not from here.\" \"Are you a king then?\" \"You say that I am a king. For this reason I have been born, and for this reason I have come into the world, that I should testify to the truth. Everyone who is of the truth listens to my voice.\" Pilate says, \"What is truth?\" and goes out again to the Jews: \"I find no basis for a charge against him. But you have a custom, that I should release someone to you at the Passover. Do you want me to release to you the King of the Jews?\" They shout, \"Not this man, but Barabbas!\" Now Barabbas was a robber.",
+  "whySettingMatters": "John's arrest scene differs from the other Gospels: there is no kiss and no Gethsemane prayer, and Jesus is in control, stepping forward and saying \"I am he\" so that his captors fall backward, as if in the presence of the divine name. \"Detachment\" translates speira, the Roman word for a cohort, though a cohort was nominally 600 soldiers and this was probably a smaller group; with the officers of the Jewish authorities it was a combined force. The Kidron valley lay between the temple mount and the Mount of Olives; King David crossed it fleeing from Absalom (2 Samuel 15:23). Only John names Malchus. Annas was high priest from AD 6 to 15 and was still powerful, which is why Jesus goes to him first; John does not describe a formal night trial before the Sanhedrin. The charcoal fire in the courtyard is a detail that comes back in 21:9. \"The Praetorium\" was the governor's residence in Jerusalem, either Herod's palace or the Antonia fortress; entering a Gentile's house would make someone unclean for the Passover meal, and John's timing, with the Passover still ahead, differs from the Gospels that describe a Passover meal the night before; how to reconcile them is debated. The Jews' statement that they may not put anyone to death reflects Rome's control over capital punishment. \"My kingdom is not of this world\" means it does not originate in this world, and Pilate's question about truth is the climax of the trial. Barabbas is called a \"robber,\" a word that can also mean a rebel.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Arrested in the garden and questioned by Annas, Caiaphas, and Pilate."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Leads the soldiers to the garden."
+    },
+    {
+      "id": "peter",
+      "note": "Draws a sword, then denies Jesus twice in the courtyard."
+    },
+    {
+      "id": "malchus",
+      "note": "The high priest's servant, whose ear is cut off."
+    },
+    {
+      "id": "annas",
+      "note": "Questions Jesus first."
+    },
+    {
+      "id": "caiaphas",
+      "note": "The high priest that year."
+    },
+    {
+      "id": "the-other-disciple",
+      "note": "Known to the high priest, and gets Peter into the courtyard."
+    },
+    {
+      "id": "the-servant-girl",
+      "note": "The doorkeeper who asks Peter."
+    },
+    {
+      "id": "pilate",
+      "note": "The governor, who finds no basis for a charge."
+    },
+    {
+      "id": "barabbas",
+      "note": "A robber, released instead."
+    },
+    {
+      "id": "the-jews",
+      "note": "The authorities who hand Jesus over."
+    }
+  ],
+  "questions": [
+    "Jesus steps forward and asks, \"Who are you looking for?\" What does that say about who is in control?",
+    "Peter, with a sword in the garden, is denying Jesus by dawn. What happened between the two?",
+    "\"My kingdom is not of this world.\" What does that mean for how his kingdom comes?",
+    "Pilate asks, \"What is truth?\" and walks out. What do you hear in that?"
+  ],
+  "words": [
+    {
+      "id": "speira",
+      "note": "\"The detachment of soldiers\" (18:3, 18:12)."
+    },
+    {
+      "id": "praitorion",
+      "note": "\"They led Jesus into the Praetorium\" (18:28, 18:33)."
+    },
+    {
+      "id": "basileus",
+      "note": "\"Are you the King of the Jews?\" (18:33-39)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"That I should testify to the truth\" (18:37-38)."
+    },
+    {
+      "id": "lestes",
+      "note": "\"Now Barabbas was a robber\" (18:40)."
+    },
+    {
+      "id": "anthrakia",
+      "note": "The charcoal fire in the courtyard (18:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "2 Samuel 15:23",
+      "note": "David crosses the Kidron"
+    },
+    {
+      "ref": "1 Timothy 6:13",
+      "note": "Christ Jesus, who made the good confession before Pilate"
+    },
+    {
+      "ref": "Luke 17:20-21",
+      "note": "the kingdom of God is not coming with observation"
+    }
+  ],
+  "number": 18,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

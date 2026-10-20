@@ -167,6 +167,30 @@
     {
       "id": "caiaphas",
       "theographic": "caiaphas_532"
+    },
+    {
+      "id": "annas",
+      "theographic": "annas_269"
+    },
+    {
+      "id": "malchus",
+      "theographic": "malchus_1916"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
     }
   ],
   "words": [
@@ -690,6 +714,121 @@
         "G0037"
       ],
       "foundAt": "John 17:17"
+    },
+    {
+      "id": "speira",
+      "strongs": [
+        "G4686"
+      ],
+      "foundAt": "John 18:3"
+    },
+    {
+      "id": "praitorion",
+      "strongs": [
+        "G4232"
+      ],
+      "foundAt": "John 18:28"
+    },
+    {
+      "id": "basileus",
+      "strongs": [
+        "G0935"
+      ],
+      "foundAt": "John 18:33"
+    },
+    {
+      "id": "teleo",
+      "strongs": [
+        "G5055"
+      ],
+      "foundAt": "John 19:28"
+    },
+    {
+      "id": "ekkenteo",
+      "strongs": [
+        "G1574"
+      ],
+      "foundAt": "John 19:37"
+    },
+    {
+      "id": "emphysao",
+      "strongs": [
+        "G1720"
+      ],
+      "foundAt": "John 20:22"
+    },
+    {
+      "id": "apostello",
+      "strongs": [
+        "G0649"
+      ],
+      "foundAt": "John 20:21"
+    },
+    {
+      "id": "phileo",
+      "strongs": [
+        "G5368"
+      ],
+      "foundAt": "John 21:15"
+    },
+    {
+      "id": "bosko",
+      "strongs": [
+        "G1006"
+      ],
+      "foundAt": "John 21:15"
+    },
+    {
+      "id": "poimaino",
+      "strongs": [
+        "G4165"
+      ],
+      "foundAt": "John 21:16"
+    },
+    {
+      "id": "anthrakia",
+      "strongs": [
+        "G0439"
+      ],
+      "foundAt": "John 18:18"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "John 18:40"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "John 19:6"
+    },
+    {
+      "id": "rabbouni",
+      "strongs": [
+        "G4462"
+      ],
+      "foundAt": "John 20:16"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "John 20:23"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "John 20:2"
     }
   ],
   "crossRefs": {
@@ -704,10 +843,6 @@
     {
       "area": "places",
       "text": "Where \"Bethany beyond the Jordan\" (1:28), Aenon, and Salim were is debated; they are listed on the Context page but not drawn on the map."
-    },
-    {
-      "area": "chapters",
-      "text": "Chapters 18 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

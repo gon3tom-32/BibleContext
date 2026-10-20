@@ -519,6 +519,180 @@
         "item": "caiaphas_532",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "annas",
+      "name": "Annas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "John 18:13",
+        "John 18:24"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "annas_269",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "malchus",
+      "name": "Malchus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "John 18:10"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "malchus_1916",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "pilate",
+      "name": "Pontius",
+      "displayTitle": "Pontius Pilate",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18,
+        19
+      ],
+      "verses": [
+        "John 18:29",
+        "John 18:31",
+        "John 18:33",
+        "John 18:35",
+        "John 18:37",
+        "John 18:38",
+        "John 19:1",
+        "John 19:4",
+        "John 19:5",
+        "John 19:6",
+        "John 19:8",
+        "John 19:10",
+        "John 19:12",
+        "John 19:13",
+        "John 19:15",
+        "John 19:19",
+        "John 19:21",
+        "John 19:22",
+        "John 19:31",
+        "John 19:38"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "pilate_2365",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        18
+      ],
+      "verses": [
+        "John 18:40"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barabbas_399",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "mary-magdalene",
+      "name": "Mary",
+      "displayTitle": "Mary Magdalene",
+      "alsoCalled": "Magdalene",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        19,
+        20
+      ],
+      "verses": [
+        "John 19:25",
+        "John 20:1",
+        "John 20:11",
+        "John 20:16",
+        "John 20:18"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1943",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "name": "Joseph",
+      "displayTitle": "Joseph (of Arimathea)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        19
+      ],
+      "verses": [
+        "John 19:38"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "joseph_1716",
+        "recordStatus": "wip"
+      }
     }
   ]
 }
