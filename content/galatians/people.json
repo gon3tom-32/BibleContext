@@ -43,5 +43,45 @@
     "id": "jesus",
     "name": "Jesus",
     "note": "The crucified Messiah who redeemed us from the curse of the law."
+  },
+  {
+    "id": "false-brothers",
+    "name": "The \"false brothers\"",
+    "note": "People who slipped into the Jerusalem meeting to spy on the freedom Gentile believers had (2:4)."
+  },
+  {
+    "id": "john-the-apostle",
+    "name": "John",
+    "note": "One of the three \"pillars\" of the Jerusalem church with James and Cephas."
+  },
+  {
+    "id": "the-circumcision-party",
+    "name": "The circumcision party",
+    "note": "Those who insisted on circumcision, whose disapproval made Peter withdraw from the Gentiles at Antioch."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "Through whom the law came, 430 years after the promise to Abraham."
+  },
+  {
+    "id": "hagar",
+    "name": "Hagar",
+    "note": "Sarah's slave woman, mother of Ishmael; in Paul's picture she stands for Mount Sinai."
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "note": "Abraham's wife, the free woman and mother of the child of promise."
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac",
+    "note": "The child of promise, born according to the Spirit."
+  },
+  {
+    "id": "ishmael",
+    "name": "Ishmael",
+    "note": "Abraham's son by Hagar, born according to the flesh."
   }
 ]

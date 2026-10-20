@@ -3465,5 +3465,2201 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "ekpipto",
+    "transliteration": "ekpíptō",
+    "original": "ἐκπίπτω",
+    "pronunciation": "ek-PIP-to",
+    "gloss": "to fall off, to fall away",
+    "notes": "To fall out of something or off a position. In 5:4, those who want to be justified by the law have \"fallen away from grace.\" It also describes a ship drifting (Acts 27:17) and flowers dropping their petals (James 1:11).",
+    "range": [
+      {
+        "sense": "Fall off",
+        "note": "Drop from a place."
+      },
+      {
+        "sense": "Lose",
+        "note": "Be cut off from."
+      }
+    ],
+    "translations": [
+      "fall away",
+      "fall from"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 12:7",
+        "note": "His chains fell off from his hands."
+      },
+      {
+        "ref": "Acts 27:17",
+        "note": "They would be cast ashore."
+      },
+      {
+        "ref": "James 1:11",
+        "note": "Its flower falls."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "enkopto",
+    "transliteration": "enkóptō",
+    "original": "ἐγκόπτω",
+    "pronunciation": "eng-KOP-to",
+    "gloss": "to hinder, to cut in on",
+    "notes": "To block or impede, as of breaking up a road or cutting in on a runner. In 5:7, \"you were running well. Who hindered you from obeying the truth?\"",
+    "range": [
+      {
+        "sense": "Hinder",
+        "note": "Block the path."
+      },
+      {
+        "sense": "Cut in",
+        "note": "Interrupt."
+      }
+    ],
+    "translations": [
+      "hinder",
+      "impede"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:22",
+        "note": "I was hindered many times from coming to you."
+      },
+      {
+        "ref": "1 Thessalonians 2:18",
+        "note": "Satan hindered us."
+      },
+      {
+        "ref": "1 Peter 3:7",
+        "note": "So that your prayers may not be hindered."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epithymeo",
+    "transliteration": "epithyméō",
+    "original": "ἐπιθυμέω",
+    "pronunciation": "ep-ee-thoo-MEH-o",
+    "gloss": "to desire, to long for",
+    "notes": "To desire strongly, for good or ill. In 5:17, \"the flesh desires against the Spirit,\" and the Spirit against the flesh; the noun epithymia is \"desire\" or \"lust.\"",
+    "range": [
+      {
+        "sense": "Desire",
+        "note": "Want strongly."
+      },
+      {
+        "sense": "Lust",
+        "note": "Want what is forbidden."
+      }
+    ],
+    "translations": [
+      "lust",
+      "desire",
+      "long for"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:28",
+        "note": "Anyone who gazes at a woman to lust after her."
+      },
+      {
+        "ref": "Luke 22:15",
+        "note": "I have earnestly desired to eat this Passover with you."
+      },
+      {
+        "ref": "Romans 7:7",
+        "note": "I wouldn't have known coveting unless the law had said, You shall not covet."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eidololatria",
+    "transliteration": "eidōlolatría",
+    "original": "εἰδωλολατρία",
+    "pronunciation": "eye-do-lo-lat-REE-ah",
+    "gloss": "idolatry",
+    "notes": "Idol worship (eidōlon \"idol\" plus latreia \"service\"). In 5:20 it is in the list of the works of the flesh. In 1 Corinthians 10:14 Paul tells believers to \"flee from idolatry.\"",
+    "range": [
+      {
+        "sense": "Idol worship",
+        "note": "Serving false gods."
+      },
+      {
+        "sense": "Idolatry",
+        "note": "Giving to something what belongs to God."
+      }
+    ],
+    "translations": [
+      "idolatry"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 10:14",
+        "note": "Flee from idolatry."
+      },
+      {
+        "ref": "Colossians 3:5",
+        "note": "Covetousness, which is idolatry."
+      },
+      {
+        "ref": "1 Peter 4:3",
+        "note": "Abominable idolatries."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pharmakeia",
+    "transliteration": "pharmakeía",
+    "original": "φαρμακεία",
+    "pronunciation": "far-mak-I-ah",
+    "gloss": "sorcery, drugs",
+    "notes": "Use of drugs, potions, or magic, from which we get \"pharmacy.\" In 5:20 it is in the list of the works of the flesh, and in Revelation it is linked to those excluded from the new Jerusalem.",
+    "range": [
+      {
+        "sense": "Sorcery",
+        "note": "Magic arts."
+      },
+      {
+        "sense": "Drug use",
+        "note": "Use of potions."
+      }
+    ],
+    "translations": [
+      "sorcery",
+      "witchcraft"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Revelation 18:23",
+        "note": "With your sorcery all the nations were deceived."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "echthra",
+    "transliteration": "échthra",
+    "original": "ἔχθρα",
+    "pronunciation": "EKH-thrah",
+    "gloss": "hostility, enmity",
+    "notes": "Hatred, enmity, being on opposite sides. In 5:20 it is a work of the flesh. In Ephesians 2:14-16, Christ destroys the \"enmity\" between Jew and Gentile.",
+    "range": [
+      {
+        "sense": "Enmity",
+        "note": "Hostility."
+      },
+      {
+        "sense": "Hatred",
+        "note": "Active ill will."
+      }
+    ],
+    "translations": [
+      "enmity",
+      "hatred",
+      "hostility"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:7",
+        "note": "The mind of the flesh is hostile toward God."
+      },
+      {
+        "ref": "Ephesians 2:16",
+        "note": "Having killed the hostility through the cross."
+      },
+      {
+        "ref": "James 4:4",
+        "note": "Friendship with the world is hostility toward God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dichostasia",
+    "transliteration": "dichostasía",
+    "original": "διχοστασία",
+    "pronunciation": "dee-khos-tas-EE-ah",
+    "gloss": "division, dissension",
+    "notes": "A standing apart (dicha \"in two\" plus stasis \"standing\"), division within a group. In 5:20 it is a work of the flesh, and in Romans 16:17 Paul warns about those who cause divisions.",
+    "range": [
+      {
+        "sense": "Division",
+        "note": "A split."
+      },
+      {
+        "sense": "Dissension",
+        "note": "Disagreement that separates."
+      }
+    ],
+    "translations": [
+      "divisions",
+      "dissensions"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 16:17",
+        "note": "Look out for those who are causing the divisions."
+      },
+      {
+        "ref": "1 Corinthians 3:3",
+        "note": "Jealousy and strife and divisions among you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phthonos",
+    "transliteration": "phthónos",
+    "original": "φθόνος",
+    "pronunciation": "FTHON-os",
+    "gloss": "envy",
+    "notes": "Resentment at another's good fortune. In 5:21 it is a work of the flesh, and in Philippians 1:15 some preach Christ out of envy.",
+    "range": [
+      {
+        "sense": "Envy",
+        "note": "Resentment of another's gain."
+      },
+      {
+        "sense": "Jealousy",
+        "note": "Bitterness at another's success."
+      }
+    ],
+    "translations": [
+      "envy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:18",
+        "note": "He knew that because of envy they had delivered him up."
+      },
+      {
+        "ref": "Romans 1:29",
+        "note": "Full of envy."
+      },
+      {
+        "ref": "Titus 3:3",
+        "note": "Living in malice and envy."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "komos",
+    "transliteration": "kômos",
+    "original": "κῶμος",
+    "pronunciation": "KO-mos",
+    "gloss": "carousing, wild partying",
+    "notes": "A noisy, drunken party with revelry. In 5:21 it is a work of the flesh, and in Romans 13:13 Paul says to walk honorably, not \"in carousing and drunkenness.\"",
+    "range": [
+      {
+        "sense": "Carousing",
+        "note": "Wild partying."
+      },
+      {
+        "sense": "Revelry",
+        "note": "Noisy celebration."
+      }
+    ],
+    "translations": [
+      "carousing",
+      "orgies",
+      "reveling"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 13:13",
+        "note": "Not in carousing and drunkenness."
+      },
+      {
+        "ref": "1 Peter 4:3",
+        "note": "Carousing, drinking parties."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "makrothymia",
+    "transliteration": "makrothymía",
+    "original": "μακροθυμία",
+    "pronunciation": "mak-roth-oo-MEE-ah",
+    "gloss": "patience, long-suffering",
+    "notes": "Patience with people, a long fuse (the noun form of makrothymeō). In 5:22 it is part of the fruit of the Spirit, and Paul says that God shows it toward sinners (Romans 2:4).",
+    "range": [
+      {
+        "sense": "Patience",
+        "note": "Slowness to anger."
+      },
+      {
+        "sense": "Long-suffering",
+        "note": "Enduring wrong."
+      }
+    ],
+    "translations": [
+      "patience",
+      "longsuffering"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 2:4",
+        "note": "The riches of his kindness and patience."
+      },
+      {
+        "ref": "Colossians 3:12",
+        "note": "Humility, gentleness, patience."
+      },
+      {
+        "ref": "2 Timothy 4:2",
+        "note": "With all patience and teaching."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agathosyne",
+    "transliteration": "agathōsýnē",
+    "original": "ἀγαθωσύνη",
+    "pronunciation": "ag-ath-o-SOO-nay",
+    "gloss": "goodness",
+    "notes": "A quality of moral goodness, benevolence in action. In 5:22 it is part of the fruit of the Spirit, and in Romans 15:14 Paul says the Roman believers are \"full of goodness.\"",
+    "range": [
+      {
+        "sense": "Goodness",
+        "note": "Moral excellence."
+      },
+      {
+        "sense": "Generosity",
+        "note": "Doing good to others."
+      }
+    ],
+    "translations": [
+      "goodness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:14",
+        "note": "You yourselves also are full of goodness."
+      },
+      {
+        "ref": "Ephesians 5:9",
+        "note": "The fruit of the light is in all goodness."
+      },
+      {
+        "ref": "2 Thessalonians 1:11",
+        "note": "Every desire of goodness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stoicheo",
+    "transliteration": "stoichéō",
+    "original": "στοιχέω",
+    "pronunciation": "stoy-KHEH-o",
+    "gloss": "to walk in line, to follow",
+    "notes": "To stand in a row, to march in line, and so to conduct oneself according to a rule. In 5:25 Paul says, \"if we live by the Spirit, let's also keep in step with the Spirit,\" and in 6:16, \"as many as walk by this rule.\"",
+    "range": [
+      {
+        "sense": "Walk in line",
+        "note": "March in order."
+      },
+      {
+        "sense": "Follow",
+        "note": "Conduct oneself by a rule."
+      }
+    ],
+    "translations": [
+      "walk",
+      "keep in step",
+      "follow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 21:24",
+        "note": "You yourself also walk keeping the law."
+      },
+      {
+        "ref": "Romans 4:12",
+        "note": "Walk in the steps of the faith of our father Abraham."
+      },
+      {
+        "ref": "Philippians 3:16",
+        "note": "Let's walk by the same rule."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kenodoxos",
+    "transliteration": "kenódoxos",
+    "original": "κενόδοξος",
+    "pronunciation": "ken-OD-ox-os",
+    "gloss": "conceited, vainglorious",
+    "notes": "Having an empty (kenos) opinion of oneself, wanting glory (doxa) for nothing. In 5:26, \"let's not become conceited, provoking one another, envying one another.\" It appears only here.",
+    "range": [
+      {
+        "sense": "Conceited",
+        "note": "Having an inflated self-image."
+      },
+      {
+        "sense": "Vain",
+        "note": "Empty of real worth."
+      }
+    ],
+    "translations": [
+      "conceited",
+      "boastful"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:26",
+        "note": "Let's not become conceited, provoking one another."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prokaleo",
+    "transliteration": "prokaléō",
+    "original": "προκαλέω",
+    "pronunciation": "prok-al-EH-o",
+    "gloss": "to provoke, to challenge",
+    "notes": "To call out, challenge, or provoke to a contest. In 5:26 Paul warns against \"provoking one another\" in a church competing for status. It appears only here.",
+    "range": [
+      {
+        "sense": "Provoke",
+        "note": "Challenge to a contest."
+      },
+      {
+        "sense": "Challenge",
+        "note": "Call out."
+      }
+    ],
+    "translations": [
+      "provoke",
+      "challenge"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:26",
+        "note": "Provoking one another, envying one another."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phthoneo",
+    "transliteration": "phthonéō",
+    "original": "φθονέω",
+    "pronunciation": "fthon-EH-o",
+    "gloss": "to envy",
+    "notes": "To envy, to feel resentment at another's blessing. In 5:26, \"envying one another,\" the verb form of phthonos. It appears only here.",
+    "range": [
+      {
+        "sense": "Envy",
+        "note": "Resent another's good."
+      },
+      {
+        "sense": "Be jealous",
+        "note": "Begrudge."
+      }
+    ],
+    "translations": [
+      "envy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:26",
+        "note": "Envying one another."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paraptoma",
+    "transliteration": "paráptōma",
+    "original": "παράπτωμα",
+    "pronunciation": "par-AP-to-mah",
+    "gloss": "trespass, false step",
+    "notes": "A fall to the side, a slip or wrongdoing (para \"beside\" plus piptō \"to fall\"). In 6:1, \"if a man is caught in some wrongdoing.\" In Romans 5 Paul uses it for Adam's trespass.",
+    "range": [
+      {
+        "sense": "Trespass",
+        "note": "A step outside the line."
+      },
+      {
+        "sense": "Wrongdoing",
+        "note": "A fault."
+      }
+    ],
+    "translations": [
+      "trespass",
+      "wrongdoing",
+      "offense"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:14",
+        "note": "If you forgive men their trespasses."
+      },
+      {
+        "ref": "Romans 5:15",
+        "note": "The free gift is not like the trespass."
+      },
+      {
+        "ref": "Ephesians 2:1",
+        "note": "Dead through your trespasses and sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baros",
+    "transliteration": "báros",
+    "original": "βάρος",
+    "pronunciation": "BAR-os",
+    "gloss": "burden, weight",
+    "notes": "A heavy weight, a burden. In 6:2, \"bear one another's burdens.\" It is the same word Paul uses of the \"weight of glory\" in 2 Corinthians 4:17, and of the burden of apostolic authority in 1 Thessalonians 2:6.",
+    "range": [
+      {
+        "sense": "Weight",
+        "note": "Heaviness."
+      },
+      {
+        "sense": "Burden",
+        "note": "A load to carry."
+      }
+    ],
+    "translations": [
+      "burden",
+      "weight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:12",
+        "note": "We have borne the burden of the day."
+      },
+      {
+        "ref": "Acts 15:28",
+        "note": "To lay no greater burden on you."
+      },
+      {
+        "ref": "Revelation 2:24",
+        "note": "I put no other burden on you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phortion",
+    "transliteration": "phortíon",
+    "original": "φορτίον",
+    "pronunciation": "for-TEE-on",
+    "gloss": "load, pack",
+    "notes": "A load that someone carries, like a soldier's pack. In 6:5, \"each one will bear his own load.\" Jesus uses the same word for his burden, which is \"light\" (Matthew 11:30).",
+    "range": [
+      {
+        "sense": "Load",
+        "note": "Something one carries."
+      },
+      {
+        "sense": "Pack",
+        "note": "A traveler's equipment."
+      }
+    ],
+    "translations": [
+      "load",
+      "burden"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:30",
+        "note": "My burden is light."
+      },
+      {
+        "ref": "Matthew 23:4",
+        "note": "They bind heavy burdens."
+      },
+      {
+        "ref": "Luke 11:46",
+        "note": "You load men with burdens difficult to carry."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anapleroo",
+    "transliteration": "anaplēróō",
+    "original": "ἀναπληρόω",
+    "pronunciation": "an-ap-lay-RO-oh",
+    "gloss": "to fulfill, to fill up",
+    "notes": "To fill up completely, to fulfill. In 6:2, \"bear one another's burdens, and so you will fulfill the law of Christ.\" In 1 Thessalonians 2:16 it is used of filling up sin to its limit.",
+    "range": [
+      {
+        "sense": "Fulfill",
+        "note": "Complete."
+      },
+      {
+        "sense": "Fill up",
+        "note": "Bring to the full."
+      }
+    ],
+    "translations": [
+      "fulfill",
+      "fill up"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:14",
+        "note": "In them the prophecy of Isaiah is fulfilled."
+      },
+      {
+        "ref": "1 Corinthians 14:16",
+        "note": "The one who fills the place of the unlearned."
+      },
+      {
+        "ref": "Philippians 2:30",
+        "note": "To supply what was lacking."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phrenapatao",
+    "transliteration": "phrenapatáō",
+    "original": "φρεναπατάω",
+    "pronunciation": "fren-ap-at-AH-o",
+    "gloss": "to deceive oneself",
+    "notes": "To deceive the mind (phrēn \"mind\" plus apataō \"to deceive\"). In 6:3, \"if anyone thinks himself to be something when he is nothing, he deceives himself.\" It appears only here.",
+    "range": [
+      {
+        "sense": "Deceive oneself",
+        "note": "Fool one's own mind."
+      },
+      {
+        "sense": "Mislead",
+        "note": "Lead astray."
+      }
+    ],
+    "translations": [
+      "deceive"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 6:3",
+        "note": "He deceives himself."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ergazomai",
+    "transliteration": "ergázomai",
+    "original": "ἐργάζομαι",
+    "pronunciation": "er-GAD-zo-my",
+    "gloss": "to work, to do",
+    "notes": "To work, do, or perform. In 6:10, \"as we have opportunity, let's do what is good toward all,\" which sums up the practical teaching of the letter.",
+    "range": [
+      {
+        "sense": "Work",
+        "note": "Labor."
+      },
+      {
+        "sense": "Do",
+        "note": "Carry out."
+      }
+    ],
+    "translations": [
+      "do",
+      "work"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:28",
+        "note": "Son, go work today in the vineyard."
+      },
+      {
+        "ref": "John 6:28",
+        "note": "What must we do?"
+      },
+      {
+        "ref": "Ephesians 4:28",
+        "note": "Rather let him labor, working with his hands."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikeios",
+    "transliteration": "oikeîos",
+    "original": "οἰκεῖος",
+    "pronunciation": "oy-KAY-os",
+    "gloss": "member of the household",
+    "notes": "Belonging to a house or household, a relative. In 6:10, Paul speaks of \"the household of faith,\" the family of believers. It is also used in Ephesians 2:19 (\"members of God's household\") and 1 Timothy 5:8.",
+    "range": [
+      {
+        "sense": "Of the household",
+        "note": "Family."
+      },
+      {
+        "sense": "Relative",
+        "note": "A close family member."
+      }
+    ],
+    "translations": [
+      "household",
+      "family"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Ephesians 2:19",
+        "note": "You are fellow citizens with the saints, and of the household of God."
+      },
+      {
+        "ref": "1 Timothy 5:8",
+        "note": "If anyone doesn't provide for his own, specially his own household."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euprosopeo",
+    "transliteration": "euprosōpéō",
+    "original": "εὐπροσωπέω",
+    "pronunciation": "yoo-pros-o-PEH-o",
+    "gloss": "to make a good showing",
+    "notes": "To make a fine appearance (eu \"good\" plus prosōpon \"face\"). In 6:12, \"those who desire to make a good impression in the flesh\" try to force circumcision. It appears only here.",
+    "range": [
+      {
+        "sense": "Make a good showing",
+        "note": "Appear well."
+      },
+      {
+        "sense": "Put on a good face",
+        "note": "Look impressive."
+      }
+    ],
+    "translations": [
+      "make a good showing",
+      "look good"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 6:12",
+        "note": "As many as desire to make a good impression in the flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stigma",
+    "transliteration": "stígma",
+    "original": "στίγμα",
+    "pronunciation": "STIG-mah",
+    "gloss": "mark, brand",
+    "notes": "A mark made on the body, such as a brand on a slave or an animal, or a scar. In 6:17, \"I bear on my body the marks of Jesus,\" probably the scars from beatings and stoning (2 Corinthians 11:23-25), showing he belongs to Christ.",
+    "range": [
+      {
+        "sense": "Brand",
+        "note": "A mark of ownership."
+      },
+      {
+        "sense": "Scar",
+        "note": "The mark of a wound."
+      }
+    ],
+    "translations": [
+      "marks",
+      "brand"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 6:17",
+        "note": "I bear in my body the marks of Jesus."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zygos",
+    "transliteration": "zygos",
+    "original": "ζυγός",
+    "pronunciation": "zoo-GOSS",
+    "gloss": "yoke",
+    "notes": "A yoke, used of a burden of service. \"Don't be entangled again with a yoke of bondage\" (5:1); Jesus said his yoke is easy (Matthew 11:30).",
+    "range": [
+      {
+        "sense": "Yoke",
+        "note": "The frame joining working animals."
+      },
+      {
+        "sense": "Burden or rule",
+        "note": "Obligations someone places on you, like slavery or a law."
+      },
+      {
+        "sense": "Scales",
+        "note": "A balance for weighing."
+      }
+    ],
+    "translations": [
+      "yoke"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:29",
+        "note": "Take my yoke upon you."
+      },
+      {
+        "ref": "Galatians 5:1",
+        "note": "Do not submit again to a yoke of slavery."
+      },
+      {
+        "ref": "1 Timothy 6:1",
+        "note": "Those who are under a yoke as bondservants."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katargeo",
+    "transliteration": "katargéō",
+    "original": "καταργέω",
+    "pronunciation": "kat-ar-GEH-oh",
+    "gloss": "to abolish, to bring to nothing",
+    "notes": "To bring to nothing. \"You are alienated from Christ\" (5:4) and \"then the stumbling block of the cross has been abolished\" (5:11).",
+    "range": [
+      {
+        "sense": "Abolish",
+        "note": "Bring to an end."
+      },
+      {
+        "sense": "Render powerless",
+        "note": "Take away force."
+      }
+    ],
+    "translations": [
+      "abolish",
+      "destroy",
+      "bring to nothing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 3:31",
+        "note": "Do we then nullify the law through faith?"
+      },
+      {
+        "ref": "2 Timothy 1:10",
+        "note": "Our Savior Christ Jesus, who abolished death."
+      },
+      {
+        "ref": "Hebrews 2:14",
+        "note": "That through death he might destroy him who had the power of death."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "energeo",
+    "transliteration": "energéō",
+    "original": "ἐνεργέω",
+    "pronunciation": "en-er-GEH-oh",
+    "gloss": "to work, to be at work",
+    "notes": "To work, to be at work. \"Faith working through love\" (5:6).",
+    "range": [
+      {
+        "sense": "Work",
+        "note": "Put forth effort."
+      },
+      {
+        "sense": "Be effective",
+        "note": "Bring results."
+      }
+    ],
+    "translations": [
+      "work",
+      "be at work",
+      "produce"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 3:5",
+        "note": "He who supplies the Spirit and works miracles among you."
+      },
+      {
+        "ref": "Philippians 2:13",
+        "note": "It is God who works in you."
+      },
+      {
+        "ref": "Ephesians 1:11",
+        "note": "Him who works all things after the counsel of his will."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agape",
+    "transliteration": "agapē",
+    "original": "ἀγάπη",
+    "pronunciation": "ag-AH-pay",
+    "gloss": "love",
+    "notes": "Love. \"Faith working through love\" (5:6), \"through love be servants\" (5:13), \"you shall love your neighbor\" (5:14), and the first fruit of the Spirit (5:22).",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Self-giving goodwill."
+      },
+      {
+        "sense": "Charity",
+        "note": "Love in action."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 15:9",
+        "note": "As the Father has loved me, so have I loved you."
+      },
+      {
+        "ref": "1 Corinthians 13:13",
+        "note": "Faith, hope, and love abide, but the greatest of these is love."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love."
+      },
+      {
+        "ref": "1 John 4:8",
+        "note": "God is love."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zyme",
+    "transliteration": "zýmē",
+    "original": "ζύμη",
+    "pronunciation": "ZOO-may",
+    "gloss": "yeast, leaven",
+    "notes": "Yeast. \"A little yeast leavens the whole lump\" (5:9), a warning about the agitators' influence.",
+    "range": [
+      {
+        "sense": "Yeast",
+        "note": "Fermenting dough."
+      },
+      {
+        "sense": "Corrupting influence",
+        "note": "Something that spreads."
+      }
+    ],
+    "translations": [
+      "yeast",
+      "leaven"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:6",
+        "note": "Beware of the yeast of the Pharisees."
+      },
+      {
+        "ref": "Luke 13:21",
+        "note": "The kingdom is like yeast a woman hid in flour."
+      },
+      {
+        "ref": "Galatians 5:9",
+        "note": "A little yeast leavens the whole lump."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skandalon",
+    "transliteration": "skandalon",
+    "original": "σκάνδαλον",
+    "pronunciation": "SKAN-dah-lon",
+    "gloss": "stumbling block, trap",
+    "notes": "A stumbling block. \"The stumbling block of the cross\" (5:11).",
+    "range": [
+      {
+        "sense": "Trap trigger",
+        "note": "The part of a trap that snaps shut."
+      },
+      {
+        "sense": "Stumbling block",
+        "note": "Something that makes a person fall."
+      },
+      {
+        "sense": "Offense",
+        "note": "A cause of taking offense."
+      }
+    ],
+    "translations": [
+      "stumbling block",
+      "offense",
+      "hindrance",
+      "trap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 9:33",
+        "note": "I lay in Zion a stumbling stone."
+      },
+      {
+        "ref": "Galatians 5:11",
+        "note": "Then the offense of the cross has been removed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epithymia",
+    "transliteration": "epithymia",
+    "original": "ἐπιθυμία",
+    "pronunciation": "ep-ee-thoo-MEE-ah",
+    "gloss": "desire, craving, lust",
+    "notes": "Desire, lust. \"You won't fulfill the lust of the flesh\" (5:16) and those who belong to Christ \"have crucified the flesh with its passions and lusts\" (5:24).",
+    "range": [
+      {
+        "sense": "Desire",
+        "note": "A strong longing."
+      },
+      {
+        "sense": "Covetousness",
+        "note": "Wanting what is not yours."
+      },
+      {
+        "sense": "Lust",
+        "note": "Craving."
+      }
+    ],
+    "translations": [
+      "desire",
+      "coveting",
+      "lust",
+      "craving"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 4:19",
+        "note": "The desires for other things enter in."
+      },
+      {
+        "ref": "Luke 22:15",
+        "note": "I have earnestly desired to eat this Passover with you."
+      },
+      {
+        "ref": "Galatians 5:16",
+        "note": "You will not gratify the desires of the flesh."
+      },
+      {
+        "ref": "1 Peter 1:14",
+        "note": "Not conforming to the passions of your former ignorance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "porneia",
+    "transliteration": "porneia",
+    "original": "πορνεία",
+    "pronunciation": "por-NAY-ah",
+    "gloss": "sexual immorality",
+    "notes": "Sexual immorality. The first of the works of the flesh (5:19).",
+    "uncertain": "Exactly what porneia covers in Jesus' exception (adultery, an unlawful marriage, or sexual sin more broadly) is debated, as is how the clause relates to Mark and Luke, which don't have it.",
+    "range": [
+      {
+        "sense": "Sexual immorality",
+        "note": "Sexual sin of any kind."
+      },
+      {
+        "sense": "Prostitution",
+        "note": "The earliest sense, from the word for a prostitute."
+      },
+      {
+        "sense": "Unlawful marriage",
+        "note": "As in Leviticus 18, which Acts 15 echoes."
+      }
+    ],
+    "translations": [
+      "sexual immorality",
+      "unchastity",
+      "fornication",
+      "marital unfaithfulness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:19",
+        "note": "From the heart come sexual immorality."
+      },
+      {
+        "ref": "Acts 15:20",
+        "note": "Abstain from sexual immorality."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "akatharsia",
+    "transliteration": "akatharsía",
+    "original": "ἀκαθαρσία",
+    "pronunciation": "ak-ath-ar-SEE-ah",
+    "gloss": "impurity, uncleanness",
+    "notes": "Impurity. \"Uncleanness\" (5:19).",
+    "range": [
+      {
+        "sense": "Impurity",
+        "note": "Moral uncleanness."
+      },
+      {
+        "sense": "Uncleanness",
+        "note": "Ritual or moral impurity."
+      }
+    ],
+    "translations": [
+      "impurity",
+      "uncleanness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:24",
+        "note": "God gave them up in the lusts of their hearts to uncleanness."
+      },
+      {
+        "ref": "Galatians 5:19",
+        "note": "Sexual immorality, uncleanness, lustfulness."
+      },
+      {
+        "ref": "1 Thessalonians 4:7",
+        "note": "God did not call us to uncleanness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aselgeia",
+    "transliteration": "asélgeia",
+    "original": "ἀσέλγεια",
+    "pronunciation": "as-EL-gi-ah",
+    "gloss": "sensuality, lack of restraint",
+    "notes": "Sensuality. \"Lustfulness\" (5:19).",
+    "range": [
+      {
+        "sense": "Sensuality",
+        "note": "Unrestrained indulgence."
+      },
+      {
+        "sense": "Licentiousness",
+        "note": "Lack of restraint."
+      }
+    ],
+    "translations": [
+      "sensuality",
+      "licentiousness",
+      "debauchery"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 13:13",
+        "note": "Not in reveling and drunkenness, not in sexual promiscuity and sensuality."
+      },
+      {
+        "ref": "Galatians 5:19",
+        "note": "Sexual immorality, uncleanness, lustfulness."
+      },
+      {
+        "ref": "1 Peter 4:3",
+        "note": "Living in sensuality."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eris",
+    "transliteration": "éris",
+    "original": "ἔρις",
+    "pronunciation": "ER-is",
+    "gloss": "strife, quarreling",
+    "notes": "Strife. \"Strife\" (5:20), one of the works of the flesh.",
+    "range": [
+      {
+        "sense": "Strife",
+        "note": "Open conflict."
+      },
+      {
+        "sense": "Quarrel",
+        "note": "A heated argument."
+      }
+    ],
+    "translations": [
+      "strife",
+      "quarrels",
+      "contention"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 1:29",
+        "note": "Full of envy, murder, strife, deceit."
+      },
+      {
+        "ref": "Galatians 5:20",
+        "note": "Strife, jealousy, outbursts of anger."
+      },
+      {
+        "ref": "Philippians 1:15",
+        "note": "Some preach Christ even from envy and strife."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zelos",
+    "transliteration": "zēlos",
+    "original": "ζῆλος",
+    "pronunciation": "DZAY-los",
+    "gloss": "zeal, jealousy",
+    "notes": "Jealousy. \"Jealousy\" (5:20).",
+    "range": [
+      {
+        "sense": "Zeal",
+        "note": "Passionate devotion."
+      },
+      {
+        "sense": "Jealousy",
+        "note": "Envy."
+      }
+    ],
+    "translations": [
+      "zeal",
+      "jealousy",
+      "envy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 2:17",
+        "note": "Zeal for your house will consume me."
+      },
+      {
+        "ref": "Acts 5:17",
+        "note": "Filled with jealousy."
+      },
+      {
+        "ref": "2 Corinthians 7:7",
+        "note": "Your zeal for me."
+      },
+      {
+        "ref": "Philippians 3:6",
+        "note": "As to zeal, a persecutor of the church."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thymos",
+    "transliteration": "thymós",
+    "original": "θυμός",
+    "pronunciation": "thoo-MOS",
+    "gloss": "anger, passion",
+    "notes": "Anger, passion. \"Outbursts of anger\" (5:20).",
+    "range": [
+      {
+        "sense": "Rage",
+        "note": "A sudden burst of anger."
+      },
+      {
+        "sense": "Passion",
+        "note": "Strong feeling."
+      }
+    ],
+    "translations": [
+      "anger",
+      "wrath",
+      "outbursts of anger"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 4:28",
+        "note": "All were filled with anger in the synagogue."
+      },
+      {
+        "ref": "Colossians 3:8",
+        "note": "Anger, wrath, malice."
+      },
+      {
+        "ref": "Revelation 14:10",
+        "note": "The wine of the wrath of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eritheia",
+    "transliteration": "eritheía",
+    "original": "ἐριθεία",
+    "pronunciation": "er-ith-I-ah",
+    "gloss": "selfish ambition, rivalry",
+    "notes": "Selfish ambition, rivalry. \"Rivalries\" (5:20).",
+    "range": [
+      {
+        "sense": "Selfish ambition",
+        "note": "Self-seeking."
+      },
+      {
+        "sense": "Rivalry",
+        "note": "Competition for position."
+      }
+    ],
+    "translations": [
+      "rivalries",
+      "selfish ambition",
+      "factions"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 2:8",
+        "note": "To those who are self-seeking."
+      },
+      {
+        "ref": "Galatians 5:20",
+        "note": "Strife, jealousy, outbursts of anger, rivalries."
+      },
+      {
+        "ref": "Philippians 2:3",
+        "note": "Do nothing from selfishness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hairesis",
+    "transliteration": "hairesis",
+    "original": "αἵρεσις",
+    "pronunciation": "HAI-reh-sis",
+    "gloss": "sect, party, choice",
+    "notes": "A party, faction. \"Factions\" (5:20).",
+    "range": [
+      {
+        "sense": "Sect",
+        "note": "A party or school."
+      },
+      {
+        "sense": "Heresy",
+        "note": "A divisive teaching."
+      },
+      {
+        "sense": "Choice",
+        "note": "Preference."
+      }
+    ],
+    "translations": [
+      "sect",
+      "party",
+      "heresy"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 11:19",
+        "note": "There must be factions among you."
+      },
+      {
+        "ref": "Galatians 5:20",
+        "note": "Fits of anger, rivalries, dissensions, divisions."
+      },
+      {
+        "ref": "2 Peter 2:1",
+        "note": "False teachers who will secretly bring in destructive heresies."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "karpos",
+    "transliteration": "karpos",
+    "original": "καρπός",
+    "pronunciation": "kar-POS",
+    "gloss": "fruit",
+    "notes": "Fruit. \"The fruit of the Spirit is love, joy, peace...\" (5:22).",
+    "range": [
+      {
+        "sense": "Fruit",
+        "note": "What a plant produces."
+      },
+      {
+        "sense": "Result",
+        "note": "What a life produces."
+      }
+    ],
+    "translations": [
+      "fruit",
+      "offspring",
+      "result"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:16",
+        "note": "You will know them by their fruits."
+      },
+      {
+        "ref": "Luke 3:8",
+        "note": "Produce fruits worthy of repentance."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit."
+      },
+      {
+        "ref": "James 3:17",
+        "note": "Wisdom from above is full of good fruits."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "chara",
+    "transliteration": "chara",
+    "original": "χαρά",
+    "pronunciation": "kha-RAH",
+    "gloss": "joy",
+    "notes": "Joy. \"Joy,\" part of the fruit of the Spirit (5:22).",
+    "range": [
+      {
+        "sense": "Joy",
+        "note": "Deep gladness."
+      },
+      {
+        "sense": "Delight",
+        "note": "Pleasure."
+      }
+    ],
+    "translations": [
+      "joy",
+      "gladness",
+      "delight"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 2:10",
+        "note": "They rejoiced with exceedingly great joy."
+      },
+      {
+        "ref": "Luke 15:7",
+        "note": "Joy in heaven over one sinner who repents."
+      },
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love, joy, peace."
+      },
+      {
+        "ref": "Hebrews 12:2",
+        "note": "For the joy set before him he endured the cross."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "chrestotes",
+    "transliteration": "chrēstotēs",
+    "original": "χρηστότης",
+    "pronunciation": "khrace-TOT-ace",
+    "gloss": "kindness, goodness",
+    "notes": "Kindness. \"Kindness,\" part of the fruit (5:22).",
+    "range": [
+      {
+        "sense": "Kindness",
+        "note": "Gracious goodness."
+      },
+      {
+        "sense": "Goodness",
+        "note": "Moral excellence."
+      }
+    ],
+    "translations": [
+      "kindness",
+      "goodness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love, joy, peace, patience, kindness."
+      },
+      {
+        "ref": "Ephesians 2:7",
+        "note": "The immeasurable riches of his grace in kindness toward us."
+      },
+      {
+        "ref": "Colossians 3:12",
+        "note": "Put on compassionate hearts, kindness."
+      },
+      {
+        "ref": "Titus 3:4",
+        "note": "When the goodness and loving kindness of God our Savior appeared."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "enkrateia",
+    "transliteration": "enkrateia",
+    "original": "ἐγκράτεια",
+    "pronunciation": "en-KRAT-ay-ah",
+    "gloss": "self-control",
+    "notes": "Self-control. The last of the fruit of the Spirit (5:23).",
+    "range": [
+      {
+        "sense": "Self-control",
+        "note": "Mastery of the appetites."
+      },
+      {
+        "sense": "Temperance",
+        "note": "Moderation."
+      }
+    ],
+    "translations": [
+      "self-control",
+      "temperance"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:23",
+        "note": "Gentleness, self-control."
+      },
+      {
+        "ref": "2 Peter 1:6",
+        "note": "Knowledge with self-control."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katartizo",
+    "transliteration": "katartízō",
+    "original": "καταρτίζω",
+    "pronunciation": "kat-ar-TID-zo",
+    "gloss": "to restore, to mend, to put in order",
+    "notes": "To restore, to mend. \"Restore such a one in a spirit of gentleness\" (6:1).",
+    "range": [
+      {
+        "sense": "Mend",
+        "note": "Repair."
+      },
+      {
+        "sense": "Restore",
+        "note": "Put right."
+      },
+      {
+        "sense": "Prepare",
+        "note": "Make ready."
+      }
+    ],
+    "translations": [
+      "be restored",
+      "be perfected",
+      "mend"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:21",
+        "note": "Mending their nets."
+      },
+      {
+        "ref": "Galatians 6:1",
+        "note": "Restore such a one in a spirit of gentleness."
+      },
+      {
+        "ref": "1 Peter 5:10",
+        "note": "Will himself perfect, establish, strengthen you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dokimazo",
+    "transliteration": "dokimázō",
+    "original": "δοκιμάζω",
+    "pronunciation": "doh-kee-MAD-zo",
+    "gloss": "to test, to approve",
+    "notes": "To test. \"Let each man test his own work\" (6:4).",
+    "range": [
+      {
+        "sense": "Test",
+        "note": "Try to see if genuine."
+      },
+      {
+        "sense": "Approve",
+        "note": "Accept after testing."
+      }
+    ],
+    "translations": [
+      "test",
+      "examine",
+      "approve"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 12:2",
+        "note": "So that you may prove what is the will of God."
+      },
+      {
+        "ref": "1 Thessalonians 5:21",
+        "note": "Test all things; hold fast to what is good."
+      },
+      {
+        "ref": "1 Peter 1:7",
+        "note": "The testing of your faith, more precious than gold."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "speiro",
+    "transliteration": "speírō",
+    "original": "σπείρω",
+    "pronunciation": "SPY-ro",
+    "gloss": "to sow",
+    "notes": "To sow. \"Whatever a man sows, that he will also reap\" (6:7-8).",
+    "range": [
+      {
+        "sense": "Sow",
+        "note": "Scatter seed."
+      },
+      {
+        "sense": "Give",
+        "note": "Invest freely."
+      }
+    ],
+    "translations": [
+      "sow",
+      "sowing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:3",
+        "note": "A sower went out to sow."
+      },
+      {
+        "ref": "Galatians 6:7",
+        "note": "Whatever a man sows, that he will also reap."
+      },
+      {
+        "ref": "1 Corinthians 9:11",
+        "note": "If we sowed to you spiritual things."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "therizo",
+    "transliteration": "therízō",
+    "original": "θερίζω",
+    "pronunciation": "ther-ID-zo",
+    "gloss": "to reap, to harvest",
+    "notes": "To reap. \"We will reap, if we don't give up\" (6:7-9).",
+    "range": [
+      {
+        "sense": "Reap",
+        "note": "Harvest."
+      },
+      {
+        "sense": "Gather",
+        "note": "Collect results."
+      }
+    ],
+    "translations": [
+      "reap"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:26",
+        "note": "They don't sow, nor reap."
+      },
+      {
+        "ref": "Galatians 6:7",
+        "note": "He will also reap."
+      },
+      {
+        "ref": "John 4:36",
+        "note": "He who reaps receives wages."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phthora",
+    "transliteration": "phthorá",
+    "original": "φθορά",
+    "pronunciation": "fthor-AH",
+    "gloss": "decay, perishability",
+    "notes": "Decay, corruption. \"From the flesh reap corruption\" (6:8).",
+    "range": [
+      {
+        "sense": "Decay",
+        "note": "Rotting away."
+      },
+      {
+        "sense": "Perishable",
+        "note": "What does not last."
+      }
+    ],
+    "translations": [
+      "corruption",
+      "decay",
+      "perishable"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:21",
+        "note": "Delivered from the bondage of corruption."
+      },
+      {
+        "ref": "Galatians 6:8",
+        "note": "He who sows to his own flesh will reap corruption."
+      },
+      {
+        "ref": "2 Peter 1:4",
+        "note": "Having escaped from the corruption that is in the world."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ekkakeo",
+    "transliteration": "enkakéō",
+    "original": "ἐγκακέω",
+    "pronunciation": "eng-kak-EH-oh",
+    "gloss": "to lose heart, to give up",
+    "notes": "To lose heart. \"Let's not be weary in doing good\" (6:9).",
+    "range": [
+      {
+        "sense": "Lose heart",
+        "note": "Give up."
+      },
+      {
+        "sense": "Grow weary",
+        "note": "Become tired of doing good."
+      }
+    ],
+    "translations": [
+      "lose heart",
+      "faint",
+      "give up"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 18:1",
+        "note": "Always to pray and not to give up."
+      },
+      {
+        "ref": "Galatians 6:9",
+        "note": "Let's not be weary in doing good."
+      },
+      {
+        "ref": "Ephesians 3:13",
+        "note": "I ask that you do not lose heart at my afflictions."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kosmos",
+    "transliteration": "kosmos",
+    "original": "κόσμος",
+    "pronunciation": "KOS-mos",
+    "gloss": "world, order",
+    "notes": "The world. \"The world has been crucified to me, and I to the world\" (6:14).",
+    "range": [
+      {
+        "sense": "World",
+        "note": "The created universe."
+      },
+      {
+        "sense": "Humanity",
+        "note": "The human world."
+      },
+      {
+        "sense": "The world system",
+        "note": "Human society opposed to God."
+      }
+    ],
+    "translations": [
+      "world",
+      "universe",
+      "humanity"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 3:16",
+        "note": "God so loved the world."
+      },
+      {
+        "ref": "John 1:10",
+        "note": "He was in the world, and the world was made through him."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kainos",
+    "transliteration": "kainos",
+    "original": "καινός",
+    "pronunciation": "kai-NOS",
+    "gloss": "new",
+    "notes": "New. \"A new creation\" (6:15).",
+    "range": [
+      {
+        "sense": "New",
+        "note": "Fresh and different."
+      },
+      {
+        "sense": "Renewed",
+        "note": "Made new."
+      }
+    ],
+    "translations": [
+      "new"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:29",
+        "note": "I will drink it new with you in my Father's kingdom."
+      },
+      {
+        "ref": "Luke 22:20",
+        "note": "The new covenant in my blood."
+      },
+      {
+        "ref": "2 Corinthians 5:17",
+        "note": "If anyone is in Christ, he is a new creation."
+      },
+      {
+        "ref": "Revelation 21:1",
+        "note": "A new heaven and a new earth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ktisis",
+    "transliteration": "ktísis",
+    "original": "κτίσις",
+    "pronunciation": "KTEE-sis",
+    "gloss": "creation, created thing",
+    "notes": "Creation. \"A new creation\" (6:15).",
+    "range": [
+      {
+        "sense": "Creation",
+        "note": "The created world."
+      },
+      {
+        "sense": "Creature",
+        "note": "One created."
+      }
+    ],
+    "translations": [
+      "creation",
+      "creature"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:19",
+        "note": "The creation waits for the revealing of the children of God."
+      },
+      {
+        "ref": "Galatians 6:15",
+        "note": "A new creation."
+      },
+      {
+        "ref": "Colossians 1:15",
+        "note": "The firstborn of all creation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kanon",
+    "transliteration": "kanṓn",
+    "original": "κανών",
+    "pronunciation": "kan-OWN",
+    "gloss": "measuring rod, limit, sphere",
+    "notes": "A rule, a standard. \"As many as walk by this rule\" (6:16).",
+    "range": [
+      {
+        "sense": "Measuring rod",
+        "note": "A ruler."
+      },
+      {
+        "sense": "Rule",
+        "note": "A standard."
+      },
+      {
+        "sense": "Sphere",
+        "note": "An assigned area."
+      }
+    ],
+    "translations": [
+      "field",
+      "sphere",
+      "limit",
+      "rule"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 6:16",
+        "note": "As many as walk by this rule, peace be on them."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eleos",
+    "transliteration": "eleos",
+    "original": "ἔλεος",
+    "pronunciation": "EL-eh-oss",
+    "gloss": "mercy",
+    "notes": "Mercy. \"Peace and mercy be on them\" (6:16).",
+    "range": [
+      {
+        "sense": "Pity",
+        "note": "Feeling for someone in trouble."
+      },
+      {
+        "sense": "Kindness shown",
+        "note": "Acting to help the one in need."
+      },
+      {
+        "sense": "God's mercy",
+        "note": "God's faithful kindness to his people."
+      }
+    ],
+    "translations": [
+      "mercy",
+      "compassion",
+      "kindness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:7",
+        "note": "Jesus quotes Hosea 6:6 again."
+      },
+      {
+        "ref": "Matthew 23:23",
+        "note": "Justice, mercy, and faithfulness."
+      },
+      {
+        "ref": "Luke 1:50",
+        "note": "Mary: his mercy for those who fear him."
+      },
+      {
+        "ref": "James 2:13",
+        "note": "Mercy triumphs over judgment."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauros",
+    "transliteration": "stauros",
+    "original": "σταυρός",
+    "pronunciation": "stow-ROSS",
+    "gloss": "cross",
+    "notes": "The cross. \"The offense of the cross\" (5:11; 6:12), and \"far be it from me to boast, except in the cross of our Lord Jesus Christ\" (6:14).",
+    "range": [
+      {
+        "sense": "Stake or cross",
+        "note": "The wooden frame used for crucifixion."
+      },
+      {
+        "sense": "Crucifixion",
+        "note": "The execution itself."
+      },
+      {
+        "sense": "The cost of following",
+        "note": "A picture of giving up one's life."
+      }
+    ],
+    "translations": [
+      "cross"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:32",
+        "note": "They compelled Simon to carry his cross."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "note": "Boast only in the cross of our Lord Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

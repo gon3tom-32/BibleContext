@@ -34,7 +34,60 @@
       "mapOnly": true
     }
   ],
-  "people": [],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "barnabas",
+      "theographic": "barnabas_1722"
+    },
+    {
+      "id": "titus",
+      "theographic": "titus_2869"
+    },
+    {
+      "id": "cephas",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "abraham",
+      "theographic": "abraham_58"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "hagar",
+      "theographic": "hagar_1348"
+    },
+    {
+      "id": "sarah",
+      "theographic": "sarah_2473"
+    },
+    {
+      "id": "isaac",
+      "theographic": "isaac_616"
+    },
+    {
+      "id": "ishmael",
+      "theographic": "ishmael_630"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "james-the-lords-brother",
+      "theographic": "james_719"
+    },
+    {
+      "id": "john-the-apostle",
+      "theographic": "john_1677"
+    }
+  ],
   "words": [
     {
       "id": "ioudaismos",
@@ -647,6 +700,391 @@
         "G4561"
       ],
       "foundAt": "Galatians 1:16"
+    },
+    {
+      "id": "ekpipto",
+      "strongs": [
+        "G1601"
+      ],
+      "foundAt": "Galatians 5:4"
+    },
+    {
+      "id": "enkopto",
+      "strongs": [
+        "G1465"
+      ],
+      "foundAt": "Galatians 5:7"
+    },
+    {
+      "id": "epithymeo",
+      "strongs": [
+        "G1937"
+      ],
+      "foundAt": "Galatians 5:17"
+    },
+    {
+      "id": "eidololatria",
+      "strongs": [
+        "G1495"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "pharmakeia",
+      "strongs": [
+        "G5331"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "echthra",
+      "strongs": [
+        "G2189"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "dichostasia",
+      "strongs": [
+        "G1370"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "phthonos",
+      "strongs": [
+        "G5355"
+      ],
+      "foundAt": "Galatians 5:21"
+    },
+    {
+      "id": "komos",
+      "strongs": [
+        "G2970"
+      ],
+      "foundAt": "Galatians 5:21"
+    },
+    {
+      "id": "makrothymia",
+      "strongs": [
+        "G3115"
+      ],
+      "foundAt": "Galatians 5:22"
+    },
+    {
+      "id": "agathosyne",
+      "strongs": [
+        "G0019"
+      ],
+      "foundAt": "Galatians 5:22"
+    },
+    {
+      "id": "stoicheo",
+      "strongs": [
+        "G4748"
+      ],
+      "foundAt": "Galatians 5:25"
+    },
+    {
+      "id": "kenodoxos",
+      "strongs": [
+        "G2755"
+      ],
+      "foundAt": "Galatians 5:26"
+    },
+    {
+      "id": "prokaleo",
+      "strongs": [
+        "G4292"
+      ],
+      "foundAt": "Galatians 5:26"
+    },
+    {
+      "id": "phthoneo",
+      "strongs": [
+        "G5354"
+      ],
+      "foundAt": "Galatians 5:26"
+    },
+    {
+      "id": "paraptoma",
+      "strongs": [
+        "G3900"
+      ],
+      "foundAt": "Galatians 6:1"
+    },
+    {
+      "id": "baros",
+      "strongs": [
+        "G0922"
+      ],
+      "foundAt": "Galatians 6:2"
+    },
+    {
+      "id": "phortion",
+      "strongs": [
+        "G5413"
+      ],
+      "foundAt": "Galatians 6:5"
+    },
+    {
+      "id": "anapleroo",
+      "strongs": [
+        "G0378"
+      ],
+      "foundAt": "Galatians 6:2"
+    },
+    {
+      "id": "phrenapatao",
+      "strongs": [
+        "G5422"
+      ],
+      "foundAt": "Galatians 6:3"
+    },
+    {
+      "id": "ergazomai",
+      "strongs": [
+        "G2038"
+      ],
+      "foundAt": "Galatians 6:10"
+    },
+    {
+      "id": "oikeios",
+      "strongs": [
+        "G3609"
+      ],
+      "foundAt": "Galatians 6:10"
+    },
+    {
+      "id": "euprosopeo",
+      "strongs": [
+        "G2146"
+      ],
+      "foundAt": "Galatians 6:12"
+    },
+    {
+      "id": "stigma",
+      "strongs": [
+        "G4742"
+      ],
+      "foundAt": "Galatians 6:17"
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "foundAt": "Galatians 5:1"
+    },
+    {
+      "id": "katargeo",
+      "strongs": [
+        "G2673"
+      ],
+      "foundAt": "Galatians 3:17"
+    },
+    {
+      "id": "energeo",
+      "strongs": [
+        "G1754"
+      ],
+      "foundAt": "Galatians 2:8"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "Galatians 5:6"
+    },
+    {
+      "id": "zyme",
+      "strongs": [
+        "G2219"
+      ],
+      "foundAt": "Galatians 5:9"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "Galatians 5:11"
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "foundAt": "Galatians 5:16"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "Galatians 5:19"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "Galatians 5:19"
+    },
+    {
+      "id": "aselgeia",
+      "strongs": [
+        "G0766"
+      ],
+      "foundAt": "Galatians 5:19"
+    },
+    {
+      "id": "eris",
+      "strongs": [
+        "G2054"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "thymos",
+      "strongs": [
+        "G2372"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "eritheia",
+      "strongs": [
+        "G2052"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "hairesis",
+      "strongs": [
+        "G0139"
+      ],
+      "foundAt": "Galatians 5:20"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "Galatians 5:22"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "Galatians 5:22"
+    },
+    {
+      "id": "chrestotes",
+      "strongs": [
+        "G5544"
+      ],
+      "foundAt": "Galatians 5:22"
+    },
+    {
+      "id": "enkrateia",
+      "strongs": [
+        "G1466"
+      ],
+      "foundAt": "Galatians 5:23"
+    },
+    {
+      "id": "katartizo",
+      "strongs": [
+        "G2675"
+      ],
+      "foundAt": "Galatians 6:1"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "Galatians 6:4"
+    },
+    {
+      "id": "speiro",
+      "strongs": [
+        "G4687"
+      ],
+      "foundAt": "Galatians 6:7"
+    },
+    {
+      "id": "therizo",
+      "strongs": [
+        "G2325"
+      ],
+      "foundAt": "Galatians 6:7"
+    },
+    {
+      "id": "phthora",
+      "strongs": [
+        "G5356"
+      ],
+      "foundAt": "Galatians 6:8"
+    },
+    {
+      "id": "ekkakeo",
+      "strongs": [
+        "G1573"
+      ],
+      "foundAt": "Galatians 6:9"
+    },
+    {
+      "id": "kosmos",
+      "strongs": [
+        "G2889"
+      ],
+      "foundAt": "Galatians 4:3"
+    },
+    {
+      "id": "kainos",
+      "strongs": [
+        "G2537"
+      ],
+      "foundAt": "Galatians 6:15"
+    },
+    {
+      "id": "ktisis",
+      "strongs": [
+        "G2937"
+      ],
+      "foundAt": "Galatians 6:15"
+    },
+    {
+      "id": "kanon",
+      "strongs": [
+        "G2583"
+      ],
+      "foundAt": "Galatians 6:16"
+    },
+    {
+      "id": "eleos",
+      "strongs": [
+        "G1656"
+      ],
+      "foundAt": "Galatians 6:16"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Galatians 5:11"
     }
   ],
   "crossRefs": {
@@ -661,10 +1099,6 @@
     {
       "area": "places",
       "text": "Where \"Galatia\" is (north or south) is debated, and so is where Paul wrote; the map marks the region as a whole."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }
