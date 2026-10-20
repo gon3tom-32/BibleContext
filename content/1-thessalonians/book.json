@@ -1,0 +1,44 @@
+{
+  "slug": "1-thessalonians",
+  "title": "1 Thessalonians",
+  "order": 52,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 5,
+  "tagline": "A warm letter to a young church under pressure: hold on, love each other, and wait for the Lord's return with hope.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul, Silvanus, and Timothy (1:1), and almost no scholar doubts that Paul wrote it; it is often counted among his earliest letters, and so among the earliest writings in the New Testament. Some scholars question whether 2:13-16 (with its harsh words about \"the Jews\") was written by Paul or added later, since it seems out of step with Romans 9 to 11; others defend it as Paul's own words about a particular group in a particular situation.",
+  "authorDebated": false,
+  "audience": "The church in Thessalonica, mostly Gentile converts who had turned from idols",
+  "audienceNote": "Paul, Silas, and Timothy founded the church on the second journey after being driven out of Philippi (Acts 16:11-40; 17:1-9). Thessalonica was the capital of the Roman province of Macedonia, a busy port city on the Via Egnatia. The church had grown quickly and was immediately under pressure from fellow townspeople (1:6; 2:14; 3:3-4).",
+  "setting": "Corinth, about AD 50 to 51, only months after Paul left Thessalonica",
+  "settingNote": "Paul had been forced out of Thessalonica after a short stay, went on to Athens, and then to Corinth. Worried about the new believers, he sent Timothy back; Timothy rejoined him with good news (3:1-6; Acts 18:5), and Paul wrote in reply. The letter is dated by Paul's year in Corinth and the governor Gallio (Acts 18:12). Corinth is not named in the letter; it is inferred from Acts.",
+  "genre": "Letter",
+  "genreNote": "A warm, personal letter in the form of ancient correspondence: greeting, thanks, a long reminder of how Paul and his friends behaved, news and prayers, practical instruction, and a conclusion. The tone is that of a father and a nurse writing to children they miss.",
+  "bigIdea": "The gospel changed the Thessalonians from idol-worshippers to people who serve the living God and wait for his Son; so keep going in faith, love, and hope, live quietly and well, and comfort one another with the promise that Christ will return and the dead in Christ will rise.",
+  "themes": [
+    "Faith, love, and hope",
+    "Suffering and encouragement",
+    "Holy living",
+    "The return of the Lord",
+    "Comfort for those who grieve"
+  ],
+  "mapTitle": "Map: Philippi, Thessalonica, Athens, and Corinth",
+  "mapSummary": "Paul's route: beaten and jailed in Philippi, then Thessalonica, then Athens (where he sends Timothy back), and on to Corinth, where he writes.",
+  "scene": {
+    "author": "Paul, Silvanus, and Timothy",
+    "audience": "The church in Thessalonica",
+    "happening": "Corinth, about AD 50 to 51"
+  },
+  "overviewPeople": [
+    "paul",
+    "silvanus",
+    "timothy",
+    "the-thessalonian-believers",
+    "the-lord-jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

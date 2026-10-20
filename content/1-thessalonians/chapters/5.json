@@ -1,0 +1,294 @@
+{
+  "sceneHappening": "The day of the Lord comes like a thief, so stay awake, and a quick list of how to live together",
+  "summary": "About the times and seasons, they do not need anything written, for they themselves know well that \"the day of the Lord comes like a thief in the night. For when they are saying, 'Peace and safety,' then sudden destruction will come on them, like birth pains on a pregnant woman; and they will in no way escape.\" But they, brothers, are not in darkness so that the day should overtake them like a thief; they are all sons of light and sons of the day. \"So then let's not sleep, as the rest do, but let's watch and be sober. For those who sleep, sleep in the night, and those who are drunken are drunken in the night. But let us, since we belong to the day, be sober, putting on the breastplate of faith and love and, for a helmet, the hope of salvation. For God didn't appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ, who died for us, that, whether we wake or sleep, we should live together with him. Therefore exhort one another, and build each other up, even as you also do.\" Then a series of quick instructions: respect those who labor among them and are over them in the Lord and admonish them, and esteem them exceedingly highly in love for their work's sake; be at peace among themselves. \"Admonish the disorderly, encourage the faint-hearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone, but always follow after that which is good, for one another, and for all men. Always rejoice. Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus toward you. Don't quench the Spirit. Don't despise prophecies. Test all things, and hold firmly that which is good. Abstain from every form of evil.\" Paul's prayer: \"May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ. Faithful is he who calls you, who will also do it.\" Brothers, pray for us; greet all the brothers with a holy kiss; Paul charges them by the Lord to have this letter read to all the brothers. \"The grace of our Lord Jesus Christ be with you. Amen.\"",
+  "whySettingMatters": "The \"day of the Lord\" is a phrase from the prophets (Amos 5:18-20; Zephaniah 1) for God's decisive intervention, and Jesus himself said the Son of Man would come \"like a thief\" (Matthew 24:43). The people saying \"peace and safety\" echo Roman propaganda, which advertised the Pax Romana (Roman peace and security); Paul says it will end suddenly. The imagery of sleeping and waking, night and day, drunk and sober moves from the end of the age to everyday vigilance. The \"breastplate of faith and love\" and \"helmet of the hope of salvation\" are an earlier version of the armor image later used in Ephesians 6. The list of quick instructions in 5:12-22 is one of the best short summaries of church life in the New Testament. \"The disorderly\" (ataktoi) were those out of line, probably including those not working (see 4:11 and 2 Thessalonians 3:6-12). \"Spirit, soul, and body\" in 5:23 is sometimes taken as three parts of a person, but many read it as a way of saying \"the whole person,\" using three words for emphasis. \"Don't despise prophecies, test all things\" shows early church life included prophecy and that it had to be weighed. Paul's charge to read the letter \"to all the brothers\" suggests it was meant for the whole community, including those who might not have heard it.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Gives a quick set of instructions and a prayer."
+    },
+    {
+      "id": "the-thessalonian-believers",
+      "note": "Sons of light and of the day."
+    },
+    {
+      "id": "the-leaders-in-thessalonica",
+      "note": "\"Those who labor among you, and are over you in the Lord.\""
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "Who comes like a thief in the night, and died for us."
+    }
+  ],
+  "questions": [
+    "Paul says the day of the Lord comes like a thief, and also that believers are \"not in darkness.\" How can both be true?",
+    "\"Always rejoice, pray without ceasing, give thanks in everything.\" How could someone live this out in an ordinary week?",
+    "\"Test all things; hold fast to what is good.\" How can a church practice this?",
+    "Paul charges them to read the letter to all the brothers. What does that say about the role of letters in the early church?"
+  ],
+  "words": [
+    {
+      "id": "chronos",
+      "note": "\"But concerning the times and the seasons\" (5:1)."
+    },
+    {
+      "id": "kairos",
+      "note": "\"And the seasons\" (5:1)."
+    },
+    {
+      "id": "akribos",
+      "note": "\"For you yourselves know well\" (5:2)."
+    },
+    {
+      "id": "kleptes",
+      "note": "\"Comes like a thief in the night\" (5:2, 5:4)."
+    },
+    {
+      "id": "nyx",
+      "note": "\"In the night\" (5:2, 5:5, 5:7)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Peace and safety\" and \"be at peace among yourselves\" (5:3, 5:13, 5:23)."
+    },
+    {
+      "id": "asphaleia",
+      "note": "\"Peace and safety\" (5:3)."
+    },
+    {
+      "id": "aiphnidios",
+      "note": "\"Then sudden destruction will come on them\" (5:3)."
+    },
+    {
+      "id": "olethros",
+      "note": "\"Sudden destruction\" (5:3)."
+    },
+    {
+      "id": "odin",
+      "note": "\"As birth pains on a pregnant woman\" (5:3)."
+    },
+    {
+      "id": "ekpheugo",
+      "note": "\"And they will in no way escape\" (5:3)."
+    },
+    {
+      "id": "skotos",
+      "note": "\"But you, brothers, aren't in darkness\" (5:4-5)."
+    },
+    {
+      "id": "phos",
+      "note": "\"You are all sons of light\" (5:5)."
+    },
+    {
+      "id": "huios",
+      "note": "\"Sons of light and sons of the day\" (5:5)."
+    },
+    {
+      "id": "hemera",
+      "note": "\"The day of the Lord\" and \"sons of the day\" (5:2, 5:5, 5:8)."
+    },
+    {
+      "id": "nepho",
+      "note": "\"Let's watch and be sober\" (5:6, 5:8)."
+    },
+    {
+      "id": "gregoreo",
+      "note": "\"But let's watch\" (5:6, 5:10)."
+    },
+    {
+      "id": "katheudo",
+      "note": "\"So then let's not sleep\" (5:6-7, 5:10)."
+    },
+    {
+      "id": "methyo",
+      "note": "\"And those who are drunken\" (5:7)."
+    },
+    {
+      "id": "thorax",
+      "note": "\"The breastplate of faith and love\" (5:8)."
+    },
+    {
+      "id": "perikephalaia",
+      "note": "\"For a helmet, the hope of salvation\" (5:8)."
+    },
+    {
+      "id": "peripoiesis",
+      "note": "\"To the obtaining of salvation\" (5:9)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"The hope of salvation\" (5:8-9)."
+    },
+    {
+      "id": "oikodomeo",
+      "note": "\"And build each other up\" (5:11)."
+    },
+    {
+      "id": "kopiao",
+      "note": "\"Those who labor among you\" (5:12)."
+    },
+    {
+      "id": "proistemi",
+      "note": "\"And are over you in the Lord\" (5:12)."
+    },
+    {
+      "id": "noutheteo",
+      "note": "\"And admonish you\" and \"admonish the disorderly\" (5:12, 5:14)."
+    },
+    {
+      "id": "hegeomai",
+      "note": "\"And to esteem them exceedingly\" (5:13)."
+    },
+    {
+      "id": "ataktos",
+      "note": "\"Admonish the disorderly\" (5:14)."
+    },
+    {
+      "id": "oligopsychos",
+      "note": "\"Encourage the faint-hearted\" (5:14)."
+    },
+    {
+      "id": "antechomai",
+      "note": "\"Support the weak\" (5:14)."
+    },
+    {
+      "id": "asthenes",
+      "note": "\"The weak\" (5:14)."
+    },
+    {
+      "id": "makrothymeo",
+      "note": "\"Be patient toward all\" (5:14)."
+    },
+    {
+      "id": "antapodidomi",
+      "note": "\"See that no one returns evil for evil\" (5:15)."
+    },
+    {
+      "id": "dioko",
+      "note": "\"But always follow after that which is good\" (5:15)."
+    },
+    {
+      "id": "chara",
+      "note": "\"Always rejoice\" (5:16)."
+    },
+    {
+      "id": "adialeiptos",
+      "note": "\"Pray without ceasing\" (5:17)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"Pray without ceasing\" (5:17, 5:25)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "\"In everything give thanks\" (5:18)."
+    },
+    {
+      "id": "sbennymi",
+      "note": "\"Don't quench the Spirit\" (5:19)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Spirit\" and \"your whole spirit\" (5:19, 5:23)."
+    },
+    {
+      "id": "exoutheneo",
+      "note": "\"Don't despise prophecies\" (5:20)."
+    },
+    {
+      "id": "prophiteia",
+      "note": "\"Prophecies\" (5:20)."
+    },
+    {
+      "id": "dokimazo",
+      "note": "\"Test all things\" (5:21)."
+    },
+    {
+      "id": "katecho",
+      "note": "\"Hold firmly that which is good\" (5:21)."
+    },
+    {
+      "id": "eidos",
+      "note": "\"Abstain from every form of evil\" (5:22)."
+    },
+    {
+      "id": "poneros",
+      "note": "\"Of evil\" (5:22)."
+    },
+    {
+      "id": "hagiazo",
+      "note": "\"May the God of peace himself sanctify you completely\" (5:23)."
+    },
+    {
+      "id": "holoteles",
+      "note": "\"Completely\" (5:23)."
+    },
+    {
+      "id": "holokleros",
+      "note": "\"Your whole spirit, soul, and body\" (5:23)."
+    },
+    {
+      "id": "psyche",
+      "note": "\"Spirit, soul, and body\" (5:23)."
+    },
+    {
+      "id": "soma",
+      "note": "\"And body\" (5:23)."
+    },
+    {
+      "id": "tereo",
+      "note": "\"Be preserved blameless\" (5:23)."
+    },
+    {
+      "id": "amemptos",
+      "note": "\"Blameless at the coming\" (5:23)."
+    },
+    {
+      "id": "pistos",
+      "note": "\"Faithful is he who calls you\" (5:24)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"Greet all the brothers\" (5:26)."
+    },
+    {
+      "id": "philema",
+      "note": "\"With a holy kiss\" (5:26)."
+    },
+    {
+      "id": "adelphos",
+      "note": "\"Brothers, pray for us\" (5:25-27)."
+    },
+    {
+      "id": "anagnosko",
+      "note": "\"That this letter be read\" (5:27)."
+    },
+    {
+      "id": "epistole",
+      "note": "\"This letter\" (5:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Matthew 24:42-44",
+      "note": "the Son of Man is coming at an hour you do not expect"
+    },
+    {
+      "ref": "Ephesians 6:10-17",
+      "note": "the whole armor of God, with the breastplate of righteousness and the helmet of salvation"
+    },
+    {
+      "ref": "Romans 12:9-21",
+      "note": "let love be genuine; do not repay evil for evil"
+    },
+    {
+      "ref": "Isaiah 59:17",
+      "note": "he put on righteousness as a breastplate, and a helmet of salvation"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

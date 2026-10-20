@@ -1,0 +1,162 @@
+{
+  "sceneHappening": "Thanks for a young church whose faith is known everywhere, and what changed when they turned from idols",
+  "summary": "Paul, Silvanus, and Timothy write to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ: grace and peace. They always give thanks to God for all of them, mentioning them in their prayers, \"remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, in the sight of our God and Father.\" They know, brothers loved by God, that God chose them, because the gospel did not come to them \"in word only, but also in power, and in the Holy Spirit, and in much assurance,\" as they know what kind of men Paul and his friends were among them for their sake. They became imitators of Paul and of the Lord, receiving the word \"in much affliction, with joy of the Holy Spirit,\" so that they became an example to all the believers in Macedonia and Achaia. From them the word of the Lord has sounded forth, not only in Macedonia and Achaia, but in every place their faith toward God has gone out, so that Paul does not need to say anything: people themselves report what kind of welcome Paul had among them, and how they turned to God from idols, \"to serve a living and true God, and to wait for his Son from heaven, whom he raised from the dead, Jesus, who delivers us from the wrath to come.\"",
+  "whySettingMatters": "Thessalonica was the capital of Macedonia and a busy port on the Via Egnatia, the main road from Rome to the east, so news traveled quickly through it, which explains how their faith \"sounded forth\" (the word means a trumpet blast or echo). The church was young, perhaps only months old, and almost entirely made up of Gentiles who had worshipped the many gods of the city, including the emperor, which is why \"turned to God from idols\" is the heart of the summary. The three marks, \"work of faith, labor of love, perseverance of hope,\" are Paul's early version of faith, hope, and love (also 5:8; 1 Corinthians 13:13). \"Wait for his Son from heaven\" introduces a theme that returns in every chapter: the Lord's return. The phrase \"the wrath to come\" is not described in detail, only that Jesus rescues from it. Notice that Paul speaks of God choosing them (\"election\"), based on how the gospel came with power, rather than as a puzzle to solve. Silvanus is the Silas of Acts, who was with Paul in Philippi and Thessalonica.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes with Silvanus and Timothy, giving thanks for them."
+    },
+    {
+      "id": "silvanus",
+      "note": "Named in the greeting; helped found the church."
+    },
+    {
+      "id": "timothy",
+      "note": "Named in the greeting."
+    },
+    {
+      "id": "the-thessalonian-believers",
+      "note": "Known across Macedonia and Achaia for their faith."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "Raised from the dead, expected from heaven."
+    }
+  ],
+  "questions": [
+    "Paul thanks God for the Thessalonians' \"work of faith, labor of love, and perseverance of hope.\" What does each of the three look like in daily life?",
+    "The gospel came \"not in word only, but in power.\" What do you think Paul means by that?",
+    "They turned to God \"from idols, to serve a living and true God.\" What are the idols in a modern city?",
+    "Paul says the Thessalonians welcomed the word \"in much affliction, with joy.\" How can joy and affliction go together?"
+  ],
+  "words": [
+    {
+      "id": "eucharisteo",
+      "note": "\"We give thanks to God always for you all\" (1:2)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"Your work of faith\" (1:3)."
+    },
+    {
+      "id": "kopos",
+      "note": "\"And labor of love\" (1:3)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Labor of love\" (1:3)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"And perseverance of hope\" (1:3)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"Perseverance of hope in our Lord Jesus Christ\" (1:3)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Your work of faith\" (1:3, 1:8)."
+    },
+    {
+      "id": "ekloge",
+      "note": "\"Knowing your election, brothers loved by God\" (1:4)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"Our gospel came not in word only\" (1:5)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"But also in power\" (1:5)."
+    },
+    {
+      "id": "plerophoria",
+      "note": "\"And in much assurance\" (1:5)."
+    },
+    {
+      "id": "mimetes",
+      "note": "\"You became imitators of us and of the Lord\" (1:6)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"In much affliction\" (1:6)."
+    },
+    {
+      "id": "chara",
+      "note": "\"With joy of the Holy Spirit\" (1:6)."
+    },
+    {
+      "id": "typos",
+      "note": "\"So that you became an example\" (1:7)."
+    },
+    {
+      "id": "ekecheomai",
+      "note": "\"The word of the Lord has sounded forth\" (1:8)."
+    },
+    {
+      "id": "eisodos",
+      "note": "\"What kind of a reception we had with you\" (1:9)."
+    },
+    {
+      "id": "epistrepho",
+      "note": "\"How you turned to God from idols\" (1:9)."
+    },
+    {
+      "id": "eidolon",
+      "note": "\"From idols\" (1:9)."
+    },
+    {
+      "id": "douleuo",
+      "note": "\"To serve a living and true God\" (1:9)."
+    },
+    {
+      "id": "zao",
+      "note": "\"A living and true God\" (1:9)."
+    },
+    {
+      "id": "alethinos",
+      "note": "\"A living and true God\" (1:9)."
+    },
+    {
+      "id": "anameno",
+      "note": "\"And to wait for his Son from heaven\" (1:10)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"Whom he raised from the dead\" (1:10)."
+    },
+    {
+      "id": "rhuomai",
+      "note": "\"Who delivers us from the wrath to come\" (1:10)."
+    },
+    {
+      "id": "orge",
+      "note": "\"From the wrath to come\" (1:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 17:1-9",
+      "note": "Paul in Thessalonica; a mob attacks Jason's house"
+    },
+    {
+      "ref": "1 Corinthians 13:13",
+      "note": "faith, hope, and love abide, these three"
+    },
+    {
+      "ref": "Colossians 1:3-5",
+      "note": "your faith in Christ Jesus and the love that you have for all the saints"
+    },
+    {
+      "ref": "Romans 5:9",
+      "note": "saved by him from the wrath of God"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
