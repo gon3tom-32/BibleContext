@@ -163,5 +163,20 @@
     "id": "thaddaeus",
     "name": "Thaddaeus",
     "note": "One of the twelve."
+  },
+  {
+    "id": "johns-disciples",
+    "name": "John's disciples",
+    "note": "Followers of John the Baptist who kept his practices, such as fasting."
+  },
+  {
+    "id": "the-withered-hand",
+    "name": "A man with a withered hand",
+    "note": "Healed in a synagogue on the Sabbath."
+  },
+  {
+    "id": "jesus-family",
+    "name": "Jesus' mother and brothers",
+    "note": "His family in Nazareth. His brothers are named in 13:55."
   }
 ]

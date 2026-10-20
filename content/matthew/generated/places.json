@@ -7030,6 +7030,569 @@
         "fetched": "2026-10-19",
         "item": "https://www.openbible.info/geo/ancient/a282dce/samaria-2"
       }
+    },
+    {
+      "id": "tyre",
+      "name": "Tyre",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 11:21",
+        "Matthew 11:22",
+        "Matthew 15:21"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        11,
+        15
+      ],
+      "identification": "Tyre",
+      "modernLocation": "Tyre",
+      "lonlat": [
+        35.196111,
+        33.270833
+      ],
+      "confidence": {
+        "score": 1000,
+        "outOf": 1000,
+        "label": "High"
+      },
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.1955,
+              33.2701
+            ],
+            [
+              35.1956,
+              33.2701
+            ],
+            [
+              35.1957,
+              33.2701
+            ],
+            [
+              35.1962,
+              33.2698
+            ],
+            [
+              35.1958,
+              33.2698
+            ],
+            [
+              35.1954,
+              33.2697
+            ],
+            [
+              35.1953,
+              33.2694
+            ],
+            [
+              35.1951,
+              33.2693
+            ],
+            [
+              35.1947,
+              33.2695
+            ],
+            [
+              35.1944,
+              33.2695
+            ],
+            [
+              35.1942,
+              33.2694
+            ],
+            [
+              35.1943,
+              33.2692
+            ],
+            [
+              35.1939,
+              33.2689
+            ],
+            [
+              35.1934,
+              33.2691
+            ],
+            [
+              35.1938,
+              33.268
+            ],
+            [
+              35.1946,
+              33.2679
+            ],
+            [
+              35.1957,
+              33.2678
+            ],
+            [
+              35.1967,
+              33.2681
+            ],
+            [
+              35.1973,
+              33.2681
+            ],
+            [
+              35.1973,
+              33.2684
+            ],
+            [
+              35.1976,
+              33.2685
+            ],
+            [
+              35.197,
+              33.2691
+            ],
+            [
+              35.1974,
+              33.2694
+            ],
+            [
+              35.1972,
+              33.2696
+            ],
+            [
+              35.1977,
+              33.2698
+            ],
+            [
+              35.1976,
+              33.2699
+            ],
+            [
+              35.1976,
+              33.27
+            ],
+            [
+              35.1975,
+              33.27
+            ],
+            [
+              35.1975,
+              33.27
+            ],
+            [
+              35.1964,
+              33.2706
+            ],
+            [
+              35.1963,
+              33.2706
+            ],
+            [
+              35.1959,
+              33.2711
+            ],
+            [
+              35.1955,
+              33.2707
+            ],
+            [
+              35.1948,
+              33.2709
+            ],
+            [
+              35.1946,
+              33.271
+            ],
+            [
+              35.1942,
+              33.2711
+            ],
+            [
+              35.1942,
+              33.2712
+            ],
+            [
+              35.1937,
+              33.2713
+            ],
+            [
+              35.1933,
+              33.2714
+            ],
+            [
+              35.1931,
+              33.2714
+            ],
+            [
+              35.1928,
+              33.2716
+            ],
+            [
+              35.1925,
+              33.2716
+            ],
+            [
+              35.1925,
+              33.2714
+            ],
+            [
+              35.1925,
+              33.2713
+            ],
+            [
+              35.1935,
+              33.2707
+            ],
+            [
+              35.1938,
+              33.2705
+            ],
+            [
+              35.1944,
+              33.2702
+            ],
+            [
+              35.1951,
+              33.2701
+            ],
+            [
+              35.1955,
+              33.2701
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/relation/1763056"
+      },
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/a160272/tyre",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
+      }
+    },
+    {
+      "id": "sidon",
+      "name": "Sidon",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 11:21",
+        "Matthew 11:22",
+        "Matthew 15:21"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        11,
+        15
+      ],
+      "identification": "Sandikli archaeological site in Sidon",
+      "modernLocation": "Sandikli archaeological site in Sidon",
+      "lonlat": [
+        35.371944,
+        33.560985
+      ],
+      "confidence": {
+        "score": 1000,
+        "outOf": 1000,
+        "label": "High"
+      },
+      "outline": null,
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/a98e4d7/sidon"
+      }
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 10:15",
+        "Matthew 11:23",
+        "Matthew 11:24"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        10,
+        11
+      ],
+      "identification": "in the Valley of Siddim",
+      "modernLocation": "south of the Lisan",
+      "lonlat": [
+        35.449223,
+        31.20849
+      ],
+      "confidence": {
+        "score": 250,
+        "outOf": 1000,
+        "label": "Possible"
+      },
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.675,
+              31.8414
+            ],
+            [
+              35.6748,
+              31.8414
+            ],
+            [
+              35.6741,
+              31.841
+            ],
+            [
+              35.6739,
+              31.8406
+            ],
+            [
+              35.6736,
+              31.8404
+            ],
+            [
+              35.6734,
+              31.84
+            ],
+            [
+              35.673,
+              31.8397
+            ],
+            [
+              35.6731,
+              31.8396
+            ],
+            [
+              35.6732,
+              31.8396
+            ],
+            [
+              35.6734,
+              31.8396
+            ],
+            [
+              35.674,
+              31.8401
+            ],
+            [
+              35.6752,
+              31.8409
+            ],
+            [
+              35.6754,
+              31.8411
+            ],
+            [
+              35.6751,
+              31.8412
+            ],
+            [
+              35.6751,
+              31.8413
+            ],
+            [
+              35.675,
+              31.8414
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/way/656094631"
+      },
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/a0aa664/sodom",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
+      }
+    },
+    {
+      "id": "nineveh",
+      "name": "Nineveh",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 12:41"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        12
+      ],
+      "identification": "Nineveh",
+      "modernLocation": "Nineveh",
+      "lonlat": [
+        43.1528,
+        36.3594
+      ],
+      "confidence": {
+        "score": 1000,
+        "outOf": 1000,
+        "label": "High"
+      },
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.1673,
+              36.3393
+            ],
+            [
+              43.1679,
+              36.3384
+            ],
+            [
+              43.1685,
+              36.3371
+            ],
+            [
+              43.1688,
+              36.3368
+            ],
+            [
+              43.1745,
+              36.3365
+            ],
+            [
+              43.178,
+              36.3363
+            ],
+            [
+              43.1783,
+              36.3365
+            ],
+            [
+              43.1763,
+              36.3464
+            ],
+            [
+              43.1762,
+              36.3471
+            ],
+            [
+              43.1741,
+              36.3573
+            ],
+            [
+              43.1734,
+              36.3605
+            ],
+            [
+              43.1721,
+              36.3639
+            ],
+            [
+              43.1713,
+              36.3655
+            ],
+            [
+              43.1701,
+              36.3677
+            ],
+            [
+              43.1689,
+              36.3695
+            ],
+            [
+              43.1669,
+              36.372
+            ],
+            [
+              43.1606,
+              36.3779
+            ],
+            [
+              43.1601,
+              36.3779
+            ],
+            [
+              43.1551,
+              36.3752
+            ],
+            [
+              43.1512,
+              36.3731
+            ],
+            [
+              43.1481,
+              36.3716
+            ],
+            [
+              43.1414,
+              36.3675
+            ],
+            [
+              43.1413,
+              36.3668
+            ],
+            [
+              43.1424,
+              36.3655
+            ],
+            [
+              43.1478,
+              36.359
+            ],
+            [
+              43.1489,
+              36.3578
+            ],
+            [
+              43.1509,
+              36.3556
+            ],
+            [
+              43.1524,
+              36.354
+            ],
+            [
+              43.1575,
+              36.3491
+            ],
+            [
+              43.1583,
+              36.3482
+            ],
+            [
+              43.1596,
+              36.3464
+            ],
+            [
+              43.1611,
+              36.3457
+            ],
+            [
+              43.1632,
+              36.344
+            ],
+            [
+              43.1673,
+              36.3393
+            ]
+          ]
+        ],
+        "kind": "polygon",
+        "osm": true,
+        "osmUrl": "https://www.openstreetmap.org/way/202644722"
+      },
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/a70fd5d/nineveh",
+        "alsoCredit": "OpenStreetMap (ODbL 1.0)"
+      }
     }
   ]
 }

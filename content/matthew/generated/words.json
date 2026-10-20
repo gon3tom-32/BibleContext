@@ -1163,6 +1163,215 @@
         "fetched": "2026-10-19",
         "item": "G4716"
       }
+    },
+    {
+      "id": "zygos",
+      "strongs": [
+        "G2218"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2218",
+          "original": "ζυγός",
+          "transliteration": "zugos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "yoke/scales",
+          "meaning": "ζυγός (in cl. more frequently τὸ ζυγόν), -οῦ, ὁ\n(ζεύγνυμι), [in LXX for עֹל, מֹאזֵן, etc. ;]\n1. a yoke; metaphorically, of bondage or submission to authority: Mat.11:29-30, Act.15:10, Gal.5:1, 1Ti.6:1.\n2. a balance: Rev.6:5 (of. Isa.40:12, al.).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ζυγόν",
+          "translit": "zugon",
+          "gloss": "yoke/scales"
+        },
+        {
+          "original": "ζυγός",
+          "translit": "zugos",
+          "gloss": "yoke/scales"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 11:29",
+        "Matthew 11:30"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 15:10",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:1",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 6:1",
+          "found": true
+        },
+        {
+          "ref": "Revelation 6:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2218"
+      }
+    },
+    {
+      "id": "sabbaton",
+      "strongs": [
+        "G4521"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4521",
+          "original": "σάββατον",
+          "transliteration": "sabbaton",
+          "partOfSpeech": "G:N-N",
+          "gloss": "Sabbath",
+          "meaning": "σάββατον, -ου, τό (Aram. שַׁבָּתָא, transliterated σάββατα, and this being mistaken for a pl., the sing. σάββατον was formed from it), and σάββατα, -ων, τά\n[in LXX for שַׁבָּת, שַׁבָּתוֹן ;]\n1. the seventh day of the week, the sabbath …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σάββασιν",
+          "translit": "sabbasin",
+          "gloss": "Sabbath"
+        },
+        {
+          "original": "σαββάτῳ",
+          "translit": "sabbatō",
+          "gloss": "Sabbath"
+        },
+        {
+          "original": "σάββατον",
+          "translit": "sabbaton",
+          "gloss": "Sabbath"
+        },
+        {
+          "original": "σαββάτου",
+          "translit": "sabbatou",
+          "gloss": "Sabbath"
+        },
+        {
+          "original": "σαββάτων",
+          "translit": "sabbatōn",
+          "gloss": "Sabbath"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 12:1",
+        "Matthew 12:2",
+        "Matthew 12:5",
+        "Matthew 12:8",
+        "Matthew 12:10",
+        "Matthew 12:11",
+        "Matthew 12:12",
+        "Matthew 24:20",
+        "Matthew 28:1"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 63,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 2:27",
+          "found": true
+        },
+        {
+          "ref": "Luke 13:14",
+          "found": true
+        },
+        {
+          "ref": "John 5:9",
+          "found": true
+        },
+        {
+          "ref": "Matthew 28:1",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4521"
+      }
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4592",
+          "original": "σημεῖον",
+          "transliteration": "sēmeion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "sign",
+          "meaning": "σημεῖον, -ου, τό\n[in LXX chiefly for אוֹת ;]\na sign, mark, token;\n(a) of that which distinguishes a person or thing from others: Mat.26:48 Luk.2:12, 2Th.3:17 (cf. Deiss., LAE, 153.2); before genitive epexeg., Rom.4:11; with genitive obj., Mat.24:8, 30, 2Co.12:12; with genitive subj., Mat.16:3;\n(b) a sign of warning or admonition: Mat.12:39 16:4, Luk.2:34 11:29-30, 1Co.14:22;\n(with) a sign portending future events (Soph., Plat. al.): Mrk.13:4, Luk.21:7, 11 21:25, Act.2:19, Rev.12:1, 3 15:1; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "σημεῖον",
+          "translit": "sēmeion",
+          "gloss": "sign"
+        },
+        {
+          "original": "σημεῖα",
+          "translit": "sēmeia",
+          "gloss": "sign"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 12:38",
+        "Matthew 12:39",
+        "Matthew 16:1",
+        "Matthew 16:3",
+        "Matthew 16:4",
+        "Matthew 24:3",
+        "Matthew 24:24",
+        "Matthew 24:30",
+        "Matthew 26:48"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 69,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:4",
+          "found": true
+        },
+        {
+          "ref": "John 2:11",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:22",
+          "found": true
+        },
+        {
+          "ref": "Luke 2:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4592"
+      }
     }
   ]
 }
