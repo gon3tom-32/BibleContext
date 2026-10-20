@@ -1,0 +1,98 @@
+{
+  "sceneHappening": "Paul writes from Macedonia, thanks God for comfort in affliction, and explains why he changed his travel plans",
+  "summary": "Paul and Timothy greet the church in Corinth and all the saints in Achaia. Paul blesses \"the God of all comfort,\" who comforts us in all our affliction so that we can comfort others with the same comfort. As Christ's sufferings overflow to them, so does comfort. He tells them about the trouble that came to him in Asia: \"we were weighed down exceedingly, beyond our power, so much that we despaired even of life,\" and felt that they had received the sentence of death, so as not to rely on themselves \"but on God who raises the dead.\" God delivered them and will deliver them again, and many prayers will bring thanks. Paul says he can say with a clear conscience that he has behaved with holiness and sincerity from God, not with fleshly wisdom, and that his letters say what they appear to say. He explains his change of plans: he meant to visit them twice, on the way to and from Macedonia, but did not. Was that fickleness, a \"yes\" that turns into a \"no\"? As God is faithful, our word to you is not yes and no. Jesus Christ, whom Silvanus, Timothy, and Paul proclaimed, was not yes and no; \"for however many the promises of God are, in him is the 'Yes.'\" God has anointed, sealed, and given the Spirit as a down payment. Paul calls God as witness that it was to spare them that he did not come again to Corinth: \"not that we have lordship over your faith, but are fellow workers with you for your joy.\"",
+  "whySettingMatters": "The letter begins in the middle of a strained relationship. Between 1 Corinthians and this letter, Paul seems to have made a short, painful visit (2:1; 12:14; 13:1), then withdrew and wrote a severe letter (2:3-4; 7:8), and then changed his plans for another visit. Some in Corinth accused him of being unreliable, saying one thing and doing another, and Paul answers by pointing to God's faithfulness in Christ rather than defending himself. The \"affliction in Asia\" is not described. It may refer to the riot in Ephesus (Acts 19:23-41), a serious illness, or imprisonment, and scholars debate which. Paul uses it not to boast but to say that suffering taught him to depend on God, who raises the dead, which prepares the way for the whole letter's theme of power in weakness. The words \"anointed,\" \"sealed,\" and \"down payment\" use pictures from business and ownership in the ancient world: a seal marked something as belonging to its owner, and a down payment was the first installment that guaranteed the rest.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes with Timothy, tells of despairing of life in Asia."
+    },
+    {
+      "id": "timothy",
+      "note": "Named as co-sender; preached in Corinth with Paul and Silvanus."
+    },
+    {
+      "id": "silvanus",
+      "note": "Preached in Corinth with Paul and Timothy."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Accused Paul of being unreliable; told his word is not yes and no."
+    },
+    {
+      "id": "jesus",
+      "note": "The \"Yes\" to all God's promises."
+    }
+  ],
+  "questions": [
+    "Paul says God comforts us \"so that we can comfort others.\" How does that change how you see your own hard times?",
+    "Paul admits he \"despaired of life.\" What does his honesty teach about faith under pressure?",
+    "Some accused Paul of being fickle because his plans changed. How should we think about changed plans and trust?",
+    "\"In him is the Yes.\" What does it mean that all God's promises are answered in Christ?"
+  ],
+  "words": [
+    {
+      "id": "parakaleo",
+      "note": "\"The God of all comfort... who comforts us\" (1:3-6)."
+    },
+    {
+      "id": "paraklesis",
+      "note": "\"The Father of mercies and God of all comfort\" (1:3-7)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"In all our affliction\" (1:4, 1:8)."
+    },
+    {
+      "id": "apokrima",
+      "note": "\"We ourselves had the sentence of death\" (1:9)."
+    },
+    {
+      "id": "arrabon",
+      "note": "\"Gave us the down payment of the Spirit\" (1:22)."
+    },
+    {
+      "id": "sphragizo",
+      "note": "\"Sealed us\" (1:22)."
+    },
+    {
+      "id": "haplotes",
+      "note": "\"Holiness and sincerity of God\" (1:12)."
+    },
+    {
+      "id": "charis",
+      "note": "\"That you might have a second benefit\" (1:2, 1:15)."
+    },
+    {
+      "id": "perisseuo",
+      "note": "\"The sufferings of Christ abound to us\" (1:5)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"As you are partakers of the sufferings\" (1:7)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 19:23-41",
+      "note": "the riot in Ephesus in the province of Asia"
+    },
+    {
+      "ref": "Psalm 34:19",
+      "note": "many are the afflictions of the righteous, but the LORD delivers him"
+    },
+    {
+      "ref": "Romans 8:16-17",
+      "note": "if children, then heirs, provided we suffer with him"
+    },
+    {
+      "ref": "Ephesians 1:13-14",
+      "note": "sealed with the Holy Spirit, the guarantee of our inheritance"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

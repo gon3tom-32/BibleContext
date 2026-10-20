@@ -1,0 +1,45 @@
+{
+  "slug": "2-corinthians",
+  "title": "2 Corinthians",
+  "order": 47,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 13,
+  "tagline": "Paul's most personal letter: weakness, comfort, reconciliation, and a ministry questioned.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul as author (1:1), with Timothy beside him, and almost no scholar doubts that. The main debate is about the letter's shape: the tone changes sharply at chapter 10, and some scholars think chapters 10 to 13 were a separate letter (perhaps the \"letter of tears\" or a later one) joined to chapters 1 to 9, while others think it is one letter written after a change of mood. Some also wonder whether chapters 8 and 9, or 6:14-7:1, were originally separate. The letter itself shows that Paul wrote several letters to Corinth (1 Corinthians 5:9; 2 Corinthians 2:3-4, 7:8).",
+  "authorDebated": false,
+  "audience": "The church in Corinth, with the believers throughout Achaia",
+  "audienceNote": "The same church as 1 Corinthians, after a painful visit and a tense exchange of letters. Some in Corinth had been won over by outside teachers whom Paul sarcastically calls \"super-apostles\" (11:5), and who questioned Paul's authority, his speaking, and his refusal to take pay. Many in the church seem to have repented after Titus's visit (7:6-16), but a minority were still opposed.",
+  "setting": "Macedonia, probably autumn about AD 55 or 56, after Paul left Ephesus",
+  "settingNote": "After 1 Corinthians, Paul visited Corinth in a painful visit, sent a severe letter, and then left Ephesus for Troas and Macedonia, anxious to hear from Titus. Titus met him with good news (7:5-7), and Paul wrote from Macedonia, planning to come to Corinth a third time (12:14; 13:1). The order of events is pieced together from hints in the letter, and some details are uncertain.",
+  "genre": "Letter",
+  "genreNote": "A personal letter, at times a defense, at times a heartfelt appeal. Paul moves among thanksgiving, explanation, a teaching about the new covenant, a fundraising appeal, and, at the end, an ironic \"fool's speech\" in which he boasts only of his weaknesses.",
+  "bigIdea": "God comforts and reconciles through weakness: the Christ who was crucified in weakness works through a servant who carries the treasure in a clay jar, so that the power is clearly God's.",
+  "themes": [
+    "Comfort in suffering",
+    "Ministry of the new covenant",
+    "Reconciliation",
+    "Generosity and the collection",
+    "Power in weakness"
+  ],
+  "mapTitle": "Map: Troas, Macedonia, Corinth, and Jerusalem",
+  "mapSummary": "Paul moves from Ephesus to Troas and on to Macedonia, waiting for news from Corinth, and turns his thoughts to Jerusalem and the collection.",
+  "scene": {
+    "author": "Paul",
+    "audience": "The church in Corinth",
+    "happening": "Macedonia, about AD 55 to 56"
+  },
+  "overviewPeople": [
+    "paul",
+    "timothy",
+    "titus",
+    "the-super-apostles",
+    "the-offender",
+    "the-macedonian-churches"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "osis": "2Cor",
+  "stepBook": "2Co",
+  "webFile": "2corinthians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "troas",
+      "ancientId": "a91c509"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "damascus",
+      "ancientId": "a69c1d4"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [
+    {
+      "id": "apokrima",
+      "strongs": [
+        "G0610"
+      ],
+      "foundAt": "2 Corinthians 1:9"
+    },
+    {
+      "id": "arrabon",
+      "strongs": [
+        "G0728"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "sphragizo",
+      "strongs": [
+        "G4972"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "haplotes",
+      "strongs": [
+        "G0572"
+      ],
+      "foundAt": "2 Corinthians 1:12"
+    },
+    {
+      "id": "perisseuo",
+      "strongs": [
+        "G4052"
+      ],
+      "foundAt": "2 Corinthians 1:5"
+    },
+    {
+      "id": "thriambeuo",
+      "strongs": [
+        "G2358"
+      ],
+      "foundAt": "2 Corinthians 2:14"
+    },
+    {
+      "id": "osme",
+      "strongs": [
+        "G3744"
+      ],
+      "foundAt": "2 Corinthians 2:14"
+    },
+    {
+      "id": "kapeleuo",
+      "strongs": [
+        "G2585"
+      ],
+      "foundAt": "2 Corinthians 2:17"
+    },
+    {
+      "id": "gramma",
+      "strongs": [
+        "G1121"
+      ],
+      "foundAt": "2 Corinthians 3:6"
+    },
+    {
+      "id": "kalymma",
+      "strongs": [
+        "G2571"
+      ],
+      "foundAt": "2 Corinthians 3:13"
+    },
+    {
+      "id": "eleutheria",
+      "strongs": [
+        "G1657"
+      ],
+      "foundAt": "2 Corinthians 3:17"
+    },
+    {
+      "id": "eikon",
+      "strongs": [
+        "G1504"
+      ],
+      "foundAt": "2 Corinthians 3:18"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "2 Corinthians 3:18"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "2 Corinthians 1:4"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "2 Corinthians 1:3"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "2 Corinthians 1:4"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "2 Corinthians 6:14"
+    },
+    {
+      "id": "charizomai",
+      "strongs": [
+        "G5483"
+      ],
+      "foundAt": "2 Corinthians 2:7"
+    },
+    {
+      "id": "lype",
+      "strongs": [
+        "G3077"
+      ],
+      "foundAt": "2 Corinthians 2:1"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "2 Corinthians 2:12"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "2 Corinthians 2:12"
+    },
+    {
+      "id": "apollymi",
+      "strongs": [
+        "G0622"
+      ],
+      "foundAt": "2 Corinthians 2:15"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "2 Corinthians 2:15"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "2 Corinthians 3:6"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "2 Corinthians 3:7"
+    },
+    {
+      "id": "katargeo",
+      "strongs": [
+        "G2673"
+      ],
+      "foundAt": "2 Corinthians 3:7"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "2 Corinthians 1:20"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "parresia",
+      "strongs": [
+        "G3954"
+      ],
+      "foundAt": "2 Corinthians 3:12"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "troas",
+      "title": "No rest in Troas",
+      "short": "Troas",
+      "refs": "2 Corinthians 2:12-13",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Paul finds an open door in Troas but has no peace of mind because Titus is not there, so he moves on to Macedonia."
+    },
+    {
+      "order": 2,
+      "placeId": "macedonia",
+      "title": "Where Titus meets Paul",
+      "short": "Macedonia",
+      "refs": "2 Corinthians 7:5-7; 8:1-5; 9:2-4",
+      "chapter": 7,
+      "direction": "out",
+      "text": "Titus brings good news from Corinth. The Macedonian churches, though poor, give generously to the collection."
+    },
+    {
+      "order": 3,
+      "placeId": "corinth",
+      "title": "The church in Corinth",
+      "short": "Corinth",
+      "refs": "2 Corinthians 1:1, 1:23; 12:14; 13:1",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Paul has visited painfully, written severely, and now plans a third visit."
+    },
+    {
+      "order": 4,
+      "placeId": "jerusalem",
+      "title": "The collection for the poor",
+      "short": "Jerusalem",
+      "refs": "2 Corinthians 8:4; 9:1, 9:12",
+      "chapter": 8,
+      "direction": "out",
+      "text": "The gift from the Gentile churches is meant for the saints in Jerusalem."
+    },
+    {
+      "order": 5,
+      "placeId": "damascus",
+      "title": "The escape in a basket",
+      "short": "Damascus",
+      "refs": "2 Corinthians 11:32-33",
+      "chapter": 11,
+      "direction": "out",
+      "text": "Among the stories of his weakness, Paul recalls escaping Damascus in a basket through a window in the wall."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 18.5,
+      "east": 37.5,
+      "south": 30.8,
+      "north": 42.5
+    },
+    "label": "Map of the Aegean region and the eastern Mediterranean, drawn from real coordinates. Numbered stops mark Troas, Macedonia, Corinth, Jerusalem, and Damascus.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "troas",
+        "label": "Troas",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "macedonia",
+        "label": "Macedonia",
+        "labelSide": "right"
+      },
+      {
+        "order": 3,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left",
+        "offset": [
+          -2,
+          8
+        ]
+      },
+      {
+        "order": 4,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left"
+      },
+      {
+        "order": 5,
+        "at": "damascus",
+        "label": "Damascus",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "achaia": null,
+      "asia": null,
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "Ministers of a new covenant: the Spirit gives life, and the veil is taken away in Christ",
+  "summary": "Are Paul and his companions starting to commend themselves again? Do they need letters of recommendation to or from the Corinthians? \"You are our letter, written in our hearts, known and read by all men,\" a letter of Christ \"written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.\" Such confidence comes through Christ toward God; Paul's sufficiency is from God, who made them sufficient to be ministers of a new covenant, \"not of the letter, but of the Spirit. For the letter kills, but the Spirit gives life.\" If the ministry of death, engraved in letters on stones, came with glory, so that Israel could not look at Moses' face because of its glory, which was fading, how much more will the ministry of the Spirit be with glory? Having such hope, Paul acts with great boldness, not like Moses, who put a veil over his face so that Israel would not see the end of the fading glory. Their minds were hardened; to this day, whenever Moses is read, a veil lies over their heart, but \"whenever one turns to the Lord, the veil is taken away.\" \"Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty. But we all, with unveiled face reflecting as a mirror the glory of the Lord, are transformed into the same image from glory to glory, even as from the Lord, the Spirit.\"",
+  "whySettingMatters": "Traveling teachers in the ancient world often carried letters of recommendation, and Paul's opponents in Corinth seem to have had them and to have questioned whether Paul did. Paul's answer is that the church itself is his letter, written by the Spirit. The phrases \"tablets of stone\" and \"hearts of flesh\" echo Jeremiah 31:31-34 and Ezekiel 36:26-27, which promised a new covenant written on hearts and the gift of God's Spirit. The comparison with Moses (Exodus 34:29-35) is not an attack on the law; Paul says the old ministry had glory too, but that the new one far surpasses it. Whether \"the letter kills\" means the law without the Spirit, or the written code as a means of condemnation, is debated. The \"veil\" is one of the harder images: Paul reads Exodus to say that Moses covered the fading glory, and that those who read the law without Christ still have a veil. The line \"the Lord is the Spirit\" (3:17) is also debated: some read it as saying that in the Exodus story \"the Lord\" now means the Spirit, others as identifying the Lord Jesus with the Spirit's work.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Defends his ministry as a minister of the new covenant."
+    },
+    {
+      "id": "moses",
+      "note": "Whose face shone, and who veiled it."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Paul's \"letter\" of recommendation."
+    },
+    {
+      "id": "the-israelites-in-the-wilderness",
+      "note": "Could not look at Moses' face."
+    }
+  ],
+  "questions": [
+    "Paul says the Corinthians themselves are his letter of recommendation. What does that say about what counts as proof of a ministry?",
+    "\"The letter kills, but the Spirit gives life.\" How can that be read without setting law and Spirit against each other?",
+    "Paul compares the glory of Moses' ministry with the new covenant ministry. What does he affirm in the old, and why does the new surpass it?",
+    "\"We are being transformed from glory to glory.\" What does it mean to be changed by looking?"
+  ],
+  "words": [
+    {
+      "id": "diatheke",
+      "note": "\"Ministers of a new covenant\" (3:6, 3:14)."
+    },
+    {
+      "id": "gramma",
+      "note": "\"Not of the letter, but of the Spirit\" (3:6-7)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"The ministry of death... the ministry of the Spirit\" (3:7-9)."
+    },
+    {
+      "id": "kalymma",
+      "note": "\"A veil\" lies over their heart (3:13-16)."
+    },
+    {
+      "id": "katargeo",
+      "note": "\"The glory that was passing away\" (3:7, 3:11, 3:13-14)."
+    },
+    {
+      "id": "eleutheria",
+      "note": "\"Where the Spirit of the Lord is, there is liberty\" (3:17)."
+    },
+    {
+      "id": "eikon",
+      "note": "\"Are transformed into the same image\" (3:18)."
+    },
+    {
+      "id": "metamorphoo",
+      "note": "\"Are transformed\" (3:18)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"From glory to glory\" (3:7-11, 3:18)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Spirit gives life\" (3:3, 3:6, 3:17-18)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"Now the Lord is the Spirit\" (3:16-18)."
+    },
+    {
+      "id": "parresia",
+      "note": "\"We use great boldness of speech\" (3:12)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 31:31-34",
+      "note": "I will make a new covenant... I will write it on their hearts"
+    },
+    {
+      "ref": "Ezekiel 36:26-27",
+      "note": "I will give you a new heart and put my Spirit within you"
+    },
+    {
+      "ref": "Exodus 34:29-35",
+      "note": "Moses' face shone and he put a veil over it"
+    },
+    {
+      "ref": "Romans 8:2",
+      "note": "the law of the Spirit of life has set you free"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
