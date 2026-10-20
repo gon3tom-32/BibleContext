@@ -27,9 +27,8 @@ jobs:
           cache: npm
       - run: npm ci
       # Content data is already committed, so the build doesn't fetch sources.
+      # The site is served from bible.tomggonzalez.com (root), so no BASE_PATH.
       - run: npm run build
-        env:
-          BASE_PATH: /${{ github.event.repository.name }}
       - run: touch out/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
