@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "The weak and the strong: food, days, and welcome",
+  "summary": "\"Now accept one who is weak in faith, but not for disputes over opinions. One man has faith to eat all things, but he who is weak eats only vegetables. Don't let him who eats despise him who doesn't eat. Don't let him who doesn't eat judge him who eats, for God has accepted him. Who are you who judge another's servant? To his own lord he stands or falls. Yes, he will be made to stand, for the Lord has power to make him stand.\" One man esteems one day above another; another esteems every day alike. Let each man be fully assured in his own mind. \"He who observes the day, observes it to the Lord. He who eats, eats to the Lord, for he gives God thanks. He who doesn't eat, it is to the Lord that he doesn't eat, and gives God thanks.\" For none of us lives to himself, and none dies to himself. For if we live, we live to the Lord. If we die, we die to the Lord. So whether we live or die, we are the Lord's. For to this end Christ died, rose, and lived again, that he might be Lord of both the dead and the living. \"But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of God.\" As it is written, \"As I live, says the Lord, to me every knee will bow, and every tongue will confess to God.\" So then each one of us will give account of himself to God. \"Let's not therefore judge one another any more, but judge this rather, that no man put a stumbling block in his brother's way, or an occasion for falling.\" \"I know, and am persuaded in the Lord Jesus, that nothing is unclean of itself; except that to him who considers anything to be unclean, to him it is unclean.\" For if because of food your brother is grieved, you walk no longer in love. Don't destroy with your food him for whom Christ died. \"Then don't let your good be slandered, for the Kingdom of God is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.\" He who serves Christ in these things is acceptable to God and approved by men. \"So then let's follow after things which make for peace, and things by which we may build one another up. Don't overthrow God's work for food's sake. All things indeed are clean, however it is evil for that man who creates a stumbling block by eating. It is good to not eat meat, drink wine, nor do anything by which your brother stumbles, or is offended, or is made weak. The faith which you have, have to yourself before God. Happy is he who doesn't judge himself in that which he approves. But he who doubts is condemned if he eats, because it isn't of faith; and whatever is not of faith is sin.\"",
+  "whySettingMatters": "Chapters 14 and 15 address a practical conflict between Christians of different convictions, called the \"strong\" and the \"weak.\" Paul does not say who exactly they are, but the issues, food and holy days, fit a mixed church of Jews and Gentiles: Jewish believers who kept food laws and the Sabbath, and Gentile believers who did not. Another background possibility is meat sold in Roman markets that had been offered to idols (as in 1 Corinthians 8 to 10), which would lead some to avoid meat altogether. Paul places himself with the strong in principle (\"nothing is unclean of itself\") but asks the strong to give way for the sake of the weak, which is the opposite of what most people expect in such disputes. Paul calls these matters \"opinions,\" not essentials. Each person is accountable to God, not to each other: the \"judgment seat\" (bēma) is the same word as in Acts 18. \"The kingdom of God is not eating and drinking\" is Paul's shortest summary of what really matters. \"Whatever is not of faith is sin\" means whatever is done against one's own conscience, not a general statement about unbelievers' actions. Some manuscripts place the doxology of 16:25-27 at the end of this chapter, which has led to discussions about the letter's original form.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Sides with the strong in principle and asks them to yield."
+    },
+    {
+      "id": "the-weak-in-faith",
+      "note": "Those who keep food and day observances."
+    },
+    {
+      "id": "the-strong-in-faith",
+      "note": "Those who eat all things and count all days alike."
+    },
+    {
+      "id": "jesus",
+      "note": "Died and lived again to be Lord of the dead and the living."
+    }
+  ],
+  "questions": [
+    "Paul tells the strong and the weak not to judge or despise each other. Why does each side find that hard?",
+    "\"Each man should be fully assured in his own mind.\" What would that mean for disagreements today?",
+    "Paul agrees with the strong in principle and still asks them to give way. What does he value more than being right?",
+    "\"Whatever is not of faith is sin.\" How do you read that sentence in its setting?"
+  ],
+  "words": [
+    {
+      "id": "proskomma",
+      "note": "\"That no man put a stumbling block in his brother's way\" (14:13, 14:20)."
+    },
+    {
+      "id": "oikodome",
+      "note": "\"Things by which we may build one another up\" (14:19)."
+    },
+    {
+      "id": "koinos",
+      "note": "\"Nothing is unclean of itself\" (14:14)."
+    },
+    {
+      "id": "bema",
+      "note": "\"We will all stand before the judgment seat of God\" (14:10)."
+    },
+    {
+      "id": "plerophoreo",
+      "note": "\"Let each man be fully assured in his own mind\" (14:5)."
+    },
+    {
+      "id": "krino",
+      "note": "\"Why do you judge your brother?\" (14:3-13, 14:22)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Righteousness, peace, and joy in the Holy Spirit\" (14:17, 14:19)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"The Kingdom of God is not eating and drinking\" (14:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 45:23",
+      "note": "to me every knee shall bow"
+    },
+    {
+      "ref": "1 Corinthians 8:1-13",
+      "note": "food offered to idols and the weak conscience"
+    },
+    {
+      "ref": "Titus 1:15",
+      "note": "to the pure, all things are pure"
+    },
+    {
+      "ref": "Acts 10:15",
+      "note": "what God has made clean, do not call common"
+    }
+  ],
+  "number": 14,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

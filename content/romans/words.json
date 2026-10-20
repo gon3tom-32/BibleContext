@@ -2662,5 +2662,813 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "hypotasso",
+    "transliteration": "hypotassō",
+    "original": "ὑποτάσσω",
+    "pronunciation": "hoop-ot-AS-so",
+    "gloss": "to submit, to be subject",
+    "notes": "To put or arrange under, to be in subjection voluntarily. Paul says \"let every soul be in subjection to the higher authorities\" (13:1, 13:5). It is a military word for rank, and is used in the New Testament of wives, slaves, citizens, and the whole church, with a sense of orderly relationship, not obedience in every case.",
+    "range": [
+      {
+        "sense": "Submit",
+        "note": "Place oneself under."
+      },
+      {
+        "sense": "Be subject",
+        "note": "Take one's place in an order."
+      }
+    ],
+    "translations": [
+      "be subject",
+      "submit",
+      "be in subjection"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 2:51",
+        "note": "He was submissive to them."
+      },
+      {
+        "ref": "1 Corinthians 15:27",
+        "note": "He has put all things in subjection under his feet."
+      },
+      {
+        "ref": "Ephesians 5:21",
+        "note": "Submitting to one another out of reverence for Christ."
+      },
+      {
+        "ref": "1 Peter 2:13",
+        "note": "Be subject for the Lord's sake to every human institution."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakonos",
+    "transliteration": "diakonos",
+    "original": "διάκονος",
+    "pronunciation": "dee-AK-on-os",
+    "gloss": "servant, minister, deacon",
+    "notes": "One who serves, a servant or minister. It is the word for \"deacon\" in the church. Paul calls the governing authority \"a servant of God\" (13:4), Christ \"a servant to the circumcision\" (15:8), and Phoebe \"a servant of the assembly at Cenchreae\" (16:1).",
+    "range": [
+      {
+        "sense": "Servant",
+        "note": "One who waits on others."
+      },
+      {
+        "sense": "Minister",
+        "note": "One who serves a community."
+      },
+      {
+        "sense": "Deacon",
+        "note": "A church office."
+      }
+    ],
+    "translations": [
+      "servant",
+      "minister",
+      "deacon"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 20:26",
+        "note": "Whoever would be great among you must be your servant."
+      },
+      {
+        "ref": "John 12:26",
+        "note": "Where I am, there will my servant be also."
+      },
+      {
+        "ref": "Philippians 1:1",
+        "note": "With the overseers and deacons."
+      },
+      {
+        "ref": "1 Timothy 3:8",
+        "note": "Deacons must be dignified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proskomma",
+    "transliteration": "proskomma",
+    "original": "πρόσκομμα",
+    "pronunciation": "PROS-kom-ma",
+    "gloss": "stumbling block, offense",
+    "notes": "Something that makes you trip. Paul warns the strong not to put a stumbling block in a brother's way (14:13, 14:20). It is the \"stone of stumbling\" of Isaiah 8:14 in 9:32-33.",
+    "range": [
+      {
+        "sense": "Stumbling block",
+        "note": "An obstacle."
+      },
+      {
+        "sense": "Offense",
+        "note": "Something that causes a fall."
+      }
+    ],
+    "translations": [
+      "stumbling block",
+      "offense"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 8:9",
+        "note": "This right of yours does not somehow become a stumbling block to the weak."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oikodome",
+    "transliteration": "oikodomē",
+    "original": "οἰκοδομή",
+    "pronunciation": "oy-kod-om-AY",
+    "gloss": "building up, edification",
+    "notes": "The act of building, or the building itself, and so the strengthening of a community. Paul urges the Romans to pursue \"the things by which we may build one another up\" (14:19, 15:2). It is a favorite word of his for the work of the church.",
+    "range": [
+      {
+        "sense": "Building up",
+        "note": "Strengthening."
+      },
+      {
+        "sense": "Edification",
+        "note": "Spiritual growth."
+      },
+      {
+        "sense": "Building",
+        "note": "A structure."
+      }
+    ],
+    "translations": [
+      "build up",
+      "edification",
+      "building"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:1",
+        "note": "The disciples came to point out the buildings of the temple."
+      },
+      {
+        "ref": "1 Corinthians 14:12",
+        "note": "Strive to excel in building up the church."
+      },
+      {
+        "ref": "2 Corinthians 10:8",
+        "note": "The authority the Lord gave for building you up."
+      },
+      {
+        "ref": "Ephesians 4:12",
+        "note": "For building up the body of Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "leitourgos",
+    "transliteration": "leitourgos",
+    "original": "λειτουργός",
+    "pronunciation": "lay-toorg-OSS",
+    "gloss": "minister, servant of the public",
+    "notes": "A public servant or, in a religious setting, a priestly minister. Paul says he is \"a servant of Christ Jesus to the Gentiles\" in a priestly role (15:16), and calls the governing authorities \"ministers of God\" (13:6). It gives us \"liturgy.\"",
+    "range": [
+      {
+        "sense": "Minister",
+        "note": "One who serves publicly."
+      },
+      {
+        "sense": "Priest",
+        "note": "One who serves in worship."
+      }
+    ],
+    "translations": [
+      "minister",
+      "servant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Philippians 2:25",
+        "note": "Your messenger and minister to my need."
+      },
+      {
+        "ref": "Hebrews 1:7",
+        "note": "He makes his angels winds, his ministers a flame of fire."
+      },
+      {
+        "ref": "Hebrews 8:2",
+        "note": "A minister in the holy places."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hierourgeo",
+    "transliteration": "hierourgeō",
+    "original": "ἱερουργέω",
+    "pronunciation": "hee-er-oorg-EH-oh",
+    "gloss": "to serve as a priest",
+    "notes": "To perform sacred rites, to work as a priest. Paul describes his gospel ministry as \"serving as a priest the Good News of God, that the offering of the Gentiles may be acceptable\" (15:16). It occurs only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Serve as priest",
+        "note": "Perform sacred service."
+      }
+    ],
+    "translations": [
+      "serve as a priest",
+      "minister"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paraklesis",
+    "transliteration": "paraklēsis",
+    "original": "παράκλησις",
+    "pronunciation": "par-AK-lay-sis",
+    "gloss": "encouragement, comfort",
+    "notes": "The noun from parakaleō: encouragement, comfort, exhortation. Paul speaks of \"the encouragement of the Scriptures\" (15:4) and \"the God of perseverance and encouragement\" (15:5). The title \"Son of Encouragement\" for Barnabas (Acts 4:36) uses the same noun.",
+    "range": [
+      {
+        "sense": "Encouragement",
+        "note": "Giving courage."
+      },
+      {
+        "sense": "Comfort",
+        "note": "Consolation."
+      },
+      {
+        "sense": "Exhortation",
+        "note": "Urging."
+      }
+    ],
+    "translations": [
+      "encouragement",
+      "comfort",
+      "exhortation"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 6:24",
+        "note": "You have received your consolation."
+      },
+      {
+        "ref": "Acts 4:36",
+        "note": "Barnabas, which means son of encouragement."
+      },
+      {
+        "ref": "2 Corinthians 1:3",
+        "note": "The God of all comfort."
+      },
+      {
+        "ref": "Philippians 2:1",
+        "note": "If there is any encouragement in Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prostatis",
+    "transliteration": "prostatis",
+    "original": "προστάτις",
+    "pronunciation": "pros-TAT-is",
+    "gloss": "patron, helper",
+    "notes": "A woman who stands before, a patron, protector, or benefactor. Paul says Phoebe \"has been a helper of many, and of my own self\" (16:2). It occurs only here, but the masculine form prostatēs was a recognized title for a patron in Roman society.",
+    "range": [
+      {
+        "sense": "Patron",
+        "note": "A benefactor."
+      },
+      {
+        "sense": "Helper",
+        "note": "One who stands by."
+      }
+    ],
+    "translations": [
+      "helper",
+      "patron",
+      "benefactor"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hypakoe",
+    "transliteration": "hypakoē",
+    "original": "ὑπακοή",
+    "pronunciation": "hoop-ak-o-AY",
+    "gloss": "obedience",
+    "notes": "Literally \"listening under,\" obedience, attentiveness to a command. The letter begins and ends with \"obedience of faith\" (1:5, 16:26), and Paul says their obedience is known to all (16:19). It is not obedience that earns salvation but the response of trust.",
+    "range": [
+      {
+        "sense": "Obedience",
+        "note": "Listening and doing."
+      },
+      {
+        "sense": "Submission",
+        "note": "Yielding to authority."
+      }
+    ],
+    "translations": [
+      "obedience"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 10:5",
+        "note": "Take every thought captive to obey Christ."
+      },
+      {
+        "ref": "Hebrews 5:8",
+        "note": "He learned obedience through what he suffered."
+      },
+      {
+        "ref": "1 Peter 1:2",
+        "note": "For obedience to Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aspazomai",
+    "transliteration": "aspazomai",
+    "original": "ἀσπάζομαι",
+    "pronunciation": "as-PAD-zom-eye",
+    "gloss": "to greet",
+    "notes": "To greet, welcome, or embrace. It occurs about twenty times in Romans 16, where Paul sends greetings to over two dozen people by name, and in his other letters' closings. It is a way of showing real bonds between people far apart.",
+    "range": [
+      {
+        "sense": "Greet",
+        "note": "Welcome and acknowledge."
+      },
+      {
+        "sense": "Embrace",
+        "note": "Show affection."
+      }
+    ],
+    "translations": [
+      "greet",
+      "salute"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:47",
+        "note": "If you greet only your brothers, what more are you doing?"
+      },
+      {
+        "ref": "Luke 1:40",
+        "note": "She entered the house of Zechariah and greeted Elizabeth."
+      },
+      {
+        "ref": "1 Corinthians 16:19",
+        "note": "The churches of Asia send you greetings."
+      },
+      {
+        "ref": "Hebrews 13:24",
+        "note": "Greet all your leaders."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinos",
+    "transliteration": "koinos",
+    "original": "κοινός",
+    "pronunciation": "koy-NOCE",
+    "gloss": "common, unclean",
+    "notes": "Common, shared, and also ritually unclean. \"Nothing is unclean of itself\" (14:14).",
+    "range": [
+      {
+        "sense": "Shared",
+        "note": "Held in common."
+      },
+      {
+        "sense": "Ordinary or unclean",
+        "note": "Not set apart as holy."
+      }
+    ],
+    "translations": [
+      "common",
+      "unclean",
+      "defiled",
+      "unwashed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:2",
+        "note": "With hands that were defiled."
+      },
+      {
+        "ref": "Acts 10:14",
+        "note": "I have never eaten anything common or unclean."
+      },
+      {
+        "ref": "Titus 1:4",
+        "note": "A common faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "bema",
+    "transliteration": "bēma",
+    "original": "βῆμα",
+    "pronunciation": "BAY-mah",
+    "gloss": "judgment seat, platform",
+    "notes": "A raised platform, a judgment seat. \"We will all stand before the judgment seat of God\" (14:10).",
+    "range": [
+      {
+        "sense": "Judgment seat",
+        "note": "A tribunal."
+      },
+      {
+        "sense": "Platform",
+        "note": "A raised speaker's stand."
+      }
+    ],
+    "translations": [
+      "judgment seat",
+      "tribunal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 18:12",
+        "note": "They brought him to the judgment seat."
+      },
+      {
+        "ref": "2 Corinthians 5:10",
+        "note": "We must all appear before the judgment seat of Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "A kingdom, a rule or reign. \"The Kingdom of God is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit\" (14:17).",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:17",
+        "note": "The kingdom of heaven is at hand."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "The kingdom of God is at hand."
+      },
+      {
+        "ref": "John 18:36",
+        "note": "My kingdom is not of this world."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "Authority, the right and the power to act. \"There is no authority except from God\" (13:1-3).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "All authority has been given to me."
+      },
+      {
+        "ref": "Colossians 1:13",
+        "note": "Delivered from the power of darkness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phoros",
+    "transliteration": "phoros",
+    "original": "φόρος",
+    "pronunciation": "FOR-os",
+    "gloss": "tribute, tax",
+    "notes": "Tribute, tax paid to a ruler. \"Taxes to whom taxes are due\" (13:6-7).",
+    "range": [
+      {
+        "sense": "Tribute",
+        "note": "A tax paid to a ruler."
+      },
+      {
+        "sense": "Tax",
+        "note": "A payment demanded by government."
+      }
+    ],
+    "translations": [
+      "tribute",
+      "tax"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 20:22",
+        "note": "Is it lawful for us to pay tribute to Caesar?"
+      },
+      {
+        "ref": "Luke 23:2",
+        "note": "Forbidding to give tribute to Caesar."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "plesion",
+    "transliteration": "plēsion",
+    "original": "πλησίον",
+    "pronunciation": "play-SEE-on",
+    "gloss": "neighbor",
+    "notes": "\"Neighbor,\" the one near. \"You shall love your neighbor as yourself\" (13:9).",
+    "range": [
+      {
+        "sense": "Neighbor",
+        "note": "Someone near."
+      },
+      {
+        "sense": "Fellow person",
+        "note": "Another human being."
+      }
+    ],
+    "translations": [
+      "neighbor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:39",
+        "note": "You shall love your neighbor as yourself."
+      },
+      {
+        "ref": "Luke 10:27",
+        "note": "Love your neighbor as yourself."
+      },
+      {
+        "ref": "Galatians 5:14",
+        "note": "The whole law is fulfilled in one word."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phos",
+    "transliteration": "phōs",
+    "original": "φῶς",
+    "pronunciation": "FOCE",
+    "gloss": "light",
+    "notes": "Light. \"The armor of light\" (13:12).",
+    "range": [
+      {
+        "sense": "Light",
+        "note": "Illumination."
+      },
+      {
+        "sense": "Revelation",
+        "note": "What shows the truth."
+      }
+    ],
+    "translations": [
+      "light"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:14",
+        "note": "You are the light of the world."
+      },
+      {
+        "ref": "John 8:12",
+        "note": "I am the light of the world."
+      },
+      {
+        "ref": "1 John 1:5",
+        "note": "God is light."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinonia",
+    "transliteration": "koinōnia",
+    "original": "κοινωνία",
+    "pronunciation": "koy-nown-EE-ah",
+    "gloss": "fellowship, sharing",
+    "notes": "Fellowship, sharing. \"A certain contribution for the poor among the saints\" (15:26).",
+    "range": [
+      {
+        "sense": "Fellowship",
+        "note": "A shared life."
+      },
+      {
+        "sense": "Partnership",
+        "note": "Joint participation."
+      },
+      {
+        "sense": "Contribution",
+        "note": "A shared gift."
+      }
+    ],
+    "translations": [
+      "fellowship",
+      "sharing",
+      "participation",
+      "partnership"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 2:42",
+        "note": "The fellowship."
+      },
+      {
+        "ref": "2 Corinthians 8:4",
+        "note": "The favor of taking part in the relief of the saints."
+      },
+      {
+        "ref": "Philippians 1:5",
+        "note": "Your partnership in the gospel."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apostolos",
+    "transliteration": "apostolos",
+    "original": "ἀπόστολος",
+    "pronunciation": "ah-POSS-toh-loss",
+    "gloss": "apostle, one sent",
+    "notes": "Someone sent with authority. Andronicus and Junia are \"notable among the apostles\" (16:7).",
+    "range": [
+      {
+        "sense": "Messenger",
+        "note": "Someone sent with a message."
+      },
+      {
+        "sense": "Envoy",
+        "note": "Someone sent to act with the sender's authority."
+      },
+      {
+        "sense": "The apostles",
+        "note": "The twelve, and later others such as Paul."
+      }
+    ],
+    "translations": [
+      "apostle",
+      "messenger",
+      "one who is sent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 6:13",
+        "note": "Whom he also named apostles."
+      },
+      {
+        "ref": "Acts 1:26",
+        "note": "Numbered with the eleven apostles."
+      },
+      {
+        "ref": "1 Corinthians 15:7",
+        "note": "Then to all the apostles."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To dip or immerse. John baptized with water; Jesus' followers will be baptized with the Holy Spirit (1:5), and Peter calls for baptism \"in the name of Jesus Christ\" (2:38).",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:13",
+        "note": "Jesus comes to John to be baptized."
+      },
+      {
+        "ref": "Mark 1:9",
+        "note": "Jesus is baptized in the Jordan."
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "Be baptized in the name of Jesus Christ."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

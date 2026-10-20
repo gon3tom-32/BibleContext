@@ -83,6 +83,38 @@
     {
       "id": "elijah",
       "theographic": "elijah_1131"
+    },
+    {
+      "id": "prisca-and-aquila",
+      "theographic": "priscilla_2370"
+    },
+    {
+      "id": "epaenetus",
+      "theographic": "epaenetus_1194"
+    },
+    {
+      "id": "andronicus",
+      "theographic": "andronicus_265"
+    },
+    {
+      "id": "junia",
+      "theographic": "junia_1764"
+    },
+    {
+      "id": "rufus",
+      "theographic": "rufus_2449"
+    },
+    {
+      "id": "tertius",
+      "theographic": "tertius_2843"
+    },
+    {
+      "id": "gaius",
+      "theographic": "gaius_1271"
+    },
+    {
+      "id": "erastus",
+      "theographic": "erastus_1213"
     }
   ],
   "words": [
@@ -542,6 +574,147 @@
         "G3528"
       ],
       "foundAt": "Romans 12:21"
+    },
+    {
+      "id": "hypotasso",
+      "strongs": [
+        "G5293"
+      ],
+      "foundAt": "Romans 13:1"
+    },
+    {
+      "id": "diakonos",
+      "strongs": [
+        "G1249"
+      ],
+      "foundAt": "Romans 13:4"
+    },
+    {
+      "id": "proskomma",
+      "strongs": [
+        "G4348"
+      ],
+      "foundAt": "Romans 14:13"
+    },
+    {
+      "id": "oikodome",
+      "strongs": [
+        "G3619"
+      ],
+      "foundAt": "Romans 14:19"
+    },
+    {
+      "id": "leitourgos",
+      "strongs": [
+        "G3011"
+      ],
+      "foundAt": "Romans 15:16"
+    },
+    {
+      "id": "hierourgeo",
+      "strongs": [
+        "G2418"
+      ],
+      "foundAt": "Romans 15:16"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "Romans 15:4"
+    },
+    {
+      "id": "prostatis",
+      "strongs": [
+        "G4368"
+      ],
+      "foundAt": "Romans 16:2"
+    },
+    {
+      "id": "hypakoe",
+      "strongs": [
+        "G5218"
+      ],
+      "foundAt": "Romans 16:19"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "Romans 16:3"
+    },
+    {
+      "id": "koinos",
+      "strongs": [
+        "G2839G",
+        "G2839H"
+      ],
+      "foundAt": "Romans 14:14"
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "foundAt": "Romans 14:10"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Romans 14:17"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Romans 13:1"
+    },
+    {
+      "id": "phoros",
+      "strongs": [
+        "G5411"
+      ],
+      "foundAt": "Romans 13:6"
+    },
+    {
+      "id": "plesion",
+      "strongs": [
+        "G4139"
+      ],
+      "foundAt": "Romans 13:9"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "Romans 13:12"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Romans 15:26"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Romans 16:7"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Romans 6:3"
     }
   ],
   "crossRefs": {

@@ -665,6 +665,203 @@
         "item": "elijah_1131",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "prisca-and-aquila",
+      "name": "Priscilla",
+      "alsoCalled": "Prisca",
+      "gender": "Female",
+      "family": {
+        "spouses": [
+          {
+            "name": "Aquila"
+          }
+        ],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:3"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "priscilla_2370",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "epaenetus",
+      "name": "Epaenetus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:5"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "epaenetus_1194",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "andronicus",
+      "name": "Andronicus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:7"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "andronicus_265",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "junia",
+      "name": "Junia",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:7"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "junia_1764",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "rufus",
+      "name": "Rufus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:13"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "rufus_2449",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "tertius",
+      "name": "Tertius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:22"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "tertius_2843",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "gaius",
+      "name": "Gaius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:23"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "gaius_1271",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "erastus",
+      "name": "Erastus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        16
+      ],
+      "verses": [
+        "Romans 16:23"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "erastus_1213",
+        "recordStatus": "publish"
+      }
     }
   ]
 }

@@ -1098,7 +1098,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Proverbs 8:15",
+          "inDataset": true,
+          "votes": 23
+        },
+        {
+          "ref": "Daniel 2:21",
+          "inDataset": true,
+          "votes": 43
+        },
+        {
+          "ref": "Leviticus 19:18",
+          "inDataset": true,
+          "votes": 26
+        },
+        {
+          "ref": "Titus 3:1",
+          "inDataset": true,
+          "votes": 79
+        }
+      ]
     },
     {
       "number": 14,
@@ -1163,7 +1184,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 45:23",
+          "inDataset": true,
+          "votes": 53
+        },
+        {
+          "ref": "1 Corinthians 8:1-13",
+          "inDataset": true,
+          "votes": 117
+        },
+        {
+          "ref": "Titus 1:15",
+          "inDataset": true,
+          "votes": 39
+        },
+        {
+          "ref": "Acts 10:15",
+          "inDataset": true,
+          "votes": 14
+        }
+      ]
     },
     {
       "number": 15,
@@ -1225,7 +1267,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 69:9",
+          "inDataset": true,
+          "votes": 48
+        },
+        {
+          "ref": "Isaiah 11:10",
+          "inDataset": true,
+          "votes": 30
+        },
+        {
+          "ref": "Isaiah 52:15",
+          "inDataset": true,
+          "votes": 30
+        },
+        {
+          "ref": "Acts 24:17",
+          "inDataset": true,
+          "votes": 7
+        }
+      ]
     },
     {
       "number": 16,
@@ -1287,7 +1350,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Acts 18:2-3",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Genesis 3:15",
+          "inDataset": true,
+          "votes": 20
+        },
+        {
+          "ref": "Mark 15:21",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Romans 1:5",
+          "inDataset": true,
+          "votes": 6
+        }
+      ]
     }
   ]
 }

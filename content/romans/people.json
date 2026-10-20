@@ -113,5 +113,80 @@
     "id": "the-enemy",
     "name": "Your enemy",
     "note": "To be fed when hungry."
+  },
+  {
+    "id": "the-roman-authorities",
+    "name": "The authorities",
+    "note": "The governing rulers of Rome."
+  },
+  {
+    "id": "the-weak-in-faith",
+    "name": "The weak in faith",
+    "note": "Those with scruples about food and days."
+  },
+  {
+    "id": "the-strong-in-faith",
+    "name": "The strong in faith",
+    "note": "Those who are free to eat all things."
+  },
+  {
+    "id": "the-poor-in-jerusalem",
+    "name": "The poor among the saints in Jerusalem",
+    "note": "Recipients of the collection."
+  },
+  {
+    "id": "the-churches-of-macedonia-and-achaia",
+    "name": "The churches of Macedonia and Achaia",
+    "note": "Gave to the collection."
+  },
+  {
+    "id": "phoebe",
+    "name": "Phoebe",
+    "note": "A servant of the church at Cenchreae and a patron of many; she carried the letter."
+  },
+  {
+    "id": "prisca-and-aquila",
+    "name": "Prisca and Aquila",
+    "note": "A couple who worked with Paul in Corinth and Ephesus, and now host a church in Rome."
+  },
+  {
+    "id": "epaenetus",
+    "name": "Epaenetus",
+    "note": "The first convert in Asia."
+  },
+  {
+    "id": "andronicus",
+    "name": "Andronicus",
+    "note": "A relative and fellow prisoner of Paul."
+  },
+  {
+    "id": "junia",
+    "name": "Junia",
+    "note": "Named with Andronicus as notable among the apostles."
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "note": "Chosen in the Lord, with his mother."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Paul's fellow worker."
+  },
+  {
+    "id": "tertius",
+    "name": "Tertius",
+    "note": "The secretary who wrote down the letter."
+  },
+  {
+    "id": "gaius",
+    "name": "Gaius",
+    "note": "Host to Paul and the whole church."
+  },
+  {
+    "id": "erastus",
+    "name": "Erastus",
+    "note": "The city treasurer."
   }
 ]
