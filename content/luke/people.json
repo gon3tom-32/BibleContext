@@ -408,5 +408,70 @@
     "id": "david",
     "name": "David",
     "note": "The king of Israel, Jesus' ancestor, who wrote Psalm 110."
+  },
+  {
+    "id": "the-widow",
+    "name": "The poor widow",
+    "note": "Gives two small coins at the treasury."
+  },
+  {
+    "id": "the-servant-girl",
+    "name": "The servant girl",
+    "note": "Says Peter was with Jesus."
+  },
+  {
+    "id": "the-high-priests-servant",
+    "name": "The high priest's servant",
+    "note": "Has his right ear cut off, and healed."
+  },
+  {
+    "id": "barabbas",
+    "name": "Barabbas",
+    "note": "A prisoner arrested in an uprising."
+  },
+  {
+    "id": "simon-of-cyrene",
+    "name": "Simon of Cyrene",
+    "note": "Carries the cross."
+  },
+  {
+    "id": "the-women-of-jerusalem",
+    "name": "The daughters of Jerusalem",
+    "note": "Women who mourn as Jesus is led out."
+  },
+  {
+    "id": "the-criminals",
+    "name": "The two criminals",
+    "note": "Crucified on either side of Jesus."
+  },
+  {
+    "id": "joseph-of-arimathea",
+    "name": "Joseph of Arimathea",
+    "note": "A good and righteous man on the council, who buries Jesus."
+  },
+  {
+    "id": "the-women-from-galilee",
+    "name": "The women from Galilee",
+    "note": "Followers of Jesus who watch the crucifixion and the burial."
+  },
+  {
+    "id": "mary-mother-of-james",
+    "name": "Mary, mother of James",
+    "note": "One of the women at the tomb."
+  },
+  {
+    "id": "the-two-men-at-the-tomb",
+    "name": "Two men in dazzling clothes",
+    "note": "Luke doesn't say who they are; the later verses call them angels."
+  },
+  {
+    "id": "cleopas",
+    "name": "Cleopas",
+    "note": "One of the two on the road to Emmaus."
+  },
+  {
+    "id": "the-eleven",
+    "name": "The eleven",
+    "note": "The apostles after Judas' death."
   }
 ]

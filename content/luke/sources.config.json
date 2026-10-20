@@ -194,6 +194,14 @@
     {
       "id": "pilate",
       "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
     }
   ],
   "words": [
@@ -653,6 +661,118 @@
         "G3027"
       ],
       "foundAt": "Luke 19:46"
+    },
+    {
+      "id": "apolytrosis",
+      "strongs": [
+        "G0629"
+      ],
+      "foundAt": "Luke 21:28"
+    },
+    {
+      "id": "agrypneo",
+      "strongs": [
+        "G0069"
+      ],
+      "foundAt": "Luke 21:36"
+    },
+    {
+      "id": "anamnesis",
+      "strongs": [
+        "G0364"
+      ],
+      "foundAt": "Luke 22:19"
+    },
+    {
+      "id": "siniazo",
+      "strongs": [
+        "G4617"
+      ],
+      "foundAt": "Luke 22:31"
+    },
+    {
+      "id": "paradeisos",
+      "strongs": [
+        "G3857"
+      ],
+      "foundAt": "Luke 23:43"
+    },
+    {
+      "id": "dikaios",
+      "strongs": [
+        "G1342"
+      ],
+      "foundAt": "Luke 23:47"
+    },
+    {
+      "id": "diermeneuo",
+      "strongs": [
+        "G1329"
+      ],
+      "foundAt": "Luke 24:27"
+    },
+    {
+      "id": "elpizo",
+      "strongs": [
+        "G1679"
+      ],
+      "foundAt": "Luke 24:21"
+    },
+    {
+      "id": "ethnos",
+      "strongs": [
+        "G1484"
+      ],
+      "foundAt": "Luke 21:24"
+    },
+    {
+      "id": "lepton",
+      "strongs": [
+        "G3016"
+      ],
+      "foundAt": "Luke 21:2"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Luke 22:20"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Luke 22:1"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Luke 23:21"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Luke 23:45"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Luke 23:1"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Luke 24:6"
     }
   ],
   "crossRefs": {
@@ -667,10 +787,6 @@
     {
       "area": "places",
       "text": "Where Emmaus was is debated; several sites have been proposed, so the marker is a best guess from OpenBible's data."
-    },
-    {
-      "area": "chapters",
-      "text": "Chapters 21 to 24 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

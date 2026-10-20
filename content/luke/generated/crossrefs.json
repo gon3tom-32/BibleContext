@@ -1804,7 +1804,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 7:13-14",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Daniel 9:26",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Isaiah 40:8",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Jeremiah 1:9",
+          "inDataset": true,
+          "votes": 33
+        }
+      ]
     },
     {
       "number": 22,
@@ -1867,7 +1888,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Jeremiah 31:31-34",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Isaiah 53:12",
+          "inDataset": true,
+          "votes": 29
+        },
+        {
+          "ref": "Psalm 110:1",
+          "inDataset": true,
+          "votes": 7
+        },
+        {
+          "ref": "Job 1:9-12",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Exodus 24:8",
+          "inDataset": true,
+          "votes": 6
+        }
+      ]
     },
     {
       "number": 23,
@@ -1929,7 +1976,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 31:5",
+          "inDataset": true,
+          "votes": 96
+        },
+        {
+          "ref": "Isaiah 53:12",
+          "inDataset": true,
+          "votes": 38
+        },
+        {
+          "ref": "Psalm 22:18",
+          "inDataset": true,
+          "votes": 31
+        },
+        {
+          "ref": "Hosea 10:8",
+          "inDataset": true,
+          "votes": 21
+        },
+        {
+          "ref": "Psalm 22:7-8",
+          "inDataset": true,
+          "votes": 4
+        }
+      ]
     },
     {
       "number": 24,
@@ -1995,7 +2068,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 16:10",
+          "inDataset": true,
+          "votes": 13
+        },
+        {
+          "ref": "Isaiah 53:10-12",
+          "inDataset": true,
+          "votes": 49
+        },
+        {
+          "ref": "Psalm 110:1",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Genesis 3:15",
+          "inDataset": true,
+          "votes": 14
+        },
+        {
+          "ref": "Acts 1:8",
+          "inDataset": true,
+          "votes": 33
+        }
+      ]
     }
   ]
 }

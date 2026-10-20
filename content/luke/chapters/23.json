@@ -1,0 +1,114 @@
+{
+  "sceneHappening": "Before Pilate and Herod, the cross between two criminals, and the burial",
+  "summary": "The whole council takes Jesus to Pilate and accuses him: \"We found this man perverting our nation, forbidding paying taxes to Caesar, and saying that he himself is Christ, a king.\" Pilate asks, \"Are you the King of the Jews?\" \"So you say.\" Pilate says, \"I find no basis for a charge against this man.\" When they insist that he stirs up the people from Galilee to here, Pilate learns that Jesus is a Galilean and sends him to Herod, who is in Jerusalem at that time. Herod is glad to see him, having wanted to for a long time, and hoping to see a sign, questions him at length, but Jesus answers nothing while the chief priests and scribes stand by accusing him. Herod and his soldiers treat him with contempt and mock him, dress him in an elegant robe, and send him back to Pilate; that day Herod and Pilate become friends. Pilate calls the chief priests, rulers, and the people: \"You brought this man to me, as one that perverts the people, and see, I have examined him before you, and found no basis for the accusations. No, nor has Herod, for he sent him back to us. Behold, nothing worthy of death has been done by him. I will therefore chastise him and release him.\" They cry out all together, \"Away with this man! Release to us Barabbas!\" Pilate speaks again, wishing to release Jesus, but they shout, \"Crucify! Crucify him!\" A third time he asks, \"Why? What evil has this man done?\" but their voices prevail, and Pilate gives sentence as they demand, releasing Barabbas, who had been thrown in prison for insurrection and murder, and delivering Jesus to their will. As they lead him away they seize Simon of Cyrene coming from the country and lay the cross on him to carry behind Jesus. A great multitude follows, including women who mourn and lament. Jesus turns: \"Daughters of Jerusalem, don't weep for me, but weep for yourselves and for your children. For behold, the days are coming in which they will say, 'Blessed are the barren, the wombs that never bore, and the breasts that never nursed.' Then they will begin to tell the mountains, 'Fall on us!' and to the hills, 'Cover us.' For if they do these things in the green tree, what will be done in the dry?\" Two criminals are led with him. At the place called The Skull they crucify him with the criminals, one on the right and the other on the left. Jesus says, \"Father, forgive them, for they don't know what they are doing.\" They divide his clothes by casting lots. The people stand watching; the rulers sneer, \"He saved others. Let him save himself, if this is the Christ of God, his chosen one!\" The soldiers mock him, offering sour wine: \"If you are the King of the Jews, save yourself!\" Over him is an inscription: \"THIS IS THE KING OF THE JEWS.\" One of the criminals hangs and hurls insults, \"Aren't you the Christ? Save yourself and us!\" The other rebukes him: \"Don't you even fear God, seeing you are under the same condemnation? And we indeed justly, for we receive the due reward for our deeds, but this man has done nothing wrong.\" He says, \"Jesus, remember me when you come into your Kingdom.\" Jesus says to him, \"Truly I tell you, today you will be with me in Paradise.\" It is about the sixth hour, and darkness comes over the whole land until the ninth hour, the sun's light failing, and the curtain of the temple is torn in two. Jesus, crying out with a loud voice, says, \"Father, into your hands I commit my spirit,\" and breathes his last. The centurion, seeing what has happened, praises God: \"Certainly this was a righteous man.\" All the crowds who came together for the sight, seeing what happened, return beating their breasts, and all his acquaintances and the women who followed from Galilee stand at a distance watching. A good and righteous man named Joseph, a member of the council who had not consented to their decision, from the Jewish town of Arimathea, who was looking for the Kingdom of God, goes to Pilate, asks for the body, takes it down, wraps it in a linen cloth, and lays it in a tomb cut in stone where no one had ever been laid. It is the day of preparation, and the Sabbath is about to begin. The women who came with him from Galilee follow, see the tomb and how his body is laid, and return and prepare spices and ointments, and on the Sabbath they rest according to the commandment.",
+  "whySettingMatters": "Luke stresses Jesus' innocence more than any other Gospel: Pilate says three times that he finds no guilt, Herod finds nothing, and the centurion and one of the criminals declare him innocent. This is part of Luke's picture of a righteous sufferer. Herod Antipas, the ruler of Galilee, was in Jerusalem for Passover, which is why Pilate could pass the case to him; the two had been enemies and became friends. The charge of forbidding taxes is false, given 20:25. Luke names three charges, all political, to bring Jesus before a Roman. The \"daughters of Jerusalem\" were women who lamented the condemned, and Jesus' reply takes up Hosea 10:8 and warns of a coming destruction. \"Green tree\" and \"dry\" is a proverb: if this happens to the innocent, what awaits the guilty. The prayer \"Father, forgive them\" is missing in some early manuscripts, and whether it is original is debated. \"Paradise\" is a Persian word for a garden, used in the Greek Old Testament for Eden (Genesis 2:8), and it appears in the New Testament only three times. The darkness at noon and the torn curtain are signs; Luke has the curtain torn before Jesus dies. \"Into your hands I commit my spirit\" is from Psalm 31:5. In Mark the centurion says \"Son of God\"; in Luke he says \"a righteous man,\" which fits Luke's theme. Joseph of Arimathea is introduced as one of the council who had not agreed, and as one who waited for the kingdom, like Simeon and Anna.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Tried, crucified, and buried; he forgives and promises paradise."
+    },
+    {
+      "id": "pilate",
+      "note": "Finds no guilt three times, and gives in."
+    },
+    {
+      "id": "herod-antipas",
+      "note": "Mocks Jesus and sends him back."
+    },
+    {
+      "id": "barabbas",
+      "note": "Released in his place."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Press the charges."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Shout for his death, then go home beating their breasts."
+    },
+    {
+      "id": "simon-of-cyrene",
+      "note": "Carries the cross behind Jesus."
+    },
+    {
+      "id": "the-women-of-jerusalem",
+      "note": "Mourn as he is led out."
+    },
+    {
+      "id": "the-criminals",
+      "note": "Crucified on either side; one mocks, one asks to be remembered."
+    },
+    {
+      "id": "the-centurion",
+      "note": "Calls him a righteous man."
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "note": "A council member who buries him."
+    },
+    {
+      "id": "the-women-from-galilee",
+      "note": "Watch from a distance and see the tomb."
+    }
+  ],
+  "questions": [
+    "Luke has Pilate say three times that Jesus is innocent. What is Luke setting up?",
+    "Jesus says, \"Father, forgive them,\" from the cross. Who is \"them\"?",
+    "The second criminal says, \"Remember me.\" Why does Jesus answer so quickly and fully?",
+    "The centurion says, \"a righteous man.\" What does that word say that \"Son of God\" doesn't?"
+  ],
+  "words": [
+    {
+      "id": "paradeisos",
+      "note": "\"Today you will be with me in Paradise\" (23:43)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"Certainly this was a righteous man\" (23:47), and Joseph, \"a good and righteous man\" (23:50)."
+    },
+    {
+      "id": "aphiemi",
+      "note": "\"Father, forgive them\" (23:34)."
+    },
+    {
+      "id": "stauroo",
+      "note": "\"Crucify him!\" (23:21, 23:23)."
+    },
+    {
+      "id": "katapetasma",
+      "note": "The temple curtain torn in two (23:45)."
+    },
+    {
+      "id": "sanhedrion",
+      "note": "The whole council (23:1)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 31:5",
+      "note": "\"Into your hand I commit my spirit\""
+    },
+    {
+      "ref": "Isaiah 53:12",
+      "note": "he was numbered with the transgressors"
+    },
+    {
+      "ref": "Psalm 22:18",
+      "note": "they divide my garments"
+    },
+    {
+      "ref": "Hosea 10:8",
+      "note": "they will say to the mountains, Cover us"
+    },
+    {
+      "ref": "Psalm 22:7-8",
+      "note": "all who see me mock me"
+    }
+  ],
+  "number": 23,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

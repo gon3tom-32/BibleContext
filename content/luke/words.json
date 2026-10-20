@@ -2860,5 +2860,676 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "apolytrosis",
+    "transliteration": "apolytrōsis",
+    "original": "ἀπολύτρωσις",
+    "pronunciation": "ap-ol-OO-tro-sis",
+    "gloss": "redemption, release",
+    "notes": "The payment or act that frees a slave or prisoner. Jesus says that when the signs begin, \"lift up your heads, because your redemption is near\" (21:28). It belongs to the same family as lytron, \"ransom.\" Paul uses it of what Christ's death does (Romans 3:24; Ephesians 1:7).",
+    "range": [
+      {
+        "sense": "Redemption",
+        "note": "Release by payment."
+      },
+      {
+        "sense": "Deliverance",
+        "note": "Rescue from captivity."
+      }
+    ],
+    "translations": [
+      "redemption",
+      "release"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 3:24",
+        "note": "Justified by his grace through the redemption in Christ Jesus."
+      },
+      {
+        "ref": "Ephesians 1:7",
+        "note": "In him we have redemption through his blood."
+      },
+      {
+        "ref": "Colossians 1:14",
+        "note": "Redemption, the forgiveness of sins."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "Redemption of the transgressions."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agrypneo",
+    "transliteration": "agrypneō",
+    "original": "ἀγρυπνέω",
+    "pronunciation": "ag-roop-NEH-oh",
+    "gloss": "to stay awake, to be alert",
+    "notes": "To lose sleep, to be wakeful, and so to watch. Jesus ends his teaching with \"Watch at all times, praying\" (21:36). Mark 13:33 and Ephesians 6:18 use the same word.",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Keep from sleeping."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Be watchful."
+      }
+    ],
+    "translations": [
+      "watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 13:33",
+        "note": "Take heed, keep alert."
+      },
+      {
+        "ref": "Ephesians 6:18",
+        "note": "Keep alert with all perseverance."
+      },
+      {
+        "ref": "Hebrews 13:17",
+        "note": "They keep watch over your souls."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anamnesis",
+    "transliteration": "anamnēsis",
+    "original": "ἀνάμνησις",
+    "pronunciation": "an-AM-nay-sis",
+    "gloss": "remembrance",
+    "notes": "A calling to mind that makes something present again, not merely a memory. Jesus says, \"Do this in memory of me\" (22:19), at a meal that already recalls the Passover. The word also appears in Paul's account (1 Corinthians 11:24-25).",
+    "range": [
+      {
+        "sense": "Remembrance",
+        "note": "Calling to mind."
+      },
+      {
+        "sense": "Memorial",
+        "note": "A remembering action."
+      }
+    ],
+    "translations": [
+      "remembrance",
+      "memory"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 11:24",
+        "note": "Do this in remembrance of me."
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "Do this, as often as you drink it, in remembrance of me."
+      },
+      {
+        "ref": "Hebrews 10:3",
+        "note": "A reminder of sins every year."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "siniazo",
+    "transliteration": "siniazō",
+    "original": "σινιάζω",
+    "pronunciation": "sin-ee-AD-zo",
+    "gloss": "to sift",
+    "notes": "To shake in a sieve, separating wheat from chaff. Jesus says Satan asked \"to sift\" the apostles \"like wheat\" (22:31). It is found only here in the New Testament.",
+    "range": [
+      {
+        "sense": "Sift",
+        "note": "Shake in a sieve."
+      }
+    ],
+    "translations": [
+      "sift"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradeisos",
+    "transliteration": "paradeisos",
+    "original": "παράδεισος",
+    "pronunciation": "par-AD-ay-sos",
+    "gloss": "paradise, garden",
+    "notes": "A Persian loan word for an enclosed garden or park, used in the Greek Old Testament for the garden of Eden. Jesus says to the repentant criminal, \"Today you will be with me in Paradise\" (23:43). It appears only three times in the New Testament.",
+    "range": [
+      {
+        "sense": "Garden",
+        "note": "A walled park."
+      },
+      {
+        "sense": "Paradise",
+        "note": "The place of God's presence."
+      }
+    ],
+    "translations": [
+      "paradise",
+      "garden"
+    ],
+    "elsewhere": [
+      {
+        "ref": "2 Corinthians 12:4",
+        "note": "Caught up into paradise."
+      },
+      {
+        "ref": "Revelation 2:7",
+        "note": "The tree of life in the paradise of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaios",
+    "transliteration": "dikaios",
+    "original": "δίκαιος",
+    "pronunciation": "DIK-eye-os",
+    "gloss": "righteous, just, innocent",
+    "notes": "Right, just, in good standing with God or with the law. Luke calls many people \"righteous\": Zechariah and Elizabeth (1:6), Simeon (2:25), and Joseph of Arimathea (23:50). The centurion says of Jesus, \"Certainly this was a righteous man,\" which can also mean \"innocent\" (23:47).",
+    "range": [
+      {
+        "sense": "Righteous",
+        "note": "In the right with God."
+      },
+      {
+        "sense": "Just",
+        "note": "Fair, upright."
+      },
+      {
+        "sense": "Innocent",
+        "note": "Free from guilt."
+      }
+    ],
+    "translations": [
+      "righteous",
+      "just",
+      "innocent"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:19",
+        "note": "Joseph, being a righteous man."
+      },
+      {
+        "ref": "Acts 3:14",
+        "note": "You denied the Holy and Righteous One."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteous shall live by faith."
+      },
+      {
+        "ref": "1 Peter 3:18",
+        "note": "Christ suffered once, the righteous for the unrighteous."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diermeneuo",
+    "transliteration": "diermēneuō",
+    "original": "διερμηνεύω",
+    "pronunciation": "dee-er-main-YOO-oh",
+    "gloss": "to explain, to interpret",
+    "notes": "To translate or explain fully. Jesus \"explained to them in all the Scriptures the things concerning himself\" (24:27). The same word is used of translating tongues in 1 Corinthians (12:30, 14:5).",
+    "range": [
+      {
+        "sense": "Explain",
+        "note": "Make clear."
+      },
+      {
+        "sense": "Translate",
+        "note": "Put into another language."
+      }
+    ],
+    "translations": [
+      "explain",
+      "interpret",
+      "translate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 9:36",
+        "note": "Tabitha, which translated means Dorcas."
+      },
+      {
+        "ref": "1 Corinthians 12:30",
+        "note": "Do all interpret?"
+      },
+      {
+        "ref": "1 Corinthians 14:5",
+        "note": "Unless someone interprets."
+      },
+      {
+        "ref": "1 Corinthians 14:13",
+        "note": "Pray that he may interpret."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "elpizo",
+    "transliteration": "elpizō",
+    "original": "ἐλπίζω",
+    "pronunciation": "el-PID-zo",
+    "gloss": "to hope",
+    "notes": "To expect something good, to place hope in someone. The Emmaus disciples say, \"We were hoping that it was he who would redeem Israel\" (24:21). In the Greek it is in the past tense, which expresses how their hope had died.",
+    "range": [
+      {
+        "sense": "Hope",
+        "note": "Expect something good."
+      },
+      {
+        "sense": "Trust",
+        "note": "Rely on."
+      }
+    ],
+    "translations": [
+      "hope",
+      "expect",
+      "trust"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:21",
+        "note": "In his name the Gentiles will hope."
+      },
+      {
+        "ref": "John 5:45",
+        "note": "Moses, on whom you have set your hope."
+      },
+      {
+        "ref": "Romans 8:24",
+        "note": "Who hopes for what he sees?"
+      },
+      {
+        "ref": "1 Corinthians 13:7",
+        "note": "Love hopes all things."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ethnos",
+    "transliteration": "ethnos",
+    "original": "ἔθνος",
+    "pronunciation": "ETH-nos",
+    "gloss": "nation, Gentile",
+    "notes": "A people or nation, and in the plural \"the nations,\" meaning the non-Jewish peoples, the Gentiles. In Luke, Simeon says the child is \"a light to the Gentiles\" (2:32), and Jesus says Jerusalem will be trampled until \"the times of the Gentiles\" are fulfilled (21:24), and that repentance will be preached \"to all the nations\" (24:47).",
+    "range": [
+      {
+        "sense": "Nation",
+        "note": "A people."
+      },
+      {
+        "sense": "Gentile",
+        "note": "A non-Jew."
+      }
+    ],
+    "translations": [
+      "nation",
+      "Gentile",
+      "people"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:19",
+        "note": "Make disciples of all nations."
+      },
+      {
+        "ref": "Acts 10:45",
+        "note": "The gift of the Spirit was poured out on the Gentiles."
+      },
+      {
+        "ref": "Romans 15:9",
+        "note": "That the Gentiles might glorify God."
+      },
+      {
+        "ref": "Galatians 3:8",
+        "note": "In you shall all the nations be blessed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lepton",
+    "transliteration": "lepton",
+    "original": "λεπτόν",
+    "pronunciation": "lep-TON",
+    "gloss": "small coin, a mite",
+    "notes": "The smallest bronze coin in use, worth a fraction of a day's wage. The poor widow puts in two of them (21:2).",
+    "range": [
+      {
+        "sense": "Small coin",
+        "note": "The least valuable coin."
+      }
+    ],
+    "translations": [
+      "mite",
+      "small coin",
+      "penny"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 12:42",
+        "note": "The widow's two small coins, in Mark."
+      },
+      {
+        "ref": "Luke 12:59",
+        "note": "Until you have paid the very last lepton."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "A covenant. At the supper Jesus calls the cup \"the new covenant in my blood\" (22:20), taking up Jeremiah's promise of a new covenant.",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:24",
+        "note": "The blood of the covenant, poured out for many."
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "This cup is the new covenant in my blood."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "The new covenant."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "The mediator of a new covenant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "The Passover festival and the lamb killed for it. In Luke 22:15 Jesus says, \"I have earnestly desired to eat this Passover with you before I suffer.\"",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:2",
+        "note": "The Passover in two days."
+      },
+      {
+        "ref": "Mark 14:12",
+        "note": "The first day of Unleavened Bread."
+      },
+      {
+        "ref": "John 19:14",
+        "note": "The day of preparation of the Passover."
+      },
+      {
+        "ref": "1 Corinthians 5:7",
+        "note": "Christ our Passover has been sacrificed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "To crucify. The crowd shouts \"Crucify him!\" and Luke notes that their voices prevail (23:21, 23:23).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:22",
+        "note": "\"Let him be crucified!\""
+      },
+      {
+        "ref": "John 19:6",
+        "note": "\"Crucify him, crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "This Jesus whom you crucified."
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katapetasma",
+    "transliteration": "katapetasma",
+    "original": "καταπέτασμα",
+    "pronunciation": "kah-tah-PEH-tahs-mah",
+    "gloss": "curtain, veil",
+    "notes": "The curtain of the temple, torn in two as Jesus dies (23:45). Luke places it just before his last words.",
+    "uncertain": "Whether the inner curtain before the Holy of Holies or the outer curtain is meant is debated; Matthew doesn't say.",
+    "range": [
+      {
+        "sense": "Veil",
+        "note": "A hanging curtain."
+      },
+      {
+        "sense": "Temple curtain",
+        "note": "The curtain in the tabernacle or temple."
+      }
+    ],
+    "translations": [
+      "veil",
+      "curtain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:51",
+        "note": "The curtain torn, the earth shaking."
+      },
+      {
+        "ref": "Mark 15:38",
+        "note": "The curtain torn from top to bottom."
+      },
+      {
+        "ref": "Hebrews 6:19",
+        "note": "Hope enters behind the curtain."
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "The new way through the curtain, his flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "The council, the Jewish high court in Jerusalem. Luke says \"the whole council\" took Jesus to Pilate (23:1).",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:59",
+        "note": "The council seeks false witness."
+      },
+      {
+        "ref": "Mark 14:55",
+        "note": "The whole council looks for testimony."
+      },
+      {
+        "ref": "John 11:47",
+        "note": "The council meets after Lazarus."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles are called before it."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake, raise up, rise. The two men at the tomb say, \"He isn't here, but is risen\" (24:6), and the disciples report \"The Lord is risen indeed\" (24:34).",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:6",
+        "note": "\"He is risen, as he said.\""
+      },
+      {
+        "ref": "Mark 16:6",
+        "note": "\"He has risen.\""
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "He was raised on the third day."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

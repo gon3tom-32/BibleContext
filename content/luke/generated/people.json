@@ -897,6 +897,55 @@
         "item": "pilate_2365",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        23
+      ],
+      "verses": [
+        "Luke 23:18"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barabbas_399",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "name": "Joseph",
+      "displayTitle": "Joseph (of Arimathea)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        23
+      ],
+      "verses": [
+        "Luke 23:50"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "joseph_1716",
+        "recordStatus": "wip"
+      }
     }
   ]
 }

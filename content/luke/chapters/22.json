@@ -1,0 +1,102 @@
+{
+  "sceneHappening": "The Last Supper, Gethsemane, the arrest, Peter's denial, and the council at dawn",
+  "summary": "The Passover approaches, and the chief priests and scribes are looking for a way to kill Jesus, afraid of the people. Then Satan enters Judas, called Iscariot, who was one of the twelve, and he goes to the chief priests and agrees to betray him for money. Jesus sends Peter and John to prepare the Passover: \"Behold, when you have entered into the city, a man will meet you, carrying a pitcher of water. Follow him into the house which he enters.\" There they prepare it, and when the hour comes he sits with the apostles: \"I have earnestly desired to eat this Passover with you before I suffer.\" He takes a cup and gives thanks, saying, \"Take this, and share it among yourselves,\" then takes bread, gives thanks, breaks it, and says, \"This is my body which is given for you. Do this in memory of me.\" Likewise the cup after supper: \"This cup is the new covenant in my blood, which is poured out for you.\" \"But behold, the hand of him who betrays me is with me on the table,\" and they begin to ask which of them might do it. A dispute arises about which is greatest, and he says, \"The kings of the Gentiles lord it over them ... But not so with you. But he who is greater among you, let him become as the younger, and whoever is governing, as one who serves. For who is greater, one who sits at the table, or one who serves? Isn't it he who sits at the table? But I am in the midst of you as one who serves.\" He says that those who have continued with him in his trials will eat and drink at his table in his kingdom, and sit on thrones judging the twelve tribes of Israel. To Simon he says, \"Satan asked to have you, that he might sift you as wheat, but I prayed for you, that your faith wouldn't fail. You, when once you have turned again, establish your brothers.\" Peter says, \"Lord, I am ready to go with you both to prison and to death.\" \"I tell you, Peter, the rooster will not crow today until you deny three times that you know me.\" He tells them to take purse, bag, and a sword; they say, \"Lord, behold, here are two swords,\" and he says, \"That is enough.\" On the Mount of Olives he kneels and prays, \"Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.\" An angel from heaven appears, strengthening him, and being in agony he prays more earnestly, and his sweat becomes like great drops of blood falling on the ground. He rises from prayer, finds them sleeping for sorrow, and says, \"Why do you sleep? Rise and pray, that you may not enter into temptation.\" Judas leads a crowd and draws near to kiss him; Jesus says, \"Judas, do you betray the Son of Man with a kiss?\" One of them strikes the high priest's servant and cuts off his right ear, and Jesus says, \"Allow this much,\" touches the ear and heals him. \"This is your hour, and the power of darkness.\" They seize him and bring him to the high priest's house, and Peter follows at a distance. In the courtyard a servant girl, then another person, then another insists he was with Jesus, and Peter denies it three times; immediately the rooster crows, and the Lord turns and looks at Peter. Peter remembers the word of the Lord and goes out and weeps bitterly. The men holding Jesus mock and beat him. At daybreak the council of elders, chief priests, and scribes meets: \"If you are the Christ, tell us.\" \"If I tell you, you won't believe. ... From now on, the Son of Man will be seated at the right hand of the power of God.\" \"Are you then the Son of God?\" \"You say that I am.\" \"What further need do we have of witness? For we ourselves have heard from his own mouth.\"",
+  "whySettingMatters": "Luke's Last Supper has two cups, one before the bread and one after, and a longer or shorter form of the words over them: some old manuscripts omit part of verses 19-20, and scholars debate which is original. The meal is a Passover, recalling the rescue from Egypt, and the \"new covenant\" language comes from Jeremiah 31:31-34, with \"poured out\" echoing Isaiah 53. Luke places the argument about greatness at the table, and Jesus answers by describing himself as \"one who serves,\" which Luke earlier shows in 12:37. The twelve thrones echo the twelve tribes. \"Satan asked to have you\" echoes Job 1; \"you\" is plural, so he means all the apostles, though Peter is the focus. The two swords are puzzling; many read Jesus' answer, \"That is enough,\" as ending the conversation rather than approving them. The verses about the angel and the sweat like blood (22:43-44) are missing in some of the oldest manuscripts, and whether they are original is debated. Luke leaves out the disciples' fleeing and instead has Jesus heal the servant's ear, and has Jesus' look break Peter's heart. The council meets at daybreak, not at night, in Luke's account, and he does not report false witnesses. The question \"Are you then the Son of God?\" connects the two titles in a way the council understood.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Shares the supper, prays in agony, is arrested and questioned."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Agrees to betray him, and leads the crowd."
+    },
+    {
+      "id": "peter",
+      "note": "Promises loyalty, is warned, sleeps, and denies him three times."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Sent with Peter to prepare the Passover."
+    },
+    {
+      "id": "the-twelve",
+      "note": "At the table, in the garden, and dispute about greatness."
+    },
+    {
+      "id": "the-chief-priests",
+      "note": "Looking for a way to kill him."
+    },
+    {
+      "id": "the-servant-girl",
+      "note": "The first to say Peter was with Jesus."
+    },
+    {
+      "id": "the-high-priests-servant",
+      "note": "Has his ear cut off, and healed."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "Elders and scribes at the council."
+    }
+  ],
+  "questions": [
+    "Jesus has \"earnestly desired\" to eat this Passover. What does that tell you about how he goes into this night?",
+    "Jesus prays for Peter before he fails. What does it mean that the prayer is for his faith not to fail, and that he will turn again?",
+    "The disciples argue about greatness at the supper. What is Jesus doing in answering as he does?",
+    "The Lord turns and looks at Peter. What do you imagine is in that look?"
+  ],
+  "words": [
+    {
+      "id": "diatheke",
+      "note": "\"The new covenant in my blood\" (22:20)."
+    },
+    {
+      "id": "anamnesis",
+      "note": "\"Do this in memory of me\" (22:19)."
+    },
+    {
+      "id": "siniazo",
+      "note": "Satan asked to \"sift\" them like wheat (22:31)."
+    },
+    {
+      "id": "peirasmos",
+      "note": "\"Pray that you may not enter into temptation\" (22:40, 22:46), and \"my trials\" (22:28)."
+    },
+    {
+      "id": "pascha",
+      "note": "The Passover he \"earnestly desired\" to eat (22:1, 22:7-15)."
+    },
+    {
+      "id": "diakoneo",
+      "note": "\"I am in the midst of you as one who serves\" (22:26-27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 31:31-34",
+      "note": "a new covenant"
+    },
+    {
+      "ref": "Isaiah 53:12",
+      "note": "\"numbered with the transgressors\""
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "seated at the right hand of God"
+    },
+    {
+      "ref": "Job 1:9-12",
+      "note": "Satan asks to test"
+    },
+    {
+      "ref": "Exodus 24:8",
+      "note": "the blood of the covenant"
+    }
+  ],
+  "number": 22,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
