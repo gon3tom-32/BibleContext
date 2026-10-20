@@ -1,0 +1,227 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "jerusalem",
+      "title": "The church begins in Jerusalem",
+      "short": "Jerusalem",
+      "refs": "Acts 1-8",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The risen Jesus ascends, the Spirit comes at Pentecost, and the first believers share life together in Jerusalem."
+    },
+    {
+      "order": 2,
+      "placeId": "damascus",
+      "title": "Saul meets the risen Jesus",
+      "short": "Damascus",
+      "refs": "Acts 9",
+      "chapter": 9,
+      "direction": "out",
+      "text": "On the road to Damascus, Saul the persecutor is stopped by a light and a voice."
+    },
+    {
+      "order": 3,
+      "placeId": "antioch",
+      "title": "The first Gentile church",
+      "short": "Antioch",
+      "refs": "Acts 11:19-30; 13:1-3; 14:26-28",
+      "chapter": 11,
+      "direction": "out",
+      "text": "In Syrian Antioch followers of Jesus are first called Christians, and the church sends out Barnabas and Saul."
+    },
+    {
+      "order": 4,
+      "placeId": "philippi",
+      "title": "The gospel reaches Europe",
+      "short": "Philippi",
+      "refs": "Acts 16:11-40",
+      "chapter": 16,
+      "direction": "out",
+      "text": "Paul and Silas meet Lydia, are beaten and jailed, and the jailer believes."
+    },
+    {
+      "order": 5,
+      "placeId": "athens",
+      "title": "Paul in Athens",
+      "short": "Athens",
+      "refs": "Acts 17:16-34",
+      "chapter": 17,
+      "direction": "out",
+      "text": "Paul speaks to the philosophers on the Areopagus about the unknown god."
+    },
+    {
+      "order": 6,
+      "placeId": "corinth",
+      "title": "A year and a half in Corinth",
+      "short": "Corinth",
+      "refs": "Acts 18:1-18",
+      "chapter": 18,
+      "direction": "out",
+      "text": "Paul works with Aquila and Priscilla and stays among the Corinthians."
+    },
+    {
+      "order": 7,
+      "placeId": "ephesus",
+      "title": "Three years in Ephesus",
+      "short": "Ephesus",
+      "refs": "Acts 19",
+      "chapter": 19,
+      "direction": "out",
+      "text": "Paul's work in Ephesus spreads through the province and provokes a riot over the goddess Artemis."
+    },
+    {
+      "order": 8,
+      "placeId": "caesarea",
+      "title": "Held in Caesarea",
+      "short": "Caesarea",
+      "refs": "Acts 23:23-26:32",
+      "chapter": 23,
+      "direction": "out",
+      "text": "Paul is held for two years under the governors Felix and Festus and appeals to Caesar."
+    },
+    {
+      "order": 9,
+      "placeId": "rome",
+      "title": "Paul reaches Rome",
+      "short": "Rome",
+      "refs": "Acts 27-28",
+      "chapter": 28,
+      "direction": "out",
+      "text": "After a storm and shipwreck, Paul arrives in Rome and preaches openly under guard."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 10.0,
+      "east": 38.8,
+      "south": 30.7,
+      "north": 43.0
+    },
+    "label": "Map of the eastern Mediterranean from Jerusalem to Rome, drawn from real coordinates. Numbered stops mark where Acts' story moves.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left",
+        "offset": [
+          -4,
+          10
+        ]
+      },
+      {
+        "order": 2,
+        "at": "damascus",
+        "label": "Damascus",
+        "labelSide": "left",
+        "offset": [
+          -2,
+          2
+        ]
+      },
+      {
+        "order": 3,
+        "at": "antioch",
+        "label": "Antioch",
+        "labelSide": "left",
+        "offset": [
+          0,
+          -2
+        ]
+      },
+      {
+        "order": 4,
+        "at": "philippi",
+        "label": "Philippi",
+        "labelSide": "left",
+        "offset": [
+          0,
+          -2
+        ]
+      },
+      {
+        "order": 5,
+        "at": "athens",
+        "label": "Athens",
+        "labelSide": "right",
+        "offset": [
+          4,
+          -12
+        ]
+      },
+      {
+        "order": 6,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left",
+        "offset": [
+          -4,
+          12
+        ]
+      },
+      {
+        "order": 7,
+        "at": "ephesus",
+        "label": "Ephesus",
+        "labelSide": "right",
+        "offset": [
+          2,
+          10
+        ]
+      },
+      {
+        "order": 8,
+        "at": "caesarea",
+        "label": "Caesarea",
+        "labelSide": "left",
+        "offset": [
+          -6,
+          -8
+        ]
+      },
+      {
+        "order": 9,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right",
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "achaia": null,
+      "cilicia": null,
+      "syria": null,
+      "judea": null,
+      "samaria": null,
+      "phoenicia": null,
+      "asia": null,
+      "macedonia": null,
+      "great-sea": null,
+      "galatia": [
+        33.0,
+        39.6
+      ]
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

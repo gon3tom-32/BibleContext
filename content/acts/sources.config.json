@@ -1,0 +1,185 @@
+{
+  "osis": "Acts",
+  "stepBook": "Act",
+  "webFile": "acts.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "damascus",
+      "ancientId": "a69c1d4"
+    },
+    {
+      "id": "antioch",
+      "ancientId": "ae41ab4"
+    },
+    {
+      "id": "caesarea",
+      "ancientId": "a58735e"
+    },
+    {
+      "id": "joppa",
+      "ancientId": "ae023a9"
+    },
+    {
+      "id": "tarsus",
+      "ancientId": "a666ea0"
+    },
+    {
+      "id": "philippi",
+      "ancientId": "a49e1d0"
+    },
+    {
+      "id": "thessalonica",
+      "ancientId": "afa9d8e"
+    },
+    {
+      "id": "berea",
+      "ancientId": "a62fe31"
+    },
+    {
+      "id": "athens",
+      "ancientId": "a1fe6e7"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "ephesus",
+      "ancientId": "a5feb15"
+    },
+    {
+      "id": "troas",
+      "ancientId": "a91c509"
+    },
+    {
+      "id": "miletus",
+      "ancientId": "a55027d"
+    },
+    {
+      "id": "rome",
+      "ancientId": "afc8e7a"
+    },
+    {
+      "id": "lystra",
+      "ancientId": "af0719d"
+    },
+    {
+      "id": "derbe",
+      "ancientId": "aa401a9"
+    },
+    {
+      "id": "iconium",
+      "ancientId": "ae425aa"
+    },
+    {
+      "id": "perga",
+      "ancientId": "aff04b8"
+    },
+    {
+      "id": "paphos",
+      "ancientId": "a314765"
+    },
+    {
+      "id": "salamis",
+      "ancientId": "afa863b"
+    },
+    {
+      "id": "cyprus",
+      "ancientId": "a2e7601"
+    },
+    {
+      "id": "crete",
+      "ancientId": "a26aa94"
+    },
+    {
+      "id": "malta",
+      "ancientId": "a57835d"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "galatia",
+      "ancientId": "a0f440a"
+    },
+    {
+      "id": "syria",
+      "ancientId": "a890adf"
+    },
+    {
+      "id": "cilicia",
+      "ancientId": "ad63819"
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce"
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "phoenicia",
+      "ancientId": "a33d53e"
+    },
+    {
+      "id": "puteoli",
+      "ancientId": "a4488e9"
+    },
+    {
+      "id": "myra",
+      "ancientId": "aa4b3e2"
+    },
+    {
+      "id": "fair-havens",
+      "ancientId": "aae626a"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
+    },
+    {
+      "id": "alexandria",
+      "ancientId": "aee7248"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "The map shows nine of the many places in Acts; the Context page lists them all."
+    },
+    {
+      "area": "chapters",
+      "text": "No chapters have hand-written context notes yet."
+    }
+  ]
+}
