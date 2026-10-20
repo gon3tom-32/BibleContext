@@ -1,0 +1,45 @@
+{
+  "slug": "john",
+  "title": "John",
+  "order": 43,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 21,
+  "tagline": "The Gospel of signs and \"I am\": Jesus as the Word made flesh, who gives life to those who believe.",
+  "author": "Traditionally John, the son of Zebedee",
+  "authorNote": "The book doesn't name its author; it speaks of \"the disciple whom Jesus loved\" and says he wrote these things (21:20-24). Church tradition from the second century identifies him as the apostle John. Many scholars think the book comes from a community or a follower of that disciple, perhaps the one tradition calls \"John the Elder.\"",
+  "authorDebated": true,
+  "audience": "Followers of Jesus, Jewish and Gentile, in a time of conflict with the synagogue",
+  "audienceNote": "John says why he wrote: \"that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name\" (20:31). He explains Jewish customs and translates Aramaic words, and refers to people being put out of the synagogue (9:22, 12:42, 16:2), which suggests a community in tension with its Jewish neighbors.",
+  "setting": "Under Roman rule, around the festivals in Jerusalem",
+  "settingNote": "Much of the story takes place in Jerusalem at Jewish festivals, under the governor Pilate and the high priest Caiaphas. Tradition places the writing in Ephesus, probably in the 80s or 90s AD, though some argue for an earlier date. Both the place and the date are debated.",
+  "genre": "Gospel",
+  "genreNote": "Quite different from Matthew, Mark, and Luke. John arranges the story around signs (miracles that point beyond themselves), long conversations and speeches, and the \"I am\" sayings. Most of its stories and teaching appear only here.",
+  "bigIdea": "The eternal Word became flesh in Jesus, who shows us the Father, and those who believe in him receive life.",
+  "themes": [
+    "The Word and the light",
+    "Signs and belief",
+    "\"I am\"",
+    "Eternal life",
+    "Love and abiding"
+  ],
+  "mapTitle": "Map: Jerusalem, Samaria, and Galilee",
+  "mapSummary": "Jesus moves between Galilee and Jerusalem, passing through Samaria, with key scenes at Cana, Sychar, Capernaum, Bethany, Jerusalem, and the Sea of Tiberias.",
+  "scene": {
+    "author": "Traditionally John, the son of Zebedee",
+    "audience": "Followers of Jesus, Jewish and Gentile",
+    "happening": "Roman rule in Judea and Galilee"
+  },
+  "overviewPeople": [
+    "jesus",
+    "john-baptist",
+    "nicodemus",
+    "lazarus",
+    "peter",
+    "mary-magdalene"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

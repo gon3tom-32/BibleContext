@@ -1,0 +1,106 @@
+{
+  "sceneHappening": "In the beginning was the Word, and a witness points to him by the Jordan",
+  "summary": "John begins not with a birth but before creation: \"In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made through him.\" In him was life, and the life was the light of men; the light shines in the darkness, and the darkness has not overcome it. A man sent from God, whose name was John, came as a witness to the light, though he was not the light. The true light, which gives light to everyone, was coming into the world. \"He was in the world, and the world was made through him, and the world didn't recognize him. He came to his own, and those who were his own didn't receive him. But as many as received him, to them he gave the right to become God's children, to those who believe in his name.\" Then: \"The Word became flesh, and lived among us. We saw his glory, such glory as of the only born of the Father, full of grace and truth.\" John testifies, \"This was he of whom I said, 'He who comes after me has surpassed me, for he was before me.'\" \"For the law was given through Moses. Grace and truth were realized through Jesus Christ. No one has seen God at any time. The only born Son, who is in the bosom of the Father, has declared him.\" Priests and Levites come from Jerusalem to ask John, \"Who are you?\" He says, \"I am not the Christ.\" \"Are you Elijah?\" \"I am not.\" \"Are you the prophet?\" \"No.\" \"What do you say about yourself?\" \"I am the voice of one crying in the wilderness, 'Make straight the way of the Lord,' as Isaiah the prophet said.\" This is at Bethany beyond the Jordan, where John is baptizing. The next day, seeing Jesus coming, he says, \"Behold, the Lamb of God, who takes away the sin of the world!\" He says he saw the Spirit descending like a dove and remaining on him, and that the one who sent him to baptize told him, \"On whomever you will see the Spirit descending and remaining on him, this is he who baptizes in the Holy Spirit.\" \"I have seen, and have testified that this is the Son of God.\" The next day two of John's disciples hear him say, \"Behold, the Lamb of God!\" and follow Jesus. He asks, \"What are you looking for?\" \"Rabbi, where are you staying?\" \"Come, and see.\" One of them is Andrew, Simon Peter's brother, who finds his brother Simon: \"We have found the Messiah!\" Jesus looks at Simon and says, \"You are Simon the son of John. You shall be called Cephas\" (which means Peter). The next day Jesus finds Philip, from Bethsaida, the town of Andrew and Peter: \"Follow me.\" Philip finds Nathanael: \"We have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.\" Nathanael says, \"Can any good thing come out of Nazareth?\" Philip says, \"Come and see.\" Jesus says of Nathanael, \"Behold, an Israelite indeed, in whom is no deceit!\" He says he saw him under the fig tree, and Nathanael answers, \"Rabbi, you are the Son of God! You are King of Israel!\" Jesus says, \"You will see greater things than these. ... Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.\"",
+  "whySettingMatters": "John opens with the same words as Genesis, \"In the beginning,\" and then makes a claim the other Gospels leave unstated: the one who walks among them was there before creation. \"Word\" (logos) was a rich term in the Greek world, for the reason or order behind things, and in the Jewish world it recalls God speaking creation into being and the \"word\" that Wisdom embodies. \"Lived among us\" translates a verb that literally means \"pitched a tent,\" and recalls the tabernacle where God's glory dwelt in the wilderness (Exodus 25:8). The prologue is often read as a poem, with the prose about John inserted. John's picture of the Baptist is different from the other Gospels: he is a witness who denies being the Christ, Elijah, or the prophet, and describes himself by Isaiah 40:3. \"Lamb of God\" can recall the Passover lamb, the lamb of Isaiah 53, or both; which John intends is debated. Bethany beyond the Jordan is a place nobody has been able to fix; the location is debated, as is the reading \"Bethany\" or \"Bethabara\" in some manuscripts. \"Rabbi\" means \"teacher,\" and \"Messiah\" is Hebrew for \"anointed,\" translated \"Christ.\" Nathanael's scorn about Nazareth shows what a small place it was; Jesus' promise about \"angels ascending and descending\" echoes Jacob's dream at Bethel (Genesis 28:12), with the Son of Man as the ladder.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "The Word made flesh; called the Lamb of God, Messiah, Son of God."
+    },
+    {
+      "id": "john-baptist",
+      "note": "A witness to the light who says he is only a voice."
+    },
+    {
+      "id": "andrew",
+      "note": "One of John's disciples; he brings his brother Simon."
+    },
+    {
+      "id": "peter",
+      "note": "Named Simon son of John, and renamed Cephas."
+    },
+    {
+      "id": "philip",
+      "note": "From Bethsaida; called by Jesus."
+    },
+    {
+      "id": "nathanael",
+      "note": "A skeptic about Nazareth who confesses Jesus as King of Israel."
+    },
+    {
+      "id": "priests-and-levites",
+      "note": "Sent from Jerusalem to ask John who he is."
+    }
+  ],
+  "questions": [
+    "John opens before creation, not at Bethlehem. What does that change about how you read the rest?",
+    "John says over and over that he is not the Christ. What does he think his job is?",
+    "\"Come and see\" is Jesus' invitation and Philip's answer to Nathanael's doubt. What does that say about how faith begins?",
+    "The Word became flesh, \"pitched a tent.\" What does it mean that God's glory lives among people in a tent?"
+  ],
+  "words": [
+    {
+      "id": "logos",
+      "note": "\"In the beginning was the Word\" (1:1, 1:14)."
+    },
+    {
+      "id": "phos",
+      "note": "\"The light shines in the darkness\" (1:4-9)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"In him was life\" (1:4)."
+    },
+    {
+      "id": "skenoo",
+      "note": "\"The Word became flesh, and lived among us\" (1:14)."
+    },
+    {
+      "id": "monogenes",
+      "note": "\"The only born of the Father\" (1:14, 1:18)."
+    },
+    {
+      "id": "amnos",
+      "note": "\"Behold, the Lamb of God\" (1:29, 1:36)."
+    },
+    {
+      "id": "martyreo",
+      "note": "John \"came as a witness\" (1:7-8, 1:15, 1:32, 1:34)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"Full of grace and truth\" (1:14, 1:17)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"To those who believe in his name\" (1:7, 1:12, 1:50)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 1:1-3",
+      "note": "in the beginning, and \"Let there be light\""
+    },
+    {
+      "ref": "Isaiah 40:3",
+      "note": "a voice crying in the wilderness"
+    },
+    {
+      "ref": "Genesis 28:12",
+      "note": "Jacob's ladder: angels ascending and descending"
+    },
+    {
+      "ref": "Isaiah 53:7",
+      "note": "like a lamb led to the slaughter"
+    },
+    {
+      "ref": "1 John 1:1-2",
+      "note": "what was from the beginning, the word of life"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

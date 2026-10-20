@@ -1,0 +1,87 @@
+[
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "The Word made flesh, the Son of God."
+  },
+  {
+    "id": "john-baptist",
+    "name": "John the Baptist",
+    "note": "The witness sent before him."
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "note": "A disciple of John, then of Jesus, and brother of Simon Peter."
+  },
+  {
+    "id": "peter",
+    "name": "Simon Peter",
+    "note": "Simon son of John, renamed Cephas (Peter)."
+  },
+  {
+    "id": "philip",
+    "name": "Philip",
+    "note": "From Bethsaida; one of the first called."
+  },
+  {
+    "id": "nathanael",
+    "name": "Nathanael",
+    "note": "From Cana of Galilee; \"an Israelite in whom is no deceit.\""
+  },
+  {
+    "id": "priests-and-levites",
+    "name": "Priests and Levites",
+    "note": "Sent from Jerusalem to question John."
+  },
+  {
+    "id": "mary",
+    "name": "Mary, the mother of Jesus",
+    "note": "Never named in John; she appears at Cana and at the cross."
+  },
+  {
+    "id": "the-disciples",
+    "name": "The disciples",
+    "note": "Those who follow Jesus."
+  },
+  {
+    "id": "the-servants",
+    "name": "The servants at Cana",
+    "note": "They fill the jars and know where the wine came from."
+  },
+  {
+    "id": "the-ruler-of-the-feast",
+    "name": "The ruler of the feast",
+    "note": "The master of the banquet."
+  },
+  {
+    "id": "the-jews",
+    "name": "The Jews",
+    "note": "In John, usually the Jerusalem authorities, not the Jewish people as a whole."
+  },
+  {
+    "id": "nicodemus",
+    "name": "Nicodemus",
+    "note": "A Pharisee and member of the council."
+  },
+  {
+    "id": "johns-disciples",
+    "name": "John's disciples",
+    "note": "Followers of John the Baptist."
+  },
+  {
+    "id": "the-samaritan-woman",
+    "name": "The Samaritan woman",
+    "note": "Unnamed, from Sychar."
+  },
+  {
+    "id": "the-samaritans-of-sychar",
+    "name": "The Samaritans of Sychar",
+    "note": "A town that believed."
+  },
+  {
+    "id": "the-royal-official",
+    "name": "The royal official",
+    "note": "A man in Herod Antipas's service whose son was sick at Capernaum."
+  }
+]

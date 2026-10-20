@@ -1,0 +1,309 @@
+{
+  "osis": "John",
+  "stepBook": "Jhn",
+  "webFile": "john.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jordan",
+      "ancientId": "ae686c9"
+    },
+    {
+      "id": "galilee",
+      "ancientId": "a9cf1e8"
+    },
+    {
+      "id": "sea-of-galilee",
+      "ancientId": "a562fcc",
+      "mapOnly": true
+    },
+    {
+      "id": "judea",
+      "ancientId": "a149f13"
+    },
+    {
+      "id": "capernaum",
+      "ancientId": "af2161c"
+    },
+    {
+      "id": "nazareth",
+      "ancientId": "af5884f"
+    },
+    {
+      "id": "cana",
+      "ancientId": "a031bda"
+    },
+    {
+      "id": "sychar",
+      "ancientId": "a27b472"
+    },
+    {
+      "id": "tiberias",
+      "ancientId": "ac9adc9"
+    },
+    {
+      "id": "bethany",
+      "ancientId": "a4f35bc"
+    },
+    {
+      "id": "bethany-beyond-jordan",
+      "ancientId": "a6e060d",
+      "map": "none"
+    },
+    {
+      "id": "aenon",
+      "ancientId": "a112fe3",
+      "map": "none"
+    },
+    {
+      "id": "salim",
+      "ancientId": "a86e0b0",
+      "map": "none"
+    },
+    {
+      "id": "bethesda",
+      "ancientId": "a0aa8cf",
+      "map": "none"
+    },
+    {
+      "id": "siloam",
+      "ancientId": "a294859",
+      "map": "none"
+    },
+    {
+      "id": "kidron",
+      "ancientId": "a553110",
+      "map": "none"
+    },
+    {
+      "id": "mount-gerizim",
+      "ancientId": "a30e967",
+      "map": "none"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "ephraim",
+      "ancientId": "ad14500",
+      "map": "none"
+    },
+    {
+      "id": "golgotha",
+      "ancientId": "a631d35",
+      "map": "none"
+    },
+    {
+      "id": "arimathea",
+      "ancientId": "af3d9fc",
+      "map": "none"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    },
+    {
+      "id": "dead-sea",
+      "ancientId": "abed304",
+      "mapOnly": true
+    },
+    {
+      "id": "samaria",
+      "ancientId": "a282dce",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "john-baptist",
+      "theographic": "john_1676"
+    },
+    {
+      "id": "andrew",
+      "theographic": "andrew_264"
+    },
+    {
+      "id": "peter",
+      "theographic": "peter_2745"
+    },
+    {
+      "id": "philip",
+      "theographic": "philip_2344"
+    },
+    {
+      "id": "nathanael",
+      "theographic": "nathanael_2158"
+    },
+    {
+      "id": "mary",
+      "theographic": "mary_1938"
+    },
+    {
+      "id": "nicodemus",
+      "theographic": "nicodemus_2204"
+    }
+  ],
+  "words": [
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "John 1:1"
+    },
+    {
+      "id": "skenoo",
+      "strongs": [
+        "G4637"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "monogenes",
+      "strongs": [
+        "G3439"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "John 1:4"
+    },
+    {
+      "id": "amnos",
+      "strongs": [
+        "G0286"
+      ],
+      "foundAt": "John 1:29"
+    },
+    {
+      "id": "martyreo",
+      "strongs": [
+        "G3140"
+      ],
+      "foundAt": "John 1:7"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "John 1:4"
+    },
+    {
+      "id": "aletheia",
+      "strongs": [
+        "G0225"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "John 1:7"
+    },
+    {
+      "id": "anothen",
+      "strongs": [
+        "G0509"
+      ],
+      "foundAt": "John 3:3"
+    },
+    {
+      "id": "hypsoo",
+      "strongs": [
+        "G5312"
+      ],
+      "foundAt": "John 3:14"
+    },
+    {
+      "id": "krisis",
+      "strongs": [
+        "G2920"
+      ],
+      "foundAt": "John 3:19"
+    },
+    {
+      "id": "hydor",
+      "strongs": [
+        "G5204"
+      ],
+      "foundAt": "John 2:7"
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "foundAt": "John 2:11"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "John 1:14"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "John 3:5"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "John 3:15"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "John 3:16"
+    },
+    {
+      "id": "proskuneo",
+      "strongs": [
+        "G4352"
+      ],
+      "foundAt": "John 4:20"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "John 4:42"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean, the Dead Sea, and Samaria aren't central to John's story; they're pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Where \"Bethany beyond the Jordan\" (1:28), Aenon, and Salim were is debated; they are listed on the Context page but not drawn on the map."
+    },
+    {
+      "area": "chapters",
+      "text": "Chapters 5 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+    }
+  ]
+}
