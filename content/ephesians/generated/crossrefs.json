@@ -321,7 +321,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 68:18",
+          "inDataset": true,
+          "votes": 76
+        },
+        {
+          "ref": "1 Corinthians 12:4-13",
+          "inDataset": true,
+          "votes": 74
+        },
+        {
+          "ref": "Colossians 3:8-14",
+          "inDataset": true,
+          "votes": 388
+        },
+        {
+          "ref": "Psalm 4:4",
+          "inDataset": true,
+          "votes": 52
+        }
+      ]
     },
     {
       "number": 5,
@@ -386,7 +407,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Genesis 2:24",
+          "inDataset": true,
+          "votes": 75
+        },
+        {
+          "ref": "Colossians 3:18-19",
+          "inDataset": true,
+          "votes": 60
+        },
+        {
+          "ref": "1 Peter 3:1-7",
+          "inDataset": true,
+          "votes": 99
+        },
+        {
+          "ref": "Isaiah 60:1",
+          "inDataset": true,
+          "votes": 159
+        }
+      ]
     },
     {
       "number": 6,
@@ -452,7 +494,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Exodus 20:12",
+          "inDataset": true,
+          "votes": 66
+        },
+        {
+          "ref": "Isaiah 59:17",
+          "inDataset": true,
+          "votes": 81
+        },
+        {
+          "ref": "Colossians 4:7-9",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "2 Corinthians 10:3-5",
+          "inDataset": true,
+          "votes": 146
+        }
+      ]
     }
   ]
 }

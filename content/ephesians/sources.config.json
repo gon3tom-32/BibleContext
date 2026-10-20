@@ -24,7 +24,20 @@
       "mapOnly": true
     }
   ],
-  "people": [],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "tychicus",
+      "theographic": "tychicus_2885"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    }
+  ],
   "words": [
     {
       "id": "eulogetos",
@@ -665,6 +678,784 @@
         "G4396"
       ],
       "foundAt": "Ephesians 2:20"
+    },
+    {
+      "id": "axios",
+      "strongs": [
+        "G0516"
+      ],
+      "foundAt": "Ephesians 4:1"
+    },
+    {
+      "id": "anechomai",
+      "strongs": [
+        "G0430"
+      ],
+      "foundAt": "Ephesians 4:2"
+    },
+    {
+      "id": "spoudazo",
+      "strongs": [
+        "G4704"
+      ],
+      "foundAt": "Ephesians 4:3"
+    },
+    {
+      "id": "syndesmos",
+      "strongs": [
+        "G4886"
+      ],
+      "foundAt": "Ephesians 4:3"
+    },
+    {
+      "id": "anabaino",
+      "strongs": [
+        "G0305"
+      ],
+      "foundAt": "Ephesians 4:8"
+    },
+    {
+      "id": "aichmalosia",
+      "strongs": [
+        "G0161"
+      ],
+      "foundAt": "Ephesians 4:8"
+    },
+    {
+      "id": "euangelistes",
+      "strongs": [
+        "G2099"
+      ],
+      "foundAt": "Ephesians 4:11"
+    },
+    {
+      "id": "didaskalos",
+      "strongs": [
+        "G1320"
+      ],
+      "foundAt": "Ephesians 4:11"
+    },
+    {
+      "id": "katartismos",
+      "strongs": [
+        "G2677"
+      ],
+      "foundAt": "Ephesians 4:12"
+    },
+    {
+      "id": "helikia",
+      "strongs": [
+        "G2244"
+      ],
+      "foundAt": "Ephesians 4:13"
+    },
+    {
+      "id": "kludonizomai",
+      "strongs": [
+        "G2831"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "anemos",
+      "strongs": [
+        "G0417"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "didaskalia",
+      "strongs": [
+        "G1319"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "kybeia",
+      "strongs": [
+        "G2940"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "panourgia",
+      "strongs": [
+        "G3834"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "plane",
+      "strongs": [
+        "G4106"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "mataiotes",
+      "strongs": [
+        "G3153"
+      ],
+      "foundAt": "Ephesians 4:17"
+    },
+    {
+      "id": "skotoo",
+      "strongs": [
+        "G4656"
+      ],
+      "foundAt": "Ephesians 4:18"
+    },
+    {
+      "id": "agnoia",
+      "strongs": [
+        "G0052"
+      ],
+      "foundAt": "Ephesians 4:18"
+    },
+    {
+      "id": "porosis",
+      "strongs": [
+        "G4457"
+      ],
+      "foundAt": "Ephesians 4:18"
+    },
+    {
+      "id": "apalgeo",
+      "strongs": [
+        "G0524"
+      ],
+      "foundAt": "Ephesians 4:19"
+    },
+    {
+      "id": "palaios",
+      "strongs": [
+        "G3820"
+      ],
+      "foundAt": "Ephesians 4:22"
+    },
+    {
+      "id": "anthropos",
+      "strongs": [
+        "G0444"
+      ],
+      "foundAt": "Ephesians 2:15"
+    },
+    {
+      "id": "ananeoo",
+      "strongs": [
+        "G0365"
+      ],
+      "foundAt": "Ephesians 4:23"
+    },
+    {
+      "id": "ktizo",
+      "strongs": [
+        "G2936"
+      ],
+      "foundAt": "Ephesians 2:10"
+    },
+    {
+      "id": "pseudos",
+      "strongs": [
+        "G5579"
+      ],
+      "foundAt": "Ephesians 4:25"
+    },
+    {
+      "id": "orgizo",
+      "strongs": [
+        "G3710"
+      ],
+      "foundAt": "Ephesians 4:26"
+    },
+    {
+      "id": "parorgismos",
+      "strongs": [
+        "G3950"
+      ],
+      "foundAt": "Ephesians 4:26"
+    },
+    {
+      "id": "klepto",
+      "strongs": [
+        "G2813"
+      ],
+      "foundAt": "Ephesians 4:28"
+    },
+    {
+      "id": "sapros",
+      "strongs": [
+        "G4550"
+      ],
+      "foundAt": "Ephesians 4:29"
+    },
+    {
+      "id": "pikria",
+      "strongs": [
+        "G4088"
+      ],
+      "foundAt": "Ephesians 4:31"
+    },
+    {
+      "id": "krauge",
+      "strongs": [
+        "G2906"
+      ],
+      "foundAt": "Ephesians 4:31"
+    },
+    {
+      "id": "blasphemia",
+      "strongs": [
+        "G0988"
+      ],
+      "foundAt": "Ephesians 4:31"
+    },
+    {
+      "id": "kakia",
+      "strongs": [
+        "G2549"
+      ],
+      "foundAt": "Ephesians 4:31"
+    },
+    {
+      "id": "chrestos",
+      "strongs": [
+        "G5543"
+      ],
+      "foundAt": "Ephesians 4:32"
+    },
+    {
+      "id": "eusplanchnos",
+      "strongs": [
+        "G2155"
+      ],
+      "foundAt": "Ephesians 4:32"
+    },
+    {
+      "id": "mimetes",
+      "strongs": [
+        "G3402"
+      ],
+      "foundAt": "Ephesians 5:1"
+    },
+    {
+      "id": "euodia",
+      "strongs": [
+        "G2175"
+      ],
+      "foundAt": "Ephesians 5:2"
+    },
+    {
+      "id": "aischrotes",
+      "strongs": [
+        "G0151"
+      ],
+      "foundAt": "Ephesians 5:4"
+    },
+    {
+      "id": "morologia",
+      "strongs": [
+        "G3473"
+      ],
+      "foundAt": "Ephesians 5:4"
+    },
+    {
+      "id": "eutrapelia",
+      "strongs": [
+        "G2160"
+      ],
+      "foundAt": "Ephesians 5:4"
+    },
+    {
+      "id": "kenos",
+      "strongs": [
+        "G2756"
+      ],
+      "foundAt": "Ephesians 5:6"
+    },
+    {
+      "id": "methysko",
+      "strongs": [
+        "G3182"
+      ],
+      "foundAt": "Ephesians 5:18"
+    },
+    {
+      "id": "asotia",
+      "strongs": [
+        "G0810"
+      ],
+      "foundAt": "Ephesians 5:18"
+    },
+    {
+      "id": "psalmos",
+      "strongs": [
+        "G5568"
+      ],
+      "foundAt": "Ephesians 5:19"
+    },
+    {
+      "id": "hymnos",
+      "strongs": [
+        "G5215"
+      ],
+      "foundAt": "Ephesians 5:19"
+    },
+    {
+      "id": "ode",
+      "strongs": [
+        "G5603"
+      ],
+      "foundAt": "Ephesians 5:19"
+    },
+    {
+      "id": "psallo",
+      "strongs": [
+        "G5567"
+      ],
+      "foundAt": "Ephesians 5:19"
+    },
+    {
+      "id": "loutron",
+      "strongs": [
+        "G3067"
+      ],
+      "foundAt": "Ephesians 5:26"
+    },
+    {
+      "id": "endoxos",
+      "strongs": [
+        "G1741"
+      ],
+      "foundAt": "Ephesians 5:27"
+    },
+    {
+      "id": "spilos",
+      "strongs": [
+        "G4696"
+      ],
+      "foundAt": "Ephesians 5:27"
+    },
+    {
+      "id": "rhytis",
+      "strongs": [
+        "G4512"
+      ],
+      "foundAt": "Ephesians 5:27"
+    },
+    {
+      "id": "ektrepho",
+      "strongs": [
+        "G1625"
+      ],
+      "foundAt": "Ephesians 5:29"
+    },
+    {
+      "id": "thalpo",
+      "strongs": [
+        "G2282"
+      ],
+      "foundAt": "Ephesians 5:29"
+    },
+    {
+      "id": "hypakouo",
+      "strongs": [
+        "G5219"
+      ],
+      "foundAt": "Ephesians 6:1"
+    },
+    {
+      "id": "parorgizo",
+      "strongs": [
+        "G3949"
+      ],
+      "foundAt": "Ephesians 6:4"
+    },
+    {
+      "id": "paideia",
+      "strongs": [
+        "G3809"
+      ],
+      "foundAt": "Ephesians 6:4"
+    },
+    {
+      "id": "ophthalmodoulia",
+      "strongs": [
+        "G3787"
+      ],
+      "foundAt": "Ephesians 6:6"
+    },
+    {
+      "id": "apeile",
+      "strongs": [
+        "G0547"
+      ],
+      "foundAt": "Ephesians 6:9"
+    },
+    {
+      "id": "prosopolempsia",
+      "strongs": [
+        "G4382"
+      ],
+      "foundAt": "Ephesians 6:9"
+    },
+    {
+      "id": "endynamoo",
+      "strongs": [
+        "G1743"
+      ],
+      "foundAt": "Ephesians 6:10"
+    },
+    {
+      "id": "panoplia",
+      "strongs": [
+        "G3833"
+      ],
+      "foundAt": "Ephesians 6:11"
+    },
+    {
+      "id": "methodeia",
+      "strongs": [
+        "G3180"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "pale",
+      "strongs": [
+        "G3823"
+      ],
+      "foundAt": "Ephesians 6:12"
+    },
+    {
+      "id": "kosmokrator",
+      "strongs": [
+        "G2888"
+      ],
+      "foundAt": "Ephesians 6:12"
+    },
+    {
+      "id": "anthistemi",
+      "strongs": [
+        "G0436"
+      ],
+      "foundAt": "Ephesians 6:13"
+    },
+    {
+      "id": "perizonnymi",
+      "strongs": [
+        "G4024"
+      ],
+      "foundAt": "Ephesians 6:14"
+    },
+    {
+      "id": "thorax",
+      "strongs": [
+        "G2382"
+      ],
+      "foundAt": "Ephesians 6:14"
+    },
+    {
+      "id": "hypodeo",
+      "strongs": [
+        "G5265"
+      ],
+      "foundAt": "Ephesians 6:15"
+    },
+    {
+      "id": "hetoimasia",
+      "strongs": [
+        "G2091"
+      ],
+      "foundAt": "Ephesians 6:15"
+    },
+    {
+      "id": "thyreos",
+      "strongs": [
+        "G2375"
+      ],
+      "foundAt": "Ephesians 6:16"
+    },
+    {
+      "id": "belos",
+      "strongs": [
+        "G0956"
+      ],
+      "foundAt": "Ephesians 6:16"
+    },
+    {
+      "id": "perikephalaia",
+      "strongs": [
+        "G4030"
+      ],
+      "foundAt": "Ephesians 6:17"
+    },
+    {
+      "id": "machaira",
+      "strongs": [
+        "G3162"
+      ],
+      "foundAt": "Ephesians 6:17"
+    },
+    {
+      "id": "deesis",
+      "strongs": [
+        "G1162"
+      ],
+      "foundAt": "Ephesians 6:18"
+    },
+    {
+      "id": "proskarteresis",
+      "strongs": [
+        "G4343"
+      ],
+      "foundAt": "Ephesians 6:18"
+    },
+    {
+      "id": "halysis",
+      "strongs": [
+        "G0254"
+      ],
+      "foundAt": "Ephesians 6:20"
+    },
+    {
+      "id": "poimen",
+      "strongs": [
+        "G4166"
+      ],
+      "foundAt": "Ephesians 4:11"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "Ephesians 4:13"
+    },
+    {
+      "id": "metron",
+      "strongs": [
+        "G3358"
+      ],
+      "foundAt": "Ephesians 4:7"
+    },
+    {
+      "id": "nepios",
+      "strongs": [
+        "G3516"
+      ],
+      "foundAt": "Ephesians 4:14"
+    },
+    {
+      "id": "aselgeia",
+      "strongs": [
+        "G0766"
+      ],
+      "foundAt": "Ephesians 4:19"
+    },
+    {
+      "id": "kainos",
+      "strongs": [
+        "G2537"
+      ],
+      "foundAt": "Ephesians 2:15"
+    },
+    {
+      "id": "diabolos",
+      "strongs": [
+        "G1228"
+      ],
+      "foundAt": "Ephesians 4:27"
+    },
+    {
+      "id": "thymos",
+      "strongs": [
+        "G2372"
+      ],
+      "foundAt": "Ephesians 4:31"
+    },
+    {
+      "id": "charizomai",
+      "strongs": [
+        "G5483"
+      ],
+      "foundAt": "Ephesians 4:32"
+    },
+    {
+      "id": "agapetos",
+      "strongs": [
+        "G0027"
+      ],
+      "foundAt": "Ephesians 5:1"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "Ephesians 5:3"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "Ephesians 4:19"
+    },
+    {
+      "id": "pleonexia",
+      "strongs": [
+        "G4124"
+      ],
+      "foundAt": "Ephesians 4:19"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Ephesians 1:16"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "Ephesians 5:8"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "Ephesians 5:9"
+    },
+    {
+      "id": "elencho",
+      "strongs": [
+        "G1651"
+      ],
+      "foundAt": "Ephesians 5:11"
+    },
+    {
+      "id": "exagorazo",
+      "strongs": [
+        "G1805"
+      ],
+      "foundAt": "Ephesians 5:16"
+    },
+    {
+      "id": "kairos",
+      "strongs": [
+        "G2540"
+      ],
+      "foundAt": "Ephesians 1:10"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "Ephesians 5:23"
+    },
+    {
+      "id": "hagiazo",
+      "strongs": [
+        "G0037"
+      ],
+      "foundAt": "Ephesians 5:26"
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "foundAt": "Ephesians 5:26"
+    },
+    {
+      "id": "phobeo",
+      "strongs": [
+        "G5399"
+      ],
+      "foundAt": "Ephesians 5:33"
+    },
+    {
+      "id": "nouthesia",
+      "strongs": [
+        "G3559"
+      ],
+      "foundAt": "Ephesians 6:4"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Ephesians 6:5"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "Ephesians 1:2"
+    },
+    {
+      "id": "haplotes",
+      "strongs": [
+        "G0572"
+      ],
+      "foundAt": "Ephesians 6:5"
+    },
+    {
+      "id": "aletheia",
+      "strongs": [
+        "G0225"
+      ],
+      "foundAt": "Ephesians 1:13"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Ephesians 4:24"
+    },
+    {
+      "id": "proseuche",
+      "strongs": [
+        "G4335"
+      ],
+      "foundAt": "Ephesians 1:16"
+    },
+    {
+      "id": "agrypneo",
+      "strongs": [
+        "G0069"
+      ],
+      "foundAt": "Ephesians 6:18"
+    },
+    {
+      "id": "presbeuo",
+      "strongs": [
+        "G4243"
+      ],
+      "foundAt": "Ephesians 6:20"
+    },
+    {
+      "id": "diakonos",
+      "strongs": [
+        "G1249"
+      ],
+      "foundAt": "Ephesians 3:7"
+    },
+    {
+      "id": "aphtharsia",
+      "strongs": [
+        "G0861"
+      ],
+      "foundAt": "Ephesians 6:24"
     }
   ],
   "crossRefs": {
@@ -679,10 +1470,6 @@
     {
       "area": "places",
       "text": "Colossae and Rome aren't named in Ephesians. Colossae is shown because Tychicus carried a letter there at the same time (Colossians 4:7-9), and Rome because it is the traditional place of Paul's imprisonment."
-    },
-    {
-      "area": "chapters",
-      "text": "All chapters need a hand-written context draft."
     }
   ]
 }

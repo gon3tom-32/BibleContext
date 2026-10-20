@@ -1,0 +1,238 @@
+{
+  "sceneHappening": "Children, parents, slaves, and masters, then the whole armor of God and a last word from Tychicus",
+  "summary": "\"Children, obey your parents in the Lord, for this is right. 'Honor your father and mother,' which is the first commandment with a promise: 'that it may be well with you, and you may live long on the earth.'\" Fathers are not to provoke their children to wrath, but to bring them up in the discipline and instruction of the Lord. Slaves are to obey their masters according to the flesh, with fear and trembling, in singleness of heart, as to Christ, not by way of eye-service as men-pleasers, but as slaves of Christ doing the will of God from the heart, knowing that whatever good anyone does, he will receive the same from the Lord, whether he is a slave or free. Masters are to do the same toward their slaves, giving up threatening, knowing that both their Master and theirs is in heaven, and there is no partiality with him. Finally: \"Be strong in the Lord, and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the wiles of the devil. For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world's rulers of the darkness of this age, against the spiritual forces of wickedness in the heavenly places.\" Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girded about with truth, having put on the breastplate of righteousness, and having fitted your feet with the preparation of the Good News of peace, above all taking up the shield of faith, with which you will be able to quench all the fiery darts of the evil one. Take the helmet of salvation, and the sword of the Spirit, which is the word of God; with all prayer and requests, praying at all seasons in the Spirit, being watchful to this end in all perseverance and requests for all the saints, and for Paul, that utterance may be given to him in opening his mouth, to make known with boldness the mystery of the Good News, for which he is an ambassador in chains, that he may speak boldly as he ought. Tychicus, the beloved brother and faithful servant in the Lord, will make known to them all things, and Paul has sent him that they may know how things are with him and that he may comfort their hearts. \"Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ. Grace be with all those who love our Lord Jesus Christ with incorruptible love. Amen.\"",
+  "whySettingMatters": "The household codes end with children, parents, slaves, and masters. In the Roman world, a father had nearly absolute power over his household, and slaves were property. Paul tells children to obey and fathers to avoid provoking them, tells slaves to serve as people who serve Christ, and tells masters to stop threatening and treat slaves as people who share the same Master; he does not call for ending slavery, but he places masters and slaves on the same level before Christ, and the effect of that is a matter of ongoing discussion. The armor passage draws on Isaiah 59:17 and on the equipment of a Roman soldier; Paul was chained to a soldier as he wrote (Acts 28:16, 28:20), so the image was in front of him. The armor is defensive, apart from the sword, and the enemy is \"the schemes of the devil,\" not people (\"flesh and blood\"). The powers \"in the heavenly places\" connect back to 1:21 and 3:10, where Christ is far above them. Tychicus is also named in Colossians 4:7-8 and Acts 20:4, and carrying the letter was how it reached its readers. The letter ends on grace and \"incorruptible love,\" echoing its themes.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "\"An ambassador in chains,\" asking for prayer."
+    },
+    {
+      "id": "tychicus",
+      "note": "Carries the letter and brings news."
+    },
+    {
+      "id": "the-ephesian-children",
+      "note": "Told to obey their parents in the Lord."
+    },
+    {
+      "id": "the-ephesian-fathers",
+      "note": "Told not to provoke their children."
+    },
+    {
+      "id": "the-ephesian-slaves",
+      "note": "Told to serve as slaves of Christ."
+    },
+    {
+      "id": "the-ephesian-masters",
+      "note": "Told to stop threatening, since they share a Master in heaven."
+    },
+    {
+      "id": "the-rulers-and-powers",
+      "note": "The spiritual forces believers stand against."
+    }
+  ],
+  "questions": [
+    "Paul speaks to children and slaves as people who can respond to Christ. What does it say that he speaks to them directly?",
+    "The armor is mostly defensive. What does that suggest about how believers face spiritual opposition?",
+    "\"Our struggle is not against flesh and blood.\" How does that change how you see difficult people?",
+    "Paul asks for prayer to speak boldly, though he is in chains. What does that tell you about what he wanted?"
+  ],
+  "words": [
+    {
+      "id": "hypakouo",
+      "note": "\"Children, obey your parents in the Lord\" (6:1, 6:5)."
+    },
+    {
+      "id": "parorgizo",
+      "note": "\"Don't provoke your children to wrath\" (6:4)."
+    },
+    {
+      "id": "paideia",
+      "note": "\"In the discipline and instruction of the Lord\" (6:4)."
+    },
+    {
+      "id": "nouthesia",
+      "note": "\"Instruction of the Lord\" (6:4)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"Servants, be obedient\" (6:5-8)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"To your masters according to the flesh\" and \"the Lord\" (6:5-9)."
+    },
+    {
+      "id": "haplotes",
+      "note": "\"In singleness of your heart\" (6:5)."
+    },
+    {
+      "id": "ophthalmodoulia",
+      "note": "\"Not in the way of eyeservice\" (6:6)."
+    },
+    {
+      "id": "apeile",
+      "note": "\"Giving up threatening\" (6:9)."
+    },
+    {
+      "id": "prosopolempsia",
+      "note": "\"There is no partiality with him\" (6:9)."
+    },
+    {
+      "id": "endynamoo",
+      "note": "\"Be strong in the Lord\" (6:10)."
+    },
+    {
+      "id": "ischys",
+      "note": "\"And in the strength of his might\" (6:10)."
+    },
+    {
+      "id": "panoplia",
+      "note": "\"Put on the whole armor of God\" (6:11, 6:13)."
+    },
+    {
+      "id": "methodeia",
+      "note": "\"Against the wiles of the devil\" (6:11)."
+    },
+    {
+      "id": "diabolos",
+      "note": "\"The wiles of the devil\" (6:11)."
+    },
+    {
+      "id": "pale",
+      "note": "\"Our wrestling is not against flesh and blood\" (6:12)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"Against the powers\" (6:12)."
+    },
+    {
+      "id": "kosmokrator",
+      "note": "\"Against the world's rulers of the darkness\" (6:12)."
+    },
+    {
+      "id": "anthistemi",
+      "note": "\"That you may be able to withstand in the evil day\" (6:13)."
+    },
+    {
+      "id": "perizonnymi",
+      "note": "\"Having girded your loins with truth\" (6:14)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"With truth\" (6:14)."
+    },
+    {
+      "id": "thorax",
+      "note": "\"The breastplate of righteousness\" (6:14)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"The breastplate of righteousness\" (6:14)."
+    },
+    {
+      "id": "hypodeo",
+      "note": "\"Having fitted your feet\" (6:15)."
+    },
+    {
+      "id": "hetoimasia",
+      "note": "\"With the preparation of the Good News of peace\" (6:15)."
+    },
+    {
+      "id": "thyreos",
+      "note": "\"The shield of faith\" (6:16)."
+    },
+    {
+      "id": "belos",
+      "note": "\"All the fiery darts\" (6:16)."
+    },
+    {
+      "id": "perikephalaia",
+      "note": "\"The helmet of salvation\" (6:17)."
+    },
+    {
+      "id": "machaira",
+      "note": "\"The sword of the Spirit\" (6:17)."
+    },
+    {
+      "id": "rhema",
+      "note": "\"The word of God\" (6:17)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"With all prayer and requests\" (6:18)."
+    },
+    {
+      "id": "deesis",
+      "note": "\"And requests\" (6:18)."
+    },
+    {
+      "id": "agrypneo",
+      "note": "\"Being watchful to this end\" (6:18)."
+    },
+    {
+      "id": "proskarteresis",
+      "note": "\"With all perseverance\" (6:18)."
+    },
+    {
+      "id": "parresia",
+      "note": "\"That I may speak boldly\" (6:19-20)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"The mystery of the Good News\" (6:19)."
+    },
+    {
+      "id": "halysis",
+      "note": "\"An ambassador in chains\" (6:20)."
+    },
+    {
+      "id": "presbeuo",
+      "note": "\"An ambassador in chains\" (6:20)."
+    },
+    {
+      "id": "diakonos",
+      "note": "\"A faithful servant in the Lord\" (6:21)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Peace be to the brothers\" (6:15, 6:23)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Love with faith\" (6:23-24)."
+    },
+    {
+      "id": "aphtharsia",
+      "note": "\"In incorruptible love\" (6:24)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace be with all those who love our Lord Jesus Christ\" (6:24)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 20:12",
+      "note": "honor your father and your mother"
+    },
+    {
+      "ref": "Isaiah 59:17",
+      "note": "he put on righteousness as a breastplate and a helmet of salvation on his head"
+    },
+    {
+      "ref": "Colossians 4:7-9",
+      "note": "Tychicus will tell you all about my activities"
+    },
+    {
+      "ref": "2 Corinthians 10:3-5",
+      "note": "the weapons of our warfare are not of the flesh"
+    }
+  ],
+  "number": 6,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

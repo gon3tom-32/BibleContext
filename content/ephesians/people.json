@@ -28,5 +28,35 @@
     "id": "jesus",
     "name": "Jesus",
     "note": "The Christ, head of the church, in whom God unites all things."
+  },
+  {
+    "id": "the-ephesian-wives",
+    "name": "Wives",
+    "note": "Addressed first in the household teaching (5:22-24, 5:33)."
+  },
+  {
+    "id": "the-ephesian-husbands",
+    "name": "Husbands",
+    "note": "Called to love their wives as Christ loved the church (5:25-33)."
+  },
+  {
+    "id": "the-ephesian-children",
+    "name": "Children",
+    "note": "Told to obey their parents in the Lord (6:1-3)."
+  },
+  {
+    "id": "the-ephesian-fathers",
+    "name": "Fathers",
+    "note": "Told not to provoke their children, but to bring them up in the Lord's discipline (6:4)."
+  },
+  {
+    "id": "the-ephesian-slaves",
+    "name": "Slaves",
+    "note": "Told to serve as slaves of Christ (6:5-8)."
+  },
+  {
+    "id": "the-ephesian-masters",
+    "name": "Masters",
+    "note": "Told to stop threatening, since they and their slaves share a Master in heaven (6:9)."
   }
 ]
