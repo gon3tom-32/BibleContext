@@ -115,6 +115,15 @@
     {
       "id": "nineveh",
       "ancientId": "a70fd5d"
+    },
+    {
+      "id": "gennesaret",
+      "ancientId": "a7de69e",
+      "map": "none"
+    },
+    {
+      "id": "magadan",
+      "ancientId": "ad14067"
     }
   ],
   "people": [
@@ -197,6 +206,18 @@
     {
       "id": "thaddaeus",
       "theographic": "lebbaeus_1815"
+    },
+    {
+      "id": "herod-antipas",
+      "theographic": "herod_1505"
+    },
+    {
+      "id": "herodias",
+      "theographic": "herodias_1507"
+    },
+    {
+      "id": "herodias-daughter",
+      "theographic": "daughter_of_herodias_983"
     }
   ],
   "words": [
@@ -361,6 +382,41 @@
         "G5045"
       ],
       "foundAt": "Matthew 13:55"
+    },
+    {
+      "id": "oligopistos",
+      "strongs": [
+        "G3640"
+      ],
+      "foundAt": "Matthew 14:31"
+    },
+    {
+      "id": "proskuneo",
+      "strongs": [
+        "G4352"
+      ],
+      "foundAt": "Matthew 14:33"
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "foundAt": "Matthew 15:2"
+    },
+    {
+      "id": "koinoo",
+      "strongs": [
+        "G2840"
+      ],
+      "foundAt": "Matthew 15:11"
+    },
+    {
+      "id": "kynarion",
+      "strongs": [
+        "G2952"
+      ],
+      "foundAt": "Matthew 15:26"
     }
   ],
   "crossRefs": {
@@ -378,7 +434,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 14 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 16 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -387,6 +443,10 @@
     {
       "area": "places",
       "text": "Manuscripts differ at 8:28 (Gadarenes, Gerasenes, or Gergesenes), so where the pigs scene happened is debated; we show Gadara as OpenBible locates it."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no record for the Canaanite woman, who is unnamed in Matthew."
     }
   ]
 }

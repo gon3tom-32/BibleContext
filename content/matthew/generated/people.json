@@ -469,7 +469,8 @@
             "name": "Philip"
           },
           {
-            "name": "Herod Antipas"
+            "name": "Herod Antipas",
+            "id": "herod-antipas"
           }
         ],
         "siblings": []
@@ -510,7 +511,8 @@
         "children": [],
         "siblings": [
           {
-            "name": "Herod Antipas"
+            "name": "Herod Antipas",
+            "id": "herod-antipas"
           },
           {
             "name": "Philip"
@@ -1126,6 +1128,118 @@
         "fetched": "2026-10-19",
         "item": "lebbaeus_1815",
         "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "herod-antipas",
+      "name": "Herod Antipas",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Herod",
+          "id": "herod"
+        },
+        "spouses": [
+          {
+            "name": "Herodias",
+            "id": "herodias"
+          }
+        ],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Archelaus",
+            "id": "archelaus"
+          },
+          {
+            "name": "Philip"
+          },
+          {
+            "name": "Philip"
+          }
+        ]
+      },
+      "chapters": [
+        14
+      ],
+      "verses": [
+        "Matthew 14:1",
+        "Matthew 14:3",
+        "Matthew 14:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "herod_1505",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "herodias",
+      "name": "Herodias",
+      "gender": "Female",
+      "family": {
+        "spouses": [
+          {
+            "name": "Herod Antipas",
+            "id": "herod-antipas"
+          },
+          {
+            "name": "Philip"
+          }
+        ],
+        "children": [
+          {
+            "name": "Daughter of Herodias",
+            "id": "herodias-daughter"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        14
+      ],
+      "verses": [
+        "Matthew 14:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "herodias_1507",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "herodias-daughter",
+      "name": "Daughter of Herodias",
+      "alsoCalled": "daughter",
+      "gender": "Female",
+      "family": {
+        "mother": {
+          "name": "Herodias",
+          "id": "herodias"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        14
+      ],
+      "verses": [
+        "Matthew 14:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "daughter_of_herodias_983",
+        "recordStatus": "wip"
       }
     }
   ]

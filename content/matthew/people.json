@@ -183,5 +183,25 @@
     "id": "nazareth-townspeople",
     "name": "The people of Nazareth",
     "note": "Jesus' neighbors and relatives, who knew him as a craftsman's son."
+  },
+  {
+    "id": "herod-antipas",
+    "name": "Herod Antipas",
+    "note": "A son of Herod the Great, appointed by Rome as tetrarch of Galilee and Perea. Matthew first calls him tetrarch, then king."
+  },
+  {
+    "id": "herodias",
+    "name": "Herodias",
+    "note": "Antipas's wife, who had been married to his half-brother Philip and was also his niece."
+  },
+  {
+    "id": "herodias-daughter",
+    "name": "Herodias's daughter",
+    "note": "Unnamed in Matthew; the historian Josephus calls her Salome."
+  },
+  {
+    "id": "canaanite-woman",
+    "name": "The Canaanite woman",
+    "note": "A Gentile mother from the region of Tyre and Sidon, whose daughter is tormented by a demon."
   }
 ]

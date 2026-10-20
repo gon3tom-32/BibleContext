@@ -7593,6 +7593,199 @@
         "item": "https://www.openbible.info/geo/ancient/a70fd5d/nineveh",
         "alsoCredit": "OpenStreetMap (ODbL 1.0)"
       }
+    },
+    {
+      "id": "gennesaret",
+      "name": "Gennesaret",
+      "type": "region",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 14:34"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        14
+      ],
+      "identification": "El Ghuweir",
+      "lonlat": [
+        35.507222,
+        32.860556
+      ],
+      "confidence": {
+        "score": 1000,
+        "outOf": 1000,
+        "label": "High"
+      },
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5164,
+              32.8241
+            ],
+            [
+              35.5434,
+              32.8699
+            ],
+            [
+              35.5044,
+              32.8689
+            ],
+            [
+              35.4829,
+              32.8509
+            ],
+            [
+              35.5164,
+              32.8241
+            ]
+          ]
+        ],
+        "kind": "rough_boundary"
+      },
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/a7de69e/gennesaret"
+      }
+    },
+    {
+      "id": "magadan",
+      "name": "Magadan",
+      "type": "settlement",
+      "mapRole": "none",
+      "mentionedIn": [
+        "Matthew 15:39"
+      ],
+      "mapOnly": false,
+      "chapters": [
+        15
+      ],
+      "identification": "another name for Magdala",
+      "modernLocation": "Majdal",
+      "lonlat": [
+        35.513552,
+        32.827069
+      ],
+      "confidence": {
+        "score": 616,
+        "outOf": 1000,
+        "label": "Likely"
+      },
+      "outline": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.6127,
+              32.8865
+            ],
+            [
+              35.6244,
+              32.8792
+            ],
+            [
+              35.6331,
+              32.8734
+            ],
+            [
+              35.6433,
+              32.8579
+            ],
+            [
+              35.6483,
+              32.8456
+            ],
+            [
+              35.6397,
+              32.8345
+            ],
+            [
+              35.6412,
+              32.8292
+            ],
+            [
+              35.645,
+              32.816
+            ],
+            [
+              35.6387,
+              32.7995
+            ],
+            [
+              35.639,
+              32.7899
+            ],
+            [
+              35.6345,
+              32.7869
+            ],
+            [
+              35.6354,
+              32.7788
+            ],
+            [
+              35.6384,
+              32.7733
+            ],
+            [
+              35.6318,
+              32.7474
+            ],
+            [
+              35.6246,
+              32.7363
+            ],
+            [
+              35.6183,
+              32.7272
+            ],
+            [
+              35.6126,
+              32.7184
+            ],
+            [
+              35.6031,
+              32.7102
+            ],
+            [
+              35.5911,
+              32.7054
+            ],
+            [
+              35.643,
+              32.7016
+            ],
+            [
+              35.6767,
+              32.7829
+            ],
+            [
+              35.6762,
+              32.862
+            ],
+            [
+              35.6245,
+              32.9231
+            ],
+            [
+              35.6127,
+              32.8865
+            ]
+          ]
+        ],
+        "kind": "rough_boundary"
+      },
+      "source": {
+        "name": "OpenBible.info Bible Geocoding Data",
+        "url": "https://www.openbible.info/geo/",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "https://www.openbible.info/geo/ancient/ad14067/magadan"
+      }
     }
   ]
 }

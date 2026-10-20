@@ -278,7 +278,8 @@ function readTagged() {
   const words = []; // { book, chapter, verse, strongs: [...], original, translit, gloss }
   for (const f of fs.readdirSync(dir).filter((f) => f.startsWith(GREEK ? "TAGNT" : "TAHOT"))) {
     for (const line of fs.readFileSync(path.join(dir, f), "utf8").split("\n")) {
-      const m = line.match(/^([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)(?:\([^)]*\))?#\d+=/);
+      // A verse number may carry a note for alternate numbering, in (...) for the Hebrew or {...} for the Greek.
+      const m = line.match(/^([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)(?:\([^)]*\)|\{[^}]*\})?#\d+=/);
       if (!m) continue;
       const cols = line.split("\t");
       if (GREEK) {
