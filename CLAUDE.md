@@ -59,7 +59,7 @@ Navigation: Overview, Context, Chapters, Word studies, Our notes ("Words" on pho
 
 **Phase 2: for the two of us** — sign-in for two users (Supabase), shared notes and "questions we're wrestling with".
 
-**Books:** Ruth (done) and Matthew (done: overview, context, map, timeline, 66 word studies, and all 28 chapters, as first drafts needing review). Working through the New Testament one book at a time; the next book will follow the same steps in `docs/DATA.md`.
+**Books:** Ruth (done), Matthew (done), and Mark (done: overview, context, map, timeline, 48 word studies, and all 16 chapters, as first drafts needing review; the longer ending of chapter 16 is flagged as debated). Working through the New Testament one book at a time; the next book will follow the same steps in `docs/DATA.md`.
 
 **Later** — relationship web for people, search across notes.
 

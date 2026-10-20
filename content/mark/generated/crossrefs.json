@@ -1110,7 +1110,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 9:27",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "Daniel 7:13-14",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Isaiah 13:10",
+          "inDataset": true,
+          "votes": 5
+        },
+        {
+          "ref": "Isaiah 34:4",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Daniel 12:1",
+          "inDataset": true,
+          "votes": 10
+        }
+      ]
     },
     {
       "number": 14,
@@ -1173,7 +1199,38 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Zechariah 13:7",
+          "inDataset": true,
+          "votes": 30
+        },
+        {
+          "ref": "Psalm 41:9",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Exodus 24:8",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Isaiah 53:12",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Psalm 110:1",
+          "inDataset": true,
+          "votes": 28
+        },
+        {
+          "ref": "Daniel 7:13",
+          "inDataset": true,
+          "votes": 37
+        }
+      ]
     },
     {
       "number": 15,
@@ -1236,7 +1293,38 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Psalm 22:1",
+          "inDataset": true,
+          "votes": 25
+        },
+        {
+          "ref": "Psalm 22:18",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Isaiah 53:7",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Amos 8:9",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Psalm 69:21",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "Deuteronomy 21:22-23",
+          "inDataset": true,
+          "votes": 3
+        }
+      ]
     },
     {
       "number": 16,
@@ -1298,7 +1386,23 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Mark 14:28",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "John 11:25-26",
+          "inDataset": true,
+          "votes": 201
+        },
+        {
+          "ref": "Romans 10:9-14",
+          "inDataset": true,
+          "votes": 184
+        }
+      ]
     }
   ]
 }

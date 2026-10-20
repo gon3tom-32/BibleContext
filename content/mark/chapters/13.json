@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "On the Mount of Olives, looking back at the temple and ahead to what's coming",
+  "summary": "As Jesus leaves the temple, a disciple says, \"Teacher, see what kind of stones and what kind of buildings!\" Jesus says, \"Do you see these great buildings? There will not be left here one stone on another, which will not be thrown down.\" Later, on the Mount of Olives facing the temple, Peter, James, John, and Andrew ask privately when this will be and what the sign will be. He begins, \"Be careful that no one leads you astray. Many will come in my name, saying, 'I am he,' and will lead many astray. When you hear of wars and rumors of wars, don't be troubled; those things must happen, but the end is not yet.\" Nations will rise against nations, there will be earthquakes and famines, \"the beginning of birth pains.\" His followers will be handed over to councils, beaten in synagogues, and stand before governors and kings as a testimony; the gospel must first be preached to all the nations; and when they are arrested they are not to worry beforehand, for the Holy Spirit will speak. Brother will betray brother, and \"you will be hated by all men for my name's sake, but he who endures to the end, the same will be saved.\" When they see \"the abomination of desolation standing where it ought not\" (\"let the reader understand\") those in Judea should flee to the mountains: there will be a time of tribulation \"such as there has not been the like from the beginning of the creation.\" False christs and false prophets will give signs, but \"I have told you everything beforehand.\" After that tribulation the sun will be darkened, the moon will not give its light, and stars will fall, and \"they will see the Son of Man coming in clouds with great power and glory,\" gathering his elect from the four winds. He teaches the fig tree: when its branch becomes tender and leaves come out, summer is near, so when you see these things, he is near, at the doors. \"Most certainly I tell you, this generation will not pass away until all these things happen. Heaven and earth will pass away, but my words will not pass away.\" But of that day or hour no one knows, not the angels in heaven, nor the Son, but the Father. So \"watch, keep alert, and pray\": like a man going on a journey who leaves his servants in charge and tells the doorkeeper to watch, they must not be found sleeping. \"What I tell you, I tell all: Watch.\"",
+  "whySettingMatters": "Herod's temple was still being finished in Jesus' day, and its great white stones, some of them many tons in weight, were famous; the Romans destroyed it in AD 70, so \"not one stone on another\" speaks to something Mark's readers either feared or had seen. This chapter is often called the Olivet Discourse and is written in the style of Jewish apocalyptic literature, full of images from Daniel and the prophets for the shaking of the world. How it fits together is one of the most debated passages in the Gospels. Some read the first half as the destruction of Jerusalem and the later verses as the end of history; others read it all as the events of AD 70; others read it all as the end. \"The abomination of desolation\" comes from Daniel 9:27, 11:31, and 12:11, and Mark's \"let the reader understand\" and the masculine participle suggest he sees it as a person or an act, and what it refers to is debated. The saying about \"this generation\" and the saying that not even the Son knows the day are both well known for the questions they raise. The darkened sun and falling stars use language from Isaiah 13:10 and 34:4, and the Son of Man \"coming in clouds\" is from Daniel 7:13. The four watches (evening, midnight, cockcrow, morning) are the Roman divisions of the night and set up the next chapter, when the disciples can't stay awake.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Teaches the four closest disciples about what is coming."
+    },
+    {
+      "id": "peter",
+      "note": "Asks the question privately with the other three."
+    },
+    {
+      "id": "andrew",
+      "note": "One of the four who ask."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "One of the four who ask."
+    },
+    {
+      "id": "john-apostle",
+      "note": "One of the four who ask."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Told to watch."
+    }
+  ],
+  "questions": [
+    "The temple was the center of Israel's life. How would hearing that it will be torn down have felt to the disciples?",
+    "Jesus keeps saying, \"Don't be alarmed\" and \"watch.\" How are these meant to fit together?",
+    "Jesus says not even the Son knows the day. What does that tell us about what we are meant to do with the future?",
+    "Why might Mark have placed this teaching just before the passion story?"
+  ],
+  "words": [
+    {
+      "id": "gregoreo",
+      "note": "\"Watch\" (13:34-37)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"Those days will be a time of tribulation\" (13:19, 13:24)."
+    },
+    {
+      "id": "bdelygma",
+      "note": "\"The abomination of desolation\" (13:14)."
+    },
+    {
+      "id": "eklektos",
+      "note": "God's \"elect,\" for whose sake the days are shortened (13:20, 13:22, 13:27)."
+    },
+    {
+      "id": "euangelion",
+      "note": "The gospel must first be preached to all nations (13:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Daniel 9:27",
+      "note": "the abomination that makes desolate"
+    },
+    {
+      "ref": "Daniel 7:13-14",
+      "note": "one like a son of man coming with the clouds"
+    },
+    {
+      "ref": "Isaiah 13:10",
+      "note": "the sun and moon darkened"
+    },
+    {
+      "ref": "Isaiah 34:4",
+      "note": "the stars fall"
+    },
+    {
+      "ref": "Daniel 12:1",
+      "note": "a time of trouble such as never was"
+    }
+  ],
+  "number": 13,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

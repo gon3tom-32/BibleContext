@@ -1,0 +1,70 @@
+{
+  "sceneHappening": "The empty tomb at dawn",
+  "summary": "When the Sabbath is past, Mary Magdalene, Mary the mother of James, and Salome buy spices to anoint Jesus. Very early on the first day of the week, at sunrise, they come to the tomb, saying to one another, \"Who will roll away the stone for us from the door of the tomb?\" Looking up, they see that the stone, which is very big, has been rolled back. Entering the tomb, they see a young man sitting on the right side, dressed in a white robe, and they are amazed. He says, \"Don't be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen. He is not here. Behold, the place where they laid him! But go, tell his disciples and Peter, 'He goes before you into Galilee. There you will see him, as he said to you.'\" They go out and flee from the tomb, for trembling and astonishment have seized them. \"They said nothing to anyone; for they were afraid.\" That is where the earliest manuscripts of Mark end. Later copies add a short ending and a longer one, in which Jesus appears to Mary Magdalene, to two disciples walking in the country, and to the eleven as they sit at table, rebuking their unbelief and sending them: \"Go into all the world, and preach the good news to the whole creation. He who believes and is baptized will be saved; he who disbelieves will be condemned.\" Signs are promised to those who believe, and Jesus is taken up into heaven and sits at the right hand of God, while the disciples go out and preach, with the Lord working with them.",
+  "whySettingMatters": "Burial in a rock-cut tomb sealed by a rolling stone was common for those who could afford it. Jewish custom allowed the family to come back and anoint the body after the Sabbath, which is why the women come at the first possible time, early on Sunday, what Christians later called the Lord's Day. Mark's Greek ends in mid-thought: the last word of verse 8 is the little word \"for\" (gar). The oldest and best manuscripts, including the two great fourth-century codices Sinaiticus and Vaticanus, stop there, and early Christian writers such as Eusebius and Jerome noted that most copies they knew lacked verses 9-20. A short ending and a long ending were added later, and the long ending draws on the other Gospels and Acts. Whether Mark meant to stop at verse 8, or whether his ending was lost, is debated; many scholars argue that an ending in fear and silence is deliberate, leaving the reader to decide whether to follow. Whichever is true, the message is clear: the promise \"He goes before you into Galilee\" points back to Mark 14:28 and forward to the readers' own lives. The women who fled are the same ones who had stayed at the cross, and the young man's \"tell his disciples and Peter\" names the disciple who denied him.",
+  "people": [
+    {
+      "id": "mary-magdalene",
+      "note": "Goes to the tomb first, and is the first witness in the longer ending."
+    },
+    {
+      "id": "salome",
+      "note": "One of the three women."
+    },
+    {
+      "id": "mary-mother-of-james",
+      "note": "One of the three women."
+    },
+    {
+      "id": "the-young-man-at-the-tomb",
+      "note": "Announces that Jesus has been raised."
+    },
+    {
+      "id": "peter",
+      "note": "Named by the young man: \"Tell his disciples and Peter.\""
+    },
+    {
+      "id": "jesus",
+      "note": "Risen, not seen in the oldest ending, and going before them into Galilee."
+    }
+  ],
+  "questions": [
+    "The women ask, \"Who will roll away the stone?\" and find it already moved. What does that suggest about their worries?",
+    "Mark ends with fear and silence. What do you hear in that ending, and what do you hear when you read the longer ending?",
+    "\"Tell his disciples and Peter.\" Why single out Peter?",
+    "Jesus is going ahead to Galilee, back where Mark began. What would that mean for the disciples?"
+  ],
+  "words": [
+    {
+      "id": "egeiro",
+      "note": "\"He has risen\" (16:6, also 16:14)."
+    },
+    {
+      "id": "phobeo",
+      "note": "\"They were afraid\" (16:8)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"Preach the gospel to the whole creation\" (16:15, longer ending)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Mark 14:28",
+      "note": "\"After I am raised up, I will go before you into Galilee\""
+    },
+    {
+      "ref": "John 11:25-26",
+      "note": "\"I am the resurrection and the life\""
+    },
+    {
+      "ref": "Romans 10:9-14",
+      "note": "believing that God raised him from the dead"
+    }
+  ],
+  "number": 16,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

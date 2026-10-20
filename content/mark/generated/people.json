@@ -724,6 +724,148 @@
         "item": "bartimaeus_406",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "pilate",
+      "name": "Pontius",
+      "displayTitle": "Pontius Pilate",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "Mark 15:1",
+        "Mark 15:2",
+        "Mark 15:4",
+        "Mark 15:5",
+        "Mark 15:9",
+        "Mark 15:12",
+        "Mark 15:14",
+        "Mark 15:15",
+        "Mark 15:43",
+        "Mark 15:44"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "pilate_2365",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "Mark 15:7",
+        "Mark 15:11",
+        "Mark 15:15"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barabbas_399",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "mary-magdalene",
+      "name": "Mary",
+      "displayTitle": "Mary Magdalene",
+      "alsoCalled": "Magdalene",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15,
+        16
+      ],
+      "verses": [
+        "Mark 15:40",
+        "Mark 15:47",
+        "Mark 16:1",
+        "Mark 16:9"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1943",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "salome",
+      "name": "Salome",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15,
+        16
+      ],
+      "verses": [
+        "Mark 15:40",
+        "Mark 16:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "salome_2464",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "name": "Joseph",
+      "displayTitle": "Joseph (of Arimathea)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        15
+      ],
+      "verses": [
+        "Mark 15:43",
+        "Mark 15:45"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "joseph_1716",
+        "recordStatus": "wip"
+      }
     }
   ]
 }

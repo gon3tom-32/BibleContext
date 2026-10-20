@@ -1542,5 +1542,558 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "bdelygma",
+    "transliteration": "bdelygma",
+    "original": "βδέλυγμα",
+    "pronunciation": "BDEL-oog-ma",
+    "gloss": "abomination, detestable thing",
+    "notes": "Something disgusting to God, especially an idolatrous object or act that defiles a holy place. \"The abomination of desolation\" comes from Daniel (see 9:27, 11:31, 12:11), where it refers to the desecration of the Jerusalem temple. Mark has \"standing where it ought not,\" a person or an act, and what it points to is debated.",
+    "range": [
+      {
+        "sense": "Abomination",
+        "note": "Something that defiles and offends God."
+      },
+      {
+        "sense": "Idolatry",
+        "note": "Something connected with pagan worship."
+      }
+    ],
+    "translations": [
+      "abomination",
+      "detestable thing"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:15",
+        "note": "The same phrase, in Matthew."
+      },
+      {
+        "ref": "Luke 16:15",
+        "note": "What is exalted among men is an abomination to God."
+      },
+      {
+        "ref": "Revelation 17:4",
+        "note": "The cup full of abominations."
+      }
+    ],
+    "uncertain": "What \"the abomination of desolation\" refers to in Mark 13:14 (events around AD 70, the end of history, or both) is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eklektos",
+    "transliteration": "eklektos",
+    "original": "ἐκλεκτός",
+    "pronunciation": "ek-lek-TOS",
+    "gloss": "chosen, elect",
+    "notes": "Chosen by God. In Mark it appears only in the discourse of chapter 13: for the sake of the elect the days are cut short, false prophets may try to lead them astray, and the Son of Man will gather them (13:20, 13:22, 13:27). It means God's own people, called and kept by him.",
+    "range": [
+      {
+        "sense": "Chosen",
+        "note": "Selected by God."
+      },
+      {
+        "sense": "Choice",
+        "note": "Excellent, picked out."
+      }
+    ],
+    "translations": [
+      "elect",
+      "chosen",
+      "chosen ones"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:22",
+        "note": "For the sake of the elect those days will be shortened."
+      },
+      {
+        "ref": "Luke 18:7",
+        "note": "God will give justice to his elect."
+      },
+      {
+        "ref": "Romans 8:33",
+        "note": "Who will bring a charge against God's elect?"
+      },
+      {
+        "ref": "Colossians 3:12",
+        "note": "Put on, as God's chosen ones."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "abba",
+    "transliteration": "abba",
+    "original": "ἀββά",
+    "pronunciation": "ab-BAH",
+    "gloss": "Father (Aramaic)",
+    "notes": "An Aramaic word for \"father,\" warm and familiar. Mark keeps it in Jesus' prayer in Gethsemane and translates it for his readers: \"Abba, Father\" (14:36). Paul says believers cry the same word (Romans 8:15; Galatians 4:6).",
+    "range": [
+      {
+        "sense": "Father",
+        "note": "A child's and an adult's word for father."
+      }
+    ],
+    "translations": [
+      "Abba",
+      "Father"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 8:15",
+        "note": "\"We cry, Abba! Father!\""
+      },
+      {
+        "ref": "Galatians 4:6",
+        "note": "The Spirit cries, \"Abba! Father!\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kentyrion",
+    "transliteration": "kentyriōn",
+    "original": "κεντυρίων",
+    "pronunciation": "ken-too-REE-own",
+    "gloss": "centurion",
+    "notes": "A Latin loan word for a Roman officer who commanded about a hundred soldiers. Mark uses it three times in the crucifixion scene (15:39, 15:44, 15:45), while Matthew and Luke use a Greek word with the same meaning. This is one of several Latin words in Mark and is often taken as a sign of a Roman audience.",
+    "range": [
+      {
+        "sense": "Centurion",
+        "note": "A Roman army officer."
+      }
+    ],
+    "translations": [
+      "centurion"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "The Passover festival and the lamb killed for it. Mark sets the passion in Passover week (14:1, 14:12-16).",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:2",
+        "note": "The Passover in two days."
+      },
+      {
+        "ref": "Luke 22:15",
+        "note": "\"I have earnestly desired to eat this Passover with you.\""
+      },
+      {
+        "ref": "John 19:14",
+        "note": "The day of preparation of the Passover."
+      },
+      {
+        "ref": "1 Corinthians 5:7",
+        "note": "Christ our Passover has been sacrificed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "A covenant. At the supper Jesus calls the cup \"my blood of the covenant, which is poured out for many\" (14:24), echoing the covenant sealed with blood at Sinai (Exodus 24:8).",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:20",
+        "note": "\"This cup is the new covenant in my blood.\""
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "Paul repeats the words."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "The new covenant."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradidomi",
+    "transliteration": "paradidōmi",
+    "original": "παραδίδωμι",
+    "pronunciation": "pah-rah-DEE-doh-mee",
+    "gloss": "to hand over, betray",
+    "notes": "To hand over. In Mark it follows Jesus: John is handed over (1:14), then Jesus is handed over by Judas (14:10-11, 14:41-44), by the priests to Pilate (15:1), and by Pilate to be crucified (15:15). The same word is used of the Son of Man being handed over (9:31, 10:33).",
+    "range": [
+      {
+        "sense": "Hand over",
+        "note": "Give someone into another's custody."
+      },
+      {
+        "sense": "Betray",
+        "note": "Hand over by treachery."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Pass something on, as a teaching."
+      }
+    ],
+    "translations": [
+      "betray",
+      "hand over",
+      "deliver",
+      "give over"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:15",
+        "note": "Judas: \"What will you give me?\""
+      },
+      {
+        "ref": "John 19:16",
+        "note": "Pilate hands him over to be crucified."
+      },
+      {
+        "ref": "Romans 8:32",
+        "note": "God did not spare his own Son, but gave him up."
+      },
+      {
+        "ref": "1 Corinthians 11:23",
+        "note": "\"The night in which he was betrayed.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "The council, the Jewish high court in Jerusalem, made up of chief priests, scribes, and elders. In Mark it condemns Jesus (14:55, 15:1).",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:59",
+        "note": "The council seeks false witness."
+      },
+      {
+        "ref": "John 11:47",
+        "note": "The council meets after Lazarus."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles are called before it."
+      },
+      {
+        "ref": "Acts 23:1",
+        "note": "Paul before the council."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "To crucify, to fix to a cross. It is the shout of the crowd, \"Crucify him!\" (15:13-14), and the verb for the sentence. Mark uses it for the heart of the story.",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:22",
+        "note": "\"Let him be crucified!\""
+      },
+      {
+        "ref": "John 19:6",
+        "note": "\"Crucify him, crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "Peter: \"This Jesus whom you crucified.\""
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "We preach Christ crucified."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katapetasma",
+    "transliteration": "katapetasma",
+    "original": "καταπέτασμα",
+    "pronunciation": "kah-tah-PEH-tahs-mah",
+    "gloss": "curtain, veil",
+    "notes": "The curtain of the temple, torn \"from top to bottom\" when Jesus dies (15:38). It is probably the curtain before the Most Holy Place. Mark uses the same word for \"torn\" as in 1:10.",
+    "uncertain": "Whether the inner curtain before the Holy of Holies or the outer curtain is meant is debated; Matthew doesn't say.",
+    "range": [
+      {
+        "sense": "Veil",
+        "note": "A hanging curtain."
+      },
+      {
+        "sense": "Temple curtain",
+        "note": "The curtain in the tabernacle or temple."
+      }
+    ],
+    "translations": [
+      "veil",
+      "curtain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:51",
+        "note": "The curtain torn, the earth shaking."
+      },
+      {
+        "ref": "Luke 23:45",
+        "note": "The curtain torn in the middle."
+      },
+      {
+        "ref": "Hebrews 6:19",
+        "note": "Hope enters behind the curtain."
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "The new way through the curtain, his flesh."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake, raise up, rise. It is the word for resurrection in the passion predictions (14:28) and at the tomb: \"He has risen\" (16:6).",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:6",
+        "note": "\"He is risen, as he said.\""
+      },
+      {
+        "ref": "Luke 24:34",
+        "note": "\"The Lord is risen indeed.\""
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "He was raised on the third day."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "gregoreo",
+    "transliteration": "grēgoreō",
+    "original": "γρηγορέω",
+    "pronunciation": "gray-gor-EH-oh",
+    "gloss": "to keep watch, stay awake",
+    "notes": "To be awake, keep watch. Chapter 13 ends with it four times (13:34-37), and in Gethsemane the three can't do it (14:34-38).",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Don't sleep."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Stay ready for what is coming."
+      }
+    ],
+    "translations": [
+      "watch",
+      "keep watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:42",
+        "note": "\"Watch therefore.\""
+      },
+      {
+        "ref": "Matthew 26:41",
+        "note": "\"Watch and pray.\""
+      },
+      {
+        "ref": "1 Thessalonians 5:6",
+        "note": "Let us watch and be sober."
+      },
+      {
+        "ref": "1 Peter 5:8",
+        "note": "Be sober, be watchful."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thlipsis",
+    "transliteration": "thlipsis",
+    "original": "θλῖψις",
+    "pronunciation": "THLEEP-sis",
+    "gloss": "tribulation, pressure",
+    "notes": "Pressure, distress, tribulation. In Mark 13 it names the terrible time to come (13:19, 13:24). Earlier it is what makes seed on rocky ground wither (4:17).",
+    "range": [
+      {
+        "sense": "Pressure",
+        "note": "Being squeezed or crushed."
+      },
+      {
+        "sense": "Trouble",
+        "note": "Hardship or affliction."
+      },
+      {
+        "sense": "Persecution",
+        "note": "Suffering for the faith."
+      }
+    ],
+    "translations": [
+      "tribulation",
+      "affliction",
+      "trouble",
+      "persecution"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:21",
+        "note": "\"Then there will be great tribulation.\""
+      },
+      {
+        "ref": "John 16:33",
+        "note": "\"In the world you have tribulation.\""
+      },
+      {
+        "ref": "Acts 14:22",
+        "note": "Through many tribulations we enter the kingdom."
+      },
+      {
+        "ref": "Romans 5:3",
+        "note": "Tribulation produces perseverance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

@@ -184,6 +184,26 @@
     {
       "id": "bartimaeus",
       "theographic": "bartimaeus_406"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "salome",
+      "theographic": "salome_2464"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
     }
   ],
   "words": [
@@ -433,6 +453,97 @@
         "G3016"
       ],
       "foundAt": "Mark 12:42"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Mark 13:34"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Mark 13:19"
+    },
+    {
+      "id": "bdelygma",
+      "strongs": [
+        "G0946"
+      ],
+      "foundAt": "Mark 13:14"
+    },
+    {
+      "id": "eklektos",
+      "strongs": [
+        "G1588"
+      ],
+      "foundAt": "Mark 13:20"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Mark 14:1"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Mark 14:24"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Mark 14:10"
+    },
+    {
+      "id": "abba",
+      "strongs": [
+        "G0005"
+      ],
+      "foundAt": "Mark 14:36"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Mark 14:55"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Mark 15:13"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Mark 15:38"
+    },
+    {
+      "id": "kentyrion",
+      "strongs": [
+        "G2760"
+      ],
+      "foundAt": "Mark 15:39"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Mark 16:6"
     }
   ],
   "crossRefs": {
@@ -447,10 +558,6 @@
     {
       "area": "places",
       "text": "Mark's \"country of the Gerasenes\" (5:1) is debated; OpenBible places Gerasa far inland, so the east-shore stop is illustrative."
-    },
-    {
-      "area": "chapters",
-      "text": "Chapters 13 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }
