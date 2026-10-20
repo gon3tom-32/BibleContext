@@ -2,6 +2,14 @@
   "_about": "Gaps and problems found while pulling data.",
   "gaps": [
     {
+      "area": "words",
+      "text": "\"Luke 10:30\" (listed under parabole): STEPBible doesn't tag G3850 there. It's a related word at most; the note should say so or the reference should go."
+    },
+    {
+      "area": "words",
+      "text": "\"Romans 16:25\" (listed under mysterion): STEPBible doesn't tag G3466 there. It's a related word at most; the note should say so or the reference should go."
+    },
+    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -27,7 +35,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 13 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 14 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",

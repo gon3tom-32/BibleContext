@@ -1372,6 +1372,278 @@
         "fetched": "2026-10-19",
         "item": "G4592"
       }
+    },
+    {
+      "id": "parabole",
+      "strongs": [
+        "G3850"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3850",
+          "original": "παραβολή",
+          "transliteration": "parabolē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "parable",
+          "meaning": "παραβολή, -ῆς, ἡ\n(παραβάλλω), [in LXX (cf. McNeile, Mt., 185): Num.23:7, Deu.28:37, Psa.44:14, Pro.1:6, Eze.12:22, al. (מָשַׁל), Sir.47:17 (חִידָה), al. mutt. in Sir, Wis.5:3 ;]\n1. a placing beside, juxtaposition (Polyb., al.).\n2. a comparing, comparison (Plat., Arist., al.). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παραβολαῖς",
+          "translit": "parabolais",
+          "gloss": "parable"
+        },
+        {
+          "original": "παραβολὴν",
+          "translit": "parabolēn",
+          "gloss": "parable"
+        },
+        {
+          "original": "παραβολῆς",
+          "translit": "parabolēs",
+          "gloss": "parable"
+        },
+        {
+          "original": "παραβολὰς",
+          "translit": "parabolas",
+          "gloss": "parable"
+        },
+        {
+          "original": "παραβολήν",
+          "translit": "parabolēn",
+          "gloss": "parable"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 13:3",
+        "Matthew 13:10",
+        "Matthew 13:13",
+        "Matthew 13:18",
+        "Matthew 13:24",
+        "Matthew 13:31",
+        "Matthew 13:33",
+        "Matthew 13:34",
+        "Matthew 13:35",
+        "Matthew 13:36",
+        "Matthew 13:53",
+        "Matthew 15:15",
+        "Matthew 21:33",
+        "Matthew 21:45",
+        "Matthew 22:1",
+        "Matthew 24:32"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 48,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 4:2",
+          "found": true
+        },
+        {
+          "ref": "Luke 10:30",
+          "found": false
+        },
+        {
+          "ref": "Luke 15:3",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 11:19",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3850"
+      }
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3466",
+          "original": "μυστήριον",
+          "transliteration": "mustērion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "mystery",
+          "meaning": "μυστήρισν, -ου, τό\n(μυέω), [in LXX: Dan LXX TH Dan.2:18 ff. (רָז), Tob.12:7, 11, Jdth.2:2, Wis.2:22 6:22 14:15, 23, Sir.3:18 22:22 27:16-17, 21, 2Ma.13:21 * ;]\n1. that which is known to the μύστης (initiated), a mystery or secret doctrine, mostly in pl., τὰ μ. (Æsch., Hdt., al.).\n2. In later writers (Menand., Incert., 168), that which may not be revealed (not, however, as in the modern sense, intrinsically difficult to understand), a secret or mystery of any kind (To, Jth, 2Mac, ll, with). …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μυστήρια",
+          "translit": "mustēria",
+          "gloss": "mystery"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 13:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 27,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 4:11",
+          "found": true
+        },
+        {
+          "ref": "Romans 16:25",
+          "found": false
+        },
+        {
+          "ref": "Ephesians 3:3",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:51",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3466"
+      }
+    },
+    {
+      "id": "suniemi",
+      "strongs": [
+        "G4920"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4920",
+          "original": "συνίημι",
+          "transliteration": "suniēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to understand",
+          "meaning": "συν-ίημι and συνίω (see Bl., § 23, 7),\n[in LXX chiefly for בִּין hi., שָׂכַל hi. ;]\n1. to bring or set together.\n2. Metaphorical, to perceive, understand: Mat.13:13-15 (LXX), Mat.13:19 15:10, Mrk.4:9 (WH, mg.), Mrk.4:12 7:14 8:17, 21 Luk.8:10, Act.7:25 28:26-27, Rom.15:21\" (LXX), 2Co.10:12; with accusative of thing(s), Mat.13:23, 51, Luk.2:50 18:34 24:45; before ὅτι, Mat.16:12 17:13; before quæst. indir., Eph.5:17; ἐπὶ τ. ἄρτοις, Mrk.6:52; as subst., συνίων (ὁ σ., WH, mg.), a man of understanding, i.e. in moral and religious sense, Rom.3:11 (LXX).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "συνίουσιν",
+          "translit": "suniousin",
+          "gloss": "to understand"
+        },
+        {
+          "original": "συνῆτε",
+          "translit": "sunēte",
+          "gloss": "to understand"
+        },
+        {
+          "original": "συνῶσιν",
+          "translit": "sunōsin",
+          "gloss": "to understand"
+        },
+        {
+          "original": "συνιέντος",
+          "translit": "sunientos",
+          "gloss": "to understand"
+        },
+        {
+          "original": "συνιείς",
+          "translit": "sunieis",
+          "gloss": "to understand"
+        },
+        {
+          "original": "συνήκατε",
+          "translit": "sunēkate",
+          "gloss": "to understand"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 13:13",
+        "Matthew 13:14",
+        "Matthew 13:15",
+        "Matthew 13:19",
+        "Matthew 13:23",
+        "Matthew 13:51",
+        "Matthew 15:10",
+        "Matthew 16:12",
+        "Matthew 17:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 25,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 15:10",
+          "found": true
+        },
+        {
+          "ref": "Mark 6:52",
+          "found": true
+        },
+        {
+          "ref": "Luke 24:45",
+          "found": true
+        },
+        {
+          "ref": "Acts 28:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4920"
+      }
+    },
+    {
+      "id": "tekton",
+      "strongs": [
+        "G5045"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5045",
+          "original": "τέκτων",
+          "transliteration": "tektōn",
+          "partOfSpeech": "G:N-M",
+          "gloss": "craftsman",
+          "meaning": "τέκτων, -ονος, ὁ\n[in LXX chiefly for חָרָשׁ ;]\nan artificer in wood, stone or metal, but esp. a carpenter (see MM, xxiv): Mat.13:55, Mrk.6:3.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τέκτονος",
+          "translit": "tektonos",
+          "gloss": "craftsman"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 13:55"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 6:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5045"
+      }
     }
   ]
 }
