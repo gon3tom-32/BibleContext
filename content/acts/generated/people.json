@@ -122,7 +122,8 @@
         "children": [],
         "siblings": [
           {
-            "name": "James"
+            "name": "James",
+            "id": "james-zebedee"
           }
         ]
       },
@@ -262,7 +263,8 @@
         "children": [],
         "siblings": [
           {
-            "name": "Mary"
+            "name": "Mary",
+            "id": "mary-mother-of-john-mark"
           }
         ]
       },
@@ -371,7 +373,7 @@
       }
     },
     {
-      "id": "saul",
+      "id": "paul",
       "name": "Paul",
       "alsoCalled": "Saul,Mercurius",
       "gender": "Male",
@@ -561,6 +563,576 @@
         "license": "CC BY-SA 4.0",
         "fetched": "2026-10-19",
         "item": "paul_2479",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "philip",
+      "name": "Philip",
+      "displayTitle": "Phillip the Evangelist",
+      "alsoCalled": "Philip",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        6,
+        8,
+        21
+      ],
+      "verses": [
+        "Acts 6:5",
+        "Acts 8:5",
+        "Acts 8:6",
+        "Acts 8:12",
+        "Acts 8:13",
+        "Acts 8:26",
+        "Acts 8:29",
+        "Acts 8:30",
+        "Acts 8:31",
+        "Acts 8:34",
+        "Acts 8:35",
+        "Acts 8:37",
+        "Acts 8:38",
+        "Acts 8:39",
+        "Acts 8:40",
+        "Acts 21:8"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "philip_2347",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "candace",
+      "name": "Candace",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        8
+      ],
+      "verses": [
+        "Acts 8:27"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "candace_916",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "simon-the-magician",
+      "name": "Simon",
+      "displayTitle": "Simon the Sorcerer",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        8
+      ],
+      "verses": [
+        "Acts 8:9",
+        "Acts 8:18",
+        "Acts 8:24",
+        "Acts 8:13"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simon_2752",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "ananias-of-damascus",
+      "name": "Ananias",
+      "displayTitle": "Ananias (Disciple at Damascus)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        9,
+        22
+      ],
+      "verses": [
+        "Acts 9:10",
+        "Acts 9:12",
+        "Acts 9:13",
+        "Acts 9:17",
+        "Acts 22:12"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "ananias_259",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "aeneas",
+      "name": "Aeneas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        9
+      ],
+      "verses": [
+        "Acts 9:33",
+        "Acts 9:34"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "aeneas_106",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "tabitha",
+      "name": "Dorcas",
+      "alsoCalled": "Tabitha",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        9
+      ],
+      "verses": [
+        "Acts 9:36",
+        "Acts 9:39",
+        "Acts 9:40"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "dorcas_2810",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "cornelius",
+      "name": "Cornelius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        10
+      ],
+      "verses": [
+        "Acts 10:1",
+        "Acts 10:3",
+        "Acts 10:7",
+        "Acts 10:17",
+        "Acts 10:21",
+        "Acts 10:22",
+        "Acts 10:24",
+        "Acts 10:25",
+        "Acts 10:30",
+        "Acts 10:31"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "cornelius_956",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "agabus",
+      "name": "Agabus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11,
+        21
+      ],
+      "verses": [
+        "Acts 11:28",
+        "Acts 21:10"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "agabus_107",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "herod-agrippa",
+      "name": "Herod Agrippa I",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        12
+      ],
+      "verses": [
+        "Acts 12:1",
+        "Acts 12:6",
+        "Acts 12:11",
+        "Acts 12:19",
+        "Acts 12:20",
+        "Acts 12:21"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "herod_1506",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "james-zebedee",
+      "name": "James",
+      "displayTitle": "James (Son of Zebedee)",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Zebedee"
+        },
+        "mother": {
+          "name": "Mother of Zebedees children"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "John",
+            "id": "john-apostle"
+          }
+        ]
+      },
+      "chapters": [
+        12
+      ],
+      "verses": [
+        "Acts 12:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "james_717",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "mary-mother-of-john-mark",
+      "name": "Mary",
+      "displayTitle": "Mary (Mother of John Mark)",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [
+          {
+            "name": "John",
+            "id": "john-mark"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Barnabas",
+            "id": "barnabas"
+          }
+        ]
+      },
+      "chapters": [
+        12
+      ],
+      "verses": [
+        "Acts 12:12"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1941",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "rhoda",
+      "name": "Rhoda",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        12
+      ],
+      "verses": [
+        "Acts 12:13"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "rhoda_2439",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "james-brother-of-jesus",
+      "name": "James",
+      "displayTitle": "James (Brother of Jesus)",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Joseph"
+        },
+        "mother": {
+          "name": "Mary"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Jesus"
+          },
+          {
+            "name": "Joses"
+          },
+          {
+            "name": "Jude"
+          },
+          {
+            "name": "Simon"
+          }
+        ]
+      },
+      "chapters": [
+        12,
+        15,
+        21
+      ],
+      "verses": [
+        "Acts 12:17",
+        "Acts 15:13",
+        "Acts 21:18"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "james_719",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "john-mark",
+      "name": "John",
+      "displayTitle": "John Mark",
+      "alsoCalled": "Marcus",
+      "gender": "Male",
+      "family": {
+        "mother": {
+          "name": "Mary",
+          "id": "mary-mother-of-john-mark"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        12,
+        13,
+        15
+      ],
+      "verses": [
+        "Acts 12:12",
+        "Acts 12:25",
+        "Acts 13:5",
+        "Acts 13:13",
+        "Acts 15:37",
+        "Acts 15:39"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mark_1679",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "claudius",
+      "name": "Claudius",
+      "displayTitle": "Claudius (4th Roman Emperor)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11,
+        18
+      ],
+      "verses": [
+        "Acts 11:28",
+        "Acts 18:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "claudius_947",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "simeon-niger",
+      "name": "Simeon",
+      "alsoCalled": "Niger",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        13
+      ],
+      "verses": [
+        "Acts 13:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simeon_2744",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "lucius-of-cyrene",
+      "name": "Lucius",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        13
+      ],
+      "verses": [
+        "Acts 13:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "lucius_1833",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "manaen",
+      "name": "Manaen",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        13
+      ],
+      "verses": [
+        "Acts 13:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "manaen_1926",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "elymas",
+      "name": "Elymas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        13
+      ],
+      "verses": [
+        "Acts 13:8",
+        "Acts 13:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "elymas_403",
         "recordStatus": "publish"
       }
     }

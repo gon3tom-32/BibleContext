@@ -143,5 +143,215 @@
     "id": "saul",
     "name": "Saul",
     "note": "A young man from Tarsus who approves of Stephen's death; later called Paul."
+  },
+  {
+    "id": "simon-the-magician",
+    "name": "Simon the magician",
+    "note": "A Samaritan magician who believed and then tried to buy the Spirit."
+  },
+  {
+    "id": "the-samaritans",
+    "name": "The Samaritans",
+    "note": "People of Samaria, long divided from the Jews."
+  },
+  {
+    "id": "the-ethiopian-eunuch",
+    "name": "The Ethiopian eunuch",
+    "note": "A treasurer of the queen of the Ethiopians."
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "note": "The title of the Ethiopian queen."
+  },
+  {
+    "id": "ananias-of-damascus",
+    "name": "Ananias of Damascus",
+    "note": "A disciple sent to Saul."
+  },
+  {
+    "id": "the-hellenists",
+    "name": "The Hellenists",
+    "note": "Greek-speaking Jews in Jerusalem."
+  },
+  {
+    "id": "aeneas",
+    "name": "Aeneas",
+    "note": "A paralyzed man at Lydda."
+  },
+  {
+    "id": "tabitha",
+    "name": "Tabitha (Dorcas)",
+    "note": "A disciple in Joppa, full of good works."
+  },
+  {
+    "id": "simon-the-tanner",
+    "name": "Simon the tanner",
+    "note": "Peter's host in Joppa."
+  },
+  {
+    "id": "cornelius",
+    "name": "Cornelius",
+    "note": "A centurion of the Italian Cohort in Caesarea."
+  },
+  {
+    "id": "the-angel-who-appeared-to-cornelius",
+    "name": "The angel",
+    "note": "Appeared to Cornelius at the ninth hour."
+  },
+  {
+    "id": "the-brothers-from-joppa",
+    "name": "The brothers from Joppa",
+    "note": "Six believers who go with Peter."
+  },
+  {
+    "id": "cornelius-household",
+    "name": "Cornelius' household",
+    "note": "Relatives and close friends."
+  },
+  {
+    "id": "the-circumcised-believers",
+    "name": "The circumcised believers",
+    "note": "Jewish believers who were with Peter or in Jerusalem."
+  },
+  {
+    "id": "the-scattered-believers",
+    "name": "The scattered believers",
+    "note": "Men of Cyprus and Cyrene who preached at Antioch."
+  },
+  {
+    "id": "agabus",
+    "name": "Agabus",
+    "note": "A prophet from Jerusalem."
+  },
+  {
+    "id": "the-disciples-at-antioch",
+    "name": "The disciples at Antioch",
+    "note": "The church first called Christians."
+  },
+  {
+    "id": "claudius",
+    "name": "Claudius",
+    "note": "Roman emperor from AD 41 to 54."
+  },
+  {
+    "id": "herod-agrippa",
+    "name": "Herod Agrippa I",
+    "note": "King over Judea from AD 41 to 44; grandson of Herod the Great."
+  },
+  {
+    "id": "james-zebedee",
+    "name": "James",
+    "note": "Brother of John and one of the twelve; killed by Herod."
+  },
+  {
+    "id": "the-angel",
+    "name": "The angel of the Lord",
+    "note": "Frees Peter and strikes Herod."
+  },
+  {
+    "id": "the-church-in-prayer",
+    "name": "The praying church",
+    "note": "Gathered in Mary's house."
+  },
+  {
+    "id": "mary-mother-of-john-mark",
+    "name": "Mary, mother of John Mark",
+    "note": "Her house is a meeting place."
+  },
+  {
+    "id": "rhoda",
+    "name": "Rhoda",
+    "note": "A servant girl at Mary's house."
+  },
+  {
+    "id": "james-brother-of-jesus",
+    "name": "James, the brother of Jesus",
+    "note": "Leader of the Jerusalem church."
+  },
+  {
+    "id": "the-delegation-from-tyre-and-sidon",
+    "name": "The delegation from Tyre and Sidon",
+    "note": "They depend on Herod's territory for food."
+  },
+  {
+    "id": "john-mark",
+    "name": "John Mark",
+    "note": "Barnabas' cousin; goes with Paul and Barnabas."
+  },
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "Also called Saul; a Pharisee from Tarsus, the apostle to the Gentiles."
+  },
+  {
+    "id": "simeon-niger",
+    "name": "Simeon called Niger",
+    "note": "A prophet and teacher at Antioch."
+  },
+  {
+    "id": "lucius-of-cyrene",
+    "name": "Lucius of Cyrene",
+    "note": "A prophet and teacher at Antioch."
+  },
+  {
+    "id": "manaen",
+    "name": "Manaen",
+    "note": "Raised with Herod Antipas."
+  },
+  {
+    "id": "elymas",
+    "name": "Elymas (Bar-Jesus)",
+    "note": "A Jewish magician in Paphos."
+  },
+  {
+    "id": "sergius-paulus",
+    "name": "Sergius Paulus",
+    "note": "The Roman proconsul of Cyprus."
+  },
+  {
+    "id": "the-synagogue-rulers",
+    "name": "The synagogue rulers",
+    "note": "They invite Paul to speak."
+  },
+  {
+    "id": "the-gentiles-of-pisidian-antioch",
+    "name": "The Gentiles of Pisidian Antioch",
+    "note": "They glorify the word of the Lord."
+  },
+  {
+    "id": "the-jews-of-pisidian-antioch",
+    "name": "The Jews of Pisidian Antioch",
+    "note": "Some stir up persecution."
+  },
+  {
+    "id": "the-lame-man-of-lystra",
+    "name": "The lame man at Lystra",
+    "note": "Lame from birth."
+  },
+  {
+    "id": "the-crowds-of-lystra",
+    "name": "The crowds at Lystra",
+    "note": "They take Paul and Barnabas for gods."
+  },
+  {
+    "id": "the-priest-of-zeus",
+    "name": "The priest of Zeus",
+    "note": "At the temple in front of the city."
+  },
+  {
+    "id": "the-jews-from-antioch-and-iconium",
+    "name": "Jews from Antioch and Iconium",
+    "note": "They stone Paul."
+  },
+  {
+    "id": "the-disciples-at-lystra",
+    "name": "The disciples at Lystra",
+    "note": "They stand around Paul after the stoning."
+  },
+  {
+    "id": "the-elders",
+    "name": "The elders",
+    "note": "Leaders appointed in each church."
   }
 ]

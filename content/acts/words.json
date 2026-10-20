@@ -1175,5 +1175,995 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "mageuo",
+    "transliteration": "mageuō",
+    "original": "μαγεύω",
+    "pronunciation": "mag-YOO-oh",
+    "gloss": "to practice magic",
+    "notes": "To practice magic, to be a magician. Simon \"had practiced magic\" in Samaria and amazed the people (8:9). The word is related to the Magi (magoi) of Matthew 2. Acts also meets Elymas the magician (13:6-8) and the magic books of Ephesus (19:19).",
+    "range": [
+      {
+        "sense": "Practice magic",
+        "note": "Do magical works."
+      }
+    ],
+    "translations": [
+      "practice magic",
+      "use sorcery"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "eunouchos",
+    "transliteration": "eunouchos",
+    "original": "εὐνοῦχος",
+    "pronunciation": "yoo-NOO-khos",
+    "gloss": "eunuch, court official",
+    "notes": "Literally \"keeper of the bed,\" a man who served in a royal household, usually castrated; the word can also mean a high official. The Ethiopian was a treasurer of the queen (8:27-39). Deuteronomy 23:1 excluded eunuchs from the assembly, while Isaiah 56:3-5 promises them a place.",
+    "range": [
+      {
+        "sense": "Eunuch",
+        "note": "A castrated male servant."
+      },
+      {
+        "sense": "Official",
+        "note": "A court officer."
+      }
+    ],
+    "translations": [
+      "eunuch",
+      "court official"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:12",
+        "note": "There are eunuchs who have been made eunuchs by men."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hodegeo",
+    "transliteration": "hodēgeō",
+    "original": "ὁδηγέω",
+    "pronunciation": "hod-ayg-EH-oh",
+    "gloss": "to guide, to lead along the way",
+    "notes": "To lead along a road, to guide. The Ethiopian says, \"How can I, unless someone explains it to me?\" using this verb (8:31). It is the root of \"hodegetics.\" Jesus uses it of the Spirit who will \"guide you into all the truth\" (John 16:13).",
+    "range": [
+      {
+        "sense": "Guide",
+        "note": "Lead along the way."
+      },
+      {
+        "sense": "Explain",
+        "note": "Help understand."
+      }
+    ],
+    "translations": [
+      "guide",
+      "lead"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 15:14",
+        "note": "If a blind man guides a blind man."
+      },
+      {
+        "ref": "Luke 6:39",
+        "note": "Can a blind man guide a blind man?"
+      },
+      {
+        "ref": "John 16:13",
+        "note": "He will guide you into all the truth."
+      },
+      {
+        "ref": "Revelation 7:17",
+        "note": "The Lamb will guide them."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hodos",
+    "transliteration": "hodos",
+    "original": "ὁδός",
+    "pronunciation": "hod-OS",
+    "gloss": "way, road",
+    "notes": "A road or way, and by extension a way of life. In Acts, \"the Way\" is the earliest name for the Christian movement (9:2, 19:9, 19:23, 22:4, 24:14, 24:22).",
+    "range": [
+      {
+        "sense": "Road",
+        "note": "A path."
+      },
+      {
+        "sense": "The Way",
+        "note": "A way of life; the name for the early church."
+      }
+    ],
+    "translations": [
+      "way",
+      "road",
+      "the Way"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:13",
+        "note": "The way is wide that leads to destruction."
+      },
+      {
+        "ref": "Mark 1:3",
+        "note": "Prepare the way of the Lord."
+      },
+      {
+        "ref": "John 14:6",
+        "note": "I am the way, and the truth, and the life."
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "The new and living way."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hagios",
+    "transliteration": "hagios",
+    "original": "ἅγιος",
+    "pronunciation": "HAG-ee-os",
+    "gloss": "holy, saint",
+    "notes": "Holy, set apart for God. As a noun in the plural it means \"the holy ones,\" the saints, Luke's and Paul's word for all believers. In Acts it first appears for believers in 9:13 (also 9:32, 9:41, 26:10). It is also the \"Holy\" in the Holy Spirit.",
+    "range": [
+      {
+        "sense": "Holy",
+        "note": "Set apart for God."
+      },
+      {
+        "sense": "Saint",
+        "note": "A believer."
+      },
+      {
+        "sense": "Holy Spirit",
+        "note": "The Spirit of God."
+      }
+    ],
+    "translations": [
+      "holy",
+      "saint",
+      "saints"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:18",
+        "note": "She was found to be with child from the Holy Spirit."
+      },
+      {
+        "ref": "Romans 1:7",
+        "note": "Called to be saints."
+      },
+      {
+        "ref": "1 Corinthians 1:2",
+        "note": "Sanctified in Christ Jesus, called to be saints."
+      },
+      {
+        "ref": "Revelation 5:8",
+        "note": "The prayers of the saints."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "skeuos",
+    "transliteration": "skeuos",
+    "original": "σκεῦος",
+    "pronunciation": "SKEH-oos",
+    "gloss": "vessel, instrument",
+    "notes": "A vessel, container, tool, or instrument. The Lord says Saul is \"my chosen vessel\" (9:15), to carry his name. Paul later says, \"We have this treasure in jars of clay\" (2 Corinthians 4:7), using the same word.",
+    "range": [
+      {
+        "sense": "Vessel",
+        "note": "A container."
+      },
+      {
+        "sense": "Instrument",
+        "note": "A tool."
+      }
+    ],
+    "translations": [
+      "vessel",
+      "instrument",
+      "jar"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 8:16",
+        "note": "No one covers it with a jar."
+      },
+      {
+        "ref": "Romans 9:21",
+        "note": "Make one vessel for honorable use."
+      },
+      {
+        "ref": "2 Corinthians 4:7",
+        "note": "We have this treasure in jars of clay."
+      },
+      {
+        "ref": "2 Timothy 2:20",
+        "note": "In a great house there are vessels of gold and silver."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anistemi",
+    "transliteration": "anistēmi",
+    "original": "ἀνίστημι",
+    "pronunciation": "an-IS-tay-mee",
+    "gloss": "to rise, to get up",
+    "notes": "To stand up, rise, and also to be raised from the dead. It is the verb of resurrection: Jesus \"rose\" (see Acts 2:24, 17:3), and Peter says to Aeneas and Tabitha, \"Arise\" (9:34, 9:40). The related noun is anastasis, \"resurrection.\"",
+    "range": [
+      {
+        "sense": "Rise",
+        "note": "Get up."
+      },
+      {
+        "sense": "Raise",
+        "note": "Bring back from death."
+      }
+    ],
+    "translations": [
+      "rise",
+      "arise",
+      "stand up",
+      "raise"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 12:41",
+        "note": "The men of Nineveh will rise up."
+      },
+      {
+        "ref": "Mark 5:42",
+        "note": "The girl got up and began walking."
+      },
+      {
+        "ref": "Luke 24:7",
+        "note": "On the third day rise."
+      },
+      {
+        "ref": "John 11:23",
+        "note": "Your brother will rise again."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katharizo",
+    "transliteration": "katharizō",
+    "original": "καθαρίζω",
+    "pronunciation": "kath-ar-ID-zo",
+    "gloss": "to cleanse, to make clean",
+    "notes": "To make clean, in the ritual or the moral sense. In the vision Peter hears, \"What God has cleansed, don't you call unclean\" (10:15, 11:9). The same word is used for cleansing lepers in the Gospels.",
+    "range": [
+      {
+        "sense": "Cleanse",
+        "note": "Make clean."
+      },
+      {
+        "sense": "Purify",
+        "note": "Remove defilement."
+      }
+    ],
+    "translations": [
+      "cleanse",
+      "make clean",
+      "purify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:3",
+        "note": "Be clean; his leprosy was cleansed."
+      },
+      {
+        "ref": "Luke 5:13",
+        "note": "I will; be clean."
+      },
+      {
+        "ref": "2 Corinthians 7:1",
+        "note": "Let us cleanse ourselves."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "He will cleanse us from all unrighteousness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "prosopolemptes",
+    "transliteration": "prosōpolēmptēs",
+    "original": "προσωπολήμπτης",
+    "pronunciation": "pros-o-pol-AYMP-tace",
+    "gloss": "one who shows partiality",
+    "notes": "Literally \"one who receives the face,\" someone who judges by outward appearance, rank, or nationality. Peter says, \"God shows no partiality\" (10:34). Related forms appear in Romans 2:11 and James 2:1-9.",
+    "range": [
+      {
+        "sense": "Partiality",
+        "note": "Favoritism."
+      },
+      {
+        "sense": "Respect of persons",
+        "note": "Judging by status."
+      }
+    ],
+    "translations": [
+      "show favoritism",
+      "show partiality"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "christianos",
+    "transliteration": "Christianos",
+    "original": "Χριστιανός",
+    "pronunciation": "khris-tee-an-OS",
+    "gloss": "Christian",
+    "notes": "A follower of Christ, formed like \"Herodian\" or \"Caesarian\" as a label for the party of a leader. It was first used at Antioch (11:26), probably by outsiders. It appears only three times in the New Testament: here, in 26:28 on Agrippa's lips, and in 1 Peter 4:16.",
+    "range": [
+      {
+        "sense": "Christian",
+        "note": "A follower of Christ."
+      }
+    ],
+    "translations": [
+      "Christian"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Peter 4:16",
+        "note": "If anyone suffers as a Christian, let him not be ashamed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parakaleo",
+    "transliteration": "parakaleō",
+    "original": "παρακαλέω",
+    "pronunciation": "par-ak-al-EH-oh",
+    "gloss": "to encourage, to exhort, to comfort",
+    "notes": "To call alongside: to encourage, urge, comfort, or appeal. Barnabas \"exhorted them all to continue with the Lord\" (11:23); his name means \"son of encouragement\" (huios paraklēseōs, 4:36). It is the root of paraklētos, the Counselor.",
+    "range": [
+      {
+        "sense": "Encourage",
+        "note": "Give courage."
+      },
+      {
+        "sense": "Exhort",
+        "note": "Urge."
+      },
+      {
+        "sense": "Comfort",
+        "note": "Console."
+      }
+    ],
+    "translations": [
+      "exhort",
+      "encourage",
+      "comfort",
+      "urge"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:4",
+        "note": "They shall be comforted."
+      },
+      {
+        "ref": "Luke 3:18",
+        "note": "With many other exhortations."
+      },
+      {
+        "ref": "Romans 12:8",
+        "note": "The one who exhorts, in his exhortation."
+      },
+      {
+        "ref": "2 Corinthians 1:4",
+        "note": "Who comforts us in all our affliction."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "presbyteros",
+    "transliteration": "presbyteros",
+    "original": "πρεσβύτερος",
+    "pronunciation": "pres-BOO-ter-os",
+    "gloss": "elder",
+    "notes": "An elder, an older person, and in the church a leader chosen from among the mature members. The first elders appear in Jerusalem (11:30), and Paul and Barnabas appoint elders in each church (14:23). The related word \"presbyter\" gives \"priest\" and \"Presbyterian.\"",
+    "range": [
+      {
+        "sense": "Elder",
+        "note": "An older person."
+      },
+      {
+        "sense": "Church leader",
+        "note": "An overseer of a congregation."
+      }
+    ],
+    "translations": [
+      "elder",
+      "presbyter"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:21",
+        "note": "He must suffer many things from the elders."
+      },
+      {
+        "ref": "1 Timothy 5:17",
+        "note": "Let the elders who rule well be considered worthy of double honor."
+      },
+      {
+        "ref": "Titus 1:5",
+        "note": "Appoint elders in every town."
+      },
+      {
+        "ref": "1 Peter 5:1",
+        "note": "I exhort the elders among you."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aggelos",
+    "transliteration": "angelos",
+    "original": "ἄγγελος",
+    "pronunciation": "ANG-el-os",
+    "gloss": "angel, messenger",
+    "notes": "A messenger, whether human or heavenly. In Acts, an angel appears to Philip (8:26), Cornelius (10:3), and Peter (12:7-11), and strikes Herod (12:23). The Greek word underlies \"angel\" and \"evangelist.\"",
+    "range": [
+      {
+        "sense": "Angel",
+        "note": "A heavenly messenger."
+      },
+      {
+        "sense": "Messenger",
+        "note": "One who carries a message."
+      }
+    ],
+    "translations": [
+      "angel",
+      "messenger"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:20",
+        "note": "An angel of the Lord appeared to him in a dream."
+      },
+      {
+        "ref": "Luke 1:26",
+        "note": "The angel Gabriel was sent."
+      },
+      {
+        "ref": "Revelation 1:1",
+        "note": "He made it known by sending his angel."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proseuche",
+    "transliteration": "proseuchē",
+    "original": "προσευχή",
+    "pronunciation": "pros-yoo-KHAY",
+    "gloss": "prayer",
+    "notes": "Prayer, and also a place of prayer. The church prayed constantly for Peter (12:5), and gathered in Mary's house to pray (12:12). Luke's Gospel and Acts are full of prayer, at key moments and before key decisions.",
+    "range": [
+      {
+        "sense": "Prayer",
+        "note": "Speaking to God."
+      },
+      {
+        "sense": "Place of prayer",
+        "note": "A prayer meeting place."
+      }
+    ],
+    "translations": [
+      "prayer",
+      "place of prayer"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:13",
+        "note": "My house shall be called a house of prayer."
+      },
+      {
+        "ref": "Luke 6:12",
+        "note": "He spent the night in prayer to God."
+      },
+      {
+        "ref": "Romans 12:12",
+        "note": "Be constant in prayer."
+      },
+      {
+        "ref": "Philippians 4:6",
+        "note": "In everything by prayer and supplication."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphorizo",
+    "transliteration": "aphorizō",
+    "original": "ἀφορίζω",
+    "pronunciation": "af-or-ID-zo",
+    "gloss": "to set apart, to separate",
+    "notes": "To mark off by a boundary, to set apart for a purpose. The Spirit says, \"Separate Barnabas and Saul for me, for the work to which I have called them\" (13:2). Paul uses it of himself, \"set apart for the gospel\" (Romans 1:1; Galatians 1:15).",
+    "range": [
+      {
+        "sense": "Set apart",
+        "note": "Separate for a purpose."
+      },
+      {
+        "sense": "Separate",
+        "note": "Divide."
+      }
+    ],
+    "translations": [
+      "set apart",
+      "separate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 25:32",
+        "note": "He will separate them one from another."
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Set apart for the gospel of God."
+      },
+      {
+        "ref": "Galatians 1:15",
+        "note": "Who set me apart before I was born."
+      },
+      {
+        "ref": "2 Corinthians 6:17",
+        "note": "Be separate from them."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "leitourgeo",
+    "transliteration": "leitourgeō",
+    "original": "λειτουργέω",
+    "pronunciation": "lay-toorg-EH-oh",
+    "gloss": "to serve, to worship",
+    "notes": "To serve publicly, to perform a service, especially priestly service in the temple, and in the church to serve the Lord in worship. The Antioch leaders were \"serving the Lord\" when the Spirit spoke (13:2). It gives us \"liturgy.\"",
+    "range": [
+      {
+        "sense": "Serve",
+        "note": "Perform a public duty."
+      },
+      {
+        "sense": "Worship",
+        "note": "Offer service to God."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "worship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Romans 15:27",
+        "note": "They ought also to be of service to them in material blessings."
+      },
+      {
+        "ref": "Hebrews 10:11",
+        "note": "Every priest stands daily at his service."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "tasso",
+    "transliteration": "tassō",
+    "original": "τάσσω",
+    "pronunciation": "TAS-so",
+    "gloss": "to appoint, to arrange",
+    "notes": "To put in order, assign, appoint, or determine. \"As many as were appointed to eternal life believed\" (13:48). The sense of the passive form (tetagmenoi) has been argued: appointed, destined, or inclined. The word is used of authorities that are \"appointed\" in Romans 13:1.",
+    "range": [
+      {
+        "sense": "Appoint",
+        "note": "Assign a place."
+      },
+      {
+        "sense": "Order",
+        "note": "Put in place."
+      }
+    ],
+    "translations": [
+      "appoint",
+      "order",
+      "arrange"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:16",
+        "note": "To the mountain to which Jesus had directed them."
+      },
+      {
+        "ref": "Luke 7:8",
+        "note": "I am a man set under authority."
+      },
+      {
+        "ref": "Romans 13:1",
+        "note": "Those that exist have been appointed by God."
+      },
+      {
+        "ref": "1 Corinthians 16:15",
+        "note": "They have devoted themselves to the service of the saints."
+      }
+    ],
+    "uncertain": "What \"appointed to eternal life\" means about God's choice and human response in Acts 13:48 is debated; the Greek word allows more than one reading.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "zao",
+    "transliteration": "zaō",
+    "original": "ζάω",
+    "pronunciation": "DZAH-oh",
+    "gloss": "to live",
+    "notes": "To live, be alive. Paul calls God \"the living God\" (14:15), set against the dead idols of the Lystrans. It is a regular name for the true God throughout the Bible (Joshua 3:10, Matthew 16:16).",
+    "range": [
+      {
+        "sense": "Live",
+        "note": "Be alive."
+      },
+      {
+        "sense": "Living",
+        "note": "Active and real."
+      }
+    ],
+    "translations": [
+      "live",
+      "living"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 16:16",
+        "note": "You are the Christ, the Son of the living God."
+      },
+      {
+        "ref": "John 6:57",
+        "note": "As the living Father sent me, and I live because of the Father."
+      },
+      {
+        "ref": "Romans 1:17",
+        "note": "The righteous shall live by faith."
+      },
+      {
+        "ref": "1 Thessalonians 1:9",
+        "note": "Serve the living and true God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euangelizo",
+    "transliteration": "euangelizomai",
+    "original": "εὐαγγελίζομαι",
+    "pronunciation": "yoo-ang-gel-ID-zom-eye",
+    "gloss": "to announce good news",
+    "notes": "To announce good news. In Acts the verb runs from Jerusalem to the ends of the earth: Philip preaches the good news to Samaria (8:4-40), Paul to Lystra (14:7).",
+    "range": [
+      {
+        "sense": "Announce good news",
+        "note": "Bring joyful news."
+      },
+      {
+        "sense": "Preach",
+        "note": "Proclaim the gospel."
+      }
+    ],
+    "translations": [
+      "bring good news",
+      "preach the gospel",
+      "proclaim"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:5",
+        "note": "The poor have good news preached to them."
+      },
+      {
+        "ref": "Romans 10:15",
+        "note": "How beautiful are the feet of those who bring good news."
+      },
+      {
+        "ref": "Hebrews 4:2",
+        "note": "The good news was preached to us."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoia",
+    "transliteration": "metanoia",
+    "original": "μετάνοια",
+    "pronunciation": "met-AH-noy-ah",
+    "gloss": "repentance",
+    "notes": "A change of mind that leads to a change of life. The Jerusalem church concludes that God \"has also granted to the Gentiles repentance to life\" (11:18).",
+    "range": [
+      {
+        "sense": "Change of mind",
+        "note": "A new way of thinking."
+      },
+      {
+        "sense": "Turning",
+        "note": "A change of direction."
+      }
+    ],
+    "translations": [
+      "repentance",
+      "change of heart"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:8",
+        "note": "Produce fruit worthy of repentance."
+      },
+      {
+        "ref": "Luke 24:47",
+        "note": "Repentance and remission of sins should be preached."
+      },
+      {
+        "ref": "Romans 2:4",
+        "note": "God's kindness leads you to repentance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphesis",
+    "transliteration": "aphesis",
+    "original": "ἄφεσις",
+    "pronunciation": "AF-eh-sis",
+    "gloss": "release, forgiveness",
+    "notes": "Release, forgiveness. Paul announces that \"through this man is proclaimed to you remission of sins\" (13:38).",
+    "range": [
+      {
+        "sense": "Release",
+        "note": "Freedom from captivity."
+      },
+      {
+        "sense": "Cancellation",
+        "note": "Release from a debt."
+      },
+      {
+        "sense": "Forgiveness",
+        "note": "Pardon for sins."
+      }
+    ],
+    "translations": [
+      "forgiveness",
+      "release",
+      "liberty",
+      "remission"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:28",
+        "note": "The blood poured out for the forgiveness of sins."
+      },
+      {
+        "ref": "Luke 24:47",
+        "note": "Repentance and remission of sins."
+      },
+      {
+        "ref": "Ephesians 1:7",
+        "note": "Redemption, the forgiveness of sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phos",
+    "transliteration": "phōs",
+    "original": "φῶς",
+    "pronunciation": "FOCE",
+    "gloss": "light",
+    "notes": "Light. Paul and Barnabas quote Isaiah 49:6: \"I have set you as a light for the Gentiles\" (13:47).",
+    "range": [
+      {
+        "sense": "Light",
+        "note": "Illumination."
+      },
+      {
+        "sense": "Revelation",
+        "note": "What shows the truth."
+      }
+    ],
+    "translations": [
+      "light"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:14",
+        "note": "You are the light of the world."
+      },
+      {
+        "ref": "Luke 2:32",
+        "note": "A light for revelation to the Gentiles."
+      },
+      {
+        "ref": "1 John 1:5",
+        "note": "God is light."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thlipsis",
+    "transliteration": "thlipsis",
+    "original": "θλῖψις",
+    "pronunciation": "THLEEP-sis",
+    "gloss": "tribulation, pressure",
+    "notes": "Pressure, distress, tribulation. \"Through many afflictions we must enter into the Kingdom of God\" (14:22).",
+    "range": [
+      {
+        "sense": "Pressure",
+        "note": "Being squeezed or crushed."
+      },
+      {
+        "sense": "Trouble",
+        "note": "Hardship or affliction."
+      },
+      {
+        "sense": "Persecution",
+        "note": "Suffering for the faith."
+      }
+    ],
+    "translations": [
+      "tribulation",
+      "affliction",
+      "trouble",
+      "persecution"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:21",
+        "note": "Then there will be great tribulation."
+      },
+      {
+        "ref": "John 16:33",
+        "note": "In the world you have trouble."
+      },
+      {
+        "ref": "Romans 5:3",
+        "note": "Tribulation produces perseverance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "basileia",
+    "transliteration": "basileia",
+    "original": "βασιλεία",
+    "pronunciation": "bah-see-LAY-ah",
+    "gloss": "kingdom, reign",
+    "notes": "A kingdom, a rule or reign. Acts begins with \"the Kingdom of God\" (1:3) and ends with it (28:31).",
+    "range": [
+      {
+        "sense": "Royal power",
+        "note": "The right and power to rule."
+      },
+      {
+        "sense": "A realm",
+        "note": "The people or territory a king rules."
+      },
+      {
+        "sense": "God's coming rule",
+        "note": "The age when God's will is done on earth as in heaven."
+      }
+    ],
+    "translations": [
+      "kingdom",
+      "reign",
+      "rule",
+      "kingship"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:17",
+        "note": "The kingdom of heaven is at hand."
+      },
+      {
+        "ref": "Mark 1:15",
+        "note": "The kingdom of God is at hand."
+      },
+      {
+        "ref": "John 18:36",
+        "note": "My kingdom is not of this world."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

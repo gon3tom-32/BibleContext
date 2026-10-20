@@ -200,8 +200,84 @@
       "theographic": "stephen_2802"
     },
     {
-      "id": "saul",
+      "id": "paul",
       "theographic": "paul_2479"
+    },
+    {
+      "id": "philip",
+      "theographic": "philip_2347"
+    },
+    {
+      "id": "candace",
+      "theographic": "candace_916"
+    },
+    {
+      "id": "simon-the-magician",
+      "theographic": "simon_2752"
+    },
+    {
+      "id": "ananias-of-damascus",
+      "theographic": "ananias_259"
+    },
+    {
+      "id": "aeneas",
+      "theographic": "aeneas_106"
+    },
+    {
+      "id": "tabitha",
+      "theographic": "dorcas_2810"
+    },
+    {
+      "id": "cornelius",
+      "theographic": "cornelius_956"
+    },
+    {
+      "id": "agabus",
+      "theographic": "agabus_107"
+    },
+    {
+      "id": "herod-agrippa",
+      "theographic": "herod_1506"
+    },
+    {
+      "id": "james-zebedee",
+      "theographic": "james_717"
+    },
+    {
+      "id": "mary-mother-of-john-mark",
+      "theographic": "mary_1941"
+    },
+    {
+      "id": "rhoda",
+      "theographic": "rhoda_2439"
+    },
+    {
+      "id": "james-brother-of-jesus",
+      "theographic": "james_719"
+    },
+    {
+      "id": "john-mark",
+      "theographic": "mark_1679"
+    },
+    {
+      "id": "claudius",
+      "theographic": "claudius_947"
+    },
+    {
+      "id": "simeon-niger",
+      "theographic": "simeon_2744"
+    },
+    {
+      "id": "lucius-of-cyrene",
+      "theographic": "lucius_1833"
+    },
+    {
+      "id": "manaen",
+      "theographic": "manaen_1926"
+    },
+    {
+      "id": "elymas",
+      "theographic": "elymas_403"
     }
   ],
   "words": [
@@ -402,6 +478,177 @@
         "G1391"
       ],
       "foundAt": "Acts 7:2"
+    },
+    {
+      "id": "mageuo",
+      "strongs": [
+        "G3096"
+      ],
+      "foundAt": "Acts 8:9"
+    },
+    {
+      "id": "eunouchos",
+      "strongs": [
+        "G2135"
+      ],
+      "foundAt": "Acts 8:27"
+    },
+    {
+      "id": "hodegeo",
+      "strongs": [
+        "G3594"
+      ],
+      "foundAt": "Acts 8:31"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "Acts 9:13"
+    },
+    {
+      "id": "skeuos",
+      "strongs": [
+        "G4632"
+      ],
+      "foundAt": "Acts 9:15"
+    },
+    {
+      "id": "anistemi",
+      "strongs": [
+        "G0450"
+      ],
+      "foundAt": "Acts 9:6"
+    },
+    {
+      "id": "katharizo",
+      "strongs": [
+        "G2511"
+      ],
+      "foundAt": "Acts 10:15"
+    },
+    {
+      "id": "prosopolemptes",
+      "strongs": [
+        "G4381"
+      ],
+      "foundAt": "Acts 10:34"
+    },
+    {
+      "id": "christianos",
+      "strongs": [
+        "G5546"
+      ],
+      "foundAt": "Acts 11:26"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "Acts 11:23"
+    },
+    {
+      "id": "presbyteros",
+      "strongs": [
+        "G4245G",
+        "G4245H"
+      ],
+      "foundAt": "Acts 11:30"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "Acts 12:7"
+    },
+    {
+      "id": "proseuche",
+      "strongs": [
+        "G4335"
+      ],
+      "foundAt": "Acts 12:5"
+    },
+    {
+      "id": "aphorizo",
+      "strongs": [
+        "G0873"
+      ],
+      "foundAt": "Acts 13:2"
+    },
+    {
+      "id": "leitourgeo",
+      "strongs": [
+        "G3008"
+      ],
+      "foundAt": "Acts 13:2"
+    },
+    {
+      "id": "tasso",
+      "strongs": [
+        "G5021"
+      ],
+      "foundAt": "Acts 13:48"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "Acts 14:15"
+    },
+    {
+      "id": "hodos",
+      "strongs": [
+        "G3598"
+      ],
+      "foundAt": "Acts 9:2"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "Acts 8:4"
+    },
+    {
+      "id": "metanoia",
+      "strongs": [
+        "G3341"
+      ],
+      "foundAt": "Acts 11:18"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "Acts 13:47"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Acts 14:22"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Acts 14:22"
+    },
+    {
+      "id": "aphesis",
+      "strongs": [
+        "G0859"
+      ],
+      "foundAt": "Acts 13:38"
     }
   ],
   "crossRefs": {
@@ -419,7 +666,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 8 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 15 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

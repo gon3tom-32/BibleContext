@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Persecution scatters the church, Philip in Samaria, and an Ethiopian on the Gaza road",
+  "summary": "Saul approves of Stephen's death. That day a great persecution begins against the church in Jerusalem, and all except the apostles are scattered throughout Judea and Samaria. Devout men bury Stephen and mourn deeply for him. Saul ravages the church, entering house after house, dragging off men and women and committing them to prison. Those who are scattered go from place to place preaching the word. Philip goes down to the city of Samaria and proclaims the Christ to them. The crowds pay attention to what he says, hearing and seeing the signs he does, for unclean spirits come out of many and many who are paralyzed or lame are healed, so there is much joy in that city. A man named Simon has practiced magic there and amazed the Samaritan people, saying he is someone great: \"This man is the great power of God.\" But when they believe Philip as he preaches good news about the Kingdom of God and the name of Jesus Christ, both men and women are baptized, and Simon himself believes and is baptized, and stays close to Philip. When the apostles at Jerusalem hear that Samaria has received the word of God, they send Peter and John, who pray for them to receive the Holy Spirit, for it has not yet fallen on any of them; they have only been baptized in the name of the Lord Jesus. Then they lay their hands on them, and they receive the Holy Spirit. Simon, seeing that through the laying on of the apostles' hands the Spirit is given, offers them money: \"Give me also this power.\" Peter says, \"May your silver perish with you, because you thought that you could obtain the gift of God with money! You have neither part nor lot in this matter, for your heart isn't right before God. Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you. For I see that you are in the gall of bitterness and in the bondage of iniquity.\" Simon answers, \"Pray for me to the Lord, that none of the things which you have spoken come on me.\" Peter and John, having testified and spoken the word of the Lord, return to Jerusalem, preaching the good news to many villages of the Samaritans. An angel of the Lord says to Philip, \"Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.\" He arises and goes, and behold, a eunuch of Ethiopia, a court official of Candace, queen of the Ethiopians, who is in charge of all her treasure, has come to Jerusalem to worship and is returning, sitting in his chariot and reading the prophet Isaiah. The Spirit says to Philip, \"Go near, and join yourself to this chariot.\" Philip runs and hears him reading Isaiah: \"Do you understand what you are reading?\" \"How can I, unless someone explains it to me?\" The passage is Isaiah 53:7-8: \"He was led as a sheep to the slaughter ... In his humiliation his judgment was taken away.\" The eunuch asks, \"Of whom does the prophet say this? Of himself, or of someone else?\" Philip opens his mouth, and beginning from this Scripture preaches to him Jesus. As they go along the road, they come to some water, and the eunuch says, \"Behold, here is water. What is keeping me from being baptized?\" He commands the chariot to stop, and they both go down into the water, Philip and the eunuch, and Philip baptizes him. When they come up out of the water, the Spirit of the Lord snatches Philip away, and the eunuch sees him no more, but goes on his way rejoicing. Philip is found at Azotus, and passing through he preaches the good news to all the cities until he comes to Caesarea.",
+  "whySettingMatters": "The persecution that follows Stephen's death scatters the church just as Jesus said in 1:8: first Judea and Samaria. The apostles stay in Jerusalem. Philip is one of the seven of chapter 6, and he takes the message to the Samaritans, who were despised by many Jews; the fact that the Spirit comes only when Peter and John arrive has been explained as a way to show the Jerusalem church approved of the Samaritan mission, but the sequence is debated. Simon is the figure who gave his name to \"simony,\" the buying of church office; Peter's reaction is stern, and whether Simon was truly converted is left open. The Ethiopian is from Nubia (Kush, south of Egypt); \"Candace\" was the title of the queens there. A eunuch was excluded from the temple assembly by Deuteronomy 23:1, but Isaiah 56:3-5 promises that eunuchs who keep God's covenant will have a place, and this story is a case in point; he is the first of the \"ends of the earth\" in Luke's map. The passage he is reading is Isaiah 53, the song of the suffering servant. The road to Gaza described as \"desert\" may refer to the road or the old city of Gaza, which was destroyed; debated. Some manuscripts add verse 37, a confession of faith before baptism; most scholars think it was a later addition. Azotus is the old Ashdod, and Caesarea is where Philip next appears (21:8).",
+  "people": [
+    {
+      "id": "saul",
+      "note": "Approves of Stephen's death and ravages the church."
+    },
+    {
+      "id": "philip",
+      "note": "Takes the gospel to Samaria and to an Ethiopian official."
+    },
+    {
+      "id": "simon-the-magician",
+      "note": "Believes, and then tries to buy the Spirit."
+    },
+    {
+      "id": "peter",
+      "note": "Comes with John to Samaria and rebukes Simon."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Comes with Peter."
+    },
+    {
+      "id": "the-samaritans",
+      "note": "Believe, are baptized, and receive the Spirit."
+    },
+    {
+      "id": "the-ethiopian-eunuch",
+      "note": "A royal treasurer reading Isaiah on the road, baptized by Philip."
+    },
+    {
+      "id": "candace",
+      "note": "The queen of Ethiopia whom the eunuch serves."
+    }
+  ],
+  "questions": [
+    "The persecution scatters the church, and the scattered preach. What is Luke saying about how the word spreads?",
+    "Simon tries to buy God's gift. What is he missing about it?",
+    "The eunuch was a foreigner and excluded from the temple's inner life. What does it mean that he is the first to be baptized on the \"ends of the earth\" road?",
+    "Philip begins \"from this Scripture\" and tells him about Jesus. What does that say about how to read Isaiah 53?"
+  ],
+  "words": [
+    {
+      "id": "euangelizo",
+      "note": "\"Preaching the good news\" (8:4, 8:12, 8:25, 8:35, 8:40)."
+    },
+    {
+      "id": "mageuo",
+      "note": "Simon \"had practiced magic\" (8:9)."
+    },
+    {
+      "id": "eunouchos",
+      "note": "\"A eunuch of Ethiopia\" (8:27, 8:34-39)."
+    },
+    {
+      "id": "hodegeo",
+      "note": "\"How can I, unless someone explains it to me?\" (8:31)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"What is keeping me from being baptized?\" (8:12-16, 8:36-38)."
+    },
+    {
+      "id": "pneuma",
+      "note": "The Spirit given by laying on of hands, and the Spirit who tells Philip to go (8:15-19, 8:29, 8:39)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 53:7-8",
+      "note": "led like a sheep to the slaughter"
+    },
+    {
+      "ref": "Isaiah 56:3-5",
+      "note": "to the eunuchs who keep my covenant, a name better than sons"
+    },
+    {
+      "ref": "Luke 24:47",
+      "note": "beginning from Jerusalem"
+    },
+    {
+      "ref": "1 Peter 2:21-24",
+      "note": "he was led like a sheep, and bore our sins"
+    }
+  ],
+  "number": 8,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
