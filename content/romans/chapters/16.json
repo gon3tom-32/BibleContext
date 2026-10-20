@@ -1,0 +1,110 @@
+{
+  "sceneHappening": "Greetings to many names, a warning, and a closing doxology",
+  "summary": "\"I commend to you Phoebe, our sister, who is a servant of the assembly that is at Cenchreae, that you receive her in the Lord, in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self.\" Paul sends greetings to Prisca and Aquila, his fellow workers in Christ Jesus, who for his life laid down their own necks; \"to whom not only I give thanks, but also all the assemblies of the Gentiles. Greet the assembly that is in their house.\" He greets Epaenetus, his beloved, who is the first fruits of Asia to Christ; Mary, who labored much for them; \"Andronicus and Junia, my relatives and my fellow prisoners, who are notable among the apostles, who were also in Christ before me\"; Ampliatus, Urbanus, Stachys, Apelles, those of the household of Aristobulus and of Narcissus, Herodion, Tryphaena and Tryphosa, \"who labor in the Lord,\" Persis, \"Rufus, the chosen in the Lord, and his mother and mine,\" and many others, including Asyncritus, Phlegon, Hermes, Patrobas, Hermas, Philologus, Julia, Nereus and his sister, and Olympas. \"Greet one another with a holy kiss. The assemblies of Christ greet you.\" Then a warning: \"Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learned, and turn away from them. For those who are such don't serve our Lord, Christ, but their own belly; and by their smooth and flattering speech, they deceive the hearts of the innocent.\" For their obedience has become known to all, so that Paul rejoices over them; he wants them to be wise in what is good, and innocent in what is evil. \"And the God of peace will crush Satan under your feet shortly. The grace of our Lord Jesus Christ be with you.\" Timothy, his fellow worker, greets them, and so do Lucius, Jason, and Sosipater, his relatives. \"I, Tertius, who write the letter, greet you in the Lord.\" Gaius, host to Paul and to the whole assembly, greets them; Erastus, the treasurer of the city, greets them, and Quartus, the brother. Some manuscripts have a closing doxology: \"Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept in silence through long ages, but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations; to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.\"",
+  "whySettingMatters": "This list of greetings is among the most valuable ancient documents we have about an early church. Phoebe was probably the one who carried the letter to Rome: she is called a \"servant\" (diakonos, the same word as deacon) of the church at Cenchreae, the eastern port of Corinth, and a \"helper\" (prostatis), a word for a patron or benefactor. Prisca (Priscilla) and Aquila, expelled from Rome under Claudius, have returned and host a church in their home; their names appear first, which may signal Prisca's prominence. \"Andronicus and Junia\" are described as \"notable among the apostles\" (or \"well known to the apostles\"); Junia is a woman's name, which many early commentators accepted, until a masculine form \"Junias\" appeared later; whether they were apostles or merely esteemed by them is debated, and the more likely reading in the Greek is that they were prominent among the apostles. Many of the names are Greek or Latin and common among slaves and freed persons; the households of Aristobulus and Narcissus may have been enslaved members of well-known families in Rome. Rufus may be the son of Simon of Cyrene (Mark 15:21), though that is only a possibility. Paul's warning about those who cause divisions is brief and has no named target. Erastus is called the city's treasurer (oikonomos), and an inscription found in Corinth names an Erastus who paid for a pavement; whether it is the same man is uncertain. Tertius, who wrote the letter at Paul's dictation, adds his own greeting. The final doxology appears at different places in different manuscripts, which raises questions about the letter's original ending.",
+  "people": [
+    {
+      "id": "phoebe",
+      "note": "A servant of the church at Cenchreae who carried the letter."
+    },
+    {
+      "id": "prisca-and-aquila",
+      "note": "Fellow workers who risked their necks for Paul."
+    },
+    {
+      "id": "epaenetus",
+      "note": "The first convert in Asia."
+    },
+    {
+      "id": "andronicus",
+      "note": "A relative and fellow prisoner, notable among the apostles."
+    },
+    {
+      "id": "junia",
+      "note": "Named with Andronicus; likely a woman."
+    },
+    {
+      "id": "rufus",
+      "note": "\"Chosen in the Lord,\" with his mother."
+    },
+    {
+      "id": "timothy",
+      "note": "Paul's fellow worker."
+    },
+    {
+      "id": "tertius",
+      "note": "The secretary who wrote down the letter."
+    },
+    {
+      "id": "gaius",
+      "note": "Paul's host, and host of the whole church."
+    },
+    {
+      "id": "erastus",
+      "note": "The city's treasurer."
+    }
+  ],
+  "questions": [
+    "Paul spends most of this chapter on names. What does that say about how he sees the church?",
+    "Phoebe is a \"servant\" and a \"helper of many.\" What does it mean that Paul entrusts the letter to her?",
+    "The list includes women and men, Jews and Gentiles, patrons and perhaps slaves. What picture of the church does it give?",
+    "The warning about divisions is brief. What do you think he was most worried about for Rome?"
+  ],
+  "words": [
+    {
+      "id": "diakonos",
+      "note": "\"Phoebe, ... a servant of the assembly that is at Cenchreae\" (16:1)."
+    },
+    {
+      "id": "prostatis",
+      "note": "\"She herself also has been a helper of many\" (16:2)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"Greet ... greet ...\" (16:3-23)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"Notable among the apostles\" (16:7)."
+    },
+    {
+      "id": "hypakoe",
+      "note": "\"Obedience of faith\" (16:19, 16:26)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"The assembly that is in their house\" (16:5)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"The revelation of the mystery which has been kept in silence\" (16:25)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The grace of our Lord Jesus Christ be with you\" (16:20, 16:24)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 18:2-3",
+      "note": "Aquila and Priscilla in Corinth"
+    },
+    {
+      "ref": "Genesis 3:15",
+      "note": "he will bruise your head"
+    },
+    {
+      "ref": "Mark 15:21",
+      "note": "Simon of Cyrene, the father of Alexander and Rufus"
+    },
+    {
+      "ref": "Romans 1:5",
+      "note": "the obedience of faith among all the nations"
+    }
+  ],
+  "number": 16,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

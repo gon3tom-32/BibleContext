@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Abraham, David, and faith counted as righteousness",
+  "summary": "Paul asks, \"What then will we say that Abraham, our forefather, has found according to the flesh? For if Abraham was justified by works, he has something to boast about, but not toward God. For what does the Scripture say? 'Abraham believed God, and it was accounted to him for righteousness.' Now to him who works, the reward is not counted as grace, but as something owed. But to him who doesn't work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.\" He adds David, who \"also describes the blessing of the man to whom God counts righteousness apart from works: 'Blessed are they whose iniquities are forgiven, whose sins are covered. Blessed is the man whom the Lord will not count of sin.'\" Is this blessing only for the circumcised? \"For we say that faith was accounted to Abraham for righteousness. How then was it accounted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.\" He received the sign of circumcision as a seal of the righteousness of the faith which he had while uncircumcised, \"that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them; and the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.\" \"For the promise to Abraham or to his seed that he would be heir of the world wasn't through the law, but through the righteousness of faith. For if those who are of the law are heirs, faith is made void, and the promise is made of no effect. For the law produces wrath; for where there is no law, neither is there transgression. For this cause it is of faith, that it may be according to grace; to the end that the promise may be sure to all the seed, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all; as it is written, 'I have made you a father of many nations.'\" This is before God, whom he believed, \"who gives life to the dead, and calls the things that are not, as though they were.\" Against hope he believed in hope, to the end that he might become a father of many nations, according to what was spoken, \"So shall your seed be.\" Without being weakened in faith, he did not consider his own body, already dead, since he was about a hundred years old, and the deadness of Sarah's womb. Yet, looking to the promise of God, he did not waver through unbelief, but grew strong through faith, giving glory to God, and being fully assured that what he had promised, he was also able to perform. \"Therefore it also was reckoned to him for righteousness.\" Now it was not written for his sake alone that it was accounted to him, but for our sake also, to whom it will be accounted, who believe in him who raised Jesus our Lord from the dead, who was delivered up for our trespasses, and was raised for our justification.",
+  "whySettingMatters": "Paul's case for justification by faith rests on Abraham, since both Jews and Gentiles looked to him as ancestor, and if the founder of Israel was put right with God by faith, the argument cannot be dismissed as a Gentile innovation. The key text is Genesis 15:6, which Paul reads in its context: Abraham believed in Genesis 15, was circumcised in Genesis 17, and so his faith came first. The word \"counted\" or \"reckoned\" (logizomai) is accounting language, used eleven times in this chapter; to be reckoned righteous is to have a credit placed to one's account, not wages earned. The quotation of David (Psalm 32:1-2) is about forgiveness, with the same verb. Paul's \"father of all who believe\" widens Abraham's family to include Gentiles, which fits Genesis 17:4-5, \"father of a multitude of nations.\" The phrase \"he would be heir of the world\" is not found in Genesis, and probably combines the promises about land and nations. \"Giving life to the dead\" points to Abraham's near-dead body and to Sarah's womb, but also to the resurrection of Jesus in verse 24. How Paul's reading of Abraham fits with James 2:21-24, which also quotes Genesis 15:6 and says Abraham was justified by works, is a long-standing question; most readers see the two as addressing different problems.",
+  "people": [
+    {
+      "id": "abraham",
+      "note": "The test case: justified by faith before circumcision."
+    },
+    {
+      "id": "david",
+      "note": "Quoted as describing the blessing of forgiveness."
+    },
+    {
+      "id": "sarah",
+      "note": "Her womb, \"as good as dead,\" is part of the promise."
+    },
+    {
+      "id": "paul",
+      "note": "Argues from Genesis."
+    }
+  ],
+  "questions": [
+    "Paul says Abraham was put right with God before he was circumcised. Why does the order matter so much to his argument?",
+    "\"Believes in him who justifies the ungodly.\" How does that phrase strike you?",
+    "Abraham was \"fully assured that what God had promised, he was also able to do.\" What does that kind of faith look like?",
+    "Verse 25 links Jesus' being delivered up with our trespasses and his being raised with our justification. How do you hear the two halves?"
+  ],
+  "words": [
+    {
+      "id": "logizomai",
+      "note": "\"It was accounted to him for righteousness\" (4:3-11, 4:22-24)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"The promise\" to Abraham (4:13-14, 4:16, 4:20-21)."
+    },
+    {
+      "id": "plerophoreo",
+      "note": "\"Being fully assured that what he had promised, he was also able to perform\" (4:21)."
+    },
+    {
+      "id": "dikaiosis",
+      "note": "\"Raised for our justification\" (4:25)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Abraham believed God\" and \"the faith of our father Abraham\" (4:5, 4:9-20)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"In circumcision, or in uncircumcision?\" (4:9-12)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Blessed is the man whom the Lord will not count of sin\" (4:7-8)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 15:6",
+      "note": "Abraham believed the Lord, and he counted it to him as righteousness"
+    },
+    {
+      "ref": "Psalm 32:1-2",
+      "note": "blessed is the one whose transgression is forgiven"
+    },
+    {
+      "ref": "Genesis 17:4-5",
+      "note": "the father of a multitude of nations"
+    },
+    {
+      "ref": "James 2:21-24",
+      "note": "another reading of Abraham and works"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

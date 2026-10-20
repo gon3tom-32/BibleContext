@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Governing authorities, debts of love, and the night nearly over",
+  "summary": "\"Let every soul be in subjection to the higher authorities. For there is no authority except from God, and those who exist are ordained by God. Therefore he who resists the authority, withstands the ordinance of God; and those who withstand will receive to themselves judgment.\" Rulers are not a terror to good works, but to the evil. Do you want to have no fear of the authority? Do that which is good, and you will have praise from the same, for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn't bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil. \"Therefore you need to be in subjection, not only because of the wrath, but also for conscience' sake. For this reason you also pay taxes, for they are servants of God's service, continually giving themselves to this very thing. Therefore give to everyone what you owe: taxes to whom taxes are due; customs to whom customs; respect to whom respect; honor to whom honor.\" Then: \"Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law. For this, 'You shall not commit adultery,' 'You shall not murder,' 'You shall not steal,' 'You shall not covet,' and whatever other commandments there are, are all summed up in this saying, namely, 'You shall love your neighbor as yourself.' Love doesn't harm a neighbor. Love therefore is the fulfillment of the law.\" Paul urges them to know the time, that it is already time for them to awake out of sleep, for salvation is now nearer to us than when we first believed. \"The night is far gone, and the day is near. Let's therefore throw off the works of darkness, and let's put on the armor of light. Let's walk properly, as in the day; not in reveling and drunkenness, not in sexual promiscuity and lustful acts, not in strife and jealousy. But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.\"",
+  "whySettingMatters": "This chapter has had a long and troubled history of interpretation, so it is worth setting out the context. Paul writes in the early years of Nero's reign, a time of relative stability, to a church in the capital that includes people who recently had been expelled under Claudius, and in a city where tax resentment was rising (Tacitus records a protest against indirect taxes in AD 58). Paul's reasoning that authorities are \"ordained by God\" is rooted in Jewish teaching (Daniel 2:21, Proverbs 8:15, Wisdom 6:3). The \"sword\" is the instrument of justice; Paul's theme is that good order restrains wrongdoing. The passage does not say rulers are always right, and elsewhere Paul himself is in prison, appeals to Caesar, and the book of Revelation calls Rome a beast; Acts has the apostles say \"We must obey God rather than men\" (Acts 5:29). The chapter has been used to defend unjust regimes and also to explain why Christians should be good citizens, and how far submission goes is a question each generation has had to take up. Paul distinguishes direct tribute (phoros) from customs (telos); the Greek word for \"servants\" is leitourgoi. The turn to love as the fulfillment of the law connects to the \"debt\" of love, and the closing image of dawn comes from the idea that the new age is arriving. The words \"put on the Lord Jesus Christ\" famously led to Augustine's conversion.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes about authorities, debts, and the dawn."
+    },
+    {
+      "id": "the-roman-authorities",
+      "note": "Called God's servants who bear the sword."
+    },
+    {
+      "id": "the-roman-believers",
+      "note": "Told to submit, to pay what they owe, and to love."
+    }
+  ],
+  "questions": [
+    "Paul tells Roman believers to submit to the authorities. What do you know about the rulers they had, and what does that change about how you read it?",
+    "\"Owe no one anything, except to love.\" What do you think it means to treat love as a debt?",
+    "The chapter ends with waking up and putting on armor of light. How does that image sit next to the earlier call to submit?",
+    "This chapter has been used both to defend and to correct governments. What care do you think it needs?"
+  ],
+  "words": [
+    {
+      "id": "hypotasso",
+      "note": "\"Let every soul be in subjection to the higher authorities\" (13:1, 13:5)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"There is no authority except from God\" (13:1-3)."
+    },
+    {
+      "id": "diakonos",
+      "note": "\"He is a servant of God to you for good\" (13:4)."
+    },
+    {
+      "id": "phoros",
+      "note": "\"Taxes to whom taxes are due\" (13:6-7)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Love doesn't harm a neighbor\" (13:8-10)."
+    },
+    {
+      "id": "pleroma",
+      "note": "\"Love therefore is the fulfillment of the law\" (13:10)."
+    },
+    {
+      "id": "plesion",
+      "note": "\"You shall love your neighbor as yourself\" (13:9-10)."
+    },
+    {
+      "id": "phos",
+      "note": "\"The armor of light\" (13:12)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 8:15",
+      "note": "by me kings reign"
+    },
+    {
+      "ref": "Daniel 2:21",
+      "note": "he removes kings and sets up kings"
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "you shall love your neighbor as yourself"
+    },
+    {
+      "ref": "Titus 3:1",
+      "note": "remind them to be submissive to rulers and authorities"
+    }
+  ],
+  "number": 13,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

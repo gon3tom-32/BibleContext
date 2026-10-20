@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "The whole world guilty, and God's righteousness shown in Jesus",
+  "summary": "Paul asks, \"What advantage then has the Jew? Or what is the profit of circumcision? Much in every way. Chiefly, that they were entrusted with the oracles of God.\" What if some were unfaithful? \"Will their unbelief nullify the faithfulness of God? May it never be! Yes, let God be found true, but every man a liar. As it is written, 'That you might be justified in your words, and might prevail when you come into judgment.'\" He rejects a charge that he says, \"Let us do evil, that good may come.\" Then: \"What then? Are we better than they? No, in no way. For we previously warned both Jews and Greeks, that they are all under sin. As it is written, 'There is no one righteous; no, not one. There is no one who understands. There is no one who seeks after God. They have all turned aside. They have together become unprofitable. There is no one who does good, no, not so much as one.'\" He strings together lines from the Psalms and Isaiah: \"Their throat is an open tomb ... their feet are swift to shed blood ... there is no fear of God before their eyes.\" \"Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgment of God. Because by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin.\" Then the turn: \"But now apart from the law, a righteousness of God has been revealed, being testified by the law and the prophets; even the righteousness of God through faith in Jesus Christ to all and on all those who believe. For there is no distinction, for all have sinned, and fall short of the glory of God; being justified freely by his grace through the redemption that is in Christ Jesus; whom God sent to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness, because of the passing over of prior sins, in God's forbearance; to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus.\" \"Where then is the boasting? It is excluded. By what law? Of works? No, but by a law of faith. We maintain therefore that a man is justified by faith apart from the works of the law. Or is God the God of Jews only? Isn't he the God of Gentiles also? Yes, of Gentiles also: since indeed there is one God who will justify the circumcised by faith, and the uncircumcised through faith. Do we then nullify the law through faith? May it never be! No, we establish the law.\"",
+  "whySettingMatters": "Chapter 3 is the center of the letter's argument. Paul first answers objections, and then gives the verdict that Jew and Gentile alike are under sin, using a chain of Old Testament quotations (Psalms 14, 53, 5, 140, 10, 36 and Isaiah 59) that were originally about the wicked and are now applied to everyone. Verses 21-26 are among the densest in the New Testament, and several key terms are debated. \"The righteousness of God\" can mean God's covenant faithfulness, a status given to believers, or both. \"Faith in Jesus Christ\" can also be translated \"the faithfulness of Jesus Christ,\" and translators and scholars disagree. \"Redemption\" (apolytrōsis) is the language of buying a slave out of bondage. The word translated \"atoning sacrifice\" (hilastērion) is the Greek word used for the \"mercy seat,\" the cover of the ark where atonement was made on the Day of Atonement (Leviticus 16), but it can also mean a sacrifice that turns away wrath or covers sin; the debate over \"propitiation\" or \"expiation\" or \"mercy seat\" goes back centuries and cannot be settled here. \"Passing over of former sins\" means that God had held back judgment in his patience, so that his righteousness needed to be shown. Paul insists that this does not cancel the law but upholds it, a point he develops in chapters 4 to 8. The \"boasting\" excluded is the Jew's boast in the law, as in 2:17, but it also covers any claim on God.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Argues with an imagined objector."
+    },
+    {
+      "id": "the-jews",
+      "note": "Entrusted with the oracles of God."
+    },
+    {
+      "id": "the-gentiles",
+      "note": "Equally under sin, equally offered grace."
+    },
+    {
+      "id": "jesus",
+      "note": "Through whom God's righteousness is shown, and in whom the redemption is found."
+    }
+  ],
+  "questions": [
+    "Paul asks what advantage the Jew has and answers, \"Much in every way.\" Why does he keep that before the \"all under sin\" verdict?",
+    "Verses 10 to 18 come from the Psalms and Isaiah. What happens when we read lines about \"the wicked\" as being about everyone?",
+    "\"All have sinned and fall short of the glory of God, and are justified freely by his grace.\" How do those two halves of the sentence depend on each other?",
+    "Paul says faith doesn't nullify the law but upholds it. What does he seem to mean?"
+  ],
+  "words": [
+    {
+      "id": "hilasterion",
+      "note": "\"Whom God sent to be an atoning sacrifice\" (3:25)."
+    },
+    {
+      "id": "apolytrosis",
+      "note": "\"Through the redemption that is in Christ Jesus\" (3:24)."
+    },
+    {
+      "id": "dikaioo",
+      "note": "\"Justified freely by his grace\" (3:20, 3:24, 3:26, 3:28)."
+    },
+    {
+      "id": "logizomai",
+      "note": "\"We maintain therefore\" (reckon, count) that a man is justified by faith (3:28)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Justified freely by his grace\" (3:24)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"Fall short of the glory of God\" (3:7, 3:23)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"They are all under sin\" (3:9, 3:20, 3:23)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Through faith in Jesus Christ,\" \"the faithfulness of God\" (3:3, 3:22, 3:25-31)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 14:1-3",
+      "note": "none does good, not even one"
+    },
+    {
+      "ref": "Psalm 51:4",
+      "note": "that you may be justified in your words"
+    },
+    {
+      "ref": "Leviticus 16:15-16",
+      "note": "the Day of Atonement"
+    },
+    {
+      "ref": "Isaiah 59:7-8",
+      "note": "their feet run to evil"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

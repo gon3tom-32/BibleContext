@@ -1,0 +1,74 @@
+{
+  "sceneHappening": "The law, sin, and the divided self: \"Wretched man that I am!\"",
+  "summary": "Paul says to those who know the law that the law has authority over a person only as long as he lives. A married woman is bound by law to her husband while he lives, but if he dies, she is discharged from the law of her husband. So \"you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might bring forth fruit to God.\" When we were in the flesh, the sinful passions which were through the law worked in our members to bring forth fruit to death. But now we have been discharged from the law, having died to that in which we were held, so that we serve in newness of the spirit, and not in oldness of the letter. \"What shall we say then? Is the law sin? May it never be! However, I wouldn't have known sin, except through the law. For I wouldn't have known coveting, unless the law had said, 'You shall not covet.' But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead. I was alive apart from the law once, but when the commandment came, sin revived, and I died. The commandment, which was for life, this I found to be for death. For sin, finding occasion through the commandment, deceived me, and through it killed me. Therefore the law indeed is holy, and the commandment holy, and righteous, and good.\" Did what is good become death to him? Not at all; but sin, that it might be shown to be sin, was working death through what is good, so that sin through the commandment might become exceedingly sinful. \"For we know that the law is spiritual, but I am fleshly, sold under sin. For I don't know what I am doing. For I don't practice what I would like to do, but I do the very thing that I hate. But if what I don't want to do, I do, I consent to the law that it is good. So now it is no more I who do it, but sin which dwells in me. For I know that in me, that is, in my flesh, dwells no good thing. For the desire to do what is good is present with me, but the doing of what is good is not. For the good which I desire, I don't do; but the evil which I don't desire, that I practice.\" He finds a law that when he wants to do good, evil is present with him. \"For I delight in God's law after the inward man, but I see another law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members. What a wretched man I am! Who will deliver me out of the body of this death? I thank God through Jesus Christ our Lord! So then with the mind, I myself serve God's law, but with the flesh, the law of sin.\"",
+  "whySettingMatters": "Chapter 7 deals with the next objection: if the law shows sin and provokes it, is the law itself bad? Paul's answer, no, the law is holy, righteous, and good, but sin uses it, is one of the most disputed in the letter. The marriage analogy in verses 1-6 is meant to show how death releases someone from the law's claim; Paul's own illustration is not exact, since in the picture the husband dies, but in the application it is the believer who dies with Christ. The \"I\" of 7:7-25 has long been debated. Many early church writers took it as Paul's pre-Christian experience; Augustine and many later readers took it as the Christian's ongoing struggle; some modern scholars take it as Israel under the law, or as Adam, or as a rhetorical \"I\" in the manner of ancient speeches. The present tense of verses 14 to 25 and the cry of verse 24 make either reading plausible. \"Do not covet\" is the tenth commandment (Exodus 20:17), and the one that deals with desires, not just acts. \"Sold under sin\" echoes the language of slavery in chapter 6. The thanksgiving in 7:25, \"I thank God through Jesus Christ our Lord,\" answers the question of verse 24 and leads directly into chapter 8.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Speaks in the first person about the law, sin, and the struggle."
+    },
+    {
+      "id": "the-roman-believers",
+      "note": "Those \"who know the law.\""
+    },
+    {
+      "id": "jesus",
+      "note": "The one through whom the wretched self is delivered."
+    }
+  ],
+  "questions": [
+    "Paul says the law is holy, righteous, and good, and also that it was used by sin. How do both fit?",
+    "\"The very thing that I hate, I do.\" Whose experience do you think Paul is describing, and why does it matter which?",
+    "He asks, \"Who will deliver me?\" and answers with thanks. What does the order of question and thanks tell you?",
+    "The law told Paul what coveting was and so stirred it up. What do you recognize in that?"
+  ],
+  "words": [
+    {
+      "id": "nomos",
+      "note": "\"The law is holy,\" \"another law in my members\" (7:1-25)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"I wouldn't have known coveting, unless the law had said, 'You shall not covet'\" (7:7-8)."
+    },
+    {
+      "id": "sarx",
+      "note": "\"I am fleshly, sold under sin\" (7:5, 7:14, 7:18, 7:25)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Sin dwells in me\" (7:7-25)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"We serve in newness of the spirit\" (7:6)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"The commandment, which was for life\" (7:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 20:17",
+      "note": "you shall not covet"
+    },
+    {
+      "ref": "Deuteronomy 5:21",
+      "note": "you shall not covet your neighbor's wife"
+    },
+    {
+      "ref": "Galatians 5:17",
+      "note": "the desires of the flesh are against the Spirit"
+    },
+    {
+      "ref": "Genesis 2:23-24",
+      "note": "the two shall become one flesh"
+    }
+  ],
+  "number": 7,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

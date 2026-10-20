@@ -1,0 +1,738 @@
+{
+  "osis": "Rom",
+  "stepBook": "Rom",
+  "webFile": "romans.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "rome",
+      "ancientId": "afc8e7a"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a",
+      "mapOnly": true
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "illyricum",
+      "ancientId": "ac405c0"
+    },
+    {
+      "id": "spain",
+      "ancientId": "a3f0f69"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "david",
+      "theographic": "david_994"
+    },
+    {
+      "id": "abraham",
+      "theographic": "abraham_58"
+    },
+    {
+      "id": "sarah",
+      "theographic": "sarah_2473"
+    },
+    {
+      "id": "adam",
+      "theographic": "adam_78"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "isaac",
+      "theographic": "isaac_616"
+    },
+    {
+      "id": "jacob",
+      "theographic": "israel_682"
+    },
+    {
+      "id": "esau",
+      "theographic": "esau_1216"
+    },
+    {
+      "id": "pharaoh",
+      "theographic": "pharaoh_2331"
+    },
+    {
+      "id": "isaiah",
+      "theographic": "isaiah_617"
+    },
+    {
+      "id": "elijah",
+      "theographic": "elijah_1131"
+    },
+    {
+      "id": "prisca-and-aquila",
+      "theographic": "priscilla_2370"
+    },
+    {
+      "id": "epaenetus",
+      "theographic": "epaenetus_1194"
+    },
+    {
+      "id": "andronicus",
+      "theographic": "andronicus_265"
+    },
+    {
+      "id": "junia",
+      "theographic": "junia_1764"
+    },
+    {
+      "id": "rufus",
+      "theographic": "rufus_2449"
+    },
+    {
+      "id": "tertius",
+      "theographic": "tertius_2843"
+    },
+    {
+      "id": "gaius",
+      "theographic": "gaius_1271"
+    },
+    {
+      "id": "erastus",
+      "theographic": "erastus_1213"
+    }
+  ],
+  "words": [
+    {
+      "id": "kletos",
+      "strongs": [
+        "G2822"
+      ],
+      "foundAt": "Romans 1:1"
+    },
+    {
+      "id": "orge",
+      "strongs": [
+        "G3709"
+      ],
+      "foundAt": "Romans 1:18"
+    },
+    {
+      "id": "apokalypto",
+      "strongs": [
+        "G0601"
+      ],
+      "foundAt": "Romans 1:17"
+    },
+    {
+      "id": "krino",
+      "strongs": [
+        "G2919"
+      ],
+      "foundAt": "Romans 2:1"
+    },
+    {
+      "id": "chrestotes",
+      "strongs": [
+        "G5544"
+      ],
+      "foundAt": "Romans 2:4"
+    },
+    {
+      "id": "nomos",
+      "strongs": [
+        "G3551"
+      ],
+      "foundAt": "Romans 2:12"
+    },
+    {
+      "id": "hilasterion",
+      "strongs": [
+        "G2435"
+      ],
+      "foundAt": "Romans 3:25"
+    },
+    {
+      "id": "logizomai",
+      "strongs": [
+        "G3049"
+      ],
+      "foundAt": "Romans 3:28"
+    },
+    {
+      "id": "epaggelia",
+      "strongs": [
+        "G1860"
+      ],
+      "foundAt": "Romans 4:13"
+    },
+    {
+      "id": "plerophoreo",
+      "strongs": [
+        "G4135"
+      ],
+      "foundAt": "Romans 4:21"
+    },
+    {
+      "id": "dikaiosis",
+      "strongs": [
+        "G1347"
+      ],
+      "foundAt": "Romans 4:25"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "Romans 1:1"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Romans 1:17"
+    },
+    {
+      "id": "aphorizo",
+      "strongs": [
+        "G0873"
+      ],
+      "foundAt": "Romans 1:1"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Romans 1:24"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Romans 1:5"
+    },
+    {
+      "id": "metanoia",
+      "strongs": [
+        "G3341"
+      ],
+      "foundAt": "Romans 2:4"
+    },
+    {
+      "id": "syneidesis",
+      "strongs": [
+        "G4893"
+      ],
+      "foundAt": "Romans 2:15"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Romans 2:25"
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "foundAt": "Romans 3:20"
+    },
+    {
+      "id": "apolytrosis",
+      "strongs": [
+        "G0629"
+      ],
+      "foundAt": "Romans 3:24"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Romans 3:24"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Romans 3:23"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "Romans 3:9"
+    },
+    {
+      "id": "katallage",
+      "strongs": [
+        "G2643"
+      ],
+      "foundAt": "Romans 5:11"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "Romans 5:3"
+    },
+    {
+      "id": "opsonion",
+      "strongs": [
+        "G3800"
+      ],
+      "foundAt": "Romans 6:23"
+    },
+    {
+      "id": "douloo",
+      "strongs": [
+        "G1402"
+      ],
+      "foundAt": "Romans 6:18"
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "foundAt": "Romans 7:7"
+    },
+    {
+      "id": "huiothesia",
+      "strongs": [
+        "G5206"
+      ],
+      "foundAt": "Romans 8:15"
+    },
+    {
+      "id": "proginosko",
+      "strongs": [
+        "G4267"
+      ],
+      "foundAt": "Romans 8:29"
+    },
+    {
+      "id": "proorizo",
+      "strongs": [
+        "G4309"
+      ],
+      "foundAt": "Romans 8:29"
+    },
+    {
+      "id": "katakrima",
+      "strongs": [
+        "G2631"
+      ],
+      "foundAt": "Romans 8:1"
+    },
+    {
+      "id": "stenagmos",
+      "strongs": [
+        "G4726"
+      ],
+      "foundAt": "Romans 8:26"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Romans 5:1"
+    },
+    {
+      "id": "elpis",
+      "strongs": [
+        "G1680"
+      ],
+      "foundAt": "Romans 5:2"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Romans 6:16"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "Romans 5:17"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "Romans 5:21"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "Romans 7:5"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Romans 8:2"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Romans 5:8"
+    },
+    {
+      "id": "abba",
+      "strongs": [
+        "G0005"
+      ],
+      "foundAt": "Romans 8:15"
+    },
+    {
+      "id": "latreia",
+      "strongs": [
+        "G2999"
+      ],
+      "foundAt": "Romans 9:4"
+    },
+    {
+      "id": "ekloge",
+      "strongs": [
+        "G1589"
+      ],
+      "foundAt": "Romans 9:11"
+    },
+    {
+      "id": "leimma",
+      "strongs": [
+        "G3005"
+      ],
+      "foundAt": "Romans 11:5"
+    },
+    {
+      "id": "pleroma",
+      "strongs": [
+        "G4138"
+      ],
+      "foundAt": "Romans 11:12"
+    },
+    {
+      "id": "enkentrizo",
+      "strongs": [
+        "G1461"
+      ],
+      "foundAt": "Romans 11:17"
+    },
+    {
+      "id": "homologeo",
+      "strongs": [
+        "G3670"
+      ],
+      "foundAt": "Romans 10:9"
+    },
+    {
+      "id": "kerysso",
+      "strongs": [
+        "G2784"
+      ],
+      "foundAt": "Romans 10:8"
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "foundAt": "Romans 10:8"
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "foundAt": "Romans 10:2"
+    },
+    {
+      "id": "logikos",
+      "strongs": [
+        "G3050"
+      ],
+      "foundAt": "Romans 12:1"
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "foundAt": "Romans 12:2"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "Romans 12:9"
+    },
+    {
+      "id": "philoxenia",
+      "strongs": [
+        "G5381"
+      ],
+      "foundAt": "Romans 12:13"
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "foundAt": "Romans 9:15"
+    },
+    {
+      "id": "skandalon",
+      "strongs": [
+        "G4625"
+      ],
+      "foundAt": "Romans 9:33"
+    },
+    {
+      "id": "telos",
+      "strongs": [
+        "G5056"
+      ],
+      "foundAt": "Romans 10:4"
+    },
+    {
+      "id": "epikaleo",
+      "strongs": [
+        "G1941"
+      ],
+      "foundAt": "Romans 10:12"
+    },
+    {
+      "id": "euangelizo",
+      "strongs": [
+        "G2097"
+      ],
+      "foundAt": "Romans 10:15"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "Romans 10:9"
+    },
+    {
+      "id": "mysterion",
+      "strongs": [
+        "G3466"
+      ],
+      "foundAt": "Romans 11:25"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "Romans 12:2"
+    },
+    {
+      "id": "nikao",
+      "strongs": [
+        "G3528"
+      ],
+      "foundAt": "Romans 12:21"
+    },
+    {
+      "id": "hypotasso",
+      "strongs": [
+        "G5293"
+      ],
+      "foundAt": "Romans 13:1"
+    },
+    {
+      "id": "diakonos",
+      "strongs": [
+        "G1249"
+      ],
+      "foundAt": "Romans 13:4"
+    },
+    {
+      "id": "proskomma",
+      "strongs": [
+        "G4348"
+      ],
+      "foundAt": "Romans 14:13"
+    },
+    {
+      "id": "oikodome",
+      "strongs": [
+        "G3619"
+      ],
+      "foundAt": "Romans 14:19"
+    },
+    {
+      "id": "leitourgos",
+      "strongs": [
+        "G3011"
+      ],
+      "foundAt": "Romans 15:16"
+    },
+    {
+      "id": "hierourgeo",
+      "strongs": [
+        "G2418"
+      ],
+      "foundAt": "Romans 15:16"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "Romans 15:4"
+    },
+    {
+      "id": "prostatis",
+      "strongs": [
+        "G4368"
+      ],
+      "foundAt": "Romans 16:2"
+    },
+    {
+      "id": "hypakoe",
+      "strongs": [
+        "G5218"
+      ],
+      "foundAt": "Romans 16:19"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "Romans 16:3"
+    },
+    {
+      "id": "koinos",
+      "strongs": [
+        "G2839G",
+        "G2839H"
+      ],
+      "foundAt": "Romans 14:14"
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "foundAt": "Romans 14:10"
+    },
+    {
+      "id": "basileia",
+      "strongs": [
+        "G0932"
+      ],
+      "foundAt": "Romans 14:17"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "Romans 13:1"
+    },
+    {
+      "id": "phoros",
+      "strongs": [
+        "G5411"
+      ],
+      "foundAt": "Romans 13:6"
+    },
+    {
+      "id": "plesion",
+      "strongs": [
+        "G4139"
+      ],
+      "foundAt": "Romans 13:9"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "Romans 13:12"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Romans 15:26"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Romans 16:7"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Romans 6:3"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Corinth isn't named in Romans; it is shown because Paul is thought to have written the letter there (see Acts 20:2-3). Spain, where Paul hopes to go, is beyond the edge of the map."
+    },
+    {
+      "area": "chapters",
+      "text": "Chapters 13 to 16 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+    }
+  ]
+}

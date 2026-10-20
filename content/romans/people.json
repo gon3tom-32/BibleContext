@@ -1,0 +1,192 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, a Pharisee from Tarsus, writing from Corinth."
+  },
+  {
+    "id": "the-roman-believers",
+    "name": "The believers in Rome",
+    "note": "A church of Jews and Gentiles that Paul had not founded."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "David's descendant, declared Son of God by the resurrection."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "King of Israel and Jesus' ancestor; also quoted for forgiveness."
+  },
+  {
+    "id": "the-moralizer",
+    "name": "The moralizer",
+    "note": "An imagined listener who judges others."
+  },
+  {
+    "id": "the-jewish-teacher",
+    "name": "The Jewish teacher",
+    "note": "An imagined Jewish interlocutor, confident in the law."
+  },
+  {
+    "id": "the-gentiles",
+    "name": "The Gentiles",
+    "note": "Non-Jews."
+  },
+  {
+    "id": "the-jews",
+    "name": "The Jews",
+    "note": "Entrusted with the oracles of God."
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "note": "The ancestor of Israel, justified by faith."
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "note": "Abraham's wife."
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "note": "The first man, through whom sin entered the world."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "The lawgiver; with him the law came in."
+  },
+  {
+    "id": "israel-the-people",
+    "name": "Israel",
+    "note": "The people of the covenant, to whom the adoption and promises belong."
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac",
+    "note": "Abraham's son of the promise."
+  },
+  {
+    "id": "jacob",
+    "name": "Jacob",
+    "note": "Isaac's younger son, also called Israel."
+  },
+  {
+    "id": "esau",
+    "name": "Esau",
+    "note": "Isaac's elder son, also called Edom."
+  },
+  {
+    "id": "pharaoh",
+    "name": "Pharaoh",
+    "note": "The king of Egypt at the exodus."
+  },
+  {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "note": "The prophet, often quoted by Paul."
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "note": "The prophet who thought he was the only faithful one left."
+  },
+  {
+    "id": "the-remnant",
+    "name": "The remnant",
+    "note": "The faithful few of Israel."
+  },
+  {
+    "id": "the-gentile-believers",
+    "name": "The Gentile believers",
+    "note": "Wild olive branches grafted in."
+  },
+  {
+    "id": "the-persecutors",
+    "name": "Those who persecute you",
+    "note": "To be blessed and not cursed."
+  },
+  {
+    "id": "the-enemy",
+    "name": "Your enemy",
+    "note": "To be fed when hungry."
+  },
+  {
+    "id": "the-roman-authorities",
+    "name": "The authorities",
+    "note": "The governing rulers of Rome."
+  },
+  {
+    "id": "the-weak-in-faith",
+    "name": "The weak in faith",
+    "note": "Those with scruples about food and days."
+  },
+  {
+    "id": "the-strong-in-faith",
+    "name": "The strong in faith",
+    "note": "Those who are free to eat all things."
+  },
+  {
+    "id": "the-poor-in-jerusalem",
+    "name": "The poor among the saints in Jerusalem",
+    "note": "Recipients of the collection."
+  },
+  {
+    "id": "the-churches-of-macedonia-and-achaia",
+    "name": "The churches of Macedonia and Achaia",
+    "note": "Gave to the collection."
+  },
+  {
+    "id": "phoebe",
+    "name": "Phoebe",
+    "note": "A servant of the church at Cenchreae and a patron of many; she carried the letter."
+  },
+  {
+    "id": "prisca-and-aquila",
+    "name": "Prisca and Aquila",
+    "note": "A couple who worked with Paul in Corinth and Ephesus, and now host a church in Rome."
+  },
+  {
+    "id": "epaenetus",
+    "name": "Epaenetus",
+    "note": "The first convert in Asia."
+  },
+  {
+    "id": "andronicus",
+    "name": "Andronicus",
+    "note": "A relative and fellow prisoner of Paul."
+  },
+  {
+    "id": "junia",
+    "name": "Junia",
+    "note": "Named with Andronicus as notable among the apostles."
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "note": "Chosen in the Lord, with his mother."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Paul's fellow worker."
+  },
+  {
+    "id": "tertius",
+    "name": "Tertius",
+    "note": "The secretary who wrote down the letter."
+  },
+  {
+    "id": "gaius",
+    "name": "Gaius",
+    "note": "Host to Paul and the whole church."
+  },
+  {
+    "id": "erastus",
+    "name": "Erastus",
+    "note": "The city treasurer."
+  }
+]

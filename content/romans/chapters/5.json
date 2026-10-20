@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Peace with God, and two men: Adam and Christ",
+  "summary": "Being therefore justified by faith, Paul says, \"we have peace with God through our Lord Jesus Christ; through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God. Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance; and perseverance, proven character; and proven character, hope: and hope doesn't disappoint us, because God's love has been poured out into our hearts through the Holy Spirit who was given to us.\" For while we were still helpless, at the right time Christ died for the ungodly. \"For one will hardly die for a righteous man. Yet perhaps for a righteous person someone would even dare to die. But God commends his own love toward us, in that while we were yet sinners, Christ died for us.\" Much more then, being now justified by his blood, we will be saved from God's wrath through him. \"For if, while we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, we will be saved by his life. Not only so, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation.\" Then he compares two men: \"Therefore as through one man sin entered into the world, and death through sin; and so death passed to all men, because all sinned.\" Sin was in the world before the law, but sin is not charged when there is no law; yet death reigned from Adam until Moses, even over those who had not sinned in the way Adam did, who is a type of him who was to come. \"But the free gift isn't like the trespass. For if by the trespass of the one the many died, much more did the grace of God, and the gift by the grace of the one man, Jesus Christ, abound to the many. The gift is not as through one who sinned; for the judgment came by one to condemnation, but the free gift came of many trespasses to justification of life. For if, by the trespass of the one, death reigned through the one; much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ.\" So as through one trespass all men were condemned, even so through one act of righteousness there is a result of justification of life to all men. \"For as through the one man's disobedience many were made sinners, even so through the obedience of the one, many will be made righteous.\" Now the law came in that the trespass might abound; but where sin abounded, grace abounded more exceedingly; that as sin reigned in death, even so grace might reign through righteousness to eternal life, through Jesus Christ our Lord.",
+  "whySettingMatters": "Chapter 5 begins the second main section of the letter: having argued that all are guilty and that justification comes by faith, Paul describes what it means to live in that new standing. \"Peace with God\" is the end of hostility; the next verses use three words for the change, justified, reconciled, and saved, and speak of a love that has \"been poured out\" by the Spirit, which is the first mention of the Spirit in the letter. The reasoning \"much more\" is a typical Jewish form of argument from the lesser to the greater. The comparison between Adam and Christ is among the most discussed passages in the New Testament. Verse 12, \"because all sinned,\" has been read in different ways: some argue that all humans sinned in Adam, some that all humans die because each sins, and the Latin translation \"in whom all sinned\" shaped the later doctrine of original sin; the Greek does not require that rendering. \"All\" and \"many\" in verses 15 to 19 are also debated, particularly whether Paul teaches universal salvation or means that the gift is offered to all who receive it (verse 17). The chapter ends with the key claim that grace outweighs sin: \"where sin abounded, grace abounded more exceedingly,\" which sets up the objection of chapter 6.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Describes what it means to stand in grace."
+    },
+    {
+      "id": "adam",
+      "note": "The man through whom sin and death entered."
+    },
+    {
+      "id": "jesus",
+      "note": "The one man through whom righteousness and life come."
+    },
+    {
+      "id": "moses",
+      "note": "With whom the law came in."
+    }
+  ],
+  "questions": [
+    "Paul says suffering produces perseverance, character, and hope. What does that chain ask you to hold onto?",
+    "\"While we were still sinners, Christ died for us.\" How does that way of describing love differ from a reward for goodness?",
+    "Adam and Christ are set side by side, with \"much more\" for Christ. What is Paul saying about the relative weight of each?",
+    "\"Where sin abounded, grace abounded more.\" What problem will that sentence cause, and why?"
+  ],
+  "words": [
+    {
+      "id": "eirene",
+      "note": "\"We have peace with God\" (5:1)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"Suffering produces perseverance\" (5:3-4)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"Hope doesn't disappoint us\" (5:2, 5:4-5)."
+    },
+    {
+      "id": "katallage",
+      "note": "\"The reconciliation\" and \"reconciled to God\" (5:10-11)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The grace of God ... abound to the many\" (5:2, 5:15-21)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Through one man sin entered into the world\" (5:12-21)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"Reign in life\" and \"eternal life\" (5:17-21)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 3:1-19",
+      "note": "the first sin and its consequences"
+    },
+    {
+      "ref": "Isaiah 53:11",
+      "note": "my righteous servant shall make many to be accounted righteous"
+    },
+    {
+      "ref": "Galatians 3:19",
+      "note": "why then the law? It was added because of transgressions"
+    },
+    {
+      "ref": "1 Corinthians 15:21-22",
+      "note": "in Adam all die; in Christ all will be made alive"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

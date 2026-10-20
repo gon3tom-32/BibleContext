@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "A living sacrifice: how to live as one body, and how to love",
+  "summary": "\"I beg you therefore, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service. Don't be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.\" Paul tells each person not to think of himself more highly than he ought to think, but to think soberly, as God has apportioned to each a measure of faith. \"For even as we have many members in one body, and all the members don't have the same function, so we, who are many, are one body in Christ, and individually members one of another.\" Having gifts that differ according to the grace given to us, let us use them: if prophecy, according to the proportion of our faith; or service, in the service; or he who teaches, in the teaching; or he who exhorts, in the exhorting; he who gives, with liberality; he who rules, with diligence; he who shows mercy, with cheerfulness. \"Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good. In love of the brothers be tenderly affectionate to one another; in honor preferring one another; not lagging in diligence; fervent in spirit; serving the Lord; rejoicing in hope; enduring in tribulation; continuing steadfastly in prayer; contributing to the needs of the saints; given to hospitality.\" \"Bless those who persecute you; bless, and don't curse. Rejoice with those who rejoice. Weep with those who weep. Be of the same mind one toward another. Don't set your mind on high things, but associate with the humble. Don't be wise in your own conceits. Repay no one evil for evil. Respect what is honorable in the sight of all men. If it is possible, as much as it is up to you, be at peace with all men. Don't seek revenge yourselves, beloved, but give place to God's wrath. For it is written, 'Vengeance belongs to me; I will repay, says the Lord.' Therefore 'If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.' Don't be overcome by evil, but overcome evil with good.\"",
+  "whySettingMatters": "The \"therefore\" at the start of chapter 12 turns from what God has done in chapters 1 to 11 to what a life shaped by it looks like. \"Present your bodies\" is the language of temple sacrifice, but now a living one; \"spiritual service\" translates a phrase (logikē latreia) that can also mean \"reasonable worship\" or \"logical service,\" and the translation is debated. \"Be transformed\" is the verb used of Jesus' transfiguration (Mark 9:2), and the renewal is of the mind, which in biblical thought includes will and reasoning. The body of Christ image appears also in 1 Corinthians 12, but here it is shorter and tied to humility: the gifts are given by grace in different measures. The list of gifts is not exhaustive, and includes ordinary things like giving and showing mercy. The commands in verses 9 to 21 read like a collection of wisdom sayings, many from the Old Testament (Proverbs 25:21-22 is quoted) and the teaching of Jesus (the Sermon on the Mount). Hospitality was a main way the early church lived, with traveling believers depending on it. \"Heap coals of fire on his head\" is debated: it may be about shaming the enemy into repentance, or about leading him to remorse; it does not license revenge, since the next verse insists on overcoming evil with good. Paul, writing to a church in the capital of an empire, does not tell them to resist with force.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Moves from what God has done to how to live."
+    },
+    {
+      "id": "the-roman-believers",
+      "note": "One body with many members."
+    },
+    {
+      "id": "the-persecutors",
+      "note": "To be blessed, not cursed."
+    },
+    {
+      "id": "the-enemy",
+      "note": "To be fed and given drink."
+    }
+  ],
+  "questions": [
+    "Paul asks them to offer their bodies as a living sacrifice. What does he mean by \"body\" and why does it matter?",
+    "\"Be transformed by the renewing of your mind.\" How do you think the mind changes the rest of a life?",
+    "The list of gifts includes giving and showing mercy. What does that say about what Paul counts as spiritual?",
+    "\"Overcome evil with good.\" What would that look like in a particular situation you know?"
+  ],
+  "words": [
+    {
+      "id": "logikos",
+      "note": "\"Which is your spiritual service\" (12:1)."
+    },
+    {
+      "id": "latreia",
+      "note": "\"Service,\" or worship (12:1)."
+    },
+    {
+      "id": "metamorphoo",
+      "note": "\"Be transformed by the renewing of your mind\" (12:2)."
+    },
+    {
+      "id": "nous",
+      "note": "\"The renewing of your mind\" (12:2, 12:16)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Let love be without hypocrisy\" (12:9)."
+    },
+    {
+      "id": "philoxenia",
+      "note": "\"Given to hospitality\" (12:13)."
+    },
+    {
+      "id": "nikao",
+      "note": "\"Overcome evil with good\" (12:21)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Gifts that differ according to the grace given to us\" (12:3, 12:6)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 32:35",
+      "note": "vengeance is mine, and recompense"
+    },
+    {
+      "ref": "Proverbs 25:21-22",
+      "note": "if your enemy is hungry, give him bread to eat"
+    },
+    {
+      "ref": "1 Corinthians 12:12-27",
+      "note": "the body has many members"
+    },
+    {
+      "ref": "Matthew 5:44",
+      "note": "love your enemies and pray for those who persecute you"
+    }
+  ],
+  "number": 12,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

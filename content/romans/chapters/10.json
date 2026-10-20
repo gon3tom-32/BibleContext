@@ -1,0 +1,94 @@
+{
+  "sceneHappening": "Israel's zeal, the word near you, and \"faith comes from hearing\"",
+  "summary": "\"Brothers, my heart's desire and my prayer to God is for Israel, that they may be saved. For I testify about them that they have a zeal for God, but not according to knowledge. For being ignorant of God's righteousness, and seeking to establish their own, they didn't subject themselves to the righteousness of God. For Christ is the end of the law for righteousness to everyone who believes.\" Moses writes about the righteousness which is of the law, that \"the man who does those things will live by them.\" But the righteousness which is of faith says, \"Don't say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down); or, 'Who will descend into the abyss?' (that is, to bring Christ up from the dead).\" But what does it say? \"The word is near you, in your mouth, and in your heart;\" that is, the word of faith, which we preach: \"that if you will confess with your mouth Jesus as Lord, and believe in your heart that God raised him from the dead, you will be saved. For with the heart, one believes unto righteousness; and with the mouth confession is made unto salvation.\" For the Scripture says, \"Whoever believes in him will not be disappointed.\" For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him. \"For, 'Whoever will call on the name of the Lord will be saved.' How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher? And how will they preach unless they are sent? As it is written, 'How beautiful are the feet of those who preach the Good News of peace, who bring glad tidings of good things!'\" But they didn't all listen to the glad news. For Isaiah says, \"Lord, who has believed our report?\" \"So faith comes by hearing, and hearing by the word of God.\" But he says, \"Didn't they hear? Yes, most certainly, 'Their sound went out into all the earth, their words to the ends of the world.'\" But he says, \"Didn't Israel know? First Moses says, 'I will provoke you to jealousy with that which is no nation. I will make you angry with a nation void of understanding.'\" Isaiah is very bold and says, \"I was found by those who didn't seek me. I was revealed to those who didn't ask for me.\" But as for Israel he says, \"All day long I stretched out my hands to a disobedient and contrary people.\"",
+  "whySettingMatters": "Paul's love for his own people continues, and he honestly names their zeal while saying it is misdirected. \"Christ is the end of the law\" uses the word telos, which can mean end, goal, or fulfillment; Paul may mean that Christ ends the law as a way of earning righteousness, or that Christ is the aim toward which the law pointed, or both, and this has been debated for centuries. In verses 6 to 8 Paul reads Deuteronomy 30:11-14, a passage about how near God's commandment is, as describing the word of faith: it is no longer necessary to go to heaven or the abyss, because Christ has already come down and risen. \"Jesus as Lord\" is the earliest Christian confession and, in a world where Caesar was called Lord, was a daring claim; to \"call on the name of the Lord\" quotes Joel 2:32, where \"Lord\" is the name of God, so Paul applies it to Jesus. The chain in verses 14 and 15, call, believe, hear, preach, send, shows why the gospel needs messengers; the beautiful feet come from Isaiah 52:7. \"Faith comes from hearing\" is the \"word of Christ\" (rhēma), the spoken message. The \"all day long I stretched out my hands\" quotation is Isaiah 65:2, which Paul uses to say that God has not given up on Israel. How Gentile inclusion would make Israel jealous (Deuteronomy 32:21) is taken up in chapter 11.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Prays for Israel's salvation."
+    },
+    {
+      "id": "israel-the-people",
+      "note": "Zealous for God, but not according to knowledge."
+    },
+    {
+      "id": "moses",
+      "note": "Quoted for both the law and the word of faith."
+    },
+    {
+      "id": "isaiah",
+      "note": "Quoted on the report, the feet, and the outstretched hands."
+    },
+    {
+      "id": "the-gentiles",
+      "note": "Found by God though they did not seek him."
+    }
+  ],
+  "questions": [
+    "Paul says Israel has zeal \"but not according to knowledge.\" How does he honor and correct the same thing?",
+    "\"Confess with your mouth Jesus as Lord, and believe in your heart.\" Why both?",
+    "How will they call unless they have heard? What does the chain from calling to sending say about the church's work?",
+    "God says, \"All day long I stretched out my hands.\" What does that add to the picture of rejection?"
+  ],
+  "words": [
+    {
+      "id": "zelos",
+      "note": "\"They have a zeal for God, but not according to knowledge\" (10:2)."
+    },
+    {
+      "id": "telos",
+      "note": "\"Christ is the end of the law\" (10:4)."
+    },
+    {
+      "id": "homologeo",
+      "note": "\"If you will confess with your mouth Jesus as Lord\" (10:9-10)."
+    },
+    {
+      "id": "kerysso",
+      "note": "\"How will they hear without a preacher?\" (10:8, 10:14-15)."
+    },
+    {
+      "id": "rhema",
+      "note": "\"The word is near you,\" \"the word of Christ\" (10:8, 10:17-18)."
+    },
+    {
+      "id": "epikaleo",
+      "note": "\"Whoever will call on the name of the Lord will be saved\" (10:12-14)."
+    },
+    {
+      "id": "euangelizo",
+      "note": "\"How beautiful are the feet of those who preach the Good News\" (10:15-16)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"You will be saved\" (10:1, 10:9-13)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"God's righteousness\" and \"their own\" (10:3-10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 30:11-14",
+      "note": "the word is very near you, in your mouth and in your heart"
+    },
+    {
+      "ref": "Joel 2:32",
+      "note": "everyone who calls on the name of the Lord shall be saved"
+    },
+    {
+      "ref": "Isaiah 52:7",
+      "note": "how beautiful upon the mountains are the feet of him who brings good news"
+    },
+    {
+      "ref": "Isaiah 65:1-2",
+      "note": "I held out my hands all the day to a rebellious people"
+    }
+  ],
+  "number": 10,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
