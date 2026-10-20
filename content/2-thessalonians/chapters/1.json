@@ -1,0 +1,214 @@
+{
+  "sceneHappening": "Encouragement for a church under persecution: God is just, and Christ will be revealed from heaven",
+  "summary": "Paul, Silvanus, and Timothy write to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ: grace and peace. They are bound to give thanks to God always for them, as is fitting, because their faith grows exceedingly and the love of every one of them toward one another abounds, so that Paul and his friends themselves boast about them in the assemblies of God for their perseverance and faith in all their persecutions and in the afflictions that they endure. \"This is a manifest token of the righteous judgment of God, to the end that you may be counted worthy of the Kingdom of God, for which you also suffer.\" It is just for God to repay affliction to those who afflict them and, to those who are afflicted, \"relief with us, at the revelation of the Lord Jesus from heaven with his mighty angels in flaming fire, giving vengeance to those who don't know God, and to those who don't obey the Good News of our Lord Jesus, who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might, when he comes to be glorified in his saints, and to be admired among all those who have believed (because our testimony to you was believed) in that day.\" To this end Paul and his friends pray always for them, that their God would count them worthy of the calling and fulfill every desire of goodness and work of faith with power, \"that the name of our Lord Jesus Christ may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.\"",
+  "whySettingMatters": "The first letter had praised the Thessalonians' faith in persecution, and the pressure had not gone away. This chapter gives a theological answer to suffering: God is righteous, and he will put things right when Christ is revealed. Paul does not say that the suffering is good, but that it is part of the evidence that the church is being counted worthy of the kingdom. The language of 1:7-10 is the apocalyptic language of the prophets (fire, angels, vengeance), borrowed from Isaiah 66:15 and elsewhere. Its point is not a call to take revenge: the Thessalonians are told to leave justice to God, and the people described are those who persecute the church and refuse the gospel. What \"eternal destruction\" means has been debated by Christians for centuries (an end of existence, or a lasting state of separation from the Lord); the Greek phrase \"from the face of the Lord\" describes separation from his presence, and the passage does not settle the question. Whether Paul wrote the letter is also debated; the authorship note on the book page gives the arguments.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes with Silvanus and Timothy, boasting in the Thessalonians' endurance."
+    },
+    {
+      "id": "silvanus",
+      "note": "Named in the greeting."
+    },
+    {
+      "id": "timothy",
+      "note": "Named in the greeting."
+    },
+    {
+      "id": "the-thessalonian-believers",
+      "note": "Growing in faith and love while persecuted."
+    },
+    {
+      "id": "the-persecutors",
+      "note": "Those who afflict the church, to whom God will repay."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "To be revealed from heaven with his angels."
+    }
+  ],
+  "questions": [
+    "Paul says persecution is evidence that God is righteous and will put things right. How does that make sense of suffering?",
+    "The passage uses harsh language about judgment. How should we read it without turning it into a call for revenge?",
+    "Paul boasts about the Thessalonians to other churches. What does that say about how he saw the church's endurance?",
+    "\"That the name of our Lord Jesus may be glorified in you.\" What would that look like in a suffering church?"
+  ],
+  "words": [
+    {
+      "id": "eucharisteo",
+      "note": "\"We are bound to give thanks to God always for you\" (1:3; 2:13)."
+    },
+    {
+      "id": "hyperauxano",
+      "note": "\"Your faith grows exceedingly\" (1:3)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Your faith grows exceedingly\" (1:3-4, 1:11)."
+    },
+    {
+      "id": "pleonazo",
+      "note": "\"The love of each one of you all toward one another abounds\" (1:3)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Love... abounds\" (1:3)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"For your patience and faith\" (1:4)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"And in the afflictions which you endure\" (1:4, 1:6)."
+    },
+    {
+      "id": "anechomai",
+      "note": "\"Which you endure\" (1:4)."
+    },
+    {
+      "id": "endeigma",
+      "note": "\"Which is a manifest token of the righteous judgment of God\" (1:5)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"Righteous judgment of God\" (1:5-6)."
+    },
+    {
+      "id": "kataxioo",
+      "note": "\"That you may be counted worthy of the Kingdom of God\" (1:5, 1:11)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"The Kingdom of God, for which you also suffer\" (1:5)."
+    },
+    {
+      "id": "antapodidomi",
+      "note": "\"To repay affliction to those who afflict you\" (1:6)."
+    },
+    {
+      "id": "anesis",
+      "note": "\"Relief with us\" (1:7)."
+    },
+    {
+      "id": "apokalypsis",
+      "note": "\"At the revelation of the Lord Jesus from heaven\" (1:7)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"With his mighty angels\" (1:7)."
+    },
+    {
+      "id": "pyr",
+      "note": "\"In flaming fire\" (1:8)."
+    },
+    {
+      "id": "phlox",
+      "note": "\"Flaming\" (1:8)."
+    },
+    {
+      "id": "ekdikesis",
+      "note": "\"Giving vengeance to those who don't know God\" (1:8)."
+    },
+    {
+      "id": "hypakouo",
+      "note": "\"And to those who don't obey the Good News\" (1:8)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"The Good News of our Lord Jesus\" (1:8)."
+    },
+    {
+      "id": "dike",
+      "note": "\"Who will pay the penalty\" (1:9)."
+    },
+    {
+      "id": "olethros",
+      "note": "\"Eternal destruction\" (1:9)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"Eternal destruction\" (1:9) and \"eternal comfort\" (2:16)."
+    },
+    {
+      "id": "prosopon",
+      "note": "\"From the face of the Lord\" (1:9)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"And from the glory of his might\" (1:9, 1:12)."
+    },
+    {
+      "id": "endoxazo",
+      "note": "\"When he comes to be glorified in his saints\" (1:10, 1:12)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"In his saints\" (1:10)."
+    },
+    {
+      "id": "thaumazo",
+      "note": "\"And to be admired among all those who have believed\" (1:10)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"All those who have believed\" (1:10)."
+    },
+    {
+      "id": "axioo",
+      "note": "\"May count you worthy of the calling\" (1:11)."
+    },
+    {
+      "id": "kaleo",
+      "note": "\"Of your calling\" (1:11)."
+    },
+    {
+      "id": "eudokia",
+      "note": "\"And fulfill every desire of goodness\" (1:11)."
+    },
+    {
+      "id": "agathosyne",
+      "note": "\"Of goodness\" (1:11)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"And work of faith\" (1:11)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"With power\" (1:7, 1:11)."
+    },
+    {
+      "id": "onoma",
+      "note": "\"That the name of our Lord Jesus Christ may be glorified\" (1:12)."
+    },
+    {
+      "id": "charis",
+      "note": "\"According to the grace of our God\" (1:2, 1:12)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Thessalonians 4:13-18",
+      "note": "the Lord himself will descend from heaven with a cry of command"
+    },
+    {
+      "ref": "Matthew 25:41",
+      "note": "depart from me, you cursed, into the eternal fire"
+    },
+    {
+      "ref": "2 Peter 3:7",
+      "note": "kept for fire until the day of judgment and destruction of the ungodly"
+    },
+    {
+      "ref": "Philippians 1:27-30",
+      "note": "not frightened in anything by your opponents... granted to suffer for his sake"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "thessalonica",
+      "title": "The church addressed",
+      "short": "Thessalonica",
+      "refs": "2 Thessalonians 1:1; Acts 17:1-9",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The capital of Macedonia, where Paul founded the church and had to leave quickly."
+    },
+    {
+      "order": 2,
+      "placeId": "corinth",
+      "title": "Where Paul probably writes",
+      "short": "Corinth",
+      "refs": "Acts 18:1-18",
+      "chapter": 3,
+      "direction": "out",
+      "text": "Paul was in Corinth for about eighteen months. Corinth isn't named in the letter; it is inferred from Acts and 1 Thessalonians."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 20.5,
+      "east": 25.0,
+      "south": 37.0,
+      "north": 41.2
+    },
+    "label": "Map of Greece, drawn from real coordinates. Numbered stops mark Thessalonica and Corinth.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "thessalonica",
+        "label": "Thessalonica",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

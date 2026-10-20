@@ -1,0 +1,47 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle (in the traditional view), writing with Silvanus and Timothy and signing in his own hand (3:17)."
+  },
+  {
+    "id": "silvanus",
+    "name": "Silvanus",
+    "note": "Paul's co-worker (Silas), named in the greeting."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Paul's younger co-worker, named in the greeting."
+  },
+  {
+    "id": "the-thessalonian-believers",
+    "name": "The believers in Thessalonica",
+    "note": "Faithful under persecution, but unsettled by a rumor and by some who had stopped working."
+  },
+  {
+    "id": "the-lord-jesus",
+    "name": "The Lord Jesus",
+    "note": "Who will be revealed from heaven and give relief to the afflicted."
+  },
+  {
+    "id": "the-persecutors",
+    "name": "Those who afflict the church",
+    "note": "People who did not know God and did not obey the gospel, to whom God will repay affliction (1:6, 1:8)."
+  },
+  {
+    "id": "the-man-of-lawlessness",
+    "name": "The man of lawlessness",
+    "note": "A figure who will rebel against God and exalt himself before the Lord comes (2:3-9); who or what he is has been debated for centuries."
+  },
+  {
+    "id": "the-idle",
+    "name": "The idle",
+    "note": "Some in the church who \"walk disorderly,\" not working but meddling (3:6-12)."
+  },
+  {
+    "id": "satan",
+    "name": "Satan",
+    "note": "Whose activity is behind the lawless one's works (2:9) and from whom the Lord protects believers (3:3)."
+  }
+]
