@@ -1,0 +1,131 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "damascus",
+      "title": "The call and return",
+      "short": "Damascus",
+      "refs": "Galatians 1:15-17",
+      "chapter": 1,
+      "direction": "out",
+      "text": "God revealed his Son to Paul, who went to Arabia and then returned to Damascus."
+    },
+    {
+      "order": 2,
+      "placeId": "jerusalem",
+      "title": "Meeting the apostles",
+      "short": "Jerusalem",
+      "refs": "Galatians 1:18-19; 2:1-10",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Paul visits Peter and James after three years, and again fourteen years later with Barnabas and Titus to lay out the gospel he preaches."
+    },
+    {
+      "order": 3,
+      "placeId": "cilicia",
+      "title": "Syria and Cilicia",
+      "short": "Cilicia",
+      "refs": "Galatians 1:21",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Paul spent years in these regions, unknown by sight to the churches of Judea."
+    },
+    {
+      "order": 4,
+      "placeId": "antioch",
+      "title": "Confronting Peter",
+      "short": "Antioch",
+      "refs": "Galatians 2:11-14",
+      "chapter": 2,
+      "direction": "out",
+      "text": "Peter withdraws from eating with Gentile believers, and Paul opposes him to his face."
+    },
+    {
+      "order": 5,
+      "placeId": "galatia",
+      "title": "The churches of Galatia",
+      "short": "Galatia",
+      "refs": "Galatians 1:2; 3:1",
+      "chapter": 3,
+      "direction": "out",
+      "text": "The churches Paul writes to; their exact location is debated."
+    },
+    {
+      "order": 6,
+      "placeId": "mount-sinai",
+      "title": "Mount Sinai in Arabia",
+      "short": "Sinai",
+      "refs": "Galatians 4:24-25",
+      "chapter": 4,
+      "direction": "out",
+      "text": "In his Hagar and Sarah picture, Hagar stands for Mount Sinai in Arabia."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 27.0,
+      "east": 40.0,
+      "south": 27.5,
+      "north": 40.5
+    },
+    "label": "Map of Asia Minor, Syria, and the Sinai region, drawn from real coordinates. Numbered stops mark Damascus, Jerusalem, Cilicia, Antioch, Galatia, and Mount Sinai.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "damascus",
+        "label": "Damascus",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "right"
+      },
+      {
+        "order": 3,
+        "at": "cilicia",
+        "label": "Cilicia",
+        "labelSide": "left"
+      },
+      {
+        "order": 4,
+        "at": "antioch",
+        "label": "Antioch",
+        "labelSide": "left"
+      },
+      {
+        "order": 5,
+        "at": "galatia",
+        "label": "Galatia",
+        "labelSide": "left"
+      },
+      {
+        "order": 6,
+        "at": "mount-sinai",
+        "label": "Sinai",
+        "labelSide": "left"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
