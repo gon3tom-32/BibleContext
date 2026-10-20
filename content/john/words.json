@@ -1555,5 +1555,576 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "typhlos",
+    "transliteration": "typhlos",
+    "original": "τυφλός",
+    "pronunciation": "too-FLOS",
+    "gloss": "blind",
+    "notes": "Blind, physically and also figuratively. John 9 is built on the contrast between a man blind from birth who comes to see and Pharisees who claim to see and are blind (9:39-41). Jesus also speaks of the \"blind guides\" (Matthew 15:14).",
+    "range": [
+      {
+        "sense": "Blind",
+        "note": "Unable to see."
+      },
+      {
+        "sense": "Spiritually blind",
+        "note": "Unable to perceive."
+      }
+    ],
+    "translations": [
+      "blind"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:27",
+        "note": "Two blind men followed him."
+      },
+      {
+        "ref": "Matthew 15:14",
+        "note": "If the blind lead the blind, both will fall into a pit."
+      },
+      {
+        "ref": "Luke 18:35",
+        "note": "A blind man was sitting by the roadside begging."
+      },
+      {
+        "ref": "Revelation 3:17",
+        "note": "You are wretched, pitiable, poor, blind, and naked."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aposynagogos",
+    "transliteration": "aposynagōgos",
+    "original": "ἀποσυνάγωγος",
+    "pronunciation": "ap-os-oon-AG-o-gos",
+    "gloss": "put out of the synagogue",
+    "notes": "\"Away from the synagogue.\" It appears only in John (9:22, 12:42, 16:2): people who confess Jesus as the Christ are, or will be, expelled from the synagogue. The word reflects the pain of John's community, who lost their place in the Jewish community. How formal and how widespread the expulsion was is debated.",
+    "range": [
+      {
+        "sense": "Excluded",
+        "note": "Barred from the synagogue."
+      }
+    ],
+    "translations": [
+      "put out of the synagogue",
+      "excluded from the synagogue"
+    ],
+    "elsewhere": [],
+    "uncertain": "How formal and widespread expulsion from the synagogue was, and whether it belongs to Jesus' day or to John's, is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "poimen",
+    "transliteration": "poimēn",
+    "original": "ποιμήν",
+    "pronunciation": "poy-MANE",
+    "gloss": "shepherd",
+    "notes": "A shepherd. In the Old Testament God is Israel's shepherd and kings and leaders are called shepherds. Jesus says \"I am the good shepherd\" (10:11, 10:14). The word is also used for a pastor in the church (Ephesians 4:11).",
+    "range": [
+      {
+        "sense": "Shepherd",
+        "note": "One who tends sheep."
+      },
+      {
+        "sense": "Leader",
+        "note": "One who guides and protects."
+      }
+    ],
+    "translations": [
+      "shepherd",
+      "pastor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:36",
+        "note": "Like sheep without a shepherd."
+      },
+      {
+        "ref": "Luke 2:8",
+        "note": "Shepherds out in the field."
+      },
+      {
+        "ref": "Hebrews 13:20",
+        "note": "The great shepherd of the sheep."
+      },
+      {
+        "ref": "1 Peter 2:25",
+        "note": "The Shepherd and Overseer of your souls."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thyra",
+    "transliteration": "thyra",
+    "original": "θύρα",
+    "pronunciation": "THOO-rah",
+    "gloss": "door, gate",
+    "notes": "A door or gate. Jesus says \"I am the door of the sheep\" (10:7, 10:9), picking up the picture of a sheepfold with one entrance. Elsewhere in the New Testament it is used of the door to the kingdom (Luke 13:25) and of Christ standing at the door (Revelation 3:20).",
+    "range": [
+      {
+        "sense": "Door",
+        "note": "An entrance."
+      },
+      {
+        "sense": "Gate",
+        "note": "A way in."
+      }
+    ],
+    "translations": [
+      "door",
+      "gate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:6",
+        "note": "Go into your room and shut the door."
+      },
+      {
+        "ref": "Luke 13:25",
+        "note": "The master has shut the door."
+      },
+      {
+        "ref": "Acts 12:13",
+        "note": "She came to answer the door."
+      },
+      {
+        "ref": "Revelation 3:20",
+        "note": "I stand at the door and knock."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "phone",
+    "transliteration": "phōnē",
+    "original": "φωνή",
+    "pronunciation": "fo-NAY",
+    "gloss": "voice, sound",
+    "notes": "A voice or sound. In John 10 the sheep \"hear his voice\" and he calls them by name (10:3-5, 10:16, 10:27). The voice from heaven (12:28-30) and the voice that calls Lazarus out (11:43) use the same word.",
+    "range": [
+      {
+        "sense": "Voice",
+        "note": "A spoken sound."
+      },
+      {
+        "sense": "Sound",
+        "note": "Noise or call."
+      }
+    ],
+    "translations": [
+      "voice",
+      "sound"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:17",
+        "note": "A voice from heaven."
+      },
+      {
+        "ref": "Luke 3:22",
+        "note": "A voice came from heaven."
+      },
+      {
+        "ref": "Acts 9:4",
+        "note": "He heard a voice saying to him."
+      },
+      {
+        "ref": "Revelation 1:15",
+        "note": "His voice was like the roar of many waters."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "embrimaomai",
+    "transliteration": "embrimaomai",
+    "original": "ἐμβριμάομαι",
+    "pronunciation": "em-brim-AH-om-eye",
+    "gloss": "to be deeply moved, to snort with anger",
+    "notes": "To snort like a horse, to be deeply agitated, to rebuke sternly. John uses it twice of Jesus at Lazarus' tomb (11:33, 11:38). The sense may be anger, deep distress, or both; why Jesus is moved this way is debated.",
+    "range": [
+      {
+        "sense": "Be deeply moved",
+        "note": "Be stirred with emotion."
+      },
+      {
+        "sense": "Rebuke sternly",
+        "note": "Speak with anger."
+      }
+    ],
+    "translations": [
+      "groaned",
+      "was deeply moved",
+      "was indignant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:30",
+        "note": "Jesus sternly warned them."
+      },
+      {
+        "ref": "Mark 1:43",
+        "note": "Sternly charging him, he sent him away."
+      },
+      {
+        "ref": "Mark 14:5",
+        "note": "They scolded her."
+      }
+    ],
+    "uncertain": "Whether Jesus' reaction at the tomb is anger, grief, or both is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koimao",
+    "transliteration": "koimaō",
+    "original": "κοιμάω",
+    "pronunciation": "koy-MAH-oh",
+    "gloss": "to sleep, to fall asleep",
+    "notes": "To sleep, and by extension to die, as a gentle way to describe death. Jesus says \"Lazarus has fallen asleep\" (11:11-13), and the disciples take it literally. In the New Testament believers who have died are said to have fallen asleep.",
+    "range": [
+      {
+        "sense": "Sleep",
+        "note": "Rest in bed."
+      },
+      {
+        "sense": "Die",
+        "note": "Pass away."
+      }
+    ],
+    "translations": [
+      "sleep",
+      "fall asleep"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:52",
+        "note": "Many bodies of the saints who had fallen asleep were raised."
+      },
+      {
+        "ref": "Acts 7:60",
+        "note": "He fell asleep."
+      },
+      {
+        "ref": "1 Corinthians 15:6",
+        "note": "Some have fallen asleep."
+      },
+      {
+        "ref": "1 Thessalonians 4:13",
+        "note": "Those who are asleep."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nardos",
+    "transliteration": "nardos",
+    "original": "νάρδος",
+    "pronunciation": "NAR-dos",
+    "gloss": "nard, spikenard",
+    "notes": "An expensive perfume made from a plant that grew in the Himalayas. Mary pours a pound of pure nard on Jesus' feet (12:3), worth about three hundred denarii. The only other New Testament use is the similar account in Mark 14:3.",
+    "range": [
+      {
+        "sense": "Nard",
+        "note": "A costly perfumed oil."
+      }
+    ],
+    "translations": [
+      "nard",
+      "spikenard"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 14:3",
+        "note": "A woman with an alabaster flask of pure nard."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kokkos",
+    "transliteration": "kokkos",
+    "original": "κόκκος",
+    "pronunciation": "KOK-kos",
+    "gloss": "grain, seed",
+    "notes": "A grain or kernel of wheat or a mustard seed. Jesus says, \"Unless a grain of wheat falls into the earth and dies, it remains by itself alone. But if it dies, it bears much fruit\" (12:24), in speaking of his coming death.",
+    "range": [
+      {
+        "sense": "Grain",
+        "note": "A seed."
+      },
+      {
+        "sense": "Kernel",
+        "note": "A small seed."
+      }
+    ],
+    "translations": [
+      "grain",
+      "seed"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:31",
+        "note": "A grain of mustard seed."
+      },
+      {
+        "ref": "Mark 4:31",
+        "note": "It is like a grain of mustard seed."
+      },
+      {
+        "ref": "Luke 13:19",
+        "note": "It is like a grain of mustard seed."
+      },
+      {
+        "ref": "1 Corinthians 15:37",
+        "note": "A bare kernel, perhaps of wheat."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "archon",
+    "transliteration": "archōn",
+    "original": "ἄρχων",
+    "pronunciation": "AR-khone",
+    "gloss": "ruler, prince",
+    "notes": "A ruler or leader. John uses it for Nicodemus, \"a ruler of the Jews\" (3:1), for the Jewish rulers who believed but wouldn't confess (12:42), and for \"the ruler of this world\" (12:31, 14:30, 16:11), meaning Satan.",
+    "range": [
+      {
+        "sense": "Ruler",
+        "note": "A leader."
+      },
+      {
+        "sense": "Prince",
+        "note": "A powerful one."
+      }
+    ],
+    "translations": [
+      "ruler",
+      "prince",
+      "leader"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:18",
+        "note": "A ruler came and knelt before him."
+      },
+      {
+        "ref": "Luke 18:18",
+        "note": "A ruler asked him."
+      },
+      {
+        "ref": "Acts 4:26",
+        "note": "The rulers were gathered together."
+      },
+      {
+        "ref": "Ephesians 2:2",
+        "note": "The prince of the power of the air."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "exousia",
+    "transliteration": "exousia",
+    "original": "ἐξουσία",
+    "pronunciation": "ex-oo-SEE-ah",
+    "gloss": "authority, right",
+    "notes": "Authority, the right and the power to act. Jesus says he has \"power\" (the same word) to lay down his life and to take it again (10:18).",
+    "range": [
+      {
+        "sense": "Right to act",
+        "note": "Permission or freedom to do something."
+      },
+      {
+        "sense": "Power",
+        "note": "The ability to make things happen."
+      },
+      {
+        "sense": "Rule",
+        "note": "Authority over others, or the people who hold it."
+      }
+    ],
+    "translations": [
+      "authority",
+      "power",
+      "right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:18",
+        "note": "All authority has been given to me."
+      },
+      {
+        "ref": "Romans 13:1",
+        "note": "Governing authorities."
+      },
+      {
+        "ref": "Colossians 1:13",
+        "note": "Delivered from the power of darkness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "anastasis",
+    "transliteration": "anastasis",
+    "original": "ἀνάστασις",
+    "pronunciation": "an-AS-tas-is",
+    "gloss": "resurrection",
+    "notes": "Resurrection, \"standing up again.\" Martha says her brother will rise \"in the resurrection at the last day,\" and Jesus says \"I am the resurrection and the life\" (11:24-25).",
+    "range": [
+      {
+        "sense": "Resurrection",
+        "note": "Rising from the dead."
+      },
+      {
+        "sense": "Rising",
+        "note": "Standing up."
+      }
+    ],
+    "translations": [
+      "resurrection",
+      "rising"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 20:35",
+        "note": "Those who attain the resurrection from the dead."
+      },
+      {
+        "ref": "Acts 4:2",
+        "note": "Proclaiming in Jesus the resurrection from the dead."
+      },
+      {
+        "ref": "1 Corinthians 15:12",
+        "note": "How can some say there is no resurrection?"
+      },
+      {
+        "ref": "Revelation 20:5",
+        "note": "This is the first resurrection."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "The council, the Jewish high court in Jerusalem. After Lazarus is raised, the chief priests and Pharisees \"gather the council\" (11:47).",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:59",
+        "note": "The council seeks false witness."
+      },
+      {
+        "ref": "Mark 14:55",
+        "note": "The whole council looks for testimony."
+      },
+      {
+        "ref": "Luke 22:66",
+        "note": "The council of elders met."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles are called before it."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hosanna",
+    "transliteration": "hōsanna",
+    "original": "ὡσαννά",
+    "pronunciation": "ho-sah-NAH",
+    "gloss": "Hosanna, save us",
+    "notes": "From a Hebrew cry in Psalm 118:25 meaning \"save, please.\" The crowd shouts it as Jesus enters Jerusalem (12:13).",
+    "range": [
+      {
+        "sense": "Prayer for help",
+        "note": "\"Save us.\""
+      },
+      {
+        "sense": "Shout of praise",
+        "note": "Used at festivals and processions."
+      }
+    ],
+    "translations": [
+      "Hosanna",
+      "save now"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:9",
+        "note": "The same shout in Matthew."
+      },
+      {
+        "ref": "Mark 11:9",
+        "note": "The same shout in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

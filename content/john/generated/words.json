@@ -2848,6 +2848,875 @@
         "fetched": "2026-10-19",
         "item": "G1228"
       }
+    },
+    {
+      "id": "typhlos",
+      "strongs": [
+        "G5185"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5185",
+          "original": "τυφλός",
+          "transliteration": "tuphlos",
+          "partOfSpeech": "G:A",
+          "gloss": "blind",
+          "meaning": "τυφλός, -ή, -όν\n[in LXX for עִוֵּר ;]\nblind: as subst., ὁ τ., Mat.9:27, Mrk.8:22, Luk.4:18\" (LXX), Jhn.5:3, al. Metaphorical: Mat.15:14 23:16-26, Jhn.9:39-41, Rom.2:19, 2Pe.1:9, Rev.3:17.\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "τυφλῶν",
+          "translit": "tuphlōn",
+          "gloss": "blind"
+        },
+        {
+          "original": "τυφλὸν",
+          "translit": "tuphlon",
+          "gloss": "blind"
+        },
+        {
+          "original": "τυφλὸς",
+          "translit": "tuphlos",
+          "gloss": "blind"
+        },
+        {
+          "original": "τυφλοῦ",
+          "translit": "tuphlou",
+          "gloss": "blind"
+        },
+        {
+          "original": "τυφλόν",
+          "translit": "tuphlon",
+          "gloss": "blind"
+        },
+        {
+          "original": "τυφλῷ",
+          "translit": "tuphlō",
+          "gloss": "blind"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 5:3",
+        "John 9:1",
+        "John 9:2",
+        "John 9:6",
+        "John 9:13",
+        "John 9:17",
+        "John 9:18",
+        "John 9:19",
+        "John 9:20",
+        "John 9:24",
+        "John 9:25",
+        "John 9:32",
+        "John 9:39",
+        "John 9:40",
+        "John 9:41",
+        "John 10:21",
+        "John 11:37"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 47,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:27",
+          "found": true
+        },
+        {
+          "ref": "Matthew 15:14",
+          "found": true
+        },
+        {
+          "ref": "Luke 18:35",
+          "found": true
+        },
+        {
+          "ref": "Revelation 3:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5185"
+      }
+    },
+    {
+      "id": "aposynagogos",
+      "strongs": [
+        "G0656"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0656",
+          "original": "ἀποσυνάγωγος",
+          "transliteration": "aposunagōgos",
+          "partOfSpeech": "G:A",
+          "gloss": "excommunicated",
+          "meaning": "ἀποσυνάγωγος, -ον\n(συναγωγή),\nexpelled from the congregation (Field, Notes, 96), excommunicated: Jhn.9:22 12:42 16:2 (Cremer, 64, 607).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀποσυνάγωγος",
+          "translit": "aposunagōgos",
+          "gloss": "excommunicated"
+        },
+        {
+          "original": "ἀποσυνάγωγοι",
+          "translit": "aposunagōgoi",
+          "gloss": "excommunicated"
+        },
+        {
+          "original": "ἀποσυναγώγους",
+          "translit": "aposunagōgous",
+          "gloss": "excommunicated"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 9:22",
+        "John 12:42",
+        "John 16:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 3,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0656"
+      }
+    },
+    {
+      "id": "poimen",
+      "strongs": [
+        "G4166"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4166",
+          "original": "ποιμήν",
+          "transliteration": "poimēn",
+          "partOfSpeech": "G:N-M",
+          "gloss": "shepherd",
+          "meaning": "ποιμήν, -ίνος, ὁ\n[in LXX for רָעָה ;]\na shepherd: Mat.9:36 25:32 26:31\" (LXX), Mrk.6:34 14:27, Luk.2:8, 15 2:18, 20 Jhn.10:2, 12 Metaphorical, of Christ; Jhn.10:11, 14 10:16 Heb.13:20, 1Pe.2:25; of Christian pastors, Eph.4:11 (cf. Hom., Il, i, 263, ποιμένα λαῶν).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ποιμήν",
+          "translit": "poimēn",
+          "gloss": "shepherd"
+        },
+        {
+          "original": "ποιμὴν",
+          "translit": "poimēn",
+          "gloss": "shepherd"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 10:2",
+        "John 10:11",
+        "John 10:12",
+        "John 10:14",
+        "John 10:16"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 17,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:36",
+          "found": true
+        },
+        {
+          "ref": "Luke 2:8",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 13:20",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 2:25",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4166"
+      }
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2374",
+          "original": "θύρα",
+          "transliteration": "thura",
+          "partOfSpeech": "G:N-F",
+          "gloss": "door",
+          "meaning": "θύρα, -ας, ἡ\n[in LXX chiefly for פֶּתַח, also for דַּל, דֶּלֶת, etc. ;]\na door: κλείειν (ἀποκ-) τὴν θ., Mat.6:6, Luk.13:25; pass., Mat.25:10, Luk.11:7, Jhn.20:19, 26, Act.21:30; ἀνοίγειν, Act.5:19; pass., Act.16:26-27; κρούειν, Act.12:13; διὰ τῆς θ., Jhn.10:1-2; πρὸς τὴν θ., Mrk.1:33 11:4 (WH om. τήν), Act.3:2; τὰ πρὸς τὴν θ., the space by the door, Mrk.2:2; πρὸς τῇ θ., Jhn.18:16; ἐπὶ τῇ θ, Act.5:9; πρὸ τῆς θ., Act.12:6; ἐπὶ τῶν θ., Act.5:23; ἡ θ. τ. μνημείου, Mat.27:60, Mrk.15:46 16:3. Metaphorical, of Christ, ἡ θ. τ. προβάτων, Jhn.10:7, 9; of the Kingdom of Heaven, Luk.13:24; of opportunitie …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "θύρας",
+          "translit": "thuras",
+          "gloss": "door"
+        },
+        {
+          "original": "θύρα",
+          "translit": "thura",
+          "gloss": "door"
+        },
+        {
+          "original": "θύρᾳ",
+          "translit": "thura",
+          "gloss": "door"
+        },
+        {
+          "original": "θυρῶν",
+          "translit": "thurōn",
+          "gloss": "door"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 10:1",
+        "John 10:2",
+        "John 10:7",
+        "John 10:9",
+        "John 18:16",
+        "John 20:19",
+        "John 20:26"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 38,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:6",
+          "found": true
+        },
+        {
+          "ref": "Luke 13:25",
+          "found": true
+        },
+        {
+          "ref": "Acts 12:13",
+          "found": true
+        },
+        {
+          "ref": "Revelation 3:20",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2374"
+      }
+    },
+    {
+      "id": "phone",
+      "strongs": [
+        "G5456G",
+        "G5456H"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5456G",
+          "original": "φωνή",
+          "transliteration": "phōnē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "voice/sound: voice",
+          "meaning": "φωνή, -ῆς, ἡ,\n[in LXX chiefly and very frequently for קוֹל ;]\na voice;\n(a) prop., of persons, Mat.2:18 (LXX), al.; φ. αἴρειν (ἐπαίρειν), Luk.17:13, Act.2:14, al.; φ. μεγάλῃ εἰπεῖν (λέγειν, φωνεῖν, etc.), Luk.8:28, Act.7:57, Rev.5:12, al.; γίνεται (ἔρχεται) φ. ἐκ τ. οὐρανῶν (ἐξ οὐρανοῦ), Mrk.1:11, Luk.3:22, Jhn.12:28, al. (cf. DCG, ii, 810a; Dalman, Words, 204f.); ἀκούειν φωνήν (-ῆς; see: ἀκούω), Act.9:4, 7 al.; φ. βοῶντος, Mat.3:3, Mrk.1:3, Luk.3:4, Jhn.1:23\" (LXX) ; τ. θεοῦ, Jhn.5:37, Heb.3:7, al. By meton.,\n(α) of the speaker, βλέπειν τὴν φ., Rev.1:12; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φωνὴ",
+          "translit": "phōnē",
+          "gloss": "voice/sound"
+        },
+        {
+          "original": "φωνὴν",
+          "translit": "phōnēn",
+          "gloss": "voice/sound"
+        },
+        {
+          "original": "φωνῆς",
+          "translit": "phōnēs",
+          "gloss": "voice/sound"
+        },
+        {
+          "original": "φωνήν",
+          "translit": "phōnēn",
+          "gloss": "voice/sound"
+        },
+        {
+          "original": "φωνῇ",
+          "translit": "phōnēa",
+          "gloss": "voice/sound"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:23",
+        "John 3:8",
+        "John 3:29",
+        "John 5:25",
+        "John 5:28",
+        "John 5:37",
+        "John 10:3",
+        "John 10:4",
+        "John 10:5",
+        "John 10:16",
+        "John 10:27",
+        "John 11:43",
+        "John 12:28",
+        "John 12:30",
+        "John 18:37"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 129,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 3:17",
+          "found": true
+        },
+        {
+          "ref": "Luke 3:22",
+          "found": true
+        },
+        {
+          "ref": "Acts 9:4",
+          "found": true
+        },
+        {
+          "ref": "Revelation 1:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5456G, G5456H"
+      }
+    },
+    {
+      "id": "embrimaomai",
+      "strongs": [
+        "G1690"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1690",
+          "original": "ἐμβριμάομαι",
+          "transliteration": "embrimaomai",
+          "partOfSpeech": "G:V",
+          "gloss": "be agitated",
+          "meaning": "ἐμ-βριμάομαι (T, -έομαι; Bl., § 22, 1), -ῶμαι\n(βρίμη, strength, bulk, whence βριμάομαι, to snort with anger),\ndepon., with aor. mid. and pass.,\n[in LXX (Hatch, Essays, 25): Dan LXX 11:30 (also Aq., Psa.7:12; Sm., Isa.17:13) * ;]\nto snort in (of horses, Æsch.), hence, to speak or act with deep feeling (DCG, i, 62b);\n(a) to be moved with anger (cf. ἐμβρίμημα, La 2:6): with dative, Mrk.14:5, Jhn.11:33; ἐν ἑαυτῷ, Jhn.11:38;\n(b) to admonish sternly: with dative, Mat.9:30, Mrk.1:43.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐνεβριμήσατο",
+          "translit": "enebrimēsato",
+          "gloss": "be agitated"
+        },
+        {
+          "original": "ἐμβριμώμενος",
+          "translit": "embrimōmenos",
+          "gloss": "be agitated"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 11:33",
+        "John 11:38"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:30",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:43",
+          "found": true
+        },
+        {
+          "ref": "Mark 14:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1690"
+      }
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2837",
+          "original": "κοιμάω",
+          "transliteration": "koimaō",
+          "partOfSpeech": "G:V",
+          "gloss": "to sleep",
+          "meaning": "κοιμάω, -ῶ\n[in LXX chiefly for שָׁכַב ;]\nto lull to sleep, put to sleep. Mid and pass., to fall asleep (M, Pr., 162; M, Th., 1, 4, 13): Mat.28:13, Luk.22:45, Jhn.11:12, Act.12:6. Metaph, of death: Mat.27:52, Jhn.11:11 Act.7:60 13:36, 1Co.7:39 11:30 15:6 15:18 15:20 15:51, 1Th.4:13-15, 2Pe.3:4 (cf. Isa.14:8 43:17, 2Ma.12:45).†\nSYN.: καθεύδω (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κεκοίμηται",
+          "translit": "kekoimētai",
+          "gloss": "to sleep"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 11:11",
+        "John 11:12"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 18,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 27:52",
+          "found": true
+        },
+        {
+          "ref": "Acts 7:60",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:6",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 4:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2837"
+      }
+    },
+    {
+      "id": "nardos",
+      "strongs": [
+        "G3487"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3487",
+          "original": "νάρδος",
+          "transliteration": "nardos",
+          "partOfSpeech": "G:N-F",
+          "gloss": "nard",
+          "meaning": "νάρδος, -ου, ἡ\n(Heb. נֵרְדְּ, both from Sanscrit narda, see Boisacq, see word), [in LXX: Sng.1:12 4:13-14 (נֵרְדְּ)* ;]\nnard;\n(a) an Indian plant, the Nardostachys nardus jatamansi, used for the preparation of a fragrant ointment;\n(b) ointment of nard: Mrk.14:3, Jhn.12:3.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "νάρδου",
+          "translit": "nardou",
+          "gloss": "nard"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 12:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 14:3",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3487"
+      }
+    },
+    {
+      "id": "kokkos",
+      "strongs": [
+        "G2848"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2848",
+          "original": "κόκκος",
+          "transliteration": "kokkos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "seed",
+          "meaning": "κόκκος, -ου, ὁ\n[in LXX: La 4:5 B א R (תּוֹלָע), Sir.45:11 * ;]\na grain: Mat.13:31 17:20, Mrk.4:31, Luk.13:19 17:6, Jhn.12:24, 1Co.15:37.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κόκκος",
+          "translit": "kokkos",
+          "gloss": "seed"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 12:24"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 7,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 13:31",
+          "found": true
+        },
+        {
+          "ref": "Mark 4:31",
+          "found": true
+        },
+        {
+          "ref": "Luke 13:19",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:37",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2848"
+      }
+    },
+    {
+      "id": "archon",
+      "strongs": [
+        "G0758"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0758",
+          "original": "ἄρχων",
+          "transliteration": "archōn",
+          "partOfSpeech": "G:N-M",
+          "gloss": "ruler",
+          "meaning": "ἄρχων, -οντος, ὁ\n(present ptcp. of ἄρχω), [in LXX for נָשִׂיא., רֹאשׁ, שַׂר, etc. ;]\na ruler, chief: Jesus, Rev.1:5; rulers of nations, Mat.20:25, Act.4:26 7:35; magistrates, Act.23:5, Rom.13:3; judges, Luk.12:58, Act.7:27, 35 16:19; members of the Sanhedrin, Luk.14:1 23:13, 35 24:20, Jhn.3:1 7:26, 48 12:42, Act.3:17 4:5, 8 13:27 14:5; rulers of synagogues, Mat.9:18, 23, Luk.8:41 18:18; οἱ ἄ. τ. αἰῶνος τούτου, 1Co.2:6-8; of the devil: ἄ. τῶν δαιμονίων, Mat.9:34 12:24, Mrk.3:22, Luk.11:15; ὁ ἄ. τοῦ κόσμου, Jhn.12:31 14:30 16:11; ἄ. τ. ἐξουσίας τ. ἀέρος, Eph.2:2 (MM, see word; DB, iii, 838; Ext. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἄρχων",
+          "translit": "archōn",
+          "gloss": "ruler"
+        },
+        {
+          "original": "ἄρχοντες",
+          "translit": "archontes",
+          "gloss": "ruler"
+        },
+        {
+          "original": "ἀρχόντων",
+          "translit": "archontōn",
+          "gloss": "ruler"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 3:1",
+        "John 7:26",
+        "John 7:48",
+        "John 12:31",
+        "John 12:42",
+        "John 14:30",
+        "John 16:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 36,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:18",
+          "found": true
+        },
+        {
+          "ref": "Luke 18:18",
+          "found": true
+        },
+        {
+          "ref": "Acts 4:26",
+          "found": true
+        },
+        {
+          "ref": "Ephesians 2:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0758"
+      }
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1849",
+          "original": "ἐξουσία",
+          "transliteration": "exousia",
+          "partOfSpeech": "G:N-F",
+          "gloss": "authority",
+          "meaning": "ἐξουσία, -ας, ἡ\n(ἔξεστι), [in LXX: 4Ki.20:13, Psa.113 (114):2 135 (136)8, 9, Isa.39:2, Jer.28 (51):28 (מֶמְשָׁלָה), frequently in Da for Aram. שָׁלְטָן, etc., Wis.10:14, Sir.9:13, al. ;]\n1. prop., liberty or power to act, freedom to exercise the inward force or faculty expressed by δύναμις (which see): 1Co.9:12; ἐ. ἔχειν, 2Th.3:9; id. before inf., Jhn.10:18, 1Co.9:4, 5; with genitive obj., Rom.9:21; before ἐπί, with accusative, Rev.22:14; περί, 1Co.7:37. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐξουσίαν",
+          "translit": "exousian",
+          "gloss": "authority"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 1:12",
+        "John 5:27",
+        "John 10:18",
+        "John 17:2",
+        "John 19:10",
+        "John 19:11"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 93,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 28:18",
+          "found": true
+        },
+        {
+          "ref": "Romans 13:1",
+          "found": true
+        },
+        {
+          "ref": "Colossians 1:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1849"
+      }
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0386",
+          "original": "ἀνάστασις",
+          "transliteration": "anastasis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "resurrection",
+          "meaning": "ἀνά-στασις, -εως, ή\n(ἀνίστημι), [in LXX: Zep.3:8 (קוּם), La 3:63 (קִימָה), קִימָה), Psa.66:1-20 title., Dan LXX 11:20, 2Ma.7:14 2Mac 12:43 * ;]\n1. a raising up, awakening, rising (in Inscr. of the erection of a monument, see MM, VGT, see word): Luk.2:34.\n2. a rising from the dead (see DCG, ii, 605b);\n(a) of Christ: Act.1:22 2:31 4:33 Rom.6:5, Php.3:10, 1Pe.3:21; ἐξ ἀ. νεκρῶν, Rom.1:4 (ICC, in l); ἐκ νεκρῶν, 1Pe.1:3;\n(b) of persons in OT hist. (e.g. 3Ki.17:17 ff.): Heb.11:35; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀνάστασιν",
+          "translit": "anastasin",
+          "gloss": "resurrection"
+        },
+        {
+          "original": "ἀναστάσει",
+          "translit": "anastasei",
+          "gloss": "resurrection"
+        },
+        {
+          "original": "ἀνάστασις",
+          "translit": "anastasis",
+          "gloss": "resurrection"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 5:29",
+        "John 11:24",
+        "John 11:25"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 40,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 20:35",
+          "found": true
+        },
+        {
+          "ref": "Acts 4:2",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:12",
+          "found": true
+        },
+        {
+          "ref": "Revelation 20:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0386"
+      }
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4892",
+          "original": "συνέδριον",
+          "transliteration": "sunedrion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "council",
+          "meaning": "συνέδριον, -ου, τό\n(σύν + ἕδρα, a seat) [in LXX: Pro.11:13 15:22, Jer.15:17 (סוֹד), Psa.26:4 (מַת), Pro.22:10 (דִּין) Pro.26:26 (קָהָל); Pro.24:7 27:22 31:23, 2Ma.14:5, 4Ma.17:17 * ;]\n1. a council (Plat., Xen., al.; LXX; in π., σ. τ. πρεσβυτέρων, Deiss., BS, 156): of a local Jewish tribunal, Mat.10:17, Mrk.13:9. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "συνέδριον",
+          "translit": "sunedrion",
+          "gloss": "council"
+        }
+      ],
+      "occurrencesInBook": [
+        "John 11:47"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 22,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 26:59",
+          "found": true
+        },
+        {
+          "ref": "Mark 14:55",
+          "found": true
+        },
+        {
+          "ref": "Luke 22:66",
+          "found": true
+        },
+        {
+          "ref": "Acts 5:21",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4892"
+      }
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5614",
+          "original": "ὡσαννά",
+          "transliteration": "hōsanna",
+          "partOfSpeech": "H:INJ",
+          "gloss": "Hosanna",
+          "meaning": "ὡσαννά (T, ὠσ-) (Heb נָא and הוֹשֵׁעַ; see Dalman, Words, 220 IL; Gr., 249),\nhosanna: Mat.21:9, Mrk.11:9-10, Jhn.12:13; τ. υἱῷ Δανείδ, Mat.21:9, 15.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὡσαννά",
+          "translit": "hōsanna",
+          "gloss": "Hosanna! "
+        }
+      ],
+      "occurrencesInBook": [
+        "John 12:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:9",
+          "found": true
+        },
+        {
+          "ref": "Mark 11:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5614"
+      }
     }
   ]
 }

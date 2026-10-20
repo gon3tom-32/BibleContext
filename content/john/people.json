@@ -138,5 +138,65 @@
     "id": "abraham",
     "name": "Abraham",
     "note": "The ancestor of Israel."
+  },
+  {
+    "id": "the-man-born-blind",
+    "name": "The man born blind",
+    "note": "Unnamed; healed at Siloam."
+  },
+  {
+    "id": "the-parents-of-the-blind-man",
+    "name": "The man's parents",
+    "note": "Afraid to say more."
+  },
+  {
+    "id": "the-crowds-beyond-the-jordan",
+    "name": "The people beyond the Jordan",
+    "note": "Many believed there."
+  },
+  {
+    "id": "lazarus",
+    "name": "Lazarus",
+    "note": "Brother of Martha and Mary, from Bethany."
+  },
+  {
+    "id": "martha",
+    "name": "Martha",
+    "note": "Sister of Lazarus and Mary."
+  },
+  {
+    "id": "mary-of-bethany",
+    "name": "Mary",
+    "note": "Sister of Lazarus and Martha."
+  },
+  {
+    "id": "thomas",
+    "name": "Thomas",
+    "note": "One of the twelve, called Didymus (\"twin\")."
+  },
+  {
+    "id": "the-jews-of-bethany",
+    "name": "The mourners at Bethany",
+    "note": "People who came to console the sisters."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "High priest from about AD 18 to 36."
+  },
+  {
+    "id": "the-council",
+    "name": "The council",
+    "note": "The Sanhedrin, led by the chief priests and Pharisees."
+  },
+  {
+    "id": "the-greeks",
+    "name": "Some Greeks",
+    "note": "Gentile worshipers at the feast."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "Senior priests who sat on the council."
   }
 ]

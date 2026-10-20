@@ -352,6 +352,173 @@
         "item": "judas_1760",
         "recordStatus": "publish"
       }
+    },
+    {
+      "id": "lazarus",
+      "name": "Lazarus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [],
+      "verses": [],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "lazarus_1811",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "martha",
+      "name": "Martha",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Lazarus"
+          },
+          {
+            "name": "Mary",
+            "id": "mary-of-bethany"
+          }
+        ]
+      },
+      "chapters": [
+        11,
+        12
+      ],
+      "verses": [
+        "John 11:1",
+        "John 11:5",
+        "John 11:19",
+        "John 11:20",
+        "John 11:21",
+        "John 11:24",
+        "John 11:30",
+        "John 11:39",
+        "John 12:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "martha_1937",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "mary-of-bethany",
+      "name": "Mary",
+      "displayTitle": "Mary (sister of Lazarus)",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Lazarus"
+          },
+          {
+            "name": "Martha",
+            "id": "martha"
+          }
+        ]
+      },
+      "chapters": [
+        11,
+        12
+      ],
+      "verses": [
+        "John 11:1",
+        "John 11:2",
+        "John 11:19",
+        "John 11:20",
+        "John 11:28",
+        "John 11:31",
+        "John 11:32",
+        "John 11:45",
+        "John 12:3"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1939",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "alsoCalled": "Didymus",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11,
+        14,
+        20,
+        21
+      ],
+      "verses": [
+        "John 11:16",
+        "John 14:5",
+        "John 20:24",
+        "John 20:26",
+        "John 20:27",
+        "John 20:28",
+        "John 20:29",
+        "John 21:2"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "thomas_2851",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "caiaphas",
+      "name": "Caiaphas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        11,
+        18
+      ],
+      "verses": [
+        "John 11:49",
+        "John 18:13",
+        "John 18:14",
+        "John 18:24",
+        "John 18:28"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "caiaphas_532",
+        "recordStatus": "publish"
+      }
     }
   ]
 }

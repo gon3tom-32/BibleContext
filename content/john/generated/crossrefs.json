@@ -766,7 +766,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 35:5",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Isaiah 42:7",
+          "inDataset": true,
+          "votes": 12
+        },
+        {
+          "ref": "Exodus 4:11",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Isaiah 6:9-10",
+          "inDataset": true,
+          "votes": 2
+        }
+      ]
     },
     {
       "number": 10,
@@ -831,7 +852,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Ezekiel 34:11-16",
+          "inDataset": true,
+          "votes": 47
+        },
+        {
+          "ref": "Psalm 23:1",
+          "inDataset": true,
+          "votes": 73
+        },
+        {
+          "ref": "Psalm 82:6",
+          "inDataset": true,
+          "votes": 113
+        },
+        {
+          "ref": "Isaiah 40:11",
+          "inDataset": true,
+          "votes": 60
+        },
+        {
+          "ref": "Jeremiah 23:1-4",
+          "inDataset": true,
+          "votes": 4
+        }
+      ]
     },
     {
       "number": 11,
@@ -894,7 +941,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 12:2",
+          "inDataset": true,
+          "votes": 20
+        },
+        {
+          "ref": "Isaiah 25:8",
+          "inDataset": true,
+          "votes": 3
+        },
+        {
+          "ref": "Isaiah 26:19",
+          "inDataset": true,
+          "votes": 40
+        },
+        {
+          "ref": "Job 19:25-26",
+          "inDataset": true,
+          "votes": 27
+        },
+        {
+          "ref": "1 Thessalonians 4:14",
+          "inDataset": true,
+          "votes": 84
+        }
+      ]
     },
     {
       "number": 12,
@@ -957,7 +1030,33 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Zechariah 9:9",
+          "inDataset": true,
+          "votes": 63
+        },
+        {
+          "ref": "Psalm 118:25-26",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Isaiah 53:1",
+          "inDataset": true,
+          "votes": 28
+        },
+        {
+          "ref": "Isaiah 6:10",
+          "inDataset": true,
+          "votes": 57
+        },
+        {
+          "ref": "Deuteronomy 15:11",
+          "inDataset": true,
+          "votes": 14
+        }
+      ]
     },
     {
       "number": 13,

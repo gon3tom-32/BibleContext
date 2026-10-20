@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "A man born blind, a pool called Sent, and who really cannot see",
+  "summary": "As Jesus passes by, he sees a man blind from birth. His disciples ask, \"Rabbi, who sinned, this man or his parents, that he was born blind?\" Jesus answers, \"Neither did this man sin, nor his parents, but that the works of God might be revealed in him. I must work the works of him who sent me, while it is day. The night is coming, when no one can work. While I am in the world, I am the light of the world.\" He spits on the ground, makes mud with the saliva, anoints the man's eyes with it, and says, \"Go, wash in the pool of Siloam\" (which means Sent). The man goes, washes, and comes back seeing. The neighbors ask whether this is the one who used to sit and beg, and some say yes and some say no, but he says, \"I am he.\" They bring him to the Pharisees, because it was a Sabbath when Jesus made the mud. The Pharisees ask how he received his sight. \"He put mud on my eyes, I washed, and I see.\" Some say, \"This man is not from God, because he doesn't keep the Sabbath,\" while others say, \"How can a man who is a sinner do such signs?\" and there is division. They ask the man, \"What do you say about him, because he opened your eyes?\" \"He is a prophet.\" The Jews don't believe he had been blind, so they call his parents: \"Is this your son, who you say was born blind? How then does he now see?\" The parents say, \"We know that this is our son, and that he was born blind, but how he now sees, or who opened his eyes, we don't know. He is of age. Ask him.\" John explains that they said this because they feared the Jews, who had already agreed that if anyone confessed him as Christ, he would be put out of the synagogue. They call the man a second time: \"Give glory to God. We know that this man is a sinner.\" He answers, \"Whether he is a sinner, I don't know. One thing I do know: that though I was blind, now I see.\" \"What did he do to you? How did he open your eyes?\" \"I told you already, and you didn't listen. Why do you want to hear it again? You don't also want to become his disciples, do you?\" They revile him: \"You are his disciple, but we are Moses' disciples. We know that God has spoken to Moses. But as for this man, we don't know where he comes from.\" The man answers, \"How amazing! You don't know where he comes from, yet he opened my eyes. We know that God doesn't listen to sinners, but if anyone is a worshipper of God, and does his will, he listens to him. Since the world began it has never been heard of that anyone opened the eyes of someone born blind. If this man were not from God, he could do nothing.\" They answer, \"You were altogether born in sins, and do you teach us?\" and throw him out. Jesus hears that they have thrown him out, and finding him says, \"Do you believe in the Son of Man?\" \"Who is he, Lord, that I may believe in him?\" \"You have both seen him, and it is he who speaks with you.\" \"Lord, I believe,\" and he worships him. Jesus says, \"I came into this world for judgment, that those who don't see may see; and that those who see may become blind.\" Some Pharisees ask, \"Are we also blind?\" Jesus says, \"If you were blind, you would have no sin. But now you say, 'We see.' Therefore your sin remains.\"",
+  "whySettingMatters": "The disciples' question reflects a common assumption that suffering is the result of sin, the same assumption Jesus answers in Luke 13:1-5; Jesus rejects it and turns the question to what God will do. The pool of Siloam was at the southern end of the City of David, fed through the tunnel King Hezekiah dug from the Gihon spring, and its name means \"sent\" (Hebrew Shiloah, as in Isaiah 8:6). Making mud counted as kneading and so as Sabbath work, and healing with saliva was a recognized folk remedy that rabbis restricted on the Sabbath. This chapter is one of the strongest examples of John's irony: the blind man gradually sees more and more, from \"the man called Jesus\" to prophet to \"from God\" to \"Lord,\" while those who claim to see grow more blind. The parents' fear refers to expulsion from the synagogue, a theme John returns to at 12:42 and 16:2. Whether a formal exclusion of Christians was in place in Jesus' time or in John's own is debated; the references may reflect the situation of John's community when the Gospel was written. \"Son of Man\" here is the title Jesus uses for himself. The man's worship is the point of the story, and the verb is the same one used for the worship of God.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Heals a man born blind, and then finds him after he's thrown out."
+    },
+    {
+      "id": "the-man-born-blind",
+      "note": "Given sight, questioned repeatedly, and expelled; he ends by worshiping Jesus."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Ask whose sin caused his blindness."
+    },
+    {
+      "id": "the-parents-of-the-blind-man",
+      "note": "Confirm he was born blind, but won't say more."
+    },
+    {
+      "id": "the-pharisees",
+      "note": "Investigate and divide over the sign."
+    },
+    {
+      "id": "the-jews",
+      "note": "The authorities, who threatened to expel anyone who confessed Jesus as Christ."
+    }
+  ],
+  "questions": [
+    "The disciples ask who sinned. What does Jesus' answer change about how to read suffering?",
+    "The man's account of Jesus grows from \"the man called Jesus\" to \"Lord, I believe.\" What moves him along?",
+    "His parents say \"He is of age; ask him.\" How do you read their fear?",
+    "Jesus says some who see become blind. Who is he talking about, and how do you tell?"
+  ],
+  "words": [
+    {
+      "id": "typhlos",
+      "note": "\"A man blind from birth\" (9:1-2, 9:17-25, 9:39-41)."
+    },
+    {
+      "id": "aposynagogos",
+      "note": "\"He would be put out of the synagogue\" (9:22)."
+    },
+    {
+      "id": "phos",
+      "note": "\"I am the light of the world\" (9:5)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "\"Lord, I believe,\" and he worshiped him (9:38)."
+    },
+    {
+      "id": "krisis",
+      "note": "\"I came into this world for judgment\" (9:39)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Who sinned?\" and \"Your sin remains\" (9:2, 9:34, 9:41)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 35:5",
+      "note": "the eyes of the blind opened"
+    },
+    {
+      "ref": "Isaiah 42:7",
+      "note": "to open the eyes that are blind"
+    },
+    {
+      "ref": "Exodus 4:11",
+      "note": "\"Who makes him mute, or deaf, or seeing, or blind?\""
+    },
+    {
+      "ref": "Isaiah 6:9-10",
+      "note": "seeing, but not perceiving"
+    }
+  ],
+  "number": 9,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

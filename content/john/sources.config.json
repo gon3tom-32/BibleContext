@@ -147,6 +147,26 @@
     {
       "id": "judas-iscariot",
       "theographic": "judas_1760"
+    },
+    {
+      "id": "lazarus",
+      "theographic": "lazarus_1811"
+    },
+    {
+      "id": "martha",
+      "theographic": "martha_1937"
+    },
+    {
+      "id": "mary-of-bethany",
+      "theographic": "mary_1939"
+    },
+    {
+      "id": "thomas",
+      "theographic": "thomas_2851"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
     }
   ],
   "words": [
@@ -395,6 +415,105 @@
         "G1228"
       ],
       "foundAt": "John 8:44"
+    },
+    {
+      "id": "typhlos",
+      "strongs": [
+        "G5185"
+      ],
+      "foundAt": "John 9:1"
+    },
+    {
+      "id": "aposynagogos",
+      "strongs": [
+        "G0656"
+      ],
+      "foundAt": "John 9:22"
+    },
+    {
+      "id": "poimen",
+      "strongs": [
+        "G4166"
+      ],
+      "foundAt": "John 10:2"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "John 10:1"
+    },
+    {
+      "id": "phone",
+      "strongs": [
+        "G5456G",
+        "G5456H"
+      ],
+      "foundAt": "John 10:3"
+    },
+    {
+      "id": "embrimaomai",
+      "strongs": [
+        "G1690"
+      ],
+      "foundAt": "John 11:33"
+    },
+    {
+      "id": "koimao",
+      "strongs": [
+        "G2837"
+      ],
+      "foundAt": "John 11:11"
+    },
+    {
+      "id": "nardos",
+      "strongs": [
+        "G3487"
+      ],
+      "foundAt": "John 12:3"
+    },
+    {
+      "id": "kokkos",
+      "strongs": [
+        "G2848"
+      ],
+      "foundAt": "John 12:24"
+    },
+    {
+      "id": "archon",
+      "strongs": [
+        "G0758"
+      ],
+      "foundAt": "John 12:31"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "John 10:18"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "John 11:24"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "John 11:47"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "John 12:13"
     }
   ],
   "crossRefs": {
@@ -412,7 +531,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 9 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 13 to 21 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }
