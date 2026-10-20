@@ -1,0 +1,82 @@
+{
+  "sceneHappening": "Three stories about the lost, told to people who grumble",
+  "summary": "Tax collectors and sinners are all drawing near to listen to Jesus, and the Pharisees and scribes grumble, \"This man welcomes sinners, and eats with them.\" He tells them three stories. A man with a hundred sheep loses one, leaves the ninety-nine in the wilderness, and goes after the lost one until he finds it; he lays it on his shoulders rejoicing, and calls friends and neighbors to rejoice with him. \"There will be joy in heaven over one sinner who repents, more than over ninety-nine righteous people who have no need for repentance.\" A woman with ten silver coins loses one, lights a lamp, sweeps the house, and searches carefully until she finds it, and calls her friends and neighbors: \"Rejoice with me, for I have found the drachma which I had lost.\" \"There is joy in the presence of the angels of God over one sinner repenting.\" Then he tells of a man with two sons. The younger says, \"Father, give me my share of your property,\" and the father divides his living. A few days later the younger son gathers everything and travels to a far country, where he wastes it in reckless living. When he has spent it all, a severe famine comes and he is in need. He hires himself out to a citizen who sends him to feed pigs, and he longs to fill his stomach with the pods the pigs eat, and no one gives him anything. \"But when he came to himself\" he says, \"How many hired servants of my father's have bread enough to spare, and I'm dying with hunger! I will get up and go to my father, and will tell him, 'Father, I have sinned against heaven, and in your sight. I am no more worthy to be called your son. Make me as one of your hired servants.'\" While he is still far off, his father sees him and is moved with compassion, runs, falls on his neck, and kisses him. The son starts his speech, but the father says to his servants, \"Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet. Bring the fattened calf, kill it, and let's eat and celebrate; for this, my son, was dead, and is alive again. He was lost, and is found.\" The elder son comes in from the field, hears music and dancing, and is angry and won't go in. His father comes out to plead with him, and he answers, \"Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends. But when this, your son, came, who has devoured your living with prostitutes, you killed the fattened calf for him.\" The father says, \"Son, you are always with me, and all that is mine is yours. But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.\" The story ends there.",
+  "whySettingMatters": "The three stories answer the complaint in verse 2, that Jesus eats with sinners, and the third story leaves the older son, who stands for the grumbling Pharisees, outside the party. In the Old Testament God is described as the shepherd who seeks the lost sheep (Ezekiel 34:11-16), so the first story casts Jesus' own work in God's role. A drachma was a silver coin worth about a day's wage, so the woman's search is for something real but small. In the third story, asking for an inheritance while the father is alive was a way of saying you wish him dead, and a father giving it up shows great patience. Feeding pigs was the lowest job a Jewish man could do, since pigs are unclean, and wanting the pods is a picture of complete need. The father running was undignified for an elderly man in a culture that valued composure, and shows his joy and his willingness to shield his son from the village's scorn. The robe, ring, and shoes mark him as a restored son, not a servant. The older brother calls him \"this son of yours,\" and the father answers, \"this brother of yours.\" Whether the older son goes in is left open, and Luke is telling the Pharisees that the choice is theirs.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "Tells the three stories."
+    },
+    {
+      "id": "the-tax-collectors",
+      "note": "Drawing near to listen."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "The Pharisees and scribes who grumble."
+    },
+    {
+      "id": "the-father",
+      "note": "Runs to meet the son and pleads with the other."
+    },
+    {
+      "id": "the-younger-son",
+      "note": "Wastes his inheritance and returns."
+    },
+    {
+      "id": "the-older-son",
+      "note": "Angry at the welcome, standing outside."
+    }
+  ],
+  "questions": [
+    "Jesus tells three stories in a row about something lost and found. What does the repetition do?",
+    "What is it that makes the younger son turn back, and what does he expect to find?",
+    "The father runs. Why does Jesus include that detail?",
+    "The story ends before we know whether the older brother goes in. Why would Jesus leave it open?"
+  ],
+  "words": [
+    {
+      "id": "apollymi",
+      "note": "\"Lost\" and \"perish\": the sheep, the coin, the son (15:4-9, 15:17, 15:24, 15:32)."
+    },
+    {
+      "id": "chara",
+      "note": "\"Joy in heaven over one sinner who repents\" (15:7, 15:10, 15:32)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "The father \"was moved with compassion\" (15:20)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"This man welcomes sinners\" (15:1-2), and \"one sinner who repents\" (15:7, 15:10)."
+    },
+    {
+      "id": "metanoia",
+      "note": "\"Repentance\" (15:7, 15:10)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Ezekiel 34:11-16",
+      "note": "God himself will seek out the lost sheep"
+    },
+    {
+      "ref": "Hosea 11:8-9",
+      "note": "\"How can I give you up?\""
+    },
+    {
+      "ref": "Psalm 119:176",
+      "note": "\"I have gone astray like a lost sheep\""
+    },
+    {
+      "ref": "Isaiah 49:15",
+      "note": "can a woman forget her nursing child?"
+    }
+  ],
+  "number": 15,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -190,6 +190,10 @@
     {
       "id": "mary-of-bethany",
       "theographic": "mary_1939"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
     }
   ],
   "words": [
@@ -493,6 +497,162 @@
         "G1127"
       ],
       "foundAt": "Luke 12:37"
+    },
+    {
+      "id": "agonizomai",
+      "strongs": [
+        "G0075"
+      ],
+      "foundAt": "Luke 13:24"
+    },
+    {
+      "id": "ptochos",
+      "strongs": [
+        "G4434"
+      ],
+      "foundAt": "Luke 14:13"
+    },
+    {
+      "id": "miseo",
+      "strongs": [
+        "G3404"
+      ],
+      "foundAt": "Luke 14:26"
+    },
+    {
+      "id": "apotassomai",
+      "strongs": [
+        "G0657"
+      ],
+      "foundAt": "Luke 14:33"
+    },
+    {
+      "id": "apollymi",
+      "strongs": [
+        "G0622"
+      ],
+      "foundAt": "Luke 15:4"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "Luke 15:7"
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "foundAt": "Luke 16:1"
+    },
+    {
+      "id": "hades",
+      "strongs": [
+        "G0086"
+      ],
+      "foundAt": "Luke 16:23"
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "foundAt": "Luke 13:3"
+    },
+    {
+      "id": "mamonas",
+      "strongs": [
+        "G3126"
+      ],
+      "foundAt": "Luke 16:9"
+    },
+    {
+      "id": "entos",
+      "strongs": [
+        "G1787"
+      ],
+      "foundAt": "Luke 17:21"
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "foundAt": "Luke 17:16"
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "foundAt": "Luke 17:13"
+    },
+    {
+      "id": "hilaskomai",
+      "strongs": [
+        "G2433"
+      ],
+      "foundAt": "Luke 18:13"
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "foundAt": "Luke 18:14"
+    },
+    {
+      "id": "mna",
+      "strongs": [
+        "G3414"
+      ],
+      "foundAt": "Luke 19:13"
+    },
+    {
+      "id": "episkope",
+      "strongs": [
+        "G1984"
+      ],
+      "foundAt": "Luke 19:44"
+    },
+    {
+      "id": "agapetos",
+      "strongs": [
+        "G0027"
+      ],
+      "foundAt": "Luke 20:13"
+    },
+    {
+      "id": "phoros",
+      "strongs": [
+        "G5411"
+      ],
+      "foundAt": "Luke 20:22"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "Luke 20:27"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "Luke 17:3"
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "foundAt": "Luke 19:46"
     }
   ],
   "crossRefs": {
@@ -510,7 +670,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 13 to 24 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 21 to 24 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     }
   ]
 }

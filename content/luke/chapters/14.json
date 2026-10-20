@@ -1,0 +1,74 @@
+{
+  "sceneHappening": "A Sabbath dinner, a great banquet, and the cost of following",
+  "summary": "On a Sabbath Jesus goes to eat at the house of a leader of the Pharisees, and they are watching him closely. A man with dropsy is in front of him. Jesus asks the lawyers and Pharisees, \"Is it lawful to heal on the Sabbath, or not?\" They are silent. He takes the man, heals him, and sends him away, then asks, \"Which of you, if your son or an ox fell into a well, wouldn't immediately pull him out on a Sabbath day?\" They can't answer. Noticing how guests choose the places of honor, he says, \"When you are invited by anyone to a wedding feast, don't sit in the place of honor, in case someone more honorable than you is invited,\" but go to the lowest place, so the host will say, \"Friend, move up higher.\" \"For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.\" To his host he says, \"When you make a dinner or a supper, don't call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or they may also return the favor. But when you make a feast, ask the poor, the maimed, the lame, or the blind; and you will be blessed, because they don't have the resources to repay you. For you will be repaid in the resurrection of the righteous.\" One of the guests says, \"Blessed is he who will feast in the Kingdom of God!\" and Jesus tells of a man who gives a great supper and invites many. At supper time he sends his servant to say, \"Come, for everything is ready now.\" They all begin to make excuses: one has bought a field and must go see it, another has bought five yoke of oxen and must test them, another has married a wife and cannot come. The master is angry and sends the servant to the streets and lanes of the city to bring in the poor, the maimed, the blind, and the lame. When there is still room, he says, \"Go out into the highways and hedges, and compel them to come in, that my house may be filled. For I tell you that none of those men who were invited will taste of my supper.\" Large crowds are traveling with him, and he turns and says, \"If anyone comes to me, and doesn't hate his own father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can't be my disciple. Whoever doesn't bear his own cross, and come after me, can't be my disciple.\" He tells of a man who builds a tower, who first sits down and counts the cost, lest he lay a foundation and be unable to finish, and a king going to war who sits down and considers whether he can meet an army of twenty thousand with ten thousand. \"So therefore whoever of you who doesn't renounce all that he has, he can't be my disciple.\" Salt is good, but if the salt has lost its flavor, it is good for neither the soil nor the manure pile. \"He who has ears to hear, let him hear.\"",
+  "whySettingMatters": "Meals in this world ran on honor. Seating showed rank, invitations were returned, and one's standing rose or fell with the guest list, which is why Jesus' advice about places and invitations hits so hard. The guests who \"watch him\" are the host's circle, and Jesus uses the table to turn their rules upside down. Dropsy (swelling from fluid retention) was a recognized illness. The poor, maimed, lame, and blind are people the Dead Sea Scrolls' community excluded from its meals, so naming them as the guests is deliberate. Banquet invitations were sent twice, once ahead of time and again when the meal was ready, so the excuses mean the guests had already accepted. The excuses are weak: no one buys a field unseen, or oxen untested, and a newly married man was exempt from war in Deuteronomy 20:7, which may be the point of the third excuse. \"Hate\" in 14:26 is Semitic hyperbole for loving less than Jesus (see Matthew 10:37); \"his own life also\" shows it is about priorities, not feelings. The tower builder and the king are both figures who count before they commit. \"Bear his own cross\" would remind hearers of Roman crucifixion, in which the condemned carried the crossbeam. Salt that loses its taste is a puzzle, since pure salt does not; the saying is about discipleship that has lost its character.",
+  "people": [
+    {
+      "id": "jesus",
+      "note": "A guest at a Pharisee's table, who tells the host how to invite."
+    },
+    {
+      "id": "religious-leaders",
+      "note": "The Pharisees and lawyers who are watching him."
+    },
+    {
+      "id": "the-man-with-dropsy",
+      "note": "Healed on the Sabbath, in front of the guests."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Travel with him and are told what following costs."
+    }
+  ],
+  "questions": [
+    "Jesus tells a host to invite those who can't repay him. What would that cost in a world run on honor?",
+    "The guests all had good-sounding excuses. What do the excuses show about what they were choosing?",
+    "\"Hate your father and mother\" is hyperbole. What is Jesus' actual point about priority?",
+    "Count the cost, he says, but he gives no way out. What is the counting for?"
+  ],
+  "words": [
+    {
+      "id": "ptochos",
+      "note": "\"Ask the poor, the maimed, the lame, the blind\" (14:13, 14:21)."
+    },
+    {
+      "id": "miseo",
+      "note": "\"Doesn't hate his own father and mother\" (14:26)."
+    },
+    {
+      "id": "apotassomai",
+      "note": "\"Whoever doesn't renounce all that he has\" (14:33)."
+    },
+    {
+      "id": "stauros",
+      "note": "\"Whoever doesn't bear his own cross\" (14:27)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"Blessed is he who will feast in the Kingdom of God\" (14:15)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 25:6-7",
+      "note": "don't take the king's place; be invited up"
+    },
+    {
+      "ref": "Isaiah 25:6-9",
+      "note": "a feast for all peoples"
+    },
+    {
+      "ref": "Proverbs 24:27",
+      "note": "prepare your work outside before building your house"
+    },
+    {
+      "ref": "Philippians 3:8",
+      "note": "counting everything as loss for the sake of Christ"
+    }
+  ],
+  "number": 14,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

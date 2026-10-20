@@ -859,6 +859,44 @@
         "item": "mary_1939",
         "recordStatus": "wip"
       }
+    },
+    {
+      "id": "pilate",
+      "name": "Pontius",
+      "displayTitle": "Pontius Pilate",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        3,
+        13,
+        23
+      ],
+      "verses": [
+        "Luke 3:1",
+        "Luke 13:1",
+        "Luke 23:1",
+        "Luke 23:3",
+        "Luke 23:4",
+        "Luke 23:6",
+        "Luke 23:11",
+        "Luke 23:12",
+        "Luke 23:13",
+        "Luke 23:20",
+        "Luke 23:24",
+        "Luke 23:52"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "pilate_2365",
+        "recordStatus": "publish"
+      }
     }
   ]
 }

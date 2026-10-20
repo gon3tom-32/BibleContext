@@ -3207,6 +3207,1485 @@
         "fetched": "2026-10-19",
         "item": "G1127"
       }
+    },
+    {
+      "id": "agonizomai",
+      "strongs": [
+        "G0075"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0075",
+          "original": "ἀγωνίζομαι",
+          "transliteration": "agōnizomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to struggle",
+          "meaning": "ἀγωνίζομαι\n(ἀγών), [in LXX: Da TH 6:14 (שׂוּם בָּל), Sir.4:28, I, II, 4Mac .5 * ;]\n1. to contend for a prize: 1Co.9:25,\n2. to fight, struggle, strive: Jhn.18:36; metaphorically (MM, VGT, see word). Col.1:29 4:12, 1Ti.4:10 6:12, 2Ti.4:7; with inf. (Field, Notes, 66), Luk.13:24 (Cremer, 609)\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀγωνίζεσθε",
+          "translit": "agōnizesthe",
+          "gloss": "to struggle"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 13:24"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 8,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Corinthians 9:25",
+          "found": true
+        },
+        {
+          "ref": "Colossians 1:29",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 6:12",
+          "found": true
+        },
+        {
+          "ref": "John 18:36",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0075"
+      }
+    },
+    {
+      "id": "ptochos",
+      "strongs": [
+        "G4434"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4434",
+          "original": "πτωχός",
+          "transliteration": "ptōchos",
+          "partOfSpeech": "G:N",
+          "gloss": "poor",
+          "meaning": "πτωχός, -ή, -όν\n(πτώσσω, to crouch, cower), [in LXX for עָנִי, דַּל, רָשׁ, etc. ;]\nof one who crouches and cowers, hence,\n1. as subst., a beggar: Luk.14:13, 21 16:20, 22.\n2. As adj.,\n(a) prop., beggarly: metaphorically, στοιχεῖα, Gal.4:9 (see Lft., in l);\n(b) in broader sense (opposite to πλούσιος), poor: Mat.11:5 19:21 26:9, 11, Mrk.10:21 12:42-43 14:5, 7, Luk.4:18 7:22 18:22 19:8 21:3, Jhn.12:5-6, 8 13:29, Rom.15:26, 2Co.6:10, Gal.2:10, Jas.2:2-3, 6, Rev.13:16; π. τ. κόσμῳ, Jas.2:5; metaphorically, Luk.6:20, Rev.3:17; π. τ. πνεύματι, Mat.5:3.†\nSYN.: πένης, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "πτωχοῖς",
+          "translit": "ptōchois",
+          "gloss": "poor"
+        },
+        {
+          "original": "πτωχοί",
+          "translit": "ptōchoi",
+          "gloss": "poor"
+        },
+        {
+          "original": "πτωχοὶ",
+          "translit": "ptōchoi",
+          "gloss": "poor"
+        },
+        {
+          "original": "πτωχούς",
+          "translit": "ptōchous",
+          "gloss": "poor"
+        },
+        {
+          "original": "πτωχοὺς",
+          "translit": "ptōchous",
+          "gloss": "poor"
+        },
+        {
+          "original": "πτωχὸς",
+          "translit": "ptōchos",
+          "gloss": "poor"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 4:18",
+        "Luke 6:20",
+        "Luke 7:22",
+        "Luke 14:13",
+        "Luke 14:21",
+        "Luke 16:20",
+        "Luke 16:22",
+        "Luke 18:22",
+        "Luke 19:8",
+        "Luke 21:3"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 34,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 11:5",
+          "found": true
+        },
+        {
+          "ref": "Mark 10:21",
+          "found": true
+        },
+        {
+          "ref": "James 2:5",
+          "found": true
+        },
+        {
+          "ref": "Galatians 2:10",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4434"
+      }
+    },
+    {
+      "id": "miseo",
+      "strongs": [
+        "G3404"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3404",
+          "original": "μισέω",
+          "transliteration": "miseō",
+          "partOfSpeech": "G:V",
+          "gloss": "to hate",
+          "meaning": "μισέω, -ῶ\n[in LXX chiefly for שָׂנֵא ;]\nto hate: with accusative of person(s) Mat.5:43 24:10, Luk.1:71 6:22, 27 19:14, Jhn.7:7 15:18-19, 23-26 17:14, Tit.3:3, 1Jn.2:9 Jn 2:11 Jn 3:13 Jn 3:15 Jn 4:20 Rev.17:16; pass., Mat.10:22 24:9, Mrk.13:13, Luk.21:17; with accusative of thing(s), Jhn.3:20, Rom.7:15, Eph.5:29, Heb.1:9, Ju 23, Rev.2:6; pass., Rev.18:2. As the Heb. שָׂנֵא is sometimes found with the modified sense of indifference to or relative disregard for one thing in comparison with another (cf. Gen.29:30-31, Deu.21:15-16, Mal.1:3) so prob. μ. in the foll.: Mat.6:24, Luk.14:26 16:13, Jhn.1 …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μισούντων",
+          "translit": "misountōn",
+          "gloss": "to hate"
+        },
+        {
+          "original": "μισήσωσιν",
+          "translit": "misēsōsin",
+          "gloss": "to hate"
+        },
+        {
+          "original": "μισοῦσιν",
+          "translit": "misousin",
+          "gloss": "to hate"
+        },
+        {
+          "original": "μισεῖ",
+          "translit": "misei",
+          "gloss": "to hate"
+        },
+        {
+          "original": "μισήσει",
+          "translit": "misēsei",
+          "gloss": "to hate"
+        },
+        {
+          "original": "ἐμίσουν",
+          "translit": "emisoun",
+          "gloss": "to hate"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 1:71",
+        "Luke 6:22",
+        "Luke 6:27",
+        "Luke 14:26",
+        "Luke 16:13",
+        "Luke 19:14",
+        "Luke 21:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 37,
+      "elsewhereCheck": [
+        {
+          "ref": "John 15:18",
+          "found": true
+        },
+        {
+          "ref": "John 12:25",
+          "found": true
+        },
+        {
+          "ref": "Romans 9:13",
+          "found": true
+        },
+        {
+          "ref": "Matthew 6:24",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3404"
+      }
+    },
+    {
+      "id": "apotassomai",
+      "strongs": [
+        "G0657"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0657",
+          "original": "ἀποτάσσω",
+          "transliteration": "apotassō",
+          "partOfSpeech": "G:V",
+          "gloss": "to leave",
+          "meaning": "ἀπο-τάσσω\n[in LXX: Ecc.2:20 (יָאַשׁ pi.), I Est.6:27, Jer.20:2, 1-18; 1Ma.4:1-61 * ;]\nto set apart. Mid., in late Gk. (El., § 37, 1; Swete, Mk., 136 f.; MM, e. dative,\n(a) to take leave of: Mrk.6:46, Luk.9:61, Act.18:18, 21, 2Co.2:13;\n(b) to forsake: Luk.14:33.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀποτάξασθαι",
+          "translit": "apotaxasthai",
+          "gloss": "to leave"
+        },
+        {
+          "original": "ἀποτάσσεται",
+          "translit": "apotassetai",
+          "gloss": "to leave"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 9:61",
+        "Luke 14:33"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 6:46",
+          "found": true
+        },
+        {
+          "ref": "Acts 18:18",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 2:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0657"
+      }
+    },
+    {
+      "id": "apollymi",
+      "strongs": [
+        "G0622"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0622",
+          "original": "ἀπολλύω",
+          "transliteration": "apolluō",
+          "partOfSpeech": "G:V",
+          "gloss": "to destroy",
+          "meaning": "ἀπ-όλλυμι and ἀπολλύω\n[in LXX for אָבַד, etc. (38 words in all)].\n1. Act.,\n1 to destroy utterly, destroy, kill: Mk 124, 922, al.; τ. ψνχήν, Mat.10:28, al.;\n2 to lose utterly: Mat.10:42, al.; metaphorically, of failing to save, Jhn.6:39 18:9.\n2. Mid.,\n1 to perish;\n(a) of things: Mat.5:29, Jhn.6:12, Heb.1:11 (LXX, al.; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀπολέσαι",
+          "translit": "apolesai",
+          "gloss": "to destroy"
+        },
+        {
+          "original": "ἀπολοῦνται",
+          "translit": "apolountai",
+          "gloss": "to destroy"
+        },
+        {
+          "original": "ἀπολέσαι;",
+          "translit": "apolesai",
+          "gloss": "to destroy"
+        },
+        {
+          "original": "ἀπολλύμεθα",
+          "translit": "apollumetha",
+          "gloss": "to destroy"
+        },
+        {
+          "original": "ἀπολέσει",
+          "translit": "apolesei",
+          "gloss": "to destroy"
+        },
+        {
+          "original": "ἀπολέσῃ",
+          "translit": "apolesē",
+          "gloss": "to destroy"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 4:34",
+        "Luke 5:37",
+        "Luke 6:9",
+        "Luke 8:24",
+        "Luke 9:24",
+        "Luke 9:25",
+        "Luke 9:56",
+        "Luke 11:51",
+        "Luke 13:3",
+        "Luke 13:5",
+        "Luke 13:33",
+        "Luke 15:4",
+        "Luke 15:6",
+        "Luke 15:8",
+        "Luke 15:9",
+        "Luke 15:17",
+        "Luke 15:24",
+        "Luke 15:32",
+        "Luke 17:27",
+        "Luke 17:29",
+        "Luke 17:33",
+        "Luke 19:10",
+        "Luke 19:47",
+        "Luke 20:16",
+        "Luke 21:18"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 87,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 10:6",
+          "found": true
+        },
+        {
+          "ref": "John 3:16",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 1:18",
+          "found": true
+        },
+        {
+          "ref": "2 Peter 3:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0622"
+      }
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5479",
+          "original": "χαρά",
+          "transliteration": "chara",
+          "partOfSpeech": "G:N-F",
+          "gloss": "joy",
+          "meaning": "χαρά, -ᾶς, ἡ\n(χαίρω), [in LXX for שִׂמְחָה, שָׂשׂוֹן, etc. ;]\njoy, delight: Luk.1:14 15:7, 10, Jhn.15:11 16:22, 24 17:13, Act.8:8, 2Co.1:24 7:13 8:2, Gal.5:22, Col.1:11, Php.2:2, 1Jn.1:4, 2Jn.12; opposite to κατήφεια, Jas.4:9; to λύπη, Jhn.16:20; χ. τῆς πίστεως, Php.1:25; ἀγαλλιᾶσθαι (χαίρειν, which see), χαρᾷ, Jhn.3:29, 1Pe.1:8; χ. ἔχειν, Phm 7; πληροῦν (-οῦσθαι) χαρᾶς, Act.13:52, Rom.15:13, 2Ti.1:4; ποιεῖν χ. μεγάλην, Act.15:3; ἀπὸ τῆς χ., Mat.13:44, Luk.24:41, Act.12:14; ἐν χ., Rom.15:32; μετὰ χαρᾶς, Mat.13:20 28:8, Mrk.4:16, Luk.8:13 10:17 24:52, Php.1:4 2:29, Heb.10:34 13:17; id. beforeπν …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "χαρά",
+          "translit": "chara",
+          "gloss": "joy"
+        },
+        {
+          "original": "χαρὰν",
+          "translit": "charan",
+          "gloss": "joy"
+        },
+        {
+          "original": "χαρᾶς",
+          "translit": "charas",
+          "gloss": "joy"
+        },
+        {
+          "original": "χαρὰ",
+          "translit": "chara",
+          "gloss": "joy"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 1:14",
+        "Luke 2:10",
+        "Luke 8:13",
+        "Luke 10:17",
+        "Luke 15:7",
+        "Luke 15:10",
+        "Luke 24:41",
+        "Luke 24:52"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 58,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 2:10",
+          "found": true
+        },
+        {
+          "ref": "John 15:11",
+          "found": true
+        },
+        {
+          "ref": "Galatians 5:22",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 12:2",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5479"
+      }
+    },
+    {
+      "id": "oikonomos",
+      "strongs": [
+        "G3623"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3623",
+          "original": "οἰκονόμος",
+          "transliteration": "oikonomos",
+          "partOfSpeech": "G:N-M",
+          "gloss": "manager",
+          "meaning": "οἰκονόμος, -ου, ὁ\n(οἶκος + νέμω, to manage) [in LXX chiefly for עַל ;]\n1. prop., the manager of a household or estate, a house- or land-steward (usually a slave or freedman): Luk.12:42 16:1, 3 16:8, 1Co.4:2, Gal.4:2; ὀ οἰ. τ. πόλεως (RV, treasurer; cf. I Est.4:49), Rom.16:23.\n2. Metaphorical (in wider sense; cf. οἰκονομία), an administrator, a steward: of Christian ministers, 1Co.4:1, Tit.1:7; of Christians generally, 1Pe.4:10.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "οἰκονόμος",
+          "translit": "oikonomos",
+          "gloss": "manager"
+        },
+        {
+          "original": "οἰκονόμον",
+          "translit": "oikonomon",
+          "gloss": "manager"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 12:42",
+        "Luke 16:1",
+        "Luke 16:3",
+        "Luke 16:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 10,
+      "elsewhereCheck": [
+        {
+          "ref": "1 Corinthians 4:1",
+          "found": true
+        },
+        {
+          "ref": "Titus 1:7",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 4:10",
+          "found": true
+        },
+        {
+          "ref": "Romans 16:23",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3623"
+      }
+    },
+    {
+      "id": "hades",
+      "strongs": [
+        "G0086"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0086",
+          "original": "ᾍδης",
+          "transliteration": "Hadēs",
+          "partOfSpeech": "G:N-M",
+          "gloss": "hell: Hades",
+          "meaning": "ᾅδης, -ου, ὁ\n[in LXX ehiefly for שְׁאוֹל, also for דּוּמָה, מָוֶת, etc. ;]\n1. in Hom., Hades (Pluto), the god of the underworld.\n2. the abode of Hades, the underivorld; in NT, the abode of departed spirits, Hades: ἐν τ. ᾅ., Luk.16:23; εἰς ᾅ., Act.2:27,31; πύλαι ᾅδου, Mat.16:18; κλεῖς τοῦ ᾅ., Rev.1:18; metaphorically, ἕως ᾅ., Mat.11:23, Luk.10:15; personified, Rev.6:8 20:13,14 (Cremer, 67, 610; MM, VGT, see word).\n† (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ᾅδου",
+          "translit": "hadou",
+          "gloss": "Hades"
+        },
+        {
+          "original": "ᾅδῃ",
+          "translit": "hadē",
+          "gloss": "Hades"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 10:15",
+        "Luke 16:23"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 10,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 16:18",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:27",
+          "found": true
+        },
+        {
+          "ref": "Revelation 1:18",
+          "found": true
+        },
+        {
+          "ref": "Revelation 20:14",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0086"
+      }
+    },
+    {
+      "id": "metanoeo",
+      "strongs": [
+        "G3340"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3340",
+          "original": "μετανοέω",
+          "transliteration": "metanoeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to repent",
+          "meaning": "μετα-νοέω, -ῶ\n[in LXX for נָחַם ni., 1Ki.15:29, Jer.4:28, al. ;]\nto change one's mind or purpose, hence, to repent; in NT (exc. Luk.17:3-4), of repentance from sin, involving amendment: before ἀπό, Act.8:22; ἔκ, Rev.2:21-22 9:20-21 16:11 (מִן שׁוּב); ἐπί, 2Co.12:21; absol., Mat.3:2 4:17 11:20 12:41, Mrk.1:15 6:12, Luk.11:32 13:3, 5 15:7, 10 16:30 17:3-4, Act.2:38 3:19 17:30 26:20 2:5, 16 2:21 3:3, 19; with inf., Rev.16:9; ἐν σάκκῳ κ. σποδῷ, Mat.11:21, Luk.10:13.†\nSYN.: μεταμέλομαι, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μετενόησαν",
+          "translit": "metenoēsan",
+          "gloss": "to repent"
+        },
+        {
+          "original": "μετανοῆτε",
+          "translit": "metanoēte",
+          "gloss": "to repent"
+        },
+        {
+          "original": "μετανοοῦντι",
+          "translit": "metanoounti",
+          "gloss": "to repent"
+        },
+        {
+          "original": "μετανοήσουσιν",
+          "translit": "metanoēsousin",
+          "gloss": "to repent"
+        },
+        {
+          "original": "μετανοήσῃ",
+          "translit": "metanoēsē",
+          "gloss": "to repent"
+        },
+        {
+          "original": "μετανοῶ",
+          "translit": "metanoō",
+          "gloss": "to repent"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 10:13",
+        "Luke 11:32",
+        "Luke 13:3",
+        "Luke 13:5",
+        "Luke 15:7",
+        "Luke 15:10",
+        "Luke 16:30",
+        "Luke 17:3",
+        "Luke 17:4"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 32,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 3:2",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:15",
+          "found": true
+        },
+        {
+          "ref": "Acts 2:38",
+          "found": true
+        },
+        {
+          "ref": "Revelation 2:5",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3340"
+      }
+    },
+    {
+      "id": "mamonas",
+      "strongs": [
+        "G3126"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3126",
+          "original": "μαμμωνᾶς",
+          "transliteration": "mammōnas",
+          "partOfSpeech": "G:N-M",
+          "gloss": "wealth",
+          "meaning": "μαμωνᾶς (Rec. μαμμ-), -ᾶ (Bl., § 7, 4), ό (Aram. מָמוֺנָא),\nmammon, riches: Mat.6:24, Luk.16:9, 11 16:13.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μαμωνᾶ",
+          "translit": "mamōna",
+          "gloss": "wealth"
+        },
+        {
+          "original": "μαμωνᾷ",
+          "translit": "mamōna",
+          "gloss": "wealth"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 16:9",
+        "Luke 16:11",
+        "Luke 16:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:24",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3126"
+      }
+    },
+    {
+      "id": "entos",
+      "strongs": [
+        "G1787"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1787",
+          "original": "ἐντός",
+          "transliteration": "entos",
+          "partOfSpeech": "G:PREP",
+          "gloss": "inside",
+          "meaning": "ἐντός\n(ἐν),\nadv., [in LXX: Job.18:20, Psa.39:3 109:22, Sng.3:10; ὁ, τὸ, τὰ ἐ., Psa.103:1, Isa.16:11, Da TH Dan.10:16, Sir.19:26, 1Ma.4:48 * ;]\nwithin: with genitive, ἐ. ὑμῶν, within you (i.e. in your hearts, R, txt.), or among you (R, mg.), Luk.17:21 (cf. Field, Notes, 71; Thayer, see word; ICC, Lk, l.with; Dalman, Words, 145 ff.); τὸ ἐ., Mat.23:26.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐντὸς",
+          "translit": "entos",
+          "gloss": "inside"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 17:21"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 23:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1787"
+      }
+    },
+    {
+      "id": "eucharisteo",
+      "strongs": [
+        "G2168"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2168",
+          "original": "εὐχαριστέω",
+          "transliteration": "eucharisteō",
+          "partOfSpeech": "G:V",
+          "gloss": "to thank",
+          "meaning": "εὐχαριστέω, -ῶ\n[in LXX: Jdth.8:25 Wis.18:2, 2Ma.1:11 2Mac 10:7 A 2Ma.12:31 R, 3Ma.7:16 * ;]\nto be thankful, give thanks (chiefly in late writers and Inscr.; cf. Milligan, Th., 5; Ellic. on Col.1:12; Lft., Notes, 9): Rom.1:21, 1Co.14:17, 1Th.5:18; of giving thanks before meat, Mat.15:36 26:27, Mrk.8:6 14:23, Luk.22:17, 19, Jhn.6:11, 23, 1Co.11:24; with dative pens., τ. θεῷ, Luk.17:16, Act.27:35 28:15, Rom.14:6 16:4, 1Co.14:18, Php.1:3, Col.1:3, 12, Phm 4; before διὰ Ἰ. Χριστοῦ, Rom.1:8 7:25 R, WH, mg., Col.3:17; ἐν ὀνόματι Χρ., Eph.5:20; before περί, 1Th.1:2, 2Th.1:3; ὅτι, Rom.1:8, 2Th.2:13; ἐπ …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "εὐχαριστῶν",
+          "translit": "eucharistōn",
+          "gloss": "to thank"
+        },
+        {
+          "original": "εὐχαριστῶ",
+          "translit": "eucharistō",
+          "gloss": "to thank"
+        },
+        {
+          "original": "εὐχαριστήσας",
+          "translit": "eucharistēsas",
+          "gloss": "to thank"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 17:16",
+        "Luke 18:11",
+        "Luke 22:17",
+        "Luke 22:19"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 37,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 15:36",
+          "found": true
+        },
+        {
+          "ref": "John 6:11",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:21",
+          "found": true
+        },
+        {
+          "ref": "1 Thessalonians 5:18",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2168"
+      }
+    },
+    {
+      "id": "eleeo",
+      "strongs": [
+        "G1653"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1653",
+          "original": "ἐλεέω",
+          "transliteration": "eleeō",
+          "partOfSpeech": "G:V",
+          "gloss": "to have mercy",
+          "meaning": "ἐλεέω\n(in Rom.9:16, Ju 22, -άω, which see), -ῶ (ἔλεος), [in LXX (Hex, Pss, Pr) chiefly for חָנַן, also frequently in Proph. for רָחַם, etc. ;]\nto have pity or mercy on, to show mercy: absol., Rom.9:16 12:8; with accusative, Mat.9:27 15:22 17:15 18:33 20:30-31, Mrk.5:19 10:47-48, Luk.16:24 17:13 18:38-39 Rom.9:15, 18 11:32, Php.2:27, Ju 22. Pass., to have pity or mercy shown one (EV, obtain mercy): Mat.5:7, Rom.11:30-31, 1Co.7:25, 2Co.4:1, 1Ti.1:13 1:16, 1Pe.2:10.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐλέησόν",
+          "translit": "eleēson",
+          "gloss": "to have mercy"
+        },
+        {
+          "original": "ἐλέησον",
+          "translit": "eleēson",
+          "gloss": "to have mercy"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 16:24",
+        "Luke 17:13",
+        "Luke 18:38",
+        "Luke 18:39"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 29,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 9:27",
+          "found": true
+        },
+        {
+          "ref": "Matthew 18:33",
+          "found": true
+        },
+        {
+          "ref": "Romans 9:15",
+          "found": true
+        },
+        {
+          "ref": "Jude 1:22",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1653"
+      }
+    },
+    {
+      "id": "hilaskomai",
+      "strongs": [
+        "G2433"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2433",
+          "original": "ἱλάσκομαι",
+          "transliteration": "hilaskomai",
+          "partOfSpeech": "G:V",
+          "gloss": "to propitiate",
+          "meaning": "ἱλάσκομαι\n(ἵλαος = ἵλεως) [in LXX (cf. Westc., Epp. Jo., 85 f.) for סָלַח, 4Ki.5:18 24:4, Psa.25:11, La 3:42, Da TH Dan.9:19; כָּפַר pi., Psa.65:3 78:38 79:9; נָחַם ni., Exo.32:14, Est.4:17 * ;]\n1. in cl., with accusative of person(s), to conciliate, appease, propitiate (= ἐξιλάσκομαι, Gen.32:20, Pro.16:14, Mal.1:9, al.).\n2. In LXX (Thackeray, Gr., 270, 1.), Inscr. (Deiss., BS, 224 f.), and NT, to be propitious, merciful (with dative of thing(s), Psa.79:9, al.): with dative of person(s) (4Ki.5:18), Luk.18:13. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἱλάσθητί",
+          "translit": "hilasthēti",
+          "gloss": "to propitiate"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 18:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 2,
+      "elsewhereCheck": [
+        {
+          "ref": "Hebrews 2:17",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2433"
+      }
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1344",
+          "original": "δικαιόω",
+          "transliteration": "dikaioō",
+          "partOfSpeech": "G:V",
+          "gloss": "to justify",
+          "meaning": "δικαιόω, -ῶ\n(δίκαιος), [in LXX chiefly for צָדַק pi., hi., (1) as Eze.16:51, Jer.3:11 (cf. NT usage); (2) as Deu.25:1; Exo.23:7, Isa.50:8 ;]\n1. in cl.,\n(a) with accusative of thing(s), to deem right;\n(b) with accusative of person(s), to do one justice; pass., δικαιοῦσθαι, to be treated rightly, opposite to ἀδικεῖσθαι.\n2. In NT, as in LXX, and as usual with verbs in -όω from adjectives of moral meaning;\n(1) to show to be righteous: Mat.11:19, Luk.7:35, Rom.3:4\" (LXX), 1Ti.3:16; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐδικαίωσαν",
+          "translit": "edikaiōsan",
+          "gloss": "to justify"
+        },
+        {
+          "original": "ἐδικαιώθη",
+          "translit": "edikaiōthē",
+          "gloss": "to justify"
+        },
+        {
+          "original": "δικαιῶσαι",
+          "translit": "dikaiōsai",
+          "gloss": "to justify"
+        },
+        {
+          "original": "δικαιοῦντες",
+          "translit": "dikaiountes",
+          "gloss": "to justify"
+        },
+        {
+          "original": "δεδικαιωμένος",
+          "translit": "dedikaiōmenos",
+          "gloss": "to justify"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 7:29",
+        "Luke 7:35",
+        "Luke 10:29",
+        "Luke 16:15",
+        "Luke 18:14"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 35,
+      "elsewhereCheck": [
+        {
+          "ref": "Romans 3:24",
+          "found": true
+        },
+        {
+          "ref": "Romans 5:1",
+          "found": true
+        },
+        {
+          "ref": "Galatians 2:16",
+          "found": true
+        },
+        {
+          "ref": "Titus 3:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1344"
+      }
+    },
+    {
+      "id": "mna",
+      "strongs": [
+        "G3414"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3414",
+          "original": "μνᾶ",
+          "transliteration": "mna",
+          "partOfSpeech": "G:N-F",
+          "gloss": "mina",
+          "meaning": "μνᾶ, -ᾶς, ἡ\n(a Semitic word; cf. Heb. מָנֶה, Aram. מְנֵא, a weight and a sum of money = 100 shekels, cf. 3Ki.10:17),\na mina (Let.), mna, in Attic a weight and sum of money = 100 δραχμαί (which see) : Luk.19:13, 16 19:18, 20 19:24-25.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "μνᾶς",
+          "translit": "mnas",
+          "gloss": "mina"
+        },
+        {
+          "original": "μνᾶ",
+          "translit": "mna",
+          "gloss": "mina"
+        },
+        {
+          "original": "μνᾶν",
+          "translit": "mnan",
+          "gloss": "mina"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 19:13",
+        "Luke 19:16",
+        "Luke 19:18",
+        "Luke 19:20",
+        "Luke 19:24",
+        "Luke 19:25"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 6,
+      "elsewhereCheck": [],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3414"
+      }
+    },
+    {
+      "id": "episkope",
+      "strongs": [
+        "G1984"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G1984",
+          "original": "ἐπισκοπή",
+          "transliteration": "episkopē",
+          "partOfSpeech": "G:N-F",
+          "gloss": "oversight",
+          "meaning": "ἐπι-σκοπή, -ῆς, ἡ\n[in LXX chiey for פָּקַד פְּקֻדָּה ;]\n1. a visiting, visitation (εἰς ἐ. τοῦ παιδός, Lucian, dial. deor., 20, 6); as in LXX (after Heb.), of God's visitation in mercy, or in judgment (Lev.19:20 Job.10:12, Jer.6:15, Wis.2:20, al.): Luk.19:44, 1Pe.2:12 (see Hort, in l).\n2. office, charge, esp. office of an ἐπίσκοιος (which see): Act.1:20 (LXX), 1Ti.3:1 (Cremer, 527 f., 864; DCG, ii, 809b).†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἐπισκοπῆς",
+          "translit": "episkopēs",
+          "gloss": "oversight"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 19:44"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Acts 1:20",
+          "found": true
+        },
+        {
+          "ref": "1 Timothy 3:1",
+          "found": true
+        },
+        {
+          "ref": "1 Peter 2:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G1984"
+      }
+    },
+    {
+      "id": "agapetos",
+      "strongs": [
+        "G0027"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0027",
+          "original": "ἀγαπητός",
+          "transliteration": "agapētos",
+          "partOfSpeech": "G:A",
+          "gloss": "beloved",
+          "meaning": "ἀγαπητός, -ή, -όν\n(ἀγαπάω), [in LXX chiefly for יָתִיד, יָדִיד ;]\nbeloved (see M, Pr., 221);\n(a) by God: of Christ, Mat.3:17; of men, Rom.1:7;\n(b) by Christians, of one another: 1Co.4:14; frequently as form of address, ib. 10:14; opposite to ἐχθρός, Rom.11:28 (see AR, Eph., 229; Cremer, 17; MM, VGT, see word).\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀγαπητός",
+          "translit": "agapētos",
+          "gloss": "beloved"
+        },
+        {
+          "original": "ἀγαπητόν",
+          "translit": "agapēton",
+          "gloss": "beloved"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 3:22",
+        "Luke 20:13"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 60,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 3:17",
+          "found": true
+        },
+        {
+          "ref": "Mark 1:11",
+          "found": true
+        },
+        {
+          "ref": "Romans 1:7",
+          "found": true
+        },
+        {
+          "ref": "1 John 4:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0027"
+      }
+    },
+    {
+      "id": "phoros",
+      "strongs": [
+        "G5411"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G5411",
+          "original": "φόρος",
+          "transliteration": "phoros",
+          "partOfSpeech": "G:N-M",
+          "gloss": "tax",
+          "meaning": "φόρος, .-ου, ὁ\n(φέρω), [in LXX chiefly for מַס, also for מִדָּה, etc. ;]\ntribute paid by a subject nation (cf. 1Ma.10:33): φ. δοῦναι (1Ma.8:4 1Mac 8:7), Luk.20:22 23:2; ἀποδοῦναι, Rom.13:7; τελεῖν, Rom.13:6 (Hdt., al.).†\nSYN.: κῆνσος, τέλος (which see) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "φόρον",
+          "translit": "phoron",
+          "gloss": "tax"
+        },
+        {
+          "original": "φόρους",
+          "translit": "phorous",
+          "gloss": "tax"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 20:22",
+        "Luke 23:2"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Luke 23:2",
+          "found": true
+        },
+        {
+          "ref": "Romans 13:6",
+          "found": true
+        },
+        {
+          "ref": "Romans 13:7",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G5411"
+      }
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0386",
+          "original": "ἀνάστασις",
+          "transliteration": "anastasis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "resurrection",
+          "meaning": "ἀνά-στασις, -εως, ή\n(ἀνίστημι), [in LXX: Zep.3:8 (קוּם), La 3:63 (קִימָה), קִימָה), Psa.66:1-20 title., Dan LXX 11:20, 2Ma.7:14 2Mac 12:43 * ;]\n1. a raising up, awakening, rising (in Inscr. of the erection of a monument, see MM, VGT, see word): Luk.2:34.\n2. a rising from the dead (see DCG, ii, 605b);\n(a) of Christ: Act.1:22 2:31 4:33 Rom.6:5, Php.3:10, 1Pe.3:21; ἐξ ἀ. νεκρῶν, Rom.1:4 (ICC, in l); ἐκ νεκρῶν, 1Pe.1:3;\n(b) of persons in OT hist. (e.g. 3Ki.17:17 ff.): Heb.11:35; …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀνάστασιν",
+          "translit": "anastasin",
+          "gloss": "resurrection"
+        },
+        {
+          "original": "ἀναστάσει",
+          "translit": "anastasei",
+          "gloss": "resurrection"
+        },
+        {
+          "original": "ἀναστάσεως",
+          "translit": "anastaseōs",
+          "gloss": "resurrection"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 2:34",
+        "Luke 14:14",
+        "Luke 20:27",
+        "Luke 20:33",
+        "Luke 20:35",
+        "Luke 20:36"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 40,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 22:23",
+          "found": true
+        },
+        {
+          "ref": "John 11:25",
+          "found": true
+        },
+        {
+          "ref": "Acts 4:2",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 15:12",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0386"
+      }
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G0863G",
+          "original": "ἀφίημι",
+          "transliteration": "aphiēmi",
+          "partOfSpeech": "G:V",
+          "gloss": "to release: leave",
+          "meaning": "ἀφ-ίημι,\n[in LXX for נשׂא, נוח hi., נתן, סלח ni., עזב, etc. ;]\n1. to send forth, send away, let go: of divorce (DB, iii, 274a), τ. γυναῖκα (Hdt.), 1Co.7:11-13; of death, τ. πνεῦμα (Gen.35:18, Hdt., al.), Mat.27:50; (φωνήν, to utter a cry, Mrk.15:37; of debts, to remit, forgive (cl.), τ. δανεῖον, Mat.18:27; τ. ὀφειλήν, Mat.18:32; esp. of sins (Cremer 296f.), τ. ἁμαρτίας, ἁμαρτήματα, ἀνομίας, Mat.9:2, Rom.4:7\" (LXX), 1Jn.1:9, al.; punctiliar and iterative present (M, Pr., 119), Mrk.2:5, Luk.11:4; Ion. pf., ἀφέωνται (M, Pr., 38), Luk.5:23. …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ἀφῆκεν",
+          "translit": "aphēken",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφέντες",
+          "translit": "aphentes",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφέωνταί",
+          "translit": "apheōntai",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφεῖναι",
+          "translit": "apheinai",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἀφιέναι",
+          "translit": "aphienai",
+          "gloss": "to release"
+        },
+        {
+          "original": "ἄφες",
+          "translit": "aphes",
+          "gloss": "to release"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 4:39",
+        "Luke 5:11",
+        "Luke 5:20",
+        "Luke 5:21",
+        "Luke 5:23",
+        "Luke 5:24",
+        "Luke 6:42",
+        "Luke 7:47",
+        "Luke 7:48",
+        "Luke 7:49",
+        "Luke 8:51",
+        "Luke 9:60",
+        "Luke 10:30",
+        "Luke 11:4",
+        "Luke 12:10",
+        "Luke 12:39",
+        "Luke 13:8",
+        "Luke 13:35",
+        "Luke 17:3",
+        "Luke 17:4",
+        "Luke 17:34",
+        "Luke 17:35",
+        "Luke 17:36",
+        "Luke 18:16",
+        "Luke 18:28",
+        "Luke 18:29",
+        "Luke 19:44",
+        "Luke 21:6",
+        "Luke 23:34"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 133,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:12",
+          "found": true
+        },
+        {
+          "ref": "Mark 2:5",
+          "found": true
+        },
+        {
+          "ref": "John 20:23",
+          "found": true
+        },
+        {
+          "ref": "1 John 1:9",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G0863G, G0863H, G0863I"
+      }
+    },
+    {
+      "id": "lestes",
+      "strongs": [
+        "G3027"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3027",
+          "original": "λῃστής",
+          "transliteration": "lēstēs",
+          "partOfSpeech": "G:N-M",
+          "gloss": "robber/rebel",
+          "meaning": "λῃστής, -οῦ, ὁ\n(Ep. ληίς = λεία, booty), [in LXX for גְּדוּד, etc. ;]\na robber, brigand: Mat.21:13 (LXX) Mat.26:55 27:38, 44, Mrk.11:17 14:48 15:27, Luk.10:30, 36 19:46 22:52, Jhn.10:1, 8 18:40, 2Co.11:26.†\nSYN.: κλέπτης, q.v (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "λῃσταῖς",
+          "translit": "lēstais",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃστάς;",
+          "translit": "lēstas",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃστῶν",
+          "translit": "lēstōn",
+          "gloss": "robber/rebel"
+        },
+        {
+          "original": "λῃστὴν",
+          "translit": "lēstēn",
+          "gloss": "robber/rebel"
+        }
+      ],
+      "occurrencesInBook": [
+        "Luke 10:30",
+        "Luke 10:36",
+        "Luke 19:46",
+        "Luke 22:52"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 15,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 21:13",
+          "found": true
+        },
+        {
+          "ref": "John 10:1",
+          "found": true
+        },
+        {
+          "ref": "John 18:40",
+          "found": true
+        },
+        {
+          "ref": "2 Corinthians 11:26",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3027"
+      }
     }
   ]
 }

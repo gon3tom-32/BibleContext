@@ -278,5 +278,135 @@
     "id": "elijah",
     "name": "Elijah",
     "note": "The prophet, taken up in a whirlwind."
+  },
+  {
+    "id": "the-bent-woman",
+    "name": "The woman bent over",
+    "note": "Crippled for eighteen years by a spirit, in a synagogue."
+  },
+  {
+    "id": "the-synagogue-ruler",
+    "name": "The synagogue ruler",
+    "note": "Objects to healing on the Sabbath."
+  },
+  {
+    "id": "pilate",
+    "name": "Pontius Pilate",
+    "note": "Roman prefect of Judea from about AD 26 to 36."
+  },
+  {
+    "id": "the-man-with-dropsy",
+    "name": "The man with dropsy",
+    "note": "A guest at the Pharisee's house."
+  },
+  {
+    "id": "the-father",
+    "name": "The father",
+    "note": "A character in the parable of the lost son."
+  },
+  {
+    "id": "the-younger-son",
+    "name": "The younger son",
+    "note": "A character in the parable."
+  },
+  {
+    "id": "the-older-son",
+    "name": "The older son",
+    "note": "A character in the parable."
+  },
+  {
+    "id": "the-manager",
+    "name": "The dishonest manager",
+    "note": "A character in a parable."
+  },
+  {
+    "id": "the-rich-man",
+    "name": "The rich man",
+    "note": "A character in a parable."
+  },
+  {
+    "id": "lazarus-the-beggar",
+    "name": "Lazarus",
+    "note": "A beggar in a parable; his name means \"God helps.\""
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "note": "The ancestor of Israel, who speaks from his bosom in the parable."
+  },
+  {
+    "id": "the-ten-lepers",
+    "name": "Ten men with leprosy",
+    "note": "A group standing at a distance, as the law required."
+  },
+  {
+    "id": "the-grateful-samaritan",
+    "name": "The Samaritan who returned",
+    "note": "One of the ten, a double outsider."
+  },
+  {
+    "id": "the-persistent-widow",
+    "name": "The persistent widow",
+    "note": "A character in a parable."
+  },
+  {
+    "id": "the-unjust-judge",
+    "name": "The unjust judge",
+    "note": "A character in a parable."
+  },
+  {
+    "id": "the-pharisee-in-the-temple",
+    "name": "The Pharisee in the parable",
+    "note": "A character in a parable; careful in practice, proud in heart."
+  },
+  {
+    "id": "the-tax-collector-in-the-temple",
+    "name": "The tax collector in the parable",
+    "note": "A character in a parable."
+  },
+  {
+    "id": "the-rich-ruler",
+    "name": "The rich ruler",
+    "note": "A man of position who asks about eternal life."
+  },
+  {
+    "id": "the-blind-man-near-jericho",
+    "name": "The blind man near Jericho",
+    "note": "Unnamed in Luke; a beggar by the roadside."
+  },
+  {
+    "id": "zacchaeus",
+    "name": "Zacchaeus",
+    "note": "A chief tax collector of Jericho, rich and short."
+  },
+  {
+    "id": "the-nobleman",
+    "name": "The nobleman",
+    "note": "A king figure in the parable of the minas."
+  },
+  {
+    "id": "the-servants",
+    "name": "The servants",
+    "note": "Characters in the parable of the minas."
+  },
+  {
+    "id": "the-chief-priests",
+    "name": "The chief priests",
+    "note": "Senior priests who sat on the council."
+  },
+  {
+    "id": "the-spies",
+    "name": "The spies",
+    "note": "Men sent to catch Jesus in his words."
+  },
+  {
+    "id": "the-sadducees",
+    "name": "The Sadducees",
+    "note": "A priestly party that denied resurrection."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "The king of Israel, Jesus' ancestor, who wrote Psalm 110."
   }
 ]
