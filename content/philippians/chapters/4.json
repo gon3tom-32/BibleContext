@@ -1,0 +1,258 @@
+{
+  "sceneHappening": "Rejoice, do not be anxious, think on what is good, and a thank-you for the Philippians' gift",
+  "summary": "\"Therefore, my brothers, beloved and longed for, my joy and crown, so stand firm in the Lord, my beloved.\" Paul urges Euodia and Syntyche to be of the same mind in the Lord, and asks his true companion to help these women, who have labored with him in the gospel, with Clement and the rest of his fellow workers, whose names are in the book of life. \"Rejoice in the Lord always. Again I will say, Rejoice! Let your gentleness be known to all men. The Lord is at hand. In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.\" \"Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about these things. The things which you learned, received, heard, and saw in me, do them, and the God of peace will be with you.\" Paul rejoices greatly in the Lord that now at length their care for him has revived; they were indeed concerned but had no opportunity. He does not say this because of need, \"for I have learned in whatever state I am, to be content. I know how to be humbled, and I know also how to abound. In everything and in all things I have learned the secret both to be filled and to be hungry, both to abound and to be in need. I can do all things through Christ who strengthens me.\" Yet they did well in sharing in his affliction. In the beginning of the gospel, when he departed from Macedonia, no assembly shared with him in the matter of giving and receiving but they only; even in Thessalonica they sent more than once for his need. Not that he seeks the gift, but he seeks the fruit that increases to their account. He has received everything and abounds; he is filled, having received from Epaphroditus the things that came from them, \"a sweet-smelling fragrance, an acceptable sacrifice, well-pleasing to God.\" \"My God will supply every need of yours according to his riches in glory in Christ Jesus. Now to our God and Father be the glory forever and ever. Amen.\" Greet every saint in Christ Jesus; the brothers with him greet them; all the saints greet them, especially those of Caesar's household. \"The grace of the Lord Jesus Christ be with your spirit. Amen.\"",
+  "whySettingMatters": "The letter now turns from correction to thanks, and the thanks reveal that this is partly a receipt: Epaphroditus brought money from Philippi, and Paul writes in the language of accounts (\"credit,\" \"received in full,\" \"supplied\"). The church at Philippi was one of the few Paul accepted money from, and it had supported him even earlier in Thessalonica (Acts 17:1-9). The instruction not to be \"anxious\" (merimnaō) is addressed to a church under pressure, and the antidote is prayer with thanksgiving. The list in 4:8 uses terms familiar from Greek moral philosophy (honorable, just, pure, lovely, excellence, praise), which Paul now applies to Christian living. \"I can do all things through Christ who strengthens me\" is often quoted on its own; in the setting it is about contentment in need as well as in plenty, not about achieving anything one wants. \"Caesar's household\" (4:22) means the imperial slaves and freed people who served the emperor, many of them in Rome and other cities, which fits an imprisonment in Rome but does not require it. The two women named in 4:2-3 are unknown apart from this verse; Paul calls them co-workers, not troublemakers, and does not say what the disagreement was.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Thanks the Philippians and tells them what he has learned about contentment."
+    },
+    {
+      "id": "euodia-and-syntyche",
+      "note": "Two women who worked with Paul; urged to agree in the Lord."
+    },
+    {
+      "id": "clement",
+      "note": "A co-worker whose name is in the book of life."
+    },
+    {
+      "id": "epaphroditus",
+      "note": "Brought the gift from Philippi."
+    },
+    {
+      "id": "the-philippian-believers",
+      "note": "Paul's partners in giving and receiving."
+    },
+    {
+      "id": "caesars-household",
+      "note": "Imperial slaves and servants who send greetings."
+    }
+  ],
+  "questions": [
+    "Paul says to rejoice always, and to bring every worry to God with thanks. What does this look like when the situation is difficult?",
+    "He names two women who are in disagreement and does not take sides. What does this say about how he handles conflict?",
+    "Paul lists what to think about (true, honorable, just, pure, lovely, commendable). What would it look like to shape our attention that way?",
+    "\"I have learned to be content in whatever state I am.\" What do you think he learned, and how?"
+  ],
+  "words": [
+    {
+      "id": "phroneo",
+      "note": "\"To be of the same mind in the Lord\" (4:2, 4:10)."
+    },
+    {
+      "id": "syzygos",
+      "note": "\"Yes, I ask you also, true yokefellow\" (4:3)."
+    },
+    {
+      "id": "synathleo",
+      "note": "\"Who labored with me in the Good News\" (4:3)."
+    },
+    {
+      "id": "synergos",
+      "note": "\"With the rest of my fellow workers\" (4:3)."
+    },
+    {
+      "id": "biblos",
+      "note": "\"Whose names are in the book of life\" (4:3)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"The book of life\" (4:3)."
+    },
+    {
+      "id": "chara",
+      "note": "\"Rejoice in the Lord always\" (4:1, 4:4, 4:10)."
+    },
+    {
+      "id": "epieikes",
+      "note": "\"Let your gentleness be known\" (4:5)."
+    },
+    {
+      "id": "engys",
+      "note": "\"The Lord is at hand\" (4:5)."
+    },
+    {
+      "id": "merimnao",
+      "note": "\"In nothing be anxious\" (4:6)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"By prayer and petition\" (4:6)."
+    },
+    {
+      "id": "deesis",
+      "note": "\"And petition\" (4:6)."
+    },
+    {
+      "id": "eucharistia",
+      "note": "\"With thanksgiving\" (4:6)."
+    },
+    {
+      "id": "aitema",
+      "note": "\"Let your requests be made known to God\" (4:6)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"The peace of God, which surpasses all understanding\" (4:7, 4:9)."
+    },
+    {
+      "id": "hyperecho",
+      "note": "\"Which surpasses all understanding\" (4:7)."
+    },
+    {
+      "id": "nous",
+      "note": "\"All understanding\" (4:7)."
+    },
+    {
+      "id": "phroureo",
+      "note": "\"Will guard your hearts and your thoughts\" (4:7)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"Whatever things are true\" (4:8)."
+    },
+    {
+      "id": "semnos",
+      "note": "\"Whatever things are honorable\" (4:8)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"Whatever things are just\" (4:8)."
+    },
+    {
+      "id": "agnos",
+      "note": "\"Whatever things are pure\" (4:8)."
+    },
+    {
+      "id": "prosphiles",
+      "note": "\"Whatever things are lovely\" (4:8)."
+    },
+    {
+      "id": "euphemos",
+      "note": "\"Whatever things are of good report\" (4:8)."
+    },
+    {
+      "id": "arete",
+      "note": "\"If there is any virtue\" (4:8)."
+    },
+    {
+      "id": "epainos",
+      "note": "\"And if there is any praise\" (4:8)."
+    },
+    {
+      "id": "logizomai",
+      "note": "\"Think about these things\" (4:8)."
+    },
+    {
+      "id": "anathallo",
+      "note": "\"Your thought for me has revived\" (4:10)."
+    },
+    {
+      "id": "autarkes",
+      "note": "\"In whatever state I am, to be content\" (4:11)."
+    },
+    {
+      "id": "tapeinoo",
+      "note": "\"I know how to be humbled\" (4:12)."
+    },
+    {
+      "id": "perisseuo",
+      "note": "\"And I know also how to abound\" (4:12, 4:18)."
+    },
+    {
+      "id": "myeo",
+      "note": "\"I have learned the secret\" (4:12)."
+    },
+    {
+      "id": "endynamoo",
+      "note": "\"Through Christ who strengthens me\" (4:13)."
+    },
+    {
+      "id": "synkoinoneo",
+      "note": "\"That you shared in my affliction\" (4:14)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"In my affliction\" (4:14)."
+    },
+    {
+      "id": "dosis",
+      "note": "\"In the matter of giving\" (4:15)."
+    },
+    {
+      "id": "lempsis",
+      "note": "\"And receiving\" (4:15)."
+    },
+    {
+      "id": "chreia",
+      "note": "\"You sent once and again to my need\" (4:16, 4:19)."
+    },
+    {
+      "id": "apecho",
+      "note": "\"But I have all things\" (4:18)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"But I seek for the fruit\" (4:17)."
+    },
+    {
+      "id": "euodia",
+      "note": "\"A sweet-smelling fragrance\" (4:18)."
+    },
+    {
+      "id": "thysia",
+      "note": "\"An acceptable sacrifice\" (4:18)."
+    },
+    {
+      "id": "euarestos",
+      "note": "\"Well-pleasing to God\" (4:18)."
+    },
+    {
+      "id": "ploutos",
+      "note": "\"According to his riches in glory\" (4:19)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"In glory in Christ Jesus\" (4:19-20)."
+    },
+    {
+      "id": "oikia",
+      "note": "\"Especially those of Caesar's household\" (4:22)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"Greet every saint in Christ Jesus\" (4:21-22)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"The brothers who are with me greet you\" (4:21-22)."
+    },
+    {
+      "id": "charis",
+      "note": "\"The grace of the Lord Jesus Christ be with your spirit\" (4:23)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Matthew 6:25-34",
+      "note": "do not be anxious about your life"
+    },
+    {
+      "ref": "1 Peter 5:7",
+      "note": "casting all your anxieties on him, because he cares for you"
+    },
+    {
+      "ref": "2 Corinthians 11:9",
+      "note": "the brothers from Macedonia supplied my need"
+    },
+    {
+      "ref": "Acts 17:1-9",
+      "note": "Paul in Thessalonica"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

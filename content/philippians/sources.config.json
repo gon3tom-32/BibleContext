@@ -1,0 +1,1114 @@
+{
+  "osis": "Phil",
+  "stepBook": "Php",
+  "webFile": "philippians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "philippi",
+      "ancientId": "a49e1d0"
+    },
+    {
+      "id": "thessalonica",
+      "ancientId": "afa9d8e"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "rome",
+      "ancientId": "afc8e7a",
+      "mapOnly": true
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "timothy",
+      "theographic": "timotheus_2863"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    }
+  ],
+  "words": [
+    {
+      "id": "epipotheo",
+      "strongs": [
+        "G1971"
+      ],
+      "foundAt": "Philippians 1:8"
+    },
+    {
+      "id": "aisthesis",
+      "strongs": [
+        "G0144"
+      ],
+      "foundAt": "Philippians 1:9"
+    },
+    {
+      "id": "epignosis",
+      "strongs": [
+        "G1922"
+      ],
+      "foundAt": "Philippians 1:9"
+    },
+    {
+      "id": "aproskopos",
+      "strongs": [
+        "G0677"
+      ],
+      "foundAt": "Philippians 1:10"
+    },
+    {
+      "id": "eilikrines",
+      "strongs": [
+        "G1506"
+      ],
+      "foundAt": "Philippians 1:10"
+    },
+    {
+      "id": "desmos",
+      "strongs": [
+        "G1199"
+      ],
+      "foundAt": "Philippians 1:7"
+    },
+    {
+      "id": "apologia",
+      "strongs": [
+        "G0627"
+      ],
+      "foundAt": "Philippians 1:7"
+    },
+    {
+      "id": "bebaiosis",
+      "strongs": [
+        "G0951"
+      ],
+      "foundAt": "Philippians 1:7"
+    },
+    {
+      "id": "apokaradokia",
+      "strongs": [
+        "G0603"
+      ],
+      "foundAt": "Philippians 1:20"
+    },
+    {
+      "id": "politeuomai",
+      "strongs": [
+        "G4176"
+      ],
+      "foundAt": "Philippians 1:27"
+    },
+    {
+      "id": "synathleo",
+      "strongs": [
+        "G4866"
+      ],
+      "foundAt": "Philippians 1:27"
+    },
+    {
+      "id": "ptyro",
+      "strongs": [
+        "G4426"
+      ],
+      "foundAt": "Philippians 1:28"
+    },
+    {
+      "id": "kenodoxia",
+      "strongs": [
+        "G2754"
+      ],
+      "foundAt": "Philippians 2:3"
+    },
+    {
+      "id": "tapeinophrosyne",
+      "strongs": [
+        "G5012"
+      ],
+      "foundAt": "Philippians 2:3"
+    },
+    {
+      "id": "hyperecho",
+      "strongs": [
+        "G5242"
+      ],
+      "foundAt": "Philippians 2:3"
+    },
+    {
+      "id": "morphe",
+      "strongs": [
+        "G3444"
+      ],
+      "foundAt": "Philippians 2:6"
+    },
+    {
+      "id": "isos",
+      "strongs": [
+        "G2470"
+      ],
+      "foundAt": "Philippians 2:6"
+    },
+    {
+      "id": "harpagmos",
+      "strongs": [
+        "G0725"
+      ],
+      "foundAt": "Philippians 2:6"
+    },
+    {
+      "id": "kenoo",
+      "strongs": [
+        "G2758"
+      ],
+      "foundAt": "Philippians 2:7"
+    },
+    {
+      "id": "tapeinoo",
+      "strongs": [
+        "G5013"
+      ],
+      "foundAt": "Philippians 2:8"
+    },
+    {
+      "id": "hypekoos",
+      "strongs": [
+        "G5255"
+      ],
+      "foundAt": "Philippians 2:8"
+    },
+    {
+      "id": "hyperypsoo",
+      "strongs": [
+        "G5251"
+      ],
+      "foundAt": "Philippians 2:9"
+    },
+    {
+      "id": "kampto",
+      "strongs": [
+        "G2578"
+      ],
+      "foundAt": "Philippians 2:10"
+    },
+    {
+      "id": "exomologeo",
+      "strongs": [
+        "G1843"
+      ],
+      "foundAt": "Philippians 2:11"
+    },
+    {
+      "id": "gongysmos",
+      "strongs": [
+        "G1112"
+      ],
+      "foundAt": "Philippians 2:14"
+    },
+    {
+      "id": "dialogismos",
+      "strongs": [
+        "G1261"
+      ],
+      "foundAt": "Philippians 2:14"
+    },
+    {
+      "id": "akeraios",
+      "strongs": [
+        "G0185"
+      ],
+      "foundAt": "Philippians 2:15"
+    },
+    {
+      "id": "skolios",
+      "strongs": [
+        "G4646"
+      ],
+      "foundAt": "Philippians 2:15"
+    },
+    {
+      "id": "diastrepho",
+      "strongs": [
+        "G1294"
+      ],
+      "foundAt": "Philippians 2:15"
+    },
+    {
+      "id": "phoster",
+      "strongs": [
+        "G5458"
+      ],
+      "foundAt": "Philippians 2:15"
+    },
+    {
+      "id": "epecho",
+      "strongs": [
+        "G1907"
+      ],
+      "foundAt": "Philippians 2:16"
+    },
+    {
+      "id": "trecho",
+      "strongs": [
+        "G5143"
+      ],
+      "foundAt": "Philippians 2:16"
+    },
+    {
+      "id": "spendo",
+      "strongs": [
+        "G4689"
+      ],
+      "foundAt": "Philippians 2:17"
+    },
+    {
+      "id": "thysia",
+      "strongs": [
+        "G2378"
+      ],
+      "foundAt": "Philippians 2:17"
+    },
+    {
+      "id": "isopsychos",
+      "strongs": [
+        "G2473"
+      ],
+      "foundAt": "Philippians 2:20"
+    },
+    {
+      "id": "systratiotes",
+      "strongs": [
+        "G4961"
+      ],
+      "foundAt": "Philippians 2:25"
+    },
+    {
+      "id": "paraboleuomai",
+      "strongs": [
+        "G3851"
+      ],
+      "foundAt": "Philippians 2:30"
+    },
+    {
+      "id": "sympsychos",
+      "strongs": [
+        "G4861"
+      ],
+      "foundAt": "Philippians 2:2"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Philippians 1:5"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "Philippians 1:5"
+    },
+    {
+      "id": "episkopos",
+      "strongs": [
+        "G1985"
+      ],
+      "foundAt": "Philippians 1:1"
+    },
+    {
+      "id": "diakonos",
+      "strongs": [
+        "G1249"
+      ],
+      "foundAt": "Philippians 1:1"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "Philippians 1:1"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Philippians 1:2"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Philippians 1:2"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "Philippians 1:4"
+    },
+    {
+      "id": "splanchnon",
+      "strongs": [
+        "G4698"
+      ],
+      "foundAt": "Philippians 1:8"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "Philippians 1:9"
+    },
+    {
+      "id": "perisseuo",
+      "strongs": [
+        "G4052"
+      ],
+      "foundAt": "Philippians 1:9"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "Philippians 1:10"
+    },
+    {
+      "id": "karpos",
+      "strongs": [
+        "G2590"
+      ],
+      "foundAt": "Philippians 1:11"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "Philippians 1:11"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "Philippians 1:11"
+    },
+    {
+      "id": "praitorion",
+      "strongs": [
+        "G4232"
+      ],
+      "foundAt": "Philippians 1:13"
+    },
+    {
+      "id": "eritheia",
+      "strongs": [
+        "G2052"
+      ],
+      "foundAt": "Philippians 1:17"
+    },
+    {
+      "id": "soteria",
+      "strongs": [
+        "G4991"
+      ],
+      "foundAt": "Philippians 1:19"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "Philippians 1:20"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "Philippians 1:29"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Philippians 1:1"
+    },
+    {
+      "id": "stauros",
+      "strongs": [
+        "G4716"
+      ],
+      "foundAt": "Philippians 2:8"
+    },
+    {
+      "id": "onoma",
+      "strongs": [
+        "G3686"
+      ],
+      "foundAt": "Philippians 2:9"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "Philippians 1:2"
+    },
+    {
+      "id": "phobos",
+      "strongs": [
+        "G5401"
+      ],
+      "foundAt": "Philippians 2:12"
+    },
+    {
+      "id": "energeo",
+      "strongs": [
+        "G1754"
+      ],
+      "foundAt": "Philippians 2:13"
+    },
+    {
+      "id": "eudokia",
+      "strongs": [
+        "G2107"
+      ],
+      "foundAt": "Philippians 1:15"
+    },
+    {
+      "id": "amomos",
+      "strongs": [
+        "G0299"
+      ],
+      "foundAt": "Philippians 2:15"
+    },
+    {
+      "id": "leitourgia",
+      "strongs": [
+        "G3009"
+      ],
+      "foundAt": "Philippians 2:17"
+    },
+    {
+      "id": "dokime",
+      "strongs": [
+        "G1382"
+      ],
+      "foundAt": "Philippians 2:22"
+    },
+    {
+      "id": "synergos",
+      "strongs": [
+        "G4904"
+      ],
+      "foundAt": "Philippians 2:25"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Philippians 2:25"
+    },
+    {
+      "id": "leitourgos",
+      "strongs": [
+        "G3011"
+      ],
+      "foundAt": "Philippians 2:25"
+    },
+    {
+      "id": "hysterema",
+      "strongs": [
+        "G5303"
+      ],
+      "foundAt": "Philippians 2:30"
+    },
+    {
+      "id": "agon",
+      "strongs": [
+        "G0073"
+      ],
+      "foundAt": "Philippians 1:30"
+    },
+    {
+      "id": "kyon",
+      "strongs": [
+        "G2965"
+      ],
+      "foundAt": "Philippians 3:2"
+    },
+    {
+      "id": "katatome",
+      "strongs": [
+        "G2699"
+      ],
+      "foundAt": "Philippians 3:2"
+    },
+    {
+      "id": "zemia",
+      "strongs": [
+        "G2209"
+      ],
+      "foundAt": "Philippians 3:7"
+    },
+    {
+      "id": "skybalon",
+      "strongs": [
+        "G4657"
+      ],
+      "foundAt": "Philippians 3:8"
+    },
+    {
+      "id": "pathema",
+      "strongs": [
+        "G3804"
+      ],
+      "foundAt": "Philippians 3:10"
+    },
+    {
+      "id": "symmorphizo",
+      "strongs": [
+        "G4833"
+      ],
+      "foundAt": "Philippians 3:10"
+    },
+    {
+      "id": "katantao",
+      "strongs": [
+        "G2658"
+      ],
+      "foundAt": "Philippians 3:11"
+    },
+    {
+      "id": "teleioo",
+      "strongs": [
+        "G5048"
+      ],
+      "foundAt": "Philippians 3:12"
+    },
+    {
+      "id": "epekteinomai",
+      "strongs": [
+        "G1901"
+      ],
+      "foundAt": "Philippians 3:13"
+    },
+    {
+      "id": "skopos",
+      "strongs": [
+        "G4649"
+      ],
+      "foundAt": "Philippians 3:14"
+    },
+    {
+      "id": "brabeion",
+      "strongs": [
+        "G1017"
+      ],
+      "foundAt": "Philippians 3:14"
+    },
+    {
+      "id": "klesis",
+      "strongs": [
+        "G2821"
+      ],
+      "foundAt": "Philippians 3:14"
+    },
+    {
+      "id": "symmimetes",
+      "strongs": [
+        "G4831"
+      ],
+      "foundAt": "Philippians 3:17"
+    },
+    {
+      "id": "apoleia",
+      "strongs": [
+        "G0684"
+      ],
+      "foundAt": "Philippians 1:28"
+    },
+    {
+      "id": "koilia",
+      "strongs": [
+        "G2836"
+      ],
+      "foundAt": "Philippians 3:19"
+    },
+    {
+      "id": "aischyne",
+      "strongs": [
+        "G0152"
+      ],
+      "foundAt": "Philippians 3:19"
+    },
+    {
+      "id": "epigeios",
+      "strongs": [
+        "G1919"
+      ],
+      "foundAt": "Philippians 2:10"
+    },
+    {
+      "id": "politeuma",
+      "strongs": [
+        "G4175"
+      ],
+      "foundAt": "Philippians 3:20"
+    },
+    {
+      "id": "tapeinosis",
+      "strongs": [
+        "G5014"
+      ],
+      "foundAt": "Philippians 3:21"
+    },
+    {
+      "id": "symmorphos",
+      "strongs": [
+        "G4832"
+      ],
+      "foundAt": "Philippians 3:21"
+    },
+    {
+      "id": "syzygos",
+      "strongs": [
+        "G4805"
+      ],
+      "foundAt": "Philippians 4:3"
+    },
+    {
+      "id": "epieikes",
+      "strongs": [
+        "G1933"
+      ],
+      "foundAt": "Philippians 4:5"
+    },
+    {
+      "id": "engys",
+      "strongs": [
+        "G1451"
+      ],
+      "foundAt": "Philippians 4:5"
+    },
+    {
+      "id": "aitema",
+      "strongs": [
+        "G0155"
+      ],
+      "foundAt": "Philippians 4:6"
+    },
+    {
+      "id": "semnos",
+      "strongs": [
+        "G4586"
+      ],
+      "foundAt": "Philippians 4:8"
+    },
+    {
+      "id": "prosphiles",
+      "strongs": [
+        "G4375"
+      ],
+      "foundAt": "Philippians 4:8"
+    },
+    {
+      "id": "euphemos",
+      "strongs": [
+        "G2163"
+      ],
+      "foundAt": "Philippians 4:8"
+    },
+    {
+      "id": "arete",
+      "strongs": [
+        "G0703"
+      ],
+      "foundAt": "Philippians 4:8"
+    },
+    {
+      "id": "epainos",
+      "strongs": [
+        "G1868"
+      ],
+      "foundAt": "Philippians 1:11"
+    },
+    {
+      "id": "anathallo",
+      "strongs": [
+        "G0330"
+      ],
+      "foundAt": "Philippians 4:10"
+    },
+    {
+      "id": "autarkes",
+      "strongs": [
+        "G0842"
+      ],
+      "foundAt": "Philippians 4:11"
+    },
+    {
+      "id": "myeo",
+      "strongs": [
+        "G3453"
+      ],
+      "foundAt": "Philippians 4:12"
+    },
+    {
+      "id": "synkoinoneo",
+      "strongs": [
+        "G4790"
+      ],
+      "foundAt": "Philippians 4:14"
+    },
+    {
+      "id": "dosis",
+      "strongs": [
+        "G1394"
+      ],
+      "foundAt": "Philippians 4:15"
+    },
+    {
+      "id": "lempsis",
+      "strongs": [
+        "G3028"
+      ],
+      "foundAt": "Philippians 4:15"
+    },
+    {
+      "id": "chreia",
+      "strongs": [
+        "G5532"
+      ],
+      "foundAt": "Philippians 2:25"
+    },
+    {
+      "id": "apecho",
+      "strongs": [
+        "G0568"
+      ],
+      "foundAt": "Philippians 4:18"
+    },
+    {
+      "id": "oikia",
+      "strongs": [
+        "G3614H"
+      ],
+      "foundAt": "Philippians 4:22"
+    },
+    {
+      "id": "thanatos",
+      "strongs": [
+        "G2288"
+      ],
+      "foundAt": "Philippians 1:20"
+    },
+    {
+      "id": "eucharistia",
+      "strongs": [
+        "G2169"
+      ],
+      "foundAt": "Philippians 4:6"
+    },
+    {
+      "id": "manthano",
+      "strongs": [
+        "G3129"
+      ],
+      "foundAt": "Philippians 4:9"
+    },
+    {
+      "id": "prasso",
+      "strongs": [
+        "G4238"
+      ],
+      "foundAt": "Philippians 4:9"
+    },
+    {
+      "id": "euarestos",
+      "strongs": [
+        "G2101"
+      ],
+      "foundAt": "Philippians 4:18"
+    },
+    {
+      "id": "ploutos",
+      "strongs": [
+        "G4149"
+      ],
+      "foundAt": "Philippians 4:19"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Philippians 3:3"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "Philippians 1:19"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "Philippians 1:22"
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "foundAt": "Philippians 3:6"
+    },
+    {
+      "id": "dioko",
+      "strongs": [
+        "G1377"
+      ],
+      "foundAt": "Philippians 3:6"
+    },
+    {
+      "id": "nomos",
+      "strongs": [
+        "G3551"
+      ],
+      "foundAt": "Philippians 3:5"
+    },
+    {
+      "id": "gnosis",
+      "strongs": [
+        "G1108"
+      ],
+      "foundAt": "Philippians 3:8"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Philippians 1:25"
+    },
+    {
+      "id": "ginosko",
+      "strongs": [
+        "G1097"
+      ],
+      "foundAt": "Philippians 1:12"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "Philippians 3:10"
+    },
+    {
+      "id": "anastasis",
+      "strongs": [
+        "G0386"
+      ],
+      "foundAt": "Philippians 3:10"
+    },
+    {
+      "id": "katalambano",
+      "strongs": [
+        "G2638"
+      ],
+      "foundAt": "Philippians 3:12"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "Philippians 3:15"
+    },
+    {
+      "id": "phroneo",
+      "strongs": [
+        "G5426"
+      ],
+      "foundAt": "Philippians 1:7"
+    },
+    {
+      "id": "typos",
+      "strongs": [
+        "G5179"
+      ],
+      "foundAt": "Philippians 3:17"
+    },
+    {
+      "id": "soter",
+      "strongs": [
+        "G4990"
+      ],
+      "foundAt": "Philippians 3:20"
+    },
+    {
+      "id": "metaschematizo",
+      "strongs": [
+        "G3345"
+      ],
+      "foundAt": "Philippians 3:21"
+    },
+    {
+      "id": "energeia",
+      "strongs": [
+        "G1753"
+      ],
+      "foundAt": "Philippians 3:21"
+    },
+    {
+      "id": "hypotasso",
+      "strongs": [
+        "G5293"
+      ],
+      "foundAt": "Philippians 3:21"
+    },
+    {
+      "id": "biblos",
+      "strongs": [
+        "G0976"
+      ],
+      "foundAt": "Philippians 4:3"
+    },
+    {
+      "id": "merimnao",
+      "strongs": [
+        "G3309"
+      ],
+      "foundAt": "Philippians 2:20"
+    },
+    {
+      "id": "proseuche",
+      "strongs": [
+        "G4335"
+      ],
+      "foundAt": "Philippians 4:6"
+    },
+    {
+      "id": "deesis",
+      "strongs": [
+        "G1162"
+      ],
+      "foundAt": "Philippians 1:4"
+    },
+    {
+      "id": "nous",
+      "strongs": [
+        "G3563"
+      ],
+      "foundAt": "Philippians 4:7"
+    },
+    {
+      "id": "phroureo",
+      "strongs": [
+        "G5432"
+      ],
+      "foundAt": "Philippians 4:7"
+    },
+    {
+      "id": "aletheia",
+      "strongs": [
+        "G0225"
+      ],
+      "foundAt": "Philippians 1:18"
+    },
+    {
+      "id": "dikaios",
+      "strongs": [
+        "G1342"
+      ],
+      "foundAt": "Philippians 1:7"
+    },
+    {
+      "id": "agnos",
+      "strongs": [
+        "G0053"
+      ],
+      "foundAt": "Philippians 4:8"
+    },
+    {
+      "id": "logizomai",
+      "strongs": [
+        "G3049"
+      ],
+      "foundAt": "Philippians 3:13"
+    },
+    {
+      "id": "endynamoo",
+      "strongs": [
+        "G1743"
+      ],
+      "foundAt": "Philippians 4:13"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Philippians 1:17"
+    },
+    {
+      "id": "euodia",
+      "strongs": [
+        "G2175"
+      ],
+      "foundAt": "Philippians 4:18"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "Philippians 4:21"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Rome isn't named in Philippians. It is shown as the traditional place of Paul's imprisonment; Ephesus and Caesarea have also been suggested."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "philippians",
+  "title": "Philippians",
+  "order": 50,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 4,
+  "tagline": "A joyful letter from prison: Christ's humility, shared partnership, and contentment in every circumstance.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul and Timothy (1:1), and almost all scholars accept it as Paul's. Some think chapter 3 (with its sudden warning, 3:2) or the thank-you note in 4:10-20 may have been separate pieces joined later, but there is no manuscript evidence for that and many scholars see one letter. The Christ hymn in 2:6-11 may be an earlier hymn that Paul quotes or his own composition.",
+  "authorDebated": false,
+  "audience": "The church in Philippi, with its overseers and deacons",
+  "audienceNote": "Philippi was the first European city where Paul founded a church (Acts 16), on his second journey. It was a Roman colony, proud of its Roman citizenship, with many retired soldiers. The church began with Lydia, a seller of purple cloth, and a jailer, and was one of the few that supported Paul financially (4:15-16).",
+  "setting": "Paul in prison, probably in Rome, about AD 60 to 62 (debated)",
+  "settingNote": "Paul writes from prison (1:7, 1:13-14), where he awaits a verdict that could mean death or release. Rome is the traditional place (the \"imperial guard\" in 1:13 and \"Caesar's household\" in 4:22 fit), but Ephesus (about AD 54 to 55) and Caesarea (about AD 58) have been suggested; the letter does not name the city. Epaphroditus has brought a gift from Philippi and has been seriously ill (2:25-30).",
+  "genre": "Letter",
+  "genreNote": "A warm, personal letter, partly a thank-you note, partly a report of Paul's circumstances, and partly an appeal for unity. Joy and rejoicing run through it; the words \"joy\" and \"rejoice\" occur about sixteen times in four chapters.",
+  "bigIdea": "Whatever happens, even prison and the threat of death, Christ is being proclaimed; the church should follow Christ's humility, stand united, and rejoice in him, finding contentment in every circumstance.",
+  "themes": [
+    "Joy in all circumstances",
+    "Christ's humility and exaltation",
+    "Partnership in the gospel",
+    "Unity and humility",
+    "Contentment and trust"
+  ],
+  "mapTitle": "Map: Philippi, Thessalonica, and Rome",
+  "mapSummary": "Philippi sits on the road across Macedonia from Neapolis toward Thessalonica; Paul writes from prison, traditionally in Rome.",
+  "scene": {
+    "author": "Paul",
+    "audience": "The church in Philippi",
+    "happening": "Paul in prison, probably Rome, about AD 60 to 62 (debated)"
+  },
+  "overviewPeople": [
+    "paul",
+    "timothy",
+    "epaphroditus",
+    "euodia-and-syntyche",
+    "clement",
+    "the-philippian-believers"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
