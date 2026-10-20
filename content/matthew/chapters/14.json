@@ -1,0 +1,78 @@
+{
+  "number": 14,
+  "sceneHappening": "Herod's banquet, then a crowd fed beside the lake",
+  "summary": "Herod Antipas, ruler of Galilee, hears about Jesus and says it must be John the Baptist raised from the dead. Matthew explains: Herod had arrested John for saying it was unlawful for him to have his brother Philip's wife Herodias. At Herod's birthday banquet, Herodias's daughter dances, and Herod swears to give her whatever she asks. Prompted by her mother, she asks for John's head on a platter. Herod is distressed, but because of his oath and his guests, he has John beheaded. John's disciples bury him and tell Jesus. Jesus withdraws by boat to a quiet place, but the crowds follow on foot. He has compassion and heals their sick. In the evening the disciples suggest sending everyone away to buy food; Jesus says, \"You give them something to eat.\" With five loaves and two fish he looks up, blesses, breaks, and gives to the disciples to distribute. All eat and are satisfied, and twelve baskets of leftovers remain, from about five thousand men, besides women and children. He sends the disciples across the lake, dismisses the crowds, and goes up a mountain to pray. In the fourth watch of the night, with the boat battered by wind, he comes to them walking on the sea. They cry out in fear; he says, \"Take heart! It is I. Don't be afraid.\" Peter asks to come to him on the water, steps out, notices the wind, and begins to sink; Jesus catches him: \"You of little faith, why did you doubt?\" When they get into the boat the wind stops, and the disciples worship him: \"Truly you are the Son of God.\" At Gennesaret, people bring all their sick, who are healed by touching the fringe of his cloak.",
+  "whySettingMatters": "Herod Antipas was a son of Herod the Great, appointed by Rome as tetrarch (ruler of a quarter) of Galilee and Perea; Matthew calls him tetrarch at first, then king, as people did. The historian Josephus places John's imprisonment at the fortress of Machaerus; Matthew doesn't say where. Herodias had been married to Antipas's half-brother and was also his niece, and the law forbade marrying a brother's wife (Leviticus 18:16, 20:21). Banquets were public contests of honor, which is why Herod keeps an oath he regrets. The Romans divided the night into four watches, so the fourth was roughly 3 to 6 a.m. The Sea of Galilee is ringed by hills, so strong winds drop down onto it without warning. In Israel's Scriptures, God alone \"treads on the waves of the sea\" (Job 9:8). Matthew counts only the men at the feeding, so the crowd may have been far larger than five thousand.",
+  "people": [
+    {
+      "id": "herod-antipas",
+      "note": "Rules Galilee for Rome, and keeps an oath he regrets because his guests are watching."
+    },
+    {
+      "id": "herodias",
+      "note": "Holds a grudge against John for criticizing her marriage, and uses her daughter to act on it."
+    },
+    {
+      "id": "herodias-daughter",
+      "note": "Unnamed in Matthew; the historian Josephus calls her Salome."
+    },
+    {
+      "id": "john-baptist",
+      "note": "Killed in prison for telling a ruler the truth; his disciples bury him."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Follow Jesus on foot to a lonely place, and are fed there."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Told to feed the crowd, then terrified in the boat, then worshiping."
+    },
+    {
+      "id": "peter",
+      "note": "Asks to walk on the water, then sinks when he notices the wind."
+    }
+  ],
+  "questions": [
+    "Herod keeps an oath he regrets because his guests are watching. What does that say about the pull of public honor?",
+    "Matthew puts John's death right before Jesus withdraws and then feeds the crowd. What might link them?",
+    "Jesus says \"You give them something to eat,\" then works with what the disciples bring. What does he ask of them, and what does he do himself?",
+    "Peter asks to come to Jesus on the water, then sinks. What do you make of both his request and his fear?"
+  ],
+  "words": [
+    {
+      "id": "splanchnizomai",
+      "note": "He had compassion on the crowd and healed their sick (14:14)."
+    },
+    {
+      "id": "oligopistos",
+      "note": "\"You of little faith, why did you doubt?\" (14:31)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "The disciples worship him in the boat (14:33)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 18:16",
+      "note": "the law about a brother's wife"
+    },
+    {
+      "ref": "2 Kings 4:42-44",
+      "note": "Elisha feeds a hundred men with twenty loaves"
+    },
+    {
+      "ref": "Job 9:8",
+      "note": "God alone treads on the waves of the sea"
+    },
+    {
+      "ref": "Isaiah 41:10",
+      "note": "\"Don't be afraid, for I am with you\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -523,7 +523,7 @@
       ],
       "language": "Greek",
       "corpus": "New Testament",
-      "corpusCount": 532,
+      "corpusCount": 534,
       "elsewhereCheck": [
         {
           "ref": "Mark 8:29",
@@ -891,7 +891,7 @@
       ],
       "language": "Greek",
       "corpus": "New Testament",
-      "corpusCount": 226,
+      "corpusCount": 227,
       "elsewhereCheck": [
         {
           "ref": "Mark 5:34",
@@ -1442,8 +1442,8 @@
           "found": true
         },
         {
-          "ref": "Luke 10:30",
-          "found": false
+          "ref": "Luke 8:11",
+          "found": true
         },
         {
           "ref": "Luke 15:3",
@@ -1489,7 +1489,7 @@
       ],
       "language": "Greek",
       "corpus": "New Testament",
-      "corpusCount": 27,
+      "corpusCount": 28,
       "elsewhereCheck": [
         {
           "ref": "Mark 4:11",
@@ -1497,7 +1497,7 @@
         },
         {
           "ref": "Romans 16:25",
-          "found": false
+          "found": true
         },
         {
           "ref": "Ephesians 3:3",
@@ -1643,6 +1643,333 @@
         "license": "CC BY 4.0",
         "fetched": "2026-10-19",
         "item": "G5045"
+      }
+    },
+    {
+      "id": "oligopistos",
+      "strongs": [
+        "G3640"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3640",
+          "original": "ὀλιγόπιστος",
+          "transliteration": "oligopistos",
+          "partOfSpeech": "G:A",
+          "gloss": "of little faith",
+          "meaning": "ὀλιγό-πιστος, -ον\nof little faith or trust: Mat.6:30 8:26 14:31 16:8, Luk.12:28.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "ὀλιγόπιστοι;",
+          "translit": "oligopistoi",
+          "gloss": "of little faith"
+        },
+        {
+          "original": "ὀλιγόπιστε",
+          "translit": "oligopiste",
+          "gloss": "of little faith"
+        },
+        {
+          "original": "ὀλιγόπιστοι",
+          "translit": "oligopistoi",
+          "gloss": "of little faith"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 6:30",
+        "Matthew 8:26",
+        "Matthew 14:31",
+        "Matthew 16:8"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 5,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 6:30",
+          "found": true
+        },
+        {
+          "ref": "Matthew 8:26",
+          "found": true
+        },
+        {
+          "ref": "Matthew 16:8",
+          "found": true
+        },
+        {
+          "ref": "Luke 12:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3640"
+      }
+    },
+    {
+      "id": "proskuneo",
+      "strongs": [
+        "G4352"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G4352",
+          "original": "προσκυνέω",
+          "transliteration": "proskuneō",
+          "partOfSpeech": "G:V",
+          "gloss": "to worship",
+          "meaning": "προσ-κυνέω, -ῶ\n(κυνέω, to kiss), [in LXX chiefly for שָׁחָה hith. ;]\nto make obeisance, do reverence to, worship;\n(a) prop. (as in cl., of the gods: Hdt., Æsch., Plat., al.), of God, Christ and supra-mundane beings: absol., Jhn.4:20 12:20, Act.8:27 24:11, Heb.11:21 (Westc., in l), Rev.11:1; πίπτειν καὶ π., Rev.5:14; with dative (of the significance of this constr. as com­pared with the usual cl., with accusative, see Abbott, JG, 78 f.; JV, 133 ff.), Jhn.4:21, 23, Act.7:43, 1Co.14:25, Heb.1:6, Rev.4:10 7:11 11:16 13:4, 15 14:7 16:2 19:4, 10 19:20 22:8-9; with accusative (see supr.), Mat.4:10, L …"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "προσκυνῆσαι",
+          "translit": "proskunēsai",
+          "gloss": "to worship"
+        },
+        {
+          "original": "προσκυνήσω",
+          "translit": "proskunēsō",
+          "gloss": "to worship"
+        },
+        {
+          "original": "προσεκύνησαν",
+          "translit": "prosekunēsan",
+          "gloss": "to worship"
+        },
+        {
+          "original": "προσκυνήσῃς",
+          "translit": "proskunēsēs",
+          "gloss": "to worship"
+        },
+        {
+          "original": "προσκυνήσεις",
+          "translit": "proskunēseis",
+          "gloss": "to worship"
+        },
+        {
+          "original": "προσεκύνει",
+          "translit": "prosekunei",
+          "gloss": "to worship"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 2:2",
+        "Matthew 2:8",
+        "Matthew 2:11",
+        "Matthew 4:9",
+        "Matthew 4:10",
+        "Matthew 8:2",
+        "Matthew 9:18",
+        "Matthew 14:33",
+        "Matthew 15:25",
+        "Matthew 18:26",
+        "Matthew 20:20",
+        "Matthew 28:9",
+        "Matthew 28:17"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 54,
+      "elsewhereCheck": [
+        {
+          "ref": "Matthew 4:10",
+          "found": true
+        },
+        {
+          "ref": "Matthew 28:17",
+          "found": true
+        },
+        {
+          "ref": "John 4:24",
+          "found": true
+        },
+        {
+          "ref": "Acts 10:25",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G4352"
+      }
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G3862",
+          "original": "παράδοσις",
+          "transliteration": "paradosis",
+          "partOfSpeech": "G:N-F",
+          "gloss": "tradition",
+          "meaning": "παρά-δοσις, -εως, ἡ\n(παραδίδωμι), [in LXX: Est.7:26 (אֵסוּר), Jer.32:4 (נָתַן ni.), Jer.34:2 * ;]\n1. a handing down or over, transfer, transmission (Arist., Polyb., al., LXX).\n2. tradition of doctrine (Plat., Epict., al.); by meton., of the doctrine itself : Mat.15:2-3, 6, Mrk.7:3, 1Co.11:2, Gal.1:14, Col.2:8, 2Th.2:15 3:9.†\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "παράδοσιν",
+          "translit": "paradosin",
+          "gloss": "tradition"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 15:2",
+        "Matthew 15:3",
+        "Matthew 15:6"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 13,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 7:3",
+          "found": true
+        },
+        {
+          "ref": "Galatians 1:14",
+          "found": true
+        },
+        {
+          "ref": "1 Corinthians 11:2",
+          "found": true
+        },
+        {
+          "ref": "2 Thessalonians 2:15",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G3862"
+      }
+    },
+    {
+      "id": "koinoo",
+      "strongs": [
+        "G2840"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2840",
+          "original": "κοινόω",
+          "transliteration": "koinoō",
+          "partOfSpeech": "G:V",
+          "gloss": "to profane",
+          "meaning": "κοινόω, -ῶ\n[in LXX: 4Ma.7:6 א R* ;]\n1. in cl., to make common.\n2. In LXX, l.with, and NT (as κοινός, 2), to make ceremonially unclean, to profane (= cl., βεληλόω): Mat.15:11, 18 15:20, Mrk.7:15, 18 7:20, 23, Act.21:28; pass., Heb.9:13.\n3. to count unclean (cf. δικαιόω): Act.10:15 11:9.†\nSYN.: βεβηλόω. Thayer (see word κ.) mentions that Winer Notes the accuracy whereby the Jews are said to use κ. in addressing Jews, Act.21:28, and β. when speaking to Felix, 24:6 (Cremer, 362) (AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κοινοῖ",
+          "translit": "koinoi",
+          "gloss": "to profane"
+        },
+        {
+          "original": "κοινοῦντα",
+          "translit": "koinounta",
+          "gloss": "to profane"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 15:11",
+        "Matthew 15:18",
+        "Matthew 15:20"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 11,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 7:15",
+          "found": true
+        },
+        {
+          "ref": "Acts 10:15",
+          "found": true
+        },
+        {
+          "ref": "Acts 21:28",
+          "found": true
+        },
+        {
+          "ref": "Hebrews 9:13",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2840"
+      }
+    },
+    {
+      "id": "kynarion",
+      "strongs": [
+        "G2952"
+      ],
+      "lexicon": [
+        {
+          "strongs": "G2952",
+          "original": "κυνάριον",
+          "transliteration": "kunarion",
+          "partOfSpeech": "G:N-N",
+          "gloss": "little dog",
+          "meaning": "κυνάριον, -ου, τό\n(in Att.. also κυνίδιον, diminutive of κύων)\na little dog: Mat.15:26-27 Mrk.7:27-28 †\n(AS)"
+        }
+      ],
+      "formsInBook": [
+        {
+          "original": "κυναρίοις",
+          "translit": "kunariois",
+          "gloss": "little dog"
+        },
+        {
+          "original": "κυνάρια",
+          "translit": "kunaria",
+          "gloss": "little dog"
+        }
+      ],
+      "occurrencesInBook": [
+        "Matthew 15:26",
+        "Matthew 15:27"
+      ],
+      "language": "Greek",
+      "corpus": "New Testament",
+      "corpusCount": 4,
+      "elsewhereCheck": [
+        {
+          "ref": "Mark 7:27",
+          "found": true
+        },
+        {
+          "ref": "Mark 7:28",
+          "found": true
+        }
+      ],
+      "source": {
+        "name": "STEPBible Data (Tyndale House, Cambridge)",
+        "url": "https://www.stepbible.org",
+        "license": "CC BY 4.0",
+        "fetched": "2026-10-19",
+        "item": "G2952"
       }
     }
   ]

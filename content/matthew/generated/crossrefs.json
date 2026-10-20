@@ -1161,7 +1161,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Leviticus 18:16",
+          "inDataset": true,
+          "votes": 6
+        },
+        {
+          "ref": "2 Kings 4:42-44",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Job 9:8",
+          "inDataset": true,
+          "votes": 9
+        },
+        {
+          "ref": "Isaiah 41:10",
+          "inDataset": true,
+          "votes": 12
+        }
+      ]
     },
     {
       "number": 15,
@@ -1224,7 +1245,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Isaiah 29:13",
+          "inDataset": true,
+          "votes": 113
+        },
+        {
+          "ref": "Exodus 20:12",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Exodus 21:17",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Jeremiah 17:9",
+          "inDataset": true,
+          "votes": 23
+        }
+      ]
     },
     {
       "number": 16,

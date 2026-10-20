@@ -1,0 +1,82 @@
+{
+  "number": 15,
+  "sceneHappening": "An argument over tradition, then the coast of Tyre and Sidon",
+  "summary": "Pharisees and scribes come from Jerusalem and ask why Jesus' disciples break the tradition of the elders by not washing their hands before eating. Jesus asks why they break God's commandment for the sake of their tradition. God said to honor father and mother, but they teach that if you say what you'd have given your parents is \"a gift to God,\" you needn't honor them. They have nullified God's word for their tradition. He calls them hypocrites and quotes Isaiah: \"This people honors me with their lips, but their heart is far from me.\" He calls the crowd and says it isn't what goes into the mouth that defiles a person, but what comes out. The disciples say the Pharisees were offended; Jesus replies that every plant the Father hasn't planted will be uprooted, and that they are blind guides. When Peter asks him to explain, Jesus says food passes through the body, but what comes out of the mouth comes from the heart: evil thoughts, murder, adultery, sexual immorality, theft, false testimony, slander. Those defile; eating with unwashed hands does not. Jesus then withdraws to the region of Tyre and Sidon. A Canaanite woman cries out, \"Have mercy on me, Lord, Son of David! My daughter is badly tormented by a demon.\" He doesn't answer her. The disciples urge him to send her away, and he says he was sent only to the lost sheep of Israel. She kneels: \"Lord, help me.\" He says it isn't right to take the children's bread and throw it to the little dogs. She answers, \"Yes, Lord, yet even the little dogs eat the crumbs that fall from their masters' table.\" Jesus says, \"Woman, great is your faith! Let it be done for you as you wish,\" and her daughter is healed that moment. Back beside the Sea of Galilee, Jesus goes up a mountain, where crowds bring the lame, blind, crippled, and mute, and he heals them, and they glorify the God of Israel. Out of compassion for a crowd that has been with him three days, he feeds them with seven loaves and a few small fish. Seven baskets are left over from about four thousand men, besides women and children. He sends the crowds away and goes by boat to the region of Magadan.",
+  "whySettingMatters": "Handwashing here isn't about germs. The law required priests to wash before serving (Exodus 30:17-21); the Pharisees' \"tradition of the elders\" carried that kind of purity into ordinary meals. It wasn't a commandment for everyone, which is why Jesus can weigh it against God's word. The saying about \"a gift to God\" refers to property declared dedicated to God; scholars debate exactly how the practice worked, but Jesus' point is that it was being used to dodge the duty to support one's parents. Tyre and Sidon were Gentile port cities on the Phoenician coast, and \"Canaanite\" is an old name for the people who lived in the land before Israel, so Matthew's word choice is pointed. Calling a Gentile mother \"Son of David\" shows she knows who he is. Many households kept small dogs; the word Jesus uses is a diminutive, and whether that softens the saying is debated. The feeding of the four thousand takes place beside the Sea of Galilee, and Matthew says the crowd \"glorified the God of Israel,\" which some readers take as a sign that many in it were Gentiles.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees and scribes who traveled from Jerusalem to challenge Jesus on tradition."
+    },
+    {
+      "id": "jesus",
+      "note": "Defends God's commandment over human tradition, then yields to a mother's persistence."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Worried about offending the Pharisees; also urge him to send the woman away."
+    },
+    {
+      "id": "peter",
+      "note": "Asks Jesus to explain the saying about what defiles."
+    },
+    {
+      "id": "canaanite-woman",
+      "note": "A Gentile mother who won't be turned away."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Brought their sick to him on the mountain, and ate with him for the second time."
+    }
+  ],
+  "questions": [
+    "Jesus doesn't throw out tradition itself. When does he say it goes wrong, and what example does he give?",
+    "He says what comes out of the heart is what defiles. Why might that have been unsettling to people who guarded purity carefully?",
+    "The Canaanite woman keeps asking. What do you notice about how she answers what Jesus says?",
+    "Matthew records two feedings of crowds. What might each add to the other?"
+  ],
+  "words": [
+    {
+      "id": "paradosis",
+      "note": "\"The tradition of the elders\" versus the commandment of God (15:2-6)."
+    },
+    {
+      "id": "koinoo",
+      "note": "What \"defiles\" a person (15:11, 15:18-20)."
+    },
+    {
+      "id": "kynarion",
+      "note": "The \"little dogs\" under the table (15:26-27)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "The woman kneels before him (15:25)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "\"I have compassion on the crowd\" (15:32)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 29:13",
+      "note": "lips near, heart far"
+    },
+    {
+      "ref": "Exodus 20:12",
+      "note": "honor your father and mother"
+    },
+    {
+      "ref": "Exodus 21:17",
+      "note": "the penalty for cursing a parent"
+    },
+    {
+      "ref": "Jeremiah 17:9",
+      "note": "the heart is deceitful"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

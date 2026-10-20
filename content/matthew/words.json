@@ -918,8 +918,8 @@
         "note": "He taught them many things in parables."
       },
       {
-        "ref": "Luke 10:30",
-        "note": "The good Samaritan."
+        "ref": "Luke 8:11",
+        "note": "\"Now the parable is this\": Jesus explains the sower."
       },
       {
         "ref": "Luke 15:3",
@@ -1056,6 +1056,230 @@
       {
         "ref": "Mark 6:3",
         "note": "\"Isn't this the carpenter?\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "oligopistos",
+    "transliteration": "oligopistos",
+    "original": "ὀλιγόπιστος",
+    "pronunciation": "oh-lee-GOH-pis-tos",
+    "gloss": "of little faith",
+    "notes": "A word Matthew uses mostly for the disciples, built from \"little\" and \"faith.\" It describes faith that is real but small, not an absence of faith: they follow Jesus and still panic in a storm (8:26), forget the bread (16:8), and sink on the water (14:31); in the sermon it's said to listeners who worry about clothes (6:30). Luke uses it once.",
+    "range": [
+      {
+        "sense": "Small faith",
+        "note": "Real trust that gives way under pressure."
+      }
+    ],
+    "translations": [
+      "little faith",
+      "of little faith",
+      "you of little faith"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 6:30",
+        "note": "Worry about clothing."
+      },
+      {
+        "ref": "Matthew 8:26",
+        "note": "The storm on the lake."
+      },
+      {
+        "ref": "Matthew 16:8",
+        "note": "The disciples forget the bread."
+      },
+      {
+        "ref": "Luke 12:28",
+        "note": "Luke's version of the clothing saying."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "proskuneo",
+    "transliteration": "proskyneō",
+    "original": "προσκυνέω",
+    "pronunciation": "pros-koo-NEH-oh",
+    "gloss": "to worship, bow down",
+    "notes": "Literally \"to kiss toward\": to bow or kneel before someone as a sign of honor or homage. It covers everything from showing respect to a ruler to worshiping God, so the context decides. Matthew uses it for the magi (2:2), for people kneeling before Jesus with a request (8:2, 9:18, 15:25), and for the disciples' worship (14:33, 28:17).",
+    "range": [
+      {
+        "sense": "Bow in respect",
+        "note": "Show honor to a superior."
+      },
+      {
+        "sense": "Kneel to ask",
+        "note": "Come humbly with a request."
+      },
+      {
+        "sense": "Worship",
+        "note": "Give God the honor due to him."
+      }
+    ],
+    "translations": [
+      "worship",
+      "bow down",
+      "kneel",
+      "pay homage"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:10",
+        "note": "\"Worship the Lord your God.\""
+      },
+      {
+        "ref": "Matthew 28:17",
+        "note": "They worshiped him, though some doubted."
+      },
+      {
+        "ref": "John 4:24",
+        "note": "Worship in spirit and truth."
+      },
+      {
+        "ref": "Acts 10:25",
+        "note": "Cornelius bows to Peter, who lifts him up."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradosis",
+    "transliteration": "paradosis",
+    "original": "παράδοσις",
+    "pronunciation": "pah-RAH-doh-sis",
+    "gloss": "tradition",
+    "notes": "Something handed down: teaching or practice passed from one generation to the next. It isn't bad in itself. Paul praises good traditions and tells churches to hold them. Jesus' complaint in chapter 15 is about a particular tradition used to set aside a commandment.",
+    "range": [
+      {
+        "sense": "What is handed on",
+        "note": "Teaching or custom passed down."
+      },
+      {
+        "sense": "The tradition of the elders",
+        "note": "The Pharisees' accumulated rulings on living out the law."
+      }
+    ],
+    "translations": [
+      "tradition",
+      "teaching",
+      "custom"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:3",
+        "note": "\"The tradition of the elders.\""
+      },
+      {
+        "ref": "Galatians 1:14",
+        "note": "Paul, zealous for the traditions of his ancestors."
+      },
+      {
+        "ref": "1 Corinthians 11:2",
+        "note": "Paul praises them for holding to the traditions."
+      },
+      {
+        "ref": "2 Thessalonians 2:15",
+        "note": "\"Hold to the traditions you were taught.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koinoo",
+    "transliteration": "koinoō",
+    "original": "κοινόω",
+    "pronunciation": "koy-NOH-oh",
+    "gloss": "to defile, make common",
+    "notes": "From koinos, \"common\": to make something common rather than set apart, and so ritually unclean. In Jewish usage, \"common\" was the opposite of \"holy.\" Jesus moves the question from outside to inside: what makes a person unclean is what comes from the heart.",
+    "range": [
+      {
+        "sense": "Make common",
+        "note": "Treat as ordinary, not set apart."
+      },
+      {
+        "sense": "Make unclean",
+        "note": "Ritually defile."
+      },
+      {
+        "sense": "Profane",
+        "note": "Treat what is holy as common."
+      }
+    ],
+    "translations": [
+      "defile",
+      "make unclean",
+      "profane",
+      "pollute"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:15",
+        "note": "The parallel saying."
+      },
+      {
+        "ref": "Acts 10:15",
+        "note": "\"Don't call common what God has cleansed.\""
+      },
+      {
+        "ref": "Acts 21:28",
+        "note": "Accused of defiling the temple."
+      },
+      {
+        "ref": "Hebrews 9:13",
+        "note": "Sprinkling for those who are defiled."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kynarion",
+    "transliteration": "kynarion",
+    "original": "κυνάριον",
+    "pronunciation": "koo-NAH-ree-on",
+    "gloss": "little dog",
+    "notes": "A diminutive of the word for dog, used in Matthew and Mark only in the story of the Canaanite woman. Matthew uses the plain word for dog elsewhere (7:6), as an insult for people outside. Here the woman picks up the small word Jesus used and turns it into a plea.",
+    "uncertain": "Whether the diminutive softens the saying, pointing to household pets rather than street dogs, is debated, as is how Jesus intends the whole exchange.",
+    "range": [
+      {
+        "sense": "Little dog",
+        "note": "A small dog, a household pet in many homes."
+      },
+      {
+        "sense": "Insulting term",
+        "note": "Gentiles could be called dogs by some Jews."
+      }
+    ],
+    "translations": [
+      "little dogs",
+      "dogs",
+      "puppies"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 7:27",
+        "note": "Mark's version: \"it is not good to take the children's bread.\""
+      },
+      {
+        "ref": "Mark 7:28",
+        "note": "\"Even the little dogs under the table eat the children's crumbs.\""
       }
     ],
     "review": {
