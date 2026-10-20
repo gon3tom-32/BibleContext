@@ -1,0 +1,70 @@
+{
+  "number": 24,
+  "sceneHappening": "On the Mount of Olives, looking across at the temple",
+  "summary": "As Jesus leaves the temple, the disciples point out its buildings. He says, \"Not one stone will be left here on another, that will not be thrown down.\" On the Mount of Olives they ask privately, \"When will these things be, and what is the sign of your coming (parousia) and of the end of the age?\" Jesus warns them not to be led astray: many will come in his name saying \"I am the Christ.\" There will be wars and rumors of wars, famines and earthquakes, but \"the end is not yet,\" for these are the beginning of birth pains. They will be handed over to tribulation, killed, and hated by all nations on account of his name; many will stumble and betray one another, false prophets will arise, lawlessness will increase, and love will grow cold, but the one who endures to the end will be saved. The gospel of the kingdom will be preached in the whole world as a testimony to all the nations, and then the end will come. When they see the abomination of desolation spoken of by Daniel standing in the holy place, those in Judea must flee to the mountains without turning back. It will be a great tribulation, and for the sake of the chosen those days will be shortened. They are not to believe claims that the Christ is here or there, for the Son of Man's coming will be like lightning from the east to the west. After the tribulation the sun will be darkened, the moon will not give light, and the stars will fall; the sign of the Son of Man will appear in heaven, all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds with power and great glory. He will send out his angels with a loud trumpet to gather his chosen from the four winds. From the fig tree learn: when its branches become tender and leaves come out, you know summer is near; so when you see all these things, know that he is near, at the doors. \"This generation will not pass away until all these things are accomplished. Heaven and earth will pass away, but my words will not pass away.\" \"But no one knows of that day and hour, not even the angels of heaven, but my Father only.\" As in the days of Noah, people were eating, drinking, and marrying until the flood came; two will be in the field, one taken and one left. \"Therefore watch, for you don't know in what hour your Lord comes.\" If the master of the house had known when the thief was coming, he would have stayed awake. A faithful and wise servant is the one whom his master finds doing his work when he returns; the wicked servant who says \"My master is delayed\" and begins to beat his fellow servants will be cut in pieces and put with the hypocrites, where there will be weeping and gnashing of teeth.",
+  "whySettingMatters": "Herod's rebuilding of the temple made it one of the wonders of the ancient world, with massive stones; Rome destroyed it in AD 70, within a generation of Jesus' words, and Matthew's readers may have known that. The Mount of Olives faces the temple across the Kidron valley. \"Birth pains\" was a standard picture for the troubles before a new age in Jewish writing. \"The abomination of desolation\" comes from Daniel (9:27, 11:31, 12:11), where it first described the desecration of the temple by the Seleucid king Antiochus IV in 167 BC; Jesus points to another such event. What the chapter covers is debated: the fall of Jerusalem in AD 70, the end of history, or both, and the phrase \"this generation\" is read several ways. The WEB text reads \"no one knows... but my Father only\"; many manuscripts add \"nor the Son.\" In the Greek world, parousia was the official arrival of a king or emperor on a visit. \"Two in the field, one taken\" is often read as being swept away as in the flood, though readers differ. The picture of the master's return and the servants' work continues in chapter 25.",
+  "people": [
+    {
+      "id": "the-disciples",
+      "note": "Ask privately about the temple's fall and the end of the age."
+    },
+    {
+      "id": "noah",
+      "note": "His days are the picture of life carrying on until the flood."
+    },
+    {
+      "id": "daniel",
+      "note": "The prophet whose \"abomination of desolation\" Jesus cites."
+    },
+    {
+      "id": "jesus",
+      "note": "Describes what will come and calls his followers to watch."
+    }
+  ],
+  "questions": [
+    "The disciples ask when and what sign. What does Jesus emphasize instead?",
+    "Jesus warns against being led astray by false messiahs and against being alarmed by wars. What do those two warnings share?",
+    "No one knows the day or hour, and yet Jesus says to watch. How do those two fit together?",
+    "The faithful servant is the one found doing his work when the master returns. What would that look like day to day?"
+  ],
+  "words": [
+    {
+      "id": "parousia",
+      "note": "\"The sign of your coming\" (24:3), and the coming of the Son of Man (24:27, 24:37, 24:39)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"Then they will hand you over to tribulation\" (24:9) and \"great tribulation\" (24:21)."
+    },
+    {
+      "id": "gregoreo",
+      "note": "\"Watch, therefore\" (24:42, 24:43)."
+    },
+    {
+      "id": "semeion",
+      "note": "\"What will be the sign of your coming?\" (24:3), and false signs and wonders (24:24)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Daniel 9:27",
+      "note": "the abomination that causes desolation"
+    },
+    {
+      "ref": "Daniel 7:13",
+      "note": "one like a son of man coming with the clouds"
+    },
+    {
+      "ref": "Isaiah 13:10",
+      "note": "the stars and the sun darkened"
+    },
+    {
+      "ref": "Isaiah 40:8",
+      "note": "the word of our God stands forever"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

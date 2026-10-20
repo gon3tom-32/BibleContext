@@ -258,5 +258,45 @@
     "id": "chief-priests",
     "name": "The chief priests and elders",
     "note": "The leading priests and community elders, members of the Sanhedrin, the ruling council in Jerusalem."
+  },
+  {
+    "id": "herodians",
+    "name": "The Herodians",
+    "note": "Supporters of the Herod family and its Rome-backed rule."
+  },
+  {
+    "id": "sadducees",
+    "name": "The Sadducees",
+    "note": "The priestly aristocracy, who accepted only the five books of Moses and denied resurrection."
+  },
+  {
+    "id": "the-lawyer",
+    "name": "A lawyer",
+    "note": "An expert in the law of Moses, who asks Jesus which commandment is greatest."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "Israel's great king, from whose line the Christ was expected."
+  },
+  {
+    "id": "noah",
+    "name": "Noah",
+    "note": "The man who built the ark; his days are Jesus' picture of life going on until the flood."
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "note": "The prophet whose book speaks of the \"abomination of desolation.\""
+  },
+  {
+    "id": "abel",
+    "name": "Abel",
+    "note": "Adam and Eve's son, killed by his brother Cain, the first righteous blood shed in Scripture."
+  },
+  {
+    "id": "zechariah-son-of-barachiah",
+    "name": "Zechariah son of Barachiah",
+    "note": "The last righteous martyr Jesus names. The Zechariah killed in the temple in 2 Chronicles is called a son of Jehoiada; whether they are the same is debated."
   }
 ]

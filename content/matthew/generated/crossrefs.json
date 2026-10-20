@@ -1831,7 +1831,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 6:5",
+          "inDataset": true,
+          "votes": 102
+        },
+        {
+          "ref": "Leviticus 19:18",
+          "inDataset": true,
+          "votes": 41
+        },
+        {
+          "ref": "Exodus 3:6",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Psalm 110:1",
+          "inDataset": true,
+          "votes": 34
+        }
+      ]
     },
     {
       "number": 23,
@@ -1893,7 +1914,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Micah 6:8",
+          "inDataset": true,
+          "votes": 20
+        },
+        {
+          "ref": "Hosea 6:6",
+          "inDataset": true,
+          "votes": 17
+        },
+        {
+          "ref": "Psalm 91:4",
+          "inDataset": true,
+          "votes": 16
+        },
+        {
+          "ref": "Proverbs 29:23",
+          "inDataset": true,
+          "votes": 23
+        }
+      ]
     },
     {
       "number": 24,
@@ -1955,7 +1997,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 9:27",
+          "inDataset": true,
+          "votes": 59
+        },
+        {
+          "ref": "Daniel 7:13",
+          "inDataset": true,
+          "votes": 15
+        },
+        {
+          "ref": "Isaiah 13:10",
+          "inDataset": true,
+          "votes": 19
+        },
+        {
+          "ref": "Isaiah 40:8",
+          "inDataset": true,
+          "votes": 421
+        }
+      ]
     },
     {
       "number": 25,

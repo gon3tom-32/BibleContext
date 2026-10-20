@@ -238,6 +238,22 @@
     {
       "id": "mother-of-zebedees-sons",
       "theographic": "mother_of_zebedees_children_2112"
+    },
+    {
+      "id": "david",
+      "theographic": "david_994"
+    },
+    {
+      "id": "noah",
+      "theographic": "noah_2210"
+    },
+    {
+      "id": "daniel",
+      "theographic": "daniel_975"
+    },
+    {
+      "id": "abel",
+      "theographic": "abel_13"
     }
   ],
   "words": [
@@ -551,6 +567,69 @@
         "G1484"
       ],
       "foundAt": "Matthew 20:19"
+    },
+    {
+      "id": "kensos",
+      "strongs": [
+        "G2778"
+      ],
+      "foundAt": "Matthew 22:17"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Matthew 22:37"
+    },
+    {
+      "id": "entole",
+      "strongs": [
+        "G1785"
+      ],
+      "foundAt": "Matthew 22:36"
+    },
+    {
+      "id": "rabbi",
+      "strongs": [
+        "G4461"
+      ],
+      "foundAt": "Matthew 23:7"
+    },
+    {
+      "id": "ouai",
+      "strongs": [
+        "G3759"
+      ],
+      "foundAt": "Matthew 23:13"
+    },
+    {
+      "id": "kathedra",
+      "strongs": [
+        "G2515"
+      ],
+      "foundAt": "Matthew 23:2"
+    },
+    {
+      "id": "parousia",
+      "strongs": [
+        "G3952"
+      ],
+      "foundAt": "Matthew 24:3"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Matthew 24:9"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Matthew 24:42"
     }
   ],
   "crossRefs": {
@@ -568,7 +647,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 22 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 25 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -585,6 +664,10 @@
     {
       "area": "places",
       "text": "Matthew doesn't name the mountain of the transfiguration (17:1); it isn't mapped."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
     }
   ]
 }

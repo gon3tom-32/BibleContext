@@ -2016,5 +2016,400 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "kensos",
+    "transliteration": "kēnsos",
+    "original": "κῆνσος",
+    "pronunciation": "KAIN-soss",
+    "gloss": "poll tax",
+    "notes": "A Latin loan word (census): the head tax Rome charged each person in a province, paid in Roman coin. It's used in only a few places in the Gospels. It was the most hated tax because it reminded subjects of Roman rule and was linked to a census, which sparked a revolt in AD 6.",
+    "range": [
+      {
+        "sense": "Census",
+        "note": "The registration used to assess the tax."
+      },
+      {
+        "sense": "Poll tax",
+        "note": "The tax assessed on each person."
+      }
+    ],
+    "translations": [
+      "poll tax",
+      "tax",
+      "census tax"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 17:25",
+        "note": "Kings collect duty or tax from others, not their sons."
+      },
+      {
+        "ref": "Mark 12:14",
+        "note": "The same question in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapao",
+    "transliteration": "agapaō",
+    "original": "ἀγαπάω",
+    "pronunciation": "ah-gah-PAH-oh",
+    "gloss": "to love",
+    "notes": "The usual New Testament verb for love, chosen for love that acts for another's good, not mainly feeling. It's the word in the greatest commandment, and in \"love your enemies\" (5:44). In the Greek Old Testament it translates the Hebrew verb in Deuteronomy 6:5.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Care for another that shows itself in action."
+      },
+      {
+        "sense": "Prefer",
+        "note": "Choose one over another."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:44",
+        "note": "\"Love your enemies.\""
+      },
+      {
+        "ref": "John 13:34",
+        "note": "\"Love one another as I have loved you.\""
+      },
+      {
+        "ref": "Romans 13:8",
+        "note": "Whoever loves has fulfilled the law."
+      },
+      {
+        "ref": "1 John 4:19",
+        "note": "\"We love because he first loved us.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "entole",
+    "transliteration": "entolē",
+    "original": "ἐντολή",
+    "pronunciation": "en-toh-LAY",
+    "gloss": "commandment",
+    "notes": "A specific command or instruction, often one of the commands in the law of Moses. Asked which entole is greatest, Jesus names two, from Deuteronomy and Leviticus, and says the law and prophets depend on them.",
+    "range": [
+      {
+        "sense": "Command",
+        "note": "A specific order or instruction."
+      },
+      {
+        "sense": "The law's commandments",
+        "note": "The commands given through Moses."
+      }
+    ],
+    "translations": [
+      "commandment",
+      "command",
+      "order"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 12:28",
+        "note": "The same question in Mark."
+      },
+      {
+        "ref": "John 13:34",
+        "note": "\"A new commandment I give you.\""
+      },
+      {
+        "ref": "Romans 13:9",
+        "note": "The commandments summed up in \"love your neighbor.\""
+      },
+      {
+        "ref": "1 John 2:7",
+        "note": "\"An old commandment.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rabbi",
+    "transliteration": "rhabbi",
+    "original": "ῥαββί",
+    "pronunciation": "rab-BEE",
+    "gloss": "Rabbi, teacher",
+    "notes": "A Hebrew word meaning \"my great one,\" used as a respectful address to a teacher. In Jesus' day it was becoming a title for recognized teachers of the law. Matthew keeps the Hebrew word; elsewhere people also address Jesus as \"Teacher.\" Judas uses it in 26:25.",
+    "range": [
+      {
+        "sense": "Teacher",
+        "note": "A respected teacher."
+      },
+      {
+        "sense": "Title",
+        "note": "A form of address showing honor."
+      }
+    ],
+    "translations": [
+      "Rabbi",
+      "Teacher"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:25",
+        "note": "Judas: \"Is it I, Rabbi?\""
+      },
+      {
+        "ref": "Mark 9:5",
+        "note": "Peter at the transfiguration."
+      },
+      {
+        "ref": "John 1:38",
+        "note": "\"Rabbi\" translated \"Teacher.\""
+      },
+      {
+        "ref": "John 3:2",
+        "note": "Nicodemus: \"Rabbi, we know you are a teacher from God.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ouai",
+    "transliteration": "ouai",
+    "original": "οὐαί",
+    "pronunciation": "oo-AI",
+    "gloss": "woe",
+    "notes": "A cry of grief or warning. In the prophets a \"woe\" announces coming judgment and also mourns for those under it. Jesus uses it for the seven woes here, and earlier in 11:21 for Chorazin and Bethsaida.",
+    "range": [
+      {
+        "sense": "Cry of grief",
+        "note": "Pain or sorrow."
+      },
+      {
+        "sense": "Warning of judgment",
+        "note": "A prophet's announcement of trouble ahead."
+      }
+    ],
+    "translations": [
+      "woe",
+      "alas",
+      "how terrible"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:21",
+        "note": "\"Woe to you, Chorazin.\""
+      },
+      {
+        "ref": "Luke 6:24",
+        "note": "Woe to the rich."
+      },
+      {
+        "ref": "1 Corinthians 9:16",
+        "note": "Paul: \"Woe to me if I don't preach.\""
+      },
+      {
+        "ref": "Revelation 8:13",
+        "note": "An eagle cries woe to the earth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kathedra",
+    "transliteration": "kathedra",
+    "original": "καθέδρα",
+    "pronunciation": "kah-THEH-drah",
+    "gloss": "seat, chair",
+    "notes": "The root of English \"cathedral\" (the bishop's chair) and \"ex cathedra.\" A teacher's seat. In synagogues the seat from which the law was read and taught was called Moses' seat, so sitting in it meant carrying a teacher's authority.",
+    "range": [
+      {
+        "sense": "Chair",
+        "note": "A seat."
+      },
+      {
+        "sense": "Teacher's seat",
+        "note": "The seat of teaching authority."
+      }
+    ],
+    "translations": [
+      "seat",
+      "chair"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:12",
+        "note": "The seats of those selling doves."
+      },
+      {
+        "ref": "Mark 11:15",
+        "note": "The same scene in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parousia",
+    "transliteration": "parousia",
+    "original": "παρουσία",
+    "pronunciation": "par-oo-SEE-ah",
+    "gloss": "coming, presence",
+    "notes": "Literally \"being alongside\": presence, and so arrival. In the Greek world it was used for the official visit of a king or emperor. In the New Testament it's most often the coming of Christ, which is why the disciples use it in 24:3. It can also mean ordinary presence, as in Paul's \"my presence\" in Philippians 2:12.",
+    "range": [
+      {
+        "sense": "Presence",
+        "note": "Being with someone."
+      },
+      {
+        "sense": "Arrival",
+        "note": "A visit or coming."
+      },
+      {
+        "sense": "The Lord's coming",
+        "note": "Christ's return in glory."
+      }
+    ],
+    "translations": [
+      "coming",
+      "arrival",
+      "presence"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 15:23",
+        "note": "\"Those who belong to Christ at his coming.\""
+      },
+      {
+        "ref": "1 Thessalonians 4:15",
+        "note": "\"Until the coming of the Lord.\""
+      },
+      {
+        "ref": "2 Corinthians 7:6",
+        "note": "Comforted by the coming of Titus."
+      },
+      {
+        "ref": "Philippians 2:12",
+        "note": "Obeying in Paul's presence and absence."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thlipsis",
+    "transliteration": "thlipsis",
+    "original": "θλῖψις",
+    "pronunciation": "THLEEP-sis",
+    "gloss": "tribulation, pressure",
+    "notes": "From a verb meaning \"to press\" or \"to crush\": being squeezed by hardship or persecution. English Bibles render it \"tribulation,\" \"affliction,\" or \"trouble.\" In Matthew it describes suffering that comes to followers of Jesus (13:21; 24:9) and the unmatched distress of 24:21.",
+    "range": [
+      {
+        "sense": "Pressure",
+        "note": "Being squeezed or crushed."
+      },
+      {
+        "sense": "Trouble",
+        "note": "Hardship or affliction."
+      },
+      {
+        "sense": "Persecution",
+        "note": "Suffering for the faith."
+      }
+    ],
+    "translations": [
+      "tribulation",
+      "affliction",
+      "trouble",
+      "persecution"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:21",
+        "note": "Trouble or persecution on account of the word."
+      },
+      {
+        "ref": "John 16:33",
+        "note": "\"In the world you will have tribulation.\""
+      },
+      {
+        "ref": "Romans 5:3",
+        "note": "Tribulation produces perseverance."
+      },
+      {
+        "ref": "Revelation 7:14",
+        "note": "Those who come out of the great tribulation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "gregoreo",
+    "transliteration": "grēgoreō",
+    "original": "γρηγορέω",
+    "pronunciation": "gray-gor-EH-oh",
+    "gloss": "to keep watch, stay awake",
+    "notes": "To be awake, and so to stay alert. It's used for literal wakefulness (as at Gethsemane) and for readiness for the Lord's return, which is how it's used throughout chapters 24 and 25.",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Don't sleep."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Stay ready for what is coming."
+      }
+    ],
+    "translations": [
+      "watch",
+      "keep watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:38",
+        "note": "\"Stay here and watch with me.\""
+      },
+      {
+        "ref": "Mark 13:37",
+        "note": "\"Watch.\""
+      },
+      {
+        "ref": "1 Thessalonians 5:6",
+        "note": "Let us stay awake and sober."
+      },
+      {
+        "ref": "Revelation 3:2",
+        "note": "\"Wake up!\" to the church in Sardis."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

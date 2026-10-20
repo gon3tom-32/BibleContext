@@ -848,7 +848,8 @@
       "gender": "Male",
       "family": {
         "father": {
-          "name": "David"
+          "name": "David",
+          "id": "david"
         },
         "mother": {
           "name": "Bathsheba"
@@ -1370,6 +1371,266 @@
         "fetched": "2026-10-19",
         "item": "mother_of_zebedees_children_2112",
         "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Jesse"
+        },
+        "spouses": [
+          {
+            "name": "Abigail"
+          },
+          {
+            "name": "Abital"
+          },
+          {
+            "name": "Ahinoam"
+          },
+          {
+            "name": "Bathsheba"
+          },
+          {
+            "name": "Eglah"
+          },
+          {
+            "name": "Haggith"
+          },
+          {
+            "name": "Maacah"
+          },
+          {
+            "name": "Michal"
+          }
+        ],
+        "children": [
+          {
+            "name": "Eliphalet"
+          },
+          {
+            "name": "Elpalet"
+          },
+          {
+            "name": "Elishua"
+          },
+          {
+            "name": "Ithream"
+          },
+          {
+            "name": "Nathan"
+          },
+          {
+            "name": "Tamar"
+          },
+          {
+            "name": "Shobab"
+          },
+          {
+            "name": "Eliada"
+          },
+          {
+            "name": "Absalom"
+          },
+          {
+            "name": "Solomon",
+            "id": "solomon"
+          },
+          {
+            "name": "Shephatiah"
+          },
+          {
+            "name": "Adonijah"
+          },
+          {
+            "name": "Ibhar"
+          },
+          {
+            "name": "Amnon"
+          },
+          {
+            "name": "Jerimoth"
+          },
+          {
+            "name": "Japhia"
+          },
+          {
+            "name": "Elishama"
+          },
+          {
+            "name": "Nepheg"
+          },
+          {
+            "name": "Shammua"
+          },
+          {
+            "name": "Daniel"
+          },
+          {
+            "name": "Nogah"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Abinadab"
+          },
+          {
+            "name": "Eliab"
+          },
+          {
+            "name": "Elihu"
+          },
+          {
+            "name": "Nethaneel"
+          },
+          {
+            "name": "Ozem"
+          },
+          {
+            "name": "Raddai"
+          },
+          {
+            "name": "Shammah"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        9,
+        12,
+        15,
+        20,
+        21,
+        22
+      ],
+      "verses": [
+        "Matthew 1:1",
+        "Matthew 1:6",
+        "Matthew 1:17",
+        "Matthew 1:20",
+        "Matthew 9:27",
+        "Matthew 12:3",
+        "Matthew 12:23",
+        "Matthew 15:22",
+        "Matthew 20:30",
+        "Matthew 20:31",
+        "Matthew 21:9",
+        "Matthew 21:15",
+        "Matthew 22:42",
+        "Matthew 22:43",
+        "Matthew 22:45"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "david_994",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "noah",
+      "name": "Noah",
+      "alsoCalled": "Noe",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Lamech"
+        },
+        "spouses": [],
+        "children": [
+          {
+            "name": "Ham"
+          },
+          {
+            "name": "Shem"
+          },
+          {
+            "name": "Japheth"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Matthew 24:37",
+        "Matthew 24:38"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "noah_2210",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "alsoCalled": "Belteshazzar",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Matthew 24:15"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "daniel_975",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "abel",
+      "name": "Abel",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Adam"
+        },
+        "mother": {
+          "name": "Eve"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Cain"
+          },
+          {
+            "name": "Seth"
+          }
+        ]
+      },
+      "chapters": [
+        23
+      ],
+      "verses": [
+        "Matthew 23:35"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "abel_13",
+        "recordStatus": "publish"
       }
     }
   ]

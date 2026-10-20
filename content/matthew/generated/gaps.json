@@ -27,7 +27,7 @@
     },
     {
       "area": "chapters",
-      "text": "Chapters 22 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
+      "text": "Chapters 25 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -44,6 +44,10 @@
     {
       "area": "places",
       "text": "Matthew doesn't name the mountain of the transfiguration (17:1); it isn't mapped."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
     }
   ]
 }
