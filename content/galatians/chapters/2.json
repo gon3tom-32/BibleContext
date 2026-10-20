@@ -1,0 +1,170 @@
+{
+  "sceneHappening": "Paul meets the apostles in Jerusalem, and later opposes Peter at Antioch",
+  "summary": "Fourteen years later, Paul went up again to Jerusalem with Barnabas, taking Titus along, by revelation; he put before them the gospel he preaches among the Gentiles, privately before those who seemed influential, so that he would not be running or have run in vain. Even Titus, a Greek, was not compelled to be circumcised. This was because of false brothers secretly brought in, who slipped in to spy on the freedom they have in Christ Jesus, to bring them into slavery: \"to whom we gave place in the way of subjection, no, not for an hour, that the truth of the Good News might continue with you.\" Those who seemed influential added nothing to Paul; instead they saw that he had been entrusted with the gospel for the uncircumcised just as Peter was for the circumcised, and James, Cephas, and John, who were considered pillars, gave Paul and Barnabas \"the right hand of fellowship\" so that they would go to the Gentiles and the others to the circumcised. They asked only that they remember the poor, which Paul was eager to do. But when Cephas came to Antioch, Paul opposed him to his face, because he stood condemned: before certain men came from James, he used to eat with the Gentiles, but when they came, he drew back and separated himself, fearing the circumcision party. The rest of the Jews joined him in hypocrisy, so that even Barnabas was led astray. When Paul saw that they were not acting in line with the truth of the Good News, he said to Cephas before them all, \"If you, being a Jew, live as the Gentiles do, and not as the Jews do, how can you compel the Gentiles to live as Jews do?\" We, who are Jews by nature and not sinners from among the Gentiles, know that a person is not justified by the works of the law but through faith in Jesus Christ, so we also believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law, since by works of the law no flesh will be justified. \"I have been crucified with Christ, and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me. I don't make void the grace of God. For if righteousness is through the law, then Christ died for nothing.\"",
+  "whySettingMatters": "The meeting in 2:1-10 is hard to line up with Acts. Many identify it with the Jerusalem Council of Acts 15, in which case Galatians was written after it; others identify it with the earlier famine-relief visit of Acts 11:30, in which case Galatians could be the earliest of Paul's letters. This is the single biggest reason for the date debate. The \"right hand of fellowship\" is a handshake of partnership. The key issue at Antioch was table fellowship: Jewish believers who ate with Gentiles risked criticism from stricter Jews, and Peter, who had once eaten with Gentiles (Acts 10-11), pulled back. Paul sees that withdrawal as undoing the gospel itself, because it implies Gentile believers are second-class. Paul does not tell us how Peter responded, and Acts does not mention the incident, though Peter later speaks in favor of Gentiles at the Jerusalem Council. The Greek phrase in 2:16 (pistis Christou) can be translated \"faith in Christ\" or \"the faithfulness of Christ,\" and scholars disagree; either way, Paul's point is that justification does not come from the works of the law. The words \"I have been crucified with Christ\" make the whole letter's argument personal.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Lays out his gospel in Jerusalem and confronts Peter."
+    },
+    {
+      "id": "barnabas",
+      "note": "Goes with Paul; later swept into the withdrawal at Antioch."
+    },
+    {
+      "id": "titus",
+      "note": "A Greek believer not compelled to be circumcised."
+    },
+    {
+      "id": "cephas",
+      "note": "Peter, who pulled back from eating with Gentiles."
+    },
+    {
+      "id": "james-the-lords-brother",
+      "note": "A pillar of the Jerusalem church, whose emissaries came to Antioch."
+    },
+    {
+      "id": "john-the-apostle",
+      "note": "One of the three pillars."
+    },
+    {
+      "id": "the-circumcision-party",
+      "note": "Those whose disapproval made Peter withdraw."
+    },
+    {
+      "id": "false-brothers",
+      "note": "Those who slipped in to spy on the freedom believers have."
+    }
+  ],
+  "questions": [
+    "Titus was not forced to be circumcised. Why does Paul see that as a test case?",
+    "At Antioch, Peter changed where he sat at the table. Why does Paul treat that as a threat to the gospel?",
+    "\"I have been crucified with Christ; it is no longer I who live.\" What does that sentence mean for how a believer lives?",
+    "Paul confronts Peter in public. When might that be right, and when might it not?"
+  ],
+  "words": [
+    {
+      "id": "pseudadelphos",
+      "note": "\"Because of the false brothers secretly brought in\" (2:4)."
+    },
+    {
+      "id": "pareisaktos",
+      "note": "\"Secretly brought in\" (2:4)."
+    },
+    {
+      "id": "katadouloo",
+      "note": "\"That they might bring us into bondage\" (2:4)."
+    },
+    {
+      "id": "eleutheria",
+      "note": "\"Our freedom which we have in Christ Jesus\" (2:4)."
+    },
+    {
+      "id": "stylos",
+      "note": "\"Who were reputed to be pillars\" (2:9)."
+    },
+    {
+      "id": "dexios",
+      "note": "\"The right hand of fellowship\" (2:9)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"Gave to me and Barnabas the right hand of fellowship\" (2:9)."
+    },
+    {
+      "id": "ptochos",
+      "note": "\"That we should remember the poor\" (2:10)."
+    },
+    {
+      "id": "katagnosko",
+      "note": "\"Because he stood condemned\" (2:11)."
+    },
+    {
+      "id": "hypostello",
+      "note": "\"He drew back and separated himself\" (2:12)."
+    },
+    {
+      "id": "synypokrinomai",
+      "note": "\"The rest of the Jews joined him in his hypocrisy\" (2:13)."
+    },
+    {
+      "id": "ioudaizo",
+      "note": "\"How can you compel the Gentiles to live as Jews?\" (2:14)."
+    },
+    {
+      "id": "akrobystia",
+      "note": "\"The gospel of the uncircumcision\" (2:7)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"The gospel of the circumcision\" (2:7-9, 2:12)."
+    },
+    {
+      "id": "dikaioo",
+      "note": "\"A man is not justified by the works of the law\" (2:16-17)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"By the works of the law\" (2:16)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"Not justified by the works of the law\" (2:16, 2:19, 2:21)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Through faith in Jesus Christ\" (2:16, 2:20)."
+    },
+    {
+      "id": "systauroo",
+      "note": "\"I have been crucified with Christ\" (2:19)."
+    },
+    {
+      "id": "stauroo",
+      "note": "\"Crucified with Christ\" (2:19-20)."
+    },
+    {
+      "id": "zao",
+      "note": "\"Christ lives in me\" (2:19-20)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Is Christ a servant of sin?\" (2:17)."
+    },
+    {
+      "id": "charis",
+      "note": "\"I don't make void the grace of God\" (2:21)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"The Son of God, who loved me\" (2:20)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "\"Gave himself up for me\" (2:20)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 15:1-21",
+      "note": "the Jerusalem meeting about circumcision"
+    },
+    {
+      "ref": "Acts 10:28",
+      "note": "God has shown me that I should call no one common or unclean"
+    },
+    {
+      "ref": "Psalm 143:2",
+      "note": "no one living is righteous before you"
+    },
+    {
+      "ref": "Romans 3:20-28",
+      "note": "a person is justified by faith apart from works of the law"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

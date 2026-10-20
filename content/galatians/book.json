@@ -1,0 +1,45 @@
+{
+  "slug": "galatians",
+  "title": "Galatians",
+  "order": 48,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 6,
+  "tagline": "Paul's fiery letter: the gospel is free grace, and Gentiles don't have to become Jews to belong.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul (1:1, 5:2), and almost no scholar doubts that. He writes \"with all the brothers who are with me\" (1:2) and adds a few lines in his own large handwriting (6:11).",
+  "authorDebated": false,
+  "audience": "The churches of Galatia",
+  "audienceNote": "Paul writes to \"the assemblies of Galatia\" (1:2), several congregations rather than one. Mostly Gentiles who had turned from idols (4:8-9) and, after Paul left, were being told by other teachers that they had to be circumcised and keep the law of Moses to be fully part of God's people. Who exactly \"Galatians\" means is debated (see setting).",
+  "setting": "Debated: perhaps from Antioch about AD 48 to 49, or from Ephesus or Macedonia about AD 53 to 57",
+  "settingNote": "Scholars disagree about both the place and date. If \"Galatia\" means the southern Roman province (Pisidian Antioch, Iconium, Lystra, and Derbe, Acts 13 and 14), the letter may be Paul's earliest, written before the Jerusalem meeting of Acts 15, around AD 48 to 49. If it means the northern region where the Gauls had settled, it was probably written during Paul's third journey, around AD 53 to 57. The letter itself does not say where Paul is writing from.",
+  "genre": "Letter",
+  "genreNote": "A sharp, urgent letter. Instead of the usual thanksgiving after the greeting, Paul goes straight to astonishment (1:6). He argues from his own story, from Scripture (especially Abraham), and from the Galatians' own experience of the Spirit, and ends with practical advice on freedom and walking by the Spirit.",
+  "bigIdea": "People are put right with God by faith in Christ, not by works of the law, so Gentiles belong fully without becoming Jews, and the freedom Christ gives is lived out by walking in the Spirit and serving one another in love.",
+  "themes": [
+    "Justification by faith",
+    "Freedom, not slavery",
+    "Abraham's children",
+    "The Spirit and the flesh",
+    "One family in Christ"
+  ],
+  "mapTitle": "Map: Damascus, Jerusalem, Antioch, and Galatia",
+  "mapSummary": "Paul tells his own story: from Damascus to Arabia and back, up to Jerusalem, then to Syria and Cilicia, and the clash with Peter in Antioch.",
+  "scene": {
+    "author": "Paul",
+    "audience": "The churches of Galatia",
+    "happening": "Debated: about AD 48 to 49 or 53 to 57"
+  },
+  "overviewPeople": [
+    "paul",
+    "barnabas",
+    "titus",
+    "cephas",
+    "james-the-lords-brother",
+    "abraham"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "osis": "Gal",
+  "stepBook": "Gal",
+  "webFile": "galatians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "galatia",
+      "ancientId": "a0f440a"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "damascus",
+      "ancientId": "a69c1d4"
+    },
+    {
+      "id": "antioch",
+      "ancientId": "ae41ab4"
+    },
+    {
+      "id": "cilicia",
+      "ancientId": "ad63819"
+    },
+    {
+      "id": "mount-sinai",
+      "ancientId": "abfba2a"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [
+    {
+      "id": "ioudaismos",
+      "strongs": [
+        "G2454"
+      ],
+      "foundAt": "Galatians 1:13"
+    },
+    {
+      "id": "exaireo",
+      "strongs": [
+        "G1807"
+      ],
+      "foundAt": "Galatians 1:4"
+    },
+    {
+      "id": "poneros",
+      "strongs": [
+        "G4190"
+      ],
+      "foundAt": "Galatians 1:4"
+    },
+    {
+      "id": "metastrepho",
+      "strongs": [
+        "G3344"
+      ],
+      "foundAt": "Galatians 1:7"
+    },
+    {
+      "id": "metatithemi",
+      "strongs": [
+        "G3346"
+      ],
+      "foundAt": "Galatians 1:6"
+    },
+    {
+      "id": "peitho",
+      "strongs": [
+        "G3982"
+      ],
+      "foundAt": "Galatians 1:10"
+    },
+    {
+      "id": "dioko",
+      "strongs": [
+        "G1377"
+      ],
+      "foundAt": "Galatians 1:13"
+    },
+    {
+      "id": "portheo",
+      "strongs": [
+        "G4199"
+      ],
+      "foundAt": "Galatians 1:13"
+    },
+    {
+      "id": "historeo",
+      "strongs": [
+        "G2477"
+      ],
+      "foundAt": "Galatians 1:18"
+    },
+    {
+      "id": "synypokrinomai",
+      "strongs": [
+        "G4942"
+      ],
+      "foundAt": "Galatians 2:13"
+    },
+    {
+      "id": "hypostello",
+      "strongs": [
+        "G5288"
+      ],
+      "foundAt": "Galatians 2:12"
+    },
+    {
+      "id": "katadouloo",
+      "strongs": [
+        "G2615"
+      ],
+      "foundAt": "Galatians 2:4"
+    },
+    {
+      "id": "pseudadelphos",
+      "strongs": [
+        "G5569"
+      ],
+      "foundAt": "Galatians 2:4"
+    },
+    {
+      "id": "pareisaktos",
+      "strongs": [
+        "G3920"
+      ],
+      "foundAt": "Galatians 2:4"
+    },
+    {
+      "id": "stylos",
+      "strongs": [
+        "G4769"
+      ],
+      "foundAt": "Galatians 2:9"
+    },
+    {
+      "id": "dexios",
+      "strongs": [
+        "G1188"
+      ],
+      "foundAt": "Galatians 2:9"
+    },
+    {
+      "id": "katagnosko",
+      "strongs": [
+        "G2607"
+      ],
+      "foundAt": "Galatians 2:11"
+    },
+    {
+      "id": "ioudaizo",
+      "strongs": [
+        "G2450"
+      ],
+      "foundAt": "Galatians 2:14"
+    },
+    {
+      "id": "akrobystia",
+      "strongs": [
+        "G0203"
+      ],
+      "foundAt": "Galatians 2:7"
+    },
+    {
+      "id": "systauroo",
+      "strongs": [
+        "G4957"
+      ],
+      "foundAt": "Galatians 2:19"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "Galatians 1:6"
+    },
+    {
+      "id": "anathema",
+      "strongs": [
+        "G0331"
+      ],
+      "foundAt": "Galatians 1:8"
+    },
+    {
+      "id": "apokalypsis",
+      "strongs": [
+        "G0602"
+      ],
+      "foundAt": "Galatians 1:12"
+    },
+    {
+      "id": "aion",
+      "strongs": [
+        "G0165G"
+      ],
+      "foundAt": "Galatians 1:4"
+    },
+    {
+      "id": "zelotes",
+      "strongs": [
+        "G2207"
+      ],
+      "foundAt": "Galatians 1:14"
+    },
+    {
+      "id": "paradosis",
+      "strongs": [
+        "G3862"
+      ],
+      "foundAt": "Galatians 1:14"
+    },
+    {
+      "id": "aphorizo",
+      "strongs": [
+        "G0873"
+      ],
+      "foundAt": "Galatians 1:15"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "Galatians 1:1"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "Galatians 1:3"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "Galatians 1:3"
+    },
+    {
+      "id": "ekklesia",
+      "strongs": [
+        "G1577"
+      ],
+      "foundAt": "Galatians 1:2"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "Galatians 2:9"
+    },
+    {
+      "id": "ptochos",
+      "strongs": [
+        "G4434"
+      ],
+      "foundAt": "Galatians 2:10"
+    },
+    {
+      "id": "peritome",
+      "strongs": [
+        "G4061"
+      ],
+      "foundAt": "Galatians 2:7"
+    },
+    {
+      "id": "dikaioo",
+      "strongs": [
+        "G1344"
+      ],
+      "foundAt": "Galatians 2:16"
+    },
+    {
+      "id": "ergon",
+      "strongs": [
+        "G2041"
+      ],
+      "foundAt": "Galatians 2:16"
+    },
+    {
+      "id": "nomos",
+      "strongs": [
+        "G3551"
+      ],
+      "foundAt": "Galatians 2:16"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "Galatians 1:23"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Galatians 3:1"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "Galatians 2:14"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "Galatians 1:4"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Galatians 2:20"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Galatians 2:20"
+    },
+    {
+      "id": "eleutheria",
+      "strongs": [
+        "G1657"
+      ],
+      "foundAt": "Galatians 2:4"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Where \"Galatia\" is (north or south) is debated, and so is where Paul wrote; the map marks the region as a whole."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}
