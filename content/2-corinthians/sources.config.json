@@ -1,0 +1,1408 @@
+{
+  "osis": "2Cor",
+  "stepBook": "2Co",
+  "webFile": "2corinthians.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "troas",
+      "ancientId": "a91c509"
+    },
+    {
+      "id": "macedonia",
+      "ancientId": "a69e1b8"
+    },
+    {
+      "id": "corinth",
+      "ancientId": "a6f437a"
+    },
+    {
+      "id": "achaia",
+      "ancientId": "aef4242"
+    },
+    {
+      "id": "asia",
+      "ancientId": "a197f19"
+    },
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a"
+    },
+    {
+      "id": "damascus",
+      "ancientId": "a69c1d4"
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [
+    {
+      "id": "paul",
+      "theographic": "paul_2479"
+    },
+    {
+      "id": "jesus",
+      "theographic": "jesus_905"
+    },
+    {
+      "id": "timothy",
+      "theographic": "timotheus_2863"
+    },
+    {
+      "id": "titus",
+      "theographic": "titus_2869"
+    },
+    {
+      "id": "silvanus",
+      "theographic": "silas_2740"
+    },
+    {
+      "id": "moses",
+      "theographic": "moses_2108"
+    },
+    {
+      "id": "eve",
+      "theographic": "eve_1231"
+    },
+    {
+      "id": "king-aretas",
+      "theographic": "aretas_297"
+    }
+  ],
+  "words": [
+    {
+      "id": "apokrima",
+      "strongs": [
+        "G0610"
+      ],
+      "foundAt": "2 Corinthians 1:9"
+    },
+    {
+      "id": "arrabon",
+      "strongs": [
+        "G0728"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "sphragizo",
+      "strongs": [
+        "G4972"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "haplotes",
+      "strongs": [
+        "G0572"
+      ],
+      "foundAt": "2 Corinthians 1:12"
+    },
+    {
+      "id": "perisseuo",
+      "strongs": [
+        "G4052"
+      ],
+      "foundAt": "2 Corinthians 1:5"
+    },
+    {
+      "id": "thriambeuo",
+      "strongs": [
+        "G2358"
+      ],
+      "foundAt": "2 Corinthians 2:14"
+    },
+    {
+      "id": "osme",
+      "strongs": [
+        "G3744"
+      ],
+      "foundAt": "2 Corinthians 2:14"
+    },
+    {
+      "id": "kapeleuo",
+      "strongs": [
+        "G2585"
+      ],
+      "foundAt": "2 Corinthians 2:17"
+    },
+    {
+      "id": "gramma",
+      "strongs": [
+        "G1121"
+      ],
+      "foundAt": "2 Corinthians 3:6"
+    },
+    {
+      "id": "kalymma",
+      "strongs": [
+        "G2571"
+      ],
+      "foundAt": "2 Corinthians 3:13"
+    },
+    {
+      "id": "eleutheria",
+      "strongs": [
+        "G1657"
+      ],
+      "foundAt": "2 Corinthians 3:17"
+    },
+    {
+      "id": "eikon",
+      "strongs": [
+        "G1504"
+      ],
+      "foundAt": "2 Corinthians 3:18"
+    },
+    {
+      "id": "metamorphoo",
+      "strongs": [
+        "G3339"
+      ],
+      "foundAt": "2 Corinthians 3:18"
+    },
+    {
+      "id": "parakaleo",
+      "strongs": [
+        "G3870"
+      ],
+      "foundAt": "2 Corinthians 1:4"
+    },
+    {
+      "id": "paraklesis",
+      "strongs": [
+        "G3874"
+      ],
+      "foundAt": "2 Corinthians 1:3"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "2 Corinthians 1:4"
+    },
+    {
+      "id": "charis",
+      "strongs": [
+        "G5485"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "koinonia",
+      "strongs": [
+        "G2842"
+      ],
+      "foundAt": "2 Corinthians 6:14"
+    },
+    {
+      "id": "charizomai",
+      "strongs": [
+        "G5483"
+      ],
+      "foundAt": "2 Corinthians 2:7"
+    },
+    {
+      "id": "lype",
+      "strongs": [
+        "G3077"
+      ],
+      "foundAt": "2 Corinthians 2:1"
+    },
+    {
+      "id": "thyra",
+      "strongs": [
+        "G2374"
+      ],
+      "foundAt": "2 Corinthians 2:12"
+    },
+    {
+      "id": "euangelion",
+      "strongs": [
+        "G2098"
+      ],
+      "foundAt": "2 Corinthians 2:12"
+    },
+    {
+      "id": "apollymi",
+      "strongs": [
+        "G0622"
+      ],
+      "foundAt": "2 Corinthians 2:15"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "2 Corinthians 2:15"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "2 Corinthians 3:6"
+    },
+    {
+      "id": "diakonia",
+      "strongs": [
+        "G1248"
+      ],
+      "foundAt": "2 Corinthians 3:7"
+    },
+    {
+      "id": "katargeo",
+      "strongs": [
+        "G2673"
+      ],
+      "foundAt": "2 Corinthians 3:7"
+    },
+    {
+      "id": "doxa",
+      "strongs": [
+        "G1391"
+      ],
+      "foundAt": "2 Corinthians 1:20"
+    },
+    {
+      "id": "pneuma",
+      "strongs": [
+        "G4151G",
+        "G4151H"
+      ],
+      "foundAt": "2 Corinthians 1:22"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "parresia",
+      "strongs": [
+        "G3954"
+      ],
+      "foundAt": "2 Corinthians 3:12"
+    },
+    {
+      "id": "ekkakeo",
+      "strongs": [
+        "G1573"
+      ],
+      "foundAt": "2 Corinthians 4:1"
+    },
+    {
+      "id": "thesauros",
+      "strongs": [
+        "G2344"
+      ],
+      "foundAt": "2 Corinthians 4:7"
+    },
+    {
+      "id": "ostrakinos",
+      "strongs": [
+        "G3749"
+      ],
+      "foundAt": "2 Corinthians 4:7"
+    },
+    {
+      "id": "nekrosis",
+      "strongs": [
+        "G3500"
+      ],
+      "foundAt": "2 Corinthians 4:10"
+    },
+    {
+      "id": "stenochoreo",
+      "strongs": [
+        "G4729"
+      ],
+      "foundAt": "2 Corinthians 4:8"
+    },
+    {
+      "id": "skotos",
+      "strongs": [
+        "G4655"
+      ],
+      "foundAt": "2 Corinthians 4:6"
+    },
+    {
+      "id": "diaphtheiro",
+      "strongs": [
+        "G1311"
+      ],
+      "foundAt": "2 Corinthians 4:16"
+    },
+    {
+      "id": "photismos",
+      "strongs": [
+        "G5462"
+      ],
+      "foundAt": "2 Corinthians 4:4"
+    },
+    {
+      "id": "skenos",
+      "strongs": [
+        "G4636"
+      ],
+      "foundAt": "2 Corinthians 5:1"
+    },
+    {
+      "id": "stenazo",
+      "strongs": [
+        "G4727"
+      ],
+      "foundAt": "2 Corinthians 5:2"
+    },
+    {
+      "id": "ependuomai",
+      "strongs": [
+        "G1902"
+      ],
+      "foundAt": "2 Corinthians 5:2"
+    },
+    {
+      "id": "endemeo",
+      "strongs": [
+        "G1736"
+      ],
+      "foundAt": "2 Corinthians 5:6"
+    },
+    {
+      "id": "ekdemeo",
+      "strongs": [
+        "G1553"
+      ],
+      "foundAt": "2 Corinthians 5:6"
+    },
+    {
+      "id": "eidos",
+      "strongs": [
+        "G1491"
+      ],
+      "foundAt": "2 Corinthians 5:7"
+    },
+    {
+      "id": "ktisis",
+      "strongs": [
+        "G2937"
+      ],
+      "foundAt": "2 Corinthians 5:17"
+    },
+    {
+      "id": "presbeuo",
+      "strongs": [
+        "G4243"
+      ],
+      "foundAt": "2 Corinthians 5:20"
+    },
+    {
+      "id": "katallasso",
+      "strongs": [
+        "G2644"
+      ],
+      "foundAt": "2 Corinthians 5:18"
+    },
+    {
+      "id": "peripateo",
+      "strongs": [
+        "G4043"
+      ],
+      "foundAt": "2 Corinthians 4:2"
+    },
+    {
+      "id": "euprosdektos",
+      "strongs": [
+        "G2144"
+      ],
+      "foundAt": "2 Corinthians 6:2"
+    },
+    {
+      "id": "kopos",
+      "strongs": [
+        "G2873"
+      ],
+      "foundAt": "2 Corinthians 6:5"
+    },
+    {
+      "id": "agrypnia",
+      "strongs": [
+        "G0070"
+      ],
+      "foundAt": "2 Corinthians 6:5"
+    },
+    {
+      "id": "nesteia",
+      "strongs": [
+        "G3521"
+      ],
+      "foundAt": "2 Corinthians 6:5"
+    },
+    {
+      "id": "hagnotes",
+      "strongs": [
+        "G0054"
+      ],
+      "foundAt": "2 Corinthians 6:6"
+    },
+    {
+      "id": "platynomai",
+      "strongs": [
+        "G4115"
+      ],
+      "foundAt": "2 Corinthians 6:11"
+    },
+    {
+      "id": "splanchnon",
+      "strongs": [
+        "G4698"
+      ],
+      "foundAt": "2 Corinthians 6:12"
+    },
+    {
+      "id": "heterozygeo",
+      "strongs": [
+        "G2086"
+      ],
+      "foundAt": "2 Corinthians 6:14"
+    },
+    {
+      "id": "belial",
+      "strongs": [
+        "G0955"
+      ],
+      "foundAt": "2 Corinthians 6:15"
+    },
+    {
+      "id": "ploutizo",
+      "strongs": [
+        "G4148"
+      ],
+      "foundAt": "2 Corinthians 6:10"
+    },
+    {
+      "id": "spoude",
+      "strongs": [
+        "G4710"
+      ],
+      "foundAt": "2 Corinthians 7:11"
+    },
+    {
+      "id": "epipothesis",
+      "strongs": [
+        "G1972"
+      ],
+      "foundAt": "2 Corinthians 7:7"
+    },
+    {
+      "id": "ekdikesis",
+      "strongs": [
+        "G1557"
+      ],
+      "foundAt": "2 Corinthians 7:11"
+    },
+    {
+      "id": "molysmos",
+      "strongs": [
+        "G3436"
+      ],
+      "foundAt": "2 Corinthians 7:1"
+    },
+    {
+      "id": "hagiosyne",
+      "strongs": [
+        "G0042"
+      ],
+      "foundAt": "2 Corinthians 7:1"
+    },
+    {
+      "id": "agnos",
+      "strongs": [
+        "G0053"
+      ],
+      "foundAt": "2 Corinthians 7:11"
+    },
+    {
+      "id": "katergazomai",
+      "strongs": [
+        "G2716"
+      ],
+      "foundAt": "2 Corinthians 4:17"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "2 Corinthians 4:6"
+    },
+    {
+      "id": "aion",
+      "strongs": [
+        "G0165G"
+      ],
+      "foundAt": "2 Corinthians 4:4"
+    },
+    {
+      "id": "skeuos",
+      "strongs": [
+        "G4632"
+      ],
+      "foundAt": "2 Corinthians 4:7"
+    },
+    {
+      "id": "pisteuo",
+      "strongs": [
+        "G4100"
+      ],
+      "foundAt": "2 Corinthians 4:13"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "2 Corinthians 4:17"
+    },
+    {
+      "id": "bema",
+      "strongs": [
+        "G0968"
+      ],
+      "foundAt": "2 Corinthians 5:10"
+    },
+    {
+      "id": "kainos",
+      "strongs": [
+        "G2537"
+      ],
+      "foundAt": "2 Corinthians 3:6"
+    },
+    {
+      "id": "katallage",
+      "strongs": [
+        "G2643"
+      ],
+      "foundAt": "2 Corinthians 5:18"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "2 Corinthians 3:9"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "2 Corinthians 5:21"
+    },
+    {
+      "id": "agape",
+      "strongs": [
+        "G0026"
+      ],
+      "foundAt": "2 Corinthians 2:4"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "2 Corinthians 1:24"
+    },
+    {
+      "id": "phobos",
+      "strongs": [
+        "G5401"
+      ],
+      "foundAt": "2 Corinthians 5:11"
+    },
+    {
+      "id": "soteria",
+      "strongs": [
+        "G4991"
+      ],
+      "foundAt": "2 Corinthians 1:6"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "2 Corinthians 1:6"
+    },
+    {
+      "id": "anagke",
+      "strongs": [
+        "G0318"
+      ],
+      "foundAt": "2 Corinthians 6:4"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "2 Corinthians 1:24"
+    },
+    {
+      "id": "ptochos",
+      "strongs": [
+        "G4434"
+      ],
+      "foundAt": "2 Corinthians 6:10"
+    },
+    {
+      "id": "naos",
+      "strongs": [
+        "G3485"
+      ],
+      "foundAt": "2 Corinthians 6:16"
+    },
+    {
+      "id": "zelos",
+      "strongs": [
+        "G2205"
+      ],
+      "foundAt": "2 Corinthians 7:7"
+    },
+    {
+      "id": "metanoia",
+      "strongs": [
+        "G3341"
+      ],
+      "foundAt": "2 Corinthians 7:9"
+    },
+    {
+      "id": "kauchaomai",
+      "strongs": [
+        "G2744"
+      ],
+      "foundAt": "2 Corinthians 5:12"
+    },
+    {
+      "id": "katharizo",
+      "strongs": [
+        "G2511"
+      ],
+      "foundAt": "2 Corinthians 7:1"
+    },
+    {
+      "id": "parousia",
+      "strongs": [
+        "G3952"
+      ],
+      "foundAt": "2 Corinthians 7:6"
+    },
+    {
+      "id": "apistos",
+      "strongs": [
+        "G0571"
+      ],
+      "foundAt": "2 Corinthians 4:4"
+    },
+    {
+      "id": "perisseia",
+      "strongs": [
+        "G4050"
+      ],
+      "foundAt": "2 Corinthians 8:2"
+    },
+    {
+      "id": "ptocheia",
+      "strongs": [
+        "G4432"
+      ],
+      "foundAt": "2 Corinthians 8:2"
+    },
+    {
+      "id": "ptocheuo",
+      "strongs": [
+        "G4433"
+      ],
+      "foundAt": "2 Corinthians 8:9"
+    },
+    {
+      "id": "plousios",
+      "strongs": [
+        "G4145"
+      ],
+      "foundAt": "2 Corinthians 8:9"
+    },
+    {
+      "id": "epiteleo",
+      "strongs": [
+        "G2005"
+      ],
+      "foundAt": "2 Corinthians 7:1"
+    },
+    {
+      "id": "prothymia",
+      "strongs": [
+        "G4288"
+      ],
+      "foundAt": "2 Corinthians 8:11"
+    },
+    {
+      "id": "dokime",
+      "strongs": [
+        "G1382"
+      ],
+      "foundAt": "2 Corinthians 2:9"
+    },
+    {
+      "id": "hadrotes",
+      "strongs": [
+        "G0100"
+      ],
+      "foundAt": "2 Corinthians 8:20"
+    },
+    {
+      "id": "isotes",
+      "strongs": [
+        "G2471"
+      ],
+      "foundAt": "2 Corinthians 8:13"
+    },
+    {
+      "id": "speiro",
+      "strongs": [
+        "G4687"
+      ],
+      "foundAt": "2 Corinthians 9:6"
+    },
+    {
+      "id": "therizo",
+      "strongs": [
+        "G2325"
+      ],
+      "foundAt": "2 Corinthians 9:6"
+    },
+    {
+      "id": "sporos",
+      "strongs": [
+        "G4703"
+      ],
+      "foundAt": "2 Corinthians 9:10"
+    },
+    {
+      "id": "epichoregeo",
+      "strongs": [
+        "G2023"
+      ],
+      "foundAt": "2 Corinthians 9:10"
+    },
+    {
+      "id": "hilaros",
+      "strongs": [
+        "G2431"
+      ],
+      "foundAt": "2 Corinthians 9:7"
+    },
+    {
+      "id": "autarkeia",
+      "strongs": [
+        "G0841"
+      ],
+      "foundAt": "2 Corinthians 9:8"
+    },
+    {
+      "id": "leitourgia",
+      "strongs": [
+        "G3009"
+      ],
+      "foundAt": "2 Corinthians 9:12"
+    },
+    {
+      "id": "homologia",
+      "strongs": [
+        "G3671"
+      ],
+      "foundAt": "2 Corinthians 9:13"
+    },
+    {
+      "id": "noema",
+      "strongs": [
+        "G3540"
+      ],
+      "foundAt": "2 Corinthians 2:11"
+    },
+    {
+      "id": "ekphobeo",
+      "strongs": [
+        "G1629"
+      ],
+      "foundAt": "2 Corinthians 10:9"
+    },
+    {
+      "id": "kanon",
+      "strongs": [
+        "G2583"
+      ],
+      "foundAt": "2 Corinthians 10:13"
+    },
+    {
+      "id": "metron",
+      "strongs": [
+        "G3358"
+      ],
+      "foundAt": "2 Corinthians 10:13"
+    },
+    {
+      "id": "epistole",
+      "strongs": [
+        "G1992"
+      ],
+      "foundAt": "2 Corinthians 3:1"
+    },
+    {
+      "id": "barys",
+      "strongs": [
+        "G0926"
+      ],
+      "foundAt": "2 Corinthians 10:10"
+    },
+    {
+      "id": "exoutheneo",
+      "strongs": [
+        "G1848"
+      ],
+      "foundAt": "2 Corinthians 10:10"
+    },
+    {
+      "id": "kathairesis",
+      "strongs": [
+        "G2506"
+      ],
+      "foundAt": "2 Corinthians 10:4"
+    },
+    {
+      "id": "praytes",
+      "strongs": [
+        "G4236"
+      ],
+      "foundAt": "2 Corinthians 10:1"
+    },
+    {
+      "id": "epieikeia",
+      "strongs": [
+        "G1932"
+      ],
+      "foundAt": "2 Corinthians 10:1"
+    },
+    {
+      "id": "strateia",
+      "strongs": [
+        "G4752"
+      ],
+      "foundAt": "2 Corinthians 10:4"
+    },
+    {
+      "id": "ochyroma",
+      "strongs": [
+        "G3794"
+      ],
+      "foundAt": "2 Corinthians 10:4"
+    },
+    {
+      "id": "aichmalotizo",
+      "strongs": [
+        "G0163"
+      ],
+      "foundAt": "2 Corinthians 10:5"
+    },
+    {
+      "id": "apostolos",
+      "strongs": [
+        "G0652"
+      ],
+      "foundAt": "2 Corinthians 1:1"
+    },
+    {
+      "id": "eulogia",
+      "strongs": [
+        "G2129"
+      ],
+      "foundAt": "2 Corinthians 9:5"
+    },
+    {
+      "id": "hysterema",
+      "strongs": [
+        "G5303"
+      ],
+      "foundAt": "2 Corinthians 8:14"
+    },
+    {
+      "id": "sarx",
+      "strongs": [
+        "G4561"
+      ],
+      "foundAt": "2 Corinthians 1:17"
+    },
+    {
+      "id": "hypakoe",
+      "strongs": [
+        "G5218"
+      ],
+      "foundAt": "2 Corinthians 7:15"
+    },
+    {
+      "id": "exousia",
+      "strongs": [
+        "G1849"
+      ],
+      "foundAt": "2 Corinthians 10:8"
+    },
+    {
+      "id": "oikodome",
+      "strongs": [
+        "G3619"
+      ],
+      "foundAt": "2 Corinthians 5:1"
+    },
+    {
+      "id": "authairetos",
+      "strongs": [
+        "G0830"
+      ],
+      "foundAt": "2 Corinthians 8:3"
+    },
+    {
+      "id": "dorea",
+      "strongs": [
+        "G1431"
+      ],
+      "foundAt": "2 Corinthians 9:15"
+    },
+    {
+      "id": "anekdiegetos",
+      "strongs": [
+        "G0411"
+      ],
+      "foundAt": "2 Corinthians 9:15"
+    },
+    {
+      "id": "aphrosyne",
+      "strongs": [
+        "G0877"
+      ],
+      "foundAt": "2 Corinthians 11:1"
+    },
+    {
+      "id": "aphron",
+      "strongs": [
+        "G0878"
+      ],
+      "foundAt": "2 Corinthians 11:16"
+    },
+    {
+      "id": "pseudapostolos",
+      "strongs": [
+        "G5570"
+      ],
+      "foundAt": "2 Corinthians 11:13"
+    },
+    {
+      "id": "metaschematizo",
+      "strongs": [
+        "G3345"
+      ],
+      "foundAt": "2 Corinthians 11:13"
+    },
+    {
+      "id": "sargane",
+      "strongs": [
+        "G4553"
+      ],
+      "foundAt": "2 Corinthians 11:33"
+    },
+    {
+      "id": "plege",
+      "strongs": [
+        "G4127"
+      ],
+      "foundAt": "2 Corinthians 6:5"
+    },
+    {
+      "id": "rhabdizo",
+      "strongs": [
+        "G4463"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "lithazo",
+      "strongs": [
+        "G3034"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "nauageo",
+      "strongs": [
+        "G3489"
+      ],
+      "foundAt": "2 Corinthians 11:25"
+    },
+    {
+      "id": "kindynos",
+      "strongs": [
+        "G2794"
+      ],
+      "foundAt": "2 Corinthians 11:26"
+    },
+    {
+      "id": "merimna",
+      "strongs": [
+        "G3308"
+      ],
+      "foundAt": "2 Corinthians 11:28"
+    },
+    {
+      "id": "satanas",
+      "strongs": [
+        "G4567"
+      ],
+      "foundAt": "2 Corinthians 2:11"
+    },
+    {
+      "id": "apokalypsis",
+      "strongs": [
+        "G0602"
+      ],
+      "foundAt": "2 Corinthians 12:1"
+    },
+    {
+      "id": "optasia",
+      "strongs": [
+        "G3701"
+      ],
+      "foundAt": "2 Corinthians 12:1"
+    },
+    {
+      "id": "harpazo",
+      "strongs": [
+        "G0726"
+      ],
+      "foundAt": "2 Corinthians 12:2"
+    },
+    {
+      "id": "arretos",
+      "strongs": [
+        "G0731"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "skolops",
+      "strongs": [
+        "G4647"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "kolaphizo",
+      "strongs": [
+        "G2852"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "hyperairo",
+      "strongs": [
+        "G5229"
+      ],
+      "foundAt": "2 Corinthians 12:7"
+    },
+    {
+      "id": "arkeo",
+      "strongs": [
+        "G0714"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "asthenia",
+      "strongs": [
+        "G0769G"
+      ],
+      "foundAt": "2 Corinthians 11:30"
+    },
+    {
+      "id": "episkenoo",
+      "strongs": [
+        "G1981"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "teras",
+      "strongs": [
+        "G5059"
+      ],
+      "foundAt": "2 Corinthians 12:12"
+    },
+    {
+      "id": "katabareo",
+      "strongs": [
+        "G2599"
+      ],
+      "foundAt": "2 Corinthians 12:16"
+    },
+    {
+      "id": "ekdapanao",
+      "strongs": [
+        "G1550"
+      ],
+      "foundAt": "2 Corinthians 12:15"
+    },
+    {
+      "id": "katalalia",
+      "strongs": [
+        "G2636"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "eris",
+      "strongs": [
+        "G2054"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "thymos",
+      "strongs": [
+        "G2372"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "eritheia",
+      "strongs": [
+        "G2052"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "psithyrismos",
+      "strongs": [
+        "G5587"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "physiosis",
+      "strongs": [
+        "G5450"
+      ],
+      "foundAt": "2 Corinthians 12:20"
+    },
+    {
+      "id": "akatharsia",
+      "strongs": [
+        "G0167"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "aselgeia",
+      "strongs": [
+        "G0766"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "pentheo",
+      "strongs": [
+        "G3996"
+      ],
+      "foundAt": "2 Corinthians 12:21"
+    },
+    {
+      "id": "peirazo",
+      "strongs": [
+        "G3985H"
+      ],
+      "foundAt": "2 Corinthians 13:5"
+    },
+    {
+      "id": "katartizo",
+      "strongs": [
+        "G2675"
+      ],
+      "foundAt": "2 Corinthians 13:11"
+    },
+    {
+      "id": "katartisis",
+      "strongs": [
+        "G2676"
+      ],
+      "foundAt": "2 Corinthians 13:9"
+    },
+    {
+      "id": "chairo",
+      "strongs": [
+        "G5463"
+      ],
+      "foundAt": "2 Corinthians 2:3"
+    },
+    {
+      "id": "apotomos",
+      "strongs": [
+        "G0664"
+      ],
+      "foundAt": "2 Corinthians 13:10"
+    },
+    {
+      "id": "phroneo",
+      "strongs": [
+        "G5426"
+      ],
+      "foundAt": "2 Corinthians 13:11"
+    },
+    {
+      "id": "idiotes",
+      "strongs": [
+        "G2399"
+      ],
+      "foundAt": "2 Corinthians 11:6"
+    },
+    {
+      "id": "aggelos",
+      "strongs": [
+        "G0032G",
+        "G0032H"
+      ],
+      "foundAt": "2 Corinthians 11:14"
+    },
+    {
+      "id": "astheneo",
+      "strongs": [
+        "G0770G"
+      ],
+      "foundAt": "2 Corinthians 11:21"
+    },
+    {
+      "id": "paradeisos",
+      "strongs": [
+        "G3857"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "dynamis",
+      "strongs": [
+        "G1411"
+      ],
+      "foundAt": "2 Corinthians 1:8"
+    },
+    {
+      "id": "teleo",
+      "strongs": [
+        "G5055"
+      ],
+      "foundAt": "2 Corinthians 12:9"
+    },
+    {
+      "id": "semeion",
+      "strongs": [
+        "G4592"
+      ],
+      "foundAt": "2 Corinthians 12:12"
+    },
+    {
+      "id": "martys",
+      "strongs": [
+        "G3144"
+      ],
+      "foundAt": "2 Corinthians 1:23"
+    },
+    {
+      "id": "rhema",
+      "strongs": [
+        "G4487"
+      ],
+      "foundAt": "2 Corinthians 12:4"
+    },
+    {
+      "id": "dokimazo",
+      "strongs": [
+        "G1381"
+      ],
+      "foundAt": "2 Corinthians 8:8"
+    },
+    {
+      "id": "adokimos",
+      "strongs": [
+        "G0096"
+      ],
+      "foundAt": "2 Corinthians 13:5"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "2 Corinthians 13:4"
+    },
+    {
+      "id": "zao",
+      "strongs": [
+        "G2198"
+      ],
+      "foundAt": "2 Corinthians 1:8"
+    },
+    {
+      "id": "eirene",
+      "strongs": [
+        "G1515"
+      ],
+      "foundAt": "2 Corinthians 1:2"
+    },
+    {
+      "id": "aspazomai",
+      "strongs": [
+        "G0782"
+      ],
+      "foundAt": "2 Corinthians 13:12"
+    },
+    {
+      "id": "philema",
+      "strongs": [
+        "G5370"
+      ],
+      "foundAt": "2 Corinthians 13:12"
+    },
+    {
+      "id": "hagios",
+      "strongs": [
+        "G0040G",
+        "G0040H"
+      ],
+      "foundAt": "2 Corinthians 1:1"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    }
+  ]
+}

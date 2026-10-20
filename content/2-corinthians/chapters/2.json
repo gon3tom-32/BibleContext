@@ -1,0 +1,90 @@
+{
+  "sceneHappening": "A letter written in tears, forgiveness for an offender, and Paul's restlessness at Troas",
+  "summary": "Paul decided not to make another painful visit. If he saddens them, who is left to make him glad? So he wrote the letter he did \"out of much affliction and anguish of heart with many tears, not that you should be made sorry, but that you might know the love that I have so abundantly for you.\" He turns to the person who caused grief: it has not saddened Paul so much as all of them, and the punishment imposed by the majority is enough. \"You should rather turn and forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.\" Paul asks them to reaffirm their love for him, and forgives as well, \"that no advantage may be gained over us by Satan.\" He then tells how he came to Troas for the Good News of Christ; although a door was opened for him in the Lord, he had no relief for his spirit because he did not find Titus his brother, so he said farewell and went on to Macedonia. Then comes a burst of thanks: \"Thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of the knowledge of him in every place.\" They are the aroma of Christ to God, among those being saved and those perishing: to the one a smell from death to death, to the other a smell from life to life. \"Who is sufficient for these things?\" Unlike many, Paul does not peddle the word of God; he speaks as from God, in the sight of God, in Christ.",
+  "whySettingMatters": "Paul refers to a severe letter written \"with many tears,\" which seems to have been sent between 1 Corinthians and this letter. Some scholars think it is 1 Corinthians itself, and others think it is lost, and some think it survives in chapters 10 to 13; none of this is certain. The offender (2:5-11) is also not named: some think he is the man in 1 Corinthians 5, but the text does not say, and many think it was someone who opposed Paul personally. What is clear is the pastoral instinct: discipline should end in forgiveness. The \"triumph\" in 2:14 uses a picture from Roman life, the victory procession in which a general led conquered captives through the city while incense burned. Paul is probably saying that he is a captive in Christ's procession, which suits the letter's theme of weakness; others read it as the apostle sharing in the victory. \"Peddling\" (2:17) was the language of tavern keepers who watered their wine, and Paul's opponents are being compared to merchants making money from the message.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes in tears; forgives; restless at Troas."
+    },
+    {
+      "id": "titus",
+      "note": "Paul's co-worker, whom he hoped to meet in Troas."
+    },
+    {
+      "id": "the-offender",
+      "note": "The person who caused grief and was disciplined; Paul now urges forgiveness."
+    },
+    {
+      "id": "the-corinthian-believers",
+      "note": "Asked to forgive and reaffirm love."
+    }
+  ],
+  "questions": [
+    "Paul wrote with tears, to make clear his love. How can hard words carry love?",
+    "Paul argues that discipline should end in forgiveness. What happens if it doesn't?",
+    "He had an open door in Troas and still could not rest. What does that say about how ministry and relationships interact?",
+    "The aroma of Christ smells like life to some and death to others. How does Paul keep from being discouraged by that?"
+  ],
+  "words": [
+    {
+      "id": "charizomai",
+      "note": "\"You should rather forgive him and comfort him\" (2:7, 2:10)."
+    },
+    {
+      "id": "lype",
+      "note": "\"I wrote... out of much affliction and anguish\" (2:1-7)."
+    },
+    {
+      "id": "thriambeuo",
+      "note": "\"Who always leads us in triumph in Christ\" (2:14)."
+    },
+    {
+      "id": "osme",
+      "note": "\"The sweet aroma of the knowledge of him\" (2:14-16)."
+    },
+    {
+      "id": "kapeleuo",
+      "note": "\"We are not like so many, peddling the word of God\" (2:17)."
+    },
+    {
+      "id": "thyra",
+      "note": "\"A door was opened to me in the Lord\" (2:12)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"To Troas for the Good News of Christ\" (2:12)."
+    },
+    {
+      "id": "apollymi",
+      "note": "\"Among those who perish\" (2:15)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Among those who are saved\" (2:15)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 20:1-2",
+      "note": "Paul leaves Ephesus for Macedonia"
+    },
+    {
+      "ref": "1 Peter 5:8",
+      "note": "your adversary the devil prowls around like a roaring lion"
+    },
+    {
+      "ref": "Colossians 2:15",
+      "note": "he triumphed over them in him"
+    },
+    {
+      "ref": "Ephesians 5:2",
+      "note": "walk in love, a fragrant offering to God"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
