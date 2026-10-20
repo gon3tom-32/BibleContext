@@ -50,3 +50,4 @@ The journey map is projected from `generated/places.json` (Dead Sea outline, Jor
 - **Share-alike (decided: repo stays public):** `generated/people.json` is derived from a CC BY-SA dataset, so it's published under CC BY-SA 4.0 with credit (see `generated/LICENSES.md`). The rest of the site isn't affected, as long as share-alike data stays in its own file.
 - **Not used:** Theographic's dates and its Easton's Bible Dictionary text (1897, with known errors).
 - **Before going public** (sharing beyond the two of us, ads, or paid access): re-check every license and any API terms. See `docs/passage-explorer-data-sources.md`.
+- **Deploy hiccups:** the Pages build fetches Google Fonts at build time. If it fails with "next/font/google queries have exactly one entry", it is usually a one-off fetch failure; re-run the failed job, or merge a small commit to trigger a new run.
