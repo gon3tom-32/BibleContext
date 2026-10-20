@@ -709,7 +709,8 @@
           "name": "Zebedee"
         },
         "mother": {
-          "name": "Mother of Zebedees children"
+          "name": "Mother of Zebedees children",
+          "id": "mother-of-zebedees-sons"
         },
         "spouses": [],
         "children": [],
@@ -750,7 +751,8 @@
           "name": "Zebedee"
         },
         "mother": {
-          "name": "Mother of Zebedees children"
+          "name": "Mother of Zebedees children",
+          "id": "mother-of-zebedees-sons"
         },
         "spouses": [],
         "children": [],
@@ -846,7 +848,8 @@
       "gender": "Male",
       "family": {
         "father": {
-          "name": "David"
+          "name": "David",
+          "id": "david"
         },
         "mother": {
           "name": "Bathsheba"
@@ -985,148 +988,6 @@
         "license": "CC BY-SA 4.0",
         "fetched": "2026-10-19",
         "item": "judas_1760",
-        "recordStatus": "publish"
-      }
-    },
-    {
-      "id": "thomas",
-      "name": "Thomas",
-      "alsoCalled": "Didymus",
-      "gender": "Male",
-      "family": {
-        "spouses": [],
-        "children": [],
-        "siblings": []
-      },
-      "chapters": [
-        10
-      ],
-      "verses": [
-        "Matthew 10:3"
-      ],
-      "source": {
-        "name": "Theographic Bible Metadata",
-        "url": "https://viz.bible",
-        "license": "CC BY-SA 4.0",
-        "fetched": "2026-10-19",
-        "item": "thomas_2851",
-        "recordStatus": "publish"
-      }
-    },
-    {
-      "id": "philip",
-      "name": "Philip",
-      "displayTitle": "Phillip the Apostle",
-      "alsoCalled": "Philip",
-      "gender": "Male",
-      "family": {
-        "spouses": [],
-        "children": [],
-        "siblings": []
-      },
-      "chapters": [
-        10
-      ],
-      "verses": [
-        "Matthew 10:3"
-      ],
-      "source": {
-        "name": "Theographic Bible Metadata",
-        "url": "https://viz.bible",
-        "license": "CC BY-SA 4.0",
-        "fetched": "2026-10-19",
-        "item": "philip_2344",
-        "recordStatus": "publish"
-      }
-    },
-    {
-      "id": "bartholomew",
-      "name": "Bartholomew",
-      "gender": "Male",
-      "family": {
-        "spouses": [],
-        "children": [],
-        "siblings": []
-      },
-      "chapters": [
-        10
-      ],
-      "verses": [
-        "Matthew 10:3"
-      ],
-      "source": {
-        "name": "Theographic Bible Metadata",
-        "url": "https://viz.bible",
-        "license": "CC BY-SA 4.0",
-        "fetched": "2026-10-19",
-        "item": "bartholomew_405",
-        "recordStatus": "publish"
-      }
-    },
-    {
-      "id": "james-alphaeus",
-      "name": "James",
-      "displayTitle": "James (Son of Alphaeus)",
-      "gender": "Male",
-      "family": {
-        "father": {
-          "name": "Alphaeus"
-        },
-        "spouses": [],
-        "children": [],
-        "siblings": [
-          {
-            "name": "Lebbaeus",
-            "id": "thaddaeus"
-          }
-        ]
-      },
-      "chapters": [
-        10
-      ],
-      "verses": [
-        "Matthew 10:3"
-      ],
-      "source": {
-        "name": "Theographic Bible Metadata",
-        "url": "https://viz.bible",
-        "license": "CC BY-SA 4.0",
-        "fetched": "2026-10-19",
-        "item": "james_718",
-        "recordStatus": "publish"
-      }
-    },
-    {
-      "id": "thaddaeus",
-      "name": "Lebbaeus",
-      "displayTitle": "Lebbaeus Thaddaeus",
-      "alsoCalled": "Judas,Thaddaeus",
-      "gender": "Male",
-      "family": {
-        "father": {
-          "name": "Alphaeus"
-        },
-        "spouses": [],
-        "children": [],
-        "siblings": [
-          {
-            "name": "James",
-            "id": "james-alphaeus"
-          }
-        ]
-      },
-      "chapters": [
-        10
-      ],
-      "verses": [
-        "Matthew 10:3"
-      ],
-      "source": {
-        "name": "Theographic Bible Metadata",
-        "url": "https://viz.bible",
-        "license": "CC BY-SA 4.0",
-        "fetched": "2026-10-19",
-        "item": "lebbaeus_1815",
         "recordStatus": "publish"
       }
     },
@@ -1332,6 +1193,497 @@
         "fetched": "2026-10-19",
         "item": "moses_2108",
         "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "name": "Mother of Zebedees children",
+      "alsoCalled": "mother",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [
+          {
+            "name": "James",
+            "id": "james-zebedee"
+          },
+          {
+            "name": "John",
+            "id": "john-apostle"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        20,
+        27
+      ],
+      "verses": [
+        "Matthew 20:20",
+        "Matthew 27:56"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mother_of_zebedees_children_2112",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Jesse"
+        },
+        "spouses": [
+          {
+            "name": "Abigail"
+          },
+          {
+            "name": "Abital"
+          },
+          {
+            "name": "Ahinoam"
+          },
+          {
+            "name": "Bathsheba"
+          },
+          {
+            "name": "Eglah"
+          },
+          {
+            "name": "Haggith"
+          },
+          {
+            "name": "Maacah"
+          },
+          {
+            "name": "Michal"
+          }
+        ],
+        "children": [
+          {
+            "name": "Eliphalet"
+          },
+          {
+            "name": "Elpalet"
+          },
+          {
+            "name": "Elishua"
+          },
+          {
+            "name": "Ithream"
+          },
+          {
+            "name": "Nathan"
+          },
+          {
+            "name": "Tamar"
+          },
+          {
+            "name": "Shobab"
+          },
+          {
+            "name": "Eliada"
+          },
+          {
+            "name": "Absalom"
+          },
+          {
+            "name": "Solomon",
+            "id": "solomon"
+          },
+          {
+            "name": "Shephatiah"
+          },
+          {
+            "name": "Adonijah"
+          },
+          {
+            "name": "Ibhar"
+          },
+          {
+            "name": "Amnon"
+          },
+          {
+            "name": "Jerimoth"
+          },
+          {
+            "name": "Japhia"
+          },
+          {
+            "name": "Elishama"
+          },
+          {
+            "name": "Nepheg"
+          },
+          {
+            "name": "Shammua"
+          },
+          {
+            "name": "Daniel"
+          },
+          {
+            "name": "Nogah"
+          }
+        ],
+        "siblings": [
+          {
+            "name": "Abinadab"
+          },
+          {
+            "name": "Eliab"
+          },
+          {
+            "name": "Elihu"
+          },
+          {
+            "name": "Nethaneel"
+          },
+          {
+            "name": "Ozem"
+          },
+          {
+            "name": "Raddai"
+          },
+          {
+            "name": "Shammah"
+          }
+        ]
+      },
+      "chapters": [
+        1,
+        9,
+        12,
+        15,
+        20,
+        21,
+        22
+      ],
+      "verses": [
+        "Matthew 1:1",
+        "Matthew 1:6",
+        "Matthew 1:17",
+        "Matthew 1:20",
+        "Matthew 9:27",
+        "Matthew 12:3",
+        "Matthew 12:23",
+        "Matthew 15:22",
+        "Matthew 20:30",
+        "Matthew 20:31",
+        "Matthew 21:9",
+        "Matthew 21:15",
+        "Matthew 22:42",
+        "Matthew 22:43",
+        "Matthew 22:45"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "david_994",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "noah",
+      "name": "Noah",
+      "alsoCalled": "Noe",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Lamech"
+        },
+        "spouses": [],
+        "children": [
+          {
+            "name": "Ham"
+          },
+          {
+            "name": "Shem"
+          },
+          {
+            "name": "Japheth"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Matthew 24:37",
+        "Matthew 24:38"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "noah_2210",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "alsoCalled": "Belteshazzar",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        24
+      ],
+      "verses": [
+        "Matthew 24:15"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "daniel_975",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "abel",
+      "name": "Abel",
+      "gender": "Male",
+      "family": {
+        "father": {
+          "name": "Adam"
+        },
+        "mother": {
+          "name": "Eve"
+        },
+        "spouses": [],
+        "children": [],
+        "siblings": [
+          {
+            "name": "Cain"
+          },
+          {
+            "name": "Seth"
+          }
+        ]
+      },
+      "chapters": [
+        23
+      ],
+      "verses": [
+        "Matthew 23:35"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "abel_13",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "caiaphas",
+      "name": "Caiaphas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        26
+      ],
+      "verses": [
+        "Matthew 26:3",
+        "Matthew 26:57"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "caiaphas_532",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "simon-the-leper",
+      "name": "Simon",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        26
+      ],
+      "verses": [
+        "Matthew 26:6"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simon_2748",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "pilate",
+      "name": "Pontius",
+      "displayTitle": "Pontius Pilate",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:2",
+        "Matthew 27:13",
+        "Matthew 27:17",
+        "Matthew 27:22",
+        "Matthew 27:24",
+        "Matthew 27:58",
+        "Matthew 27:62",
+        "Matthew 27:65"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "pilate_2365",
+        "recordStatus": "publish"
+      }
+    },
+    {
+      "id": "barabbas",
+      "name": "Barabbas",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:16",
+        "Matthew 27:17",
+        "Matthew 27:20",
+        "Matthew 27:21",
+        "Matthew 27:26"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "barabbas_399",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "simon-of-cyrene",
+      "name": "Simon",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [
+          {
+            "name": "Rufus"
+          },
+          {
+            "name": "Alexander"
+          }
+        ],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:32"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "simon_2749",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "mary-magdalene",
+      "name": "Mary",
+      "displayTitle": "Mary Magdalene",
+      "alsoCalled": "Magdalene",
+      "gender": "Female",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27,
+        28
+      ],
+      "verses": [
+        "Matthew 27:56",
+        "Matthew 27:61",
+        "Matthew 28:1"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "mary_1943",
+        "recordStatus": "wip"
+      }
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "name": "Joseph",
+      "displayTitle": "Joseph (of Arimathea)",
+      "gender": "Male",
+      "family": {
+        "spouses": [],
+        "children": [],
+        "siblings": []
+      },
+      "chapters": [
+        27
+      ],
+      "verses": [
+        "Matthew 27:57",
+        "Matthew 27:59"
+      ],
+      "source": {
+        "name": "Theographic Bible Metadata",
+        "url": "https://viz.bible",
+        "license": "CC BY-SA 4.0",
+        "fetched": "2026-10-19",
+        "item": "joseph_1716",
+        "recordStatus": "wip"
       }
     }
   ]

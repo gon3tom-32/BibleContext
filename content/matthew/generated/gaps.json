@@ -26,10 +26,6 @@
       "text": "Theographic has no records for the magi, the devil, or groups like the Pharisees and Sadducees. Those stay hand-written."
     },
     {
-      "area": "chapters",
-      "text": "Chapters 18 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
-    },
-    {
       "area": "words",
       "text": "Emmanouel appears only once in the New Testament; its other uses (Isaiah 7:14, 8:8) are in the Hebrew Bible, which the Greek tagging doesn't cover."
     },
@@ -44,6 +40,18 @@
     {
       "area": "places",
       "text": "Matthew doesn't name the mountain of the transfiguration (17:1); it isn't mapped."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for Pilate's wife, the woman at Bethany, the Roman soldiers, or the centurion at the cross; they're unnamed in Matthew and hand-written. Mary the mother of James and Joses is also hand-written, since the data merges her with another Mary."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for the angel, the tomb guard, or the eleven as a group; they're hand-written."
     }
   ]
 }

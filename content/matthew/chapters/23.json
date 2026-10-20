@@ -1,0 +1,74 @@
+{
+  "number": 23,
+  "sceneHappening": "Jesus' last public address in the temple",
+  "summary": "Jesus tells the crowds and his disciples that the scribes and Pharisees sit on Moses' seat, so they should do what they say but not what they do; they tie up heavy burdens and won't lift a finger to help, and they do everything to be seen, with wide phylacteries, long tassels, places of honor, and titles like Rabbi. The disciples are not to be called rabbi, father, or teacher, for they have one teacher, one Father, one Christ. \"The greatest among you will be your servant. Whoever exalts himself will be humbled.\" Then seven woes, each beginning \"Woe to you, scribes and Pharisees, hypocrites!\": you shut the door of the kingdom of heaven in people's faces; you devour widows' houses while making long prayers; you cross sea and land to make one convert and then make him twice the child of hell you are; you are blind guides with elaborate oath rules; you tithe mint, dill, and cumin but neglect justice, mercy, and faith, straining out a gnat and swallowing a camel; you clean the outside of the cup while inside you are full of greed; you are like whitewashed tombs, beautiful outside and full of bones inside; you build the tombs of the prophets and say you wouldn't have joined your ancestors in killing them. All the righteous blood from Abel to Zechariah son of Barachiah will come on this generation. Jesus ends: \"Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you! How often I wanted to gather your children together, even as a hen gathers her chicks under her wings, and you were not willing! Your house is left to you desolate. For I tell you, you will not see me from now on, until you say, 'Blessed is he who comes in the name of the Lord.'\"",
+  "whySettingMatters": "\"Moses' seat\" was the teacher's seat in a synagogue from which the law was read and explained; a carved stone seat of this kind has been found in the ruins of the synagogue at Chorazin, from a later period than Jesus. Phylacteries were small boxes with Scripture verses worn on the forehead and arm (Deuteronomy 6:8), and the tassels come from Numbers 15:38; Jesus doesn't object to them, only to wearing them for show. Tithing mint, dill, and cumin goes beyond the law's requirement to tithe produce (Leviticus 27:30), and Jesus says he doesn't want that practice dropped, only matched with justice, mercy, and faith (Micah 6:8; Hosea 6:6). A gnat and a camel were both unclean animals. Tombs were whitewashed before Passover so pilgrims wouldn't touch one by accident and become unclean. \"Abel to Zechariah\" covers the first murder in Genesis and the last martyr named in the Hebrew Bible's order (2 Chronicles 24:20-22); Matthew calls this Zechariah the son of Barachiah, while Chronicles names his father Jehoiada, and the identification is debated. The hen gathering chicks echoes passages like Psalm 91:4 and Ruth 2:12, where the same \"wings\" shelter those who trust God.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Seated in Moses' seat, and the target of the seven woes."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Listening as Jesus tells them what to take and what to leave."
+    },
+    {
+      "id": "the-disciples",
+      "note": "Told not to take titles, and that the greatest is the servant."
+    },
+    {
+      "id": "abel",
+      "note": "The first righteous blood shed in Scripture (Genesis 4)."
+    },
+    {
+      "id": "zechariah-son-of-barachiah",
+      "note": "The last righteous blood Jesus names; who he is is debated."
+    }
+  ],
+  "questions": [
+    "Jesus tells the crowds to do what the scribes and Pharisees teach but not what they do. How can he affirm their seat and judge their conduct?",
+    "The woes aren't aimed at strictness itself but at specific things: shutting doors, showing off, and neglecting justice, mercy, and faith. What pattern do you see?",
+    "The chapter ends in grief, not anger: \"how often I wanted to gather your children.\" What changes when the same speech holds both?",
+    "\"The greatest among you will be your servant\" repeats a theme from chapter 20. Where else in Matthew have we heard it?"
+  ],
+  "words": [
+    {
+      "id": "kathedra",
+      "note": "\"The scribes and the Pharisees sit on Moses' seat\" (23:2)."
+    },
+    {
+      "id": "rabbi",
+      "note": "\"Don't be called Rabbi\" (23:7-8)."
+    },
+    {
+      "id": "ouai",
+      "note": "The seven woes begin with this word (23:13-29)."
+    },
+    {
+      "id": "hypokrites",
+      "note": "\"Woe to you... hypocrites!\" (23:13-29)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Micah 6:8",
+      "note": "do justice, love mercy, walk humbly"
+    },
+    {
+      "ref": "Hosea 6:6",
+      "note": "mercy, not sacrifice"
+    },
+    {
+      "ref": "Psalm 91:4",
+      "note": "under his wings you will find refuge"
+    },
+    {
+      "ref": "Proverbs 29:23",
+      "note": "a person's pride brings them low"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

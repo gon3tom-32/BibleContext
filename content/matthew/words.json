@@ -1480,5 +1480,1514 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "paidion",
+    "transliteration": "paidion",
+    "original": "παιδίον",
+    "pronunciation": "pie-DEE-on",
+    "gloss": "child",
+    "notes": "A young child, small enough to be carried and watched over. It's a diminutive of pais, \"child,\" and is the word Jesus uses when he places a child among the disciples. In that world a child had no standing or power, which is the point Jesus draws: greatness in the kingdom runs through humility and dependence.",
+    "range": [
+      {
+        "sense": "Young child",
+        "note": "A small child or infant."
+      },
+      {
+        "sense": "Childlike",
+        "note": "The dependent, humble stance Jesus commends."
+      }
+    ],
+    "translations": [
+      "child",
+      "little child",
+      "infant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:14",
+        "note": "\"Let the little children come to me.\""
+      },
+      {
+        "ref": "Mark 10:14",
+        "note": "The same scene in Mark."
+      },
+      {
+        "ref": "Luke 18:16",
+        "note": "The same scene in Luke."
+      },
+      {
+        "ref": "1 Corinthians 14:20",
+        "note": "\"Don't be children in your thinking.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "geenna",
+    "transliteration": "geenna",
+    "original": "γέεννα",
+    "pronunciation": "GEH-en-nah",
+    "gloss": "Gehenna",
+    "notes": "The Greek form of the Hebrew Ge Hinnom, the Valley of Hinnom just south of Jerusalem. In the Old Testament it's where some of Judah's kings sacrificed children, and the prophets spoke of it as a place of judgment. By Jesus' time it had become a name for the place of final judgment. Matthew uses it more than any other Gospel.",
+    "uncertain": "A popular claim says Gehenna was Jerusalem's burning garbage dump. Scholars debate this: the idea isn't found in sources before the Middle Ages, and the Old Testament links the valley with child sacrifice.",
+    "range": [
+      {
+        "sense": "A valley",
+        "note": "The Valley of Hinnom near Jerusalem."
+      },
+      {
+        "sense": "Judgment",
+        "note": "A picture of final judgment by fire."
+      }
+    ],
+    "translations": [
+      "hell",
+      "Gehenna",
+      "the fire of hell"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "\"In danger of the fire of Gehenna.\""
+      },
+      {
+        "ref": "Matthew 10:28",
+        "note": "\"Fear the one who can destroy both soul and body.\""
+      },
+      {
+        "ref": "Mark 9:43",
+        "note": "The parallel about the hand that causes stumbling."
+      },
+      {
+        "ref": "James 3:6",
+        "note": "The tongue is set on fire by Gehenna."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphiemi",
+    "transliteration": "aphiēmi",
+    "original": "ἀφίημι",
+    "pronunciation": "ah-FEE-ay-mee",
+    "gloss": "to forgive, release, leave",
+    "notes": "Literally \"to send away\" or \"to let go.\" The same verb is used for leaving something behind (the fishermen left their nets), for allowing something, and for releasing someone from a debt or a sin. That second sense is why the story of the servant, where a debt is let go, and the call to forgive fit together so closely. STEPBible tags these senses separately: \"leave,\" \"forgive,\" and \"permit.\"",
+    "range": [
+      {
+        "sense": "Leave",
+        "note": "Leave something or someone behind."
+      },
+      {
+        "sense": "Release a debt",
+        "note": "Let someone off what they owe."
+      },
+      {
+        "sense": "Forgive",
+        "note": "Release someone from sin or offense."
+      },
+      {
+        "sense": "Permit",
+        "note": "Allow or let."
+      }
+    ],
+    "translations": [
+      "forgive",
+      "release",
+      "leave",
+      "let go",
+      "allow"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 4:20",
+        "note": "They left their nets."
+      },
+      {
+        "ref": "Mark 2:5",
+        "note": "\"Your sins are forgiven.\""
+      },
+      {
+        "ref": "Luke 11:4",
+        "note": "\"Forgive us our sins.\""
+      },
+      {
+        "ref": "John 20:23",
+        "note": "\"If you forgive anyone's sins, they are forgiven.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "talanton",
+    "transliteration": "talanton",
+    "original": "τάλαντον",
+    "pronunciation": "TAH-lahn-ton",
+    "gloss": "talent",
+    "notes": "Originally a weight, then the largest unit of money in the ancient world: roughly 6,000 denarii, or about 6,000 days' wages. Ten thousand (a \"myriad,\" the biggest single number word in Greek) talents is deliberately beyond anything repayable. Matthew is the only New Testament writer who uses the word, here and in the parable of the talents (chapter 25). English \"talent\" for ability comes from that later parable, not from the word's original meaning.",
+    "range": [
+      {
+        "sense": "A weight",
+        "note": "A large measure of weight, roughly 60 to 75 pounds."
+      },
+      {
+        "sense": "A sum of money",
+        "note": "The largest unit of currency."
+      }
+    ],
+    "translations": [
+      "talent",
+      "bag of gold",
+      "large sum"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 25:15",
+        "note": "Five, two, and one talent in the parable."
+      },
+      {
+        "ref": "Matthew 25:25",
+        "note": "The servant hid his talent in the ground."
+      },
+      {
+        "ref": "Matthew 25:28",
+        "note": "\"Take the talent from him.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "porneia",
+    "transliteration": "porneia",
+    "original": "πορνεία",
+    "pronunciation": "por-NAY-ah",
+    "gloss": "sexual immorality",
+    "notes": "A broad word for sexual sin outside what God intends for marriage. It covers a range from prostitution to adultery, incest, and other unlawful unions. In Matthew's exception clause (5:32; 19:9) it's the one reason named for divorce.",
+    "uncertain": "Exactly what porneia covers in Jesus' exception (adultery, an unlawful marriage, or sexual sin more broadly) is debated, as is how the clause relates to Mark and Luke, which don't have it.",
+    "range": [
+      {
+        "sense": "Sexual immorality",
+        "note": "Sexual sin of any kind."
+      },
+      {
+        "sense": "Prostitution",
+        "note": "The earliest sense, from the word for a prostitute."
+      },
+      {
+        "sense": "Unlawful marriage",
+        "note": "As in Leviticus 18, which Acts 15 echoes."
+      }
+    ],
+    "translations": [
+      "sexual immorality",
+      "unchastity",
+      "fornication",
+      "marital unfaithfulness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:32",
+        "note": "The same exception in the Sermon on the Mount."
+      },
+      {
+        "ref": "Acts 15:20",
+        "note": "Gentile believers told to avoid it."
+      },
+      {
+        "ref": "1 Corinthians 5:1",
+        "note": "Immorality \"not even among the Gentiles.\""
+      },
+      {
+        "ref": "1 Corinthians 6:18",
+        "note": "\"Flee from sexual immorality.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "teleios",
+    "transliteration": "teleios",
+    "original": "τέλειος",
+    "pronunciation": "TEH-lay-os",
+    "gloss": "complete, mature, perfect",
+    "notes": "From telos, \"goal\" or \"end\": something that has reached its purpose. It means whole, mature, or fully grown more than flawless. When Jesus tells the young man \"if you want to be complete,\" he's talking about wholeness of devotion, not a score.",
+    "range": [
+      {
+        "sense": "Complete",
+        "note": "Lacking nothing, whole."
+      },
+      {
+        "sense": "Mature",
+        "note": "Fully grown, as opposed to a child."
+      },
+      {
+        "sense": "Perfect",
+        "note": "Without flaw, in the older English sense."
+      }
+    ],
+    "translations": [
+      "perfect",
+      "complete",
+      "mature",
+      "whole"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:48",
+        "note": "\"Be perfect, as your heavenly Father is perfect.\""
+      },
+      {
+        "ref": "1 Corinthians 2:6",
+        "note": "Wisdom among the mature."
+      },
+      {
+        "ref": "Hebrews 5:14",
+        "note": "Solid food is for the mature."
+      },
+      {
+        "ref": "James 1:4",
+        "note": "Let endurance finish its work, that you may be complete."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "palingenesia",
+    "transliteration": "palingenesia",
+    "original": "παλιγγενεσία",
+    "pronunciation": "pah-lin-geh-neh-SEE-ah",
+    "gloss": "renewal, new birth",
+    "notes": "\"Birth again,\" from palin (again) and genesis (beginning, birth). Greek writers could use it for a fresh start or a rebirth of the world. Matthew uses it for the renewal of all things when the Son of Man reigns. The only other New Testament use is Titus 3:5, \"the washing of regeneration.\"",
+    "range": [
+      {
+        "sense": "New beginning",
+        "note": "A fresh start for the world."
+      },
+      {
+        "sense": "New birth",
+        "note": "Spiritual rebirth, in Titus."
+      }
+    ],
+    "translations": [
+      "renewal",
+      "regeneration",
+      "new world",
+      "new birth"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Titus 3:5",
+        "note": "\"The washing of regeneration and renewal by the Holy Spirit.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "lytron",
+    "transliteration": "lytron",
+    "original": "λύτρον",
+    "pronunciation": "LOO-tron",
+    "gloss": "ransom",
+    "notes": "The price paid to free someone: a slave, a prisoner of war, or a debtor. It's rare in the New Testament, used only here and in Mark's matching saying (Mark 10:45). Jesus' wording may echo Isaiah 53, where the servant gives himself for many.",
+    "range": [
+      {
+        "sense": "Ransom price",
+        "note": "Payment that frees a captive."
+      },
+      {
+        "sense": "Release",
+        "note": "The freeing itself."
+      }
+    ],
+    "translations": [
+      "ransom"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 10:45",
+        "note": "The same saying in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diakoneo",
+    "transliteration": "diakoneō",
+    "original": "διακονέω",
+    "pronunciation": "dee-ah-ko-NEH-oh",
+    "gloss": "to serve",
+    "notes": "To wait on someone, as at a table, or more generally to serve. It's the verb behind \"deacon\" and \"ministry.\" In Matthew it's what the angels do for Jesus (4:11), what Peter's mother-in-law does after being healed (8:15), and what Jesus says he came to do (20:28).",
+    "range": [
+      {
+        "sense": "Wait at table",
+        "note": "Serve food and drink."
+      },
+      {
+        "sense": "Provide for",
+        "note": "Look after someone's needs."
+      },
+      {
+        "sense": "Minister",
+        "note": "Serve in a role of care or leadership."
+      }
+    ],
+    "translations": [
+      "serve",
+      "minister",
+      "wait on"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 8:15",
+        "note": "She got up and served him."
+      },
+      {
+        "ref": "Mark 10:45",
+        "note": "\"Not to be served but to serve.\""
+      },
+      {
+        "ref": "Luke 22:27",
+        "note": "\"I am among you as one who serves.\""
+      },
+      {
+        "ref": "John 12:26",
+        "note": "\"Whoever serves me must follow me.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doulos",
+    "transliteration": "doulos",
+    "original": "δοῦλος",
+    "pronunciation": "DOO-los",
+    "gloss": "slave, servant",
+    "notes": "A person owned by someone else, with no rights of their own. English Bibles often soften it to \"servant,\" but the sense is slave. In the Roman world a slave was property and often the lowest rung of society, which is why Jesus' saying about the first becoming slave is so sharp.",
+    "range": [
+      {
+        "sense": "Slave",
+        "note": "Someone owned by another."
+      },
+      {
+        "sense": "Servant of God",
+        "note": "A title of honor for those who serve the Lord."
+      }
+    ],
+    "translations": [
+      "slave",
+      "servant",
+      "bondservant"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 25:21",
+        "note": "\"Well done, good and faithful servant.\""
+      },
+      {
+        "ref": "Romans 1:1",
+        "note": "Paul, a servant of Christ Jesus."
+      },
+      {
+        "ref": "Galatians 3:28",
+        "note": "No longer slave or free."
+      },
+      {
+        "ref": "Philippians 2:7",
+        "note": "Taking the form of a slave."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hosanna",
+    "transliteration": "hōsanna",
+    "original": "ὡσαννά",
+    "pronunciation": "ho-sah-NAH",
+    "gloss": "Hosanna, save us",
+    "notes": "From the Hebrew words in Psalm 118:25, \"Save us, we pray.\" It began as a prayer for rescue and by Jesus' day had become a shout of praise used at festivals. The crowd's cry in 21:9 comes straight from Psalm 118:25-26.",
+    "range": [
+      {
+        "sense": "Prayer for help",
+        "note": "\"Save us.\""
+      },
+      {
+        "sense": "Shout of praise",
+        "note": "Used at festivals and processions."
+      }
+    ],
+    "translations": [
+      "Hosanna",
+      "save now"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:15",
+        "note": "Children shout it in the temple."
+      },
+      {
+        "ref": "Mark 11:9",
+        "note": "The same scene in Mark."
+      },
+      {
+        "ref": "John 12:13",
+        "note": "The same scene in John."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ethnos",
+    "transliteration": "ethnos",
+    "original": "ἔθνος",
+    "pronunciation": "ETH-nos",
+    "gloss": "nation, Gentiles",
+    "notes": "A people or nation. In the plural it often means \"the nations,\" the non-Jewish peoples, so translators choose between \"nations\" and \"Gentiles\" depending on context. It runs through Matthew from \"Galilee of the Gentiles\" (4:15) to the closing command to make disciples of all nations (28:19).",
+    "range": [
+      {
+        "sense": "A people",
+        "note": "A nation or ethnic group."
+      },
+      {
+        "sense": "The Gentiles",
+        "note": "Non-Jewish peoples."
+      },
+      {
+        "sense": "All nations",
+        "note": "The whole world's peoples, as in 28:19."
+      }
+    ],
+    "translations": [
+      "nation",
+      "Gentiles",
+      "peoples"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 24:14",
+        "note": "The gospel preached to all nations."
+      },
+      {
+        "ref": "Matthew 28:19",
+        "note": "\"Make disciples of all nations.\""
+      },
+      {
+        "ref": "Acts 10:45",
+        "note": "The Spirit poured out on the Gentiles."
+      },
+      {
+        "ref": "Romans 15:12",
+        "note": "The Gentiles hope in the root of Jesse."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kensos",
+    "transliteration": "kēnsos",
+    "original": "κῆνσος",
+    "pronunciation": "KAIN-soss",
+    "gloss": "poll tax",
+    "notes": "A Latin loan word (census): the head tax Rome charged each person in a province, paid in Roman coin. It's used in only a few places in the Gospels. It was the most hated tax because it reminded subjects of Roman rule and was linked to a census, which sparked a revolt in AD 6.",
+    "range": [
+      {
+        "sense": "Census",
+        "note": "The registration used to assess the tax."
+      },
+      {
+        "sense": "Poll tax",
+        "note": "The tax assessed on each person."
+      }
+    ],
+    "translations": [
+      "poll tax",
+      "tax",
+      "census tax"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 17:25",
+        "note": "Kings collect duty or tax from others, not their sons."
+      },
+      {
+        "ref": "Mark 12:14",
+        "note": "The same question in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "agapao",
+    "transliteration": "agapaō",
+    "original": "ἀγαπάω",
+    "pronunciation": "ah-gah-PAH-oh",
+    "gloss": "to love",
+    "notes": "The usual New Testament verb for love, chosen for love that acts for another's good, not mainly feeling. It's the word in the greatest commandment, and in \"love your enemies\" (5:44). In the Greek Old Testament it translates the Hebrew verb in Deuteronomy 6:5.",
+    "range": [
+      {
+        "sense": "Love",
+        "note": "Care for another that shows itself in action."
+      },
+      {
+        "sense": "Prefer",
+        "note": "Choose one over another."
+      }
+    ],
+    "translations": [
+      "love"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:44",
+        "note": "\"Love your enemies.\""
+      },
+      {
+        "ref": "John 13:34",
+        "note": "\"Love one another as I have loved you.\""
+      },
+      {
+        "ref": "Romans 13:8",
+        "note": "Whoever loves has fulfilled the law."
+      },
+      {
+        "ref": "1 John 4:19",
+        "note": "\"We love because he first loved us.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "entole",
+    "transliteration": "entolē",
+    "original": "ἐντολή",
+    "pronunciation": "en-toh-LAY",
+    "gloss": "commandment",
+    "notes": "A specific command or instruction, often one of the commands in the law of Moses. Asked which entole is greatest, Jesus names two, from Deuteronomy and Leviticus, and says the law and prophets depend on them.",
+    "range": [
+      {
+        "sense": "Command",
+        "note": "A specific order or instruction."
+      },
+      {
+        "sense": "The law's commandments",
+        "note": "The commands given through Moses."
+      }
+    ],
+    "translations": [
+      "commandment",
+      "command",
+      "order"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 12:28",
+        "note": "The same question in Mark."
+      },
+      {
+        "ref": "John 13:34",
+        "note": "\"A new commandment I give you.\""
+      },
+      {
+        "ref": "Romans 13:9",
+        "note": "The commandments summed up in \"love your neighbor.\""
+      },
+      {
+        "ref": "1 John 2:7",
+        "note": "\"An old commandment.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "rabbi",
+    "transliteration": "rhabbi",
+    "original": "ῥαββί",
+    "pronunciation": "rab-BEE",
+    "gloss": "Rabbi, teacher",
+    "notes": "A Hebrew word meaning \"my great one,\" used as a respectful address to a teacher. In Jesus' day it was becoming a title for recognized teachers of the law. Matthew keeps the Hebrew word; elsewhere people also address Jesus as \"Teacher.\" Judas uses it in 26:25.",
+    "range": [
+      {
+        "sense": "Teacher",
+        "note": "A respected teacher."
+      },
+      {
+        "sense": "Title",
+        "note": "A form of address showing honor."
+      }
+    ],
+    "translations": [
+      "Rabbi",
+      "Teacher"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:25",
+        "note": "Judas: \"Is it I, Rabbi?\""
+      },
+      {
+        "ref": "Mark 9:5",
+        "note": "Peter at the transfiguration."
+      },
+      {
+        "ref": "John 1:38",
+        "note": "\"Rabbi\" translated \"Teacher.\""
+      },
+      {
+        "ref": "John 3:2",
+        "note": "Nicodemus: \"Rabbi, we know you are a teacher from God.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "ouai",
+    "transliteration": "ouai",
+    "original": "οὐαί",
+    "pronunciation": "oo-AI",
+    "gloss": "woe",
+    "notes": "A cry of grief or warning. In the prophets a \"woe\" announces coming judgment and also mourns for those under it. Jesus uses it for the seven woes here, and earlier in 11:21 for Chorazin and Bethsaida.",
+    "range": [
+      {
+        "sense": "Cry of grief",
+        "note": "Pain or sorrow."
+      },
+      {
+        "sense": "Warning of judgment",
+        "note": "A prophet's announcement of trouble ahead."
+      }
+    ],
+    "translations": [
+      "woe",
+      "alas",
+      "how terrible"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:21",
+        "note": "\"Woe to you, Chorazin.\""
+      },
+      {
+        "ref": "Luke 6:24",
+        "note": "Woe to the rich."
+      },
+      {
+        "ref": "1 Corinthians 9:16",
+        "note": "Paul: \"Woe to me if I don't preach.\""
+      },
+      {
+        "ref": "Revelation 8:13",
+        "note": "An eagle cries woe to the earth."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "kathedra",
+    "transliteration": "kathedra",
+    "original": "καθέδρα",
+    "pronunciation": "kah-THEH-drah",
+    "gloss": "seat, chair",
+    "notes": "The root of English \"cathedral\" (the bishop's chair) and \"ex cathedra.\" A teacher's seat. In synagogues the seat from which the law was read and taught was called Moses' seat, so sitting in it meant carrying a teacher's authority.",
+    "range": [
+      {
+        "sense": "Chair",
+        "note": "A seat."
+      },
+      {
+        "sense": "Teacher's seat",
+        "note": "The seat of teaching authority."
+      }
+    ],
+    "translations": [
+      "seat",
+      "chair"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 21:12",
+        "note": "The seats of those selling doves."
+      },
+      {
+        "ref": "Mark 11:15",
+        "note": "The same scene in Mark."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "parousia",
+    "transliteration": "parousia",
+    "original": "παρουσία",
+    "pronunciation": "par-oo-SEE-ah",
+    "gloss": "coming, presence",
+    "notes": "Literally \"being alongside\": presence, and so arrival. In the Greek world it was used for the official visit of a king or emperor. In the New Testament it's most often the coming of Christ, which is why the disciples use it in 24:3. It can also mean ordinary presence, as in Paul's \"my presence\" in Philippians 2:12.",
+    "range": [
+      {
+        "sense": "Presence",
+        "note": "Being with someone."
+      },
+      {
+        "sense": "Arrival",
+        "note": "A visit or coming."
+      },
+      {
+        "sense": "The Lord's coming",
+        "note": "Christ's return in glory."
+      }
+    ],
+    "translations": [
+      "coming",
+      "arrival",
+      "presence"
+    ],
+    "elsewhere": [
+      {
+        "ref": "1 Corinthians 15:23",
+        "note": "\"Those who belong to Christ at his coming.\""
+      },
+      {
+        "ref": "1 Thessalonians 4:15",
+        "note": "\"Until the coming of the Lord.\""
+      },
+      {
+        "ref": "2 Corinthians 7:6",
+        "note": "Comforted by the coming of Titus."
+      },
+      {
+        "ref": "Philippians 2:12",
+        "note": "Obeying in Paul's presence and absence."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "thlipsis",
+    "transliteration": "thlipsis",
+    "original": "θλῖψις",
+    "pronunciation": "THLEEP-sis",
+    "gloss": "tribulation, pressure",
+    "notes": "From a verb meaning \"to press\" or \"to crush\": being squeezed by hardship or persecution. English Bibles render it \"tribulation,\" \"affliction,\" or \"trouble.\" In Matthew it describes suffering that comes to followers of Jesus (13:21; 24:9) and the unmatched distress of 24:21.",
+    "range": [
+      {
+        "sense": "Pressure",
+        "note": "Being squeezed or crushed."
+      },
+      {
+        "sense": "Trouble",
+        "note": "Hardship or affliction."
+      },
+      {
+        "sense": "Persecution",
+        "note": "Suffering for the faith."
+      }
+    ],
+    "translations": [
+      "tribulation",
+      "affliction",
+      "trouble",
+      "persecution"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:21",
+        "note": "Trouble or persecution on account of the word."
+      },
+      {
+        "ref": "John 16:33",
+        "note": "\"In the world you will have tribulation.\""
+      },
+      {
+        "ref": "Romans 5:3",
+        "note": "Tribulation produces perseverance."
+      },
+      {
+        "ref": "Revelation 7:14",
+        "note": "Those who come out of the great tribulation."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "gregoreo",
+    "transliteration": "grēgoreō",
+    "original": "γρηγορέω",
+    "pronunciation": "gray-gor-EH-oh",
+    "gloss": "to keep watch, stay awake",
+    "notes": "To be awake, and so to stay alert. It's used for literal wakefulness (as at Gethsemane) and for readiness for the Lord's return, which is how it's used throughout chapters 24 and 25.",
+    "range": [
+      {
+        "sense": "Stay awake",
+        "note": "Don't sleep."
+      },
+      {
+        "sense": "Be alert",
+        "note": "Stay ready for what is coming."
+      }
+    ],
+    "translations": [
+      "watch",
+      "keep watch",
+      "stay awake",
+      "be alert"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:38",
+        "note": "\"Stay here and watch with me.\""
+      },
+      {
+        "ref": "Mark 13:37",
+        "note": "\"Watch.\""
+      },
+      {
+        "ref": "1 Thessalonians 5:6",
+        "note": "Let us stay awake and sober."
+      },
+      {
+        "ref": "Revelation 3:2",
+        "note": "\"Wake up!\" to the church in Sardis."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "elachistos",
+    "transliteration": "elachistos",
+    "original": "ἐλάχιστος",
+    "pronunciation": "eh-LAH-khis-tos",
+    "gloss": "least, smallest",
+    "notes": "The superlative of \"small\": the smallest or least important. In the judgment scene it describes those Jesus identifies with, \"the least of these my brothers.\" Who exactly they are, any person in need or Jesus' followers, is debated.",
+    "uncertain": "Whether \"the least of these my brothers\" means any person in need or Jesus' followers in particular is debated.",
+    "range": [
+      {
+        "sense": "Smallest",
+        "note": "Least in size or amount."
+      },
+      {
+        "sense": "Least important",
+        "note": "Lowest in rank or status."
+      }
+    ],
+    "translations": [
+      "least",
+      "smallest",
+      "very small"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:19",
+        "note": "\"Least in the kingdom of heaven.\""
+      },
+      {
+        "ref": "Luke 16:10",
+        "note": "Faithful in very little."
+      },
+      {
+        "ref": "1 Corinthians 15:9",
+        "note": "Paul, the least of the apostles."
+      },
+      {
+        "ref": "James 3:4",
+        "note": "A very small rudder steers a ship."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aionios",
+    "transliteration": "aiōnios",
+    "original": "αἰώνιος",
+    "pronunciation": "eye-OH-nee-os",
+    "gloss": "eternal, of the age to come",
+    "notes": "From aion, \"age.\" It describes what belongs to the coming age, and so what is lasting or without end. In the New Testament it usually modifies life (\"eternal life\") but here also fire and punishment. It can mean both \"of the age to come\" and \"endless.\"",
+    "uncertain": "How to understand \"eternal punishment\" (25:46), as endless or as belonging to the age to come, has been debated across church history.",
+    "range": [
+      {
+        "sense": "Of the age to come",
+        "note": "Belonging to God's future age."
+      },
+      {
+        "sense": "Without end",
+        "note": "Lasting forever."
+      }
+    ],
+    "translations": [
+      "eternal",
+      "everlasting",
+      "of the age to come"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 19:16",
+        "note": "\"What good thing shall I do that I may have eternal life?\""
+      },
+      {
+        "ref": "John 3:16",
+        "note": "\"Should not perish, but have eternal life.\""
+      },
+      {
+        "ref": "Romans 6:23",
+        "note": "The free gift is eternal life."
+      },
+      {
+        "ref": "2 Corinthians 4:18",
+        "note": "What is unseen is eternal."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pascha",
+    "transliteration": "pascha",
+    "original": "πάσχα",
+    "pronunciation": "PAHS-kha",
+    "gloss": "Passover",
+    "notes": "The Greek form of the Aramaic and Hebrew pesach, the Passover: the spring festival recalling Israel's exodus from Egypt, and the lamb sacrificed for it. The same word names the festival, the meal, and the lamb. Paul calls Christ \"our Passover lamb\" (1 Corinthians 5:7).",
+    "range": [
+      {
+        "sense": "The festival",
+        "note": "The Passover feast."
+      },
+      {
+        "sense": "The meal",
+        "note": "The Passover supper."
+      },
+      {
+        "sense": "The lamb",
+        "note": "The sacrificed Passover lamb."
+      }
+    ],
+    "translations": [
+      "Passover",
+      "Passover lamb",
+      "Passover meal"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:15",
+        "note": "\"I have earnestly desired to eat this Passover with you.\""
+      },
+      {
+        "ref": "John 19:14",
+        "note": "The preparation day of the Passover."
+      },
+      {
+        "ref": "1 Corinthians 5:7",
+        "note": "\"Christ, our Passover lamb, has been sacrificed.\""
+      },
+      {
+        "ref": "Hebrews 11:28",
+        "note": "Moses kept the Passover."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "diatheke",
+    "transliteration": "diathēkē",
+    "original": "διαθήκη",
+    "pronunciation": "dee-ah-THAY-kay",
+    "gloss": "covenant, testament",
+    "notes": "In everyday Greek it meant a will or testament; in the Greek Old Testament it translates the Hebrew berit, a covenant, a binding agreement between God and his people. English \"testament\" in \"New Testament\" comes from it. At the supper Jesus' words call to mind Sinai (Exodus 24) and Jeremiah's promised new covenant (Jeremiah 31).",
+    "range": [
+      {
+        "sense": "Covenant",
+        "note": "An agreement God makes with his people."
+      },
+      {
+        "sense": "Will or testament",
+        "note": "A document that gives an inheritance."
+      }
+    ],
+    "translations": [
+      "covenant",
+      "testament"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 22:20",
+        "note": "\"This cup is the new covenant in my blood.\""
+      },
+      {
+        "ref": "1 Corinthians 11:25",
+        "note": "The same words in Paul."
+      },
+      {
+        "ref": "2 Corinthians 3:6",
+        "note": "Ministers of a new covenant."
+      },
+      {
+        "ref": "Hebrews 8:8",
+        "note": "Jeremiah's new covenant quoted."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradidomi",
+    "transliteration": "paradidōmi",
+    "original": "παραδίδωμι",
+    "pronunciation": "pah-rah-DEE-doh-mee",
+    "gloss": "to hand over, betray",
+    "notes": "Literally \"to give over\": to hand someone over to another's power. It's the word for Judas's betrayal, but also for the leaders handing Jesus to Pilate, Pilate handing him to be crucified, and, in Paul's letters, God giving up his Son. English has to choose \"betray,\" \"hand over,\" or \"deliver\" depending on who is acting; the Greek uses one word throughout.",
+    "range": [
+      {
+        "sense": "Hand over",
+        "note": "Give someone into another's custody."
+      },
+      {
+        "sense": "Betray",
+        "note": "Hand over by treachery."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Pass something on, as a teaching."
+      }
+    ],
+    "translations": [
+      "betray",
+      "hand over",
+      "deliver",
+      "give over"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 10:4",
+        "note": "Judas, \"who also betrayed him.\""
+      },
+      {
+        "ref": "Mark 1:14",
+        "note": "John was \"arrested.\""
+      },
+      {
+        "ref": "Romans 8:32",
+        "note": "God \"gave him up for us all.\""
+      },
+      {
+        "ref": "Galatians 2:20",
+        "note": "\"Gave himself up for me.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "sanhedrion",
+    "transliteration": "synedrion",
+    "original": "συνέδριον",
+    "pronunciation": "soo-NEH-dree-on",
+    "gloss": "council, Sanhedrin",
+    "notes": "Literally \"sitting together\": a council. The Sanhedrin was Jerusalem's supreme Jewish council, made up of chief priests, elders, and scribes, with the high priest presiding. Under Roman rule it had authority over many internal Jewish matters. The word can also mean a local court.",
+    "range": [
+      {
+        "sense": "The Sanhedrin",
+        "note": "The ruling council in Jerusalem."
+      },
+      {
+        "sense": "A local court",
+        "note": "A smaller council."
+      }
+    ],
+    "translations": [
+      "council",
+      "Sanhedrin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:22",
+        "note": "\"Liable to the council.\""
+      },
+      {
+        "ref": "John 11:47",
+        "note": "The council gathers about Jesus."
+      },
+      {
+        "ref": "Acts 5:21",
+        "note": "The apostles before the council."
+      },
+      {
+        "ref": "Acts 23:6",
+        "note": "Paul before the council."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "stauroo",
+    "transliteration": "stauroō",
+    "original": "σταυρόω",
+    "pronunciation": "stow-ROH-oh",
+    "gloss": "to crucify",
+    "notes": "From stauros (\"cross\"): to fasten to a cross, Rome's execution for slaves and rebels. The verb is in the passive in Matthew's trial scene, where the crowd shouts \"Let him be crucified!\" The cross later became the central image of the Christian message (1 Corinthians 1:23).",
+    "range": [
+      {
+        "sense": "Crucify",
+        "note": "Put to death on a cross."
+      }
+    ],
+    "translations": [
+      "crucify"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 15:13",
+        "note": "\"Crucify him!\""
+      },
+      {
+        "ref": "Acts 2:36",
+        "note": "\"This Jesus whom you crucified.\""
+      },
+      {
+        "ref": "1 Corinthians 1:23",
+        "note": "\"We preach Christ crucified.\""
+      },
+      {
+        "ref": "Galatians 3:1",
+        "note": "Christ \"was portrayed as crucified.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "katapetasma",
+    "transliteration": "katapetasma",
+    "original": "καταπέτασμα",
+    "pronunciation": "kah-tah-PEH-tahs-mah",
+    "gloss": "curtain, veil",
+    "notes": "A curtain or veil, used in the Greek Old Testament for the curtains of the tabernacle and temple. Which curtain is torn in 27:51 isn't stated. The inner curtain screened the Holy of Holies, and Hebrews later reads the torn curtain as opening the way into God's presence.",
+    "uncertain": "Whether the inner curtain before the Holy of Holies or the outer curtain is meant is debated; Matthew doesn't say.",
+    "range": [
+      {
+        "sense": "Veil",
+        "note": "A hanging curtain."
+      },
+      {
+        "sense": "Temple curtain",
+        "note": "The curtain in the tabernacle or temple."
+      }
+    ],
+    "translations": [
+      "veil",
+      "curtain"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 15:38",
+        "note": "The same event in Mark."
+      },
+      {
+        "ref": "Luke 23:45",
+        "note": "The same event in Luke."
+      },
+      {
+        "ref": "Hebrews 6:19",
+        "note": "Hope enters \"behind the veil.\""
+      },
+      {
+        "ref": "Hebrews 10:20",
+        "note": "\"Through the veil, that is, his flesh.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "koustodia",
+    "transliteration": "koustōdia",
+    "original": "κουστωδία",
+    "pronunciation": "koos-toh-DEE-ah",
+    "gloss": "guard",
+    "notes": "A Latin loan word (custodia): a guard, a watch. Used only in Matthew, here and in 28:11. Whether Pilate's words in 27:65 mean \"You have a guard\" or \"Take a guard,\" and whether the soldiers were Roman or from the temple, are matters of debate; the Greek verb can be read either way.",
+    "uncertain": "Whether the guard was Roman or from the temple, and whether Pilate says \"you have\" or \"take\" a guard, is debated.",
+    "range": [
+      {
+        "sense": "Guard",
+        "note": "A detachment posted to watch something."
+      }
+    ],
+    "translations": [
+      "guard",
+      "watch",
+      "soldiers"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 28:11",
+        "note": "Some of the guard report to the chief priests."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "matheteuo",
+    "transliteration": "mathēteuō",
+    "original": "μαθητεύω",
+    "pronunciation": "mah-thay-TYOO-oh",
+    "gloss": "to make a disciple",
+    "notes": "From mathetes, \"disciple,\" a learner who follows a teacher: to make someone a disciple. It's the main verb of the Great Commission; \"going,\" \"baptizing,\" and \"teaching\" are the ways it happens. Matthew is the only Gospel writer who uses the verb, and he uses it for Joseph of Arimathea (27:57) and for the scribe \"trained for the kingdom\" (13:52).",
+    "range": [
+      {
+        "sense": "Make a disciple",
+        "note": "Bring someone into following a teacher."
+      },
+      {
+        "sense": "Become a disciple",
+        "note": "Be a learner and follower."
+      }
+    ],
+    "translations": [
+      "make disciples",
+      "disciple",
+      "teach",
+      "train"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:52",
+        "note": "\"Every scribe who has been made a disciple of the kingdom.\""
+      },
+      {
+        "ref": "Matthew 27:57",
+        "note": "Joseph of Arimathea \"also himself was Jesus' disciple.\""
+      },
+      {
+        "ref": "Acts 14:21",
+        "note": "Paul and Barnabas \"made many disciples.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake someone from sleep, or raise them up. For the dead, to raise them to life. It's the usual New Testament verb for resurrection, in the passive: \"he was raised\" or \"he has been raised,\" which points to God as the one who raises. The angel's \"he has risen\" in 28:6 uses this verb.",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:64",
+        "note": "\"Lest his disciples say, 'He has risen.'\""
+      },
+      {
+        "ref": "Mark 16:6",
+        "note": "The same announcement in Mark."
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him from the dead."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "\"He was raised on the third day.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To dip or immerse, used for washing things clean and for the rite of baptism. In Matthew it begins with John's baptism for repentance (3:11), and ends with Jesus' command to baptize new disciples in the name of the Father, Son, and Holy Spirit.",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:11",
+        "note": "\"I indeed baptize you in water.\""
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "\"Repent and be baptized.\""
+      },
+      {
+        "ref": "Romans 6:3",
+        "note": "Baptized into Christ's death."
+      },
+      {
+        "ref": "1 Corinthians 12:13",
+        "note": "Baptized into one body."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aion",
+    "transliteration": "aiōn",
+    "original": "αἰών",
+    "pronunciation": "eye-OHN",
+    "gloss": "age, era",
+    "notes": "A long period of time, an age. Jewish thinking divided time into \"this age\" and \"the age to come.\" In Matthew \"the end of the age\" is the point where the present age gives way to the next (13:39; 24:3), and Jesus' promise in 28:20 reaches all the way to it.",
+    "range": [
+      {
+        "sense": "An age",
+        "note": "A long era."
+      },
+      {
+        "sense": "This age",
+        "note": "The present era."
+      },
+      {
+        "sense": "The age to come",
+        "note": "God's coming era."
+      }
+    ],
+    "translations": [
+      "age",
+      "world",
+      "era"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:39",
+        "note": "\"The harvest is the end of the age.\""
+      },
+      {
+        "ref": "Matthew 24:3",
+        "note": "\"The end of the age.\""
+      },
+      {
+        "ref": "Ephesians 2:7",
+        "note": "\"In the ages to come.\""
+      },
+      {
+        "ref": "Hebrews 1:2",
+        "note": "Through whom he made the ages."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

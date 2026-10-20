@@ -1,0 +1,106 @@
+{
+  "number": 27,
+  "sceneHappening": "Before Pilate, and the crucifixion and burial",
+  "summary": "At daybreak the chief priests and elders bind Jesus and hand him over to Pilate. Judas, seeing Jesus condemned, is seized with remorse and returns the thirty pieces of silver: \"I have sinned in that I betrayed innocent blood.\" The priests answer, \"What is that to us? You see to it.\" He throws the money into the sanctuary and hangs himself, and the priests use it to buy the Potter's Field as a burial place for foreigners, the Field of Blood. Pilate asks Jesus, \"Are you the King of the Jews?\" \"So you say,\" and Jesus doesn't answer the accusations. As it is the governor's custom to release a prisoner at the feast, Pilate offers the crowd Barabbas, a notorious prisoner, or Jesus. His wife has sent word: \"Have nothing to do with that righteous man.\" The chief priests persuade the crowd to ask for Barabbas. \"What then shall I do with Jesus?\" \"Let him be crucified!\" Pilate washes his hands: \"I am innocent of this man's blood. You see to it.\" The people answer, \"May his blood be on us and on our children.\" He releases Barabbas, has Jesus flogged, and hands him over. The soldiers mock him with a scarlet robe, a crown of thorns, and a reed, kneeling, \"Hail, King of the Jews!\" They force Simon of Cyrene to carry the cross to Golgotha, \"the place of a skull.\" Jesus refuses the wine mixed with gall, is crucified between two robbers, and his clothes are divided by lot; above his head is written \"This is Jesus, the King of the Jews.\" Passersby, the chief priests, scribes, and elders mock him: \"He saved others; he can't save himself.\" From noon until three, darkness covers the land. About three he cries, \"Eli, Eli, lema sabachthani?\" (\"My God, my God, why have you forsaken me?\"), and some bystanders think he is calling Elijah. Jesus cries out again and gives up his spirit. The temple veil is torn in two from top to bottom, the earth shakes, rocks split, and tombs open; many holy people are raised and appear in the city after his resurrection. The centurion and his men are terrified: \"Truly this was the Son of God.\" Women who followed him from Galilee watch from a distance, among them Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons. In the evening Joseph of Arimathea, a rich disciple, asks Pilate for the body, wraps it in clean linen, and lays it in his own new tomb cut out of rock, rolling a great stone across the entrance. The next day the chief priests and Pharisees ask Pilate to secure the tomb until the third day, so the disciples can't steal the body. Pilate says, \"You have a guard. Go, make it as secure as you can.\" They seal the stone and set the guard.",
+  "whySettingMatters": "Pilate was prefect of Judea from about AD 26 to 36. He lived on the coast at Caesarea and came to Jerusalem at festivals, when crowds could turn dangerous. Roman governors held the power of execution. A custom of freeing a prisoner at the feast isn't mentioned outside the Gospels, and whether it existed is debated. \"Barabbas\" means \"son of the father\" in Aramaic, and some early manuscripts give his name as \"Jesus Barabbas.\" Washing hands to declare innocence follows Deuteronomy 21:6-9. The crowd's cry in 27:25 appears only in Matthew and has a painful history: it has been used to blame all Jewish people for Jesus' death, which is a misreading. Jesus and all his first followers were Jews; Matthew's own story names Pilate, who gave the order, and Roman soldiers, who carried it out; and the people crying out are a crowd in Jerusalem, not a people for all time. Crucifixion was Rome's punishment for slaves and rebels; victims were flogged first and usually carried the crossbeam. Golgotha is Aramaic for \"skull,\" and wine mixed with gall was a drink offered to dull pain. The darkness at noon recalls Amos 8:9. Jesus' cry opens Psalm 22, which moves from abandonment to trust; whether the whole psalm is in view is debated. The bystanders hear \"Eli\" as \"Elijah.\" Matthew doesn't say which temple curtain tore, and the raising of the saints appears only in Matthew and has been read both literally and symbolically. The centurion commanded about a hundred soldiers; whether his \"Son of God\" means more than \"a son of God\" in the emperor's sense is debated. The saying Matthew attributes to Jeremiah in 27:9 draws mostly on Zechariah 11:12-13, with echoes of Jeremiah's field and potter scenes; why Matthew names only Jeremiah is debated. Rock-cut tombs closed by a rolling stone were typical of wealthy families, and the law required burial before sundown (Deuteronomy 21:22-23). Pilate's \"You have a guard\" can also be read \"Take a guard,\" and whether the guard was Roman or from the temple is debated.",
+  "people": [
+    {
+      "id": "pilate",
+      "note": "Roman governor who finds no fault and still orders the crucifixion."
+    },
+    {
+      "id": "pilates-wife",
+      "note": "Warns Pilate about \"that righteous man\" after a dream."
+    },
+    {
+      "id": "barabbas",
+      "note": "A notorious prisoner released in Jesus' place."
+    },
+    {
+      "id": "judas-iscariot",
+      "note": "Fills with remorse, returns the silver, and takes his own life."
+    },
+    {
+      "id": "chief-priests",
+      "note": "Hand Jesus to Pilate and press for his death."
+    },
+    {
+      "id": "roman-soldiers",
+      "note": "Flog, mock, and crucify Jesus, and later guard the tomb."
+    },
+    {
+      "id": "simon-of-cyrene",
+      "note": "A passerby forced to carry the cross."
+    },
+    {
+      "id": "the-crucifixion-centurion",
+      "note": "The Roman officer who says, \"Truly this was the Son of God.\""
+    },
+    {
+      "id": "mary-magdalene",
+      "note": "Watches from a distance, then sits by the tomb."
+    },
+    {
+      "id": "mary-mother-of-james",
+      "note": "Another Mary among the women at the cross and the tomb."
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "note": "Among the women watching from afar."
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "note": "A rich disciple who gives his own tomb."
+    },
+    {
+      "id": "the-crowds",
+      "note": "Shout for Barabbas and for crucifixion."
+    }
+  ],
+  "questions": [
+    "Judas feels remorse and the leaders say \"you see to it.\" What does that show about their response?",
+    "Pilate declares himself innocent and still orders the execution. What does the washing of hands accomplish, and what doesn't it?",
+    "The crowd's cry in 27:25 has been misused against Jewish people. How would you read it within the story as Matthew tells it?",
+    "The centurion and the soldiers say \"Truly this was the Son of God\" after the signs. What did they see?"
+  ],
+  "words": [
+    {
+      "id": "stauroo",
+      "note": "\"Let him be crucified!\" (27:22-23) and the crucifixion itself (27:26, 27:31, 27:35)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "Judas \"betrayed\" innocent blood; Pilate \"handed him over\" (27:2, 27:4, 27:18, 27:26)."
+    },
+    {
+      "id": "katapetasma",
+      "note": "\"The veil of the temple was torn in two\" (27:51)."
+    },
+    {
+      "id": "koustodia",
+      "note": "\"You have a guard\" (27:65-66)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 22:1",
+      "note": "\"My God, my God, why have you forsaken me?\""
+    },
+    {
+      "ref": "Psalm 22:18",
+      "note": "they divide my garments among them"
+    },
+    {
+      "ref": "Zechariah 11:12-13",
+      "note": "thirty pieces of silver thrown to the potter"
+    },
+    {
+      "ref": "Amos 8:9",
+      "note": "the sun goes down at noon"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

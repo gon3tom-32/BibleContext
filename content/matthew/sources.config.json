@@ -124,6 +124,22 @@
     {
       "id": "magadan",
       "ancientId": "ad14067"
+    },
+    {
+      "id": "bethphage",
+      "ancientId": "abff59d"
+    },
+    {
+      "id": "zion",
+      "ancientId": "af20c46"
+    },
+    {
+      "id": "akeldama",
+      "ancientId": "a040ba5"
+    },
+    {
+      "id": "cyrene",
+      "ancientId": "a81cdb5"
     }
   ],
   "people": [
@@ -188,26 +204,6 @@
       "theographic": "judas_1760"
     },
     {
-      "id": "thomas",
-      "theographic": "thomas_2851"
-    },
-    {
-      "id": "philip",
-      "theographic": "philip_2344"
-    },
-    {
-      "id": "bartholomew",
-      "theographic": "bartholomew_405"
-    },
-    {
-      "id": "james-alphaeus",
-      "theographic": "james_718"
-    },
-    {
-      "id": "thaddaeus",
-      "theographic": "lebbaeus_1815"
-    },
-    {
       "id": "herod-antipas",
       "theographic": "herod_1505"
     },
@@ -226,6 +222,54 @@
     {
       "id": "moses",
       "theographic": "moses_2108"
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "theographic": "mother_of_zebedees_children_2112"
+    },
+    {
+      "id": "david",
+      "theographic": "david_994"
+    },
+    {
+      "id": "noah",
+      "theographic": "noah_2210"
+    },
+    {
+      "id": "daniel",
+      "theographic": "daniel_975"
+    },
+    {
+      "id": "abel",
+      "theographic": "abel_13"
+    },
+    {
+      "id": "caiaphas",
+      "theographic": "caiaphas_532"
+    },
+    {
+      "id": "simon-the-leper",
+      "theographic": "simon_2748"
+    },
+    {
+      "id": "pilate",
+      "theographic": "pilate_2365"
+    },
+    {
+      "id": "barabbas",
+      "theographic": "barabbas_399"
+    },
+    {
+      "id": "simon-of-cyrene",
+      "theographic": "simon_2749"
+    },
+    {
+      "id": "mary-magdalene",
+      "theographic": "mary_1943"
+    },
+    {
+      "id": "joseph-of-arimathea",
+      "theographic": "joseph_1716"
     }
   ],
   "words": [
@@ -453,6 +497,246 @@
         "G4625"
       ],
       "foundAt": "Matthew 16:23"
+    },
+    {
+      "id": "paidion",
+      "strongs": [
+        "G3813"
+      ],
+      "foundAt": "Matthew 18:2"
+    },
+    {
+      "id": "geenna",
+      "strongs": [
+        "G1067"
+      ],
+      "foundAt": "Matthew 18:9"
+    },
+    {
+      "id": "aphiemi",
+      "strongs": [
+        "G0863G",
+        "G0863H",
+        "G0863I"
+      ],
+      "foundAt": "Matthew 18:27"
+    },
+    {
+      "id": "talanton",
+      "strongs": [
+        "G5007"
+      ],
+      "foundAt": "Matthew 18:24"
+    },
+    {
+      "id": "porneia",
+      "strongs": [
+        "G4202"
+      ],
+      "foundAt": "Matthew 19:9"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "Matthew 19:21"
+    },
+    {
+      "id": "palingenesia",
+      "strongs": [
+        "G3824"
+      ],
+      "foundAt": "Matthew 19:28"
+    },
+    {
+      "id": "lytron",
+      "strongs": [
+        "G3083"
+      ],
+      "foundAt": "Matthew 20:28"
+    },
+    {
+      "id": "diakoneo",
+      "strongs": [
+        "G1247"
+      ],
+      "foundAt": "Matthew 20:28"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "Matthew 20:27"
+    },
+    {
+      "id": "hosanna",
+      "strongs": [
+        "G5614"
+      ],
+      "foundAt": "Matthew 21:9"
+    },
+    {
+      "id": "ethnos",
+      "strongs": [
+        "G1484"
+      ],
+      "foundAt": "Matthew 20:19"
+    },
+    {
+      "id": "kensos",
+      "strongs": [
+        "G2778"
+      ],
+      "foundAt": "Matthew 22:17"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "Matthew 22:37"
+    },
+    {
+      "id": "entole",
+      "strongs": [
+        "G1785"
+      ],
+      "foundAt": "Matthew 22:36"
+    },
+    {
+      "id": "rabbi",
+      "strongs": [
+        "G4461"
+      ],
+      "foundAt": "Matthew 23:7"
+    },
+    {
+      "id": "ouai",
+      "strongs": [
+        "G3759"
+      ],
+      "foundAt": "Matthew 23:13"
+    },
+    {
+      "id": "kathedra",
+      "strongs": [
+        "G2515"
+      ],
+      "foundAt": "Matthew 23:2"
+    },
+    {
+      "id": "parousia",
+      "strongs": [
+        "G3952"
+      ],
+      "foundAt": "Matthew 24:3"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "Matthew 24:9"
+    },
+    {
+      "id": "gregoreo",
+      "strongs": [
+        "G1127"
+      ],
+      "foundAt": "Matthew 24:42"
+    },
+    {
+      "id": "elachistos",
+      "strongs": [
+        "G1646"
+      ],
+      "foundAt": "Matthew 25:40"
+    },
+    {
+      "id": "aionios",
+      "strongs": [
+        "G0166"
+      ],
+      "foundAt": "Matthew 25:46"
+    },
+    {
+      "id": "pascha",
+      "strongs": [
+        "G3957"
+      ],
+      "foundAt": "Matthew 26:2"
+    },
+    {
+      "id": "diatheke",
+      "strongs": [
+        "G1242"
+      ],
+      "foundAt": "Matthew 26:28"
+    },
+    {
+      "id": "paradidomi",
+      "strongs": [
+        "G3860"
+      ],
+      "foundAt": "Matthew 26:2"
+    },
+    {
+      "id": "sanhedrion",
+      "strongs": [
+        "G4892"
+      ],
+      "foundAt": "Matthew 26:59"
+    },
+    {
+      "id": "stauroo",
+      "strongs": [
+        "G4717"
+      ],
+      "foundAt": "Matthew 27:22"
+    },
+    {
+      "id": "katapetasma",
+      "strongs": [
+        "G2665"
+      ],
+      "foundAt": "Matthew 27:51"
+    },
+    {
+      "id": "koustodia",
+      "strongs": [
+        "G2892"
+      ],
+      "foundAt": "Matthew 27:65"
+    },
+    {
+      "id": "matheteuo",
+      "strongs": [
+        "G3100"
+      ],
+      "foundAt": "Matthew 28:19"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Matthew 28:6"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Matthew 28:19"
+    },
+    {
+      "id": "aion",
+      "strongs": [
+        "G0165G"
+      ],
+      "foundAt": "Matthew 28:20"
     }
   ],
   "crossRefs": {
@@ -469,10 +753,6 @@
       "text": "Theographic has no records for the magi, the devil, or groups like the Pharisees and Sadducees. Those stay hand-written."
     },
     {
-      "area": "chapters",
-      "text": "Chapters 18 to 28 have text, people, places, and cross-references from the data, but no hand-written context notes yet."
-    },
-    {
       "area": "words",
       "text": "Emmanouel appears only once in the New Testament; its other uses (Isaiah 7:14, 8:8) are in the Hebrew Bible, which the Greek tagging doesn't cover."
     },
@@ -487,6 +767,18 @@
     {
       "area": "places",
       "text": "Matthew doesn't name the mountain of the transfiguration (17:1); it isn't mapped."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no record for Zechariah son of Barachiah (23:35), whose identity is debated; he is hand-written."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for Pilate's wife, the woman at Bethany, the Roman soldiers, or the centurion at the cross; they're unnamed in Matthew and hand-written. Mary the mother of James and Joses is also hand-written, since the data merges her with another Mary."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for the angel, the tomb guard, or the eleven as a group; they're hand-written."
     }
   ]
 }

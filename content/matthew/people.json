@@ -140,31 +140,6 @@
     "note": "One of the twelve, who later betrays Jesus."
   },
   {
-    "id": "thomas",
-    "name": "Thomas",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "philip",
-    "name": "Philip",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "bartholomew",
-    "name": "Bartholomew",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "james-alphaeus",
-    "name": "James son of Alphaeus",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "thaddaeus",
-    "name": "Thaddaeus",
-    "note": "One of the twelve."
-  },
-  {
     "id": "johns-disciples",
     "name": "John's disciples",
     "note": "Followers of John the Baptist who kept his practices, such as fasting."
@@ -223,5 +198,155 @@
     "id": "temple-tax-collectors",
     "name": "The temple-tax collectors",
     "note": "Men in Capernaum who collected the annual half-shekel for the temple."
+  },
+  {
+    "id": "the-child",
+    "name": "A child",
+    "note": "Unnamed in Matthew. Jesus calls the child over and sets the child among the disciples."
+  },
+  {
+    "id": "the-children",
+    "name": "The children",
+    "note": "Children brought to Jesus for a blessing."
+  },
+  {
+    "id": "the-rich-young-man",
+    "name": "The rich young man",
+    "note": "Unnamed in Matthew, who calls him a young man. He keeps the commandments and has great wealth."
+  },
+  {
+    "id": "mother-of-zebedees-sons",
+    "name": "The mother of Zebedee's sons",
+    "note": "Unnamed in Matthew; she is also among the women at the cross (27:56)."
+  },
+  {
+    "id": "the-blind-men",
+    "name": "Two blind men",
+    "note": "Two men by the road outside Jericho who cry out for mercy."
+  },
+  {
+    "id": "temple-merchants",
+    "name": "The temple merchants",
+    "note": "Sellers of animals for sacrifice and moneychangers working in the temple's outer court."
+  },
+  {
+    "id": "chief-priests",
+    "name": "The chief priests and elders",
+    "note": "The leading priests and community elders, members of the Sanhedrin, the ruling council in Jerusalem."
+  },
+  {
+    "id": "herodians",
+    "name": "The Herodians",
+    "note": "Supporters of the Herod family and its Rome-backed rule."
+  },
+  {
+    "id": "sadducees",
+    "name": "The Sadducees",
+    "note": "The priestly aristocracy, who accepted only the five books of Moses and denied resurrection."
+  },
+  {
+    "id": "the-lawyer",
+    "name": "A lawyer",
+    "note": "An expert in the law of Moses, who asks Jesus which commandment is greatest."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "Israel's great king, from whose line the Christ was expected."
+  },
+  {
+    "id": "noah",
+    "name": "Noah",
+    "note": "The man who built the ark; his days are Jesus' picture of life going on until the flood."
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "note": "The prophet whose book speaks of the \"abomination of desolation.\""
+  },
+  {
+    "id": "abel",
+    "name": "Abel",
+    "note": "Adam and Eve's son, killed by his brother Cain, the first righteous blood shed in Scripture."
+  },
+  {
+    "id": "zechariah-son-of-barachiah",
+    "name": "Zechariah son of Barachiah",
+    "note": "The last righteous martyr Jesus names. The Zechariah killed in the temple in 2 Chronicles is called a son of Jehoiada; whether they are the same is debated."
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "note": "Joseph Caiaphas, high priest from about AD 18 to 36, appointed under Roman rule."
+  },
+  {
+    "id": "the-woman-at-bethany",
+    "name": "The woman at Bethany",
+    "note": "Unnamed in Matthew. She anoints Jesus in Simon's house."
+  },
+  {
+    "id": "simon-the-leper",
+    "name": "Simon the leper",
+    "note": "Host of the meal in Bethany. \"Leper\" translates a term for a skin disease."
+  },
+  {
+    "id": "pilate",
+    "name": "Pontius Pilate",
+    "note": "Roman prefect of Judea from about AD 26 to 36."
+  },
+  {
+    "id": "pilates-wife",
+    "name": "Pilate's wife",
+    "note": "Unnamed in Matthew. She sends Pilate a warning after a dream."
+  },
+  {
+    "id": "barabbas",
+    "name": "Barabbas",
+    "note": "A notorious prisoner. His name means \"son of the father,\" and some early manuscripts call him Jesus Barabbas."
+  },
+  {
+    "id": "roman-soldiers",
+    "name": "The Roman soldiers",
+    "note": "The governor's soldiers, who flog, mock, and crucify Jesus. A full cohort was about six hundred men at most."
+  },
+  {
+    "id": "simon-of-cyrene",
+    "name": "Simon of Cyrene",
+    "note": "A passerby from the North African city of Cyrene, forced to carry Jesus' cross."
+  },
+  {
+    "id": "the-crucifixion-centurion",
+    "name": "The centurion at the cross",
+    "note": "A Roman officer who watches over the crucifixion and declares Jesus the Son of God."
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "note": "A woman from Magdala, among those who followed Jesus from Galilee."
+  },
+  {
+    "id": "mary-mother-of-james",
+    "name": "Mary, mother of James and Joses",
+    "note": "Another of the women who followed Jesus from Galilee and watched the crucifixion and burial."
+  },
+  {
+    "id": "joseph-of-arimathea",
+    "name": "Joseph of Arimathea",
+    "note": "A wealthy man from Arimathea who became a disciple and buried Jesus in his own tomb."
+  },
+  {
+    "id": "the-angel",
+    "name": "The angel of the Lord",
+    "note": "A messenger from God who rolls the stone away and speaks to the women."
+  },
+  {
+    "id": "the-tomb-guard",
+    "name": "The guard at the tomb",
+    "note": "The guard set at the tomb; whether they were Roman or temple guards is debated."
+  },
+  {
+    "id": "the-eleven",
+    "name": "The eleven",
+    "note": "The twelve without Judas."
   }
 ]

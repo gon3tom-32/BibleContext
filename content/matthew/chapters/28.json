@@ -1,0 +1,94 @@
+{
+  "number": 28,
+  "sceneHappening": "At the tomb at dawn, then on a mountain in Galilee",
+  "summary": "After the Sabbath, as the first day of the week begins to dawn, Mary Magdalene and the other Mary go to look at the tomb. There is a great earthquake, and an angel of the Lord comes down from heaven, rolls away the stone, and sits on it. His appearance is like lightning and his clothing white as snow; the guards shake with fear and become like dead men. The angel tells the women, \"Don't be afraid, for I know that you are looking for Jesus, who has been crucified. He isn't here, for he has risen, just like he said. Come, see the place where the Lord lay. Go quickly and tell his disciples that he has risen from the dead. Behold, he goes before you into Galilee; there you will see him.\" They leave quickly with fear and great joy and run to tell the disciples. Suddenly Jesus meets them: \"Rejoice!\" They take hold of his feet and worship him. \"Don't be afraid. Go tell my brothers that they should go into Galilee, and there they will see me.\" While they are going, some of the guard go into the city and tell the chief priests everything that happened. The chief priests meet with the elders and give the soldiers a large sum of money: \"Say that his disciples came by night and stole him away while we slept. If this comes to the governor's ears, we will persuade him and keep you out of trouble.\" The soldiers take the money, and Matthew says this story has been spread among the Jews to this day. The eleven disciples go to Galilee, to the mountain where Jesus had directed them. When they see him they worship, but some doubt. Jesus comes and says, \"All authority has been given to me in heaven and on earth. Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.\"",
+  "whySettingMatters": "The Sabbath ended at sundown on Saturday, so the \"first day of the week\" is Sunday morning. Women are the first witnesses, and the first sent to tell the disciples. Matthew gives no account of the resurrection itself, only its aftermath. The soldiers' cover story assumes the tomb was empty; the dispute is over why. Matthew's remark that the story circulates \"to this day\" reflects an argument among Jews of his own time over what had happened, and shouldn't be read as a charge against Jewish people as a whole, any more than the cry in 27:25. Galilee is where Jesus' ministry began (4:12-17), and the mountain recalls the Sermon on the Mount and the transfiguration; Matthew doesn't name it. \"Some doubted\" translates a Greek verb that means to hesitate or waver, and who doubted, and about what, isn't said. \"All authority... given\" echoes Daniel 7:13-14, where one like a son of man is given authority over all peoples. The command to disciple \"all nations\" widens the earlier instruction to go only to Israel (10:5-6). Baptism is \"in the name,\" singular, of the Father, the Son, and the Holy Spirit. \"I am with you always\" answers \"God with us\" in 1:23, so the book is framed by the promise of God's presence.",
+  "people": [
+    {
+      "id": "mary-magdalene",
+      "note": "Goes to the tomb at dawn, and is the first to be told and the first sent."
+    },
+    {
+      "id": "mary-mother-of-james",
+      "note": "\"The other Mary,\" who goes with her."
+    },
+    {
+      "id": "the-angel",
+      "note": "An angel of the Lord who rolls the stone away and sends the women with a message."
+    },
+    {
+      "id": "the-tomb-guard",
+      "note": "Shaken by the earthquake, and then paid to spread a different story."
+    },
+    {
+      "id": "chief-priests",
+      "note": "Pay the soldiers to say the disciples stole the body."
+    },
+    {
+      "id": "the-eleven",
+      "note": "The disciples without Judas, who go to Galilee and meet Jesus on the mountain."
+    },
+    {
+      "id": "jesus",
+      "note": "Meets the women, then commissions the eleven."
+    }
+  ],
+  "questions": [
+    "The women are the first to hear the news and the first to be sent. What do you notice about who Matthew lets tell it first?",
+    "The soldiers are paid to say the disciples stole the body. What does the cover story assume about the tomb?",
+    "\"Some doubted\" appears right alongside \"they worshiped.\" What do you make of Matthew including that?",
+    "The book opens with \"God with us\" (1:23) and ends with \"I am with you always.\" How does that frame the whole book?"
+  ],
+  "words": [
+    {
+      "id": "egeiro",
+      "note": "\"He has risen\" (28:6, 28:7)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "The women take hold of his feet and worship (28:9); the eleven worship him (28:17)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"All authority has been given to me\" (28:18)."
+    },
+    {
+      "id": "matheteuo",
+      "note": "\"Make disciples\" (28:19), the one command in the Great Commission."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"Of all nations\" (28:19)."
+    },
+    {
+      "id": "baptizo",
+      "note": "\"Baptizing them in the name\" (28:19)."
+    },
+    {
+      "id": "aion",
+      "note": "\"To the end of the age\" (28:20)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Daniel 7:13-14",
+      "note": "one like a son of man given authority over all peoples"
+    },
+    {
+      "ref": "Isaiah 49:6",
+      "note": "a light for the nations, to the end of the earth"
+    },
+    {
+      "ref": "Isaiah 66:18-19",
+      "note": "God gathers all nations to see his glory"
+    },
+    {
+      "ref": "Joshua 1:5",
+      "note": "\"I will be with you; I will not fail you\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "number": 22,
+  "sceneHappening": "In the temple, answering trap after trap",
+  "summary": "Jesus tells a parable: a king gives a wedding banquet for his son, but the invited guests won't come; some ignore the servants and others mistreat and kill them. The king sends troops, destroys those murderers, and burns their city, then tells his servants to invite everyone they find, bad and good, so the hall fills. One guest has no wedding clothes and is thrown out into the darkness. \"For many are called, but few are chosen.\" The Pharisees then plot with the Herodians to trap him: \"Is it lawful to pay taxes to Caesar, or not?\" Jesus asks for a coin, asks whose image and inscription it carries, and says, \"Give to Caesar the things that are Caesar's, and to God the things that are God's.\" They go away amazed. That same day Sadducees, who say there is no resurrection, pose a puzzle about a woman who married seven brothers in turn. Jesus says they know neither the Scriptures nor the power of God; in the resurrection people neither marry nor are given in marriage, but are like angels in heaven. And God said, \"I am the God of Abraham, the God of Isaac, and the God of Jacob,\" and he is God of the living, not of the dead. The crowds are astonished at his teaching. When the Pharisees hear he has silenced the Sadducees, a lawyer asks which commandment in the law is the greatest. Jesus says, \"You shall love the Lord your God with all your heart, with all your soul, and with all your mind,\" and the second is like it: \"You shall love your neighbor as yourself.\" On these two commandments hang the whole law and the prophets. Then Jesus asks the Pharisees whose son the Christ is. \"David's.\" \"How then does David in the Spirit call him 'Lord,' saying, 'The Lord said to my Lord, sit at my right hand until I make your enemies a footstool under your feet'?\" No one can answer him, and from that day no one dares ask him any more questions.",
+  "whySettingMatters": "A king's son's wedding was a lavish public event, and refusing the invitation, repeated by servants, was a grave insult to the king. The \"burned city\" may reflect Jerusalem's fall in AD 70, if Matthew was written afterward; that is debated. What the wedding clothes stand for is also debated. The Herodians were supporters of Herod's family and its Roman-backed rule, odd allies for the Pharisees. The tax was the Roman poll tax, paid with a silver denarius whose inscription named Tiberius as the son of the divine Augustus; it was bitterly resented, and a tax revolt in AD 6 (reported by the historian Josephus) shows how explosive the question was. The Sadducees were the priestly aristocracy, accepted only the five books of Moses as authoritative, and denied resurrection and angels (Acts 23:8). Their puzzle rests on levirate marriage (Deuteronomy 25:5-10), and Jesus answers from the Torah itself, from the burning bush (Exodus 3:6). The \"greatest commandment\" joins Deuteronomy 6:5, the heart of the Shema that Jews recited each day, with Leviticus 19:18. Psalm 110 was attributed to David.",
+  "people": [
+    {
+      "id": "religious-leaders",
+      "note": "Pharisees send disciples and Herodians to trap him; Sadducees try with resurrection."
+    },
+    {
+      "id": "herodians",
+      "note": "Supporters of Herod's family and Rome, brought in to sharpen the tax trap."
+    },
+    {
+      "id": "sadducees",
+      "note": "The priestly party who denied resurrection."
+    },
+    {
+      "id": "the-lawyer",
+      "note": "An expert in the law who asks the greatest-commandment question."
+    },
+    {
+      "id": "david",
+      "note": "Quoted in Psalm 110, calling the coming king \"my Lord.\""
+    },
+    {
+      "id": "the-crowds",
+      "note": "Astonished at his teaching."
+    }
+  ],
+  "questions": [
+    "The invited guests refuse and the invitation goes to everyone. What does that say about who the invitation is for?",
+    "The tax question was built to trap Jesus whichever way he answered. What does his answer do to the trap?",
+    "Jesus says the Sadducees know neither the Scriptures nor God's power, then answers from the burning bush. What is he doing with that passage?",
+    "Jesus says the whole law and prophets hang on loving God and loving neighbor. What changes if you read the rest of Scripture through those two?"
+  ],
+  "words": [
+    {
+      "id": "kensos",
+      "note": "\"Is it lawful to pay the poll tax to Caesar?\" (22:17, 22:19)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"You shall love the Lord your God... and your neighbor as yourself\" (22:37-39)."
+    },
+    {
+      "id": "entole",
+      "note": "\"Which is the greatest commandment?\" (22:36-40)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 6:5",
+      "note": "love the Lord with all your heart, soul, and strength"
+    },
+    {
+      "ref": "Leviticus 19:18",
+      "note": "love your neighbor as yourself"
+    },
+    {
+      "ref": "Exodus 3:6",
+      "note": "\"I am the God of Abraham, Isaac, and Jacob\""
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "\"The Lord said to my Lord\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

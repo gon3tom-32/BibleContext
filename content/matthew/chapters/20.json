@@ -1,0 +1,74 @@
+{
+  "number": 20,
+  "sceneHappening": "On the road up to Jerusalem",
+  "summary": "Jesus tells a parable: a landowner hires workers for his vineyard at dawn for a denarius, and hires more at nine, noon, three, and five. At day's end he pays everyone the same, beginning with the last hired. The first workers grumble. The landowner answers, \"Friend, I'm doing you no wrong. Didn't you agree to a denarius? Are you envious because I am generous?\" and concludes, \"the last will be first, and the first last.\" Jesus takes the twelve aside on the way up to Jerusalem and says for the third time that the Son of Man will be handed over to the chief priests and scribes, condemned to death, handed to the Gentiles to be mocked, flogged, and crucified, and raised on the third day. The mother of Zebedee's sons kneels and asks for her sons to sit at his right and left in his kingdom. Jesus asks them, \"Can you drink the cup that I am about to drink?\" They say they can; he says they will drink it, but the seats are for those the Father has prepared them for. The other ten are indignant. Jesus calls them together: the rulers of the Gentiles lord it over them, but it must not be so among you. \"Whoever wants to become great among you must be your servant, and whoever wants to be first among you must be your slave, even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.\" Leaving Jericho, two blind men by the roadside cry out, \"Lord, have mercy on us, Son of David!\" The crowd tells them to be quiet, but they shout louder. Jesus stops and asks, \"What do you want me to do for you?\" \"Lord, that our eyes would be opened.\" Moved with compassion, he touches their eyes, and they see and follow him.",
+  "whySettingMatters": "Day laborers waited in the marketplace to be hired and were paid at day's end (Deuteronomy 24:15). A denarius was the usual day's wage, enough for a family's basic needs; those hired last would have gone home short. The hours are counted from sunrise, so the \"third hour\" is about nine, the \"sixth\" about noon, the \"ninth\" about three, and the \"eleventh\" about five. A vineyard is a familiar picture of Israel (Isaiah 5). Mark has James and John ask for the seats themselves; in Matthew their mother asks. The \"cup\" was a biblical image for suffering and God's judgment (Isaiah 51:22; Jeremiah 25:15). A ransom (lytron) was the price paid to free a slave or prisoner, and Jesus' wording may echo Isaiah 53. Jericho lay about fifteen miles northeast of Jerusalem, in the Jordan valley; pilgrims from Galilee who went by way of the east bank of the Jordan crossed back there and then climbed roughly 3,300 feet to the city.",
+  "people": [
+    {
+      "id": "the-disciples",
+      "note": "Indignant at James and John, and told what greatness means."
+    },
+    {
+      "id": "mother-of-zebedees-sons",
+      "note": "Kneels and asks for the best places for her sons."
+    },
+    {
+      "id": "james-zebedee",
+      "note": "Told he will drink the cup."
+    },
+    {
+      "id": "john-apostle",
+      "note": "Told he will drink the cup."
+    },
+    {
+      "id": "the-blind-men",
+      "note": "Two men by the road who keep calling for mercy until Jesus stops."
+    }
+  ],
+  "questions": [
+    "Who does the landowner's pay feel unfair to, and who does it feel generous to? What would each group have been thinking?",
+    "James and John's mother asks for the best seats right after Jesus' third prediction of his death. What does that show about what they heard?",
+    "Jesus turns the rulers' model of greatness into servant and slave. What would that have sounded like to people living under Rome?",
+    "The two blind men keep shouting after the crowd tells them to be quiet. What do you notice in how Jesus responds?"
+  ],
+  "words": [
+    {
+      "id": "doulos",
+      "note": "\"Whoever wants to be first among you must be your slave\" (20:27)."
+    },
+    {
+      "id": "diakoneo",
+      "note": "\"The Son of Man came not to be served but to serve\" (20:28)."
+    },
+    {
+      "id": "lytron",
+      "note": "\"To give his life as a ransom for many\" (20:28)."
+    },
+    {
+      "id": "splanchnizomai",
+      "note": "Jesus is moved with compassion for the two blind men (20:34)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 24:15",
+      "note": "pay workers their wages the same day"
+    },
+    {
+      "ref": "Isaiah 53:10-11",
+      "note": "the servant who bears the sin of many"
+    },
+    {
+      "ref": "Isaiah 51:22",
+      "note": "the cup of God's wrath taken away"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "\"Sit at my right hand\""
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
