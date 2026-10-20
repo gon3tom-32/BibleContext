@@ -2338,7 +2338,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Daniel 7:13-14",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Isaiah 49:6",
+          "inDataset": true,
+          "votes": 48
+        },
+        {
+          "ref": "Isaiah 66:18-19",
+          "inDataset": true,
+          "votes": 22
+        },
+        {
+          "ref": "Joshua 1:5",
+          "inDataset": true,
+          "votes": 49
+        }
+      ]
     }
   ]
 }

@@ -140,31 +140,6 @@
     "note": "One of the twelve, who later betrays Jesus."
   },
   {
-    "id": "thomas",
-    "name": "Thomas",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "philip",
-    "name": "Philip",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "bartholomew",
-    "name": "Bartholomew",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "james-alphaeus",
-    "name": "James son of Alphaeus",
-    "note": "One of the twelve."
-  },
-  {
-    "id": "thaddaeus",
-    "name": "Thaddaeus",
-    "note": "One of the twelve."
-  },
-  {
     "id": "johns-disciples",
     "name": "John's disciples",
     "note": "Followers of John the Baptist who kept his practices, such as fasting."
@@ -358,5 +333,20 @@
     "id": "joseph-of-arimathea",
     "name": "Joseph of Arimathea",
     "note": "A wealthy man from Arimathea who became a disciple and buried Jesus in his own tomb."
+  },
+  {
+    "id": "the-angel",
+    "name": "The angel of the Lord",
+    "note": "A messenger from God who rolls the stone away and speaks to the women."
+  },
+  {
+    "id": "the-tomb-guard",
+    "name": "The guard at the tomb",
+    "note": "The guard set at the tomb; whether they were Roman or temple guards is debated."
+  },
+  {
+    "id": "the-eleven",
+    "name": "The eleven",
+    "note": "The twelve without Judas."
   }
 ]

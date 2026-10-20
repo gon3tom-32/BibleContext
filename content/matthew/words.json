@@ -2804,5 +2804,190 @@
       "status": "needs-review",
       "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
     }
+  },
+  {
+    "id": "matheteuo",
+    "transliteration": "mathēteuō",
+    "original": "μαθητεύω",
+    "pronunciation": "mah-thay-TYOO-oh",
+    "gloss": "to make a disciple",
+    "notes": "From mathetes, \"disciple,\" a learner who follows a teacher: to make someone a disciple. It's the main verb of the Great Commission; \"going,\" \"baptizing,\" and \"teaching\" are the ways it happens. Matthew is the only Gospel writer who uses the verb, and he uses it for Joseph of Arimathea (27:57) and for the scribe \"trained for the kingdom\" (13:52).",
+    "range": [
+      {
+        "sense": "Make a disciple",
+        "note": "Bring someone into following a teacher."
+      },
+      {
+        "sense": "Become a disciple",
+        "note": "Be a learner and follower."
+      }
+    ],
+    "translations": [
+      "make disciples",
+      "disciple",
+      "teach",
+      "train"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:52",
+        "note": "\"Every scribe who has been made a disciple of the kingdom.\""
+      },
+      {
+        "ref": "Matthew 27:57",
+        "note": "Joseph of Arimathea \"also himself was Jesus' disciple.\""
+      },
+      {
+        "ref": "Acts 14:21",
+        "note": "Paul and Barnabas \"made many disciples.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "egeiro",
+    "transliteration": "egeirō",
+    "original": "ἐγείρω",
+    "pronunciation": "eh-GAY-roh",
+    "gloss": "to raise, wake, rise",
+    "notes": "To wake someone from sleep, or raise them up. For the dead, to raise them to life. It's the usual New Testament verb for resurrection, in the passive: \"he was raised\" or \"he has been raised,\" which points to God as the one who raises. The angel's \"he has risen\" in 28:6 uses this verb.",
+    "range": [
+      {
+        "sense": "Wake",
+        "note": "Rouse from sleep."
+      },
+      {
+        "sense": "Raise up",
+        "note": "Lift or set on one's feet."
+      },
+      {
+        "sense": "Raise from the dead",
+        "note": "Resurrection."
+      }
+    ],
+    "translations": [
+      "raised",
+      "has risen",
+      "rise",
+      "wake"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 27:64",
+        "note": "\"Lest his disciples say, 'He has risen.'\""
+      },
+      {
+        "ref": "Mark 16:6",
+        "note": "The same announcement in Mark."
+      },
+      {
+        "ref": "Romans 10:9",
+        "note": "Believe that God raised him from the dead."
+      },
+      {
+        "ref": "1 Corinthians 15:4",
+        "note": "\"He was raised on the third day.\""
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "baptizo",
+    "transliteration": "baptizō",
+    "original": "βαπτίζω",
+    "pronunciation": "bap-TID-zoh",
+    "gloss": "to baptize, immerse",
+    "notes": "To dip or immerse, used for washing things clean and for the rite of baptism. In Matthew it begins with John's baptism for repentance (3:11), and ends with Jesus' command to baptize new disciples in the name of the Father, Son, and Holy Spirit.",
+    "range": [
+      {
+        "sense": "Dip or immerse",
+        "note": "Plunge in water."
+      },
+      {
+        "sense": "Baptize",
+        "note": "Initiate with water."
+      }
+    ],
+    "translations": [
+      "baptize",
+      "immerse"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:11",
+        "note": "\"I indeed baptize you in water.\""
+      },
+      {
+        "ref": "Acts 2:38",
+        "note": "\"Repent and be baptized.\""
+      },
+      {
+        "ref": "Romans 6:3",
+        "note": "Baptized into Christ's death."
+      },
+      {
+        "ref": "1 Corinthians 12:13",
+        "note": "Baptized into one body."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aion",
+    "transliteration": "aiōn",
+    "original": "αἰών",
+    "pronunciation": "eye-OHN",
+    "gloss": "age, era",
+    "notes": "A long period of time, an age. Jewish thinking divided time into \"this age\" and \"the age to come.\" In Matthew \"the end of the age\" is the point where the present age gives way to the next (13:39; 24:3), and Jesus' promise in 28:20 reaches all the way to it.",
+    "range": [
+      {
+        "sense": "An age",
+        "note": "A long era."
+      },
+      {
+        "sense": "This age",
+        "note": "The present era."
+      },
+      {
+        "sense": "The age to come",
+        "note": "God's coming era."
+      }
+    ],
+    "translations": [
+      "age",
+      "world",
+      "era"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 13:39",
+        "note": "\"The harvest is the end of the age.\""
+      },
+      {
+        "ref": "Matthew 24:3",
+        "note": "\"The end of the age.\""
+      },
+      {
+        "ref": "Ephesians 2:7",
+        "note": "\"In the ages to come.\""
+      },
+      {
+        "ref": "Hebrews 1:2",
+        "note": "Through whom he made the ages."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
   }
 ]

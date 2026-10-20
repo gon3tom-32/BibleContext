@@ -204,26 +204,6 @@
       "theographic": "judas_1760"
     },
     {
-      "id": "thomas",
-      "theographic": "thomas_2851"
-    },
-    {
-      "id": "philip",
-      "theographic": "philip_2344"
-    },
-    {
-      "id": "bartholomew",
-      "theographic": "bartholomew_405"
-    },
-    {
-      "id": "james-alphaeus",
-      "theographic": "james_718"
-    },
-    {
-      "id": "thaddaeus",
-      "theographic": "lebbaeus_1815"
-    },
-    {
       "id": "herod-antipas",
       "theographic": "herod_1505"
     },
@@ -729,6 +709,34 @@
         "G2892"
       ],
       "foundAt": "Matthew 27:65"
+    },
+    {
+      "id": "matheteuo",
+      "strongs": [
+        "G3100"
+      ],
+      "foundAt": "Matthew 28:19"
+    },
+    {
+      "id": "egeiro",
+      "strongs": [
+        "G1453"
+      ],
+      "foundAt": "Matthew 28:6"
+    },
+    {
+      "id": "baptizo",
+      "strongs": [
+        "G0907"
+      ],
+      "foundAt": "Matthew 28:19"
+    },
+    {
+      "id": "aion",
+      "strongs": [
+        "G0165G"
+      ],
+      "foundAt": "Matthew 28:20"
     }
   ],
   "crossRefs": {
@@ -743,10 +751,6 @@
     {
       "area": "people",
       "text": "Theographic has no records for the magi, the devil, or groups like the Pharisees and Sadducees. Those stay hand-written."
-    },
-    {
-      "area": "chapters",
-      "text": "Chapter 28 has text, people, places, and cross-references from the data, but no hand-written context notes yet."
     },
     {
       "area": "words",
@@ -771,6 +775,10 @@
     {
       "area": "people",
       "text": "Theographic has no records for Pilate's wife, the woman at Bethany, the Roman soldiers, or the centurion at the cross; they're unnamed in Matthew and hand-written. Mary the mother of James and Joses is also hand-written, since the data merges her with another Mary."
+    },
+    {
+      "area": "people",
+      "text": "Theographic has no records for the angel, the tomb guard, or the eleven as a group; they're hand-written."
     }
   ]
 }
