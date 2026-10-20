@@ -1,0 +1,42 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, in prison, writing with joy."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Named with Paul as sender; Paul hopes to send him to Philippi (2:19-24)."
+  },
+  {
+    "id": "epaphroditus",
+    "name": "Epaphroditus",
+    "note": "The Philippians' messenger, who nearly died and is being sent home with the letter (2:25-30; 4:18)."
+  },
+  {
+    "id": "euodia-and-syntyche",
+    "name": "Euodia and Syntyche",
+    "note": "Two women who worked with Paul and are now in disagreement; Paul urges them to agree (4:2-3)."
+  },
+  {
+    "id": "clement",
+    "name": "Clement",
+    "note": "A co-worker whose name is in the book of life (4:3)."
+  },
+  {
+    "id": "the-philippian-believers",
+    "name": "The believers in Philippi",
+    "note": "Paul's partners in the gospel, generous and a little divided."
+  },
+  {
+    "id": "the-overseers-and-deacons",
+    "name": "Overseers and deacons",
+    "note": "The leaders and helpers named in the greeting (1:1)."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "Who humbled himself to the point of death on a cross, and whom God exalted."
+  }
+]

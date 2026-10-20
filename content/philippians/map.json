@@ -1,0 +1,88 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "philippi",
+      "title": "The church addressed",
+      "short": "Philippi",
+      "refs": "Philippians 1:1; Acts 16:11-40",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A Roman colony in Macedonia where Paul founded the church with Lydia and the jailer, and where he was beaten and jailed."
+    },
+    {
+      "order": 2,
+      "placeId": "thessalonica",
+      "title": "Where they sent help",
+      "short": "Thessalonica",
+      "refs": "Philippians 4:16",
+      "chapter": 4,
+      "direction": "out",
+      "text": "The Philippians sent aid to Paul more than once when he was in Thessalonica."
+    },
+    {
+      "order": 3,
+      "placeId": "rome",
+      "title": "Where Paul is probably held",
+      "short": "Rome",
+      "refs": "Philippians 1:12-14; 4:22",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The \"imperial guard\" and \"Caesar's household\" fit Rome, the traditional place of Paul's imprisonment, though the letter doesn't name the city."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 9.0,
+      "east": 29.0,
+      "south": 37.0,
+      "north": 43.5
+    },
+    "label": "Map of Italy and Macedonia, drawn from real coordinates. Numbered stops mark Philippi, Thessalonica, and Rome.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "philippi",
+        "label": "Philippi",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "thessalonica",
+        "label": "Thessalonica",
+        "labelSide": "left",
+        "offset": [
+          -2,
+          8
+        ]
+      },
+      {
+        "order": 3,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "macedonia": null,
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "sceneHappening": "The mind of Christ, who humbled himself, and examples of those who follow him",
+  "summary": "If there is any encouragement in Christ, any comfort of love, any fellowship of the Spirit, any affection and compassion, Paul asks them to make his joy complete by being of the same mind, having the same love, being in full accord and of one mind. \"Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.\" Then comes the hymn: \"Have this mind in you, which was also in Christ Jesus, who, existing in the form of God, didn't consider equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to death, even the death of the cross. Therefore God also highly exalted him, and gave to him the name which is above every name; that at the name of Jesus every knee should bow, of things in heaven and things on earth and things under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.\" So, as they have always obeyed, now in his absence, they are to work out their own salvation with fear and trembling, \"for it is God who works in you both to will and to work for his good pleasure.\" Do all things without grumbling or disputing, that they may be blameless and innocent, children of God without blemish in the midst of a crooked and twisted generation, among whom they shine as lights in the world, holding fast the word of life, so that Paul may boast on the day of Christ that he did not run in vain or labor in vain. Even if he is being poured out as a drink offering on the sacrifice and service of their faith, he is glad and rejoices with them all, and they should likewise be glad and rejoice with him. He hopes to send Timothy soon, who is like-minded and genuinely concerned for their welfare, \"for they all seek their own, not the things of Christ Jesus,\" but Timothy has served with Paul in the gospel like a son with a father. He hopes to come himself shortly, but for now he sends Epaphroditus, his brother and fellow worker and fellow soldier, and their messenger and minister to his need, since he has been longing for them all and distressed that they heard he was ill. Indeed he was ill, near to death, but God had mercy on him, and not on him only but on Paul too, to spare him sorrow upon sorrow. So Paul sends him more eagerly, that they may rejoice at seeing him again, and he asks them to receive him in the Lord with all joy and honor such men, for he nearly died for the work of Christ, risking his life to complete what was lacking in their service to Paul.",
+  "whySettingMatters": "The passage in 2:6-11 is often called the Christ hymn, and many scholars think it was an early Christian hymn that Paul quotes or adapts, with a pattern of descent (humbling) and ascent (exaltation). Three phrases are debated. The first is \"form of God\" (morphē theou), which probably means that Christ shared God's glory and status. The second is the Greek word harpagmos, translated \"a thing to be grasped,\" which can mean something to cling to or something to exploit, and scholars disagree which Paul means; either way, the point is that Christ did not use his status for his own advantage. The third is \"emptied himself,\" which is a picture of voluntary self-giving, not a statement that Christ stopped being God. The hymn's last line deliberately echoes Isaiah 45:23, where every knee will bow to the LORD, and gives Jesus the name \"Lord,\" which in the Greek Old Testament is the name for God. In Philippi, a Roman colony, \"Lord\" (kyrios) was also a title given to the emperor, so this confession was also a political statement. The line about working out salvation \"with fear and trembling\" is not about anxiety but about taking it seriously, since God is the one at work.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Appeals for unity and offers himself as a drink offering."
+    },
+    {
+      "id": "jesus",
+      "note": "Who emptied himself and was exalted."
+    },
+    {
+      "id": "timothy",
+      "note": "Like-minded, genuinely concerned, served like a son with a father."
+    },
+    {
+      "id": "epaphroditus",
+      "note": "Brother, fellow worker, fellow soldier, nearly died."
+    },
+    {
+      "id": "the-philippian-believers",
+      "note": "Told to shine as lights and not to grumble."
+    }
+  ],
+  "questions": [
+    "Paul asks for humility, and then holds up Christ as the example. What does the hymn tell us about what humility is?",
+    "\"Work out your salvation with fear and trembling, for God is the one at work in you.\" How do those fit together?",
+    "The command is to shine as lights in a \"crooked and twisted generation.\" What does that look like day to day?",
+    "Paul commends Timothy and Epaphroditus as people who actually care. What is he valuing in them?"
+  ],
+  "words": [
+    {
+      "id": "sympsychos",
+      "note": "\"Being of one accord\" (2:2)."
+    },
+    {
+      "id": "kenodoxia",
+      "note": "\"Through vainglory\" or \"conceit\" (2:3)."
+    },
+    {
+      "id": "eritheia",
+      "note": "\"Through selfishness\" (2:3)."
+    },
+    {
+      "id": "tapeinophrosyne",
+      "note": "\"In humility\" (2:3)."
+    },
+    {
+      "id": "hyperecho",
+      "note": "\"Counting others better than himself\" (2:3)."
+    },
+    {
+      "id": "morphe",
+      "note": "\"In the form of God... the form of a servant\" (2:6-7)."
+    },
+    {
+      "id": "isos",
+      "note": "\"Equality with God\" (2:6)."
+    },
+    {
+      "id": "harpagmos",
+      "note": "\"A thing to be grasped\" (2:6)."
+    },
+    {
+      "id": "kenoo",
+      "note": "\"But emptied himself\" (2:7)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"Taking the form of a servant\" (2:7)."
+    },
+    {
+      "id": "tapeinoo",
+      "note": "\"He humbled himself\" (2:8)."
+    },
+    {
+      "id": "hypekoos",
+      "note": "\"Becoming obedient to death\" (2:8)."
+    },
+    {
+      "id": "stauros",
+      "note": "\"Even the death of the cross\" (2:8)."
+    },
+    {
+      "id": "hyperypsoo",
+      "note": "\"Therefore God also highly exalted him\" (2:9)."
+    },
+    {
+      "id": "onoma",
+      "note": "\"The name which is above every name\" (2:9-10)."
+    },
+    {
+      "id": "kampto",
+      "note": "\"Every knee should bow\" (2:10)."
+    },
+    {
+      "id": "exomologeo",
+      "note": "\"Every tongue should confess\" (2:11)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"That Jesus Christ is Lord\" (2:11)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"To the glory of God the Father\" (2:11)."
+    },
+    {
+      "id": "phobos",
+      "note": "\"With fear and trembling\" (2:12)."
+    },
+    {
+      "id": "energeo",
+      "note": "\"For it is God who works in you\" (2:13)."
+    },
+    {
+      "id": "eudokia",
+      "note": "\"For his good pleasure\" (2:13)."
+    },
+    {
+      "id": "gongysmos",
+      "note": "\"Without murmurings\" (2:14)."
+    },
+    {
+      "id": "dialogismos",
+      "note": "\"And disputes\" (2:14)."
+    },
+    {
+      "id": "akeraios",
+      "note": "\"Blameless and harmless\" (2:15)."
+    },
+    {
+      "id": "amomos",
+      "note": "\"Without blemish\" (2:15)."
+    },
+    {
+      "id": "skolios",
+      "note": "\"A crooked and perverse generation\" (2:15)."
+    },
+    {
+      "id": "diastrepho",
+      "note": "\"Crooked and twisted\" (2:15)."
+    },
+    {
+      "id": "phoster",
+      "note": "\"Among whom you are seen as lights in the world\" (2:15)."
+    },
+    {
+      "id": "epecho",
+      "note": "\"Holding up the word of life\" (2:16)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"The word of life\" (2:16)."
+    },
+    {
+      "id": "trecho",
+      "note": "\"That I didn't run in vain\" (2:16)."
+    },
+    {
+      "id": "spendo",
+      "note": "\"If I am poured out on the sacrifice\" (2:17)."
+    },
+    {
+      "id": "thysia",
+      "note": "\"On the sacrifice and service of your faith\" (2:17)."
+    },
+    {
+      "id": "leitourgia",
+      "note": "\"And service of your faith\" (2:17, 2:30)."
+    },
+    {
+      "id": "chara",
+      "note": "\"I rejoice, and rejoice with you all\" (2:2, 2:17-18, 2:28-29)."
+    },
+    {
+      "id": "isopsychos",
+      "note": "\"For I have no one like-minded\" (2:20)."
+    },
+    {
+      "id": "dokime",
+      "note": "\"But you know the proof of him\" (2:22)."
+    },
+    {
+      "id": "synergos",
+      "note": "\"My brother and fellow worker\" (2:25)."
+    },
+    {
+      "id": "systratiotes",
+      "note": "\"And fellow soldier\" (2:25)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"But your messenger\" (2:25)."
+    },
+    {
+      "id": "leitourgos",
+      "note": "\"And minister to my need\" (2:25)."
+    },
+    {
+      "id": "paraboleuomai",
+      "note": "\"Risking his life\" (2:30)."
+    },
+    {
+      "id": "hysterema",
+      "note": "\"To supply what was lacking in your service\" (2:30)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Isaiah 45:23",
+      "note": "to me every knee shall bow, every tongue shall swear allegiance"
+    },
+    {
+      "ref": "John 1:1-14",
+      "note": "the Word was with God, and the Word became flesh"
+    },
+    {
+      "ref": "2 Corinthians 8:9",
+      "note": "though he was rich, yet for your sake he became poor"
+    },
+    {
+      "ref": "Matthew 5:14-16",
+      "note": "you are the light of the world"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
