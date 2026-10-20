@@ -1,0 +1,57 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle, a Pharisee from Tarsus, writing from Corinth."
+  },
+  {
+    "id": "the-roman-believers",
+    "name": "The believers in Rome",
+    "note": "A church of Jews and Gentiles that Paul had not founded."
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "note": "David's descendant, declared Son of God by the resurrection."
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "note": "King of Israel and Jesus' ancestor; also quoted for forgiveness."
+  },
+  {
+    "id": "the-moralizer",
+    "name": "The moralizer",
+    "note": "An imagined listener who judges others."
+  },
+  {
+    "id": "the-jewish-teacher",
+    "name": "The Jewish teacher",
+    "note": "An imagined Jewish interlocutor, confident in the law."
+  },
+  {
+    "id": "the-gentiles",
+    "name": "The Gentiles",
+    "note": "Non-Jews."
+  },
+  {
+    "id": "the-jews",
+    "name": "The Jews",
+    "note": "Entrusted with the oracles of God."
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "note": "The ancestor of Israel, justified by faith."
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "note": "Abraham's wife."
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "note": "The first man, through whom sin entered the world."
+  }
+]

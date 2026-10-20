@@ -1,0 +1,45 @@
+{
+  "slug": "romans",
+  "title": "Romans",
+  "order": 45,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 16,
+  "tagline": "Paul's most careful letter: how God puts the world right through Jesus, for Jews and Gentiles alike.",
+  "author": "Paul",
+  "authorNote": "The letter names Paul as its author (1:1), and nearly all scholars accept that. It was written down by a secretary named Tertius, who adds his own greeting (16:22). Some scholars question whether chapter 16 and the closing doxology (16:25-27) were originally part of the letter, since some manuscripts place the doxology elsewhere.",
+  "authorDebated": false,
+  "audience": "The Christians in Rome, Jewish and Gentile, a church Paul had not founded",
+  "audienceNote": "Paul had never been to Rome, but he knew many believers there (chapter 16). The church seems to have included both Jewish and Gentile believers, with tensions between them. Claudius had expelled Jews from Rome around AD 49, and when they returned after his death in AD 54, relationships had probably changed.",
+  "setting": "Corinth, about AD 57, with Paul about to go to Jerusalem and then to Rome and Spain",
+  "settingNote": "Paul writes near the end of his third journey, probably from Corinth in the winter of AD 56 to 57 (Acts 20:2-3), after collecting money for the poor in Jerusalem. He hopes to visit Rome on the way to Spain. The letter was carried by Phoebe of Cenchreae (16:1). The date and place are well supported but not certain.",
+  "genre": "Letter",
+  "genreNote": "A long, carefully argued letter, written in the style of ancient correspondence with greetings and thanks, a main argument, practical advice, and personal greetings. It is full of Old Testament quotations and often argues with an imagined objector.",
+  "bigIdea": "God's righteousness has been shown in Jesus, so that Jews and Gentiles are put right with him by faith, and live together as one people in the power of the Spirit.",
+  "themes": [
+    "The righteousness of God",
+    "Faith and grace",
+    "Jews and Gentiles",
+    "Life in the Spirit",
+    "Mercy, hope, and unity"
+  ],
+  "mapTitle": "Map: Corinth, Jerusalem, Rome, and Spain",
+  "mapSummary": "Paul writes from the Greek world about the collection he is taking to Jerusalem, and about his plan to visit Rome on the way to Spain.",
+  "scene": {
+    "author": "Paul",
+    "audience": "The Christians in Rome",
+    "happening": "Corinth, about AD 57"
+  },
+  "overviewPeople": [
+    "paul",
+    "phoebe",
+    "prisca-and-aquila",
+    "junia",
+    "abraham",
+    "adam"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

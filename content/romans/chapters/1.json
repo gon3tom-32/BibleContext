@@ -1,0 +1,86 @@
+{
+  "sceneHappening": "Paul introduces himself to Rome, states his gospel, and begins with the world's need",
+  "summary": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, writes to all who are in Rome, beloved of God, called to be saints. The gospel was promised beforehand through the prophets in the holy Scriptures, concerning God's Son, who was born of David's seed according to the flesh and declared to be the Son of God with power, according to the Spirit of holiness, by the resurrection from the dead: Jesus Christ our Lord. Through him Paul received grace and apostleship \"for obedience of faith among all the nations, for his name's sake,\" among whom the Roman believers are also called. He gives thanks that their faith is proclaimed throughout the whole world, and says that he constantly prays to be allowed to visit them, \"that I may impart to you some spiritual gift, to the end that you may be established; that is, that I with you may be encouraged in you, each of us by the other's faith, both yours and mine.\" He has often planned to come but has been hindered, wanting to have some fruit among them as among the other Gentiles. \"I am debtor both to Greeks and to foreigners, both to the wise and to the foolish. So, as much as in me is, I am eager to preach the gospel to you also who are in Rome.\" Then he gives his theme: \"For I am not ashamed of the gospel of Christ, for it is the power of God for salvation for everyone who believes; for the Jew first, and also for the Greek. For in it is revealed a righteousness of God from faith to faith. As it is written, 'But the righteous shall live by faith.'\" Next comes the problem: \"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold down the truth in unrighteousness.\" What may be known of God is plain to them, for God has shown it to them: his invisible things since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity, so that they are without excuse. Although they knew God, they did not glorify him as God, nor give thanks, but became vain in their reasoning, and their senseless heart was darkened. Professing themselves to be wise, they became fools, and exchanged the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, four-footed animals, and creeping things. Three times Paul says, \"God gave them up\": to uncleanness in the lusts of their hearts, to dishonoring of their bodies among themselves, because they exchanged the truth of God for a lie and worshiped the creature rather than the Creator; to vile passions, and to a reprobate mind, to do those things which are not fitting. He describes how their lives were filled with all unrighteousness, wickedness, greed, and malice: full of envy, murder, strife, deceit, evil habits; whisperers, slanderers, haters of God, insolent, arrogant, boastful, inventors of evil things, disobedient to parents, without understanding, covenant breakers, without natural affection, unforgiving, unmerciful; who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.",
+  "whySettingMatters": "Paul had never been to Rome, a city of roughly a million people with a large Jewish community and many converts from many nations, and the church there was already well known (1:8). He opens with a long greeting that is also a summary of the gospel: Jesus is David's descendant and, through the resurrection, God's Son. The phrase \"obedience of faith\" appears again at the end of the letter (16:26) and frames the whole. \"Greeks and foreigners\" (literally barbarians) divides humanity the way Greeks did, by language and culture, and \"wise and foolish\" does the same by education. The theme verses, 1:16-17, quote Habakkuk 2:4; \"from faith to faith\" can be read as faith's starting and growth, or as faithfulness from God to people's faith, and \"the righteousness of God\" can mean God's own righteousness, a righteous status God gives, or both; the meaning is debated. The wrath of God is \"revealed\" here in God's giving people up to the results of their choices. Paul draws on Jewish critiques of Gentile idolatry (like Wisdom of Solomon 13 to 14) in which worship of creatures leads to disordered life. The sentences in 1:26-27 about same-sex relations are among the most discussed in the New Testament: readers disagree about whether Paul has particular practices in view (such as exploitative relationships or cult practices) or same-sex relations as such, and this site does not settle that question. The target of the whole section is shown in chapter 2: the reader who agrees with Paul's list is about to be told the same applies to him.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "A servant and apostle, writing to a church he hasn't visited."
+    },
+    {
+      "id": "the-roman-believers",
+      "note": "Called to be saints; their faith is spoken of all over the world."
+    },
+    {
+      "id": "jesus",
+      "note": "David's descendant, declared Son of God by the resurrection."
+    },
+    {
+      "id": "david",
+      "note": "Jesus' ancestor according to the flesh."
+    }
+  ],
+  "questions": [
+    "Paul opens with a long summary of the gospel before he says anything about himself. What does that tell you about what he wants Rome to hear first?",
+    "\"I am not ashamed of the gospel.\" Why might someone writing to Rome feel the pull to be ashamed of it?",
+    "God \"gave them up\" three times. What kind of judgment is that, and how does it work?",
+    "Paul is about to turn the argument on the one who agrees with him. How do you see that coming in this chapter?"
+  ],
+  "words": [
+    {
+      "id": "kletos",
+      "note": "\"Called to be an apostle,\" \"called to be saints\" (1:1, 1:6-7)."
+    },
+    {
+      "id": "aphorizo",
+      "note": "\"Set apart for the gospel of God\" (1:1)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"The gospel of God,\" \"I am not ashamed of the gospel\" (1:1, 1:9, 1:16)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"A righteousness of God from faith to faith\" (1:17)."
+    },
+    {
+      "id": "apokalypto",
+      "note": "\"In it is revealed a righteousness of God\" and \"the wrath of God is revealed\" (1:17-18)."
+    },
+    {
+      "id": "orge",
+      "note": "\"The wrath of God is revealed from heaven\" (1:18)."
+    },
+    {
+      "id": "paradidomi",
+      "note": "\"God gave them up\" (1:24, 1:26, 1:28)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"From faith to faith,\" \"obedience of faith\" (1:5, 1:8, 1:12, 1:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Habakkuk 2:4",
+      "note": "the righteous shall live by his faith"
+    },
+    {
+      "ref": "Psalm 19:1-4",
+      "note": "the heavens declare the glory of God"
+    },
+    {
+      "ref": "Jeremiah 2:11",
+      "note": "my people have changed their glory for what does not profit"
+    },
+    {
+      "ref": "Galatians 3:11",
+      "note": "the righteous shall live by faith"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

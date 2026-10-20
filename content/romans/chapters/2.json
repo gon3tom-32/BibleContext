@@ -1,0 +1,78 @@
+{
+  "sceneHappening": "No one is excused: the judge is judged, and circumcision of the heart",
+  "summary": "Paul turns to someone listening: \"Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.\" God's judgment is according to truth against those who practice such things. \"Do you think this, O man, who judge those who practice such things, and do the same, that you will escape the judgment of God? Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance?\" By your hard and impenitent heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God, who \"will pay back to everyone according to their works\": eternal life to those who by patience in well-doing seek glory, honor, and incorruptibility; but to those who are self-seeking and do not obey the truth, wrath and indignation, affliction and anguish on every soul of man who works evil, to the Jew first, and also to the Greek; but glory, honor, and peace to every man who works good, to the Jew first, and also to the Greek. \"For there is no partiality with God.\" Those who have sinned without law will also perish without law, and as many as have sinned under law will be judged by the law. \"For it isn't the hearers of the law who are righteous before God, but the doers of the law will be justified.\" When Gentiles who do not have the law do by nature the things of the law, these, not having the law, are a law to themselves, who show the work of the law written in their hearts, their conscience bearing witness and their thoughts accusing or else excusing them, in the day when God will judge the secrets of men, according to Paul's gospel, by Jesus Christ. Then he addresses a Jewish hearer: \"But if you bear the name of a Jew, and rest on the law, and glory in God, and know his will, and approve the things that are excellent, being instructed out of the law, and are confident that you yourself are a guide of the blind, a light to those who are in darkness, a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth, you therefore who teach another, don't you teach yourself? You who preach that a man shouldn't steal, do you steal? You who say a man shouldn't commit adultery, do you commit adultery? You who abhor idols, do you rob temples? You who glory in the law, do you dishonor God by breaking the law? For 'the name of God is blasphemed among the Gentiles because of you,' just as it is written.\" He says circumcision is of value if you keep the law, but if you break the law, your circumcision becomes uncircumcision; if an uncircumcised man keeps the righteous requirements of the law, will not his uncircumcision be accounted as circumcision? Such a man will judge you who, with the letter and circumcision, are a transgressor of the law. \"For he is not a Jew who is one outwardly, neither is circumcision that which is outward in the flesh; but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God.\"",
+  "whySettingMatters": "Paul's technique here is that of a street teacher: he lures a moralizing listener into agreement and then turns the charge back (compare Nathan's story to David, 2 Samuel 12). The \"judge\" in 2:1 is probably a Jewish or Gentile moralist, and by 2:17 Paul names the Jewish interlocutor directly. The statement that God will \"repay each according to his works\" quotes Psalm 62:12 and Proverbs 24:12 and is a standard Jewish view of judgment, but how it fits with justification by faith in chapter 3 is much discussed; some read it as describing a hypothetical standard, some as what true believers show, some as a real judgment of all. Gentiles who \"do by nature what the law requires\" and \"have the law written in their hearts\" is a statement about conscience, and whether Paul has in mind pagans or Gentile Christians is debated. The Jewish interlocutor is confident of being a guide to the blind, which echoes Isaiah 42:6-7 and the role Israel believed it had among the nations. Paul charges hypocrisy, not that all Jews steal and commit adultery; the point is that having the law is no protection if it is not kept. \"The name of God is blasphemed among the Gentiles because of you\" echoes Isaiah 52:5 and Ezekiel 36:20. Real circumcision as of the heart appears in Deuteronomy 10:16 and 30:6 and Jeremiah 4:4, so Paul is not inventing the idea.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Answers an imagined critic."
+    },
+    {
+      "id": "the-moralizer",
+      "note": "The one who judges others and does the same."
+    },
+    {
+      "id": "the-jewish-teacher",
+      "note": "A Jewish interlocutor confident in the law."
+    },
+    {
+      "id": "the-gentiles",
+      "note": "Those without the law who show it written in their hearts."
+    }
+  ],
+  "questions": [
+    "Paul lures the reader into agreeing with him and then says, \"You are the one.\" Why use that move?",
+    "\"The goodness of God leads you to repentance.\" How is that different from judgment leading to repentance?",
+    "Gentiles show \"the work of the law written in their hearts.\" What do you think Paul means by conscience here?",
+    "\"A Jew who is one inwardly.\" How does Paul honor Jewish identity here and how does he challenge it?"
+  ],
+  "words": [
+    {
+      "id": "krino",
+      "note": "\"In that which you judge another, you condemn yourself\" (2:1-3, 2:12, 2:16, 2:27)."
+    },
+    {
+      "id": "chrestotes",
+      "note": "\"The riches of his goodness\" (2:4)."
+    },
+    {
+      "id": "metanoia",
+      "note": "\"The goodness of God leads you to repentance\" (2:4)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"Their conscience bearing witness\" (2:15)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"Circumcision is that of the heart\" (2:25-29)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"The doers of the law will be justified\" (2:12-27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 62:12",
+      "note": "you will render to a man according to his work"
+    },
+    {
+      "ref": "Deuteronomy 10:16",
+      "note": "circumcise therefore the foreskin of your heart"
+    },
+    {
+      "ref": "Isaiah 52:5",
+      "note": "my name is despised continually all the day"
+    },
+    {
+      "ref": "Deuteronomy 30:6",
+      "note": "the Lord will circumcise your heart"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

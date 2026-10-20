@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "kletos",
+    "transliteration": "klētos",
+    "original": "κλητός",
+    "pronunciation": "klay-TOS",
+    "gloss": "called, invited",
+    "notes": "Called or invited, often with the sense of being summoned by God. Paul is \"called to be an apostle\" (1:1), and the Roman believers are \"called to be saints\" (1:7). The related verb kaleō is the word for \"to call.\"",
+    "range": [
+      {
+        "sense": "Called",
+        "note": "Summoned by God."
+      },
+      {
+        "sense": "Invited",
+        "note": "Asked to come."
+      }
+    ],
+    "translations": [
+      "called",
+      "invited"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 22:14",
+        "note": "Many are called, but few are chosen."
+      },
+      {
+        "ref": "1 Corinthians 1:2",
+        "note": "Called to be saints."
+      },
+      {
+        "ref": "Jude 1:1",
+        "note": "To those who are called."
+      },
+      {
+        "ref": "Revelation 17:14",
+        "note": "Called and chosen and faithful."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "orge",
+    "transliteration": "orgē",
+    "original": "ὀργή",
+    "pronunciation": "or-GAY",
+    "gloss": "wrath, anger",
+    "notes": "Anger, especially God's settled opposition to evil, and the judgment that follows. In Romans, \"the wrath of God is revealed from heaven\" (1:18), and Paul says it is stored up for the day of judgment (2:5, 2:8). It is not a loss of temper but God's response to injustice.",
+    "range": [
+      {
+        "sense": "Wrath",
+        "note": "Righteous anger."
+      },
+      {
+        "sense": "Judgment",
+        "note": "The result of anger."
+      }
+    ],
+    "translations": [
+      "wrath",
+      "anger"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:7",
+        "note": "Who warned you to flee from the wrath to come?"
+      },
+      {
+        "ref": "Luke 3:7",
+        "note": "Who warned you to flee from the wrath to come?"
+      },
+      {
+        "ref": "Ephesians 2:3",
+        "note": "By nature children of wrath."
+      },
+      {
+        "ref": "1 Thessalonians 1:10",
+        "note": "Jesus, who delivers us from the wrath to come."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apokalypto",
+    "transliteration": "apokalyptō",
+    "original": "ἀποκαλύπτω",
+    "pronunciation": "ap-ok-al-OOP-to",
+    "gloss": "to reveal, to uncover",
+    "notes": "To uncover, to reveal what was hidden. In Romans, God's righteousness is \"revealed\" in the gospel (1:17), and his wrath is \"revealed\" against ungodliness (1:18). The related noun apokalypsis gives us the Greek name of the book of Revelation.",
+    "range": [
+      {
+        "sense": "Reveal",
+        "note": "Make known."
+      },
+      {
+        "sense": "Uncover",
+        "note": "Remove a covering."
+      }
+    ],
+    "translations": [
+      "reveal",
+      "uncover"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 11:25",
+        "note": "You have hidden these things from the wise and revealed them to little children."
+      },
+      {
+        "ref": "Luke 2:35",
+        "note": "So that the thoughts of many hearts may be revealed."
+      },
+      {
+        "ref": "1 Corinthians 2:10",
+        "note": "God has revealed to us through the Spirit."
+      },
+      {
+        "ref": "Galatians 3:23",
+        "note": "The faith that was to be revealed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "krino",
+    "transliteration": "krinō",
+    "original": "κρίνω",
+    "pronunciation": "KREE-no",
+    "gloss": "to judge, to decide",
+    "notes": "To judge, to decide, to separate. Paul warns the person who \"judges\" others and does the same (2:1-3), and says God will judge people's secrets by Christ Jesus (2:16). The word is behind \"critic,\" \"criterion,\" and \"crisis.\"",
+    "range": [
+      {
+        "sense": "Judge",
+        "note": "Pass sentence."
+      },
+      {
+        "sense": "Decide",
+        "note": "Make a choice."
+      },
+      {
+        "sense": "Condemn",
+        "note": "Declare guilty."
+      }
+    ],
+    "translations": [
+      "judge",
+      "decide",
+      "condemn"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 7:1",
+        "note": "Judge not, that you be not judged."
+      },
+      {
+        "ref": "John 3:17",
+        "note": "God did not send his Son to condemn the world."
+      },
+      {
+        "ref": "1 Corinthians 4:5",
+        "note": "Do not pronounce judgment before the time."
+      },
+      {
+        "ref": "1 Peter 4:5",
+        "note": "They will give account to him who is ready to judge."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "chrestotes",
+    "transliteration": "chrēstotēs",
+    "original": "χρηστότης",
+    "pronunciation": "khrace-TOT-ace",
+    "gloss": "kindness, goodness",
+    "notes": "Kindness, goodness, benevolence. Paul says that God's \"goodness\" is meant to lead people to repentance (2:4). It is one of the fruit of the Spirit (Galatians 5:22) and is used of God's kindness in Titus 3:4.",
+    "range": [
+      {
+        "sense": "Kindness",
+        "note": "Gracious goodness."
+      },
+      {
+        "sense": "Goodness",
+        "note": "Moral excellence."
+      }
+    ],
+    "translations": [
+      "kindness",
+      "goodness"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Galatians 5:22",
+        "note": "The fruit of the Spirit is love, joy, peace, patience, kindness."
+      },
+      {
+        "ref": "Ephesians 2:7",
+        "note": "The immeasurable riches of his grace in kindness toward us."
+      },
+      {
+        "ref": "Colossians 3:12",
+        "note": "Put on compassionate hearts, kindness."
+      },
+      {
+        "ref": "Titus 3:4",
+        "note": "When the goodness and loving kindness of God our Savior appeared."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "nomos",
+    "transliteration": "nomos",
+    "original": "νόμος",
+    "pronunciation": "NOM-os",
+    "gloss": "law",
+    "notes": "Law, in Paul usually the Law of Moses (the Torah), though sometimes a principle (\"the law of faith,\" 3:27; \"the law of sin,\" 7:23). Romans uses the word about seventy-five times. Paul says the law shows sin, cannot make anyone righteous, and yet is \"holy and righteous and good\" (7:12). What he means in each use is a matter of discussion.",
+    "range": [
+      {
+        "sense": "Law of Moses",
+        "note": "The Torah."
+      },
+      {
+        "sense": "Principle",
+        "note": "A governing rule."
+      },
+      {
+        "sense": "Scripture",
+        "note": "The whole Old Testament."
+      }
+    ],
+    "translations": [
+      "law",
+      "principle"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:17",
+        "note": "I have not come to abolish the Law but to fulfill it."
+      },
+      {
+        "ref": "John 1:17",
+        "note": "The law was given through Moses."
+      },
+      {
+        "ref": "Galatians 3:24",
+        "note": "The law was our guardian until Christ came."
+      },
+      {
+        "ref": "James 2:10",
+        "note": "Whoever keeps the whole law but fails in one point."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hilasterion",
+    "transliteration": "hilastērion",
+    "original": "ἱλαστήριον",
+    "pronunciation": "hil-as-TAY-ree-on",
+    "gloss": "atoning sacrifice, mercy seat, propitiation",
+    "notes": "A word used in the Greek Old Testament for the \"mercy seat,\" the lid of the ark where atonement was made (Leviticus 16). Paul says God \"put forward\" Jesus as a hilastērion (3:25). Translators render it \"atoning sacrifice,\" \"propitiation\" (turning aside wrath), \"expiation\" (removing sin), or \"mercy seat.\"",
+    "range": [
+      {
+        "sense": "Mercy seat",
+        "note": "The cover of the ark."
+      },
+      {
+        "sense": "Propitiation",
+        "note": "A sacrifice that turns away wrath."
+      },
+      {
+        "sense": "Expiation",
+        "note": "A sacrifice that removes sin."
+      }
+    ],
+    "translations": [
+      "atoning sacrifice",
+      "propitiation",
+      "expiation",
+      "mercy seat"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Hebrews 9:5",
+        "note": "Above it were the cherubim of glory overshadowing the mercy seat."
+      }
+    ],
+    "uncertain": "Whether hilastērion in Romans 3:25 means a propitiation, an expiation, or the mercy seat is debated.",
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "logizomai",
+    "transliteration": "logizomai",
+    "original": "λογίζομαι",
+    "pronunciation": "log-ID-zom-eye",
+    "gloss": "to reckon, to count, to credit",
+    "notes": "A bookkeeping word: to count, calculate, or credit to an account. Paul uses it about eleven times in Romans 3 and 4: Abraham's faith \"was accounted to him for righteousness\" (4:3), and \"the Lord will not count\" sin against the one he forgives (4:8). It is the word used in Genesis 15:6 in the Greek Old Testament.",
+    "range": [
+      {
+        "sense": "Reckon",
+        "note": "Calculate."
+      },
+      {
+        "sense": "Credit",
+        "note": "Add to an account."
+      },
+      {
+        "sense": "Consider",
+        "note": "Think of as."
+      }
+    ],
+    "translations": [
+      "reckon",
+      "count",
+      "credit",
+      "account"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 15:28",
+        "note": "He was counted among the lawless."
+      },
+      {
+        "ref": "Luke 22:37",
+        "note": "He was numbered with the transgressors."
+      },
+      {
+        "ref": "2 Corinthians 5:19",
+        "note": "Not counting their trespasses against them."
+      },
+      {
+        "ref": "James 2:23",
+        "note": "It was counted to him as righteousness."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "epaggelia",
+    "transliteration": "epangelia",
+    "original": "ἐπαγγελία",
+    "pronunciation": "ep-ang-el-EE-ah",
+    "gloss": "promise",
+    "notes": "A promise, especially God's promise. For Paul the main one is the promise to Abraham, that he would be the father of many nations and heir of the world (4:13-21), which does not depend on law but on faith. The same word names the promised Holy Spirit in Acts 2:33.",
+    "range": [
+      {
+        "sense": "Promise",
+        "note": "A solemn pledge."
+      },
+      {
+        "sense": "Gift promised",
+        "note": "What God has promised."
+      }
+    ],
+    "translations": [
+      "promise"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 24:49",
+        "note": "I am sending the promise of my Father upon you."
+      },
+      {
+        "ref": "Acts 2:33",
+        "note": "He has received from the Father the promise of the Holy Spirit."
+      },
+      {
+        "ref": "Galatians 3:16",
+        "note": "The promises were made to Abraham and to his offspring."
+      },
+      {
+        "ref": "Hebrews 6:12",
+        "note": "Imitate those who through faith and patience inherit the promises."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "plerophoreo",
+    "transliteration": "plērophoreō",
+    "original": "πληροφορέω",
+    "pronunciation": "play-rof-or-EH-oh",
+    "gloss": "to be fully convinced, to fulfill",
+    "notes": "To bring to full measure, to fully convince, or to fulfill completely. Abraham was \"fully assured\" that God could do what he promised (4:21). Paul uses the same word about each person being \"fully convinced\" in their own mind (14:5).",
+    "range": [
+      {
+        "sense": "Fully convince",
+        "note": "Make completely sure."
+      },
+      {
+        "sense": "Fulfill",
+        "note": "Complete."
+      }
+    ],
+    "translations": [
+      "fully assured",
+      "fully convinced",
+      "fulfill"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 1:1",
+        "note": "The things that have been accomplished among us."
+      },
+      {
+        "ref": "Romans 14:5",
+        "note": "Each one should be fully convinced in his own mind."
+      },
+      {
+        "ref": "2 Timothy 4:5",
+        "note": "Fulfill your ministry."
+      },
+      {
+        "ref": "2 Timothy 4:17",
+        "note": "Through me the message might be fully proclaimed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaiosis",
+    "transliteration": "dikaiōsis",
+    "original": "δικαίωσις",
+    "pronunciation": "dik-I-o-sis",
+    "gloss": "justification, being declared righteous",
+    "notes": "The act of declaring someone righteous, acquittal. Paul says Jesus \"was raised for our justification\" (4:25). It appears only here and in 5:18 in the New Testament.",
+    "range": [
+      {
+        "sense": "Justification",
+        "note": "Declaring righteous."
+      },
+      {
+        "sense": "Acquittal",
+        "note": "Being cleared of charges."
+      }
+    ],
+    "translations": [
+      "justification",
+      "acquittal"
+    ],
+    "elsewhere": [],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "euangelion",
+    "transliteration": "euangelion",
+    "original": "εὐαγγέλιον",
+    "pronunciation": "you-ahng-GEH-lee-on",
+    "gloss": "good news, gospel",
+    "notes": "\"Good news,\" the gospel. Paul is \"set apart for the gospel of God\" (1:1) and \"not ashamed of the gospel\" (1:16).",
+    "range": [
+      {
+        "sense": "Good news",
+        "note": "An announcement of something joyful."
+      },
+      {
+        "sense": "Announcement of victory",
+        "note": "News of a king's triumph or accession."
+      },
+      {
+        "sense": "The gospel",
+        "note": "The message about Jesus, later also a name for books like Mark."
+      }
+    ],
+    "translations": [
+      "good news",
+      "gospel"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Mark 1:1",
+        "note": "The beginning of the gospel of Jesus Christ."
+      },
+      {
+        "ref": "1 Corinthians 15:1",
+        "note": "The gospel I preached to you."
+      },
+      {
+        "ref": "Galatians 1:11",
+        "note": "The gospel that was preached by me."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaiosyne",
+    "transliteration": "dikaiosynē",
+    "original": "δικαιοσύνη",
+    "pronunciation": "dee-kai-oh-SOO-nay",
+    "gloss": "righteousness",
+    "notes": "Righteousness, being in the right. Romans is about \"the righteousness of God\" (1:17, 3:21-22), and how people are counted righteous.",
+    "range": [
+      {
+        "sense": "Right conduct",
+        "note": "Living in line with God's will."
+      },
+      {
+        "sense": "Justice",
+        "note": "Fairness and rightness in dealings with others."
+      },
+      {
+        "sense": "Right standing",
+        "note": "Being declared in the right before God (especially in Paul)."
+      }
+    ],
+    "translations": [
+      "righteousness",
+      "justice",
+      "what is right"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 5:6",
+        "note": "Blessed are those who hunger and thirst for righteousness."
+      },
+      {
+        "ref": "2 Corinthians 5:21",
+        "note": "That in him we might become the righteousness of God."
+      },
+      {
+        "ref": "Philippians 3:9",
+        "note": "The righteousness from God that depends on faith."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "aphorizo",
+    "transliteration": "aphorizō",
+    "original": "ἀφορίζω",
+    "pronunciation": "af-or-ID-zo",
+    "gloss": "to set apart, to separate",
+    "notes": "To set apart, to separate for a purpose. Paul is \"set apart for the gospel of God\" (1:1).",
+    "range": [
+      {
+        "sense": "Set apart",
+        "note": "Separate for a purpose."
+      },
+      {
+        "sense": "Separate",
+        "note": "Divide."
+      }
+    ],
+    "translations": [
+      "set apart",
+      "separate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 13:2",
+        "note": "Set apart for me Barnabas and Saul."
+      },
+      {
+        "ref": "Galatians 1:15",
+        "note": "Who set me apart before I was born."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "paradidomi",
+    "transliteration": "paradidōmi",
+    "original": "παραδίδωμι",
+    "pronunciation": "pah-rah-DEE-doh-mee",
+    "gloss": "to hand over, betray",
+    "notes": "To hand over. \"God gave them up\" three times in 1:24, 1:26, 1:28, and Jesus \"was delivered up for our trespasses\" (4:25).",
+    "range": [
+      {
+        "sense": "Hand over",
+        "note": "Give someone into another's custody."
+      },
+      {
+        "sense": "Betray",
+        "note": "Hand over by treachery."
+      },
+      {
+        "sense": "Entrust",
+        "note": "Pass something on, as a teaching."
+      }
+    ],
+    "translations": [
+      "betray",
+      "hand over",
+      "deliver",
+      "give over"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 26:15",
+        "note": "Judas: \"What will you give me?\""
+      },
+      {
+        "ref": "Romans 8:32",
+        "note": "God did not spare his own Son, but gave him up for us all."
+      },
+      {
+        "ref": "1 Corinthians 11:23",
+        "note": "The night in which he was betrayed."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "pistis",
+    "transliteration": "pistis",
+    "original": "πίστις",
+    "pronunciation": "PISS-tiss",
+    "gloss": "faith, trust",
+    "notes": "Trust, faithfulness, and belief. It is the central word of Romans, occurring about forty times.",
+    "range": [
+      {
+        "sense": "Trust",
+        "note": "Confidence in a person or what they can do."
+      },
+      {
+        "sense": "Faithfulness",
+        "note": "Being trustworthy and loyal (STEPBible tags this sense separately)."
+      },
+      {
+        "sense": "The faith",
+        "note": "Later, what Christians believe."
+      }
+    ],
+    "translations": [
+      "faith",
+      "trust",
+      "faithfulness",
+      "belief"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 9:22",
+        "note": "Your faith has made you well."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you have been saved through faith."
+      },
+      {
+        "ref": "Hebrews 11:1",
+        "note": "Faith is the assurance of things hoped for."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "metanoia",
+    "transliteration": "metanoia",
+    "original": "μετάνοια",
+    "pronunciation": "met-AH-noy-ah",
+    "gloss": "repentance",
+    "notes": "A change of mind that leads to a change of life. God's goodness \"leads you to repentance\" (2:4).",
+    "range": [
+      {
+        "sense": "Change of mind",
+        "note": "A new way of thinking."
+      },
+      {
+        "sense": "Turning",
+        "note": "A change of direction."
+      }
+    ],
+    "translations": [
+      "repentance",
+      "change of heart"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 3:8",
+        "note": "Produce fruit worthy of repentance."
+      },
+      {
+        "ref": "Acts 20:21",
+        "note": "Repentance toward God."
+      },
+      {
+        "ref": "2 Corinthians 7:10",
+        "note": "Godly sorrow produces repentance."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "syneidesis",
+    "transliteration": "syneidēsis",
+    "original": "συνείδησις",
+    "pronunciation": "soon-I-day-sis",
+    "gloss": "conscience",
+    "notes": "Conscience, moral awareness. Gentiles show the law \"written in their hearts, their conscience bearing witness\" (2:15).",
+    "range": [
+      {
+        "sense": "Conscience",
+        "note": "The inner sense of right and wrong."
+      },
+      {
+        "sense": "Consciousness",
+        "note": "Awareness."
+      }
+    ],
+    "translations": [
+      "conscience"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 23:1",
+        "note": "I have lived before God in all good conscience."
+      },
+      {
+        "ref": "1 Corinthians 8:7",
+        "note": "Their conscience, being weak, is defiled."
+      },
+      {
+        "ref": "1 Timothy 1:5",
+        "note": "From a pure heart and a good conscience."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "peritome",
+    "transliteration": "peritomē",
+    "original": "περιτομή",
+    "pronunciation": "per-ee-tom-AY",
+    "gloss": "circumcision",
+    "notes": "Circumcision, the sign of the covenant with Abraham. Paul says real circumcision is \"of the heart\" (2:29), and that Abraham received it as a seal of faith he already had (4:11).",
+    "range": [
+      {
+        "sense": "Circumcision",
+        "note": "The covenant sign."
+      },
+      {
+        "sense": "The circumcised",
+        "note": "The Jews as a people."
+      }
+    ],
+    "translations": [
+      "circumcision",
+      "the circumcised"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Acts 11:2",
+        "note": "The circumcision party criticized Peter."
+      },
+      {
+        "ref": "Galatians 5:6",
+        "note": "In Christ neither circumcision nor uncircumcision counts."
+      },
+      {
+        "ref": "Philippians 3:3",
+        "note": "We are the circumcision, who worship by the Spirit of God."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "dikaioo",
+    "transliteration": "dikaioō",
+    "original": "δικαιόω",
+    "pronunciation": "dik-ah-YOH-oh",
+    "gloss": "to justify, to declare righteous",
+    "notes": "To justify, to declare righteous. \"By the works of the law, no flesh will be justified\" (3:20), and \"justified freely by his grace\" (3:24).",
+    "range": [
+      {
+        "sense": "Justify",
+        "note": "Declare in the right."
+      },
+      {
+        "sense": "Vindicate",
+        "note": "Show to be right."
+      }
+    ],
+    "translations": [
+      "justify",
+      "declare righteous",
+      "vindicate"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 18:14",
+        "note": "This man went down to his house justified."
+      },
+      {
+        "ref": "Galatians 2:16",
+        "note": "Not justified by works of the law."
+      },
+      {
+        "ref": "Titus 3:7",
+        "note": "Justified by his grace."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "apolytrosis",
+    "transliteration": "apolytrōsis",
+    "original": "ἀπολύτρωσις",
+    "pronunciation": "ap-ol-OO-tro-sis",
+    "gloss": "redemption, release",
+    "notes": "Redemption, release by payment. \"Through the redemption that is in Christ Jesus\" (3:24).",
+    "range": [
+      {
+        "sense": "Redemption",
+        "note": "Release by payment."
+      },
+      {
+        "sense": "Deliverance",
+        "note": "Rescue from captivity."
+      }
+    ],
+    "translations": [
+      "redemption",
+      "release"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 21:28",
+        "note": "Your redemption is near."
+      },
+      {
+        "ref": "Ephesians 1:7",
+        "note": "In him we have redemption through his blood."
+      },
+      {
+        "ref": "Hebrews 9:15",
+        "note": "Redemption of the transgressions."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "charis",
+    "transliteration": "charis",
+    "original": "χάρις",
+    "pronunciation": "KHA-rees",
+    "gloss": "grace, favor",
+    "notes": "Favor, grace. \"Justified freely by his grace\" (3:24). Grace is the language of Romans from 1:5 to 16:20.",
+    "range": [
+      {
+        "sense": "Favor",
+        "note": "Goodwill shown to someone."
+      },
+      {
+        "sense": "Gift",
+        "note": "What is given freely."
+      },
+      {
+        "sense": "Thanks",
+        "note": "Gratitude."
+      }
+    ],
+    "translations": [
+      "grace",
+      "favor",
+      "thanks",
+      "gracious"
+    ],
+    "elsewhere": [
+      {
+        "ref": "John 1:14",
+        "note": "The Word was full of grace and truth."
+      },
+      {
+        "ref": "Acts 20:24",
+        "note": "The gospel of the grace of God."
+      },
+      {
+        "ref": "Ephesians 2:8",
+        "note": "By grace you are saved."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "doxa",
+    "transliteration": "doxa",
+    "original": "δόξα",
+    "pronunciation": "DOX-ah",
+    "gloss": "glory",
+    "notes": "Splendor, honor, and the visible presence of God. \"All have sinned, and fall short of the glory of God\" (3:23).",
+    "range": [
+      {
+        "sense": "Glory",
+        "note": "The splendor of God."
+      },
+      {
+        "sense": "Honor",
+        "note": "Praise."
+      },
+      {
+        "sense": "Reputation",
+        "note": "How one is regarded."
+      }
+    ],
+    "translations": [
+      "glory",
+      "honor",
+      "splendor"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Luke 9:32",
+        "note": "They saw his glory."
+      },
+      {
+        "ref": "2 Corinthians 4:6",
+        "note": "The light of the knowledge of the glory of God."
+      },
+      {
+        "ref": "Hebrews 1:3",
+        "note": "He is the radiance of God's glory."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  {
+    "id": "hamartia",
+    "transliteration": "hamartia",
+    "original": "ἁμαρτία",
+    "pronunciation": "ham-ar-TEE-ah",
+    "gloss": "sin",
+    "notes": "Sin, missing the mark. In Romans sin is almost a power, as in \"under sin\" (3:9); the word is used about forty-eight times.",
+    "range": [
+      {
+        "sense": "Sin",
+        "note": "Missing the mark."
+      },
+      {
+        "sense": "Offense",
+        "note": "A wrong against God or others."
+      }
+    ],
+    "translations": [
+      "sin"
+    ],
+    "elsewhere": [
+      {
+        "ref": "Matthew 1:21",
+        "note": "He will save his people from their sins."
+      },
+      {
+        "ref": "John 1:29",
+        "note": "The Lamb of God who takes away the sin of the world."
+      },
+      {
+        "ref": "1 John 1:9",
+        "note": "If we confess our sins."
+      }
+    ],
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  }
+]

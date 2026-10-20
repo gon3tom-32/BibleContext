@@ -1,0 +1,91 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "corinth",
+      "title": "Where Paul probably wrote",
+      "short": "Corinth",
+      "refs": "Acts 20:2-3; Romans 16:1, 16:23",
+      "chapter": 16,
+      "direction": "out",
+      "text": "Paul is thought to have written from Corinth: Phoebe comes from nearby Cenchreae, and Gaius (Paul's host) and Erastus (the city treasurer) send greetings."
+    },
+    {
+      "order": 2,
+      "placeId": "jerusalem",
+      "title": "The collection for the poor",
+      "short": "Jerusalem",
+      "refs": "Romans 15:25-27",
+      "chapter": 15,
+      "direction": "out",
+      "text": "Paul is about to take a gift from Macedonia and Achaia to the poor among believers in Jerusalem."
+    },
+    {
+      "order": 3,
+      "placeId": "rome",
+      "title": "The church in Rome",
+      "short": "Rome",
+      "refs": "Romans 1:7-15; 15:22-29",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Paul has not been to Rome, but hopes to visit and be sent on by them to Spain."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 9.0,
+      "east": 37.5,
+      "south": 30.8,
+      "north": 43.2
+    },
+    "label": "Map of the eastern Mediterranean from Rome to Jerusalem, drawn from real coordinates. Numbered stops mark where Romans' letter is written from and where it is going.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left",
+        "offset": [
+          -4,
+          10
+        ]
+      },
+      {
+        "order": 2,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left"
+      },
+      {
+        "order": 3,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "achaia": null,
+      "macedonia": null,
+      "illyricum": null,
+      "spain": null,
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
