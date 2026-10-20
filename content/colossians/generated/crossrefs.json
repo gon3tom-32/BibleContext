@@ -242,7 +242,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Romans 6:1-11",
+          "inDataset": true,
+          "votes": 90
+        },
+        {
+          "ref": "Ephesians 4:22-32",
+          "inDataset": true,
+          "votes": 307
+        },
+        {
+          "ref": "1 Corinthians 10:31",
+          "inDataset": true,
+          "votes": 118
+        },
+        {
+          "ref": "Galatians 3:26-28",
+          "inDataset": true,
+          "votes": 31
+        }
+      ]
     },
     {
       "number": 4,
@@ -304,7 +325,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Philemon 1:1-25",
+          "inDataset": true,
+          "votes": 50
+        },
+        {
+          "ref": "1 Peter 3:15",
+          "inDataset": true,
+          "votes": 51
+        },
+        {
+          "ref": "Acts 15:36-41",
+          "inDataset": true,
+          "votes": 4
+        },
+        {
+          "ref": "Ephesians 6:19-22",
+          "inDataset": true,
+          "votes": 48
+        }
+      ]
     }
   ]
 }

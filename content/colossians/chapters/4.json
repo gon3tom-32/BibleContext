@@ -1,0 +1,254 @@
+{
+  "sceneHappening": "Masters and prayer, a wise word to outsiders, and a long list of friends and greetings",
+  "summary": "Masters are to give their servants what is just and equal, knowing that they also have a Master in heaven. \"Continue steadfastly in prayer, watching therein with thanksgiving; praying together for us also, that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds; that I may reveal it as I ought to speak.\" They are to walk in wisdom toward outsiders, redeeming the time. \"Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.\" Tychicus, a beloved brother, faithful servant, and fellow servant in the Lord, will tell them all about Paul's affairs; Paul is sending him for this very purpose, so that they may know how things are with him and that he may comfort their hearts, and with him Onesimus, the faithful and beloved brother who is one of them; they will make known everything that is going on here. Aristarchus, Paul's fellow prisoner, greets them, as does Mark, the cousin of Barnabas (about whom they received instructions: if he comes to them, welcome him), and Jesus who is called Justus; these are the only Jewish believers among his fellow workers for the Kingdom of God, and they have been a comfort to Paul. Epaphras, who is one of them, a servant of Christ Jesus, greets them, always striving for them in his prayers, that they may stand perfect and fully assured in all the will of God; Paul testifies that he has great zeal for them and for those in Laodicea and in Hierapolis. Luke the beloved physician and Demas greet them. Paul asks them to greet the brothers in Laodicea, and Nympha, and the assembly that is in her house. \"When this letter has been read among you, cause it to be read also in the assembly of the Laodiceans; and that you also read the letter from Laodicea.\" And say to Archippus, \"Take heed to the ministry which you have received in the Lord, that you fulfill it.\" Finally: \"The greeting of me, Paul, with my own hand: remember my bonds. Grace be with you. Amen.\"",
+  "whySettingMatters": "The names at the end tie the letter to Paul's wider network and to the letter to Philemon, which names Epaphras, Mark, Aristarchus, Demas, Luke, and Archippus and was sent with Onesimus at the same time. Onesimus is called \"one of you,\" a quiet sign that his story (as a runaway slave who met Paul in prison) was known in Colossae. Mark is the same Mark who had turned back from the first journey and caused a dispute between Paul and Barnabas (Acts 15:37-39); the instruction to \"welcome him\" shows that relationship was mended. \"The only men of the circumcision among my fellow workers\" means the only Jews, and it is a reminder that most of Paul's team were Gentile. Laodicea, Hierapolis, and Colossae sat close together in the Lycus Valley. The \"letter from Laodicea\" is not known to us: it may be Ephesians, which could have been a circular letter, or a letter now lost. Nympha (or Nymphas in some manuscripts) hosted a house church, which was how churches typically met before they had buildings. \"Seasoned with salt\" refers to speech that is not bland and also not corrupt, since salt flavors and preserves.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Asks for prayer and sends greetings from prison."
+    },
+    {
+      "id": "tychicus",
+      "note": "Carries the letter and brings news."
+    },
+    {
+      "id": "onesimus",
+      "note": "\"One of you,\" traveling with Tychicus."
+    },
+    {
+      "id": "aristarchus",
+      "note": "Paul's fellow prisoner."
+    },
+    {
+      "id": "mark",
+      "note": "Barnabas's cousin, to be welcomed."
+    },
+    {
+      "id": "jesus-justus",
+      "note": "A Jewish co-worker who greets them."
+    },
+    {
+      "id": "epaphras",
+      "note": "Striving for them in prayer."
+    },
+    {
+      "id": "luke",
+      "note": "The beloved physician."
+    },
+    {
+      "id": "demas",
+      "note": "A co-worker who greets them."
+    },
+    {
+      "id": "nympha",
+      "note": "Hosts a church in her house."
+    },
+    {
+      "id": "archippus",
+      "note": "Told to fulfill his ministry."
+    },
+    {
+      "id": "the-colossian-masters",
+      "note": "Told to treat their slaves justly and fairly."
+    }
+  ],
+  "questions": [
+    "Paul asks for prayer for an \"open door\" to speak, while he is in chains. What does that say about what he cares about?",
+    "\"Let your speech be seasoned with salt.\" What would it look like to speak with both grace and flavor?",
+    "The letter ends with a long list of names. Why might Paul want so many people mentioned by name?",
+    "Archippus is told to \"fulfill\" his ministry. What do you think that charge meant for him, and what does it suggest for us?"
+  ],
+  "words": [
+    {
+      "id": "parecho",
+      "note": "\"Give to your servants that which is just and equal\" (4:1)."
+    },
+    {
+      "id": "isotes",
+      "note": "\"Just and equal\" (4:1)."
+    },
+    {
+      "id": "proskartereo",
+      "note": "\"Continue steadfastly in prayer\" (4:2)."
+    },
+    {
+      "id": "gregoreo",
+      "note": "\"Watching therein with thanksgiving\" (4:2)."
+    },
+    {
+      "id": "eucharistia",
+      "note": "\"With thanksgiving\" (4:2)."
+    },
+    {
+      "id": "thyra",
+      "note": "\"That God may open to us a door for the word\" (4:3)."
+    },
+    {
+      "id": "logos",
+      "note": "\"A door for the word\" (4:3, 4:6)."
+    },
+    {
+      "id": "mysterion",
+      "note": "\"To speak the mystery of Christ\" (4:3)."
+    },
+    {
+      "id": "desmos",
+      "note": "\"For which I am also in bonds\" (4:3, 4:18)."
+    },
+    {
+      "id": "phaneroo",
+      "note": "\"That I may reveal it as I ought to speak\" (4:4)."
+    },
+    {
+      "id": "laleo",
+      "note": "\"As I ought to speak\" (4:3-4)."
+    },
+    {
+      "id": "exo",
+      "note": "\"Toward those who are outside\" (4:5)."
+    },
+    {
+      "id": "exagorazo",
+      "note": "\"Redeeming the time\" (4:5)."
+    },
+    {
+      "id": "kairos",
+      "note": "\"Redeeming the time\" (4:5)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Let your speech always be with grace\" (4:6, 4:18)."
+    },
+    {
+      "id": "halas",
+      "note": "\"Seasoned with salt\" (4:6)."
+    },
+    {
+      "id": "artyo",
+      "note": "\"Seasoned\" (4:6)."
+    },
+    {
+      "id": "apokrinomai",
+      "note": "\"How you ought to answer each one\" (4:6)."
+    },
+    {
+      "id": "diakonos",
+      "note": "\"Faithful servant\" (4:7)."
+    },
+    {
+      "id": "syndoulos",
+      "note": "\"And fellow servant in the Lord\" (4:7)."
+    },
+    {
+      "id": "pistos",
+      "note": "\"Faithful servant and fellow bondservant\" (4:7, 4:9)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "\"That he may comfort your hearts\" (4:8)."
+    },
+    {
+      "id": "synaichmalotos",
+      "note": "\"Aristarchus, my fellow prisoner\" (4:10)."
+    },
+    {
+      "id": "entole",
+      "note": "\"Concerning whom you received instructions\" (4:10)."
+    },
+    {
+      "id": "dechomai",
+      "note": "\"If he comes to you, receive him\" (4:10)."
+    },
+    {
+      "id": "peritome",
+      "note": "\"These are the only ones of the circumcision\" (4:11)."
+    },
+    {
+      "id": "synergos",
+      "note": "\"Among my fellow workers\" (4:11)."
+    },
+    {
+      "id": "anepsios",
+      "note": "\"Cousin\" (4:10)."
+    },
+    {
+      "id": "agonizomai",
+      "note": "\"Striving for you in his prayers\" (4:12)."
+    },
+    {
+      "id": "teleios",
+      "note": "\"That you may stand perfect\" (4:12)."
+    },
+    {
+      "id": "plerophoreo",
+      "note": "\"And fully assured\" (4:12)."
+    },
+    {
+      "id": "ponos",
+      "note": "\"He has great zeal for you\" (4:13)."
+    },
+    {
+      "id": "iatros",
+      "note": "\"Luke, the beloved physician\" (4:14)."
+    },
+    {
+      "id": "agapetos",
+      "note": "\"Beloved\" (4:7, 4:9, 4:14)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"The assembly that is in her house\" (4:15-16)."
+    },
+    {
+      "id": "epistole",
+      "note": "\"When this letter has been read among you\" (4:16)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"Take heed to the ministry\" (4:17)."
+    },
+    {
+      "id": "paralambano",
+      "note": "\"Which you have received in the Lord\" (4:17)."
+    },
+    {
+      "id": "pleroo",
+      "note": "\"That you fulfill it\" (4:17)."
+    },
+    {
+      "id": "mnemoneuo",
+      "note": "\"Remember my bonds\" (4:18)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"Greets you\" (4:10, 4:12, 4:14-15)."
+    },
+    {
+      "id": "aspasmos",
+      "note": "\"The greeting of me, Paul, with my own hand\" (4:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Philemon 1:1-25",
+      "note": "a letter sent with Onesimus at the same time"
+    },
+    {
+      "ref": "1 Peter 3:15",
+      "note": "always being prepared to make a defense... with gentleness and respect"
+    },
+    {
+      "ref": "Acts 15:36-41",
+      "note": "Paul and Barnabas disagree over Mark"
+    },
+    {
+      "ref": "Ephesians 6:19-22",
+      "note": "Tychicus will tell you everything"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

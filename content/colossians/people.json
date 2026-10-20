@@ -78,5 +78,35 @@
     "id": "jesus",
     "name": "Jesus",
     "note": "The image of the invisible God, firstborn of creation and of the dead, head of the church."
+  },
+  {
+    "id": "the-colossian-wives",
+    "name": "Wives",
+    "note": "Addressed first in the household teaching (3:18)."
+  },
+  {
+    "id": "the-colossian-husbands",
+    "name": "Husbands",
+    "note": "Told to love their wives and not be bitter (3:19)."
+  },
+  {
+    "id": "the-colossian-children",
+    "name": "Children",
+    "note": "Told to obey their parents (3:20)."
+  },
+  {
+    "id": "the-colossian-fathers",
+    "name": "Fathers",
+    "note": "Told not to provoke their children (3:21)."
+  },
+  {
+    "id": "the-colossian-slaves",
+    "name": "Slaves",
+    "note": "Told to work heartily as for the Lord (3:22-25)."
+  },
+  {
+    "id": "the-colossian-masters",
+    "name": "Masters",
+    "note": "Told to treat slaves justly and fairly (4:1)."
   }
 ]
