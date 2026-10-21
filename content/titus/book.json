@@ -1,0 +1,48 @@
+{
+  "slug": "titus",
+  "title": "Titus",
+  "order": 56,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 3,
+  "tagline": "Paul's short letter to a trusted co-worker on Crete: set the churches in order, teach what fits sound doctrine, and show that grace trains us for good works.",
+  "author": "Paul (debated)",
+  "authorNote": "The letter names Paul as its writer (1:1). As with 1 and 2 Timothy, many scholars doubt that Paul wrote it, pointing to its vocabulary, its church offices, and the difficulty of placing a mission to Crete in the travels recorded in Acts; others hold that it fits Paul's last years, after the end of Acts, and that a secretary or a close follower may have shaped its wording. The church has long received it as Paul's.",
+  "authorDebated": true,
+  "audience": "Titus, Paul's co-worker, left on Crete to help the churches there",
+  "audienceNote": "Titus was a Gentile Christian who worked closely with Paul; he traveled with Paul to Jerusalem (Galatians 2:1-3) and was Paul's trusted representative to the church in Corinth (2 Corinthians 7:6-7; 8:16-17). Paul now calls him \"my true child according to a common faith\" (1:4). The letter is written to Titus, but the final \"Grace be with you all\" (3:15) is plural, so it was meant to be read to the churches too.",
+  "setting": "Paul (if by Paul), place unknown, perhaps about AD 62 to 65; Titus on the island of Crete",
+  "settingNote": "Paul says he left Titus in Crete (1:5) and plans to send Artemas or Tychicus so that Titus can join him at Nicopolis for the winter (3:12). Acts does not record a mission to Crete (it records only a stop on the voyage to Rome, Acts 27:7-13), so those who accept Paul as author place this after his release from the imprisonment at the end of Acts. Those who do not accept Paul as author date the letter later and treat the details as part of a way of passing on his authority.",
+  "genre": "Letter",
+  "genreNote": "A short, practical letter from an apostle to a trusted co-worker. It includes the qualities of church leaders, instructions for different groups in the church (older men and women, young people, slaves), two summaries of the gospel (2:11-14 and 3:4-7), and warnings about opponents.",
+  "bigIdea": "The grace of God has appeared, bringing salvation to all, and it trains believers to give up ungodliness and to be \"zealous for good works.\" So Titus is to appoint blameless leaders, silence those who teach for gain, and teach the whole church a way of life that adorns the doctrine of God our Savior.",
+  "themes": [
+    "Leaders chosen for character",
+    "Sound teaching versus empty talk and teaching for gain",
+    "Grace that trains: the good life of each group",
+    "Salvation by mercy, not by works",
+    "Good works as the fruit of faith",
+    "Life together with outsiders watching"
+  ],
+  "mapTitle": "Map: Crete and Nicopolis",
+  "mapSummary": "Titus is on Crete; Paul asks him to come to Nicopolis, on the western coast of Greece, for the winter (3:12).",
+  "scene": {
+    "author": "Paul (debated)",
+    "audience": "Titus, on Crete",
+    "happening": "Paul has left Titus to set things in order and asks him to join him at Nicopolis"
+  },
+  "overviewPeople": [
+    "paul",
+    "titus",
+    "the-cretans",
+    "the-opponents",
+    "the-elders",
+    "artemas-and-tychicus",
+    "zenas-and-apollos",
+    "the-lord-jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

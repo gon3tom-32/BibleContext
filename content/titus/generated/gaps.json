@@ -1,0 +1,45 @@
+{
+  "_about": "Gaps and problems found while pulling data.",
+  "gaps": [
+    {
+      "area": "cross-references",
+      "text": "Titus 1: our \"Mark 7:14-23\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "cross-references",
+      "text": "Titus 1: our \"Acts 20:17-28\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "cross-references",
+      "text": "Titus 2: our \"Ephesians 5:22-6:9\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Crete is named in 1:5 and 1:12 and Nicopolis in 3:12."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}
