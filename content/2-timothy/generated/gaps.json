@@ -1,0 +1,65 @@
+{
+  "_about": "Gaps and problems found while pulling data.",
+  "gaps": [
+    {
+      "area": "words",
+      "text": "\"Matthew 19:20\" (listed under phylasso): STEPBible tags the same word there as G5442G, a different sense (\"to keep/guard\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Mark 10:20\" (listed under phylasso): STEPBible tags the same word there as G5442G, a different sense (\"to keep/guard\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Matthew 21:41\" (listed under kakos): STEPBible tags the same word there as G2556G, a different sense (\"evil/harm\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Mark 7:21\" (listed under kakos): STEPBible tags the same word there as G2556G, a different sense (\"evil/harm\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Romans 14:1\" (listed under astheneo): STEPBible tags the same word there as G0770G, a different sense (\"be weak\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"2 Corinthians 12:10\" (listed under astheneo): STEPBible tags the same word there as G0770G, a different sense (\"be weak\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "cross-references",
+      "text": "2 Timothy 1: our \"Philippians 1:12-14\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "cross-references",
+      "text": "2 Timothy 2: our \"Colossians 2:12\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Antioch, Iconium, and Lystra (3:11), Asia and Galatia, and Dalmatia are named but not drawn on the map."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

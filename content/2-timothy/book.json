@@ -1,0 +1,49 @@
+{
+  "slug": "2-timothy",
+  "title": "2 Timothy",
+  "order": 55,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 4,
+  "tagline": "Paul's last letter, from prison: be strong, guard what you were given, and keep teaching the word, because my race is almost run.",
+  "author": "Paul (debated)",
+  "authorNote": "The letter names Paul as its writer (1:1) and is full of personal details: his chain, his coming death, names of friends and opponents. For that reason even many scholars who doubt that Paul wrote 1 Timothy and Titus are more willing to accept this letter, or to think it contains real notes from Paul, or to see it as a loving portrait of his last days written soon after by a close follower. Others hold that all three Pastoral Epistles come from the same author and either all are Paul's or none are. The church has long received it as Paul's own last letter.",
+  "authorDebated": true,
+  "audience": "Timothy, Paul's younger co-worker and \"beloved child,\" probably still in or near Ephesus",
+  "audienceNote": "The letter does not state where Timothy is, but it mentions Ephesus (1:18; 4:12), greets Prisca and Aquila (4:19), who had lived in Ephesus (Acts 18:18-26), and speaks of the house of Onesiphorus. Paul asks Timothy to come to him before winter (4:9, 4:21) and to bring Mark.",
+  "setting": "Paul in prison in Rome (if by Paul), perhaps about AD 64 to 67, under Nero",
+  "settingNote": "Paul says he is chained like a criminal (2:9) and that Onesiphorus found him in Rome (1:16-17). He expects to die soon: \"the time of my departure has come\" (4:6). If Paul wrote it, this is a second imprisonment after the one at the end of Acts, a view that rests on church tradition; those who do not accept Paul as author place the letter later and read it as a final testament.",
+  "genre": "Letter (a farewell, or testament)",
+  "genreNote": "A personal letter with the form of a last testament: a look back at Paul's life, a charge to his successor, warnings about what will come, and a list of personal requests and greetings. It is more personal and warmer than 1 Timothy and Titus.",
+  "bigIdea": "Paul, near death, urges Timothy not to be ashamed or afraid but to endure hardship, to hold fast to the sound words and the Scriptures, to pass them to faithful people who will teach others, and to preach the word, because God is faithful and the Lord will bring his own safely to his kingdom.",
+  "themes": [
+    "Not being ashamed of the gospel or of Paul's chains",
+    "Guarding and passing on the faith",
+    "Endurance like a soldier, athlete, and farmer",
+    "The Scriptures: God-breathed and useful",
+    "Opposition and false teaching in the last days",
+    "Paul's farewell: the race run, the crown waiting"
+  ],
+  "mapTitle": "Map: Paul's last letter and his co-workers",
+  "mapSummary": "Paul writes from Rome. The letter mentions Ephesus, Troas, Miletus, Corinth, and Thessalonica, where his co-workers were or had been.",
+  "scene": {
+    "author": "Paul (debated), in prison in Rome",
+    "audience": "Timothy, probably in Ephesus",
+    "happening": "Paul expects to die soon, perhaps about AD 64 to 67"
+  },
+  "overviewPeople": [
+    "paul",
+    "timothy",
+    "lois-and-eunice",
+    "onesiphorus",
+    "hymenaeus-and-philetus",
+    "demas",
+    "luke",
+    "mark",
+    "the-lord-jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "sceneHappening": "Paul, in chains in Rome, urges Timothy to fan the gift into flame and not to be ashamed",
+  "summary": "Paul, \"an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,\" writes to Timothy, \"my beloved child,\" with grace, mercy, and peace. He thanks God, \"whom I serve as my forefathers did, with a pure conscience,\" and remembers Timothy in his prayers \"night and day,\" longing to see him, \"remembering your tears.\" He is reminded of \"the sincere faith that is in you, which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.\" So Paul reminds Timothy to \"stir up the gift of God which is in you through the laying on of my hands. For God didn't give us a spirit of fear, but of power, love, and self-control.\" Timothy must not be \"ashamed of the testimony of our Lord, nor of me his prisoner,\" but \"endure hardship for the Good News according to the power of God, who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal, but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.\" Paul was appointed \"a preacher, an apostle, and a teacher of the Gentiles,\" and for this he suffers: \"Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.\" Timothy is to \"hold the pattern of sound words which you have heard from me, in faith and love,\" and to guard \"that good thing which was committed to you... through the Holy Spirit who dwells in us.\" Paul adds that \"all who are in Asia turned away from me, of whom are Phygelus and Hermogenes,\" while Onesiphorus \"often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently and found me.\"",
+  "whySettingMatters": "This is the only letter from the end of Paul's life, and the circumstances are heavy: he is in prison, many in Asia have turned away, and he knows he may soon die. In this setting every kind word counts. Timothy is reminded of his family (his mother Eunice and grandmother Lois, mentioned nowhere else except here; Acts 16:1 adds that his mother was a Jewish believer and his father a Greek), of his tears (perhaps when Paul was arrested or when they last parted), and of the moment when hands were laid on him. The picture of fire in \"stir up\" (a word that means to fan embers into flame) suggests that the gift is there but needs tending. \"A spirit of fear\" may hint that Timothy was timid, though the letter does not say so. In the Roman world a prisoner chained to a guard was a shame, and a friend who visited risked being tied to him, which is what makes Onesiphorus's search through Rome so striking. \"Before times eternal\" and \"abolished death\" (1:9-10) belong to some of the highest statements in the Pastoral letters. \"All who are in Asia turned away\" is not explained: it might refer to people who would not stand by Paul during his arrest or trial. \"That day\" (1:12, 1:18) is the day of Christ's coming and judgment. As in 1 Timothy, whether Paul wrote this letter is debated, though the personal notes make it the Pastoral letter most often read as his.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "In prison, thankful and unashamed, writing to Timothy."
+    },
+    {
+      "id": "timothy",
+      "note": "Reminded of his tears, his gift, and his family's faith."
+    },
+    {
+      "id": "lois-and-eunice",
+      "note": "His grandmother and mother, whose sincere faith lived first in them."
+    },
+    {
+      "id": "phygelus-and-hermogenes",
+      "note": "Among those in Asia who turned away from Paul."
+    },
+    {
+      "id": "onesiphorus",
+      "note": "Who refreshed Paul and sought him out in Rome."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "Who abolished death and brought life and immortality to light."
+    }
+  ],
+  "questions": [
+    "Paul recalls Timothy's tears and his grandmother's faith. How do family faith and personal tears shape the kind of leader someone becomes?",
+    "\"God didn't give us a spirit of fear, but of power, love, and self-control.\" Which of the three do you find hardest to hold together with the others?",
+    "Paul says he is not ashamed because he knows \"whom I have believed.\" How is that different from being sure of what he believes?",
+    "Onesiphorus was not ashamed of Paul's chain. What does it look like to stand with someone who has become an embarrassment?"
+  ],
+  "words": [
+    {
+      "id": "apostolos",
+      "note": "\"An apostle of Jesus Christ\" (1:1)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"According to the promise of the life\" (1:1)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"The promise of the life which is in Christ Jesus\" (1:1) and \"life and immortality\" (1:10)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace, mercy, and peace\" (1:2) and \"his own purpose and grace\" (1:9)."
+    },
+    {
+      "id": "eleos",
+      "note": "\"Grace, mercy, and peace\" (1:2) and \"may the Lord grant mercy\" (1:16, 1:18)."
+    },
+    {
+      "id": "latreuo",
+      "note": "\"Whom I serve as my forefathers did\" (1:3)."
+    },
+    {
+      "id": "progonos",
+      "note": "\"As my forefathers did\" (1:3)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"With a pure conscience\" (1:3)."
+    },
+    {
+      "id": "adialeiptos",
+      "note": "\"How unceasing is my memory of you\" (1:3)."
+    },
+    {
+      "id": "deesis",
+      "note": "\"In my petitions, night and day\" (1:3)."
+    },
+    {
+      "id": "dakry",
+      "note": "\"Remembering your tears\" (1:4)."
+    },
+    {
+      "id": "hypomnesis",
+      "note": "\"Having been reminded of the sincere faith\" (1:5)."
+    },
+    {
+      "id": "anypokritos",
+      "note": "\"The sincere faith that is in you\" (1:5)."
+    },
+    {
+      "id": "mamme",
+      "note": "\"In your grandmother Lois\" (1:5). The word appears only here."
+    },
+    {
+      "id": "anamimnesko",
+      "note": "\"I remind you that you should stir up the gift\" (1:6)."
+    },
+    {
+      "id": "anazopyreo",
+      "note": "\"Stir up the gift of God\" (1:6). The word appears only here."
+    },
+    {
+      "id": "charisma",
+      "note": "\"The gift of God which is in you\" (1:6)."
+    },
+    {
+      "id": "epithesis",
+      "note": "\"Through the laying on of my hands\" (1:6)."
+    },
+    {
+      "id": "deilia",
+      "note": "\"A spirit of fear\" (1:7). The word appears only here."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"Of power, love, and self-control\" (1:7) and \"the power of God\" (1:8)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Of power, love, and self-control\" (1:7) and \"faith and love\" (1:13)."
+    },
+    {
+      "id": "sophronismos",
+      "note": "\"And self-control\" (1:7). The word appears only here."
+    },
+    {
+      "id": "epaischynomai",
+      "note": "\"Don't be ashamed of the testimony of our Lord\" (1:8, 1:12, 1:16)."
+    },
+    {
+      "id": "martyrion",
+      "note": "\"The testimony of our Lord\" (1:8)."
+    },
+    {
+      "id": "desmios",
+      "note": "\"Nor of me his prisoner\" (1:8)."
+    },
+    {
+      "id": "sygkakopatheo",
+      "note": "\"But endure hardship for the Good News\" (1:8; compare 2:3)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"For the Good News according to the power of God\" (1:8) and \"through the Good News\" (1:10)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Who saved us and called us\" (1:9)."
+    },
+    {
+      "id": "klesis",
+      "note": "\"With a holy calling\" (1:9)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"Not according to our works\" (1:9)."
+    },
+    {
+      "id": "prothesis",
+      "note": "\"According to his own purpose and grace\" (1:9)."
+    },
+    {
+      "id": "phaneroo",
+      "note": "\"Has now been revealed by the appearing of our Savior\" (1:10)."
+    },
+    {
+      "id": "epiphaneia",
+      "note": "\"By the appearing of our Savior\" (1:10; 4:1, 4:8)."
+    },
+    {
+      "id": "soter",
+      "note": "\"Our Savior, Christ Jesus\" (1:10)."
+    },
+    {
+      "id": "katargeo",
+      "note": "\"Who abolished death\" (1:10)."
+    },
+    {
+      "id": "thanatos",
+      "note": "\"Who abolished death\" (1:10)."
+    },
+    {
+      "id": "aphtharsia",
+      "note": "\"Brought life and immortality to light\" (1:10)."
+    },
+    {
+      "id": "photizo",
+      "note": "\"Brought... to light through the Good News\" (1:10)."
+    },
+    {
+      "id": "keryx",
+      "note": "\"Appointed as a preacher, an apostle, and a teacher of the Gentiles\" (1:11)."
+    },
+    {
+      "id": "pascho",
+      "note": "\"For this cause I also suffer these things\" (1:12)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"For I know him whom I have believed\" (1:12)."
+    },
+    {
+      "id": "paratheke",
+      "note": "\"Able to guard that which I have committed to him\" (1:12, 1:14)."
+    },
+    {
+      "id": "hypotyposis",
+      "note": "\"Hold the pattern of sound words\" (1:13)."
+    },
+    {
+      "id": "hygiaino",
+      "note": "\"Sound words\" (1:13)."
+    },
+    {
+      "id": "phylasso",
+      "note": "\"Guard through the Holy Spirit who dwells in us\" (1:14)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"Through the Holy Spirit who dwells in us\" (1:14)."
+    },
+    {
+      "id": "apostrepho",
+      "note": "\"All who are in Asia turned away from me\" (1:15; 4:4)."
+    },
+    {
+      "id": "anapsycho",
+      "note": "\"For he often refreshed me\" (1:16). The word appears only here."
+    },
+    {
+      "id": "spoudaios",
+      "note": "\"He sought me diligently\" (1:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 16:1-3",
+      "note": "a disciple was there, named Timothy, the son of a Jewish woman who believed"
+    },
+    {
+      "ref": "Romans 1:16",
+      "note": "for I am not ashamed of the Good News of Christ"
+    },
+    {
+      "ref": "Philippians 1:12-14",
+      "note": "the things which happened to me have turned out rather to the progress of the Good News"
+    },
+    {
+      "ref": "Acts 28:30-31",
+      "note": "Paul stayed two whole years in his own rented dwelling... preaching the Kingdom of God"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

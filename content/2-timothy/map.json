@@ -1,0 +1,143 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "rome",
+      "title": "Where Paul is held",
+      "short": "Rome",
+      "refs": "2 Timothy 1:16-17",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Onesiphorus searched for Paul in Rome and found him in chains."
+    },
+    {
+      "order": 2,
+      "placeId": "ephesus",
+      "title": "Where Timothy probably is",
+      "short": "Ephesus",
+      "refs": "2 Timothy 1:18; 4:12",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Paul recalls Onesiphorus's service at Ephesus and says he has sent Tychicus there."
+    },
+    {
+      "order": 3,
+      "placeId": "troas",
+      "title": "Cloak, books, and parchments",
+      "short": "Troas",
+      "refs": "2 Timothy 4:13",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Paul left his cloak, books, and parchments with Carpus here."
+    },
+    {
+      "order": 4,
+      "placeId": "miletus",
+      "title": "Trophimus left sick",
+      "short": "Miletus",
+      "refs": "2 Timothy 4:20",
+      "chapter": 4,
+      "direction": "out",
+      "text": "A port south of Ephesus, where Paul left Trophimus ill."
+    },
+    {
+      "order": 5,
+      "placeId": "corinth",
+      "title": "Erastus remained",
+      "short": "Corinth",
+      "refs": "2 Timothy 4:20",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Erastus stayed here."
+    },
+    {
+      "order": 6,
+      "placeId": "thessalonica",
+      "title": "Demas went",
+      "short": "Thessalonica",
+      "refs": "2 Timothy 4:10",
+      "chapter": 4,
+      "direction": "out",
+      "text": "Demas, who loved \"this present world,\" left Paul and went here."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 10.5,
+      "east": 33.5,
+      "south": 35.8,
+      "north": 43.3
+    },
+    "label": "Map of Italy, Greece, and western Turkey, drawn from real coordinates. Numbered stops mark Rome, Ephesus, Troas, Miletus, Corinth, and Thessalonica.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "ephesus",
+        "label": "Ephesus",
+        "labelSide": "right",
+        "offset": [
+          0,
+          -6
+        ]
+      },
+      {
+        "order": 3,
+        "at": "troas",
+        "label": "Troas",
+        "labelSide": "right",
+        "offset": [
+          0,
+          -4
+        ]
+      },
+      {
+        "order": 4,
+        "at": "miletus",
+        "label": "Miletus",
+        "labelSide": "right",
+        "offset": [
+          0,
+          8
+        ]
+      },
+      {
+        "order": 5,
+        "at": "corinth",
+        "label": "Corinth",
+        "labelSide": "left"
+      },
+      {
+        "order": 6,
+        "at": "thessalonica",
+        "label": "Thessalonica",
+        "labelSide": "left"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
