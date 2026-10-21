@@ -1,0 +1,67 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "crete",
+      "title": "Where Titus is",
+      "short": "Crete",
+      "refs": "Titus 1:5, 1:12",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The large island south of Greece, where Titus is to appoint elders in every city."
+    },
+    {
+      "order": 2,
+      "placeId": "nicopolis",
+      "title": "Where Paul plans to winter",
+      "short": "Nicopolis",
+      "refs": "Titus 3:12",
+      "chapter": 3,
+      "direction": "out",
+      "text": "\"Victory City,\" a Roman city on the west coast of Greece. Paul asks Titus to come there for the winter."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 19.0,
+      "east": 28.5,
+      "south": 34.5,
+      "north": 40.2
+    },
+    "label": "Map of Greece and Crete, drawn from real coordinates. Numbered stops mark Crete and Nicopolis.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "crete",
+        "label": "Crete",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "nicopolis",
+        "label": "Nicopolis",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

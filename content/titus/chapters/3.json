@@ -1,0 +1,322 @@
+{
+  "sceneHappening": "Good conduct toward everyone, the gospel in a nutshell, and some closing instructions and greetings",
+  "summary": "\"Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work, to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.\" The reason: \"For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another. But when the kindness of God our Savior and his love toward mankind appeared, not by works of righteousness which we did ourselves, but according to his mercy, he saved us, through the washing of regeneration and renewing by the Holy Spirit, whom he poured out on us richly, through Jesus Christ our Savior; that being justified by his grace, we might be made heirs according to the hope of eternal life.\" \"This saying is faithful, and concerning these things I desire that you affirm confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men; but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain. Avoid a factious man after a first and second warning, knowing that such a one is perverted and sins, being self-condemned.\" Paul writes: \"When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there. Send Zenas, the lawyer, and Apollos on their journey speedily, that nothing may be lacking for them. Let our people also learn to maintain good works for necessary uses, that they may not be unfruitful. All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.\"",
+  "whySettingMatters": "Crete was part of the Roman provincial order, and Christians there were not exempt from its authorities; Paul's instruction to be \"in subjection to rulers\" and gentle toward everyone appears also in Romans 13:1-7 and 1 Peter 2:13-17. The reason given is not that rulers are always good but that believers were once in the same condition (3:3) and have received mercy. Verses 4-7 are another summary of the gospel, possibly a hymn or creed, and one of the strongest statements in the New Testament that salvation is by mercy and not works. The \"washing of regeneration\" (loutron palingenesias) has been read as a reference to baptism, or as an image of the new birth worked by the Spirit, or as both together; the letter does not use the word baptism. The Trinity is present in 3:4-6 (God our Savior, the Holy Spirit, Jesus Christ our Savior). \"Avoid a factious man after a first and second warning\" gives a graded process for disputes (compare Matthew 18:15-17), and the Greek word for \"factious\" is the root of \"heretic\" but here simply means a divisive person. Nicopolis, \"city of victory,\" was founded by Augustus after his victory at Actium in 31 BC and became a major city on the west coast of Greece; there are several cities of that name, and the letter does not say which. Artemas is not otherwise known; Tychicus is a trusted messenger (Ephesians 6:21; Colossians 4:7; 2 Timothy 4:12). Zenas \"the lawyer\" could be an expert in Roman law or Jewish law, and Apollos is the teacher from Alexandria who worked at Ephesus and Corinth (Acts 18:24-28; 1 Corinthians 3:6). The closing again uses the plural \"you all.\"",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Plans to winter at Nicopolis and asks Titus to join him."
+    },
+    {
+      "id": "titus",
+      "note": "To remind the church of good conduct and to come to Paul."
+    },
+    {
+      "id": "the-opponents",
+      "note": "Factious people to be warned twice and then avoided."
+    },
+    {
+      "id": "artemas-and-tychicus",
+      "note": "One of whom Paul will send."
+    },
+    {
+      "id": "zenas-and-apollos",
+      "note": "To be helped on their journey."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "Our Savior, through whom the Spirit was poured out."
+    }
+  ],
+  "questions": [
+    "Paul tells believers to show \"all humility toward all men,\" then reminds them that they were once foolish and hateful. How does remembering your own past change how you treat others?",
+    "\"Not by works of righteousness which we did ourselves, but according to his mercy.\" What does that settle, and what does it leave for \"good works\"?",
+    "Titus is told to warn a divisive person twice and then to avoid them. What would this look like in a healthy church?",
+    "Paul ends with practical details: who is coming, who is going, what they need. What does this tell you about how the faith was spread?"
+  ],
+  "words": [
+    {
+      "id": "hypotasso",
+      "note": "\"Be in subjection to rulers\" (3:1)."
+    },
+    {
+      "id": "arche",
+      "note": "\"To rulers and to authorities\" (3:1)."
+    },
+    {
+      "id": "exousia",
+      "note": "\"To rulers and to authorities\" (3:1)."
+    },
+    {
+      "id": "peitharcheo",
+      "note": "\"To be obedient\" (3:1)."
+    },
+    {
+      "id": "hetoimos",
+      "note": "\"To be ready for every good work\" (3:1)."
+    },
+    {
+      "id": "blasphemeo",
+      "note": "\"To speak evil of no one\" (3:2)."
+    },
+    {
+      "id": "amachos",
+      "note": "\"Not to be contentious\" (3:2)."
+    },
+    {
+      "id": "epieikes",
+      "note": "\"To be gentle\" (3:2)."
+    },
+    {
+      "id": "praytes",
+      "note": "\"Showing all humility toward all men\" (3:2). The Greek word is meekness."
+    },
+    {
+      "id": "anoetos",
+      "note": "\"We were also once foolish\" (3:3)."
+    },
+    {
+      "id": "apeithes",
+      "note": "\"Disobedient\" (3:3)."
+    },
+    {
+      "id": "planao",
+      "note": "\"Deceived\" (3:3)."
+    },
+    {
+      "id": "douleuo",
+      "note": "\"Serving various lusts and pleasures\" (3:3)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"Various lusts\" (3:3)."
+    },
+    {
+      "id": "poikilos",
+      "note": "\"Various lusts\" (3:3)."
+    },
+    {
+      "id": "hedone",
+      "note": "\"And pleasures\" (3:3)."
+    },
+    {
+      "id": "kakia",
+      "note": "\"Living in malice and envy\" (3:3)."
+    },
+    {
+      "id": "phthonos",
+      "note": "\"And envy\" (3:3)."
+    },
+    {
+      "id": "diago",
+      "note": "\"Living in malice and envy\" (3:3). The word appears only here in this sense."
+    },
+    {
+      "id": "stygetos",
+      "note": "\"Hateful\" (3:3). The word appears only here."
+    },
+    {
+      "id": "miseo",
+      "note": "\"And hating one another\" (3:3)."
+    },
+    {
+      "id": "chrestotes",
+      "note": "\"The kindness of God our Savior\" (3:4)."
+    },
+    {
+      "id": "philanthropia",
+      "note": "\"And his love toward mankind\" (3:4)."
+    },
+    {
+      "id": "epiphaino",
+      "note": "\"Appeared\" (3:4)."
+    },
+    {
+      "id": "soter",
+      "note": "\"God our Savior\" (3:4) and \"Jesus Christ our Savior\" (3:6)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"By works of righteousness\" (3:5) and \"good works\" (3:8, 3:14)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"By works of righteousness\" (3:5)."
+    },
+    {
+      "id": "eleos",
+      "note": "\"According to his mercy\" (3:5)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"He saved us\" (3:5)."
+    },
+    {
+      "id": "loutron",
+      "note": "\"Through the washing of regeneration\" (3:5)."
+    },
+    {
+      "id": "palingenesia",
+      "note": "\"Of regeneration\" (3:5)."
+    },
+    {
+      "id": "anakainosis",
+      "note": "\"And renewing by the Holy Spirit\" (3:5)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"By the Holy Spirit\" (3:5)."
+    },
+    {
+      "id": "ekcheo",
+      "note": "\"Whom he poured out on us richly\" (3:6)."
+    },
+    {
+      "id": "plousios_adv",
+      "note": "\"Richly\" (3:6)."
+    },
+    {
+      "id": "dikaioo",
+      "note": "\"Being justified by his grace\" (3:7)."
+    },
+    {
+      "id": "charis",
+      "note": "\"By his grace\" (3:7) and \"Grace be with you all\" (3:15)."
+    },
+    {
+      "id": "kleronomos",
+      "note": "\"We might be made heirs\" (3:7)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"According to the hope of eternal life\" (3:7)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"Eternal life\" (3:7)."
+    },
+    {
+      "id": "pistos",
+      "note": "\"This saying is faithful\" (3:8)."
+    },
+    {
+      "id": "diabebaioomai",
+      "note": "\"That you affirm confidently\" (3:8)."
+    },
+    {
+      "id": "pisteuo",
+      "note": "\"Those who have believed God\" (3:8)."
+    },
+    {
+      "id": "phrontizo",
+      "note": "\"May be careful to maintain good works\" (3:8). The word appears only here."
+    },
+    {
+      "id": "proistemi",
+      "note": "\"To maintain good works\" (3:8, 3:14)."
+    },
+    {
+      "id": "kalos",
+      "note": "\"Good works\" (3:8, 3:14) and \"these things are good\" (3:8)."
+    },
+    {
+      "id": "ophelimos",
+      "note": "\"Profitable to men\" (3:8)."
+    },
+    {
+      "id": "zetesis",
+      "note": "\"Foolish questionings\" (3:9)."
+    },
+    {
+      "id": "genealogia",
+      "note": "\"Genealogies\" (3:9)."
+    },
+    {
+      "id": "eris",
+      "note": "\"Strife\" (3:9)."
+    },
+    {
+      "id": "mache",
+      "note": "\"And disputes about the law\" (3:9)."
+    },
+    {
+      "id": "nomikos",
+      "note": "\"Disputes about the law\" (3:9) and \"Zenas, the lawyer\" (3:13)."
+    },
+    {
+      "id": "anopheles",
+      "note": "\"They are unprofitable\" (3:9). The word means useless."
+    },
+    {
+      "id": "mataios",
+      "note": "\"And vain\" (3:9)."
+    },
+    {
+      "id": "hairetikos",
+      "note": "\"Avoid a factious man\" (3:10). The word appears only here."
+    },
+    {
+      "id": "nouthesia",
+      "note": "\"After a first and second warning\" (3:10)."
+    },
+    {
+      "id": "ekstrepho",
+      "note": "\"Is perverted\" (3:11). The word appears only here."
+    },
+    {
+      "id": "hamartano",
+      "note": "\"And sins\" (3:11)."
+    },
+    {
+      "id": "autokatakritos",
+      "note": "\"Being self-condemned\" (3:11). The word appears only here."
+    },
+    {
+      "id": "paracheimazo",
+      "note": "\"For I have determined to winter there\" (3:12)."
+    },
+    {
+      "id": "propempo",
+      "note": "\"On their journey\" (3:13)."
+    },
+    {
+      "id": "anagkaios",
+      "note": "\"For necessary uses\" (3:14)."
+    },
+    {
+      "id": "akarpos",
+      "note": "\"That they may not be unfruitful\" (3:14)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"All who are with me greet you\" (3:15)."
+    },
+    {
+      "id": "phileo",
+      "note": "\"Greet those who love us in faith\" (3:15)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Romans 13:1-7",
+      "note": "let every soul be in subjection to the higher authorities"
+    },
+    {
+      "ref": "John 3:3-8",
+      "note": "unless one is born anew, he can't see the Kingdom of God"
+    },
+    {
+      "ref": "Matthew 18:15-17",
+      "note": "if your brother sins against you, go, show him his fault"
+    },
+    {
+      "ref": "Acts 18:24-28",
+      "note": "a Jew named Apollos, an Alexandrian by race... mighty in the Scriptures"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

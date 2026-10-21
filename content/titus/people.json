@@ -1,0 +1,47 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle (in the traditional view), writing as \"a servant of God, and an apostle of Jesus Christ\" (1:1)."
+  },
+  {
+    "id": "titus",
+    "name": "Titus",
+    "note": "Paul's \"true child according to a common faith\" (1:4), left on Crete to set things in order and appoint elders."
+  },
+  {
+    "id": "the-cretans",
+    "name": "The Cretans",
+    "note": "The people of Crete, described by one of their own as \"always liars, evil beasts, and idle gluttons\" (1:12); the churches were among them."
+  },
+  {
+    "id": "the-opponents",
+    "name": "The opponents",
+    "note": "Unruly men, \"vain talkers and deceivers, especially those of the circumcision,\" who overthrow whole houses for dishonest gain (1:10-16; 3:9-11)."
+  },
+  {
+    "id": "the-elders",
+    "name": "Elders (overseers)",
+    "note": "Leaders Titus is to appoint in every city, who must be blameless (1:5-9)."
+  },
+  {
+    "id": "epimenides",
+    "name": "The Cretan prophet",
+    "note": "\"A prophet of their own\" quoted in 1:12; ancient writers named him Epimenides, though the letter does not."
+  },
+  {
+    "id": "artemas-and-tychicus",
+    "name": "Artemas and Tychicus",
+    "note": "One of whom Paul will send to Titus (3:12); Tychicus appears in Acts 20:4, Ephesians 6:21, and Colossians 4:7."
+  },
+  {
+    "id": "zenas-and-apollos",
+    "name": "Zenas and Apollos",
+    "note": "Zenas the lawyer and Apollos, to be sent on their journey (3:13)."
+  },
+  {
+    "id": "the-lord-jesus",
+    "name": "Jesus Christ our Savior",
+    "note": "Called \"our great God and Savior\" (2:13), who gave himself to redeem us (2:14)."
+  }
+]

@@ -1,0 +1,326 @@
+{
+  "sceneHappening": "Titus is left on Crete to appoint elders and silence those who teach for gain",
+  "summary": "Paul, \"a servant of God, and an apostle of Jesus Christ, according to the faith of God's chosen ones, and the knowledge of the truth which is according to godliness, in hope of eternal life, which God, who can't lie, promised before time began; but in his own time revealed his word in the message with which I was entrusted,\" writes to Titus, \"my true child according to a common faith,\" with grace, mercy, and peace. \"I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you.\" An elder must be \"blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior,\" and \"the overseer must be blameless, as God's steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain; but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled, holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.\" For \"there are also many unruly men, vain talkers and deceivers, especially those of the circumcision, whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain's sake.\" \"One of them, a prophet of their own, said, 'Cretans are always liars, evil beasts, and idle gluttons.' This testimony is true.\" So Titus is to reprove them sharply, \"that they may be sound in the faith, not paying attention to Jewish fables and commandments of men who turn away from the truth. To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled. They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.\"",
+  "whySettingMatters": "Crete was a large island with many cities and, by Paul's time, several Jewish communities; Acts 2:11 lists Cretans among those present at Pentecost, so the gospel may have reached the island early. The letter's setting is not recorded in Acts: it says Paul and Titus were on Crete and Paul left Titus there (1:5), which fits better after the end of Acts than before. The opening sentence is among the longest in Paul's letters and is a compact summary of his message: faith, knowledge, hope of eternal life, God who cannot lie, and the message entrusted to him. The qualities of elders and overseers (1:6-9) closely follow 1 Timothy 3:1-7, and here the two words are used for the same office (\"elder\" in 1:5-6, \"overseer\" in 1:7). \"Husband of one wife\" is read in different ways, as in 1 Timothy 3:2. The \"Cretans are always liars\" line is a quotation from an ancient poet, traditionally named as Epimenides of Knossos; Greek writers used \"to Cretanize\" to mean \"to lie.\" Paul says it is true of the opponents Titus is facing, and the harsh tone is aimed at their teaching and greed, not at the Cretan people as such, since Titus is also to appoint Cretan elders. \"Those of the circumcision\" suggests Jewish Christian teachers who stressed rules and myths (1:14); the teaching is not described in detail. The maxim \"to the pure all things are pure\" (1:15) echoes Jesus' teaching on what defiles a person (Mark 7:15, 7:18-23).",
+  "people": [
+    {
+      "id": "paul",
+      "note": "A servant of God and apostle, who left Titus on Crete."
+    },
+    {
+      "id": "titus",
+      "note": "Told to set things in order and appoint elders."
+    },
+    {
+      "id": "the-elders",
+      "note": "To be appointed in every city; blameless, hospitable, and sound in teaching."
+    },
+    {
+      "id": "the-opponents",
+      "note": "Unruly, deceiving, and teaching for dishonest gain."
+    },
+    {
+      "id": "epimenides",
+      "note": "The Cretan prophet whose saying Paul quotes."
+    },
+    {
+      "id": "the-cretans",
+      "note": "Described by their own prophet as always liars, evil beasts, and idle gluttons."
+    }
+  ],
+  "questions": [
+    "Paul's opening begins with \"the knowledge of the truth which is according to godliness.\" How do truth and godliness belong together here?",
+    "Most of the qualities for elders are about character, with only one about teaching. What do you make of that balance?",
+    "Paul quotes a Cretan proverb and says, \"This testimony is true.\" How should we read a harsh judgment on a whole people that is used for correction and not for scorn?",
+    "\"They profess that they know God, but by their deeds they deny him.\" What does the gap between profession and deeds look like in practice?"
+  ],
+  "words": [
+    {
+      "id": "doulos",
+      "note": "\"A servant of God\" (1:1)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"An apostle of Jesus Christ\" (1:1)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"According to the faith of God's chosen ones\" (1:1) and \"a common faith\" (1:4)."
+    },
+    {
+      "id": "eklektos",
+      "note": "\"God's chosen ones\" (1:1)."
+    },
+    {
+      "id": "epignosis",
+      "note": "\"The knowledge of the truth\" (1:1)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"The knowledge of the truth\" (1:1, 1:14)."
+    },
+    {
+      "id": "eusebeia",
+      "note": "\"Which is according to godliness\" (1:1)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"In hope of eternal life\" (1:2)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"Eternal life\" (1:2)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"Eternal life\" (1:2)."
+    },
+    {
+      "id": "epangello",
+      "note": "\"Which God... promised before time began\" (1:2)."
+    },
+    {
+      "id": "apseudes",
+      "note": "\"Who can't lie\" (1:2). The word appears only here."
+    },
+    {
+      "id": "chronos",
+      "note": "\"Before time began\" (1:2)."
+    },
+    {
+      "id": "kairos",
+      "note": "\"In his own time revealed his word\" (1:3)."
+    },
+    {
+      "id": "logos",
+      "note": "\"Revealed his word\" (1:3) and \"the faithful word\" (1:9)."
+    },
+    {
+      "id": "kerygma",
+      "note": "\"In the message with which I was entrusted\" (1:3)."
+    },
+    {
+      "id": "epitage",
+      "note": "\"According to the commandment of God our Savior\" (1:3)."
+    },
+    {
+      "id": "soter",
+      "note": "\"God our Savior\" (1:3-4)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace, mercy, and peace\" (1:4)."
+    },
+    {
+      "id": "epidiorthoo",
+      "note": "\"That you would set in order the things that were lacking\" (1:5). The word appears only here."
+    },
+    {
+      "id": "kathistemi",
+      "note": "\"And appoint elders in every city\" (1:5)."
+    },
+    {
+      "id": "presbyteros",
+      "note": "\"Appoint elders in every city\" (1:5)."
+    },
+    {
+      "id": "diatasso",
+      "note": "\"As I directed you\" (1:5)."
+    },
+    {
+      "id": "anegkletos",
+      "note": "\"If anyone is blameless\" (1:6, 1:7)."
+    },
+    {
+      "id": "anypotaktos",
+      "note": "\"Loose or unruly behavior\" (1:6) and \"many unruly men\" (1:10)."
+    },
+    {
+      "id": "episkopos",
+      "note": "\"For the overseer must be blameless\" (1:7)."
+    },
+    {
+      "id": "oikonomos",
+      "note": "\"As God's steward\" (1:7)."
+    },
+    {
+      "id": "authades",
+      "note": "\"Not self-pleasing\" (1:7)."
+    },
+    {
+      "id": "orgilos",
+      "note": "\"Not easily angered\" (1:7). The word appears only here."
+    },
+    {
+      "id": "paroinos",
+      "note": "\"Not given to wine\" (1:7)."
+    },
+    {
+      "id": "plektes",
+      "note": "\"Not violent\" (1:7)."
+    },
+    {
+      "id": "aischrokerdes",
+      "note": "\"Not greedy for dishonest gain\" (1:7, 1:11)."
+    },
+    {
+      "id": "philoxenos",
+      "note": "\"But given to hospitality\" (1:8)."
+    },
+    {
+      "id": "philagathos",
+      "note": "\"A lover of good\" (1:8). The word appears only here."
+    },
+    {
+      "id": "sophron",
+      "note": "\"Sober minded\" (1:8)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"Fair\" (1:8)."
+    },
+    {
+      "id": "hosios",
+      "note": "\"Holy\" (1:8)."
+    },
+    {
+      "id": "egkrates",
+      "note": "\"Self-controlled\" (1:8). The word appears only here."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"The teaching\" (1:9)."
+    },
+    {
+      "id": "hygiaino",
+      "note": "\"The sound doctrine\" (1:9) and \"sound in the faith\" (1:13)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "\"That he may be able to exhort\" (1:9)."
+    },
+    {
+      "id": "elencho",
+      "note": "\"And to convict those who contradict him\" (1:9, 1:13)."
+    },
+    {
+      "id": "antilego",
+      "note": "\"Those who contradict him\" (1:9)."
+    },
+    {
+      "id": "mataiologos",
+      "note": "\"Vain talkers\" (1:10). The word appears only here."
+    },
+    {
+      "id": "phrenapates",
+      "note": "\"And deceivers\" (1:10). The word appears only here."
+    },
+    {
+      "id": "peritome",
+      "note": "\"Especially those of the circumcision\" (1:10)."
+    },
+    {
+      "id": "epistomizo",
+      "note": "\"Whose mouths must be stopped\" (1:11). The word appears only here."
+    },
+    {
+      "id": "oikos",
+      "note": "\"Men who overthrow whole houses\" (1:11)."
+    },
+    {
+      "id": "anatrepho",
+      "note": "\"Who overthrow whole houses\" (1:11)."
+    },
+    {
+      "id": "kerdos",
+      "note": "\"For dishonest gain's sake\" (1:11)."
+    },
+    {
+      "id": "kres",
+      "note": "\"Cretans are always liars\" (1:12)."
+    },
+    {
+      "id": "therion",
+      "note": "\"Evil beasts\" (1:12)."
+    },
+    {
+      "id": "gaster",
+      "note": "\"And idle gluttons\" (1:12). The Greek says \"lazy bellies.\""
+    },
+    {
+      "id": "argos",
+      "note": "\"Idle gluttons\" (1:12)."
+    },
+    {
+      "id": "martyria",
+      "note": "\"This testimony is true\" (1:13)."
+    },
+    {
+      "id": "mythos",
+      "note": "\"Jewish fables\" (1:14)."
+    },
+    {
+      "id": "entole",
+      "note": "\"And commandments of men\" (1:14)."
+    },
+    {
+      "id": "apostrepho",
+      "note": "\"Who turn away from the truth\" (1:14)."
+    },
+    {
+      "id": "kathoros",
+      "note": "\"To the pure, all things are pure\" (1:15)."
+    },
+    {
+      "id": "miaino",
+      "note": "\"To those who are defiled\" (1:15)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"Both their mind and their conscience are defiled\" (1:15)."
+    },
+    {
+      "id": "homologeo",
+      "note": "\"They profess that they know God\" (1:16)."
+    },
+    {
+      "id": "arneomai",
+      "note": "\"By their deeds they deny him\" (1:16)."
+    },
+    {
+      "id": "bdelyktos",
+      "note": "\"Being abominable\" (1:16). The word appears only here."
+    },
+    {
+      "id": "adokimos",
+      "note": "\"Unfit for any good work\" (1:16)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"By their deeds\" (1:16) and \"any good work\" (1:16)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "1 Timothy 3:1-7",
+      "note": "if a man seeks the office of an overseer, he desires a good work"
+    },
+    {
+      "ref": "Acts 2:5-11",
+      "note": "Cretans and Arabians, we hear them speaking in our languages the mighty works of God"
+    },
+    {
+      "ref": "Mark 7:14-23",
+      "note": "there is nothing from outside of the man that can defile him... that is what defiles the man"
+    },
+    {
+      "ref": "Acts 20:17-28",
+      "note": "the Holy Spirit has made you overseers, to shepherd the assembly of the Lord"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "sceneHappening": "A way of life that fits sound doctrine for every group, grounded in the grace of God that has appeared",
+  "summary": "\"But say the things which fit sound doctrine, that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance: and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good, that they may train the young wives to love their husbands, to love their children, to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God's word may not be blasphemed. Likewise, exhort the younger men to be sober minded. In all things be showing yourself an example of good works. In your teaching, be showing integrity, seriousness, incorruptibility, and soundness of speech that can't be condemned, that he who opposes you may be ashamed, having no evil thing to say about us.\" Servants are to be \"in subjection to their own masters and to be well-pleasing in all things, not contradicting, not stealing, but showing all good fidelity, that they may adorn the doctrine of God, our Savior, in all things.\" The reason follows: \"For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age; looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ, who gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works. Say these things and exhort and reprove with all authority. Let no one despise you.\"",
+  "whySettingMatters": "This chapter gives instructions for older men, older women, younger women, younger men, and slaves, in the pattern of ancient household codes (compare Ephesians 5:22-6:9 and Colossians 3:18-4:1), and it grounds each in the same two reasons: so that God's word \"may not be blasphemed\" and so that the teaching may be made attractive (\"adorn\"). The picture of church life is of the church as a household watched by outsiders. Some of the details are culturally tied, such as \"workers at home\" and \"in subjection to their own husbands,\" which readers have understood both as lasting norms and as the way a small, suspected movement avoided giving needless offense; both views should be read with the principle in the text, that the way of life should not discredit the gospel. The instruction to slaves, as in 1 Timothy 6:1-2, speaks within a system the letter does not abolish; it is read alongside Philemon and Paul's condemnation of slave-traders (1 Timothy 1:10). The center of the chapter is 2:11-14, one of the most important summaries of the gospel in the Pastoral letters: grace has \"appeared\" (like an epiphany), brings salvation to all, and also trains us to live well until Christ appears. The words \"our great God and Savior, Jesus Christ\" in 2:13 can be translated in two ways: as one person (Jesus is called God) or as two (\"the great God and our Savior Jesus Christ\"); most commentators favor the first, but it has been debated. \"A people for his own possession\" echoes Israel's description in Exodus 19:5 and Deuteronomy 7:6, applied here to the church.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Instructs Titus on what to teach."
+    },
+    {
+      "id": "titus",
+      "note": "To teach, to model good works, and to speak with authority."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "\"Our great God and Savior\" who gave himself to redeem and purify a people."
+    },
+    {
+      "id": "the-opponents",
+      "note": "Those who oppose and should have nothing evil to say."
+    }
+  ],
+  "questions": [
+    "Each group in the church gets a short list of ways to live. What do all the lists have in common?",
+    "Paul explains the \"why\" as keeping God's word from being blasphemed. How does the way a church lives affect how outsiders hear its message?",
+    "\"The grace of God has appeared... instructing us.\" What does it mean that grace teaches as well as saves?",
+    "\"Zealous for good works.\" How is that different from earning salvation by good works?"
+  ],
+  "words": [
+    {
+      "id": "hygiaino",
+      "note": "\"Sound doctrine\" (2:1-2) and \"sound in faith\" (2:2)."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"Sound doctrine\" (2:1), \"in your teaching\" (2:7), and \"the doctrine of God\" (2:10)."
+    },
+    {
+      "id": "prepo",
+      "note": "\"The things which fit sound doctrine\" (2:1)."
+    },
+    {
+      "id": "presbytes",
+      "note": "\"Older men\" (2:2)."
+    },
+    {
+      "id": "nephaleos",
+      "note": "\"Should be temperate\" (2:2)."
+    },
+    {
+      "id": "semnos",
+      "note": "\"Sensible\" (2:2) in some translations."
+    },
+    {
+      "id": "sophron",
+      "note": "\"Sober minded\" (2:2, 2:5)."
+    },
+    {
+      "id": "agape",
+      "note": "\"In love\" (2:2)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"And in perseverance\" (2:2)."
+    },
+    {
+      "id": "presbytis",
+      "note": "\"Older women\" (2:3). The word appears only here."
+    },
+    {
+      "id": "katastema",
+      "note": "\"Reverent in behavior\" (2:3). The word appears only here."
+    },
+    {
+      "id": "hieroprepes",
+      "note": "\"Reverent\" (2:3). The word appears only here."
+    },
+    {
+      "id": "diabolos",
+      "note": "\"Not slanderers\" (2:3)."
+    },
+    {
+      "id": "douloo",
+      "note": "\"Nor enslaved to much wine\" (2:3)."
+    },
+    {
+      "id": "oinos",
+      "note": "\"To much wine\" (2:3)."
+    },
+    {
+      "id": "kalodidaskalos",
+      "note": "\"Teachers of that which is good\" (2:3). The word appears only here."
+    },
+    {
+      "id": "sophronizo",
+      "note": "\"That they may train the young wives\" (2:4). The word appears only here."
+    },
+    {
+      "id": "philandros",
+      "note": "\"To love their husbands\" (2:4). The word appears only here."
+    },
+    {
+      "id": "philoteknos",
+      "note": "\"To love their children\" (2:4). The word appears only here."
+    },
+    {
+      "id": "hagnos",
+      "note": "\"Chaste\" (2:5)."
+    },
+    {
+      "id": "oikourgos",
+      "note": "\"Workers at home\" (2:5). The word appears only here, and some manuscripts read \"guardians of the home.\""
+    },
+    {
+      "id": "agathos",
+      "note": "\"Kind\" (2:5, \"good\")."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"Being in subjection to their own husbands\" (2:5) and \"in subjection to their own masters\" (2:9)."
+    },
+    {
+      "id": "blasphemeo",
+      "note": "\"That God's word may not be blasphemed\" (2:5)."
+    },
+    {
+      "id": "sophroneo",
+      "note": "\"To be sober minded\" (2:6)."
+    },
+    {
+      "id": "typos",
+      "note": "\"An example of good works\" (2:7)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"Good works\" (2:7, 2:14)."
+    },
+    {
+      "id": "adiaphthoria",
+      "note": "\"Integrity\" (2:7). The word appears only here."
+    },
+    {
+      "id": "semnotes",
+      "note": "\"Seriousness\" (2:7)."
+    },
+    {
+      "id": "akatagnostos",
+      "note": "\"Soundness of speech that can't be condemned\" (2:8). The word appears only here."
+    },
+    {
+      "id": "enantios",
+      "note": "\"That he who opposes you\" (2:8)."
+    },
+    {
+      "id": "phaulos",
+      "note": "\"Having no evil thing to say about us\" (2:8)."
+    },
+    {
+      "id": "despotes",
+      "note": "\"In subjection to their own masters\" (2:9)."
+    },
+    {
+      "id": "euarestos",
+      "note": "\"To be well-pleasing in all things\" (2:9)."
+    },
+    {
+      "id": "nosphizo",
+      "note": "\"Not stealing\" (2:10). The word means to pocket, to embezzle."
+    },
+    {
+      "id": "kosmeo",
+      "note": "\"That they may adorn the doctrine of God\" (2:10)."
+    },
+    {
+      "id": "soter",
+      "note": "\"The doctrine of God, our Savior\" (2:10) and \"our great God and Savior\" (2:13)."
+    },
+    {
+      "id": "charis",
+      "note": "\"For the grace of God has appeared\" (2:11)."
+    },
+    {
+      "id": "epiphaino",
+      "note": "\"Has appeared, bringing salvation to all men\" (2:11)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"Bringing salvation to all men\" (2:11)."
+    },
+    {
+      "id": "paideuo",
+      "note": "\"Instructing us\" (2:12)."
+    },
+    {
+      "id": "arneomai",
+      "note": "\"Denying ungodliness and worldly lusts\" (2:12)."
+    },
+    {
+      "id": "asebeia",
+      "note": "\"Denying ungodliness\" (2:12)."
+    },
+    {
+      "id": "kosmikos",
+      "note": "\"And worldly lusts\" (2:12)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"Worldly lusts\" (2:12)."
+    },
+    {
+      "id": "sophronos",
+      "note": "\"We would live soberly\" (2:12)."
+    },
+    {
+      "id": "dikaios_adv",
+      "note": "\"Righteously\" (2:12)."
+    },
+    {
+      "id": "euseboos",
+      "note": "\"And godly\" (2:12)."
+    },
+    {
+      "id": "aion",
+      "note": "\"In this present age\" (2:12)."
+    },
+    {
+      "id": "prosdechomai",
+      "note": "\"Looking for the blessed hope\" (2:13)."
+    },
+    {
+      "id": "makarios",
+      "note": "\"The blessed hope\" (2:13)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"The blessed hope\" (2:13)."
+    },
+    {
+      "id": "epiphaneia",
+      "note": "\"And appearing of the glory of our great God\" (2:13)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"The glory of our great God\" (2:13)."
+    },
+    {
+      "id": "megas",
+      "note": "\"Our great God and Savior\" (2:13)."
+    },
+    {
+      "id": "lytroo",
+      "note": "\"That he might redeem us from all iniquity\" (2:14)."
+    },
+    {
+      "id": "anomia",
+      "note": "\"From all iniquity\" (2:14)."
+    },
+    {
+      "id": "katharizo",
+      "note": "\"And purify for himself a people\" (2:14)."
+    },
+    {
+      "id": "laos",
+      "note": "\"A people for his own possession\" (2:14)."
+    },
+    {
+      "id": "periousios",
+      "note": "\"For his own possession\" (2:14). The word appears only here."
+    },
+    {
+      "id": "zelotes",
+      "note": "\"Zealous for good works\" (2:14)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "\"Exhort the younger men\" (2:6) and \"exhort and reprove\" (2:15)."
+    },
+    {
+      "id": "elencho",
+      "note": "\"And reprove with all authority\" (2:15)."
+    },
+    {
+      "id": "epitage",
+      "note": "\"With all authority\" (2:15)."
+    },
+    {
+      "id": "periphroneo",
+      "note": "\"Let no one despise you\" (2:15). The word appears only here."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Ephesians 5:22-6:9",
+      "note": "another household code: wives and husbands, children and parents, slaves and masters"
+    },
+    {
+      "ref": "Exodus 19:5",
+      "note": "you shall be my own possession from among all peoples"
+    },
+    {
+      "ref": "Titus 3:4-7",
+      "note": "a second summary of the gospel in the same letter"
+    },
+    {
+      "ref": "Romans 6:1-14",
+      "note": "shall we continue in sin, that grace may abound? May it never be!"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
