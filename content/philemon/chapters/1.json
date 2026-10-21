@@ -1,0 +1,294 @@
+{
+  "sceneHappening": "Paul sends Onesimus back to Philemon and asks him to receive him as a beloved brother",
+  "summary": "Paul, \"a prisoner of Christ Jesus, and Timothy our brother,\" write to Philemon, \"our beloved fellow worker, to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house,\" with grace and peace. Paul thanks his God always, \"making mention of you in my prayers, hearing of your love and of the faith which you have toward the Lord Jesus, and toward all the saints,\" and prays \"that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus. For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.\" \"Therefore though I have all boldness in Christ to command you that which is appropriate, yet for love's sake I rather beg, being such a one as Paul, the aged, but also a prisoner of Jesus Christ. I beg you for my child, whom I have become the father of in my chains, Onesimus, who once was useless to you, but now is useful to you and to me. I am sending him back. Therefore receive him, that is, my own heart, whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News. But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will. For perhaps he was therefore separated from you for a while, that you would have him forever, no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much rather to you, both in the flesh and in the Lord.\" \"If then you count me a partner, receive him as you would receive me. But if he has wronged you at all or owes you anything, put that to my account. I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides). Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord. Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say.\" Paul asks Philemon to \"prepare a guest room for me, for I hope that through your prayers I will be restored to you.\" Epaphras, \"my fellow prisoner in Christ Jesus,\" greets him, as do Mark, Aristarchus, Demas, and Luke, \"my fellow workers.\" \"The grace of our Lord Jesus Christ be with your spirit. Amen.\"",
+  "whySettingMatters": "Slavery was a normal part of the Roman world, and slaves made up a large share of the population of cities. A slave who left his owner without permission was a runaway, and the law could punish him severely. The usual reading of this letter is that Onesimus ran away (perhaps after wronging Philemon, as the talk of a debt suggests), met Paul in prison, and became a believer; Paul now sends him back. Another reading is that Onesimus did not simply run but went to Paul as a friend of the household, hoping that Paul would intercede, which Roman law allowed. The letter does not say, and Paul writes carefully: he mentions Onesimus by name only in 1:10, after the thanks and the appeal to love. Onesimus's name means \"useful,\" and Paul plays on it in 1:11, \"once useless... now useful.\" Paul does not say outright that Philemon must free Onesimus; he says \"more than a slave, a beloved brother\" (1:16), asks Philemon to receive him as he would receive Paul, and says he is confident that Philemon \"will do even beyond what I say\" (1:21). Whether that means freedom, or sending him back to serve Paul, or something else has been debated for centuries, and the letter leaves the matter with Philemon. It is also true that the letter does not call slavery wrong, and some have used it to defend slavery; most readers have seen in it the beginning of the thought that, in Christ, the master and the slave are equal, a thought Paul states in Galatians 3:28 and Colossians 3:11. Paul takes on a legal and financial responsibility (1:18-19): a letter signed in his own hand worked like a promissory note. The letter is sent with Colossians (Colossians 4:7-9), where Onesimus is called \"the faithful and beloved brother, who is one of you.\"",
+  "people": [
+    {
+      "id": "paul",
+      "note": "A prisoner and \"the aged,\" who appeals to love, offers to repay any debt, and hopes to visit."
+    },
+    {
+      "id": "timothy",
+      "note": "Named with Paul in the greeting."
+    },
+    {
+      "id": "philemon",
+      "note": "The believer to whom Paul writes, whose love has refreshed the saints."
+    },
+    {
+      "id": "apphia",
+      "note": "Addressed in the greeting."
+    },
+    {
+      "id": "archippus",
+      "note": "Paul's \"fellow soldier,\" addressed in the greeting."
+    },
+    {
+      "id": "onesimus",
+      "note": "The slave Paul sends back, now a beloved brother."
+    },
+    {
+      "id": "epaphras",
+      "note": "Paul's fellow prisoner who sends greetings."
+    },
+    {
+      "id": "mark-aristarchus-demas-luke",
+      "note": "Fellow workers who send greetings."
+    }
+  ],
+  "questions": [
+    "Paul says he could command but prefers to appeal \"for love's sake.\" What does it say about his understanding of authority that he chooses persuasion?",
+    "\"No longer as a slave, but more than a slave, a beloved brother.\" What do you think Paul is asking Philemon to do, and how do you know?",
+    "Paul offers to pay any debt \"with my own hand.\" What does it mean to stand surety for someone else, and what did it cost Paul?",
+    "The letter was read aloud to the whole church in Philemon's house. How would that change the way Philemon answered?"
+  ],
+  "words": [
+    {
+      "id": "desmios",
+      "note": "\"A prisoner of Christ Jesus\" (1:1, 1:9)."
+    },
+    {
+      "id": "adelphos",
+      "note": "\"Timothy our brother\" (1:1), \"a beloved brother\" (1:16), and \"yes, brother\" (1:20)."
+    },
+    {
+      "id": "synergos",
+      "note": "\"Our beloved fellow worker\" (1:1) and \"my fellow workers\" (1:24)."
+    },
+    {
+      "id": "agapetos",
+      "note": "\"Our beloved fellow worker\" (1:1), \"the beloved Apphia\" (1:2), and \"a beloved brother\" (1:16)."
+    },
+    {
+      "id": "systratiotes",
+      "note": "\"Archippus our fellow soldier\" (1:2)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"The assembly in your house\" (1:2)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace to you and peace\" (1:3, 1:25)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Grace to you and peace\" (1:3)."
+    },
+    {
+      "id": "eucharisteo",
+      "note": "\"I thank my God always\" (1:4)."
+    },
+    {
+      "id": "mneia",
+      "note": "\"Making mention of you in my prayers\" (1:4)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"In my prayers\" (1:4, 1:22)."
+    },
+    {
+      "id": "agape",
+      "note": "\"Hearing of your love\" (1:5, 1:7, 1:9)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"The faith which you have toward the Lord Jesus\" (1:5-6)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"Toward all the saints\" (1:5, 1:7)."
+    },
+    {
+      "id": "koinonia",
+      "note": "\"That the fellowship of your faith\" (1:6)."
+    },
+    {
+      "id": "energes",
+      "note": "\"May become effective\" (1:6)."
+    },
+    {
+      "id": "epignosis",
+      "note": "\"In the knowledge of every good thing\" (1:6)."
+    },
+    {
+      "id": "agathos",
+      "note": "\"Every good thing which is in us\" (1:6) and \"your goodness\" (1:14)."
+    },
+    {
+      "id": "chara",
+      "note": "\"We have much joy and comfort in your love\" (1:7) and \"let me have joy from you\" (1:20)."
+    },
+    {
+      "id": "paraklesis",
+      "note": "\"Much joy and comfort in your love\" (1:7)."
+    },
+    {
+      "id": "anapauo",
+      "note": "\"The hearts of the saints have been refreshed through you\" (1:7, 1:20)."
+    },
+    {
+      "id": "splanchnon",
+      "note": "\"The hearts of the saints\" (1:7), \"my own heart\" (1:12), and \"refresh my heart\" (1:20). The Greek means the inner self, literally the guts."
+    },
+    {
+      "id": "parresia",
+      "note": "\"I have all boldness in Christ\" (1:8)."
+    },
+    {
+      "id": "epitasso",
+      "note": "\"To command you that which is appropriate\" (1:8)."
+    },
+    {
+      "id": "aneko",
+      "note": "\"That which is appropriate\" (1:8)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "\"I rather beg\" (1:9, 1:10)."
+    },
+    {
+      "id": "presbytes",
+      "note": "\"Paul, the aged\" (1:9)."
+    },
+    {
+      "id": "desmos",
+      "note": "\"In my chains\" (1:10, 1:13)."
+    },
+    {
+      "id": "gennao",
+      "note": "\"Whom I have become the father of in my chains\" (1:10)."
+    },
+    {
+      "id": "achrestos",
+      "note": "\"Who once was useless to you\" (1:11). The word appears only here."
+    },
+    {
+      "id": "euchrestos",
+      "note": "\"But now is useful to you and to me\" (1:11)."
+    },
+    {
+      "id": "anapempo",
+      "note": "\"I am sending him back\" (1:12)."
+    },
+    {
+      "id": "proslambano",
+      "note": "\"Therefore receive him\" (1:12, 1:17)."
+    },
+    {
+      "id": "boulomai",
+      "note": "\"Whom I desired to keep with me\" (1:13)."
+    },
+    {
+      "id": "diakoneo",
+      "note": "\"That on your behalf he might serve me\" (1:13)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"In my chains for the Good News\" (1:13)."
+    },
+    {
+      "id": "gnome",
+      "note": "\"Without your consent\" (1:14)."
+    },
+    {
+      "id": "anagke",
+      "note": "\"As of necessity\" (1:14)."
+    },
+    {
+      "id": "hekousios",
+      "note": "\"But of free will\" (1:14). The word appears only here."
+    },
+    {
+      "id": "chorizo",
+      "note": "\"For perhaps he was therefore separated from you for a while\" (1:15)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"That you would have him forever\" (1:15)."
+    },
+    {
+      "id": "doulos",
+      "note": "\"No longer as a slave, but more than a slave\" (1:16)."
+    },
+    {
+      "id": "sarx",
+      "note": "\"Both in the flesh and in the Lord\" (1:16)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"Both in the flesh and in the Lord\" (1:16, 1:20)."
+    },
+    {
+      "id": "koinonos",
+      "note": "\"If then you count me a partner\" (1:17)."
+    },
+    {
+      "id": "adikeo",
+      "note": "\"If he has wronged you at all\" (1:18)."
+    },
+    {
+      "id": "opheilo",
+      "note": "\"Or owes you anything\" (1:18)."
+    },
+    {
+      "id": "ellogeo",
+      "note": "\"Put that to my account\" (1:18). The word appears here and in Romans 5:13."
+    },
+    {
+      "id": "apotino",
+      "note": "\"I will repay it\" (1:19). The word appears only here."
+    },
+    {
+      "id": "prosopheilo",
+      "note": "\"That you owe to me even your own self besides\" (1:19). The word appears only here."
+    },
+    {
+      "id": "oninemi",
+      "note": "\"Let me have joy from you in the Lord\" (1:20). The word appears only here."
+    },
+    {
+      "id": "hypakoe",
+      "note": "\"Having confidence in your obedience\" (1:21)."
+    },
+    {
+      "id": "xenia",
+      "note": "\"Prepare a guest room for me\" (1:22)."
+    },
+    {
+      "id": "elpizo",
+      "note": "\"I hope that through your prayers\" (1:22)."
+    },
+    {
+      "id": "synaichmalotos",
+      "note": "\"Epaphras, my fellow prisoner in Christ Jesus\" (1:23)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"Be with your spirit\" (1:25)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Colossians 4:7-9",
+      "note": "Tychicus and Onesimus, the faithful and beloved brother, who is one of you"
+    },
+    {
+      "ref": "Galatians 3:28",
+      "note": "there is neither Jew nor Greek, there is neither bond nor free... for you are all one in Christ Jesus"
+    },
+    {
+      "ref": "1 Corinthians 7:20-24",
+      "note": "were you a slave when called? Don't let that bother you; but if you can become free, use it"
+    },
+    {
+      "ref": "Matthew 18:21-35",
+      "note": "the servant who was forgiven a great debt"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

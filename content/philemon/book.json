@@ -1,0 +1,48 @@
+{
+  "slug": "philemon",
+  "title": "Philemon",
+  "order": 57,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 1,
+  "tagline": "A short, personal letter from prison: Paul sends a slave back to his master and asks that he be received as a brother.",
+  "author": "Paul",
+  "authorNote": "Paul names himself as writer (1:1, 1:9, 1:19) and signs \"with my own hand\" (1:19). Almost no scholar doubts that Paul wrote it; it is one of the seven letters most widely accepted as his. Timothy is named with him in the greeting.",
+  "authorDebated": false,
+  "audience": "Philemon, a believer and host of a house church, with Apphia, Archippus, and the assembly that meets in his house",
+  "audienceNote": "Philemon is probably the head of a household in Colossae: Onesimus is described as \"one of you\" in Colossians 4:9, and Archippus, named in the greeting, is mentioned in Colossians 4:17. The letter is addressed to Philemon but is read to the whole assembly, since \"you\" in 1:3 and 1:25 is plural.",
+  "setting": "Paul in prison, probably in Rome, perhaps about AD 60 to 62",
+  "settingNote": "Paul calls himself a \"prisoner of Christ Jesus\" (1:1, 1:9) and expects to be released and to visit (1:22). Rome (Acts 28:30) is the traditional place. Some scholars have proposed Ephesus (where a stay in prison is likely but not recorded) or Caesarea (Acts 24-26), mostly because Colossae is a long way from Rome and Paul's expected visit seems close. The letter is sent along with Colossians (Colossians 4:7-9).",
+  "genre": "Letter (a personal appeal)",
+  "genreNote": "The shortest of Paul's letters, and the only one from him on a purely private matter. It follows the usual shape of a letter (greeting, thanks, request, closing greetings) and uses persuasion, not command: Paul says he could order but would rather \"beg for love's sake\" (1:8-9).",
+  "bigIdea": "A runaway or separated slave, Onesimus, has become a believer through Paul in prison. Paul sends him back with this letter, asking Philemon to receive him \"no longer as a slave, but more than a slave, a beloved brother,\" and to put any debt on Paul's account. The gospel changes the way two people stand to each other.",
+  "themes": [
+    "Brothers in Christ, whatever else they are",
+    "Love as the basis of an appeal",
+    "Reconciliation and forgiveness",
+    "Paul's offer to pay a debt",
+    "Freedom and choice (\"of free will\")",
+    "Slavery in the Roman world, and the questions the letter leaves open"
+  ],
+  "mapTitle": "Map: Colossae and Rome",
+  "mapSummary": "Philemon lived in Colossae; Paul writes from prison, traditionally in Rome.",
+  "scene": {
+    "author": "Paul, in prison",
+    "audience": "Philemon and the church in his house at Colossae",
+    "happening": "Onesimus is being sent back with a letter, probably about AD 60 to 62"
+  },
+  "overviewPeople": [
+    "paul",
+    "timothy",
+    "philemon",
+    "apphia",
+    "archippus",
+    "onesimus",
+    "epaphras",
+    "mark-aristarchus-demas-luke"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "colossae",
+      "title": "Where Philemon lives",
+      "short": "Colossae",
+      "refs": "Philemon 1:1-2; Colossians 4:9",
+      "chapter": 1,
+      "direction": "out",
+      "text": "A small town in the Lycus valley where a church met in Philemon's house. Onesimus is from here."
+    },
+    {
+      "order": 2,
+      "placeId": "rome",
+      "title": "Where Paul probably is",
+      "short": "Rome",
+      "refs": "Acts 28:16-31",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Rome is not named in the letter. It is the traditional place of Paul's imprisonment; some propose Ephesus or Caesarea."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 10.5,
+      "east": 31.5,
+      "south": 35.5,
+      "north": 43.0
+    },
+    "label": "Map of Italy, Greece, and western Turkey, drawn from real coordinates. Numbered stops mark Colossae and Rome.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "colossae",
+        "label": "Colossae",
+        "labelSide": "left"
+      },
+      {
+        "order": 2,
+        "at": "rome",
+        "label": "Rome",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "\"A prisoner of Christ Jesus,\" \"Paul, the aged\" (1:9), who writes with his own hand and offers to repay any debt (1:19)."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "\"Our brother,\" named with Paul in the greeting (1:1)."
+  },
+  {
+    "id": "philemon",
+    "name": "Philemon",
+    "note": "\"Our beloved fellow worker\" (1:1), known for his love and faith (1:5) and for having refreshed the hearts of the saints (1:7). He hosts the assembly in his house."
+  },
+  {
+    "id": "apphia",
+    "name": "Apphia",
+    "note": "\"The beloved Apphia\" (1:2), possibly Philemon's wife or a sister in the church."
+  },
+  {
+    "id": "archippus",
+    "name": "Archippus",
+    "note": "\"Our fellow soldier\" (1:2); Colossians 4:17 tells him to \"fulfill\" the ministry he received in the Lord."
+  },
+  {
+    "id": "onesimus",
+    "name": "Onesimus",
+    "note": "A slave whose name means \"useful\"; once \"useless\" to Philemon, now \"useful to you and to me\" (1:11). Paul calls him his child and his own heart (1:10, 1:12)."
+  },
+  {
+    "id": "epaphras",
+    "name": "Epaphras",
+    "note": "\"My fellow prisoner in Christ Jesus\" (1:23), who founded the church in Colossae (Colossians 1:7; 4:12)."
+  },
+  {
+    "id": "mark-aristarchus-demas-luke",
+    "name": "Mark, Aristarchus, Demas, and Luke",
+    "note": "Paul's \"fellow workers\" who send greetings (1:24)."
+  },
+  {
+    "id": "the-lord-jesus",
+    "name": "The Lord Jesus Christ",
+    "note": "In whom Paul has \"all boldness,\" and in whom Philemon and Onesimus are now brothers."
+  }
+]
