@@ -1,0 +1,51 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "jerusalem",
+      "title": "Where James led the church",
+      "short": "Jerusalem",
+      "refs": "Acts 15:13; Galatians 2:9",
+      "chapter": 1,
+      "direction": "out",
+      "text": "Jerusalem is not named in the letter. It is shown because James, brother of Jesus, led the church there (if he is the writer)."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 33.5,
+      "east": 37.5,
+      "south": 30.8,
+      "north": 33.6
+    },
+    "label": "Map of the land of Israel, drawn from real coordinates. The numbered stop marks Jerusalem.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

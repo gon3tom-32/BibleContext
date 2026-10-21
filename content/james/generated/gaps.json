@@ -1,0 +1,45 @@
+{
+  "_about": "Gaps and problems found while pulling data.",
+  "gaps": [
+    {
+      "area": "words",
+      "text": "\"1 Corinthians 10:9\" (listed under peirazo): STEPBible tags the same word there as G3985H, a different sense (\"to test/tempt\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Hebrews 11:17\" (listed under peirazo): STEPBible tags the same word there as G3985H, a different sense (\"to test/tempt\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Luke 16:25\" (listed under kakos): STEPBible tags the same word there as G2556H, a different sense (\"evil/harm\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "James names no places; Jerusalem is shown because of the traditional author."
+    },
+    {
+      "area": "chapters",
+      "text": "Only chapter 1 is written so far; chapters 2 to 5 still need a hand-written context draft."
+    }
+  ]
+}

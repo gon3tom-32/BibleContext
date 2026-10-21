@@ -1,0 +1,752 @@
+{
+  "osis": "Jas",
+  "stepBook": "Jas",
+  "webFile": "james.json",
+  "language": "Greek",
+  "places": [
+    {
+      "id": "jerusalem",
+      "ancientId": "a15257a",
+      "mapOnly": true
+    },
+    {
+      "id": "great-sea",
+      "ancientId": "aa805fb",
+      "mapOnly": true
+    }
+  ],
+  "people": [],
+  "words": [
+    {
+      "id": "peripipto",
+      "strongs": [
+        "G4045"
+      ],
+      "foundAt": "1 Timothy 1:2"
+    },
+    {
+      "id": "dokimion",
+      "strongs": [
+        "G1383"
+      ],
+      "foundAt": "1 Timothy 1:3"
+    },
+    {
+      "id": "aiteo",
+      "strongs": [
+        "G0154"
+      ],
+      "foundAt": "1 Timothy 1:5"
+    },
+    {
+      "id": "haplos",
+      "strongs": [
+        "G0574"
+      ],
+      "foundAt": "1 Timothy 1:5"
+    },
+    {
+      "id": "oneidizo",
+      "strongs": [
+        "G3679"
+      ],
+      "foundAt": "1 Timothy 1:5"
+    },
+    {
+      "id": "diakrino",
+      "strongs": [
+        "G1252"
+      ],
+      "foundAt": "1 Timothy 1:6"
+    },
+    {
+      "id": "kludon",
+      "strongs": [
+        "G2830"
+      ],
+      "foundAt": "1 Timothy 1:6"
+    },
+    {
+      "id": "anemizomai",
+      "strongs": [
+        "G0416"
+      ],
+      "foundAt": "1 Timothy 1:6"
+    },
+    {
+      "id": "ripizo",
+      "strongs": [
+        "G4494"
+      ],
+      "foundAt": "1 Timothy 1:6"
+    },
+    {
+      "id": "oiomai",
+      "strongs": [
+        "G3633"
+      ],
+      "foundAt": "1 Timothy 1:7"
+    },
+    {
+      "id": "dipsychos",
+      "strongs": [
+        "G1374"
+      ],
+      "foundAt": "1 Timothy 1:8"
+    },
+    {
+      "id": "akatastatos",
+      "strongs": [
+        "G0182"
+      ],
+      "foundAt": "1 Timothy 1:8"
+    },
+    {
+      "id": "tapeinos",
+      "strongs": [
+        "G5011"
+      ],
+      "foundAt": "1 Timothy 1:9"
+    },
+    {
+      "id": "hypsos",
+      "strongs": [
+        "G5311"
+      ],
+      "foundAt": "1 Timothy 1:9"
+    },
+    {
+      "id": "anthos",
+      "strongs": [
+        "G0438"
+      ],
+      "foundAt": "1 Timothy 1:10"
+    },
+    {
+      "id": "chortos",
+      "strongs": [
+        "G5528"
+      ],
+      "foundAt": "1 Timothy 1:10"
+    },
+    {
+      "id": "parerchomai",
+      "strongs": [
+        "G3928"
+      ],
+      "foundAt": "1 Timothy 1:10"
+    },
+    {
+      "id": "helios",
+      "strongs": [
+        "G2246"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "kauson",
+      "strongs": [
+        "G2742"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "xeraino",
+      "strongs": [
+        "G3583"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "euprepeia",
+      "strongs": [
+        "G2143"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "poreia",
+      "strongs": [
+        "G4197"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "maraino",
+      "strongs": [
+        "G3133"
+      ],
+      "foundAt": "1 Timothy 1:11"
+    },
+    {
+      "id": "apeirastos",
+      "strongs": [
+        "G0551"
+      ],
+      "foundAt": "1 Timothy 1:13"
+    },
+    {
+      "id": "exelko",
+      "strongs": [
+        "G1828"
+      ],
+      "foundAt": "1 Timothy 1:14"
+    },
+    {
+      "id": "deleazo",
+      "strongs": [
+        "G1185"
+      ],
+      "foundAt": "1 Timothy 1:14"
+    },
+    {
+      "id": "syllambano",
+      "strongs": [
+        "G4815"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "apoteleo",
+      "strongs": [
+        "G0658"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "apokyeo",
+      "strongs": [
+        "G0616"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "dorema",
+      "strongs": [
+        "G1434"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "katabaino",
+      "strongs": [
+        "G2597"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "parallage",
+      "strongs": [
+        "G3883"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "trope",
+      "strongs": [
+        "G5157"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "aposkiasma",
+      "strongs": [
+        "G0644"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "tachys",
+      "strongs": [
+        "G5036"
+      ],
+      "foundAt": "1 Timothy 1:19"
+    },
+    {
+      "id": "bradys",
+      "strongs": [
+        "G1021"
+      ],
+      "foundAt": "1 Timothy 1:19"
+    },
+    {
+      "id": "rhyparia",
+      "strongs": [
+        "G4507"
+      ],
+      "foundAt": "1 Timothy 1:21"
+    },
+    {
+      "id": "emphytos",
+      "strongs": [
+        "G1721"
+      ],
+      "foundAt": "1 Timothy 1:21"
+    },
+    {
+      "id": "poietes",
+      "strongs": [
+        "G4163"
+      ],
+      "foundAt": "1 Timothy 1:22"
+    },
+    {
+      "id": "akroates",
+      "strongs": [
+        "G0202"
+      ],
+      "foundAt": "1 Timothy 1:22"
+    },
+    {
+      "id": "genesis",
+      "strongs": [
+        "G1078"
+      ],
+      "foundAt": "1 Timothy 1:23"
+    },
+    {
+      "id": "aperchomai",
+      "strongs": [
+        "G0565"
+      ],
+      "foundAt": "1 Timothy 1:24"
+    },
+    {
+      "id": "parakypto",
+      "strongs": [
+        "G3879"
+      ],
+      "foundAt": "1 Timothy 1:25"
+    },
+    {
+      "id": "epilesmone",
+      "strongs": [
+        "G1953"
+      ],
+      "foundAt": "1 Timothy 1:25"
+    },
+    {
+      "id": "threskos",
+      "strongs": [
+        "G2357"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "chalinagogeo",
+      "strongs": [
+        "G5468"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "apatao",
+      "strongs": [
+        "G0538"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "orphanos",
+      "strongs": [
+        "G3737"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "episkeptomai",
+      "strongs": [
+        "G1980"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "doulos",
+      "strongs": [
+        "G1401"
+      ],
+      "foundAt": "1 Timothy 1:1"
+    },
+    {
+      "id": "kyrios",
+      "strongs": [
+        "G2962G",
+        "G2962H"
+      ],
+      "foundAt": "1 Timothy 1:1"
+    },
+    {
+      "id": "chara",
+      "strongs": [
+        "G5479"
+      ],
+      "foundAt": "1 Timothy 1:2"
+    },
+    {
+      "id": "adelphos",
+      "strongs": [
+        "G0080"
+      ],
+      "foundAt": "1 Timothy 1:2"
+    },
+    {
+      "id": "peirasmos",
+      "strongs": [
+        "G3986G",
+        "G3986H"
+      ],
+      "foundAt": "1 Timothy 1:2"
+    },
+    {
+      "id": "pistis",
+      "strongs": [
+        "G4102G",
+        "G4102H"
+      ],
+      "foundAt": "1 Timothy 1:3"
+    },
+    {
+      "id": "hypomone",
+      "strongs": [
+        "G5281"
+      ],
+      "foundAt": "1 Timothy 1:3"
+    },
+    {
+      "id": "teleios",
+      "strongs": [
+        "G5046"
+      ],
+      "foundAt": "1 Timothy 1:4"
+    },
+    {
+      "id": "holokleros",
+      "strongs": [
+        "G3648"
+      ],
+      "foundAt": "1 Timothy 1:4"
+    },
+    {
+      "id": "sophia",
+      "strongs": [
+        "G4678"
+      ],
+      "foundAt": "1 Timothy 1:5"
+    },
+    {
+      "id": "plousios",
+      "strongs": [
+        "G4145"
+      ],
+      "foundAt": "1 Timothy 1:10"
+    },
+    {
+      "id": "makarios",
+      "strongs": [
+        "G3107"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "hypomeno",
+      "strongs": [
+        "G5278"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "dokimos",
+      "strongs": [
+        "G1384"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "stephanos",
+      "strongs": [
+        "G4735"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "zoe",
+      "strongs": [
+        "G2222"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "agapao",
+      "strongs": [
+        "G0025"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    },
+    {
+      "id": "peirazo",
+      "strongs": [
+        "G3985G"
+      ],
+      "foundAt": "1 Timothy 1:13"
+    },
+    {
+      "id": "kakos",
+      "strongs": [
+        "G2556G"
+      ],
+      "foundAt": "1 Timothy 1:13"
+    },
+    {
+      "id": "epithymia",
+      "strongs": [
+        "G1939"
+      ],
+      "foundAt": "1 Timothy 1:14"
+    },
+    {
+      "id": "tikto",
+      "strongs": [
+        "G5088"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "hamartia",
+      "strongs": [
+        "G0266"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "thanatos",
+      "strongs": [
+        "G2288"
+      ],
+      "foundAt": "1 Timothy 1:15"
+    },
+    {
+      "id": "planao",
+      "strongs": [
+        "G4105"
+      ],
+      "foundAt": "1 Timothy 1:16"
+    },
+    {
+      "id": "agathos",
+      "strongs": [
+        "G0018"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "dosis",
+      "strongs": [
+        "G1394"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "pater",
+      "strongs": [
+        "G3962"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "phos",
+      "strongs": [
+        "G5457"
+      ],
+      "foundAt": "1 Timothy 1:17"
+    },
+    {
+      "id": "boulomai",
+      "strongs": [
+        "G1014"
+      ],
+      "foundAt": "1 Timothy 1:18"
+    },
+    {
+      "id": "logos",
+      "strongs": [
+        "G3056"
+      ],
+      "foundAt": "1 Timothy 1:18"
+    },
+    {
+      "id": "aletheia",
+      "strongs": [
+        "G0225"
+      ],
+      "foundAt": "1 Timothy 1:18"
+    },
+    {
+      "id": "aparche",
+      "strongs": [
+        "G0536"
+      ],
+      "foundAt": "1 Timothy 1:18"
+    },
+    {
+      "id": "ktisma",
+      "strongs": [
+        "G2938"
+      ],
+      "foundAt": "1 Timothy 1:18"
+    },
+    {
+      "id": "orge",
+      "strongs": [
+        "G3709"
+      ],
+      "foundAt": "1 Timothy 1:19"
+    },
+    {
+      "id": "dikaiosyne",
+      "strongs": [
+        "G1343"
+      ],
+      "foundAt": "1 Timothy 1:20"
+    },
+    {
+      "id": "kakia",
+      "strongs": [
+        "G2549"
+      ],
+      "foundAt": "1 Timothy 1:21"
+    },
+    {
+      "id": "sozo",
+      "strongs": [
+        "G4982"
+      ],
+      "foundAt": "1 Timothy 1:21"
+    },
+    {
+      "id": "psyche",
+      "strongs": [
+        "G5590G",
+        "G5590H",
+        "G5590I",
+        "G5590J"
+      ],
+      "foundAt": "1 Timothy 1:21"
+    },
+    {
+      "id": "paralogizomai",
+      "strongs": [
+        "G3884"
+      ],
+      "foundAt": "1 Timothy 1:22"
+    },
+    {
+      "id": "esoptron",
+      "strongs": [
+        "G2072"
+      ],
+      "foundAt": "1 Timothy 1:23"
+    },
+    {
+      "id": "nomos",
+      "strongs": [
+        "G3551"
+      ],
+      "foundAt": "1 Timothy 1:25"
+    },
+    {
+      "id": "eleutheria",
+      "strongs": [
+        "G1657"
+      ],
+      "foundAt": "1 Timothy 1:25"
+    },
+    {
+      "id": "glossa",
+      "strongs": [
+        "G1100"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "kardia",
+      "strongs": [
+        "G2588"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "threskeia",
+      "strongs": [
+        "G2356"
+      ],
+      "foundAt": "1 Timothy 1:26"
+    },
+    {
+      "id": "amiantos",
+      "strongs": [
+        "G0283"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "chera",
+      "strongs": [
+        "G5503"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "thlipsis",
+      "strongs": [
+        "G2347"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "aspilos",
+      "strongs": [
+        "G0784"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "kosmos",
+      "strongs": [
+        "G2889"
+      ],
+      "foundAt": "1 Timothy 1:27"
+    },
+    {
+      "id": "paramano",
+      "strongs": [
+        "G3887"
+      ],
+      "foundAt": "1 Timothy 1:25"
+    },
+    {
+      "id": "epangello",
+      "strongs": [
+        "G1861"
+      ],
+      "foundAt": "1 Timothy 1:12"
+    }
+  ],
+  "crossRefs": {
+    "perChapter": 4,
+    "minVotes": 5
+  },
+  "knownGaps": [
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "James names no places; Jerusalem is shown because of the traditional author."
+    },
+    {
+      "area": "chapters",
+      "text": "Only chapter 1 is written so far; chapters 2 to 5 still need a hand-written context draft."
+    }
+  ]
+}
