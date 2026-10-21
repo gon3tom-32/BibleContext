@@ -61,19 +61,31 @@
         "order": 1,
         "at": "egypt",
         "label": "Egypt",
-        "labelSide": "left"
+        "labelSide": "left",
+        "offset": [
+          -4,
+          6
+        ]
       },
       {
         "order": 2,
         "at": "mount-sinai",
         "label": "Sinai",
-        "labelSide": "left"
+        "labelSide": "right",
+        "offset": [
+          2,
+          10
+        ]
       },
       {
         "order": 3,
         "at": "jerusalem",
         "label": "Jerusalem",
-        "labelSide": "left"
+        "labelSide": "left",
+        "offset": [
+          -2,
+          -12
+        ]
       },
       {
         "order": 4,
