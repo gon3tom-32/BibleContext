@@ -1,0 +1,350 @@
+{
+  "sceneHappening": "The tongue: small, powerful, and hard to tame; wisdom from below and from above",
+  "summary": "\"Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment. For we all stumble in many things. Anyone who doesn't stumble in word is a perfect person, able to bridle the whole body also.\" Bits in horses' mouths and the small rudder on a ship are given as pictures: \"So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest! And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.\" \"Every kind of animal, bird, creeping thing, and sea creature, is tamed, and has been tamed by mankind; but nobody can tame the tongue. It is a restless evil, full of deadly poison. With it we bless our God and Father, and with it we curse men who are made in the image of God. Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so. Does a spring send out from the same opening fresh and bitter water? Can a fig tree, my brothers, yield olives, or a vine figs?\" \"Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom. But if you have bitter jealousy and selfish ambition in your heart, don't boast and don't lie against the truth. This wisdom is not that which comes down from above, but is earthly, sensual, and demonic. For where jealousy and selfish ambition are, there is confusion and every evil deed. But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy. Now the fruit of righteousness is sown in peace by those who make peace.\"",
+  "whySettingMatters": "Teachers held a high place in a community whose guidance came largely by speech, and James warns that they will be judged more strictly, since their words go further. The three images (bit, rudder, fire) all describe something small that directs something large. The fire image has parallels in Proverbs 16:27 and 26:21-22. Several phrases are hard to read: the tongue is \"the world of iniquity,\" which could mean a whole world or an ornament (kosmos has both senses); \"the course of nature\" is literally \"the wheel of birth\" (trochos tes geneseos), an expression found in Greek writing for the cycle of life, and it may mean the whole course of life or one's whole existence; \"Gehenna\" (the valley of Hinnom outside Jerusalem, a picture of final judgment) is used here as the source of the fire, and it is one of the few places outside the Gospels where the word appears. The lines on animals tamed by people echo Genesis 1:26-28, and the reference to cursing people \"made in the image of God\" draws on Genesis 1:27 and 9:6. The second half contrasts two wisdoms: \"earthly, sensual, and demonic\" wisdom marked by jealousy and ambition, and \"wisdom from above\" marked by purity, peace, gentleness, and mercy. The last line (3:18) is often read as saying that peacemakers sow in peace and reap righteousness; Jesus' words about peacemakers (Matthew 5:9) are close by.",
+  "people": [
+    {
+      "id": "james",
+      "note": "Warns teachers and describes the power of the tongue."
+    },
+    {
+      "id": "the-twelve-tribes",
+      "note": "Told to show wisdom through good conduct."
+    }
+  ],
+  "questions": [
+    "James says teachers face \"heavier judgment.\" What does that suggest about the weight of what is said in a community?",
+    "Which of his three pictures (bit, rudder, fire) fits best what you have seen words do?",
+    "\"Out of the same mouth comes blessing and cursing.\" Where have you seen worship and harshness coexist?",
+    "James lists traits of wisdom from above. Which one most challenges how you handle disagreement?"
+  ],
+  "words": [
+    {
+      "id": "didaskalos",
+      "note": "\"Let not many of you be teachers\" (3:1)."
+    },
+    {
+      "id": "krima",
+      "note": "\"We will receive heavier judgment\" (3:1)."
+    },
+    {
+      "id": "ptaio",
+      "note": "\"For we all stumble in many things\" (3:2)."
+    },
+    {
+      "id": "teleios",
+      "note": "\"Is a perfect person\" (3:2)."
+    },
+    {
+      "id": "chalinagogeo",
+      "note": "\"Able to bridle the whole body\" (3:2)."
+    },
+    {
+      "id": "hippos",
+      "note": "\"The horses' mouths\" (3:3)."
+    },
+    {
+      "id": "chalinos",
+      "note": "\"Bits\" (3:3)."
+    },
+    {
+      "id": "stoma",
+      "note": "\"In the horses' mouths\" (3:3) and \"out of the same mouth\" (3:10)."
+    },
+    {
+      "id": "ballo",
+      "note": "\"We put bits\" (3:3)."
+    },
+    {
+      "id": "metago",
+      "note": "\"And we guide their whole body\" (3:3)."
+    },
+    {
+      "id": "ploion",
+      "note": "\"The ships also\" (3:4)."
+    },
+    {
+      "id": "telikoutos",
+      "note": "\"Though they are so big\" (3:4)."
+    },
+    {
+      "id": "skleros",
+      "note": "\"Driven by fierce winds\" (3:4)."
+    },
+    {
+      "id": "elauno",
+      "note": "\"Are driven\" (3:4)."
+    },
+    {
+      "id": "pedalion",
+      "note": "\"By a very small rudder\" (3:4)."
+    },
+    {
+      "id": "horme",
+      "note": "\"Wherever the pilot desires\" (3:4). The word means impulse."
+    },
+    {
+      "id": "euthyno",
+      "note": "\"Are guided\" (3:4). The word appears here and in John 1:23."
+    },
+    {
+      "id": "glossa",
+      "note": "\"The tongue is also a little member\" (3:5-6, 3:8)."
+    },
+    {
+      "id": "aucheo",
+      "note": "\"And boasts great things\" (3:5). The word appears only here."
+    },
+    {
+      "id": "helikos",
+      "note": "\"How great a forest\" (3:5)."
+    },
+    {
+      "id": "hyle",
+      "note": "\"A large forest\" (3:5). The word appears only here."
+    },
+    {
+      "id": "anapto",
+      "note": "\"How a small fire can spread\" (3:5)."
+    },
+    {
+      "id": "pyr",
+      "note": "\"The tongue is a fire\" (3:5-6)."
+    },
+    {
+      "id": "adikia",
+      "note": "\"The world of iniquity\" (3:6)."
+    },
+    {
+      "id": "kosmos",
+      "note": "\"The world of iniquity\" (3:6)."
+    },
+    {
+      "id": "spiloo",
+      "note": "\"Which defiles the whole body\" (3:6)."
+    },
+    {
+      "id": "phlogizo",
+      "note": "\"And sets on fire\" (3:6)."
+    },
+    {
+      "id": "trochos",
+      "note": "\"The course of nature\" (3:6). The Greek is \"the wheel of birth.\""
+    },
+    {
+      "id": "genesis",
+      "note": "\"The course of nature\" (3:6)."
+    },
+    {
+      "id": "geenna",
+      "note": "\"Is set on fire by Gehenna\" (3:6)."
+    },
+    {
+      "id": "physis",
+      "note": "\"Every kind of animal\" (3:7). The word means nature or kind."
+    },
+    {
+      "id": "therion",
+      "note": "\"Animal\" (3:7)."
+    },
+    {
+      "id": "peteinon",
+      "note": "\"Bird\" (3:7)."
+    },
+    {
+      "id": "herpeton",
+      "note": "\"Creeping thing\" (3:7)."
+    },
+    {
+      "id": "enalios",
+      "note": "\"And sea creature\" (3:7). The word appears only here."
+    },
+    {
+      "id": "damazo",
+      "note": "\"Is tamed\" (3:7-8)."
+    },
+    {
+      "id": "anthropinos",
+      "note": "\"Has been tamed by mankind\" (3:7)."
+    },
+    {
+      "id": "akatastatos",
+      "note": "\"It is a restless evil\" (3:8)."
+    },
+    {
+      "id": "mestos",
+      "note": "\"Full of deadly poison\" (3:8)."
+    },
+    {
+      "id": "ios",
+      "note": "\"Poison\" (3:8). The word also means rust (5:3)."
+    },
+    {
+      "id": "thanatephoros",
+      "note": "\"Deadly\" (3:8). The word appears only here."
+    },
+    {
+      "id": "eulogeo",
+      "note": "\"We bless our God and Father\" (3:9)."
+    },
+    {
+      "id": "kataraomai",
+      "note": "\"We curse men\" (3:9)."
+    },
+    {
+      "id": "homoiosis",
+      "note": "\"Who are made in the image of God\" (3:9). The Greek is \"in the likeness.\""
+    },
+    {
+      "id": "pege",
+      "note": "\"Does a spring send out\" (3:11)."
+    },
+    {
+      "id": "bryo",
+      "note": "\"Send out\" (3:11). The word appears only here."
+    },
+    {
+      "id": "glykys",
+      "note": "\"Fresh... water\" (3:11-12)."
+    },
+    {
+      "id": "pikros",
+      "note": "\"And bitter water\" (3:11)."
+    },
+    {
+      "id": "syke",
+      "note": "\"Can a fig tree\" (3:12)."
+    },
+    {
+      "id": "elaia",
+      "note": "\"Yield olives\" (3:12)."
+    },
+    {
+      "id": "sykon",
+      "note": "\"Or a vine figs\" (3:12)."
+    },
+    {
+      "id": "halykos",
+      "note": "\"Salt water\" (3:12). The word appears only here."
+    },
+    {
+      "id": "sophos",
+      "note": "\"Who is wise\" (3:13)."
+    },
+    {
+      "id": "epistemon",
+      "note": "\"And understanding among you\" (3:13). The word appears only here."
+    },
+    {
+      "id": "anastrophe",
+      "note": "\"By his good conduct\" (3:13)."
+    },
+    {
+      "id": "praytes",
+      "note": "\"In gentleness of wisdom\" (3:13)."
+    },
+    {
+      "id": "sophia",
+      "note": "\"Of wisdom\" (3:13, 3:15, 3:17)."
+    },
+    {
+      "id": "zelos",
+      "note": "\"Bitter jealousy\" (3:14, 3:16)."
+    },
+    {
+      "id": "eritheia",
+      "note": "\"And selfish ambition\" (3:14, 3:16)."
+    },
+    {
+      "id": "kauchaomai",
+      "note": "\"Don't boast\" (3:14)."
+    },
+    {
+      "id": "pseudomai",
+      "note": "\"And don't lie against the truth\" (3:14)."
+    },
+    {
+      "id": "epigeios",
+      "note": "\"But is earthly\" (3:15)."
+    },
+    {
+      "id": "psychikos",
+      "note": "\"Sensual\" (3:15)."
+    },
+    {
+      "id": "daimoniodes",
+      "note": "\"And demonic\" (3:15). The word appears only here."
+    },
+    {
+      "id": "akatastasia",
+      "note": "\"There is confusion\" (3:16)."
+    },
+    {
+      "id": "hagnos",
+      "note": "\"Is first pure\" (3:17)."
+    },
+    {
+      "id": "eirenikos",
+      "note": "\"Then peaceful\" (3:17)."
+    },
+    {
+      "id": "epieikes",
+      "note": "\"Gentle\" (3:17)."
+    },
+    {
+      "id": "eupeithes",
+      "note": "\"Reasonable\" (3:17). The word appears only here."
+    },
+    {
+      "id": "eleos",
+      "note": "\"Full of mercy\" (3:17)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"And good fruits\" (3:17-18)."
+    },
+    {
+      "id": "adiakritos",
+      "note": "\"Without partiality\" (3:17). The word appears only here."
+    },
+    {
+      "id": "anypokritos",
+      "note": "\"And without hypocrisy\" (3:17)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"The fruit of righteousness\" (3:18)."
+    },
+    {
+      "id": "speiro",
+      "note": "\"Is sown in peace\" (3:18)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Is sown in peace by those who make peace\" (3:18)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 18:21",
+      "note": "death and life are in the power of the tongue"
+    },
+    {
+      "ref": "Matthew 12:34-37",
+      "note": "out of the abundance of the heart, the mouth speaks... by your words you will be justified"
+    },
+    {
+      "ref": "Genesis 1:26-28",
+      "note": "let us make man in our image... have dominion over the fish of the sea and over the birds"
+    },
+    {
+      "ref": "Matthew 5:9",
+      "note": "blessed are the peacemakers, for they shall be called children of God"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

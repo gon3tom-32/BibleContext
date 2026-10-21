@@ -1,0 +1,314 @@
+{
+  "sceneHappening": "Quarrels come from desires; submit to God; do not speak against each other; do not plan as if you owned the future",
+  "summary": "\"Where do wars and fightings among you come from? Don't they come from your pleasures that war in your members? You lust, and don't have. You murder and covet, and can't obtain. You fight and make war. You don't have, because you don't ask. You ask, and don't receive, because you ask with wrong motives, so that you may spend it on your pleasures. You adulterers and adulteresses, don't you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. Or do you think that the Scripture says in vain, 'The Spirit who lives in us yearns jealously'? But he gives more grace. Therefore it says, 'God resists the proud, but gives grace to the humble.' Be subject therefore to God. Resist the devil, and he will flee from you. Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded. Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom. Humble yourselves in the sight of the Lord, and he will exalt you.\" \"Don't speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law... Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?\" \"Come now, you who say, 'Today or tomorrow let's go into this city, and spend a year there, trade, and make a profit.' Whereas you don't know what your life will be like tomorrow. For what is your life? For you are a vapor that appears for a little time, and then vanishes away. For you ought to say, 'If the Lord wills, we will both live, and do this or that.' But now you glory in your boasting. All such boasting is evil. To him therefore who knows to do good, and doesn't do it, to him it is sin.\"",
+  "whySettingMatters": "James describes internal conflict as the source of the community's quarrels: desires \"war in your members\" and break out into fights. \"Adulterers and adulteresses\" (4:4) uses the Old Testament picture of Israel as God's unfaithful bride (Hosea; Ezekiel 16); the sin is divided loyalty. \"Friendship with the world\" means the values and order of life in opposition to God. The quotation in 4:5, \"The Spirit who lives in us yearns jealously,\" is not found word for word in the Old Testament, and its meaning is debated: it may mean that God yearns jealously for the spirit he made to live in us, or that the spirit in us (our desire) yearns enviously. The quotation in 4:6 is Proverbs 3:34. The commands of 4:7-10 are a series of ten short sentences in quick order, like a call to repentance, and echo the Old Testament language of drawing near to God and cleansing hands (Psalm 24:4). The warning against speaking against a brother (4:11) calls slander a form of setting oneself above the law, since a person who judges the law becomes its judge. In 4:13-17 James addresses merchants who plan trading trips as if the future were theirs. Traveling traders were a common sight in Roman cities, and Jewish communities often traded across the Mediterranean. Life as \"a vapor\" echoes Ecclesiastes and Psalm 39:5. The last verse (4:17) is a general principle: sin includes failing to do known good, not only doing wrong.",
+  "people": [
+    {
+      "id": "james",
+      "note": "Calls the readers to repentance and humility."
+    },
+    {
+      "id": "the-twelve-tribes",
+      "note": "Told to submit to God, resist the devil, and draw near."
+    },
+    {
+      "id": "the-rich",
+      "note": "Merchants who plan their futures without reference to God."
+    }
+  ],
+  "questions": [
+    "James traces fighting to desires \"that war in your members.\" What does that suggest about where to look first when a community quarrels?",
+    "\"God resists the proud, but gives grace to the humble.\" What does humility look like in a conflict?",
+    "\"If the Lord wills.\" Is James forbidding planning, or something else?",
+    "\"To him who knows to do good, and doesn't do it, to him it is sin.\" What does that add to how we think about sin?"
+  ],
+  "words": [
+    {
+      "id": "polemos",
+      "note": "\"Where do wars... among you come from?\" (4:1)."
+    },
+    {
+      "id": "machomai",
+      "note": "\"And fightings\" (4:1-2)."
+    },
+    {
+      "id": "hedone",
+      "note": "\"From your pleasures that war in your members\" (4:1, 4:3)."
+    },
+    {
+      "id": "polemeo",
+      "note": "\"You fight and make war\" (4:2)."
+    },
+    {
+      "id": "epithymeo",
+      "note": "\"You lust, and don't have\" (4:2)."
+    },
+    {
+      "id": "phoneuo",
+      "note": "\"You murder and covet\" (4:2)."
+    },
+    {
+      "id": "zeloo",
+      "note": "\"And covet\" (4:2). The word also means to be zealous."
+    },
+    {
+      "id": "aiteo",
+      "note": "\"You ask, and don't receive\" (4:2-3)."
+    },
+    {
+      "id": "kakos_adv",
+      "note": "\"Because you ask with wrong motives\" (4:3)."
+    },
+    {
+      "id": "dapanao",
+      "note": "\"So that you may spend it on your pleasures\" (4:3)."
+    },
+    {
+      "id": "moichalis",
+      "note": "\"You adulterers and adulteresses\" (4:4)."
+    },
+    {
+      "id": "philia",
+      "note": "\"Friendship with the world\" (4:4). The word appears only here."
+    },
+    {
+      "id": "kosmos",
+      "note": "\"With the world is hostility toward God\" (4:4)."
+    },
+    {
+      "id": "echthra",
+      "note": "\"Is hostility toward God\" (4:4)."
+    },
+    {
+      "id": "echthros",
+      "note": "\"Makes himself an enemy of God\" (4:4)."
+    },
+    {
+      "id": "graphe",
+      "note": "\"Or do you think that the Scripture says in vain\" (4:5)."
+    },
+    {
+      "id": "kenos_adv",
+      "note": "\"In vain\" (4:5). The word appears only here."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"The Spirit who lives in us yearns jealously\" (4:5)."
+    },
+    {
+      "id": "katoikizo",
+      "note": "\"Who lives in us\" (4:5). The word means to cause to dwell."
+    },
+    {
+      "id": "epipotheo",
+      "note": "\"Yearns jealously\" (4:5)."
+    },
+    {
+      "id": "charis",
+      "note": "\"But he gives more grace\" (4:6)."
+    },
+    {
+      "id": "hyperephanos",
+      "note": "\"God resists the proud\" (4:6)."
+    },
+    {
+      "id": "antitasso",
+      "note": "\"Resists\" (4:6)."
+    },
+    {
+      "id": "tapeinos",
+      "note": "\"But gives grace to the humble\" (4:6)."
+    },
+    {
+      "id": "hypotasso",
+      "note": "\"Be subject therefore to God\" (4:7)."
+    },
+    {
+      "id": "anthistemi",
+      "note": "\"Resist the devil\" (4:7)."
+    },
+    {
+      "id": "diabolos",
+      "note": "\"Resist the devil, and he will flee\" (4:7)."
+    },
+    {
+      "id": "pheugo",
+      "note": "\"And he will flee from you\" (4:7)."
+    },
+    {
+      "id": "eggizo",
+      "note": "\"Draw near to God, and he will draw near to you\" (4:8)."
+    },
+    {
+      "id": "katharizo",
+      "note": "\"Cleanse your hands\" (4:8)."
+    },
+    {
+      "id": "cheir",
+      "note": "\"Cleanse your hands\" (4:8)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"You sinners\" (4:8)."
+    },
+    {
+      "id": "hagnizo",
+      "note": "\"Purify your hearts\" (4:8)."
+    },
+    {
+      "id": "kardia",
+      "note": "\"Purify your hearts\" (4:8)."
+    },
+    {
+      "id": "dipsychos",
+      "note": "\"You double-minded\" (4:8)."
+    },
+    {
+      "id": "talaiporeo",
+      "note": "\"Lament\" (4:9). The word appears only here."
+    },
+    {
+      "id": "pentheo",
+      "note": "\"Mourn\" (4:9)."
+    },
+    {
+      "id": "klaio",
+      "note": "\"And weep\" (4:9)."
+    },
+    {
+      "id": "gelos",
+      "note": "\"Let your laughter be turned\" (4:9). The word appears only here."
+    },
+    {
+      "id": "penthos",
+      "note": "\"To mourning\" (4:9)."
+    },
+    {
+      "id": "metatrepo",
+      "note": "\"Be turned\" (4:9). The word appears only here."
+    },
+    {
+      "id": "chara",
+      "note": "\"And your joy to gloom\" (4:9)."
+    },
+    {
+      "id": "katepheia",
+      "note": "\"To gloom\" (4:9). The word appears only here."
+    },
+    {
+      "id": "tapeinoo",
+      "note": "\"Humble yourselves\" (4:10)."
+    },
+    {
+      "id": "hypsoo",
+      "note": "\"And he will exalt you\" (4:10)."
+    },
+    {
+      "id": "katalaleo",
+      "note": "\"Don't speak against one another\" (4:11)."
+    },
+    {
+      "id": "krino",
+      "note": "\"And judges his brother\" (4:11-12)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"Speaks against the law and judges the law\" (4:11)."
+    },
+    {
+      "id": "poietes",
+      "note": "\"You are not a doer of the law\" (4:11)."
+    },
+    {
+      "id": "nomothetes",
+      "note": "\"Only one is the lawgiver\" (4:12)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Who is able to save and to destroy\" (4:12)."
+    },
+    {
+      "id": "apollymi",
+      "note": "\"And to destroy\" (4:12)."
+    },
+    {
+      "id": "emporeuomai",
+      "note": "\"Trade, and make a profit\" (4:13)."
+    },
+    {
+      "id": "kerdaino",
+      "note": "\"And make a profit\" (4:13)."
+    },
+    {
+      "id": "epistamai",
+      "note": "\"You don't know what your life will be like\" (4:14)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"What your life will be like\" (4:14)."
+    },
+    {
+      "id": "atmis",
+      "note": "\"You are a vapor\" (4:14)."
+    },
+    {
+      "id": "phaino",
+      "note": "\"That appears for a little time\" (4:14)."
+    },
+    {
+      "id": "aphanizo",
+      "note": "\"And then vanishes away\" (4:14)."
+    },
+    {
+      "id": "thelo",
+      "note": "\"If the Lord wills\" (4:15)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"If the Lord wills\" (4:15)."
+    },
+    {
+      "id": "kauchesis",
+      "note": "\"But now you glory in your boasting\" (4:16)."
+    },
+    {
+      "id": "alazoneia",
+      "note": "\"Your boasting\" (4:16)."
+    },
+    {
+      "id": "poneros",
+      "note": "\"All such boasting is evil\" (4:16)."
+    },
+    {
+      "id": "kalos",
+      "note": "\"Who knows to do good\" (4:17)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"To him it is sin\" (4:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 3:34",
+      "note": "he mocks the arrogant, but he gives grace to the humble"
+    },
+    {
+      "ref": "Psalm 24:3-4",
+      "note": "he who has clean hands and a pure heart"
+    },
+    {
+      "ref": "Hosea 2:2-5",
+      "note": "plead with your mother, plead... for she isn't my wife"
+    },
+    {
+      "ref": "Psalm 39:5",
+      "note": "surely every man stands as a breath"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
