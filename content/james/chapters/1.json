@@ -1,0 +1,462 @@
+{
+  "sceneHappening": "Joy in trials, asking God for wisdom, enduring temptation, and being doers of the word and not hearers only",
+  "summary": "\"James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.\" \"Count it all joy, my brothers, when you fall into various temptations, knowing that the testing of your faith produces endurance. Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.\" \"But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed... He is a double-minded man, unstable in all his ways.\" The brother in humble circumstances is to \"glory in his high position,\" and the rich in being made humble, because \"like the flower in the grass, he will pass away.\" \"Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.\" \"Let no man say when he is tempted, 'I am tempted by God,' for God can't be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death.\" \"Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow. Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures.\" \"Let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn't produce the righteousness of God. Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls. But be doers of the word, and not only hearers, deluding your own selves.\" A hearer who doesn't act is like a man who looks in a mirror and \"immediately forgets what kind of man he was,\" but the one who \"looks into the perfect law of freedom and continues... this man will be blessed in what he does.\" \"If anyone among you thinks himself to be religious while he doesn't bridle his tongue, but deceives his heart, this man's religion is worthless. Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.\"",
+  "whySettingMatters": "The letter begins at once with a paradox: trials are to be counted as joy, because testing produces endurance and endurance makes a person \"perfect and complete.\" The Greek word peirasmos can mean a test from outside or a temptation from inside, and James plays on both senses: in 1:2-4 it is an outside trial that tests faith; in 1:13-15 it is the inner pull of desire, and he insists that God does not tempt anyone. \"Wisdom\" (1:5) is the old Jewish idea of skill in living well that comes from God; Proverbs 2:6 and Solomon's prayer (1 Kings 3) lie behind it. The \"double-minded\" man (dipsychos, \"two-souled\") is a word not found before James, and it describes a person pulled in two directions. The warnings to the rich (1:10-11) echo Isaiah 40:6-8, with the image of grass in the scorching wind (the \"kauson\" was the hot desert wind of Palestine). \"The Father of lights\" (1:17) refers to God as creator of sun, moon, and stars, in contrast to the changing lights in the sky. \"First fruits\" (1:18) may refer to the first believers (compare Romans 8:23), to Jewish believers as the first of a larger harvest, or to humanity as creation's first. \"The implanted word\" and \"the perfect law of freedom\" (1:21, 1:25) have been read as the gospel, as the law of Moses as Jesus taught it, or as both; the next chapter returns to \"the royal law\" of love. The mirror image describes a metal mirror, in which a face is seen dimly and soon forgotten. The last verses define true \"religion\" (threskeia) as ritual-free care for the vulnerable and a clean life, a vision shared with Micah 6:8 and with Jesus' own teaching.",
+  "people": [
+    {
+      "id": "james",
+      "note": "A servant of God and of the Lord Jesus Christ, writing to the twelve tribes."
+    },
+    {
+      "id": "the-twelve-tribes",
+      "note": "Told to count trials as joy and to be doers of the word."
+    },
+    {
+      "id": "the-rich",
+      "note": "Told to glory in being made low; they will fade like the flower."
+    },
+    {
+      "id": "the-poor",
+      "note": "Told to glory in their high position."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "The Lord, whose promise of the crown of life is for those who love him."
+    }
+  ],
+  "questions": [
+    "James asks us to \"count it all joy\" in trials. What does he think trials produce, and how is that different from enjoying hardship?",
+    "Ask for wisdom, \"without any doubting.\" What do you think the difference is between doubt and being double-minded?",
+    "James says God tempts no one and that temptation grows from our own desire. How does that change how you talk about temptation?",
+    "\"Quick to hear, slow to speak, slow to anger.\" Which of the three is hardest for you right now?"
+  ],
+  "words": [
+    {
+      "id": "doulos",
+      "note": "\"A servant of God and of the Lord Jesus Christ\" (1:1)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"Of the Lord Jesus Christ\" (1:1) and \"from the Lord\" (1:7)."
+    },
+    {
+      "id": "chara",
+      "note": "\"Count it all joy\" (1:2)."
+    },
+    {
+      "id": "adelphos",
+      "note": "\"My brothers\" (1:2, 1:9, 1:16, 1:19)."
+    },
+    {
+      "id": "peripipto",
+      "note": "\"When you fall into various temptations\" (1:2)."
+    },
+    {
+      "id": "peirasmos",
+      "note": "\"Various temptations\" (1:2) and \"endures temptation\" (1:12)."
+    },
+    {
+      "id": "dokimion",
+      "note": "\"The testing of your faith\" (1:3). The word means the means of testing."
+    },
+    {
+      "id": "pistis",
+      "note": "\"The testing of your faith\" (1:3) and \"let him ask in faith\" (1:6)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"Produces endurance\" (1:3) and \"let endurance have its perfect work\" (1:4)."
+    },
+    {
+      "id": "teleios",
+      "note": "\"That you may be perfect and complete\" (1:4) and \"every perfect gift\" (1:17)."
+    },
+    {
+      "id": "holokleros",
+      "note": "\"And complete, lacking in nothing\" (1:4)."
+    },
+    {
+      "id": "sophia",
+      "note": "\"But if any of you lacks wisdom\" (1:5)."
+    },
+    {
+      "id": "aiteo",
+      "note": "\"Let him ask of God\" (1:5-6)."
+    },
+    {
+      "id": "haplos",
+      "note": "\"Who gives to all liberally\" (1:5). The word appears only here and means without reserve."
+    },
+    {
+      "id": "oneidizo",
+      "note": "\"And without reproach\" (1:5)."
+    },
+    {
+      "id": "diakrino",
+      "note": "\"Without any doubting\" (1:6)."
+    },
+    {
+      "id": "kludon",
+      "note": "\"Is like a wave of the sea\" (1:6). The word appears only here and in Luke 8:24."
+    },
+    {
+      "id": "anemizomai",
+      "note": "\"Driven by the wind\" (1:6). The word appears only here."
+    },
+    {
+      "id": "ripizo",
+      "note": "\"And tossed\" (1:6). The word appears only here."
+    },
+    {
+      "id": "oiomai",
+      "note": "\"Shouldn't think that he will receive anything\" (1:7)."
+    },
+    {
+      "id": "dipsychos",
+      "note": "\"A double-minded man\" (1:8). The word appears only here and in 4:8."
+    },
+    {
+      "id": "akatastatos",
+      "note": "\"Unstable in all his ways\" (1:8)."
+    },
+    {
+      "id": "tapeinos",
+      "note": "\"The brother in humble circumstances\" (1:9)."
+    },
+    {
+      "id": "hypsos",
+      "note": "\"Glory in his high position\" (1:9)."
+    },
+    {
+      "id": "plousios",
+      "note": "\"And the rich\" (1:10)."
+    },
+    {
+      "id": "anthos",
+      "note": "\"Like the flower in the grass\" (1:10-11)."
+    },
+    {
+      "id": "chortos",
+      "note": "\"In the grass\" (1:10-11)."
+    },
+    {
+      "id": "parerchomai",
+      "note": "\"He will pass away\" (1:10)."
+    },
+    {
+      "id": "helios",
+      "note": "\"For the sun arises with the scorching wind\" (1:11)."
+    },
+    {
+      "id": "kauson",
+      "note": "\"The scorching wind\" (1:11)."
+    },
+    {
+      "id": "xeraino",
+      "note": "\"And withers the grass\" (1:11)."
+    },
+    {
+      "id": "euprepeia",
+      "note": "\"The beauty of its appearance\" (1:11). The word appears only here."
+    },
+    {
+      "id": "poreia",
+      "note": "\"In his pursuits\" (1:11). The word means journey or way of life."
+    },
+    {
+      "id": "maraino",
+      "note": "\"Will fade away\" (1:11). The word appears only here."
+    },
+    {
+      "id": "makarios",
+      "note": "\"Blessed is a person who endures temptation\" (1:12)."
+    },
+    {
+      "id": "hypomeno",
+      "note": "\"Who endures temptation\" (1:12)."
+    },
+    {
+      "id": "dokimos",
+      "note": "\"When he has been approved\" (1:12)."
+    },
+    {
+      "id": "stephanos",
+      "note": "\"The crown of life\" (1:12)."
+    },
+    {
+      "id": "zoe",
+      "note": "\"The crown of life\" (1:12)."
+    },
+    {
+      "id": "epangello",
+      "note": "\"Which the Lord promised to those who love him\" (1:12)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"To those who love him\" (1:12)."
+    },
+    {
+      "id": "peirazo",
+      "note": "\"I am tempted by God\" (1:13-14)."
+    },
+    {
+      "id": "apeirastos",
+      "note": "\"God can't be tempted by evil\" (1:13). The word appears only here."
+    },
+    {
+      "id": "kakos",
+      "note": "\"By evil\" (1:13)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"Drawn away by his own lust\" (1:14-15)."
+    },
+    {
+      "id": "exelko",
+      "note": "\"When he is drawn away\" (1:14). The word appears only here."
+    },
+    {
+      "id": "deleazo",
+      "note": "\"And enticed\" (1:14). The word means to lure with bait."
+    },
+    {
+      "id": "syllambano",
+      "note": "\"When it has conceived\" (1:15)."
+    },
+    {
+      "id": "tikto",
+      "note": "\"Bears sin\" (1:15)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Bears sin. The sin, when it is full grown\" (1:15)."
+    },
+    {
+      "id": "apoteleo",
+      "note": "\"When it is full grown\" (1:15)."
+    },
+    {
+      "id": "apokyeo",
+      "note": "\"Produces death\" (1:15) and \"he gave birth to us\" (1:18). The word appears only here and in 1:18."
+    },
+    {
+      "id": "thanatos",
+      "note": "\"Produces death\" (1:15)."
+    },
+    {
+      "id": "planao",
+      "note": "\"Don't be deceived\" (1:16)."
+    },
+    {
+      "id": "agathos",
+      "note": "\"Every good gift\" (1:17)."
+    },
+    {
+      "id": "dosis",
+      "note": "\"Every good gift\" (1:17). The word means a giving."
+    },
+    {
+      "id": "dorema",
+      "note": "\"And every perfect gift\" (1:17). The word appears only here and in Romans 5:16."
+    },
+    {
+      "id": "katabaino",
+      "note": "\"Coming down from the Father of lights\" (1:17)."
+    },
+    {
+      "id": "pater",
+      "note": "\"The Father of lights\" (1:17) and \"our God and Father\" (1:27)."
+    },
+    {
+      "id": "phos",
+      "note": "\"Of lights\" (1:17)."
+    },
+    {
+      "id": "parallage",
+      "note": "\"With whom can be no variation\" (1:17). The word appears only here."
+    },
+    {
+      "id": "trope",
+      "note": "\"Nor turning shadow\" (1:17)."
+    },
+    {
+      "id": "aposkiasma",
+      "note": "\"Shadow\" (1:17). The word appears only here."
+    },
+    {
+      "id": "boulomai",
+      "note": "\"Of his own will\" (1:18)."
+    },
+    {
+      "id": "logos",
+      "note": "\"By the word of truth\" (1:18), \"the implanted word\" (1:21), and \"doers of the word\" (1:22)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"The word of truth\" (1:18)."
+    },
+    {
+      "id": "aparche",
+      "note": "\"A kind of first fruits\" (1:18)."
+    },
+    {
+      "id": "ktisma",
+      "note": "\"Of his creatures\" (1:18)."
+    },
+    {
+      "id": "tachys",
+      "note": "\"Let every man be swift to hear\" (1:19). The word appears only here."
+    },
+    {
+      "id": "bradys",
+      "note": "\"Slow to speak, and slow to anger\" (1:19)."
+    },
+    {
+      "id": "orge",
+      "note": "\"Slow to anger\" (1:19-20)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"The righteousness of God\" (1:20)."
+    },
+    {
+      "id": "rhyparia",
+      "note": "\"All filthiness\" (1:21). The word appears only here."
+    },
+    {
+      "id": "kakia",
+      "note": "\"And overflowing of wickedness\" (1:21)."
+    },
+    {
+      "id": "emphytos",
+      "note": "\"The implanted word\" (1:21). The word appears only here."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Which is able to save your souls\" (1:21)."
+    },
+    {
+      "id": "psyche",
+      "note": "\"Save your souls\" (1:21)."
+    },
+    {
+      "id": "poietes",
+      "note": "\"But be doers of the word\" (1:22-23, 1:25)."
+    },
+    {
+      "id": "akroates",
+      "note": "\"And not only hearers\" (1:22-23, 1:25)."
+    },
+    {
+      "id": "paralogizomai",
+      "note": "\"Deluding your own selves\" (1:22)."
+    },
+    {
+      "id": "genesis",
+      "note": "\"His natural face\" (1:23). The Greek is \"the face of his birth.\""
+    },
+    {
+      "id": "esoptron",
+      "note": "\"In a mirror\" (1:23)."
+    },
+    {
+      "id": "aperchomai",
+      "note": "\"And goes away\" (1:24)."
+    },
+    {
+      "id": "epilesmone",
+      "note": "\"Not being a hearer who forgets\" (1:25). The word appears only here."
+    },
+    {
+      "id": "parakypto",
+      "note": "\"But he who looks into the perfect law\" (1:25). The word means to stoop to look."
+    },
+    {
+      "id": "nomos",
+      "note": "\"The perfect law of freedom\" (1:25)."
+    },
+    {
+      "id": "eleutheria",
+      "note": "\"Of freedom\" (1:25)."
+    },
+    {
+      "id": "paramano",
+      "note": "\"And continues\" (1:25)."
+    },
+    {
+      "id": "threskos",
+      "note": "\"If anyone among you thinks himself to be religious\" (1:26). The word appears only here."
+    },
+    {
+      "id": "chalinagogeo",
+      "note": "\"While he doesn't bridle his tongue\" (1:26)."
+    },
+    {
+      "id": "glossa",
+      "note": "\"His tongue\" (1:26)."
+    },
+    {
+      "id": "apatao",
+      "note": "\"But deceives his heart\" (1:26)."
+    },
+    {
+      "id": "kardia",
+      "note": "\"Deceives his heart\" (1:26)."
+    },
+    {
+      "id": "threskeia",
+      "note": "\"This man's religion is worthless\" (1:26-27)."
+    },
+    {
+      "id": "amiantos",
+      "note": "\"Pure religion and undefiled\" (1:27)."
+    },
+    {
+      "id": "episkeptomai",
+      "note": "\"To visit the fatherless and widows\" (1:27)."
+    },
+    {
+      "id": "orphanos",
+      "note": "\"The fatherless\" (1:27)."
+    },
+    {
+      "id": "chera",
+      "note": "\"And widows\" (1:27)."
+    },
+    {
+      "id": "thlipsis",
+      "note": "\"In their affliction\" (1:27)."
+    },
+    {
+      "id": "aspilos",
+      "note": "\"Unstained by the world\" (1:27)."
+    },
+    {
+      "id": "kosmos",
+      "note": "\"By the world\" (1:27)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Proverbs 2:3-6",
+      "note": "if you call out for understanding... Yahweh gives wisdom"
+    },
+    {
+      "ref": "Isaiah 40:6-8",
+      "note": "all flesh is like grass... the grass withers, the flower fades"
+    },
+    {
+      "ref": "Matthew 5:11-12",
+      "note": "blessed are you when people reproach you... rejoice and be exceedingly glad"
+    },
+    {
+      "ref": "Matthew 7:24-27",
+      "note": "everyone who hears these words of mine and does them"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

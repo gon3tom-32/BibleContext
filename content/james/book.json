@@ -1,0 +1,46 @@
+{
+  "slug": "james",
+  "title": "James",
+  "order": 59,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 5,
+  "tagline": "Practical wisdom for believers under pressure: trials make you steady, faith shows itself in what you do, and the tongue, money, and favoritism need watching.",
+  "author": "James (debated)",
+  "authorNote": "The writer calls himself \"James, a servant of God and of the Lord Jesus Christ\" (1:1) and does not say more. The most common view since early times is that he is James the brother of Jesus, the leader of the Jerusalem church (Acts 12:17; 15:13; Galatians 1:19; 2:9). Some scholars doubt it, because the Greek is polished and the letter does not mention Jesus' earthly family or the debates about circumcision that filled his life; others reply that a Galilean could have had Greek education and that the letter's closeness to Jesus' teaching (compare the Sermon on the Mount) fits Jesus' brother. There were other men named James, among them the apostles James son of Zebedee and James son of Alphaeus.",
+  "authorDebated": true,
+  "audience": "\"The twelve tribes which are in the Dispersion\": Jewish Christians living outside the land of Israel, probably in the Roman world",
+  "audienceNote": "The greeting speaks of the twelve tribes \"in the Dispersion\" (1:1), which can mean Jewish believers scattered by pressure (compare Acts 8:1; 11:19) or, in a wider sense, the whole people of God living as exiles. The letter is full of Jewish worship vocabulary (\"your synagogue\" in 2:2, \"the Lord of Sabaoth\" in 5:4) and speaks to people who suffer from poverty and from wealthy landowners (2:6; 5:1-6).",
+  "setting": "Possibly Jerusalem; dating is debated, from the mid-40s AD to the early 60s (or later)",
+  "settingNote": "If the writer is James of Jerusalem, who was put to death about AD 62 (according to Josephus), the letter was written before that. Some scholars place it very early, in the mid-40s, because it reads like instruction for a community not yet divided by the questions of Acts 15; others place it in the 50s or 60s, in response to a misuse of Paul's teaching on faith, and a few place it later. The letter names no place of writing.",
+  "genre": "Letter, in the style of Jewish wisdom teaching",
+  "genreNote": "A letter with a greeting but no closing greetings. It reads more like a series of short sermons, with quick commands (more than fifty in 108 verses), vivid pictures from nature, and echoes of Proverbs and of Jesus' teaching. It has been compared to the wisdom books of the Old Testament.",
+  "bigIdea": "Real faith holds up under trials, asks God for wisdom without doubting, and shows itself in obedience: listening, controlling the tongue, caring for the poor, refusing favoritism, being humble, and waiting patiently for the Lord's coming.",
+  "themes": [
+    "Trials, endurance, and being made complete",
+    "Wisdom from above",
+    "Hearing and doing the word",
+    "Faith and works",
+    "The tongue",
+    "Rich and poor, and favoritism",
+    "Humility, patience, and prayer"
+  ],
+  "mapTitle": "Map: Jerusalem, the home of the church's leader",
+  "mapSummary": "James names no places. The map shows Jerusalem, where James led the church, as the likely place of writing; the readers were scattered across the Dispersion.",
+  "scene": {
+    "author": "James (debated), probably of Jerusalem",
+    "audience": "Jewish believers scattered in the Dispersion",
+    "happening": "Probably before AD 62 (if by James of Jerusalem)"
+  },
+  "overviewPeople": [
+    "james",
+    "the-twelve-tribes",
+    "the-rich",
+    "the-poor",
+    "the-lord-jesus"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
