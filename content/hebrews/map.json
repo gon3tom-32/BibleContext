@@ -1,0 +1,99 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "egypt",
+      "title": "Out of Egypt",
+      "short": "Egypt",
+      "refs": "Hebrews 3:16; 8:9; 11:22-29",
+      "chapter": 3,
+      "direction": "out",
+      "text": "The land the people left under Moses; the letter points back to this generation as a warning (3:16-19)."
+    },
+    {
+      "order": 2,
+      "placeId": "mount-sinai",
+      "title": "The mountain that could be touched",
+      "short": "Mount Sinai",
+      "refs": "Hebrews 12:18-21",
+      "chapter": 12,
+      "direction": "out",
+      "text": "Where the law was given in fire, darkness, and a trumpet. The readers have come to something better."
+    },
+    {
+      "order": 3,
+      "placeId": "jerusalem",
+      "title": "Salem, Zion, and outside the gate",
+      "short": "Jerusalem",
+      "refs": "Hebrews 7:1-2; 12:22; 13:12",
+      "chapter": 12,
+      "direction": "out",
+      "text": "Melchizedek was king of Salem (often taken as Jerusalem); the readers have come to the heavenly Jerusalem; Jesus suffered outside the gate."
+    },
+    {
+      "order": 4,
+      "placeId": "italy",
+      "title": "Greetings from Italy",
+      "short": "Italy",
+      "refs": "Hebrews 13:24",
+      "chapter": 13,
+      "direction": "out",
+      "text": "\"The Italians greet you\": the only clue to where the author or readers were."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 8.0,
+      "east": 39.5,
+      "south": 25.5,
+      "north": 45.5
+    },
+    "label": "Map of the eastern Mediterranean, drawn from real coordinates. Numbered stops mark Egypt, Mount Sinai, Jerusalem, and Italy.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "egypt",
+        "label": "Egypt",
+        "labelSide": "left"
+      },
+      {
+        "order": 2,
+        "at": "mount-sinai",
+        "label": "Sinai",
+        "labelSide": "left"
+      },
+      {
+        "order": 3,
+        "at": "jerusalem",
+        "label": "Jerusalem",
+        "labelSide": "left"
+      },
+      {
+        "order": 4,
+        "at": "italy",
+        "label": "Italy",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-left",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

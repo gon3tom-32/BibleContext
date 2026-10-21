@@ -1,0 +1,406 @@
+{
+  "sceneHappening": "Faith defined and illustrated: a long roll of those who trusted God before receiving what was promised",
+  "summary": "\"Now faith is assurance of things hoped for, proof of things not seen. For by this, the elders obtained testimony. By faith, we understand that the universe has been framed by the word of God.\" Then a long series, each beginning \"by faith\": Abel offered a more excellent sacrifice and \"through it he, being dead, still speaks\"; Enoch was taken away, for \"without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him\"; Noah prepared an ark; Abraham obeyed and went out \"not knowing where he went,\" lived \"as an alien in the land of promise\" and \"looked for the city which has the foundations, whose builder and maker is God\"; Sarah received power to conceive; Abraham, tested, offered up Isaac, \"concluding that God is able to raise up even from the dead.\" \"These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth... they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them.\" Isaac, Jacob, and Joseph acted by faith; Moses' parents hid him, and Moses refused to be called the son of Pharaoh's daughter, \"choosing rather to share ill treatment with God's people than to enjoy the pleasures of sin for a time, considering the reproach of Christ greater riches than the treasures of Egypt.\" By faith they passed through the Red Sea, the walls of Jericho fell, and Rahab was spared. \"What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets, who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions, quenched the power of fire... Others were tortured, not accepting their deliverance, that they might obtain a better resurrection. Others were tried by mocking and scourging... They were stoned. They were sawn apart... of whom the world was not worthy.\" \"These all, having had testimony given to them through their faith, didn't receive the promise, God having provided some better thing concerning us, so that apart from us they should not be made perfect.\"",
+  "whySettingMatters": "The roll call in chapter 11 is the best-known section of the letter, but it has a purpose: to show a long line of people who kept faith before the promise was fulfilled, so that the tired readers would continue. The definition in 11:1 uses two rare words: hypostasis (\"assurance,\" or \"substance\") and elenchos (\"proof,\" or \"conviction\"); translators have rendered it as \"the substance of things hoped for\" and \"the evidence of things not seen,\" and both meanings are possible. Faith in this chapter is not a general mood but trust that God will keep a promise that has not yet come. The pattern also includes a paradox: some by faith win victories (11:33-35a) while others by faith are tortured and killed (11:35b-38), and both are commended. The mention of \"sawn apart\" may refer to a tradition about the prophet Isaiah. \"The reproach of Christ\" borne by Moses (11:26) reads the Old Testament in light of Christ; the writer sees the earlier faithful as sharing in the same story. The last verses say that these people have not yet \"received the promise,\" so that they are made perfect together with the readers; the promise is not complete without the whole people of God. The list contains some surprising names (Rahab, a Canaanite woman who sheltered spies; Samson; Jephthah), a sign that faith, not moral record, is the point.",
+  "people": [
+    {
+      "id": "the-heroes-of-faith",
+      "note": "Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Rahab, and many unnamed others."
+    },
+    {
+      "id": "abraham",
+      "note": "Went out not knowing where, lived in tents, and offered Isaac."
+    },
+    {
+      "id": "moses",
+      "note": "Chose to share ill treatment with God's people over the treasures of Egypt."
+    },
+    {
+      "id": "the-author",
+      "note": "Defines faith by examples."
+    },
+    {
+      "id": "the-readers",
+      "note": "Told that the faithful of old need them to be made perfect together."
+    }
+  ],
+  "questions": [
+    "\"Faith is assurance of things hoped for, proof of things not seen.\" How would you put that in your own words?",
+    "Some of the people in the list win and some are killed, and all are commended. What does that say about what faith is for?",
+    "\"They desire a better country, that is, a heavenly one.\" How does the pilgrim image change how you hold things?",
+    "\"Apart from us they should not be made perfect.\" What does it mean that those who came before are waiting for the whole people of God?"
+  ],
+  "words": [
+    {
+      "id": "pistis",
+      "note": "\"Now faith is assurance of things hoped for\" (11:1) and \"by faith\" (11:3-31)."
+    },
+    {
+      "id": "hypostasis",
+      "note": "\"Assurance of things hoped for\" (11:1)."
+    },
+    {
+      "id": "elpizo",
+      "note": "\"Of things hoped for\" (11:1)."
+    },
+    {
+      "id": "elenchos",
+      "note": "\"Proof of things not seen\" (11:1). The word means proof or conviction."
+    },
+    {
+      "id": "blepo",
+      "note": "\"Things not seen\" (11:1, 11:3, 11:7)."
+    },
+    {
+      "id": "presbyteros",
+      "note": "\"The elders obtained testimony\" (11:2)."
+    },
+    {
+      "id": "martyreo",
+      "note": "\"Obtained testimony\" (11:2, 11:4-5, 11:39)."
+    },
+    {
+      "id": "katartizo",
+      "note": "\"The universe has been framed by the word of God\" (11:3)."
+    },
+    {
+      "id": "rhema",
+      "note": "\"By the word of God\" (11:3)."
+    },
+    {
+      "id": "aion",
+      "note": "\"The universe\" (11:3). The Greek is \"the ages.\""
+    },
+    {
+      "id": "thysia",
+      "note": "\"Abel offered to God a more excellent sacrifice\" (11:4)."
+    },
+    {
+      "id": "prosphero",
+      "note": "\"Offered... offering up Isaac\" (11:4, 11:17)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"That he was righteous\" (11:4)."
+    },
+    {
+      "id": "laleo",
+      "note": "\"Still speaks\" (11:4)."
+    },
+    {
+      "id": "metatithemi",
+      "note": "\"Enoch was taken away\" (11:5)."
+    },
+    {
+      "id": "euaresteo",
+      "note": "\"Had been well pleasing to God\" (11:5-6). The word appears only here and in 13:16 (a related word)."
+    },
+    {
+      "id": "eulabeomai",
+      "note": "\"Moved with godly fear\" (11:7). The word appears only here."
+    },
+    {
+      "id": "ekzeteo",
+      "note": "\"Those who seek him\" (11:6). The word means to seek out."
+    },
+    {
+      "id": "misthapodotes",
+      "note": "\"A rewarder of those who seek him\" (11:6). The word appears only here."
+    },
+    {
+      "id": "kibotos",
+      "note": "\"Prepared a ship\" (11:7). The Greek is \"ark.\""
+    },
+    {
+      "id": "katakrino",
+      "note": "\"Through which he condemned the world\" (11:7)."
+    },
+    {
+      "id": "kleronomia",
+      "note": "\"For an inheritance\" (11:8)."
+    },
+    {
+      "id": "hypakouo",
+      "note": "\"Abraham, when he was called, obeyed\" (11:8)."
+    },
+    {
+      "id": "paroikeo",
+      "note": "\"He lived as an alien in the land of promise\" (11:9)."
+    },
+    {
+      "id": "skene",
+      "note": "\"Dwelling in tents\" (11:9)."
+    },
+    {
+      "id": "themelios",
+      "note": "\"The city which has the foundations\" (11:10)."
+    },
+    {
+      "id": "technites",
+      "note": "\"Whose builder\" (11:10). The word means craftsman."
+    },
+    {
+      "id": "demiourgos",
+      "note": "\"And maker is God\" (11:10). The word appears only here."
+    },
+    {
+      "id": "steira",
+      "note": "\"Power to conceive\" (11:11). The Greek says \"barren.\""
+    },
+    {
+      "id": "astron",
+      "note": "\"As many as the stars of the sky\" (11:12)."
+    },
+    {
+      "id": "ammos",
+      "note": "\"As innumerable as the sand\" (11:12)."
+    },
+    {
+      "id": "anarithmetos",
+      "note": "\"Innumerable\" (11:12). The word appears only here."
+    },
+    {
+      "id": "porrhothen",
+      "note": "\"Embraced them from afar\" (11:13)."
+    },
+    {
+      "id": "xenos",
+      "note": "\"Strangers and pilgrims on the earth\" (11:13)."
+    },
+    {
+      "id": "parepidemos",
+      "note": "\"And pilgrims\" (11:13)."
+    },
+    {
+      "id": "patris",
+      "note": "\"A country of their own\" (11:14)."
+    },
+    {
+      "id": "epizeteo",
+      "note": "\"They are seeking a country\" (11:14)."
+    },
+    {
+      "id": "anakampto",
+      "note": "\"To return\" (11:15). The word appears only here."
+    },
+    {
+      "id": "epouranios",
+      "note": "\"A better country, that is, a heavenly one\" (11:16)."
+    },
+    {
+      "id": "hetoimazo",
+      "note": "\"For he has prepared a city for them\" (11:16)."
+    },
+    {
+      "id": "peirazo",
+      "note": "\"Abraham, being tested\" (11:17)."
+    },
+    {
+      "id": "monogenes",
+      "note": "\"His one and only son\" (11:17)."
+    },
+    {
+      "id": "anadechomai",
+      "note": "\"He who had gladly received the promises\" (11:17)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"God is able to raise up even from the dead\" (11:19)."
+    },
+    {
+      "id": "eulogeo",
+      "note": "\"Isaac blessed Jacob and Esau\" (11:20-21)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "\"And worshiped, leaning on the top of his staff\" (11:21)."
+    },
+    {
+      "id": "trimenos",
+      "note": "\"Hidden for three months\" (11:23). The word appears only here."
+    },
+    {
+      "id": "asteios",
+      "note": "\"A beautiful child\" (11:23)."
+    },
+    {
+      "id": "diatagma",
+      "note": "\"The king's commandment\" (11:23). The word appears only here."
+    },
+    {
+      "id": "synkakoucheomai",
+      "note": "\"Choosing rather to share ill treatment\" (11:25). The word appears only here."
+    },
+    {
+      "id": "proskairos",
+      "note": "\"For a time\" (11:25)."
+    },
+    {
+      "id": "oneidismos",
+      "note": "\"The reproach of Christ\" (11:26)."
+    },
+    {
+      "id": "apoblepo",
+      "note": "\"He looked to the reward\" (11:26). The word appears only here."
+    },
+    {
+      "id": "kartereo",
+      "note": "\"For he endured\" (11:27). The word appears only here."
+    },
+    {
+      "id": "aoratos",
+      "note": "\"As seeing him who is invisible\" (11:27)."
+    },
+    {
+      "id": "pascha",
+      "note": "\"He kept the Passover\" (11:28)."
+    },
+    {
+      "id": "proschysis",
+      "note": "\"And the sprinkling of the blood\" (11:28). The word appears only here."
+    },
+    {
+      "id": "olothreuo",
+      "note": "\"The destroyer of the firstborn\" (11:28). The word appears only here."
+    },
+    {
+      "id": "diabaino",
+      "note": "\"They passed through the Red Sea\" (11:29)."
+    },
+    {
+      "id": "xeros",
+      "note": "\"As on dry land\" (11:29)."
+    },
+    {
+      "id": "peira",
+      "note": "\"When the Egyptians tried to do so\" (11:29)."
+    },
+    {
+      "id": "katapino",
+      "note": "\"They were swallowed up\" (11:29)."
+    },
+    {
+      "id": "teichos",
+      "note": "\"The walls of Jericho fell down\" (11:30)."
+    },
+    {
+      "id": "kykloo",
+      "note": "\"After they had been encircled\" (11:30)."
+    },
+    {
+      "id": "porne",
+      "note": "\"Rahab the prostitute\" (11:31)."
+    },
+    {
+      "id": "katagonizomai",
+      "note": "\"Who through faith subdued kingdoms\" (11:33). The word appears only here."
+    },
+    {
+      "id": "phrasso",
+      "note": "\"Stopped the mouths of lions\" (11:33)."
+    },
+    {
+      "id": "dynamoo",
+      "note": "\"From weakness were made strong\" (11:34)."
+    },
+    {
+      "id": "parembole",
+      "note": "\"And caused foreign armies to flee\" (11:34)."
+    },
+    {
+      "id": "anastasis",
+      "note": "\"Women received their dead by resurrection\" (11:35)."
+    },
+    {
+      "id": "tympanizo",
+      "note": "\"Others were tortured\" (11:35). The word appears only here."
+    },
+    {
+      "id": "empaigmos",
+      "note": "\"Tried by mocking\" (11:36). The word appears only here."
+    },
+    {
+      "id": "mastix",
+      "note": "\"And scourging\" (11:36)."
+    },
+    {
+      "id": "desmos",
+      "note": "\"By bonds and imprisonment\" (11:36)."
+    },
+    {
+      "id": "phylake",
+      "note": "\"And imprisonment\" (11:36)."
+    },
+    {
+      "id": "lithazo",
+      "note": "\"They were stoned\" (11:37)."
+    },
+    {
+      "id": "prizo",
+      "note": "\"They were sawn apart\" (11:37). The word appears only here."
+    },
+    {
+      "id": "melote",
+      "note": "\"In sheep skins\" (11:37). The word appears only here."
+    },
+    {
+      "id": "aigeios",
+      "note": "\"And in goat skins\" (11:37). The word appears only here."
+    },
+    {
+      "id": "derma",
+      "note": "\"Goat skins\" (11:37). The word means leather."
+    },
+    {
+      "id": "kakoucheo",
+      "note": "\"Ill-treated\" (11:37)."
+    },
+    {
+      "id": "eremia",
+      "note": "\"Wandering in deserts\" (11:38)."
+    },
+    {
+      "id": "spelaion",
+      "note": "\"Caves\" (11:38)."
+    },
+    {
+      "id": "ope",
+      "note": "\"And the holes of the earth\" (11:38)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"Didn't receive the promise\" (11:39)."
+    },
+    {
+      "id": "problepo",
+      "note": "\"God having provided some better thing\" (11:40). The word means to see ahead."
+    },
+    {
+      "id": "teleioo",
+      "note": "\"They should not be made perfect\" (11:40)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 15:1-6",
+      "note": "he believed in Yahweh, who credited it to him for righteousness"
+    },
+    {
+      "ref": "Genesis 22:1-19",
+      "note": "God tested Abraham: take your son, your only son Isaac"
+    },
+    {
+      "ref": "Exodus 14:21-31",
+      "note": "the people walked on dry land through the sea"
+    },
+    {
+      "ref": "Joshua 6:1-21",
+      "note": "the wall of the city fell down flat"
+    }
+  ],
+  "number": 11,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "sceneHappening": "The earthly tabernacle and its limits; Christ enters the true sanctuary with his own blood, once for all",
+  "summary": "\"Now indeed even the first covenant had ordinances of divine service and an earthly sanctuary. For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread; which is called the Holy Place. After the second veil was the tabernacle which is called the Holy of Holies, having a golden altar of incense, and the ark of the covenant overlaid on all sides with gold, in which was a golden pot holding the manna, Aaron's rod that budded, and the tablets of the covenant; and above it cherubim of glory overshadowing the mercy seat.\" The priests go continually into the first part, but \"into the second the high priest alone, once in the year, not without blood, which he offers for himself, and for the errors of the people. The Holy Spirit is indicating this, that the way into the Holy Place wasn't yet revealed while the first tabernacle was still standing. This is a symbol of the present age, where gifts and sacrifices are offered that are incapable, concerning the conscience, of making the worshiper perfect.\" \"But Christ having come as a high priest of the coming good things, through the greater and more perfect tabernacle, not made with hands... nor yet through the blood of goats and calves, but through his own blood, entered in once for all into the Holy Place, having obtained eternal redemption. For if the blood of goats and bulls, and the ashes of a heifer sprinkling those who have been defiled, sanctify to the cleanness of the flesh, how much more will the blood of Christ, who through the eternal Spirit offered himself without defect to God, cleanse your conscience from dead works to serve the living God?\" \"For this reason he is the mediator of a new covenant, since a death has occurred for the redemption of the transgressions that were under the first covenant.\" \"For where a last will and testament is, there must of necessity be the death of him who made it.\" The first covenant was dedicated with blood, \"and apart from shedding of blood there is no remission.\" \"For Christ hasn't entered into holy places made with hands... but into heaven itself, now to appear in the presence of God for us... But now once at the end of the ages, he has been revealed to put away sin by the sacrifice of himself. Inasmuch as it is appointed for men to die once, and after this, judgment, so Christ also, having been offered once to bear the sins of many, will appear a second time, without sin, to those who are eagerly waiting for him for salvation.\"",
+  "whySettingMatters": "The description of the tabernacle is in Exodus 25-26, though the writer's details differ slightly: he places the golden altar of incense in the Most Holy Place (9:4), while Exodus 30:6 puts it in front of the curtain, and he names \"Aaron's rod\" and \"the manna\" as being inside the ark, whereas 1 Kings 8:9 says only the tablets were there. These differences have been explained as the writer's way of speaking of the altar's use on the Day of Atonement, or of following other Jewish tradition; the letter does not say. The Day of Atonement (Leviticus 16) is the background: once a year the high priest took blood into the Most Holy Place. The writer's point is that this showed the way to God was still closed (9:8) and that the sacrifices could only clean the outside (\"the flesh\") and not the conscience. \"Through the eternal Spirit\" (9:14) has been read as the Holy Spirit, or as Christ's own eternal spirit. In 9:16-17 the word diatheke can mean \"covenant\" or \"will\" (a testament that takes effect at death); the writer plays on both senses, and translators differ on whether to use \"covenant\" in these verses. \"Apart from shedding of blood there is no remission\" (9:22) echoes Leviticus 17:11. The picture of Christ's \"second appearing\" (9:28) borrows the image of the high priest coming out of the sanctuary to the waiting people, as in Leviticus 16.",
+  "people": [
+    {
+      "id": "jesus-the-son",
+      "note": "The high priest who entered once for all with his own blood."
+    },
+    {
+      "id": "moses",
+      "note": "Sprinkled the book and the people with blood to ratify the first covenant."
+    },
+    {
+      "id": "aaron-and-the-levitical-priests",
+      "note": "Priests who went in daily and once a year to the Holy of Holies."
+    },
+    {
+      "id": "the-readers",
+      "note": "Told the blood of Christ cleanses their conscience."
+    }
+  ],
+  "questions": [
+    "The writer says the old rites could only cleanse \"the flesh,\" not the conscience. What do you think a cleansed conscience is?",
+    "\"Without defect\" and \"through the eternal Spirit\": how does the writer connect the cross to the Spirit?",
+    "\"It is appointed for men to die once, and after this, judgment.\" How does the writer use that fact to talk about Christ?",
+    "Christ \"will appear a second time, without sin, to those who are eagerly waiting.\" What kind of waiting is this?"
+  ],
+  "words": [
+    {
+      "id": "diatheke",
+      "note": "\"The first covenant\" (9:1, 9:15, 9:18-20) and \"a last will and testament\" (9:16-17)."
+    },
+    {
+      "id": "dikaioma",
+      "note": "\"Had ordinances of divine service\" (9:1, 9:10)."
+    },
+    {
+      "id": "latreia",
+      "note": "\"Of divine service\" (9:1, 9:6)."
+    },
+    {
+      "id": "kosmikos",
+      "note": "\"And an earthly sanctuary\" (9:1)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"Sanctuary\" (9:1-3, 9:8, 9:12, 9:24-25)."
+    },
+    {
+      "id": "skene",
+      "note": "\"A tabernacle was prepared\" (9:2-3, 9:6, 9:8, 9:11, 9:21)."
+    },
+    {
+      "id": "lychnia",
+      "note": "\"The lamp stand\" (9:2). The word appears only here in this sense."
+    },
+    {
+      "id": "trapeza",
+      "note": "\"The table\" (9:2)."
+    },
+    {
+      "id": "artos",
+      "note": "\"And the show bread\" (9:2)."
+    },
+    {
+      "id": "katapetasma",
+      "note": "\"After the second veil\" (9:3)."
+    },
+    {
+      "id": "thymiaterion",
+      "note": "\"A golden altar of incense\" (9:4). The word appears only here and may mean incense altar or censer."
+    },
+    {
+      "id": "kibotos",
+      "note": "\"The ark of the covenant\" (9:4)."
+    },
+    {
+      "id": "perikalypto",
+      "note": "\"Overlaid on all sides with gold\" (9:4)."
+    },
+    {
+      "id": "pantothen",
+      "note": "\"On all sides\" (9:4)."
+    },
+    {
+      "id": "chrysion",
+      "note": "\"With gold\" (9:4)."
+    },
+    {
+      "id": "stamnos",
+      "note": "\"A golden pot\" (9:4). The word appears only here."
+    },
+    {
+      "id": "manna",
+      "note": "\"Holding the manna\" (9:4)."
+    },
+    {
+      "id": "blastano",
+      "note": "\"Aaron's rod that budded\" (9:4)."
+    },
+    {
+      "id": "plax",
+      "note": "\"And the tablets of the covenant\" (9:4)."
+    },
+    {
+      "id": "hyperano",
+      "note": "\"And above it\" (9:5). The word appears only here and in Ephesians 4:10."
+    },
+    {
+      "id": "cheroubim",
+      "note": "\"Cherubim of glory\" (9:5)."
+    },
+    {
+      "id": "kataskiazo",
+      "note": "\"Overshadowing the mercy seat\" (9:5). The word appears only here."
+    },
+    {
+      "id": "hilasterion",
+      "note": "\"The mercy seat\" (9:5)."
+    },
+    {
+      "id": "eiseimi",
+      "note": "\"The priests go in continually\" (9:6)."
+    },
+    {
+      "id": "eniautos",
+      "note": "\"Once in the year\" (9:7)."
+    },
+    {
+      "id": "haima",
+      "note": "\"Not without blood\" (9:7), \"his own blood\" (9:12)."
+    },
+    {
+      "id": "agnoema",
+      "note": "\"And for the errors of the people\" (9:7). The word appears only here."
+    },
+    {
+      "id": "deloo",
+      "note": "\"The Holy Spirit is indicating this\" (9:8)."
+    },
+    {
+      "id": "parabole",
+      "note": "\"A symbol of the present age\" (9:9)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"Concerning the conscience\" (9:9, 9:14)."
+    },
+    {
+      "id": "teleioo",
+      "note": "\"Of making the worshiper perfect\" (9:9)."
+    },
+    {
+      "id": "broma",
+      "note": "\"With meats and drinks\" (9:10)."
+    },
+    {
+      "id": "poma",
+      "note": "\"And drinks\" (9:10)."
+    },
+    {
+      "id": "baptismos",
+      "note": "\"And various washings\" (9:10)."
+    },
+    {
+      "id": "diorthosis",
+      "note": "\"Until a time of reformation\" (9:10). The word appears only here."
+    },
+    {
+      "id": "cheiropoietos",
+      "note": "\"Not made with hands\" (9:11, 9:24)."
+    },
+    {
+      "id": "tragos",
+      "note": "\"The blood of goats\" (9:12-13)."
+    },
+    {
+      "id": "moschos",
+      "note": "\"And calves\" (9:12)."
+    },
+    {
+      "id": "lytrosis",
+      "note": "\"Having obtained eternal redemption\" (9:12)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"Eternal redemption\" (9:12), \"the eternal Spirit\" (9:14), and \"the eternal inheritance\" (9:15)."
+    },
+    {
+      "id": "tauros",
+      "note": "\"Of goats and bulls\" (9:13)."
+    },
+    {
+      "id": "spodos",
+      "note": "\"And the ashes of a heifer\" (9:13)."
+    },
+    {
+      "id": "damalis",
+      "note": "\"Of a heifer\" (9:13). The word appears only here."
+    },
+    {
+      "id": "rhantizo",
+      "note": "\"Sprinkling those who have been defiled\" (9:13, 9:19, 9:21)."
+    },
+    {
+      "id": "katharotes",
+      "note": "\"To the cleanness of the flesh\" (9:13). The word appears only here."
+    },
+    {
+      "id": "katharizo",
+      "note": "\"Cleanse your conscience\" (9:14, 9:22-23)."
+    },
+    {
+      "id": "prosphero",
+      "note": "\"Offered himself without defect to God\" (9:14, 9:25, 9:28)."
+    },
+    {
+      "id": "amomos",
+      "note": "\"Without defect\" (9:14)."
+    },
+    {
+      "id": "mesites",
+      "note": "\"The mediator of a new covenant\" (9:15)."
+    },
+    {
+      "id": "apolytrosis",
+      "note": "\"For the redemption of the transgressions\" (9:15)."
+    },
+    {
+      "id": "kleronomia",
+      "note": "\"The eternal inheritance\" (9:15)."
+    },
+    {
+      "id": "ischyo",
+      "note": "\"A will is in force\" (9:17)."
+    },
+    {
+      "id": "egkainizo",
+      "note": "\"Has not been dedicated without blood\" (9:18)."
+    },
+    {
+      "id": "erion",
+      "note": "\"With water and scarlet wool\" (9:19)."
+    },
+    {
+      "id": "kokkinos",
+      "note": "\"Scarlet wool\" (9:19)."
+    },
+    {
+      "id": "hyssopos",
+      "note": "\"And hyssop\" (9:19)."
+    },
+    {
+      "id": "entello",
+      "note": "\"Which God has commanded you\" (9:20)."
+    },
+    {
+      "id": "schedon",
+      "note": "\"Nearly everything is cleansed with blood\" (9:22)."
+    },
+    {
+      "id": "haimatekchysia",
+      "note": "\"Apart from shedding of blood\" (9:22). The word appears only here."
+    },
+    {
+      "id": "aphesis",
+      "note": "\"There is no remission\" (9:22)."
+    },
+    {
+      "id": "antitypos",
+      "note": "\"Which are representations of the true\" (9:24)."
+    },
+    {
+      "id": "emphanizo",
+      "note": "\"Now to appear in the presence of God for us\" (9:24)."
+    },
+    {
+      "id": "allotrios",
+      "note": "\"With blood not his own\" (9:25)."
+    },
+    {
+      "id": "synteleia",
+      "note": "\"At the end of the ages\" (9:26)."
+    },
+    {
+      "id": "phaneroo",
+      "note": "\"He has been revealed to put away sin\" (9:26)."
+    },
+    {
+      "id": "athetesis",
+      "note": "\"To put away sin\" (9:26)."
+    },
+    {
+      "id": "hapax",
+      "note": "\"To die once\" (9:27) and \"offered once\" (9:28)."
+    },
+    {
+      "id": "krisis",
+      "note": "\"And after this, judgment\" (9:27)."
+    },
+    {
+      "id": "apekdechomai",
+      "note": "\"To those who are eagerly waiting for him\" (9:28)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"For salvation\" (9:28)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Leviticus 16:1-34",
+      "note": "the Day of Atonement: the high priest enters the Holy of Holies with blood"
+    },
+    {
+      "ref": "Exodus 24:3-8",
+      "note": "Moses took the blood and sprinkled it on the people: this is the blood of the covenant"
+    },
+    {
+      "ref": "Leviticus 17:11",
+      "note": "the life of the flesh is in the blood... it is the blood that makes atonement"
+    },
+    {
+      "ref": "1 Peter 1:18-19",
+      "note": "you were redeemed... with precious blood, as of a lamb without blemish"
+    }
+  ],
+  "number": 9,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

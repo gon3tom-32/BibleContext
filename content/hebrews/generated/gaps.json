@@ -1,0 +1,65 @@
+{
+  "_about": "Gaps and problems found while pulling data.",
+  "gaps": [
+    {
+      "area": "words",
+      "text": "\"Matthew 2:20\" (listed under ge): STEPBible tags the same word there as G1093H, a different sense (\"earth\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Galatians 6:1\" (listed under peirazo): STEPBible tags the same word there as G3985G, a different sense (\"to test/tempt\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Matthew 24:38\" (listed under kibotos): STEPBible tags the same word there as G2787H, a different sense (\"ark\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Luke 17:27\" (listed under kibotos): STEPBible tags the same word there as G2787H, a different sense (\"ark\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"1 Peter 3:20\" (listed under kibotos): STEPBible tags the same word there as G2787H, a different sense (\"ark\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Luke 2:8\" (listed under phylake): STEPBible tags the same word there as G5438H, a different sense (\"prison/watch\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"James 5:15\" (listed under kamno): STEPBible tags the same word there as G2577H, a different sense (\"be weary/sick\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Matthew 1:19\" (listed under apoluo): STEPBible tags the same word there as G0630H, a different sense (\"to release\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "interpretation",
+      "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
+    },
+    {
+      "area": "words",
+      "text": "Range of meaning, English renderings, pronunciations, and notes are hand-written and need review. The STEPBible lexicon entry is shown alongside them."
+    },
+    {
+      "area": "people",
+      "text": "Theographic's descriptions are Easton's Bible Dictionary (1897) and its dates are debated; neither is displayed."
+    },
+    {
+      "area": "text",
+      "text": "The HelloAO Free Use Bible API and openbible.info aren't reachable from the build environment, so the WEB text and the cross-reference file come from GitHub mirrors (see the Sources page)."
+    },
+    {
+      "area": "places",
+      "text": "The Mediterranean Sea is pulled to draw the map."
+    },
+    {
+      "area": "places",
+      "text": "Hebrews names few places; the map shows only those the letter mentions."
+    },
+    {
+      "area": "chapters",
+      "text": "All chapters need a hand-written context draft."
+    }
+  ]
+}

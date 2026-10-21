@@ -1,0 +1,322 @@
+{
+  "sceneHappening": "Melchizedek and the better priesthood: Jesus, priest forever, makes the Levitical priesthood and the law obsolete",
+  "summary": "\"For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him, to whom also Abraham divided a tenth part of all (being first, by interpretation, 'king of righteousness', and then also 'king of Salem', which means 'king of peace', without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually.\" \"Now consider how great this man was, to whom even Abraham, the patriarch, gave a tenth out of the best plunder.\" The Levites take tithes, but Melchizedek, whose genealogy is not counted from them, took tithes from Abraham and blessed him; \"without any dispute the lesser is blessed by the greater,\" and \"through Abraham even Levi, who receives tithes, has paid tithes, for he was yet in the body of his father when Melchizedek met him.\" \"Now if perfection was through the Levitical priesthood... what further need was there for another priest to arise after the order of Melchizedek?\" \"For the priesthood being changed, there is of necessity a change made also in the law.\" Jesus comes from Judah, \"about which tribe Moses spoke nothing concerning priesthood,\" and is priest \"not after the law of a fleshly commandment, but after the power of an endless life.\" He is priest with an oath: \"The Lord swore and will not change his mind, 'You are a priest forever.'\" \"By so much, Jesus has become the collateral of a better covenant.\" \"Many, indeed, have been made priests, because they are hindered from continuing by death. But he, because he lives forever, has his priesthood unchangeable. Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them. For such a high priest was fitting for us: holy, guiltless, undefiled, separated from sinners, and made higher than the heavens; who doesn't need, like those high priests, to offer up sacrifices daily, first for his own sins, and then for the sins of the people. For he did this once for all, when he offered up himself.\"",
+  "whySettingMatters": "Melchizedek appears in only two Old Testament passages: Genesis 14:18-20, where he blesses Abraham, and Psalm 110:4, where David's lord is called \"a priest forever after the order of Melchizedek.\" The writer reads the silence of Genesis about Melchizedek's birth and death as a sign: because no ancestry or death is recorded, he is \"made like the Son of God.\" This is a typical way of reading in the Jewish world, finding meaning in what a text says and does not say, and is not a claim that Melchizedek was literally a heavenly being, though some in the ancient world read him that way (a Dead Sea text, 11QMelchizedek, makes him a heavenly figure). The argument depends on the idea that Levi was \"in Abraham\" when Abraham tithed, so Levi's line is inferior to Melchizedek's. The priesthood was bound to the law (7:11-12): if a new priesthood is possible, the law that governed the old one has changed. Jesus comes from the tribe of Judah, not Levi, so he is priest not by descent but by \"the power of an endless life.\" The most striking claim is that he is able to \"save to the uttermost\" because he \"lives forever to make intercession\" (7:25); the word \"uttermost\" can mean completely or forever. The \"collateral\" (7:22, egguos) is a guarantee that stands as security for the covenant. Where Salem was is debated; Psalm 76:2 identifies Salem with Jerusalem.",
+  "people": [
+    {
+      "id": "melchizedek",
+      "note": "King of Salem and priest of God Most High, who blessed Abraham and received a tenth."
+    },
+    {
+      "id": "abraham",
+      "note": "Paid tithes and was blessed."
+    },
+    {
+      "id": "aaron-and-the-levitical-priests",
+      "note": "The priests who die and who offer daily."
+    },
+    {
+      "id": "jesus-the-son",
+      "note": "Priest forever in the order of Melchizedek; holy, guiltless, and able to save to the uttermost."
+    },
+    {
+      "id": "the-author",
+      "note": "Reads Genesis 14 and Psalm 110 together."
+    }
+  ],
+  "questions": [
+    "The writer finds meaning in what Genesis does not say about Melchizedek. What do you make of that way of reading?",
+    "If the priesthood changes, the law changes. What does the writer mean, and what does he not say?",
+    "Jesus \"lives forever to make intercession.\" What difference does it make to be prayed for by someone who cannot die?",
+    "\"Holy, guiltless, undefiled, separated from sinners, and made higher than the heavens.\" Why is a priest like this \"fitting for us\"?"
+  ],
+  "words": [
+    {
+      "id": "basileus",
+      "note": "\"Melchizedek, king of Salem\" (7:1-2)."
+    },
+    {
+      "id": "hiereus",
+      "note": "\"Priest of God Most High\" (7:1) and \"remains a priest continually\" (7:3)."
+    },
+    {
+      "id": "hypsistos",
+      "note": "\"Of God Most High\" (7:1)."
+    },
+    {
+      "id": "synantao",
+      "note": "\"Who met Abraham\" (7:1, 7:10)."
+    },
+    {
+      "id": "hypostrepho",
+      "note": "\"Returning from the slaughter of the kings\" (7:1)."
+    },
+    {
+      "id": "kope",
+      "note": "\"The slaughter of the kings\" (7:1)."
+    },
+    {
+      "id": "eulogeo",
+      "note": "\"And blessed him\" (7:1, 7:6-7)."
+    },
+    {
+      "id": "dekate",
+      "note": "\"A tenth part of all\" (7:2, 7:4, 7:8-9)."
+    },
+    {
+      "id": "merizo",
+      "note": "\"Abraham divided a tenth part\" (7:2)."
+    },
+    {
+      "id": "hermeneuo",
+      "note": "\"By interpretation\" (7:2)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"King of righteousness\" (7:2)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"King of peace\" (7:2)."
+    },
+    {
+      "id": "apator",
+      "note": "\"Without father\" (7:3). The word appears only here."
+    },
+    {
+      "id": "ametor",
+      "note": "\"Without mother\" (7:3). The word appears only here."
+    },
+    {
+      "id": "agenealogetos",
+      "note": "\"Without genealogy\" (7:3). The word appears only here."
+    },
+    {
+      "id": "aphomoioo",
+      "note": "\"But made like the Son of God\" (7:3). The word appears only here."
+    },
+    {
+      "id": "dienekes",
+      "note": "\"Remains a priest continually\" (7:3)."
+    },
+    {
+      "id": "theoreo",
+      "note": "\"Now consider how great this man was\" (7:4)."
+    },
+    {
+      "id": "pelikos",
+      "note": "\"How great\" (7:4)."
+    },
+    {
+      "id": "patriarches",
+      "note": "\"Abraham, the patriarch\" (7:4)."
+    },
+    {
+      "id": "akrothinion",
+      "note": "\"Out of the best plunder\" (7:4). The word means the top of the heap."
+    },
+    {
+      "id": "hierateia",
+      "note": "\"Who receive the priest's office\" (7:5)."
+    },
+    {
+      "id": "apodekatoo",
+      "note": "\"To take tithes of the people\" (7:5)."
+    },
+    {
+      "id": "osphys",
+      "note": "\"Out of the body of Abraham\" (7:5, 7:10). The Greek means loins."
+    },
+    {
+      "id": "genealogeo",
+      "note": "\"Whose genealogy is not counted from them\" (7:6)."
+    },
+    {
+      "id": "dekatoo",
+      "note": "\"Has paid tithes\" (7:6, 7:9)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"Him who has the promises\" (7:6)."
+    },
+    {
+      "id": "elasson",
+      "note": "\"The lesser is blessed by the greater\" (7:7)."
+    },
+    {
+      "id": "apothnesko",
+      "note": "\"Here people who die receive tithes\" (7:8)."
+    },
+    {
+      "id": "teleiosis",
+      "note": "\"If perfection was through the Levitical priesthood\" (7:11)."
+    },
+    {
+      "id": "leuitikos",
+      "note": "\"The Levitical priesthood\" (7:11)."
+    },
+    {
+      "id": "hierosyne",
+      "note": "\"Priesthood\" (7:11-12, 7:14, 7:24)."
+    },
+    {
+      "id": "nomotheteo",
+      "note": "\"The people have received the law\" (7:11)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"A change made also in the law\" (7:12) and \"the law made nothing perfect\" (7:19)."
+    },
+    {
+      "id": "metathesis",
+      "note": "\"A change made also in the law\" (7:12)."
+    },
+    {
+      "id": "phyle",
+      "note": "\"Belongs to another tribe\" (7:13-14)."
+    },
+    {
+      "id": "thysiasterion",
+      "note": "\"Has officiated at the altar\" (7:13)."
+    },
+    {
+      "id": "anatello",
+      "note": "\"Our Lord has sprung out of Judah\" (7:14)."
+    },
+    {
+      "id": "katadelos",
+      "note": "\"This is yet more abundantly evident\" (7:15). The word appears only here."
+    },
+    {
+      "id": "homoiotes",
+      "note": "\"After the likeness of Melchizedek\" (7:15)."
+    },
+    {
+      "id": "sarkinos",
+      "note": "\"A fleshly commandment\" (7:16)."
+    },
+    {
+      "id": "entole",
+      "note": "\"After the law of a fleshly commandment\" (7:16, 7:18)."
+    },
+    {
+      "id": "akatalytos",
+      "note": "\"After the power of an endless life\" (7:16). The word appears only here."
+    },
+    {
+      "id": "zoe",
+      "note": "\"An endless life\" (7:16)."
+    },
+    {
+      "id": "athetesis",
+      "note": "\"An annulling of a foregoing commandment\" (7:18)."
+    },
+    {
+      "id": "epeisagoge",
+      "note": "\"And a bringing in of a better hope\" (7:19). The word appears only here."
+    },
+    {
+      "id": "kreisson",
+      "note": "\"A better hope\" (7:19), \"a better covenant\" (7:22)."
+    },
+    {
+      "id": "eggizo",
+      "note": "\"Through which we draw near to God\" (7:19)."
+    },
+    {
+      "id": "horkomosia",
+      "note": "\"Without the taking of an oath\" (7:20-21, 7:28)."
+    },
+    {
+      "id": "metamelomai",
+      "note": "\"The Lord swore and will not change his mind\" (7:21)."
+    },
+    {
+      "id": "eggyos",
+      "note": "\"The collateral of a better covenant\" (7:22). The word appears only here."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"A better covenant\" (7:22)."
+    },
+    {
+      "id": "paramano",
+      "note": "\"Hindered from continuing by death\" (7:23)."
+    },
+    {
+      "id": "aparabatos",
+      "note": "\"Has his priesthood unchangeable\" (7:24). The word means permanent."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Able to save to the uttermost\" (7:25)."
+    },
+    {
+      "id": "pantoles",
+      "note": "\"To the uttermost\" (7:25)."
+    },
+    {
+      "id": "entygchano",
+      "note": "\"To make intercession for them\" (7:25)."
+    },
+    {
+      "id": "archiereus",
+      "note": "\"For such a high priest was fitting for us\" (7:26-28)."
+    },
+    {
+      "id": "hosios",
+      "note": "\"Holy\" (7:26)."
+    },
+    {
+      "id": "akakos",
+      "note": "\"Guiltless\" (7:26)."
+    },
+    {
+      "id": "amiantos",
+      "note": "\"Undefiled\" (7:26)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"Separated from sinners\" (7:26)."
+    },
+    {
+      "id": "thysia",
+      "note": "\"To offer up sacrifices daily\" (7:27)."
+    },
+    {
+      "id": "anaphero",
+      "note": "\"To offer up sacrifices\" (7:27)."
+    },
+    {
+      "id": "ephapax",
+      "note": "\"He did this once for all\" (7:27)."
+    },
+    {
+      "id": "teleioo",
+      "note": "\"A Son forever who has been perfected\" (7:28)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Genesis 14:17-20",
+      "note": "Melchizedek king of Salem brought out bread and wine... he blessed him"
+    },
+    {
+      "ref": "Psalm 110:1-4",
+      "note": "you are a priest forever after the order of Melchizedek"
+    },
+    {
+      "ref": "Jeremiah 31:31-34",
+      "note": "I will make a new covenant with the house of Israel"
+    },
+    {
+      "ref": "Romans 8:34",
+      "note": "Christ Jesus is he who died... who also makes intercession for us"
+    }
+  ],
+  "number": 7,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

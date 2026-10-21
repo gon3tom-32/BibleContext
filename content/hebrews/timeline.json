@@ -1,0 +1,109 @@
+{
+  "title": "Where Hebrews fits",
+  "eras": [
+    {
+      "id": "herod",
+      "label": "Rome and Herod",
+      "order": 1
+    },
+    {
+      "id": "ministry",
+      "label": "Jesus' ministry",
+      "order": 2
+    },
+    {
+      "id": "church",
+      "label": "The early church",
+      "order": 3
+    },
+    {
+      "id": "war",
+      "label": "The Jewish war and after",
+      "order": 4
+    }
+  ],
+  "focusEraId": "church",
+  "lanes": [
+    {
+      "id": "israel",
+      "label": "Judea and Galilee"
+    },
+    {
+      "id": "neighbors",
+      "label": "The empire"
+    },
+    {
+      "id": "book",
+      "label": "This book"
+    }
+  ],
+  "events": [
+    {
+      "lane": "israel",
+      "eraId": "herod",
+      "text": "Herod the Great rules for Rome and rebuilds the temple."
+    },
+    {
+      "lane": "israel",
+      "eraId": "ministry",
+      "text": "Jesus is crucified and rises (about AD 30)."
+    },
+    {
+      "lane": "israel",
+      "eraId": "church",
+      "text": "The temple still stands, with its priests and sacrifices; the church spreads."
+    },
+    {
+      "lane": "israel",
+      "eraId": "war",
+      "text": "Revolt against Rome from AD 66; the temple destroyed in AD 70."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "herod",
+      "text": "Augustus becomes emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "ministry",
+      "text": "Tiberius is emperor."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "church",
+      "text": "Nero is emperor from AD 54; the fire of Rome in AD 64 leads to persecution in the city."
+    },
+    {
+      "lane": "neighbors",
+      "eraId": "war",
+      "text": "A year of civil war, then Vespasian."
+    },
+    {
+      "lane": "book",
+      "eraId": "church",
+      "text": "Written probably in the 60s, before the temple fell (debated)",
+      "highlight": true
+    }
+  ],
+  "teaser": [
+    {
+      "title": "The first believers are tested",
+      "text": "Insults, prison, and loss of property (10:32-34).",
+      "tone": "green"
+    },
+    {
+      "title": "Hebrews is written",
+      "text": "A sermon to a tired community, perhaps in the 60s.",
+      "tone": "gold"
+    },
+    {
+      "title": "The temple falls",
+      "text": "Rome destroys the temple in AD 70, ending the sacrifices the letter describes.",
+      "tone": "ink"
+    }
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
