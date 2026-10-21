@@ -1,0 +1,226 @@
+{
+  "sceneHappening": "God has spoken in his Son, who is greater than the angels",
+  "summary": "\"God, having in the past spoken to the fathers through the prophets at many times and in various ways, has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.\" The Son \"is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, having become as much better than the angels as the more excellent name he has inherited is better than theirs.\" Then comes a chain of quotations: \"You are my Son. Today I have become your father\" (Psalm 2:7); \"I will be to him a Father\" (2 Samuel 7:14); \"Let all the angels of God worship him\"; \"He makes his angels winds, and his servants a flame of fire\" (Psalm 104:4); \"Your throne, O God, is forever and ever\" (Psalm 45:6-7); \"You, Lord, in the beginning, laid the foundation of the earth\" (Psalm 102:25-27); and \"Sit at my right hand, until I make your enemies the footstool of your feet\" (Psalm 110:1). The angels, by contrast, are \"serving spirits, sent out to do service for the sake of those who will inherit salvation.\"",
+  "whySettingMatters": "The letter has no greeting and begins like a speech, with one long, balanced sentence in Greek that sets out its theme: God has spoken in many ways before, and now fully in a Son. The Son is described in ways that echo Jewish writing about God's Wisdom (Wisdom 7:25-26): \"radiance of his glory,\" \"very image\" (Greek charakter, a stamp or an impression), and \"upholding all things.\" The first main section is a comparison with angels, which may be because angels were thought to have mediated the law (2:2; Acts 7:53; Galatians 3:19), or because some teaching in the community gave angels too high a place; the letter does not say. All seven quotations come from the Greek translation of the Old Testament and are read as pointing to the Messiah. One of them calls the Son \"God\" (1:8, from Psalm 45:6), a verse that can also be translated \"God is your throne,\" though most read it as addressed to the Son. The statement that he \"has inherited a more excellent name\" is not specified, but is probably \"Son\" (1:5). Hebrews often uses the word \"today\" and \"again\" to link Scripture to the reader's moment.",
+  "people": [
+    {
+      "id": "the-author",
+      "note": "Speaks to the readers in the first person plural, opening with a theme sentence."
+    },
+    {
+      "id": "jesus-the-son",
+      "note": "God's final word, heir of all things, radiance of glory, seated at the right hand."
+    },
+    {
+      "id": "the-readers",
+      "note": "Told that God has spoken to \"us\" by a Son."
+    }
+  ],
+  "questions": [
+    "The letter starts with \"God... has spoken.\" How does it change a reader's approach to Scripture to begin with the idea that God speaks?",
+    "The Son is described as \"radiance\" and \"image.\" What does each picture say about how he relates to God?",
+    "Why might a writer begin by showing that the Son is greater than the angels? What fear or temptation is he answering?",
+    "The seven quotations all come from the Psalms and promises to David. What does that say about how the author reads the Old Testament?"
+  ],
+  "words": [
+    {
+      "id": "polymeros",
+      "note": "\"At many times\" (1:1). The word appears only here."
+    },
+    {
+      "id": "polytropos",
+      "note": "\"And in various ways\" (1:1). The word appears only here."
+    },
+    {
+      "id": "palai",
+      "note": "\"In the past\" (1:1)."
+    },
+    {
+      "id": "pater",
+      "note": "\"To the fathers\" (1:1) and \"I will be to him a Father\" (1:5)."
+    },
+    {
+      "id": "prophetes",
+      "note": "\"Through the prophets\" (1:1)."
+    },
+    {
+      "id": "huios",
+      "note": "\"Spoken to us by his Son\" (1:2, 1:5, 1:8)."
+    },
+    {
+      "id": "kleronomos",
+      "note": "\"Whom he appointed heir of all things\" (1:2)."
+    },
+    {
+      "id": "aion",
+      "note": "\"Through whom also he made the worlds\" (1:2). The Greek is \"ages.\""
+    },
+    {
+      "id": "apaugasma",
+      "note": "\"The radiance of his glory\" (1:3). The word appears only here."
+    },
+    {
+      "id": "doxa",
+      "note": "\"The radiance of his glory\" (1:3)."
+    },
+    {
+      "id": "charakter",
+      "note": "\"The very image of his substance\" (1:3). The word appears only here."
+    },
+    {
+      "id": "hypostasis",
+      "note": "\"Of his substance\" (1:3). The word means what stands under, the underlying reality."
+    },
+    {
+      "id": "rhema",
+      "note": "\"By the word of his power\" (1:3)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"The word of his power\" (1:3)."
+    },
+    {
+      "id": "katharismos",
+      "note": "\"When he had by himself purified us of our sins\" (1:3)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Purified us of our sins\" (1:3)."
+    },
+    {
+      "id": "kathizo",
+      "note": "\"Sat down on the right hand of the Majesty\" (1:3)."
+    },
+    {
+      "id": "megalosyne",
+      "note": "\"The Majesty on high\" (1:3)."
+    },
+    {
+      "id": "hypselos",
+      "note": "\"On high\" (1:3)."
+    },
+    {
+      "id": "aggelos",
+      "note": "\"Better than the angels\" (1:4-7, 1:13-14)."
+    },
+    {
+      "id": "kreisson",
+      "note": "\"As much better than the angels\" (1:4)."
+    },
+    {
+      "id": "onoma",
+      "note": "\"The more excellent name he has inherited\" (1:4)."
+    },
+    {
+      "id": "prototokos",
+      "note": "\"When he again brings in the firstborn into the world\" (1:6)."
+    },
+    {
+      "id": "oikoumene",
+      "note": "\"Into the world\" (1:6)."
+    },
+    {
+      "id": "proskuneo",
+      "note": "\"Let all the angels of God worship him\" (1:6)."
+    },
+    {
+      "id": "pneuma",
+      "note": "\"He makes his angels winds\" (1:7) and \"serving spirits\" (1:14)."
+    },
+    {
+      "id": "thronos",
+      "note": "\"Your throne, O God, is forever and ever\" (1:8)."
+    },
+    {
+      "id": "rhabdos",
+      "note": "\"The scepter of uprightness\" (1:8)."
+    },
+    {
+      "id": "euthes",
+      "note": "\"Of uprightness\" (1:8). The word appears only here."
+    },
+    {
+      "id": "basileia",
+      "note": "\"The scepter of your Kingdom\" (1:8)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"You have loved righteousness\" (1:9)."
+    },
+    {
+      "id": "anomia",
+      "note": "\"And hated iniquity\" (1:9)."
+    },
+    {
+      "id": "chrio",
+      "note": "\"God, your God, has anointed you\" (1:9)."
+    },
+    {
+      "id": "elaion",
+      "note": "\"With the oil of gladness\" (1:9)."
+    },
+    {
+      "id": "metochos",
+      "note": "\"Above your fellows\" (1:9)."
+    },
+    {
+      "id": "kyrios",
+      "note": "\"You, Lord, in the beginning\" (1:10)."
+    },
+    {
+      "id": "themelioo",
+      "note": "\"Laid the foundation of the earth\" (1:10)."
+    },
+    {
+      "id": "ge",
+      "note": "\"The foundation of the earth\" (1:10)."
+    },
+    {
+      "id": "ouranos",
+      "note": "\"The heavens are the works of your hands\" (1:10)."
+    },
+    {
+      "id": "himation",
+      "note": "\"They all will grow old like a garment does\" (1:11)."
+    },
+    {
+      "id": "hypopodion",
+      "note": "\"The footstool of your feet\" (1:13). The word appears here and in a few other quotations of Psalm 110."
+    },
+    {
+      "id": "leitourgikos",
+      "note": "\"Serving spirits\" (1:14). The word appears only here."
+    },
+    {
+      "id": "kleronomeo",
+      "note": "\"For the sake of those who will inherit salvation\" (1:14)."
+    },
+    {
+      "id": "soteria",
+      "note": "\"Those who will inherit salvation\" (1:14)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Psalm 2:7",
+      "note": "you are my son. Today I have become your father"
+    },
+    {
+      "ref": "Psalm 110:1",
+      "note": "sit at my right hand, until I make your enemies your footstool"
+    },
+    {
+      "ref": "Colossians 1:15-20",
+      "note": "he is the image of the invisible God, the firstborn of all creation"
+    },
+    {
+      "ref": "John 1:1-3",
+      "note": "in the beginning was the Word... all things were made through him"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

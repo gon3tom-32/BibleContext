@@ -1,0 +1,49 @@
+{
+  "slug": "hebrews",
+  "title": "Hebrews",
+  "order": 58,
+  "testament": "NT",
+  "language": "Greek",
+  "chapterCount": 13,
+  "tagline": "A long sermon for tired believers: Jesus is greater than angels, Moses, and the priests, so hold on, draw near, and keep running.",
+  "author": "Unknown (debated)",
+  "authorNote": "The letter does not name its author. In the early church some, especially in the East, linked it to Paul, while others in the West doubted it, and the ancient copies sometimes carry it among Paul's letters. Its style is more polished and its Greek more formal than Paul's, and the author says the message was \"confirmed to us by those who heard\" (2:3), which does not sound like Paul. Barnabas, Apollos, Priscilla, Luke, and others have been proposed. The author knew Timothy (13:23) and the Old Testament in Greek. Origen's remark is often quoted: \"who wrote the letter, God only knows.\"",
+  "authorDebated": true,
+  "audience": "A community of Christians, probably of Jewish background, tempted to drift or turn back under pressure",
+  "audienceNote": "The title \"To the Hebrews\" appears in early copies but not in the text. The readers had been believers for some time (5:12), had once endured insults, imprisonment, and the plundering of their property (10:32-34), and were now tired and in danger of \"drifting\" (2:1) or \"shrinking back\" (10:38-39). The author assumes deep knowledge of the Old Testament and of the sacrifices. \"Those from Italy greet you\" (13:24) could mean that the writer was in Italy sending greetings, or that Italians away from home were sending greetings to Italy; either way, Rome is a likely connection. The community may have been in Rome, but this is not certain.",
+  "setting": "Unknown place; perhaps Rome or Italy; most likely before AD 70 (debated)",
+  "settingNote": "The author writes of the priests and sacrifices in the present tense (for example 8:4; 10:1-3), which some take to mean the temple was still standing, so before AD 70; others read it as the author describing the system as set out in Scripture, not as practiced. The mention of Timothy (13:23) fits the 60s. The letter is also quoted by Clement of Rome in the 90s, so it must be earlier than that.",
+  "genre": "Sermon (a \"word of exhortation\") with a letter ending",
+  "genreNote": "The author calls the writing \"a word of exhortation\" (13:22), the same phrase used for a synagogue sermon in Acts 13:15. It alternates between explanation (Christ's superiority) and exhortation (the warning passages), and it ends like a letter, with requests, greetings, and a blessing. It leans heavily on Psalms 2, 8, 95, 110, and Jeremiah 31.",
+  "bigIdea": "God has spoken fully in his Son, who is greater than the angels, Moses, and the Levitical priests; as the great high priest he has offered one sacrifice for sins and opened the way to God. So the readers should hold on, draw near, grow up, and endure, following the faith of earlier generations and looking to Jesus.",
+  "themes": [
+    "Jesus greater than angels, Moses, and the priesthood",
+    "The high priest after the order of Melchizedek",
+    "A new covenant and a once-for-all sacrifice",
+    "The warnings: drift, harden, fall away",
+    "Faith: the heroes of chapter 11",
+    "Endurance, discipline, and the unshakable kingdom",
+    "Going outside the camp: the life of a pilgrim people"
+  ],
+  "mapTitle": "Map: places in the background",
+  "mapSummary": "The letter names few places. Egypt, Sinai, Jerusalem (as Salem, Zion, and the city outside whose gate Jesus suffered), and Italy appear.",
+  "scene": {
+    "author": "Unknown (debated)",
+    "audience": "A tired community of believers, probably Jewish Christians",
+    "happening": "A sermon, perhaps in the 60s, before the temple fell"
+  },
+  "overviewPeople": [
+    "the-author",
+    "the-readers",
+    "jesus-the-son",
+    "moses",
+    "melchizedek",
+    "abraham",
+    "the-heroes-of-faith",
+    "timothy"
+  ],
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "sceneHappening": "The main point: a high priest in the heavenly sanctuary and a new covenant promised through Jeremiah",
+  "summary": "\"Now in the things which we are saying, the main point is this. We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, a servant of the sanctuary and of the true tabernacle, which the Lord pitched, not man.\" Every high priest is appointed to offer gifts and sacrifices, so this one must have something to offer. \"For if he were on earth, he would not be a priest at all, seeing there are priests who offer the gifts according to the law, who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, 'See, you shall make everything according to the pattern that was shown to you on the mountain.'\" \"But now he has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant, which on better promises has been given as law. For if that first covenant had been faultless, then no place would have been sought for a second.\" The long quotation from Jeremiah 31 follows: \"Behold, the days come... that I will make a new covenant with the house of Israel and with the house of Judah; not according to the covenant that I made with their fathers... for they didn't continue in my covenant... I will put my laws into their mind, I will also write them on their heart. I will be their God, and they will be my people. They will not teach every man his fellow citizen... saying, 'Know the Lord,' for all will know me, from their least to their greatest. For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.\" \"In that he says, 'A new covenant', he has made the first old. But that which is becoming old and grows aged is near to vanishing away.\"",
+  "whySettingMatters": "Chapter 8 states \"the main point\" (kephalaion) of the central section: Jesus is high priest in the true sanctuary in heaven, of which the earthly tabernacle is a \"copy and shadow.\" The language looks like a Platonic contrast between a heavenly original and earthly copies, but the writer draws it from Exodus 25:40, where Moses is shown a pattern on the mountain; scholars debate how much Greek philosophy lies behind the wording and how much is Jewish apocalyptic thought about a heavenly temple. The letter's longest Old Testament quotation is Jeremiah 31:31-34, the only place in the Old Testament that uses the phrase \"new covenant.\" Its promises are an inner law, a close relationship (\"I will be their God\"), knowledge of God, and forgiveness. The writer says that this covenant is \"better\" (8:6) because it rests on \"better promises.\" The statement in 8:13 that the first covenant is \"becoming old and... near to vanishing away\" may reflect a time before the temple fell (AD 70) or may be written after, though the letter does not mention the destruction. How much of the old covenant is \"obsolete\" and how that fits with Israel's continuing place has been much discussed, and Jeremiah 31 itself is addressed to \"the house of Israel and the house of Judah.\"",
+  "people": [
+    {
+      "id": "jesus-the-son",
+      "note": "A high priest seated in heaven, mediator of a better covenant."
+    },
+    {
+      "id": "moses",
+      "note": "Warned to make the tabernacle according to the pattern."
+    },
+    {
+      "id": "aaron-and-the-levitical-priests",
+      "note": "Priests who serve a copy and shadow."
+    },
+    {
+      "id": "the-author",
+      "note": "Says the main point is that we have such a high priest."
+    }
+  ],
+  "questions": [
+    "\"A copy and shadow of the heavenly things.\" What do you think it means for the earthly temple to be a pointer and not the thing itself?",
+    "The new covenant puts the law \"on their heart.\" How does that differ from a rule you keep from outside?",
+    "\"All will know me, from their least to their greatest.\" What kind of community does that promise imply?",
+    "Jeremiah's promise ends with forgiveness: \"I will remember their sins no more.\" Why might that be the foundation of the rest?"
+  ],
+  "words": [
+    {
+      "id": "kephalaion",
+      "note": "\"The main point is this\" (8:1)."
+    },
+    {
+      "id": "archiereus",
+      "note": "\"We have such a high priest\" (8:1, 8:3)."
+    },
+    {
+      "id": "kathizo",
+      "note": "\"Who sat down on the right hand\" (8:1)."
+    },
+    {
+      "id": "thronos",
+      "note": "\"The throne of the Majesty\" (8:1)."
+    },
+    {
+      "id": "leitourgos",
+      "note": "\"A servant of the sanctuary\" (8:2)."
+    },
+    {
+      "id": "hagios",
+      "note": "\"Of the sanctuary\" (8:2). The Greek is \"of the holy places.\""
+    },
+    {
+      "id": "skene",
+      "note": "\"And of the true tabernacle\" (8:2, 8:5)."
+    },
+    {
+      "id": "pegnymi",
+      "note": "\"Which the Lord pitched, not man\" (8:2). The word means to fix or set up."
+    },
+    {
+      "id": "prosphero",
+      "note": "\"To offer both gifts and sacrifices\" (8:3-4)."
+    },
+    {
+      "id": "doron",
+      "note": "\"Gifts and sacrifices\" (8:3-4)."
+    },
+    {
+      "id": "latreuo",
+      "note": "\"Who serve a copy and shadow\" (8:5)."
+    },
+    {
+      "id": "hypodeigma",
+      "note": "\"A copy\" (8:5)."
+    },
+    {
+      "id": "skia",
+      "note": "\"And shadow of the heavenly things\" (8:5)."
+    },
+    {
+      "id": "epouranios",
+      "note": "\"Of the heavenly things\" (8:5)."
+    },
+    {
+      "id": "chrematizo",
+      "note": "\"As Moses was warned by God\" (8:5)."
+    },
+    {
+      "id": "deiknyo",
+      "note": "\"According to the pattern that was shown to you\" (8:5)."
+    },
+    {
+      "id": "typos",
+      "note": "\"According to the pattern\" (8:5)."
+    },
+    {
+      "id": "oros",
+      "note": "\"On the mountain\" (8:5)."
+    },
+    {
+      "id": "leitourgia",
+      "note": "\"A more excellent ministry\" (8:6)."
+    },
+    {
+      "id": "mesites",
+      "note": "\"The mediator of a better covenant\" (8:6)."
+    },
+    {
+      "id": "diatheke",
+      "note": "\"A better covenant\" (8:6) and \"a new covenant\" (8:8-10)."
+    },
+    {
+      "id": "kreisson",
+      "note": "\"A better covenant... better promises\" (8:6)."
+    },
+    {
+      "id": "epaggelia",
+      "note": "\"On better promises\" (8:6)."
+    },
+    {
+      "id": "amemptos_adj",
+      "note": "\"If that first covenant had been faultless\" (8:7)."
+    },
+    {
+      "id": "memphomai",
+      "note": "\"For finding fault with them\" (8:8)."
+    },
+    {
+      "id": "kainos",
+      "note": "\"A new covenant\" (8:8, 8:13)."
+    },
+    {
+      "id": "synteleo",
+      "note": "\"I will make a new covenant\" (8:8). The word means to bring to completion."
+    },
+    {
+      "id": "exago",
+      "note": "\"To lead them out of the land of Egypt\" (8:9)."
+    },
+    {
+      "id": "emmeno",
+      "note": "\"For they didn't continue in my covenant\" (8:9)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"I will put my laws into their mind\" (8:10)."
+    },
+    {
+      "id": "dianoia",
+      "note": "\"Into their mind\" (8:10)."
+    },
+    {
+      "id": "epigrapho",
+      "note": "\"I will also write them on their heart\" (8:10)."
+    },
+    {
+      "id": "kardia",
+      "note": "\"On their heart\" (8:10)."
+    },
+    {
+      "id": "laos",
+      "note": "\"They will be my people\" (8:10)."
+    },
+    {
+      "id": "didasko",
+      "note": "\"They will not teach every man his fellow citizen\" (8:11)."
+    },
+    {
+      "id": "polites",
+      "note": "\"His fellow citizen\" (8:11)."
+    },
+    {
+      "id": "ginosko",
+      "note": "\"Know the Lord\" (8:11)."
+    },
+    {
+      "id": "mikros",
+      "note": "\"From their least to their greatest\" (8:11)."
+    },
+    {
+      "id": "hileos",
+      "note": "\"I will be merciful to their unrighteousness\" (8:12)."
+    },
+    {
+      "id": "adikia",
+      "note": "\"To their unrighteousness\" (8:12)."
+    },
+    {
+      "id": "mnemoneuo",
+      "note": "\"I will remember their sins... no more\" (8:12)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Their sins and lawless deeds\" (8:12)."
+    },
+    {
+      "id": "anomia",
+      "note": "\"And lawless deeds\" (8:12)."
+    },
+    {
+      "id": "palaioo",
+      "note": "\"He has made the first old\" (8:13)."
+    },
+    {
+      "id": "gerasko",
+      "note": "\"And grows aged\" (8:13)."
+    },
+    {
+      "id": "aphanismos",
+      "note": "\"Is near to vanishing away\" (8:13). The word appears only here."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Jeremiah 31:31-34",
+      "note": "I will make a new covenant with the house of Israel and with the house of Judah"
+    },
+    {
+      "ref": "Exodus 25:40",
+      "note": "see that you make them after their pattern, which was shown to you on the mountain"
+    },
+    {
+      "ref": "Ezekiel 36:26-27",
+      "note": "I will put a new spirit within you... and cause you to walk in my statutes"
+    },
+    {
+      "ref": "2 Corinthians 3:6",
+      "note": "who also made us sufficient as servants of a new covenant"
+    }
+  ],
+  "number": 8,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
