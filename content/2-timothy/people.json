@@ -1,0 +1,87 @@
+[
+  {
+    "id": "paul",
+    "name": "Paul",
+    "note": "The apostle (in the traditional view), writing from prison and expecting to die, with a message for Timothy and requests for his friends."
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "note": "Paul's \"beloved child,\" who has a gift received through Paul's laying on of hands (1:6), tears Paul remembers (1:4), and a task to continue."
+  },
+  {
+    "id": "lois-and-eunice",
+    "name": "Lois and Eunice",
+    "note": "Timothy's grandmother and mother, in whom \"sincere faith\" lived first (1:5); Acts 16:1 says his mother was Jewish and a believer."
+  },
+  {
+    "id": "onesiphorus",
+    "name": "Onesiphorus",
+    "note": "Who \"often refreshed\" Paul and was not ashamed of his chain, searching for him in Rome (1:16-18; 4:19)."
+  },
+  {
+    "id": "phygelus-and-hermogenes",
+    "name": "Phygelus and Hermogenes",
+    "note": "Named among those in Asia who \"turned away\" from Paul (1:15)."
+  },
+  {
+    "id": "hymenaeus-and-philetus",
+    "name": "Hymenaeus and Philetus",
+    "note": "Whose teaching \"will consume like gangrene\"; they said the resurrection \"is already past\" (2:17-18). A Hymenaeus was also named in 1 Timothy 1:20."
+  },
+  {
+    "id": "the-opponents",
+    "name": "Opponents and false teachers",
+    "note": "People who argue about words, hold \"a form of godliness,\" and \"oppose the truth\" (2:14-26; 3:1-9; 4:3-4)."
+  },
+  {
+    "id": "jannes-and-jambres",
+    "name": "Jannes and Jambres",
+    "note": "Names not found in the Old Testament; Jewish tradition gave them to the Egyptian magicians who opposed Moses (3:8)."
+  },
+  {
+    "id": "demas",
+    "name": "Demas",
+    "note": "Who left Paul, \"having loved this present world\" (4:10); earlier named as a co-worker in Colossians 4:14 and Philemon 1:24."
+  },
+  {
+    "id": "luke",
+    "name": "Luke",
+    "note": "\"Only Luke is with me\" (4:11)."
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "note": "Whom Timothy is to bring, \"for he is useful to me for service\" (4:11)."
+  },
+  {
+    "id": "tychicus",
+    "name": "Tychicus",
+    "note": "Sent to Ephesus (4:12)."
+  },
+  {
+    "id": "alexander-the-coppersmith",
+    "name": "Alexander the coppersmith",
+    "note": "Did Paul \"much evil\" and \"greatly opposed our words\" (4:14-15); whether he is the Alexander of 1 Timothy 1:20 is uncertain."
+  },
+  {
+    "id": "prisca-and-aquila",
+    "name": "Prisca and Aquila",
+    "note": "The couple Paul asks Timothy to greet (4:19)."
+  },
+  {
+    "id": "others-in-the-letter",
+    "name": "Crescens, Titus, Carpus, Erastus, Trophimus, and others",
+    "note": "Co-workers named as sent, left, or present (4:10-21), including Eubulus, Pudens, Linus, and Claudia, who send greetings."
+  },
+  {
+    "id": "the-lord-jesus",
+    "name": "Christ Jesus",
+    "note": "Risen from the dead, descended from David (2:8); who \"abolished death\" (1:10) and will judge the living and the dead (4:1)."
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "note": "Opposed by Jannes and Jambres (3:8)."
+  }
+]

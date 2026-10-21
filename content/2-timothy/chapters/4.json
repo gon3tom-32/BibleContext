@@ -1,0 +1,358 @@
+{
+  "sceneHappening": "Paul's last charge and farewell: preach the word, I have finished the race, come to me and bring my cloak and books",
+  "summary": "\"I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom: preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching. For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts, and will turn away their ears from the truth, and turn away to fables. But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry.\" Then Paul speaks of himself: \"For I am already being offered, and the time of my departure has come. I have fought the good fight. I have finished the course. I have kept the faith. From now on, the crown of righteousness is stored up for me, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing.\" He asks Timothy to \"be diligent to come to me soon, for Demas left me, having loved this present world, and went to Thessalonica; Crescens to Galatia; and Titus to Dalmatia. Only Luke is with me. Take Mark, and bring him with you, for he is useful to me for service. But I sent Tychicus to Ephesus. Bring the cloak that I left at Troas with Carpus when you come, and the books, especially the parchments.\" Alexander the coppersmith \"did much evil to me\"; \"at my first defense, no one came to help me, but all left me. May it not be held against them. But the Lord stood by me and strengthened me, that through me the message might be fully proclaimed, and that all the Gentiles might hear. So I was delivered out of the mouth of the lion. And the Lord will deliver me from every evil work, and will preserve me for his heavenly Kingdom. To him be the glory forever and ever. Amen.\" Greetings go to Prisca and Aquila and the house of Onesiphorus; Erastus remained at Corinth and Trophimus was left sick at Miletus; \"be diligent to come before winter.\" Eubulus, Pudens, Linus, Claudia, and all the brothers send greetings. \"The Lord Jesus Christ be with your spirit. Grace be with you. Amen.\"",
+  "whySettingMatters": "These are the closing words of the last letter in the Pauline collection, and they are unusually human. Paul's image of being \"offered\" is of a drink offering poured out on a sacrifice (Philippians 2:17 uses the same picture), and \"departure\" (analysis) is a word for loosening ropes or a ship leaving harbor. The three short statements in 4:7 draw on the athletic world (fight, course, faith kept), and the \"crown of righteousness\" is the wreath given to the winner. The personal list is a window into his circle: Luke is the only one with him (Luke is traditionally the physician and the author of Luke and Acts); Mark, once left behind on the first journey (Acts 15:37-39), is now \"useful to me for service\"; Demas, once named among his co-workers (Colossians 4:14; Philemon 1:24), has left; Prisca and Aquila, who had hosted a church in Corinth and Ephesus, are in Ephesus again or still. \"Bring the cloak... and the books, especially the parchments\" shows a cold prison, a need for his own writings or Scripture scrolls, and a man who still wanted to read. The \"first defense\" seems to have been a preliminary hearing; nobody stood with him, but the Lord did. \"The mouth of the lion\" may be a literal danger, a figure for Nero or for death, or the language of Psalm 22:21; the letter does not say. The letter ends with a plural \"Grace be with you,\" so it was meant to be read to the church as well. Tradition says Paul was executed in Rome soon after.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Near death, looking back at his race and asking for his cloak and books."
+    },
+    {
+      "id": "timothy",
+      "note": "Charged to preach the word and asked to come soon."
+    },
+    {
+      "id": "demas",
+      "note": "Left Paul, loving this present world."
+    },
+    {
+      "id": "luke",
+      "note": "The only one with Paul."
+    },
+    {
+      "id": "mark",
+      "note": "To be brought, because he is useful."
+    },
+    {
+      "id": "tychicus",
+      "note": "Sent to Ephesus."
+    },
+    {
+      "id": "alexander-the-coppersmith",
+      "note": "Did Paul much evil and opposed his words."
+    },
+    {
+      "id": "prisca-and-aquila",
+      "note": "Greeted at the end."
+    },
+    {
+      "id": "onesiphorus",
+      "note": "His household is greeted."
+    },
+    {
+      "id": "others-in-the-letter",
+      "note": "Crescens, Titus, Carpus, Erastus, Trophimus, Eubulus, Pudens, Linus, and Claudia."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "The righteous judge who stood by Paul."
+    }
+  ],
+  "questions": [
+    "Paul says people will gather teachers \"after their own lusts\" with \"itching ears.\" How do you tell the difference between a teaching you need and one you simply want?",
+    "\"I have fought the good fight. I have finished the course. I have kept the faith.\" What would you want to be able to say at the end?",
+    "Paul asks for his cloak, his books, and above all for his friends. What does that tell you about what he valued at the end?",
+    "Mark, who once left, is now \"useful to me for service.\" What does that say about second chances?"
+  ],
+  "words": [
+    {
+      "id": "diamartyromai",
+      "note": "\"I command you therefore\" (4:1)."
+    },
+    {
+      "id": "krino",
+      "note": "\"Who will judge the living and the dead\" (4:1)."
+    },
+    {
+      "id": "zao",
+      "note": "\"The living and the dead\" (4:1)."
+    },
+    {
+      "id": "nekros",
+      "note": "\"The living and the dead\" (4:1)."
+    },
+    {
+      "id": "epiphaneia",
+      "note": "\"At his appearing and his Kingdom\" (4:1) and \"loved his appearing\" (4:8)."
+    },
+    {
+      "id": "basileia",
+      "note": "\"His Kingdom\" (4:1) and \"his heavenly Kingdom\" (4:18)."
+    },
+    {
+      "id": "kerysso",
+      "note": "\"Preach the word\" (4:2)."
+    },
+    {
+      "id": "logos",
+      "note": "\"Preach the word\" (4:2)."
+    },
+    {
+      "id": "ephistemi",
+      "note": "\"Be urgent in season and out of season\" (4:2)."
+    },
+    {
+      "id": "eukairos",
+      "note": "\"In season\" (4:2). The word appears only here and in Mark 14:11."
+    },
+    {
+      "id": "akairos",
+      "note": "\"And out of season\" (4:2). The word appears only here."
+    },
+    {
+      "id": "elencho",
+      "note": "\"Reprove, rebuke, and exhort\" (4:2)."
+    },
+    {
+      "id": "epitimao",
+      "note": "\"Rebuke\" (4:2)."
+    },
+    {
+      "id": "parakaleo",
+      "note": "\"And exhort with all patience and teaching\" (4:2)."
+    },
+    {
+      "id": "makrothymia",
+      "note": "\"With all patience\" (4:2)."
+    },
+    {
+      "id": "didache",
+      "note": "\"And teaching\" (4:2)."
+    },
+    {
+      "id": "hygiaino",
+      "note": "\"Will not listen to the sound doctrine\" (4:3)."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"The sound doctrine\" (4:3)."
+    },
+    {
+      "id": "knetho",
+      "note": "\"Having itching ears\" (4:3). The word appears only here."
+    },
+    {
+      "id": "akoe",
+      "note": "\"Itching ears\" (4:3-4)."
+    },
+    {
+      "id": "episoreuo",
+      "note": "\"Will heap up for themselves teachers\" (4:3). The word appears only here."
+    },
+    {
+      "id": "didaskalos",
+      "note": "\"Teachers after their own lusts\" (4:3)."
+    },
+    {
+      "id": "apostrepho",
+      "note": "\"And will turn away their ears from the truth\" (4:4)."
+    },
+    {
+      "id": "ektrepo",
+      "note": "\"And turn away to fables\" (4:4)."
+    },
+    {
+      "id": "mythos",
+      "note": "\"To fables\" (4:4)."
+    },
+    {
+      "id": "nepho",
+      "note": "\"But you be sober in all things\" (4:5)."
+    },
+    {
+      "id": "kakopatheo",
+      "note": "\"Suffer hardship\" (4:5)."
+    },
+    {
+      "id": "euangelistes",
+      "note": "\"Do the work of an evangelist\" (4:5)."
+    },
+    {
+      "id": "diakonia",
+      "note": "\"And fulfill your ministry\" (4:5, 4:11)."
+    },
+    {
+      "id": "plerophoreo",
+      "note": "\"Fulfill your ministry\" (4:5) and \"might be fully proclaimed\" (4:17)."
+    },
+    {
+      "id": "spendo",
+      "note": "\"For I am already being offered\" (4:6)."
+    },
+    {
+      "id": "analysis",
+      "note": "\"The time of my departure has come\" (4:6). The word appears only here."
+    },
+    {
+      "id": "agonizomai",
+      "note": "\"I have fought the good fight\" (4:7)."
+    },
+    {
+      "id": "agon",
+      "note": "\"The good fight\" (4:7)."
+    },
+    {
+      "id": "dromos",
+      "note": "\"I have finished the course\" (4:7)."
+    },
+    {
+      "id": "teleo",
+      "note": "\"I have finished the course\" (4:7)."
+    },
+    {
+      "id": "tereo",
+      "note": "\"I have kept the faith\" (4:7)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"I have kept the faith\" (4:7)."
+    },
+    {
+      "id": "apokeimai",
+      "note": "\"The crown of righteousness is stored up for me\" (4:8)."
+    },
+    {
+      "id": "stephanos",
+      "note": "\"The crown of righteousness\" (4:8)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"The crown of righteousness\" (4:8)."
+    },
+    {
+      "id": "apodidomi",
+      "note": "\"Will give to me on that day\" (4:8, 4:14)."
+    },
+    {
+      "id": "krites",
+      "note": "\"The Lord, the righteous judge\" (4:8)."
+    },
+    {
+      "id": "agapao",
+      "note": "\"Having loved this present world\" (4:10) and \"loved his appearing\" (4:8)."
+    },
+    {
+      "id": "aion",
+      "note": "\"This present world\" (4:10) and \"forever and ever\" (4:18)."
+    },
+    {
+      "id": "egkataleipo",
+      "note": "\"For Demas left me\" (4:10, 4:16)."
+    },
+    {
+      "id": "euchrestos",
+      "note": "\"He is useful to me for service\" (4:11)."
+    },
+    {
+      "id": "phelones",
+      "note": "\"Bring the cloak\" (4:13). The word appears only here."
+    },
+    {
+      "id": "biblion",
+      "note": "\"And the books\" (4:13)."
+    },
+    {
+      "id": "membrana",
+      "note": "\"Especially the parchments\" (4:13). The word appears only here."
+    },
+    {
+      "id": "chalkeus",
+      "note": "\"Alexander, the coppersmith\" (4:14). The word appears only here."
+    },
+    {
+      "id": "kakos",
+      "note": "\"Did much evil to me\" (4:14)."
+    },
+    {
+      "id": "endeiknymi",
+      "note": "\"Did much evil to me\" (4:14)."
+    },
+    {
+      "id": "apologia",
+      "note": "\"At my first defense\" (4:16)."
+    },
+    {
+      "id": "paraginomai",
+      "note": "\"No one came to help me\" (4:16)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Will preserve me for his heavenly Kingdom\" (4:18)."
+    },
+    {
+      "id": "endynamoo",
+      "note": "\"The Lord stood by me and strengthened me\" (4:17)."
+    },
+    {
+      "id": "kerygma",
+      "note": "\"The message might be fully proclaimed\" (4:17)."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"All the Gentiles might hear\" (4:17)."
+    },
+    {
+      "id": "rhuomai",
+      "note": "\"I was delivered out of the mouth of the lion\" (4:17-18)."
+    },
+    {
+      "id": "leon",
+      "note": "\"Out of the mouth of the lion\" (4:17)."
+    },
+    {
+      "id": "poneros",
+      "note": "\"From every evil work\" (4:18)."
+    },
+    {
+      "id": "epouranios",
+      "note": "\"His heavenly Kingdom\" (4:18)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"To him be the glory forever and ever\" (4:18)."
+    },
+    {
+      "id": "aspazomai",
+      "note": "\"Greet Prisca and Aquila\" (4:19) and \"Eubulus salutes you\" (4:21)."
+    },
+    {
+      "id": "astheneo",
+      "note": "\"I left Trophimus at Miletus sick\" (4:20)."
+    },
+    {
+      "id": "cheimon",
+      "note": "\"Come before winter\" (4:21)."
+    },
+    {
+      "id": "adelphos",
+      "note": "\"And all the brothers\" (4:21)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace be with you\" (4:22)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Philippians 2:17",
+      "note": "even if I am being poured out on the sacrifice and service of your faith"
+    },
+    {
+      "ref": "1 Corinthians 9:24-27",
+      "note": "run in such a way that you may win... for a perishable crown, but we for an imperishable"
+    },
+    {
+      "ref": "Acts 15:36-41",
+      "note": "Barnabas wanted to take Mark with them, but Paul did not think it wise"
+    },
+    {
+      "ref": "Psalm 22:21",
+      "note": "save me from the lion's mouth"
+    }
+  ],
+  "number": 4,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

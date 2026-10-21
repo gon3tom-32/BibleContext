@@ -1,0 +1,326 @@
+{
+  "sceneHappening": "Hard times in the last days, but Timothy is to continue in what he has learned from Paul and from the Scriptures",
+  "summary": "\"But know this: that in the last days, grievous times will come. For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy, without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good, traitors, headstrong, conceited, lovers of pleasure rather than lovers of God, holding a form of godliness, but having denied its power. Turn away from these, also.\" Some of them \"creep into houses and take captive gullible women loaded down with sins, led away by various lusts, always learning, and never able to come to the knowledge of the truth.\" \"Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected. But they will proceed no further. For their folly will be evident to all men.\" By contrast Timothy \"followed my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions, and sufferings: those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all. Yes, and all who desire to live godly in Christ Jesus will suffer persecution. But evil men and impostors will grow worse and worse, deceiving and being deceived.\" Timothy is to \"remain in the things which you have learned and have been assured of, knowing from whom you have learned them. From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith, which is in Christ Jesus. Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness, that each person who belongs to God may be complete, thoroughly equipped for every good work.\"",
+  "whySettingMatters": "\"The last days\" in the New Testament usually means the whole time between Christ's first and second comings (Acts 2:17; Hebrews 1:2; 1 John 2:18), so Paul is describing what is already beginning in Timothy's day, as the present tense in 3:5-6 shows (\"turn away from these\"). The list of nineteen vices echoes lists in Greek moral writing, and it is meant to describe people who look religious (\"a form of godliness\") but whose lives deny it. Verse 6 speaks of people who \"creep into houses\" and win over \"gullible women\" (the Greek is a diminutive that is hard to translate and has a condescending tone). We do not know who the women were or whether the picture is fair to them, and it should be read with 1 Timothy 5:13 and the wider picture of women in Paul's circle, many of whom taught and served. \"Jannes and Jambres\" are not named in the Old Testament; Jewish tradition gave these names to the Egyptian magicians who copied Moses' signs (Exodus 7:11), and the names appear in other Jewish writings of the period. Paul's own history (3:10-11) names three cities from his first journey (Acts 13-14), where he was driven out, stoned in Lystra, and survived; Timothy was probably from that region (Acts 16:1). The famous verse 3:16 says that Scripture is \"God-breathed\" (theopneustos), a word found nowhere else in the New Testament. \"Every Scripture\" can also be translated \"all Scripture,\" and the \"holy Scriptures\" Timothy knew from childhood were the Old Testament (and the Greek translation of it); whether Paul had in mind the letters that were later collected is not clear, though 2 Peter 3:16 treats Paul's letters as Scripture. The point of the verse is its use: it equips the person of God for good work.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Describes the last days and offers his own life as the pattern."
+    },
+    {
+      "id": "timothy",
+      "note": "Told to remain in what he has learned and from whom."
+    },
+    {
+      "id": "the-opponents",
+      "note": "Lovers of self and money, with a form of godliness but no power."
+    },
+    {
+      "id": "jannes-and-jambres",
+      "note": "The Egyptian opponents of Moses in Jewish tradition."
+    },
+    {
+      "id": "moses",
+      "note": "Opposed by Jannes and Jambres."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "The Lord who delivered Paul out of all his persecutions."
+    }
+  ],
+  "questions": [
+    "The list in 3:2-5 describes people who still look religious. What is the difference between a \"form of godliness\" and its \"power\"?",
+    "Paul says \"all who desire to live godly in Christ Jesus will suffer persecution.\" How have you seen or not seen that to be true?",
+    "Timothy is told to continue in what he learned, knowing \"from whom\" he learned it. Whose teaching has formed you, and does that matter for whether you trust it?",
+    "Verse 16 lists four uses of Scripture: teaching, reproof, correction, training. Which does your own reading most often leave out?"
+  ],
+  "words": [
+    {
+      "id": "enistemi",
+      "note": "\"In the last days, grievous times will come\" (3:1)."
+    },
+    {
+      "id": "eschatos",
+      "note": "\"In the last days\" (3:1)."
+    },
+    {
+      "id": "chalepos",
+      "note": "\"Grievous times\" (3:1). The word means hard or dangerous."
+    },
+    {
+      "id": "kairos",
+      "note": "\"Grievous times\" (3:1) and \"the time will come\" (4:3, 4:6)."
+    },
+    {
+      "id": "philautos",
+      "note": "\"Lovers of self\" (3:2). The word appears only here."
+    },
+    {
+      "id": "philargyros",
+      "note": "\"Lovers of money\" (3:2)."
+    },
+    {
+      "id": "alazon",
+      "note": "\"Boastful\" (3:2)."
+    },
+    {
+      "id": "hyperephanos",
+      "note": "\"Arrogant\" (3:2)."
+    },
+    {
+      "id": "blasphemos",
+      "note": "\"Blasphemers\" (3:2)."
+    },
+    {
+      "id": "goneus",
+      "note": "\"Disobedient to parents\" (3:2)."
+    },
+    {
+      "id": "acharistos",
+      "note": "\"Unthankful\" (3:2)."
+    },
+    {
+      "id": "anosios",
+      "note": "\"Unholy\" (3:2)."
+    },
+    {
+      "id": "astorgos",
+      "note": "\"Without natural affection\" (3:3)."
+    },
+    {
+      "id": "aspondos",
+      "note": "\"Unforgiving\" (3:3)."
+    },
+    {
+      "id": "akrates",
+      "note": "\"Without self-control\" (3:3). The word appears only here."
+    },
+    {
+      "id": "anemeros",
+      "note": "\"Fierce\" (3:3). The word appears only here."
+    },
+    {
+      "id": "aphilagathos",
+      "note": "\"Not lovers of good\" (3:3). The word appears only here."
+    },
+    {
+      "id": "prodotes",
+      "note": "\"Traitors\" (3:4)."
+    },
+    {
+      "id": "propetes",
+      "note": "\"Headstrong\" (3:4)."
+    },
+    {
+      "id": "typhoo",
+      "note": "\"Conceited\" (3:4)."
+    },
+    {
+      "id": "philedonos",
+      "note": "\"Lovers of pleasure\" (3:4). The word appears only here."
+    },
+    {
+      "id": "philotheos",
+      "note": "\"Rather than lovers of God\" (3:4). The word appears only here."
+    },
+    {
+      "id": "morphosis",
+      "note": "\"Holding a form of godliness\" (3:5)."
+    },
+    {
+      "id": "eusebeia",
+      "note": "\"A form of godliness\" (3:5)."
+    },
+    {
+      "id": "dynamis",
+      "note": "\"But having denied its power\" (3:5)."
+    },
+    {
+      "id": "arneomai",
+      "note": "\"Having denied its power\" (3:5)."
+    },
+    {
+      "id": "apotrepo",
+      "note": "\"Turn away from these\" (3:5). The word appears only here."
+    },
+    {
+      "id": "endyno",
+      "note": "\"People who creep into houses\" (3:6). The word appears only here."
+    },
+    {
+      "id": "gynaikarion",
+      "note": "\"Gullible women\" (3:6). The word appears only here."
+    },
+    {
+      "id": "soreuo",
+      "note": "\"Loaded down with sins\" (3:6)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"Loaded down with sins\" (3:6)."
+    },
+    {
+      "id": "epithymia",
+      "note": "\"Led away by various lusts\" (3:6)."
+    },
+    {
+      "id": "poikilos",
+      "note": "\"Various lusts\" (3:6)."
+    },
+    {
+      "id": "manthano",
+      "note": "\"Always learning\" (3:7, 3:14)."
+    },
+    {
+      "id": "epignosis",
+      "note": "\"The knowledge of the truth\" (3:7)."
+    },
+    {
+      "id": "anthistemi",
+      "note": "\"Opposed Moses, so these also oppose the truth\" (3:8)."
+    },
+    {
+      "id": "kataphtheiro",
+      "note": "\"Men corrupted in mind\" (3:8). The word appears only here."
+    },
+    {
+      "id": "adokimos",
+      "note": "\"Who concerning the faith are rejected\" (3:8)."
+    },
+    {
+      "id": "prokopto",
+      "note": "\"They will proceed no further\" (3:9) and \"grow worse and worse\" (3:13)."
+    },
+    {
+      "id": "anoia",
+      "note": "\"Their folly will be evident to all\" (3:9)."
+    },
+    {
+      "id": "ekdelos",
+      "note": "\"Will be evident to all men\" (3:9). The word appears only here."
+    },
+    {
+      "id": "parakoloutheo",
+      "note": "\"But you followed my teaching\" (3:10)."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"My teaching\" (3:10, 3:16)."
+    },
+    {
+      "id": "agoge",
+      "note": "\"Conduct\" (3:10). The word appears only here."
+    },
+    {
+      "id": "makrothymia",
+      "note": "\"Patience\" (3:10)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"Steadfastness\" (3:10)."
+    },
+    {
+      "id": "diogmos",
+      "note": "\"Persecutions\" (3:11)."
+    },
+    {
+      "id": "pathema",
+      "note": "\"And sufferings\" (3:11)."
+    },
+    {
+      "id": "rhuomai",
+      "note": "\"The Lord delivered me out of them all\" (3:11; 4:17-18)."
+    },
+    {
+      "id": "dioko",
+      "note": "\"Will suffer persecution\" (3:12)."
+    },
+    {
+      "id": "goes",
+      "note": "\"Evil men and impostors\" (3:13). The word means sorcerer, swindler; it appears only here."
+    },
+    {
+      "id": "planao",
+      "note": "\"Deceiving and being deceived\" (3:13)."
+    },
+    {
+      "id": "pistoo",
+      "note": "\"Have been assured of\" (3:14). The word appears only here."
+    },
+    {
+      "id": "brephos",
+      "note": "\"From infancy\" (3:15)."
+    },
+    {
+      "id": "hieros",
+      "note": "\"The holy Scriptures\" (3:15)."
+    },
+    {
+      "id": "gramma",
+      "note": "\"The holy Scriptures\" (3:15). The Greek is literally \"sacred writings.\""
+    },
+    {
+      "id": "sophizo",
+      "note": "\"Able to make you wise\" (3:15)."
+    },
+    {
+      "id": "graphe",
+      "note": "\"Every Scripture\" (3:16)."
+    },
+    {
+      "id": "theopneustos",
+      "note": "\"God-breathed\" (3:16). The word appears only here."
+    },
+    {
+      "id": "ophelimos",
+      "note": "\"Profitable for teaching\" (3:16)."
+    },
+    {
+      "id": "elegmos",
+      "note": "\"For reproof\" (3:16). The word appears only here."
+    },
+    {
+      "id": "epanorthosis",
+      "note": "\"For correction\" (3:16). The word appears only here."
+    },
+    {
+      "id": "paideia",
+      "note": "\"For instruction in righteousness\" (3:16)."
+    },
+    {
+      "id": "dikaiosyne",
+      "note": "\"For instruction in righteousness\" (3:16)."
+    },
+    {
+      "id": "artios",
+      "note": "\"May be complete\" (3:17). The word appears only here."
+    },
+    {
+      "id": "exartizo",
+      "note": "\"Thoroughly equipped for every good work\" (3:17)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Exodus 7:10-12",
+      "note": "each man cast down his rod, and they became serpents"
+    },
+    {
+      "ref": "Acts 14:19-22",
+      "note": "they stoned Paul... through many afflictions we must enter into the Kingdom of God"
+    },
+    {
+      "ref": "2 Peter 1:20-21",
+      "note": "no prophecy of Scripture is of private interpretation"
+    },
+    {
+      "ref": "Romans 15:4",
+      "note": "whatever things were written before were written for our learning, that through patience and through encouragement of the Scriptures we might have hope"
+    }
+  ],
+  "number": 3,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
