@@ -1,0 +1,67 @@
+{
+  "title": "The story's places",
+  "viewBox": "",
+  "label": "",
+  "water": [],
+  "rivers": [],
+  "routes": [],
+  "chapter": 1,
+  "stops": [
+    {
+      "order": 1,
+      "placeId": "ephesus",
+      "title": "Where Timothy is",
+      "short": "Ephesus",
+      "refs": "1 Timothy 1:3; Acts 19",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The leading city of Asia, where Paul had taught for about three years and where Timothy is told to stay."
+    },
+    {
+      "order": 2,
+      "placeId": "macedonia",
+      "title": "Where Paul is going",
+      "short": "Macedonia",
+      "refs": "1 Timothy 1:3",
+      "chapter": 1,
+      "direction": "out",
+      "text": "The Roman province across the Aegean, home to Philippi and Thessalonica. The letter says only that Paul is on his way there."
+    }
+  ],
+  "real": {
+    "bounds": {
+      "west": 20.5,
+      "east": 29.5,
+      "south": 36.2,
+      "north": 42.6
+    },
+    "label": "Map of the Aegean region, drawn from real coordinates. Numbered stops mark Ephesus and Macedonia.",
+    "stops": [
+      {
+        "order": 1,
+        "at": "ephesus",
+        "label": "Ephesus",
+        "labelSide": "right"
+      },
+      {
+        "order": 2,
+        "at": "macedonia",
+        "label": "Macedonia",
+        "labelSide": "right"
+      }
+    ],
+    "regionLegend": "Regions: darker shading where more sources agree on their extent",
+    "scaleCorner": "bottom-right",
+    "labelAt": {
+      "great-sea": null
+    },
+    "review": {
+      "status": "needs-review",
+      "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+    }
+  },
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

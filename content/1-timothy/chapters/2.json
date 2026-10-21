@@ -1,0 +1,206 @@
+{
+  "sceneHappening": "Instructions for worship: prayer for everyone, the one mediator, and some debated words about men and women",
+  "summary": "Paul urges \"first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men: for kings and all who are in high places, that we may lead a tranquil and quiet life in all godliness and reverence. For this is good and acceptable in the sight of God our Savior, who desires all people to be saved and come to full knowledge of the truth.\" \"For there is one God, and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, the testimony in its own times, to which I was appointed a preacher and an apostle... a teacher of the Gentiles in faith and truth.\" He wants the men \"in every place\" to pray, \"lifting up holy hands without anger and doubting.\" \"In the same way,\" women are to adorn themselves \"in decent clothing, with modesty and propriety, not just with braided hair, gold, pearls, or expensive clothing, but with good works, which is appropriate for women professing godliness.\" Then: \"Let a woman learn in quietness with full submission. But I don't permit a woman to teach, nor to exercise authority over a man, but to be in quietness. For Adam was formed first, then Eve. Adam wasn't deceived, but the woman, being deceived, has fallen into disobedience; but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety.\"",
+  "whySettingMatters": "The chapter opens with the widest of requests: pray for everyone, including the rulers, because God wants all to be saved. The \"ransom for all\" in 2:6 echoes Jesus' own words in Mark 10:45, and the \"one God, one mediator\" in 2:5 sets Christ against the many go-betweens of Ephesus' religions. Verses 8 to 15 are among the most debated in the New Testament, and a first draft should say so. They are read in very different ways. One reading takes 2:12 as a lasting rule that women should not teach or hold authority over men in the church. Another reads it as a response to a situation in Ephesus, where women (perhaps some among the false teachers, compare 5:13 and 2 Timothy 3:6-7) were spreading wrong teaching, and where Paul elsewhere greets and honors women who served and led (Romans 16:1-7, Philippians 4:2-3, Acts 18:26). The word translated \"exercise authority\" (authenteo) appears nowhere else in the New Testament, and its meaning is argued: \"have authority over,\" \"domineer,\" or \"assume authority wrongly.\" Verse 15 is also hard: \"saved through her childbearing\" has been read as being kept safe in childbirth, as salvation through the birth of Christ, or as being saved even while fulfilling the role of mother. The Ephesian temple of Artemis, a goddess linked with childbirth, is often mentioned as background. Most readers agree that Paul is dealing with a specific situation in a real church; they differ on how far it applies elsewhere. Anyone reading this passage deserves to see the options in full, so read the commentaries for them.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Appointed a preacher, apostle, and teacher of the Gentiles."
+    },
+    {
+      "id": "timothy",
+      "note": "Receives instructions for prayer and order in worship."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "The one mediator who gave himself as a ransom for all."
+    },
+    {
+      "id": "adam-and-eve",
+      "note": "Appealed to in 2:13-14 in a debated passage."
+    }
+  ],
+  "questions": [
+    "Paul asks for prayer for \"kings and all who are in high places.\" What does it mean to pray for those who have power over you, including those you disagree with?",
+    "\"One God, and one mediator... the man Christ Jesus.\" What might a church in Ephesus have heard in that phrase?",
+    "Verses 11 to 15 are read in very different ways by serious readers. What do the different readings have in common, and where do they part?",
+    "Paul links the call to pray with a wish for a \"tranquil and quiet life.\" Is that a goal, or a means to something larger?"
+  ],
+  "words": [
+    {
+      "id": "deesis",
+      "note": "\"Petitions, prayers, intercessions\" (2:1)."
+    },
+    {
+      "id": "proseuche",
+      "note": "\"Petitions, prayers, intercessions\" (2:1)."
+    },
+    {
+      "id": "enteuxis",
+      "note": "\"Intercessions\" (2:1; 4:5)."
+    },
+    {
+      "id": "eucharistia",
+      "note": "\"Givings of thanks\" (2:1)."
+    },
+    {
+      "id": "hyperoche",
+      "note": "\"All who are in high places\" (2:2). In 2:2 it describes those in authority."
+    },
+    {
+      "id": "hesychia",
+      "note": "\"A tranquil and quiet life\" (2:2) and \"quietness\" (2:11-12)."
+    },
+    {
+      "id": "eusebeia",
+      "note": "\"In all godliness and reverence\" (2:2)."
+    },
+    {
+      "id": "semnotes",
+      "note": "\"And reverence\" (2:2)."
+    },
+    {
+      "id": "soter",
+      "note": "\"God our Savior\" (2:3)."
+    },
+    {
+      "id": "apodektos",
+      "note": "\"Good and acceptable in the sight of God\" (2:3)."
+    },
+    {
+      "id": "sozo",
+      "note": "\"Desires all people to be saved\" (2:4) and \"she will be saved\" (2:15)."
+    },
+    {
+      "id": "epignosis",
+      "note": "\"Come to full knowledge of the truth\" (2:4)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"The truth\" (2:4, 2:7)."
+    },
+    {
+      "id": "mesites",
+      "note": "\"One mediator between God and men\" (2:5)."
+    },
+    {
+      "id": "anthropos",
+      "note": "\"Between God and men, the man Christ Jesus\" (2:4-5)."
+    },
+    {
+      "id": "antilytron",
+      "note": "\"Who gave himself as a ransom for all\" (2:6)."
+    },
+    {
+      "id": "martyrion",
+      "note": "\"The testimony in its own times\" (2:6)."
+    },
+    {
+      "id": "keryx",
+      "note": "\"A preacher and an apostle\" (2:7)."
+    },
+    {
+      "id": "apostolos",
+      "note": "\"A preacher and an apostle\" (2:7)."
+    },
+    {
+      "id": "didaskalos",
+      "note": "\"A teacher of the Gentiles\" (2:7)."
+    },
+    {
+      "id": "ethnos",
+      "note": "\"A teacher of the Gentiles in faith and truth\" (2:7)."
+    },
+    {
+      "id": "epairo",
+      "note": "\"Lifting up holy hands\" (2:8)."
+    },
+    {
+      "id": "orge",
+      "note": "\"Without anger\" (2:8)."
+    },
+    {
+      "id": "kosmios",
+      "note": "\"Decent clothing\" (2:9). The word appears here and in 3:2."
+    },
+    {
+      "id": "aidos",
+      "note": "\"With modesty\" (2:9). The word appears only here."
+    },
+    {
+      "id": "sophrosyne",
+      "note": "\"With modesty and propriety\" (2:9, 2:15)."
+    },
+    {
+      "id": "plegma",
+      "note": "\"Braided hair\" (2:9). The word appears only here."
+    },
+    {
+      "id": "polyteles",
+      "note": "\"Expensive clothing\" (2:9)."
+    },
+    {
+      "id": "ergon",
+      "note": "\"With good works\" (2:10)."
+    },
+    {
+      "id": "hypotage",
+      "note": "\"With full submission\" (2:11)."
+    },
+    {
+      "id": "didasko",
+      "note": "\"I don't permit a woman to teach\" (2:12)."
+    },
+    {
+      "id": "authenteo",
+      "note": "\"To exercise authority over a man\" (2:12). The meaning of this word is debated; it appears only here."
+    },
+    {
+      "id": "plasso",
+      "note": "\"Adam was formed first\" (2:13)."
+    },
+    {
+      "id": "exapatao",
+      "note": "\"Adam wasn't deceived, but the woman, being deceived\" (2:14)."
+    },
+    {
+      "id": "parabasis",
+      "note": "\"Has fallen into disobedience\" (2:14)."
+    },
+    {
+      "id": "teknogonia",
+      "note": "\"She will be saved through her childbearing\" (2:15). The word appears only here."
+    },
+    {
+      "id": "agape",
+      "note": "\"Faith, love, and sanctification\" (2:15)."
+    },
+    {
+      "id": "hagiasmos",
+      "note": "\"Faith, love, and sanctification with sobriety\" (2:15)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Mark 10:45",
+      "note": "the Son of Man came to give his life as a ransom for many"
+    },
+    {
+      "ref": "Romans 16:1-7",
+      "note": "Phoebe, a servant of the assembly; Priscilla and Aquila; Junia and Andronicus"
+    },
+    {
+      "ref": "Genesis 2:18-25",
+      "note": "the account of the man and woman made together"
+    },
+    {
+      "ref": "Titus 2:11",
+      "note": "for the grace of God has appeared, bringing salvation to all men"
+    }
+  ],
+  "number": 2,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
