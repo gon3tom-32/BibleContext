@@ -1,0 +1,262 @@
+{
+  "sceneHappening": "Paul has left Timothy in Ephesus to deal with teachers of \"a different doctrine\"; the aim of the command is love",
+  "summary": "Paul, an apostle of Christ Jesus \"according to the commandment of God our Savior and the Lord Jesus Christ our hope,\" writes to Timothy, \"my true child in faith,\" with grace, mercy, and peace. As he urged Timothy when he was \"going into Macedonia,\" Timothy is to stay at Ephesus and \"command certain men not to teach a different doctrine, and not to pay attention to myths and endless genealogies, which cause disputes, rather than God's stewardship, which is in faith.\" \"The goal of this command is love, out of a pure heart and a good conscience and sincere faith.\" Some have missed the mark and turned to vain talking, \"desiring to be teachers of the law, though they understand neither what they say, nor about what they strongly affirm.\" The law is good \"if a person uses it lawfully\": it is made for the lawless and insubordinate, a list that runs from the ungodly and profane through murderers, the sexually immoral, slave-traders, liars, and perjurers, \"and for any other thing contrary to the sound doctrine, according to the Good News of the glory of the blessed God, which was committed to my trust.\" Paul thanks Christ Jesus, who counted him faithful and appointed him to service, \"although I used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy, because I did it ignorantly in unbelief.\" The grace of the Lord \"abounded exceedingly.\" \"The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief,\" and he received mercy so that Christ might display all his patience \"for an example of those who were going to believe in him for eternal life.\" A doxology follows: \"Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.\" Paul then commits the instruction to Timothy \"according to the prophecies which were given to you before, that by them you may wage the good warfare, holding faith and a good conscience,\" which some have thrust away and \"made a shipwreck concerning the faith.\" Two of them are Hymenaeus and Alexander, \"whom I delivered to Satan, that they might be taught not to blaspheme.\"",
+  "whySettingMatters": "Ephesus was a large, wealthy port city and the home of the great temple of Artemis; Paul had taught there for about three years (Acts 19; 20:31) and had warned its elders that harmful teachers would arise from among them (Acts 20:29-30). Now Timothy is left to meet exactly that. The false teachers are described only briefly, as people interested in \"myths and endless genealogies\" and in being \"teachers of the law,\" and we are not told exactly what they taught; some have suggested a mix of Jewish stories about ancestors with speculation, and others have pointed to later ideas that we find in the second century. Paul's reply is not to out-argue them but to point to the aim of all teaching: love from a pure heart. The long list in 1:9-10 follows the pattern of the Ten Commandments (dishonoring parents, murder, sexual sin, stealing in the form of kidnapping and selling people, false witness), which is why it is easy to see the law behind it. The list includes a word in 1:10 (arsenokoites) whose exact meaning is debated; it is rare in the Greek of the time. Paul's own story in 1:12-16 is the reply to those who think the law alone is enough: the one who persecuted the church was shown mercy and is the pattern of the patience of Christ. Whether Paul himself wrote this letter is debated (see the overview); the account of Paul's past here matches his own words in Galatians 1:13 and 1 Corinthians 15:9.",
+  "people": [
+    {
+      "id": "paul",
+      "note": "Writes to Timothy, remembering that he was a blasphemer and persecutor who received mercy."
+    },
+    {
+      "id": "timothy",
+      "note": "Left in Ephesus to command certain men not to teach a different doctrine."
+    },
+    {
+      "id": "the-false-teachers",
+      "note": "Occupied with myths, genealogies, and the law without understanding."
+    },
+    {
+      "id": "hymenaeus-and-alexander",
+      "note": "Named as two who have made shipwreck of the faith."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "Who came into the world to save sinners and counted Paul faithful."
+    }
+  ],
+  "questions": [
+    "Paul says the goal of the command is \"love out of a pure heart and a good conscience and sincere faith.\" How would you test a teaching against that aim?",
+    "Paul calls himself \"chief\" of sinners and also says he obtained mercy because he acted ignorantly. How do the two statements fit together?",
+    "The law is \"good, if a person uses it lawfully.\" What would it mean to use it unlawfully?",
+    "Hymenaeus and Alexander are named, and Paul speaks of a \"shipwreck.\" What do you notice about how faith and a good conscience are linked?"
+  ],
+  "words": [
+    {
+      "id": "apostolos",
+      "note": "\"Paul, an apostle of Jesus Christ\" (1:1)."
+    },
+    {
+      "id": "soter",
+      "note": "\"God our Savior\" (1:1)."
+    },
+    {
+      "id": "elpis",
+      "note": "\"The Lord Jesus Christ our hope\" (1:1)."
+    },
+    {
+      "id": "teknon",
+      "note": "\"My true child in faith\" (1:2) and \"my child Timothy\" (1:18)."
+    },
+    {
+      "id": "charis",
+      "note": "\"Grace, mercy, and peace\" (1:2) and \"the grace of our Lord abounded\" (1:14)."
+    },
+    {
+      "id": "eleos",
+      "note": "\"Grace, mercy, and peace\" (1:2)."
+    },
+    {
+      "id": "eleeo",
+      "note": "\"I obtained mercy\" (1:13, 1:16)."
+    },
+    {
+      "id": "eirene",
+      "note": "\"Grace, mercy, and peace\" (1:2)."
+    },
+    {
+      "id": "parangello",
+      "note": "\"That you might command certain men not to teach a different doctrine\" (1:3)."
+    },
+    {
+      "id": "heterodidaskaleo",
+      "note": "\"Not to teach a different doctrine\" (1:3). The word appears only here and in 6:3."
+    },
+    {
+      "id": "mythos",
+      "note": "\"Myths and endless genealogies\" (1:4)."
+    },
+    {
+      "id": "genealogia",
+      "note": "\"Endless genealogies\" (1:4)."
+    },
+    {
+      "id": "oikonomia",
+      "note": "\"God's stewardship, which is in faith\" (1:4)."
+    },
+    {
+      "id": "agape",
+      "note": "\"The goal of this command is love\" (1:5)."
+    },
+    {
+      "id": "kathoros",
+      "note": "\"Out of a pure heart\" (1:5)."
+    },
+    {
+      "id": "syneidesis",
+      "note": "\"A good conscience\" (1:5, 1:19)."
+    },
+    {
+      "id": "anypokritos",
+      "note": "\"Sincere faith\" (1:5)."
+    },
+    {
+      "id": "astocheo",
+      "note": "\"Having missed the mark\" (1:6)."
+    },
+    {
+      "id": "mataiologia",
+      "note": "\"Turned away to vain talking\" (1:6)."
+    },
+    {
+      "id": "nomodidaskalos",
+      "note": "\"Desiring to be teachers of the law\" (1:7)."
+    },
+    {
+      "id": "nomos",
+      "note": "\"The law is good, if a person uses it lawfully\" (1:8-9)."
+    },
+    {
+      "id": "nomimos",
+      "note": "\"If a person uses it lawfully\" (1:8)."
+    },
+    {
+      "id": "kalos",
+      "note": "\"The law is good\" (1:8) and \"the good warfare\" (1:18)."
+    },
+    {
+      "id": "asebes",
+      "note": "\"For the ungodly and sinners\" (1:9)."
+    },
+    {
+      "id": "andrapodistes",
+      "note": "\"For slave-traders\" (1:10). The word appears only here."
+    },
+    {
+      "id": "arsenokoites",
+      "note": "One word in the list of vices in 1:10, a rare word; its exact meaning is debated."
+    },
+    {
+      "id": "hygiaino",
+      "note": "\"The sound doctrine\" (1:10)."
+    },
+    {
+      "id": "didaskalia",
+      "note": "\"The sound doctrine\" (1:10)."
+    },
+    {
+      "id": "euangelion",
+      "note": "\"The Good News of the glory of the blessed God\" (1:11)."
+    },
+    {
+      "id": "endynamoo",
+      "note": "\"Who enabled me, Christ Jesus our Lord\" (1:12)."
+    },
+    {
+      "id": "pistos",
+      "note": "\"He counted me faithful\" (1:12) and \"the saying is faithful\" (1:15)."
+    },
+    {
+      "id": "blasphemos",
+      "note": "\"I used to be a blasphemer\" (1:13)."
+    },
+    {
+      "id": "hybristes",
+      "note": "\"A persecutor, and insolent\" (1:13)."
+    },
+    {
+      "id": "agnoeo",
+      "note": "\"I did it ignorantly in unbelief\" (1:13)."
+    },
+    {
+      "id": "hyperpleonazo",
+      "note": "\"The grace of our Lord abounded exceedingly\" (1:14). The word appears only here."
+    },
+    {
+      "id": "apodoche",
+      "note": "\"Worthy of all acceptance\" (1:15)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"To save sinners, of whom I am chief\" (1:15)."
+    },
+    {
+      "id": "makrothymia",
+      "note": "\"Jesus Christ might display all his patience\" (1:16)."
+    },
+    {
+      "id": "hypotyposis",
+      "note": "\"For an example of those who were going to believe\" (1:16)."
+    },
+    {
+      "id": "aionios",
+      "note": "\"For eternal life\" (1:16)."
+    },
+    {
+      "id": "basileus",
+      "note": "\"Now to the King eternal\" (1:17)."
+    },
+    {
+      "id": "aphthartos",
+      "note": "\"Immortal\" (1:17)."
+    },
+    {
+      "id": "aoratos",
+      "note": "\"Invisible\" (1:17)."
+    },
+    {
+      "id": "doxa",
+      "note": "\"Be honor and glory forever\" (1:17)."
+    },
+    {
+      "id": "prophiteia",
+      "note": "\"According to the prophecies which were given to you before\" (1:18)."
+    },
+    {
+      "id": "strateuomai",
+      "note": "\"That by them you may wage the good warfare\" (1:18)."
+    },
+    {
+      "id": "nauageo",
+      "note": "\"Made a shipwreck concerning the faith\" (1:19)."
+    },
+    {
+      "id": "satanas",
+      "note": "\"Whom I delivered to Satan\" (1:20)."
+    },
+    {
+      "id": "paideuo",
+      "note": "\"That they might be taught not to blaspheme\" (1:20)."
+    },
+    {
+      "id": "blasphemeo",
+      "note": "\"Not to blaspheme\" (1:20)."
+    },
+    {
+      "id": "pistis",
+      "note": "\"Sincere faith\" (1:5) and \"holding faith and a good conscience\" (1:19)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Acts 20:28-31",
+      "note": "after my departing, grievous wolves will enter in among you... from among your own selves, men will arise, speaking perverse things"
+    },
+    {
+      "ref": "Galatians 1:13-16",
+      "note": "you have heard of my way of living in time past in the Jews' religion"
+    },
+    {
+      "ref": "1 Corinthians 15:9-10",
+      "note": "I am the least of the apostles... but by the grace of God I am what I am"
+    },
+    {
+      "ref": "Romans 7:12",
+      "note": "so that the law indeed is holy, and the commandment holy, and righteous, and good"
+    }
+  ],
+  "number": 1,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}
