@@ -152,7 +152,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Leviticus 19:18",
+          "inDataset": true,
+          "votes": 18
+        },
+        {
+          "ref": "Romans 4:1-5",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "Galatians 2:16",
+          "inDataset": false,
+          "votes": 0
+        },
+        {
+          "ref": "Joshua 2:1-21",
+          "inDataset": true,
+          "votes": 32
+        }
+      ]
     },
     {
       "number": 3,
@@ -214,7 +235,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Proverbs 18:21",
+          "inDataset": true,
+          "votes": 28
+        },
+        {
+          "ref": "Matthew 12:34-37",
+          "inDataset": true,
+          "votes": 34
+        },
+        {
+          "ref": "Genesis 1:26-28",
+          "inDataset": true,
+          "votes": 8
+        },
+        {
+          "ref": "Matthew 5:9",
+          "inDataset": true,
+          "votes": 41
+        }
+      ]
     },
     {
       "number": 4,
@@ -277,7 +319,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Proverbs 3:34",
+          "inDataset": true,
+          "votes": 44
+        },
+        {
+          "ref": "Psalm 24:3-4",
+          "inDataset": true,
+          "votes": 10
+        },
+        {
+          "ref": "Hosea 2:2-5",
+          "inDataset": false,
+          "votes": 0
+        },
+        {
+          "ref": "Psalm 39:5",
+          "inDataset": true,
+          "votes": 23
+        }
+      ]
     },
     {
       "number": 5,
@@ -339,7 +402,28 @@
           }
         }
       ],
-      "handPickedCheck": []
+      "handPickedCheck": [
+        {
+          "ref": "Deuteronomy 24:14-15",
+          "inDataset": true,
+          "votes": 11
+        },
+        {
+          "ref": "1 Kings 17:1",
+          "inDataset": true,
+          "votes": 32
+        },
+        {
+          "ref": "Matthew 5:33-37",
+          "inDataset": true,
+          "votes": 29
+        },
+        {
+          "ref": "Luke 4:25",
+          "inDataset": true,
+          "votes": 15
+        }
+      ]
     }
   ]
 }

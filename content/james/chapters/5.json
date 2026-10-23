@@ -1,0 +1,402 @@
+{
+  "sceneHappening": "A warning to the rich, patience until the Lord's coming, honest speech, prayer for the sick, and turning a wanderer back",
+  "summary": "\"Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten. Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies. You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. You have condemned and you have murdered the righteous one. He doesn't resist you.\" \"Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain. You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don't grumble, brothers, against one another, so that you won't be judged. Behold, the judge stands at the door.\" The prophets and Job are examples: \"we call them blessed who endured... the Lord is full of compassion and mercy.\" \"But above all things, my brothers, don't swear... but let your 'yes' be 'yes', and your 'no', 'no', so that you don't fall into hypocrisy.\" \"Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises. Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord, and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven. Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.\" Elijah \"prayed earnestly that it might not rain, and it didn't rain on the earth for three years and six months. He prayed again, and the sky gave rain.\" \"Brothers, if any among you wanders from the truth and someone turns him back, let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.\"",
+  "whySettingMatters": "The opening words (\"Come now, you rich\") have the tone of an Old Testament prophet, and the warnings are against wealth gained by cheating workers: wages withheld by fraud cry out (Deuteronomy 24:14-15; Leviticus 19:13). Whether the \"rich\" are inside or outside the church is debated; James speaks to them directly but not as members, which has led some to read them as outsiders, though the letter's warnings are for the believers to hear. The \"righteous one\" (5:6) who \"doesn't resist\" may be the poor in general, or Jesus, or a righteous victim, and the meaning is debated. The patience James asks for (5:7-11) is pictured by a farmer awaiting early and late rains (autumn and spring rains in Palestine). \"The coming of the Lord is at hand\" shows that early Christians expected the Lord's return soon. Job's \"perseverance\" (5:11) is notable, since in the Old Testament Job is also known for his complaint; the writer points to his endurance and to how the Lord ended it. The prohibition on oaths (5:12) echoes Jesus' teaching in Matthew 5:34-37. The instructions on the sick (5:14-16) are the main passage on anointing with oil in the New Testament. The oil might be medicinal, or a sign of dedication to God, or both; whether the sickness is physical or spiritual, and what \"heal\" and \"raise up\" mean (cure or salvation), have been debated. The \"elders of the assembly\" are the congregation's leaders. Elijah's three years and six months of drought (1 Kings 17-18) are mentioned in Luke 4:25, but the length is not stated in 1 Kings, which says \"in the third year.\" The last verse is ambiguous in Greek: it is not clear whose sins are covered and whose soul is saved, the wanderer's or the one who turns him back; most take it to be the wanderer's.",
+  "people": [
+    {
+      "id": "james",
+      "note": "Warns the rich, calls for patience, and gives instructions on prayer."
+    },
+    {
+      "id": "the-rich",
+      "note": "Told to weep and howl; their wealth is rotting and their withheld wages cry out."
+    },
+    {
+      "id": "the-twelve-tribes",
+      "note": "Told to be patient, honest, and prayerful."
+    },
+    {
+      "id": "job-and-elijah",
+      "note": "Examples of endurance and of effective prayer."
+    },
+    {
+      "id": "the-lord-jesus",
+      "note": "The Lord whose coming is at hand."
+    }
+  ],
+  "questions": [
+    "James says the wages kept back \"cry out.\" How does the Old Testament idea that injustice has a voice shape how you read this?",
+    "The farmer \"waits for the precious fruit of the earth.\" What does patient waiting look like in a world of fast answers?",
+    "Prayer, anointing, confession, and healing appear together. What do you make of how James links body and spirit?",
+    "The letter ends with someone turning another person back. What does it ask of a community when someone wanders?"
+  ],
+  "words": [
+    {
+      "id": "plousios",
+      "note": "\"Come now, you rich\" (5:1)."
+    },
+    {
+      "id": "klaio",
+      "note": "\"Weep and howl\" (5:1)."
+    },
+    {
+      "id": "ololyzo",
+      "note": "\"And howl\" (5:1). The word appears only here."
+    },
+    {
+      "id": "talaiporia",
+      "note": "\"For your miseries\" (5:1)."
+    },
+    {
+      "id": "eperchomai",
+      "note": "\"That are coming on you\" (5:1)."
+    },
+    {
+      "id": "ploutos",
+      "note": "\"Your riches are corrupted\" (5:2)."
+    },
+    {
+      "id": "sepo",
+      "note": "\"Are corrupted\" (5:2). The word means to rot."
+    },
+    {
+      "id": "himation",
+      "note": "\"Your garments\" (5:2)."
+    },
+    {
+      "id": "setobrotos",
+      "note": "\"Are moth-eaten\" (5:2). The word appears only here."
+    },
+    {
+      "id": "chrysos",
+      "note": "\"Your gold\" (5:3)."
+    },
+    {
+      "id": "argyros",
+      "note": "\"And your silver\" (5:3)."
+    },
+    {
+      "id": "katioomai",
+      "note": "\"Are corroded\" (5:3). The word appears only here."
+    },
+    {
+      "id": "ios",
+      "note": "\"Their corrosion\" (5:3)."
+    },
+    {
+      "id": "martyrion",
+      "note": "\"Will be for a testimony against you\" (5:3)."
+    },
+    {
+      "id": "sarx",
+      "note": "\"And will eat your flesh like fire\" (5:3)."
+    },
+    {
+      "id": "thesaurizo",
+      "note": "\"You have laid up your treasure\" (5:3)."
+    },
+    {
+      "id": "eschatos",
+      "note": "\"In the last days\" (5:3)."
+    },
+    {
+      "id": "misthos",
+      "note": "\"The wages of the laborers\" (5:4)."
+    },
+    {
+      "id": "ergates",
+      "note": "\"Of the laborers\" (5:4)."
+    },
+    {
+      "id": "amao",
+      "note": "\"Who mowed your fields\" (5:4). The word appears only here."
+    },
+    {
+      "id": "chora",
+      "note": "\"Your fields\" (5:4)."
+    },
+    {
+      "id": "krazo",
+      "note": "\"Cry out\" (5:4)."
+    },
+    {
+      "id": "boe",
+      "note": "\"And the cries of those who reaped\" (5:4). The word appears only here."
+    },
+    {
+      "id": "ous",
+      "note": "\"Have entered into the ears of the Lord\" (5:4)."
+    },
+    {
+      "id": "sabaoth",
+      "note": "\"Of the Lord of Armies\" (5:4). The Greek keeps the Hebrew \"Sabaoth.\""
+    },
+    {
+      "id": "tryphao",
+      "note": "\"You have lived in luxury\" (5:5). The word appears only here."
+    },
+    {
+      "id": "spatalao",
+      "note": "\"And taken your pleasure\" (5:5)."
+    },
+    {
+      "id": "trepho",
+      "note": "\"You have nourished your hearts\" (5:5)."
+    },
+    {
+      "id": "sphage",
+      "note": "\"As in a day of slaughter\" (5:5)."
+    },
+    {
+      "id": "katadikazo",
+      "note": "\"You have condemned\" (5:6)."
+    },
+    {
+      "id": "phoneuo",
+      "note": "\"And you have murdered the righteous one\" (5:6)."
+    },
+    {
+      "id": "dikaios",
+      "note": "\"The righteous one\" (5:6) and \"a righteous person\" (5:16)."
+    },
+    {
+      "id": "makrothymeo",
+      "note": "\"Be patient therefore\" (5:7-8)."
+    },
+    {
+      "id": "parousia",
+      "note": "\"Until the coming of the Lord\" (5:7-8)."
+    },
+    {
+      "id": "georgos",
+      "note": "\"The farmer waits\" (5:7)."
+    },
+    {
+      "id": "ekdechomai",
+      "note": "\"Waits for the precious fruit\" (5:7)."
+    },
+    {
+      "id": "timios",
+      "note": "\"The precious fruit\" (5:7)."
+    },
+    {
+      "id": "karpos",
+      "note": "\"Of the earth\" (5:7)."
+    },
+    {
+      "id": "proimos",
+      "note": "\"The early... rain\" (5:7). The word appears only here."
+    },
+    {
+      "id": "opsimos",
+      "note": "\"And late rain\" (5:7). The word appears only here."
+    },
+    {
+      "id": "sterizo",
+      "note": "\"Establish your hearts\" (5:8)."
+    },
+    {
+      "id": "eggizo",
+      "note": "\"Is at hand\" (5:8)."
+    },
+    {
+      "id": "stenazo",
+      "note": "\"Don't grumble\" (5:9)."
+    },
+    {
+      "id": "krites",
+      "note": "\"Behold, the judge stands at the door\" (5:9)."
+    },
+    {
+      "id": "thyra",
+      "note": "\"At the door\" (5:9)."
+    },
+    {
+      "id": "kakopatheia",
+      "note": "\"For an example of suffering\" (5:10). The word appears only here."
+    },
+    {
+      "id": "makrothymia",
+      "note": "\"And of perseverance\" (5:10)."
+    },
+    {
+      "id": "prophetes",
+      "note": "\"The prophets who spoke in the name of the Lord\" (5:10)."
+    },
+    {
+      "id": "makarizo",
+      "note": "\"We call them blessed\" (5:11)."
+    },
+    {
+      "id": "hypomeno",
+      "note": "\"Who endured\" (5:11)."
+    },
+    {
+      "id": "hypomone",
+      "note": "\"The perseverance of Job\" (5:11)."
+    },
+    {
+      "id": "polysplanchnos",
+      "note": "\"Full of compassion\" (5:11). The word appears only here."
+    },
+    {
+      "id": "oiktirmon",
+      "note": "\"And mercy\" (5:11)."
+    },
+    {
+      "id": "omnymi",
+      "note": "\"Don't swear\" (5:12)."
+    },
+    {
+      "id": "kakopatheo",
+      "note": "\"Is any among you suffering?\" (5:13)."
+    },
+    {
+      "id": "proseuchomai",
+      "note": "\"Let him pray\" (5:13-14, 5:16-18)."
+    },
+    {
+      "id": "euthymeo",
+      "note": "\"Is any cheerful?\" (5:13)."
+    },
+    {
+      "id": "psallo",
+      "note": "\"Let him sing praises\" (5:13)."
+    },
+    {
+      "id": "astheneo",
+      "note": "\"Is any among you sick?\" (5:14)."
+    },
+    {
+      "id": "presbyteros",
+      "note": "\"The elders of the assembly\" (5:14)."
+    },
+    {
+      "id": "ekklesia",
+      "note": "\"Of the assembly\" (5:14)."
+    },
+    {
+      "id": "proskaleomai",
+      "note": "\"Let him call\" (5:14)."
+    },
+    {
+      "id": "aleipho",
+      "note": "\"Anointing him with oil\" (5:14)."
+    },
+    {
+      "id": "elaion",
+      "note": "\"With oil\" (5:14)."
+    },
+    {
+      "id": "euche",
+      "note": "\"The prayer of faith\" (5:15)."
+    },
+    {
+      "id": "kamno",
+      "note": "\"Will heal him who is sick\" (5:15)."
+    },
+    {
+      "id": "egeiro",
+      "note": "\"And the Lord will raise him up\" (5:15)."
+    },
+    {
+      "id": "aphiemi",
+      "note": "\"He will be forgiven\" (5:15)."
+    },
+    {
+      "id": "exomologeo",
+      "note": "\"Confess your offenses to one another\" (5:16)."
+    },
+    {
+      "id": "iaomai",
+      "note": "\"That you may be healed\" (5:16)."
+    },
+    {
+      "id": "deesis",
+      "note": "\"The insistent prayer\" (5:16)."
+    },
+    {
+      "id": "energeo",
+      "note": "\"Powerfully effective\" (5:16)."
+    },
+    {
+      "id": "ischyo",
+      "note": "\"Powerfully effective\" (5:16)."
+    },
+    {
+      "id": "homoiopathes",
+      "note": "\"A man with a nature like ours\" (5:17)."
+    },
+    {
+      "id": "brecho",
+      "note": "\"That it might not rain\" (5:17-18)."
+    },
+    {
+      "id": "ouranos",
+      "note": "\"And the sky gave rain\" (5:18)."
+    },
+    {
+      "id": "ge",
+      "note": "\"On the earth\" (5:17) and \"the earth produced its fruit\" (5:18)."
+    },
+    {
+      "id": "planao",
+      "note": "\"If any among you wanders from the truth\" (5:19-20)."
+    },
+    {
+      "id": "aletheia",
+      "note": "\"From the truth\" (5:19)."
+    },
+    {
+      "id": "epistrepho",
+      "note": "\"And someone turns him back\" (5:19-20)."
+    },
+    {
+      "id": "hamartolos",
+      "note": "\"A sinner from the error of his way\" (5:20)."
+    },
+    {
+      "id": "psyche",
+      "note": "\"Will save a soul from death\" (5:20)."
+    },
+    {
+      "id": "thanatos",
+      "note": "\"From death\" (5:20)."
+    },
+    {
+      "id": "kalypto",
+      "note": "\"And will cover a multitude of sins\" (5:20)."
+    },
+    {
+      "id": "plethos",
+      "note": "\"A multitude of sins\" (5:20)."
+    },
+    {
+      "id": "hamartia",
+      "note": "\"A multitude of sins\" (5:20)."
+    }
+  ],
+  "crossRefs": [
+    {
+      "ref": "Deuteronomy 24:14-15",
+      "note": "you shall give him his hire on his day... lest he cry against you to Yahweh"
+    },
+    {
+      "ref": "1 Kings 17:1",
+      "note": "as Yahweh, the God of Israel, lives... there shall not be dew nor rain these years"
+    },
+    {
+      "ref": "Matthew 5:33-37",
+      "note": "let your speech be 'Yes, yes,' 'No, no'"
+    },
+    {
+      "ref": "Luke 4:25",
+      "note": "when the sky was shut up three years and six months"
+    }
+  ],
+  "number": 5,
+  "review": {
+    "status": "needs-review",
+    "note": "Hand-written first draft from general knowledge. Check against commentaries and a lexicon."
+  }
+}

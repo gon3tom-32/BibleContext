@@ -14,6 +14,38 @@
       "text": "\"Luke 16:25\" (listed under kakos): STEPBible tags the same word there as G2556H, a different sense (\"evil/harm\"). Fine to keep if the note says so."
     },
     {
+      "area": "words",
+      "text": "\"Matthew 3:10\" (listed under ballo): STEPBible tags the same word there as G0906G, a different sense (\"to throw\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Luke 3:9\" (listed under ballo): STEPBible tags the same word there as G0906G, a different sense (\"to throw\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Romans 14:1\" (listed under astheneo): STEPBible tags the same word there as G0770G, a different sense (\"be weak\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"2 Corinthians 12:10\" (listed under astheneo): STEPBible tags the same word there as G0770G, a different sense (\"be weak\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Revelation 2:3\" (listed under kamno): STEPBible tags the same word there as G2577G, a different sense (\"be weary/sick\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "words",
+      "text": "\"Matthew 2:20\" (listed under ge): STEPBible tags the same word there as G1093H, a different sense (\"earth\"). Fine to keep if the note says so."
+    },
+    {
+      "area": "cross-references",
+      "text": "James 2: our \"Galatians 2:16\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
+      "area": "cross-references",
+      "text": "James 4: our \"Hosea 2:2-5\" isn't linked from this chapter in OpenBible's data. Keep it only if we can justify it."
+    },
+    {
       "area": "interpretation",
       "text": "Authorship, dating, audience, historical setting, cultural notes, map stops, the timeline, and chapter summaries come from no dataset. They're marked needs-review."
     },
@@ -39,7 +71,7 @@
     },
     {
       "area": "chapters",
-      "text": "Only chapter 1 is written so far; chapters 2 to 5 still need a hand-written context draft."
+      "text": "All chapters need a hand-written context draft."
     }
   ]
 }
